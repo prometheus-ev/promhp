@@ -1,0 +1,30 @@
+---
+layout: default
+title: Beschreibungs-Coach
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=281&L=0&skin=0&tx_ttnews[tt_news]=33&tx_ttnews[backPid]=64&cHash=d11273afc6
+---
+h4. <%= @page.title %>
+
+09.03.07
+
+| !<%=r 'files/images/5256d3576f.jpg' %>! | !<%=r 'files/images/c11b1208a8.jpg' %>! |
+
+*Konzept*
+Das vorliegende Konzept zum Beschreibungs-Coach bezieht sich auf zwei Beschreibungsseminare, die an der Justus-Liebig-Universität Gießen stattgefunden haben und auf den Themenraum ALTENSTADT.
+
+
+*Zielgruppe:* Studierende im Grundstudium
+*Technische Voraussetzungen:* Internet-Browser mit Flash-PlugIn
+*Medien:* Audio, Bild, Text
+*Lehrmethode:* fallbasiertes Lernen
+
+
+Link:
+
+".../lernelemente/beschreibungscoach/index.html":http://prometheus-web.uni-koeln.de/web/lernelemente/beschreibungscoach/index.html
+
+
+Von: prometheus e.V.
+
+
+"zurück zu: Methoden-Coach ":<%=r 'tools-and-hints/teaching-and-learning/study-modules-method-coach' %>

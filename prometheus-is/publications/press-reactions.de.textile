@@ -1,0 +1,67 @@
+---
+layout: default
+title: Pressereaktionen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=302&no_cache=1&L=0&skin=
+---
+h4. <%= @page.title %>
+
+prometheus wird drei Jahre alt. Das größte internetbasierte Bildarchiv. Interview mit Projektkoordinatorin Dr. Ute Verstegen Deutschlandfunk: 18.3.2004 "http://www.dradio.de/dlf/sendungen/campus/248763/":http://www.dradio.de/dlf/sendungen/campus/248763/ [72]
+
+prometheus wird drei Jahre alt. Interview mit Projektleiter Dr. Holger Simon. Kölncampus: 19.3.2004 "http://prometheus-web.uni-koeln.de/web/Koelncampus.mp3":http://prometheus-web.uni-koeln.de/web/Koelncampus.mp3 [73]
+
+Rexrodt, Anne
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre Portal Kunstgeschichte, 3.4.2003 "http://www.portalkunstgeschichte.de/forschung_lehre/projekte/7.php":http://www.portalkunstgeschichte.de/forschung_lehre/projekte/7.php [69]
+
+Virtueller Museumsbesuch "ein durchschlagender Erfolg". Archäologen und Kunsthistoriker der JLU sind an Aufbau von digitalem Bildarchiv beteiligt Giessener Anzeiger: 3.12.2003, S. 31. [70]
+
+Von antiker Skulptur bis zum Gemälde. Für Archäologen und Kunsthistoriker an der JLU ist Dia-Suche Vergangenheit Giessener Allgemeine: 5.12.2003 [71]
+
+Frings, Marcus
+prometheus - Workshop und Symposium »Das gemeinsame Auge: Kooperative visuelle Forschung«, Köln, Universität, 13.-15.9.2001 Kunstchronik, 55. Jg., H. 2, Februar 2002, S. 74f. [62]
+
+Lozano, Jorge Sebastián
+Imágenes digitales para la enseñanza de historia del arte: ejemplos, modelos, propuestas« (Publikation eines Vortrags, gehalten auf dem Kongress »CULTURTEC2002« an der Universidad Complutense de Madrid, 23.05.2002 "http://www.uv.es/gdha/publica/culturtec2002":http://www.uv.es/gdha/publica/culturtec2002 [63]
+
+Ein Lehrbeispiel für die Kunsthistoriker. Gotteshaus per Mausklick aus verschiedenen Perspektiven Schongauer Nachrichten, 11.6.2002 [64]
+
+Lackner, Thomas
+Logistik statt Inhalt. Zu aktuellen Konzepten der Wissensorganisation in der digitalen Kunstgeschichte Kritische Berichte. Zeitschrift für Kunst- und Kulturwissenschaften, H. 1, 2002. "http://www.kunstgeschichte.de/kgs/publikationen/km1.html":http://www.kunstgeschichte.de/kgs/publikationen/km1.html [65]
+
+Klaus Fieberg
+Geschichte im Internet. Webtipp Praxis Geschichte, H. 2, 2002, S. 54 [66]
+
+Katja Kwastek
+"IT-Service für Geisteswissenschaftler" Projektgruppe an der Ludwig-Maximilian- Universität in München, Radio-Interview Deutschlandfunk mit Katja Kwastek Campus & Karriere 29.7.2002 [67]
+
+Schomacher, Georg
+Wie viel Kultur (und Geschichte) gehen durch den Draht? Nachrichtendienst für Historiker, 17.10.2002 "http://www.nfhdata.de/premium/newsboard2/dcboard.php?az=show_mesg&forum=109&topic_id=6&mesg_id=6&page=":http://www.nfhdata.de/premium/newsboard2/dcboard.php?az=show_mesg&forum=109&topic_id=6&mesg_id=6&page= [68]
+
+Kunstgeschichte raubt das Feuer der Neuen Medien. Berliner Zeitung, 25.1.2001 [49]
+
+Lehr- und Lernmedien in Kunstgeschichte und Archäologie.[Kurzmeldung] Kölner Stadtanzeiger, 14.2.2001. WWP/dfd,14.2.2001 [50]
+
+Kipphoff, Petra
+Der schönste Beruf der Welt. Kunsthistoriker heute - arbeitslos im stillen Winkel oder bildmächtig an der medialen Front? Die Zeit Nr. 13, 22.3.2001, S. 53. [51]
+
+Internet-Projekt zu Kunstgeschichte 20 Minuten Köln, 12.3.2001 [52]
+
+3,2 Millionen Mark für prometheus. Neue Medien an der Uni - Digitales Bildarchiv Kölnische Rundschau, 18.4.2001 [53]
+
+Bildarchiv für Kunst- und Designgeschichte VDI-Nachrichten, Nr. 17, 27.4.2001 [54]
+
+Michel, Kai
+Nie wieder Dias schieben? Die Kunstgeschichte wendet sich vorsichtig dem Internet zu Berliner Zeitung, Nr. 120, 25.5.2001 [55]
+
+Ein digitales Bildarchiv für Forschung und Lehre. Kunstgeschichte und Klassische Archäologie der JLU sind Gründungsmitglieder des Verbundprojekts prometheus Gießener Anzeiger, 23.5.2001, S. 28 [56]
+
+Kipphoff, Petra
+Tremolo der Innovation. Die Bundeskulturstiftung will junge Kunst fördern. Warum? Die Zeit, Nr. 24, 7.6.2001 [57]
+
+prometheus - Das digitale Bildarchiv für Forschung und Lehre. Professuren für Kunstgeschichte und Klassische Archäologie im Verbund engagiert - Förderung mit 3,2 Millionen DM UNI-Forum der JLU, 14. Jg., 27.6.2001 [58]
+
+Das gemeinsame Auge: Kooperative visuelle Forschung Portal Kunstgeschichte, 3.7.2001 [59]
+
+Gundermann, Simone
+prometheus aus der Taufe gehoben Portal Kunstgeschichte, 13.9.2001 [60]
+
+prometheus verknüpft die Bibliotheksdaten. Ein technisch faszinierend angelegtes Projekt bei den EDV-Tagen in Schloss Theuern vorgestellt - Programm als Übersetzer Amberger Zeitung Nr. 223, 27.9.2001 [61] 

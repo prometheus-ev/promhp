@@ -1,0 +1,18 @@
+---
+layout: default
+title: Aufbau und Integration von digitalen Bildressourcen und E-Learning-Komponenten in interdisziplinären Lehrveranstaltungen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=321
+---
+h4. <%= @page.title %>
+
+
+
+Fachbereich Geschichts- und Kulturwissenschaften der Justus-Liebig-Universität Giessen ("www.uni-giessen.de/cms/fbz/fb04":http://www.uni-giessen.de/cms/fbz/fb04)
+
+*Projektlaufzeit:* 01.10.2003 - 31.10.2004
+
+
+Zusammen mit prometheus erprobte das Projekt die Integration der Neuen Medien in die Präsenzlehre der Kunstwissenschaften und ihrer benachbarten Fächer. Gleichzeitig eröffnete die interdisziplinäre Durchführung von Lehrveranstaltungen einen neuen Diskurs zum Bild als Kunstobjekt und als kulturelle und historische Quelle. Begleitend fanden workshops für Lehrende und Hilfskräfte zum technischen Umgang mit digitalen Bildern, zur digitalen Kommunikation und zur mediengerechten Aufbereitung von Lerninhalten statt. Für die Studierende wurden Schulungen zur Nutzung des prometheus-Bildarchivs und der Lernplattform ILIAS sowie der Erstellung digitaler Bildpräsentationen angeboten. Über das Projektende hinaus wird die Lernplattform im Unterricht eingesetzt, und in den beteiligten Fächern sind neue eLearning-Projekte entstanden.
+
+
+"www.uni-giessen.de/archaeologie/public/foefo/foefo01.html":http://www.uni-giessen.de/archaeologie/public/foefo/foefo01.html

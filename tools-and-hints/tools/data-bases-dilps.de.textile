@@ -1,0 +1,33 @@
+---
+layout: default
+title: DILPS -- Distributed Image Library Processing System
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&tx_ttnews[tt_news]=27&tx_ttnews[backPid]=57&cHash=85ec2421a2
+---
+h4. <%= @page.title %>
+
+
+09.03.07
+
+
+!<%=r 'files/images/64cd63e389.jpg' %>!
+
+*»DILPS« ist ein Bilddatenbanksystem zur Verwaltung und Recherche digitaler Bilder.*
+DILPS (Distributed Image Library Processing System) ist eine gemeinsame Entwicklung des Kunstgeschichtlichen Instituts der Universität Frankfurt, der Hochschule für Gestaltung und Kunst, Zürich (HGKZ) und der Staatlichen Hochschule für Gestaltung Karlsruhe. Die Software unterliegt der GNU Public License.
+
+Auf den Einsatz kommerzieller Software wurde vollständig verzichtet, um zu gewährleisten, daß das System ohne Lizenzkosten weitergegeben werden kann. Der Zugriff auf »DILPS« erfolgt ausschließlich über eine Web-Oberfläche mit üblichen Webbrowsern (Internet-Explorer, Netscape Navigator, Mozilla, Opera, Konquerer, …). Die Daten werden in relationalen Tabellen in MySQL gespeichert und via XML in andere Systeme exportiert. Um zu gewährleisten, daß die Daten auch auf andere Systeme migriert werden können, wird eine Exportfunktion angeboten, die die Erstellung von DVDs mit Bildern und Metadaten ermöglicht. Großer Wert wird bei der Entwicklung auf die Einbindung verschiedener Archive gelegt, um die Erweiterbarkeit und Zusammenfassbarkeit von lokalen und externen Archiven zu gewährleisten.
+
+* Welche Systemanforderungen werden an den Client-Rechner gestellt?
+»DILPS« erfordert keine spezielle Clientsoftware. Die Integration des Bildmaterials (Dateien auf den Server laden) und die Eingabe der Metadaten erfolgt direkt am Arbeitsplatz über einen beliebigen Web-Browser auf Rechnern mit Windows-, MacOS-, oder Linux-Betriebssystem.
+
+* Was für Applikationen müssen auf dem Server laufen?
+Apache, mind. Version 1.3 MySQL, mind. Version 4.0 PHP, mind. Version 4.3 (inkl. des calendar-Moduls) ImageMagick.org, mind. Version 6.1
+
+* Wie erhalte ich die »DILPS«-Software?
+»DILPS« wird demnächst in einer komprimierten Datei zum Download angeboten werden. Eine erste Zugriffsmöglichkeit gibt es hier: "berliOS - Der Open-Source-Mediator":http://developer.berlios.de/projects/dilps
+
+* Kontakt: "info[at]dilps.net":mailto:info@dilps.net
+
+* "www.dilps.net":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/Hauptseite
+
+Von: Jürgen Enge
+zurück zu: Datenbanken

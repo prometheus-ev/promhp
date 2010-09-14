@@ -1,0 +1,62 @@
+---
+layout: default
+title: Metadaten - Inhalte
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=80&L=0&skin=0
+---
+h4. <%= @page.title %>
+
+Datenbanken, die in prometheus eingebunden sind bzw. werden, sollten folgende Metadatenkonventionen einhalten. Gemäß der Maxime von prometheus, ein breites Spektrum von Metadaten zu unterstützen, ist nur ein sehr begrenzter Bereich von Informationen obligatorisch für die Einbindung.
+
+
+Die Erfassung und der Export einiger weiterer Informationen zu Objekten sind zu empfehlen, die direkt über die Detailsuche von prometheus recherchierbar sind und ein adäquates Auffinden kulturwissenschaftlich relevanter Objekte in einer Datenbank ermöglichen (s. Fakultative Metadaten).
+Darüber hinaus sollten natürlich so viele Daten wie möglich zu einem Objekt aus der Datenbank in prometheus integriert werden.
+
+So kann prometheus beliebige weitere Informationen zu den Objekten verarbeiten und sie für die Volltextsuche indexieren. Zusammen mit der ersten Zoomstufe eines Bildes werden immer grundsätzlich alle Daten angezeigt, die zum Bild in prometheus vorliegen.
+
+
+h5. Obligatorische Metadaten ("Muss-Felder")
+
+Datenbanken, die in prometheus integriert sind, müssen zu jedem Bild mindestens folgende Informationen bereithalten:
+
+*Titel*
+Eine vom Hersteller vorgegebene, allgemein anerkannte oder beschreibende Bezeichnung, die zur Identifizierung des Objekts dient.
+
+*Abbildungsnachweis*
+Quelle eines Bildes. Hier muss vor allem bei Scans die jeweilige Quelle, z.B. als Literaturhinweis mit Verfasser, Titel, Ort, Jahr und Seite, genannt werden
+
+*Urheberrechtsvermerk*
+Ist der Urheber eines Bildes (z.B. der Fotograf) bekannt, so muss er hier genannt werden. Ist er nicht ohne größeren Aufwand zu eruieren (z.B. bei Scans aus Buchvorlagen), sollten zumindest Verlag, Institution oder Verwertungsgesellschaft genannt werden. Bei (instituts-)eigenen Dias als Vorlage oder nicht mehr nachvollziehbaren Urheberrechtsverhältnissen ist in der Regel die jeweilige Institution bzw. der Aufbewahrungsort der Vorlagen anzugeben
+
+*Bildidentifikationsvermerk*
+Der eindeutige Identifikationsvermerk eines Bildes, auf das sich die angegebenen Metadaten beziehen. In der Regel sind hier eindeutige Dateinamen (oder Namenteile) oder Pfade anzugeben (z.B. "image_123.jpg", "123" "archiv/image_123")
+
+
+h5. Fakultative Metadaten ("Soll-Felder")
+
+Folgende Felder sollten ebenfalls enthalten sein, sind aber für die Zusammenarbeit mit prometheus nicht zwingend erforderlich:
+
+*KünstlerIn*
+Name, Vorname (und weitere Namen) des Herstellers bzw. der Hersteller eines Objekts. Die Angabe der Namen sollte in der angegebenen Reihenfolge durch Komma getrennt oder in getrennten Feldern erfolgen. Mehrere Personen können durch Semikolon getrennt oder ebenfalls in getrennten Feldern angegeben werden.
+
+*Standort*
+Bezeichnet den jetzigen Standort eines Objekts und besteht aus den drei Einheiten Stadt, Institution (Museum, Kirche, Gebäude u.ä.) und ggf. Inventarnummer. Diese drei Faktoren werden entweder in drei Feldern oder in einem Feld durch ein eindeutiges Zeichen (z. B. Komma) getrennt angegeben. Angaben wie z.B. "verschollen" sind ebenfalls in diesem Feld festzuhalten.
+
+*Herkunftsort*
+Ursprünglicher Standort, Herstellungsort oder Fundort eines Objekts. Die Angaben sollten analog zum "Standort" (s. o.) strukturiert sein.
+
+*Datierung*
+Zeitliche Bestimmung des Herstellungszeitraums des Objekts. Günstig ist die Angabe einer Zahl oder zweier durch "-" getrennte Jahreszahlen, die als Zeitintervall verstanden werden. Textuelle Eingaben (z. B. Anfang 18. Jh.) sollten von der jeweiligen Datenbank in numerische Angaben übersetzt werden.
+
+*Material*
+Materialien, aus denen das Objekt hergestellt ist. Hier kann auch die "Technik" nach kulturhistorischen Konventionen angegeben werden (z. B. "Öl auf Leinwand").
+
+*Gattung*
+Bezeichnung für die "Gattung" eines Objekts. Gattungsbezeichnungen können durch einen oder mehrere voneinander getrennte Begriffe spezifiziert werden (z. B. "Skulptur", "Architektur", "Malerei", "Zeichnung" oder "Zeichnung/Grundriss; Architektur/Grundriss"; "Skulptur/Kapitell").
+
+
+h5. Optionale Metadaten ("Kann-Felder")
+
+Zu jedem Objekt können beliebige weitere Metadaten zu einem Objekt eingebunden werden, die nicht in die Bereich "obligatorisch" und "fakultativ" fallen. Optionale Metadaten werden im Volltextindex erfasst. Sie können über die Volltextsuche recherchiert und mit der ersten Vergrößerung angezeigt werden.
+
+*z.B. Beschreibung*
+(Kurz-)Beschreibung des Objekts im Fließtext

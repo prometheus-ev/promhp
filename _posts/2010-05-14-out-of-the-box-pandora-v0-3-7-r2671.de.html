@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Out of the box: pandora v0.3.7 (r2671)"
+---
+
+English summary <a href="#english-1273838082">below</a>.
+
+52 Tage und <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=05%2F14%2F10&daysback=51">164 Änderungen</a> seit dem letzten Update... Dann wollen wir mal wieder, oder? Jupp.<br />
+Auch dieses Mal sind nicht all zu viele Neuerungen dabei, die von unseren BenutzerInnen wahrgenommen werden. Deshalb fällt die Liste der wichtigsten Änderungen auch recht kurz aus. Aber macht ja nichts, wenn Sie weniger im Blog lesen müssen, haben Sie schließlich mehr Zeit Bilder zu recherchieren.
+
+<ul>
+  <li><strong>Rückmeldung bei ungültigen Emailadressen.</strong><br />
+  Ein sehr häufig auftretendes Problem war es bisher, wenn die Email zur Verifizierung der eigenen Emailadresse nicht das gewünschte Ziel erreichte. Bei einem Tippfehler lässt sich das Problem ja noch leicht finden und korrigieren, aber bei einem überfüllten Postfach oder einem vorübergehenden Fehler beim Email-Provider ist das schon ganz anders. <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a> gibt nun Rückmeldung über aufgetretene Probleme, wenn dies möglich ist. Wir hoffen, dass es so zu weniger Problemen bei der Anmeldung im Archiv kommt.</li>
+  <li><strong>API und OAuth</strong><br />
+  pandora bietet nun eine Schnittstelle nach außen, die es ermöglichen soll, einfacher Software zu entwickeln, die dann mit dem prometheus-Bildarchiv zusammenarbeiten kann. Dies fand in erster Linie im Rahmen des Projekts <a href="http://www.leuphana.de/meta-image/">Meta-Image</a> statt, ist jedoch keineswegs darauf beschränkt. Eine Beschreibung der Schnittstelle im <a href="http://de.wikipedia.org/wiki/WADL">WADL</a>-Format <a href="http://prometheus.uni-koeln.de/pandora/pandora.wadl">steht auch zur Verfügung</a>.<br />
+  Eine sichere Möglichkeit zur Authentifizierung, ohne dass NutzerInnen ihre Zugangsdaten an Dritte preisgeben müssen, stellen wir über das <a href="http://de.wikipedia.org/wiki/OAuth">OAuth-Verfahren</a> bereit.</li>
+  <li>Natürlich auch dieses Mal wieder: <strong>kleine Verbesserungen und behobene Fehler.</strong><br />
+  Darunter ein Problem mit bestimmten Zeichen in Suchanfragen. Eine Suche nach dem Titel "Karte: Arabien" (der ":" und andere Zeichen machten Schwierigkeiten) ergab zum Bespiel fälschlicherweise gar keine Ergebnisse. Jetzt funktioniert es richtig.<br />
+  Auch können sich Benutzerinnen durch versehentliches Abschicken des Lizenz-Formulars nicht mehr aussperren.</li>
+</ul>
+
+Wir wünschen weiterhin viel Spaß mit dem Bildarchiv und freuen uns wie immer über <a href="<%= @site.pandora_url %>/feedback">Ihr Feedback</a>.
+
+<a name="english-1273838082"></a><strong>English summary</strong><br />
+52 days and <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=05%2F14%2F10&daysback=51">164 changes</a> later... It is time for a new update, isn't it? Okay, here we go.<br />
+We have a short list of changes again, because just a few changes will affect our users directly. Anyway, less reading this blog is more searching the archive.
+
+<ul>
+<li><strong>Feedback in cases of invalid e-mail addresses.</strong><br />
+  <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a> now gives feedback when a verification e-mail could not be delivered. We hope to prevent the problem of being not able to verify an e-mail address because of a full inbox or a typo and not noticing it.</li>
+  <li><strong>API and OAuth</strong><br />
+  Now pandora has an interface which allows others to develop software to work with the prometheus image archive. A description of the interface in <a href="http://en.wikipedia.org/wiki/Web_Application_Description_Language">WADL</a> format is <a href="http://prometheus.uni-koeln.de/pandora/pandora.wadl">also available</a>.<br />
+  With <a href="http://en.wikipedia.org/wiki/OAuth">OAuth</a> we provide a secure way to authenticate without giving away login data to another party.</li>
+  <li><strong>Fixes and minor improvements</strong><br />
+  Like in every update we have a lot of fixes an improvements. For instance a bug which broke searches with special characters like ":". And it is not possible to lock yourself out by accidentally sending the license form.</li>

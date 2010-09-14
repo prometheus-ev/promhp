@@ -1,0 +1,17 @@
+---
+layout: default
+title: Publications
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=10&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+"Scientific articles":<%=r 'prometheus-is/publications/scientific-articles' %>
+
+
+"Press releases":<%=r 'prometheus-is/publications/press-releases' %>
+
+
+"Press reactions":<%=r 'prometheus-is/publications/press-reactions' %>
+
+
+"Theses":<%=r 'prometheus-is/publications/theses' %>

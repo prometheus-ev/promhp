@@ -1,0 +1,43 @@
+---
+layout: default
+title: Projekte und Projektbeteiligungen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=319
+---
+h4. <%= @page.title %>
+
+*Meta-Image: Aufbau einer verteilten, virtuellen Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte*
+prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln
+Computer- und Medienservice, Humboldt-Universität zu Berlin
+Rechen- und Medienzentrum, Leuphana Universität Lüneburg
+01.12.2009 – 30.11.2011
+"→ Projektbeschreibung":<%=r 'projects/meta-image' %>
+
+*Das digitale Historische Archiv Köln*
+prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln
+Abteilung für Rheinische Landesgeschichte, Institut für Geschichtswissenschaft der Universität Bonn
+seit März 2009
+"→ Projektbeschreibung":<%=r 'projects/digital-historical-archive' %>
+
+*Automatische Erschließung des digitalen Bildarchivs*
+*prometheus*
+Kunsthistorisches Institut, Universität zu Köln
+Institut für Informationswissenschaft, Fachhochschule Köln
+02.04.2007 – 31.03.2009
+"→ Projektbeschreibung":<%=r 'projects/automatic-indexing' %>
+
+*HyperImage – Bildorientierte e-Science-Netzwerke*
+Humboldt-Universität zu Berlin
+Universität Lüneburg
+zweitwerk - software engineering GmbH
+01.06.2006 – 31.05.2009
+"→ Projektbeschreibung":<%=r 'projects/hyper-image' %>
+
+*Aufbau und Integration von digitalen Bildressourcen und E-Learning-Komponenten in interdisziplinären Lehrveranstaltungen*
+Fachbereich Geschichts- und Kulturwissenschaften der Justus-Liebig-Universität Giessen
+01.10.2003 - 31.10.2004
+"→ Projektbeschreibung":<%=r 'projects/e-learning' %>
+
+*Notebook-Bibliothek. Digitale und analoge Medien in wissenschaftlichen Bibliotheken*
+Kunsthistorisches Institut der Universität zu Köln
+01.08.2002 - 15.07.2003
+"→ Projektbeschreibung":<%=r 'projects/notebook-library' %>

@@ -1,0 +1,33 @@
+---
+layout: default
+title: promDILPS
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=71&L=0&skin=0
+---
+h4. <%= @page.title %>
+
+*Haben Sie keine eigene Datenbank und möchten dennoch Ihre digitalen Bilder für alle Nutzerinnen und Nutzer von prometheus recherchierbar machen?*
+Haben Sie einen kleinen Bestand an digitalen Bilddateien, für die eine eigene Bilddatenbank ein zu hoher Aufwand wäre? Oder fehlt Ihnen das technische Knowhow zum Aufbau einer eigenen Bilddatenbank?
+
+
+
+
+| !<%=r 'files/images/a0a80639ef.jpg' %>!:<%=r 'files/images/f54408615b.jpg' %> | !<%=r 'files/images/62a1d35746.jpg' %>!:<%=r 'files/images/5c060fef62.jpg' %> | !<%=r 'files/images/8c239c26ae.jpg' %>!:<%=r 'files/images/3026bbea05.jpg' %> |
+| Suche | Editieren | Überblick |
+
+
+
+Neu: "DILPS-FAQ":http://wiki.dilps.net/index.php/DILPS-FAQ auf der DILPS-Dokumentations-Seite
+
+
+
+prometheus bietet seit 2006 die unentgeltliche Nutzung der Bilddatenbank promDILPS an, die auf der Bilddatenbanksystem "DILPS":<%=r 'tools-and-hints/tools/data-bases-dilps' %>  basiert. In promDILPS können Sie Ihre Bilder und Datensätze archivieren, ohne sich um einen Server und die Fallstricke der Serveradministration kümmern zu müssen. Alles was Sie in technischer Hinsicht brauchen, ist ein möglichst guter Scanner oder eine Digitalkamera!
+
+Sie greifen auf promDILPS genauso bequem zu, wie auf eine Website im Internet.
+
+
+
+Sprechen Sie uns an, wenn dieses Angebot für Sie attraktiv ist und Sie weitere Informationen wünschen!
+
+
+
+"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

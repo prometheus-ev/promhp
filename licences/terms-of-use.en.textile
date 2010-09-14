@@ -1,0 +1,72 @@
+---
+layout: default
+title: Terms of Use
+legacy_url: ttp://prometheus-bildarchiv.de/index.php?id=53&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+"terms_of_use_engl.pdf": NOCH KEIN AKTUELLER LINK VORHANDEN !!!
+
+*general terms*
+# prometheus is an internet-based service (www.prometheus-bildarchiv.de) for artistic and cultural research  including a free public and a fee-based licensed area. The service is presented by the Association of the same name in cooperation with the University of Cologne. prometheus charges users a license fee which is in turn used to make the service available. 
+# The prometheus image archive is a data broker which brings together heterogeneous and distributed image and media databases from a variety of sources. These databases are made available at no cost by public as well as private institutions for non-commercial research and teaching purposes. 
+# User license fees are for administration costs incurred by the University of Cologne in running and expanding the service, and are not based on copyright fees associated with the images themselves. 
+# The services provided by prometheus including all associated elements, are intended exclusively for the stipulated purposes.
+# All offers, deliveries, electronic transmissions and the granting of rights to use, transpire solely subject to change, and not exclusively under the following terms and conditions for business and delivery.
+# All software, results, services such as modules, study materials, etc., made available by prometheus, are protected by copyright. Image and media data files (available in the prometheus image archive as well as in the other offers) may also be protected by copyright. The images of works of art may be protected by additional copyright. The clarification of all possible copyright protections is the responsibility of the user.
+# Users receive a non-transferable right to use the service for a limited time period in order to carry out scientific and research activities. 
+# The user may not make any software or database search results available to third parties. 
+# prometheus reserves the right to make any changes whatsoever, without notice, to the service. prometheus is not responsible for any changes that the databases made available in the archive make to their services. 
+# prometheus does not guarantee the correctness, completeness or up-to-dateness of database material. This is the responsibility of the database owners. 
+
+*prometheus image archive: Access restrictions, liability, copyright arrangements and copyright holder fees*
+# The prometheus image archive is a service available on the internet via a server, and is accessible on the basis of single search requests on a read-only basis for non-commercial scientific and research purposes. The systematic saving of large amounts of database material, beyond that required for non-commercial purposes, is not permitted.
+# The image archive can be accessed via Campus login or a personal account. Access via Campus login is possible for user belonging to a licensed institution. As this access is not personalized, there are only limited functionalities. 
+# Users with personal accounts have the possibility to use the advanced functionalities (e.g. collections and presentations). 
+# prometheus archive images and media files are presented in a format optimal for monitors. They are intended only for research purposes and related presentations. Additional ways of utilization may be possible. They are specified for each image and each media file in the image archive under the heading “Rights” on a results page, if provided by the database supplier. 
+# prometheus provides both public domain and copyright-protected images. Users must adhere to all copyright laws as regards their further use of such images. 
+# Without permission from the image copyright-holder copyrigth-protected images and media files available in promtheus are only intended for scientific and research purpose. They have to be deleted afterwards without further demands. 
+# Written permission of the copyright-holder must be obtained prior to any publication of copyrighted images in print or other media. In individual cases, user rights can be obtained from the copyright holder directly by clicking on the “Rights” button on the results page of the image archive. Users must obtain written permission from image copyrigth-holder to print or wotherwise publish copyright-protected images. 
+# Users may not photograph, photo-compose, or otherwise alter copyright-protected images unless they have permission from the copyright holder. 
+# Users may not reproduce or electronically save copyright-protected images for their own databases, or make images available for third parties, unless they have permission from the copyright-holder. 
+# Users must comply with German Press Guidelines including the prevailing copy and usage rights and the protective rights applicable to the use of images. Users are solely responsible for any captions or text they add to an image obtained from the archive. 
+prometheus accepts no responsibility for legal breach of any kind arising from the unauthorized use of images or the use of images in new contexts. In case of any such legal breach, the user is the sole responsible party and shall be liable for any indirect, consequential, special, exemplary or incidental damages that might be claimed by third parties. 
+# prometheus provides regular updates concerning changes to databases accessible through the service, including removal of existing databases and the availability of new databases. 
+# Should non-adherence to the user’s legal obligations result in any third-party claims, the user is obligated to indemnify prometheus and hold prometheus harmless from any such claims. Furthermore, the user shall be obligated to pay a fine to prometheus amounting to 400 percent the standard third-party user fee. In addition, prometheus also reserves the right to lodge a claim against the user, e.g. in case of damage to its reputation. 
+
+*User fees, adjustments, due dates*
+# The user’s license fee for a personal account for prometheus costs 20 EUR for one year. 
+# The service is free for users who have a valid institutional membership of prometheus, or who are members of the prometheus Association. 
+# There is no VAT on the user’s license fee. prometheus as non-commercial project is exempt of VAT. 
+# The user license fee can be paid directly via an online payment service. Optionally the user can obtain an email invoice, which must be disbursed including administrative fee within thiry days of receipt. Decisive is the respective date of invoice. 
+# The license fee is used solely to cover prometheus’s operating costs. It is not connected to the site content, which is provided by the individual contributors free of charge. 
+# License holders can only make claims against prometheus, if they are undisputed or legally confirmed. The license holders are not entitled to lien rights against 
+prometheus. 
+# Underaged users need the permission of theier parents to purchase a single license. 
+
+*User account arrangements*
+# User accounts are time-limited. It is incumbent on allocating institutions to arrange the validity period of user accounts. 
+# Administrators must have a license with prometheus before than can distribute accounts to third parties. prometheus institutional user account holders may create personal prometheus accounts for staff and students of the institution. The institution is responsible for ensuring that they belong to the respective institution.
+# Personal account holders may not establish prometheus accounts for others. 
+# Accounts are not transferable. 
+
+*Warranty, liability*
+# Technical defects will be rectified by prometheus within the normal time-frame for maintenance service, after a notification is received from the license holder. Liability regardless of negligence or fault as per § 536 a BGB is excluded. 
+# User fees will be adjusted in favour of the user in the case of major server disturbances, but not for minor server down-time or maintenance work. If a disturbance continues for a month or more, both users and prometheus can cancel their contractual obligations with immediate effect and without notice. 
+# Irrespective of the legal cause of action, prometheus is liable for damages of no more than five times the user license fee, calculated on the amount of the fee in the year when the damage claim arises. Liability for loss of data is restricted to the typical time and effort needed which would have been required to secure daily backup copies of the data in question. The compensation limit does not apply in the case of deliberate acts or gross misconduct or if liability is assumed in the case of threat to life, bodily injury or injury to health or mandatory liability under product liability laws. 
+# prometheus takes no responsibility for direct or indirect damage arising from any information or connection to information presented on the website www.prometheus-bildarchiv.de 
+# prometheus takes no responsibility for the nature or content of any websites accessible via links from the website including the web application. 
+
+*Contract duration, cancellation*
+# Having obtained a single license, the personal account is limited to one year after activation. After lapse of time the account will expire automatically and be extended after the next payment. There is no cancellation necessary. 
+# prometheus has the right to cancel personal accounts without notice if users grossly fail to comply with the service’s terms of use, in particular payment conditions or copyright requirements associated with images obtained from the archive. 
+# An important reason for users to cancel their account without notice arises if a disturbance in the service cannot be rectified within one month. 
+# All cancellations must be in writing.  
+
+*Miscellaneous*
+# The place of the agreement and the place of jurisdiction for any claims arising from the agreement is Cologne, the location of the service provider. 
+# Unless otherwise indicated German law applies and in particular, German copyright law.
+
+P r o m e t h e u s terms of use
+Cologne, 10th August 2010
+"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

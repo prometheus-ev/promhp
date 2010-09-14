@@ -1,0 +1,24 @@
+---
+layout: default
+title: Beschreibung des Bildarchivs
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=73
+---
+h4. <%= @page.title %>
+
+*Welche Datenbanken sind in prometheus  eingebunden?*
+
+Das können Sie der "» Liste der Datenbanken":http://prometheus.uni-koeln.de/pandora/de/source/list entnehmen.
+
+Jede Datenbank wird in einem Kurzprofil beschrieben und die Kontaktdaten der Ansprechpartner werden genannt.
+
+
+*Eine einheitliche Suchoberfläche für uneinheitliche Datenbanken?*
+
+Wie die Suche in heterogenen Datenbanken d.h. in Datenbanken mit unterschiedlicher Datenstruktur, funktioniert, erläutert die kurze Beschreibung des "» technischen Systems":<%=r 'prometheus-is/in-general/description-of-the-technical-system' %>.
+
+
+*Open-Access-Datenbanken*
+
+Einige der bei prometheus eingebundenen Datenbanken sind öffentlich zugänglich und stehen allen Besuchern frei zur Verfügung. Sie stehen unter der creative-commons-Lizenz Namensnennung-KeineBearbeitung. Es existieren keine urheberrechtlichen Ansprüche Dritter. Auch außerhalb des Passwort-geschützten Bereichs kann in diesen Datenbanken einzeln recherchiert werden.
+
+"» zu den Open-Access-Datenbanken":http://prometheus.uni-koeln.de/pandora/open_access

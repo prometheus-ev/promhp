@@ -1,0 +1,5 @@
+---
+layout: default
+title: Norm data
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=56&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---

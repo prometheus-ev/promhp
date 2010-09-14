@@ -1,0 +1,31 @@
+---
+layout: default
+title: MitarbeiterInnen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=509
+---
+h4. <%= @page.title %>
+
+*Aktuell*
+Sebastian Beßler (Köln, Informatik)
+Lisa Dieckmann M.A. (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Informatik)
+Arne Eilermann (Köln, Informatik)
+Theresa Nisters (Köln, Geschäftsstelle)
+Sabine Scheele M.A. (Giessen, Webdesign)
+Silvia Stark M.A. (Köln, Geschäftsstelle)
+Katja Vierk (Köln, Geschäftsstelle)
+Dipl.-Bibl. Jens Wille (Köln, Informatik)
+
+
+*Ehemalige*
+Thomas Bodo Block (Köln, Informatik)
+Ben Burkhard (Köln, Informatik)
+Rebeca Ehses (Köln, Geschäftsstelle)
+Dr. Meta Friese (Köln, Geschäftsstelle)
+Georg Hohmann (Köln, Projektkoordination)
+Julia Iwanowa M.A. (Berlin, Informatik)
+Ansgar Lorenz (Köln, Geschäftsstelle)
+Gerd Mörsch M.A. (Köln, Geschäftsstelle)
+Dipl.-Bibl. Thomas Müller (Köln, Informatik)
+Dr. Jürgen Nemitz (Köln/Marburg, Informatik)
+Johanna Neumann (Köln, Informatik)
+Dipl. Des. Dirk Schuster (Dessau, Design)

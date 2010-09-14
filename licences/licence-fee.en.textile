@@ -1,0 +1,48 @@
+---
+layout: default
+title: License fee
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=55&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+*single license                                 20,-€ p.a.*
+
+» "Sign up":http://prometheus.uni-koeln.de/pandora/signup
+
+
+
+
+*License fees for academies (via the hbz)*
+campus license					4000,- €
+institution with up to 500 members		500,- €
+institution with up to 1000 members		1000,- €
+institution with more than 1000 members	1800,- €
+Discount for universities of applied sciences	50%
+
+
+
+Contact Campus Library Center NRW:
+
+Juelicher Straße 6, D-50674 Koeln, +49 221 400 75 - 223,
+"inhalte[at]hbz-nrw.de":mailto:inhalte@hbz-nrw.de
+
+
+
+
+*License fees for further institutions (via the prometheus-office)*
+schools and museums	200,- €
+institutionen up to 500 persons		900,- €
+Institutionen up to 1000 persons		1800,- €
+Institutionen up to 3000 persones		3400,- €
+Institutionen with more than 3000 persones	6000,-€
+
+
+
+Contact prometheus - office:
+
+An St. Laurebntius 4, D - 50931 Cologne
+
+phone: +49 (0) 221 470 4476
+
+fax: +49 (0) 221 470 5044
+"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

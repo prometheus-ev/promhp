@@ -1,0 +1,159 @@
+---
+layout: default
+title: Newsletter 2006/01
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=378
+---
+h4. <%= @page.title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V.*
+
+
+
+Liebe Abonnentin, lieber Abonnent,
+
+wir freuen uns mit dem ersten Newsletter in diesem Jahr unter anderem auf einige interessante Veranstaltungen hinweisen zu können. Besonders hervorzuheben ist die unmittelbar bevorstehende Tagung zum Verhältnis zwischen digitalen Medien und Wissenschaftskulturen, außerdem das auf rechtliche Fragen konzentrierte Symposium "Forschung und Lehre im Informationszeitalter". Letzteres wird sich natürlich auch mit der sehr beunruhigenden Entwicklung bei der Novellierung des Urheberrechts befassen. Auch hierüber halten wir Sie wie gewohnt auf dem Laufenden.
+
+Mit herzlichem Gruß,
+für prometheus e.V.,
+Sigrid Ruby
+
+
+*INHALT*
+
+1.) prometheus-Mitgliederversammlung und Tagung in Köln
+2.) Zwei neue Datenbanken eingebunden
+3.) Erweiterte Möglichkeit der Bildrecherche in prometheus
+4.) Projekt HyperImage in Berlin
+5.) Veranstaltungen in Leipzig und Köln
+6.) Urheberrechtsnovelle 2. Korb
+7.) prometheus - facts & figures
+8.) prometheus - Kontakt
+
+
+
+
+*1.) prometheus-Mitgliederversammlung und Tagung in Köln*
+
+Die prometheus-Mitgliederversammlung findet am Mittwoch, dem 29. März, von 11 bis 18 Uhr im Seminarraum des Kunsthistorischen Instituts der Universität zu Köln statt. Neben den Wahlen zum neuen Vorstand stehen vor allem Entscheidungen über technologische Weiterentwicklungen und die Internationalisierung an.
+
+Auf die MV folgt am Donnerstag, dem 30. März, die schon im letzten Newsletter angekündigte Tagung "Digitale Medien und Wissenschaftskulturen". Veranstalter sind das Internet-Portal historicum.net und prometheus e.V.
+
+Unter dem Eindruck der zunehmenden Bedeutung digitaler Medien in den Wissenschaften möchte die Tagung die aus dem Medieneinsatz resultierenden Wandlungsprozesse in den Geisteswissenschaften umreißen. In einem zweiten Schritt werden Probleme und Perspektiven der veränderten Wissenschafts- und Publikationskulturen diskutiert.
+
+Das Veranstaltungsprogramm und weitere Informationen finden Sie unter "www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de und "http://www.historicum.net/medientagung1.htm":http://www.historicum.net/medientagung1.htm
+
+
+
+*2.) Zwei neue Datenbanken eingebunden*
+
+In den vergangenen Monaten konnten zwei neue Institutsdatenbanken eingebunden werden.
+Das ist zum einen die mit DILPS aufgebaute Datenbank der Kunstgeschichte an der Universität Trier. Sie umfasst etwa 4.000 Bilder und hat Schwerpunkte in den Bereichen Neue Medien, Photographie, Gender und Post Colonial Studies.
+Ansprechpartner vor Ort ist Dr. Georg Schelbert ("schelbert[at]uni-trier.de":schelbert@uni-trier.de)
+
+Die zweite Datenbank nutzt die Software ImageAccess und kommt vom Institut für Kunstgeschichte der Universität Mainz. Sie bringt gegenwärtig über 7.300 neue Bilder in prometheus ein. Der Schwerpunkte liegt auf Sakral- und Profanarchitektur, vor allem in Frankreich und Deutschland.
+Ansprechpartner vor Ort ist Dr. Klaus T. Weber ("klweber[at]mail.uni-mainz.de":mailto:klweber[at]mail.uni-mainz.de).
+
+
+
+*3.) Erweiterte Möglichkeiten der Bildrecherche in prometheus*
+
+Prometheus bietet ab sofort erweiterte Trunkierungsmöglichkeiten an: Neben der bisherigen Rechtstrunkierung kann nunmehr alternativ auch vom Wortende her gesucht werden (Linkstrunkierung).
+
+So kann zum Beispiel mit der Eingabe "*kirche", die den Zugriff auf das Wortende "kirche" bzw. auf das Gesamtwort "Kirche" anordnet, jede in prometheus erfasste Dom-, Stifts- und Heiliggeistkirche gefunden werden. Eine rechts trunkierte Recherche, z.B. "kirche*", spürt "Kirchenfenster", "Kirchenbau", "Kirchentag" etc. auf.
+
+
+
+
+*4.) Projekt HyperImage in Berlin und Lüneburg*
+
+Prometheus hat als assoziierter Partner Anteil an HyperImage. Das Projekt, bei dem die Humboldt-Universität zu Berlin und die Universität Lüneburg zusammenarbeiten, wurde vom BMBF im Rahmen des Förderprogramms "e-Science und vernetztes Wissensmanagement" bewilligt.
+Ziel von HyperImage ist es, zwei bereits bestehende Werkzeuge auszubauen und miteinander zu verknüpfen: 1.) PeTAL (Lüneburg), ein System zur Annotation von Bildern, und 2.) Mneme (Berlin), ein Objektmanagementsystem, das die Abbildungen vorhält.
+Pilotanwendungen aus den Fächern Kunstgeschichte und Zoologie testen den entstehenden HyperImage-Editor in der Praxis. Gleichzeitig evaluieren Content-Anbieter wie prometheus das neue Werkzeug.
+Ansprechpartnerin für weitere Informationen zu HyperImage ist Dr. Dorothee Haffner ("dorothee.haffner[at]rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de).
+
+
+
+*5.) Veranstaltungen in Leipzig und Köln*
+
+Am Institut für Theaterwissenschaft der Universität Leipzig findet am 24. und 25. März ein Workshop zu "Sinn und Nutzen von Datenbanken in den Geisteswissenschaften" statt. Vorgestellt werden schon bestehende oder in der Entwicklung begriffene Datenbank-Projekte und deren Anwendungsgebiete in den Geisteswissenschaften. Vorrangiges Ziel ist die Sondierung von Problemen und Potentialen beim Aufbau und Einsatz von Datenbanken.
+
+Weitere Informationen, Programm und Anmeldung (wegen begrenzter Raumkapazitäten, bis 17. März!) unter "www.thealing.de/workshop":http://www.thealing.de/workshop.
+Ansprechpartner ist Jo Jonas ("jo.nas@gmx.de":mailto:jo.nas@gmx.de).
+
+"Forschung und Lehre im Informationszeitalter -- zwischen Zugangsfreiheit und Privatisierungsanreiz" lautet der Titel eines Symposiums, das am 21. April an der Universität zu Köln abgehalten wird. Veranstalter sind das Institut für Medienrecht und Kommunikationsrecht, der Lehrstuhl für Geschichte der Frühen Neuzeit und das Seminar für Medienmanagement.
+Im Verlauf des Symposiums sollen die Herausforderungen der Digitalisierung für den Hochschulalltag transparent gemacht und Lösungen für ein modernes Wissensmanagement an Universitäten entwickelt werden. Dabei stehen vor allem (urheber-)rechtliche Fragen im Vordergrund.
+
+Eine Anmeldung zur Teilnahme ist erforderlich (medienrecht@uni-koeln.de).
+Das Tagungsprogramm und weitere Informationen finden Sie unter
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de und bald auch unter
+"http://www.institut-medienrecht.de.":http://www.institut-medienrecht.de/
+
+
+
+*6.) Urheberrechtsnovelle 2. Korb*
+
+Am 3. Januar 2006 hat das Bundesministerium der Justiz (BMJ) den neuen Gesetzentwurf für ein Zweites Gesetz zur Regelung des Urheberrechts in der Informationsgesellschaft ("2. Korb") veröffentlicht. Leider sind im vorliegenden Konzept die Interessen von Bildung und Wissenschaft geradezu ignoriert worden, so dass das Aktionsbündnis "Urheberrecht für Bildung und Wissenschaft" in seiner Stellungnahme vehement "die nun auch in Deutschland deutlich fortschreitende Umwandlung des Urheberrechts in ein Handels- bzw. Verwertungsrecht" kritisiert.
+
+Mehrere Regelungen widersprechen schwerwiegend und unangemessen dem im Koalitionsvertrag eigentlich vereinbarten Ziel eines "bildungs- und wissenschaftsfreundlichen Urheberrechts". So fällt nach vorliegendem Entwurf die bis Ende 2006 befristet geltende Schrankenregelung § 52a UrhG weg, nach der eine öffentliche Zugänglichmachung urheberrechtlich geschützten Materials im Rahmen der Veranschaulichung des Unterrichts erlaubt ist.
+Wer mit der Praxis des aktuellen Wissenschaftsbetriebs und insbesondere der gängigen Einbindung einzelner Institute in die Hochschulintranets vertraut ist, dem/der wird besonders die Regelung im neuen § 52b UrhG absurd erscheinen: Diesem neu eingefügten Absatz zufolge soll eine Wiedergabe von Werken aus den elektronischen Beständen einer Bibliothek, eines Archivs oder Museums nur an eigens eingerichteten elektronischen Leseplätzen in der Institution selbst möglich sein. Können Sie sich Mitarbeiter/innen des Universitätsklinikums vorstellen, die vor einer Operation eigens die Universitätsbibliothek aufsuchen müssen, wenn sie in einem e-Journal nachschlagen wollen?
+Wie kann es sein, dass vor diesem Hintergrund im Regierungsentwurf behauptet wird, diese Regelungen hätten keine Auswirkung auf die öffentlichen Haushalte?
+Es entstehe angeblich "kein zusätzlicher Vollzugsaufwand, da organisatorische Umstellungsarbeiten zur Umsetzung
+des Gesetzes nicht erforderlich" seien. Wenn die erste deutsche
+Universitätsbibliothek die umliegenden Liegenschaften aufkaufen muss, um dorthin ihre Leseräume zu erweitern, wird vielleicht auch das BMJ die Absurdität dieser Formulierung begreifen.
+
+Doch es reicht wohl nicht, lediglich abzuwarten. Nun sind alle Institutionen von Wissenschaft und Kultur aufgefordert, gemeinsam mit dem Urheberrechtsbündnis für ein angemessenes Urheberrecht einzustehen. Fordern deshalb auch Sie ihre Rektoren/innen, Präsidenten/innen und Direktoren/innen auf, sich schriftlich gegen den Regierungsentwurf zu stellen
+
+Weitere Information:
+"http://www.urheberrecht.org/topic/Korb-2/bmj/2006-01-03-Gesetzentwurf.pdf":http://www.urheberrecht.org/topic/Korb-2/bmj/2006-01-03-Gesetzentwurf.pdf
+
+(Gesetzesentwurf vom 3.1.2006)
+
+
+"http://www.urheberrechtsbuendnis.de/pressemitteilung0106.html":http://www.urheberrechtsbuendnis.de/pressemitteilung0106.html
+
+(Stellungnahme des Urheberrechtsbündnisses zum Entwurf)
+
+
+
+*7.) prometheus - facts & figures*
+
+Derzeit können mehr als 275.000 Bilder aus 28 Datenbanken über prometheus recherchiert werden. Seit der Account-Umstellung im Sommer vergangenen Jahres hat sich die Zahl der Zugriffe auf das Bildarchiv nahezu verdoppelt. Es gibt inzwischen 55 Universitäten, Institute und Schulen, die Lizenzen halten und prometheus nutzen. Die personalisierten Nutzungszugänge belaufen sich auf derzeit 3730. Diesen Newsletter beziehen 1.746 Personen.
+
+
+
+*8.) prometheus - Kontakt*
+
+Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
+- als Privatperson an die prometheus-Geschäftsstelle in Köln,
+- als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr.
+Silke Schomburg, Jülicher Straße 6, 50674 Köln, "schomburg[at]hbz-nrw.de.":javascript:linkTo_UnCryptMailto('ocknvq,uejqodwtiBjdb/pty0fg');
+
+Eine Liste aller bereits lizenznehmenden Institutionen finden Sie auf der prometheus-website unter "Bildarchiv" > "Anmeldung / Lizenzen".
+
+Wenn Sie daran interessiert sind, eine Datenbank in prometheus einzubringen, setzen Sie sich bitte mit Vorstandsmitglied Dr. Dorothee Haffner
+("dorothee.haffner[at]rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de) in Verbindung.
+
+
+Die prometheus-Geschäftsstelle ist besetzt: Mo, Mi, Do und Fr, jeweils 10-13
+Uhr, sowie Di 15-18 Uhr. fon: 0221-470 4476, fax: 0221-470 5044,
+"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+
+
+
+
+Impressum
+
+Der nächste reguläre Newsletter (2006 / 02) erscheint voraussichtlich im Juni.
+Aus gegebenem Anlass planen wird eine Sonderausgabe zum Thema Urheberrecht für
+Mitte April. Redaktion: Dr. Sigrid Ruby (sigrid.ruby[at]geschichte.uni-giessen.de)
+
+
+prometheus e.V.-Geschäftsstelle
+Kunsthistorisches Institut der
+Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln
+
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de/
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+0221/470-4476
+

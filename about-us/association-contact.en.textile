@@ -1,0 +1,31 @@
+---
+layout: default
+title: Contact information
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=43&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+Mo - Fr 10 a.m. -  4.p.m
+
+fax  ++49 (0) 221 470 6773
+
+
+"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+
+*prometheus-office*
+c/o Kunsthistorisches Institut
+der Universität zu Köln
+Albertus-Magnus-Platz
+D - 50923 Köln
+
+*Street adress*
+Bernhard-Feilchenfeld-Str. 11
+D - 50939 Köln
+
+*Bank data*
+Volksbank Gießen-Friedberg
+BLZ 513 900 00
+Konto-Nr.: 133 89 00
+
+*Jurisdiction*
+District court Cologne  VR - 142 02

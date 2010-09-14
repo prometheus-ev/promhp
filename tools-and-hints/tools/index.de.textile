@@ -1,0 +1,25 @@
+http://prometheus-bildarchiv.de/index.php?id=7
+
+
+h4. Werkzeuge
+
+*In dieser Rubrik finden Sie verschiedene Hilfsmittel, die Ihnen den Umgang mit digitalen Bildern und Lehrinhalten erleichtern.*
+Das können Texte oder Internet-Adressen sein, aber auch praktische Hilfsprogramme bis hin zu Datenbanken für die Verwaltung von Bildern oder für die Aufbereitung eigener Inhalte.
+
+
+*Die Einträge sind nach Kategorien sortiert:*
+
+"» Leitfaden":<%=r 'tools-and-hints/tools/reference-manuals' %>
+Hier finden Sie Informationsblätter und Materialien für den Selbstgebrauch oder zum Einsatz bei Schulungen.
+
+
+"» Programme":<%=r 'tools-and-hints/tools/programs' %>
+Hier finden Sie praktische Hilfsprogramme für den Einsatz in der Lehre oder im Selbststudium.
+
+
+"» Datenbanken":<%=r 'tools-and-hints/tools/data-bases-dilps' %>
+Bilddatenbank-Lösungen
+
+
+"» Normdaten":<%=r 'tools-and-hints/tools/norm-data' %>
+Wortlisten und Thesauri zur Normierung der Metadatenerfassung bzw. -ausgabe

@@ -1,0 +1,90 @@
+---
+layout: default
+title: Newsletter 2009 / 02
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=480
+---
+h4. <%= @page.title %>
+*prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de
+
+
+*INHALT*
+
+1.Ein Jahr pandora – Gratulation!
+2.Umfrage
+3.prometheus bloggt
+4.Zusammenarbeit mit dem Historischen Archiv der Stadt Köln
+5.prometheus kooperiert mit Kölner Schulen
+6.prometheus integriert vier neue Datenbanken
+7.prometheus -- facts & figures
+8.prometheus -- Kontakt
+
+
+
+*1.) Ein Jahr pandora – Gratulation!*
+
+Mit der Umstellung auf die neue Software pandora am 31. März 2008 konnte prometheus seinen Nutzerinnen und Nutzern verbesserte Möglichkeiten der Recherche und Ergebnisverwertung bieten und außerdem mit einem optimierten Oberflächendesign aufwarten.
+Was ist seit der Umstellung passiert?
+Anhand des Feedbacks der NutzerInnen und MitarbeiterInnen haben wir pandora im letzten Jahr kontinuierlich verbessert. Wir haben kleinere Fehler behoben und manche Funktion nutzerfreundlicher gestaltet. Durch die Einbindung von englischsprachigen Wörterbüchern ist die Suche nun auch für Personen möglich, deren Muttersprache nicht die deutsche ist. Außerdem können seit einigen Monaten persönliche Zugänge zum Bildarchiv von den NutzerInnen selbst eingerichtet werden. Die Freischaltung erfolgt entweder über eine lizenzierte Institution oder durch die Zahlung über „Click&Buy“. Die Bewertung der Abbildungsqualität und die Anzeige von ähnlichen Bildern bei der Vollansicht eines Datensatzes sind weitere Features, die wir im letzten Jahr umgesetzt haben.
+Wir danken Ihnen an dieser Stelle herzlich für Ihre Unterstützung durch zahlreiche Anregungen und Kommentare!
+
+
+
+*2.) Umfrage*
+
+Ein Jahr pandora – diesen ersten Geburtstag nehmen wir gerne zum Anlass, Sie zu Ihren Erfahrungen und Wünschen hinsichtlich des Bildarchivs zu befragen. Unsere noch bis Ende Mai laufende Umfrage erreichen Sie unter: "<http://www.onlineumfragen.de/login.cfm?umfrage=11728>":http://www.onlineumfragen.de/login.cfm?umfrage=11728
+Wir freuen uns, wenn Sie sich ein wenig Zeit für die Beantwortung der Fragen nehmen. Sie helfen damit uns und allen NutzerInnen, prometheus nach Ihren Wünschen und Bedürfnissen zu gestalten!
+Die Umfrage-Ergebnisse werden wir Ihnen nach der Auswertung selbstverständlich mitteilen und die zukünftigen Entwicklungen daraufhin anpassen.
+
+
+
+*3.) prometheus bloggt*
+
+Seit wenigen Tagen ist unter "<http://prometheus-bildarchiv.de/blog>":<%=r 'blog' %> unser neues Weblog zu erreichen. Wir wollen versuchen, die vielen Prozesse in und um prometheus transparent zu machen. Besonders wichtig ist uns dabei der persönliche Dialog mit unseren Nutzerinnen und Nutzern. Denn nur durch direkte Kommunikation können wir das Archiv für alle weiter entwickeln und dabei immer Ihre Anforderungen im Auge behalten. Deshalb freuen wir uns über Ihre Kommentare im Blog!
+
+
+
+4.) Zusammenarbeit mit dem Historischen Archiv der Stadt Köln
+
+Wie in der letzten Sondernummer unseres Newsletters berichtet, hat prometheus unmittelbar nach dem Einsturz des Historischen Archivs der Stadt Köln die Initiative „Das digitale Historische Archiv Köln“ gestartet. Wir haben WissenschaftlerInnen, HeimatforscherInnen, BesucherInnen und Freunde des Kölner Stadtarchivs aufgerufen, ihre Unterlagen nach Kopien der Kölner Bestände zu durchsuchen und diese unter "<http://www.historischesarchivkoeln.de>":http://www.historischesarchivkoeln.de einzustellen. Die Idee war und ist, durch ein digitales Archiv die Zugänglichkeit eines großen Teils der Kölner Archivalien weiterhin zu gewährleisten.
+Inzwischen haben wir einen Kooperationsvertrag mit der Stadt Köln abgeschlossen, der die rechtliche Grundlage für den Ausbau des digitalen Historischen Archivs Köln bietet.
+Der Kooperationsvertrag erlaubt allen, ihre Kopien und digitalen Bilder in „Das digitale Historische Archiv Köln“ einzustellen. Darüber hinaus regelt der Kooperationsvertrag die enge Zusammenarbeit und anschließende Übergabe an das Historische Archiv der Stadt Köln – unter Wahrung des Portalcharakters und als ein offenes Bürgerarchiv.
+Eingedenk der außerordentlichen Situation war dies nur möglich, weil alle Beteiligten von der Tragweite und dem Nutzen dieser Initiative für das Historische Archiv der Stadt Köln überzeugt sind.
+Wir rufen weiterhin dazu auf, diese Initiative zu unterstützen. Besuchen Sie also gerne die Website "<http://www.historischesarchivkoeln.de>":http://www.historischesarchivkoeln.de! Schauen Sie sich an, was schon geschehen ist, und helfen Sie uns nach Ihren Möglichkeiten!
+
+
+
+*5.) prometheus kooperiert mit Kölner Schulen*
+
+Das Projekt „Kleidung und Mode als Mittel der Inklusion und Exklusion“ – initiiert vom Kunsthistorischen Institut der Universität zu Köln und weiteren Einrichtungen – will aktuelle Tendenzen geistes- und kulturwissenschaftlicher Forschung an Kölner Schulen bekannt machen. Die Schülerinnen und Schüler werden spezifische Denkansätze und Methoden einzelner Disziplinen kennenlernen und mit grundlegenden Kompetenzen und Techniken der wissenschaftlichen Arbeit vertraut gemacht. Da­bei geht es entscheidend darum, Neugierde für die Entwicklung interessanter Fragestellungen und Freude an wissenschaftlicher Teamarbeit zu wecken.
+Um die individuelle Kreativität ebenso wie den kooperativen Umgang mit fremden, herausfordernden Fragestellungen zu fördern, wird den SchülerInnen innerhalb der verschiedenen Lehr- und Unterrichtseinheiten eine digitale Plattform geboten.
+Das prometheus-Bildarchiv fungiert als Recherche- und Arbeitsinstrument für das Projekt und wird die Schülerinnen und Schüler dabei unterstützen, Themenmappen und Präsentationen zu erarbeiten.
+ 
+
+
+*6.) prometheus integriert vier neue Datenbanken*
+
+In der jüngeren Vergangenheit konnten vier neue Datenbanken in das Bildarchiv integriert werden.
+[1] Die Fotothek der Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg sammelt und bewahrt ältere und gegenwärtige Aufnahmen der preußischen Schlösser und Gärten sowie der darin befindlichen Kunstsammlungen. Die Sammlung der Fotothek bzw. des Bildarchivs verfügt damit über ein Bildmaterial, das für die kunst- und kulturhistorische Forschung von herausragendem Wert ist. Derzeit erweitern die historischen Originalaufnahmen von 1894 bis 1945 den Bilderpool von prometheus.
+[2] Mit der Erlanger Datenbank RUDI hat prometheus die erste Datenbank der Christlichen Archäologie integriert. Über 13.000 Datensätze aus RUDI sind schon in prometheus recherchierbar.
+[3] Die Virtuelle Diathek der Kunstgeschichtlichen Seminars der Universität Hamburg hat ihr Datenmaterial zur Verfügung gestellt und erweitert mit knapp 8.000 Bildern das Bildarchiv.
+[4] Außerdem konnten wir die erste promDILPS-Datenbank in prometheus überführen. Das Institut für Kunstgeschichte der Universität Leipzig nutzt den angebotenen Service, um sein Bildmaterial in eine von prometheus zur Verfügung gestellte Datenbank einzustellen.
+
+
+
+*7.) prometheus -- facts & figures*
+
+Aktuell können knapp 600.000 Bilder aus 49 Datenbanken über prometheus recherchiert werden. 92 Hochschulen und Institute im In- und Ausland halten eine Campus- bzw. Institutslizenz zur Nutzung des Bildarchivs. Die persönlichen Zugänge belaufen sich auf nunmehr 6840; hinzu kommen Tausende von Nutzerinnen und Nutzern, die auf prometheus anonym im Rahmen einer Campus-Lizenz zugreifen. Diesen Newsletter beziehen derzeit 6.225 Personen.
+
+
+
+*8.) prometheus -- Kontakt*
+
+Wenn Sie an dem Erwerb einer Lizenz interessiert sind, besuchen Sie unsere Website unter "&lt;<%= "#{@site.url}/licences/licence-fee" %>&gt;":<%=r 'licences/licence-fee' %> oder wenden Sie sich als VertreterIn einer Hochschule oder Institution direkt an das HBZ in Köln, Dr. Jochen Johannsen, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de
+
+Eine Liste aller Institutionen, die bereits eine Lizenz halten, finden Sie auf der prometheus-Website unter "&lt;www.prometheus-bildarchiv.de/licences/licence-holders&gt;":<%=r 'licences/licence-holders' %>
+Für Ihre Fragen und Anregungen ist selbstverständlich auch unsere prometheus-Geschäftsstelle für Sie da.
+Die prometheus-Geschäftsstelle in Köln ist besetzt: Mo-Fr, jeweils 10-18 Uhr. Telefon: 0221-470 4476, Telefax: 0221-470 5044, "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+
+
+Redaktion: PD Dr. Sigrid Ruby ("sigrid.ruby@geschichte.uni-giessen.de":mailtosigrid.ruby@geschichte.uni-giessen.de)

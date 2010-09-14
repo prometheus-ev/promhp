@@ -1,0 +1,10 @@
+---
+layout: default
+title: Normdaten
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=56
+---
+h4. <%= @page.title %>
+
+h5. PKNAD (prometheus KünstlerNamensAnsetzungsDatei)
+
+!<%=r 'files/images/2c76c52197.jpg' %>! Anwendungsbereich: Normdaten "» mehr":<%=r 'tools-and-hints/tools/norm-data-pknad' %>

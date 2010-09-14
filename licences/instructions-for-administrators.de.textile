@@ -1,0 +1,25 @@
+---
+layout: default
+title: Hinweise für AdministratorInnen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=51
+---
+h4. <%= @page.title %>
+
+
+Alle Institute und Schulen, die eine eigene Lizenz erworben haben oder Teil einer Campuslizenz sind, können bei der prometheus-Geschäftsstelle kostenlos einen *Administrationszugang* beantragen.
+
+
+
+Mit diesem Zugang sind Sie berechtigt, eigenverantwortlich "persönliche Zugänge" für die Lehrenden und Studierenden Ihres Instituts einzurichten, bzw. freizuschalten.
+
+
+
+Der Administrationszugang sollte - wenn möglich - von einem/r Mitarbeiter/in im Institut verwaltet werden (z.B. Diathek).
+
+
+*Antrag für den Administrationszugang*
+
+Bitte füllen Sie dazu den folgenden Antrag aus und schicken Sie ihn unterschrieben zur  prometheus-Geschäftsstelle:
+
+
+"Antrag auf einen Administrationszugang":<%=r 'files/text/administrator_de_0907_01.pdf' %>   63 K

@@ -1,0 +1,174 @@
+---
+layout: default
+title: Newsletter 2004/04
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=367
+---
+h4. <%= @page.title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre*
+
+
+Liebe Abonnentin, lieber Abonnent,
+
+mit dem vierten und letzten Newsletter dieses Jahres dürfen wir Sie einmal wieder über die Aktivitäten von prometheus, über das Bildarchiv und die Arbeit im Verein informieren. Hinzu tritt die fortgesetzte Berichterstattung über den aktuellen Stand der Urheberrechtsreform, die alle in Bildung und Wissenschaft Tätige betreffen wird und insofern Priorität auch für die Informationspolitik von prometheus e.V. besitzt.
+
+Wir wünschen eine gute Lektüre und bedanken uns – auch mit Blick auf den nächsten Newsletter – für Kritik, Kommentare und Anregungen aller Art.
+
+Herzlichst,
+für prometheus e.V.
+Sigrid Ruby
+
+
+
+
+*INHALT*
+
+1.) neues Finanzierungsmodell nimmt Formen an
+
+2.) prometheus und Gender Mainstreaming
+
+3.) MEDIDA-PRIX-Finale in Graz
+
+4.) Neuigkeiten zum "2. Korb" der Urheberrechtsreform
+
+5.) prometheus e.V. schreibt "esPrix" aus
+
+6.) neue Partner
+
+7.) prometheus –  facts & figures
+
+8.) Mitteilungen der Partner
+
+9.) prometheus – Kontakt
+
+
+
+
+*1.) neues Finanzierungsmodell nimmt Formen an*
+
+Mit der steigenden Bedeutung, die das prometheus -Bildarchiv für Forschung und Lehre gewinnt, wächst auch die Notwendigkeit, seine Funktionalität und seinen kontinuierlichen Ausbau auf eine sichere Finanzgrundlage zu stellen. Diese muss unabhängig von immer nur temporär fließenden und dann einschlägig gebundenen Projektgeldern bestehen.
+
+Schon länger diskutieren deshalb die in prometheus e.V. assoziierten Partner ein verpflichtendes Kooperationsmodell (vgl. Newsletter 2004/02). Für die Nutzung der vom Bildarchiv angebotenen Serviceleistungen sollen zukünftig Dienstleistungsverträge abgeschlossenen werden, deren Gesamtbestand kostendeckend, und somit dezidiert nicht gewinnorientiert, angelegt ist. Derzeit werden unterschiedliche Modelle berechnet, um ab Juli 2005 nach Nutzungsvolumen gestaffelte und potenziell flexible Servicegebühren einzuführen. Näheres erfahren Sie im nächsten Newsletter.
+
+
+
+*2.) prometheus für Umsetzung von Gender Mainstreaming ausgezeichnet*
+
+Die Umsetzung von Gender Mainstreaming (GM) in allen Arbeitsbereichen war und ist ein zentrales Anliegen von prometheus. Dieses Engagement wurde nun belohnt. Das am Hochschuldidaktischen Zentrum der Universität Dortmund angesiedelte BMBF-Begleitprojekt "Gender Mainstreaming-Medial"verlieh prometheus die Auszeichnung eines Good Practice Projekts. In seiner Lernumgebung habe prometheus beispielhaft Aspekte des GM-Konzepts umgesetzt. Begutachtet wurden die Bereiche: Projektorganisation und Kommunikation, Technik und Design, Inhalt, Didaktik, Evaluation.
+
+
+
+*3.) MEDIDA-PRIX-Finale in Graz*
+
+Beim MEDIDA-PRIX-Finale in Graz (15.-17. September 2004) war prometheus mit sieben Personen aus allen ehemaligen Projektstandorten vertreten.
+Am Stand gab es erfreulich regen Publikumsverkehr und eine ausgesprochen positive Resonanz. Als besonders interessant und fruchtbar erwies sich der Austausch mit Kolleginnen und Kollegen aus den Konkurrenzbewerbungen – in ausnehmend freundschaftlicher Atmosphäre, die für die ganze Tagung charakteristisch war. Dass die eher konzeptuell ausgerichteten Lernelemente von prometheus mit den inhaltsreichen Lernprogrammen der meisten anderen Projekte bislang nur bedingt konkurrieren können, war im Vorfeld klar. Von Herzen gratuliert prometheus den Preisträgern von Graz:
+PathoBasiliensis (Basel), pastperfect (Wien) und Virtual Excursion (Zürich).
+
+"http:/www.medidaprix.org":http://www.medidaprix.org/
+
+
+
+*4.) Neuigkeiten zum "2. Korb" der Urheberrechtsreform*
+
+Stellen Sie sich das einmal vor:
+Eine Bibliotheksfernleihe, die zukünftig nur noch durch den Versand einer Grafikdatei erfolgen darf, kann lediglich in den Bibliotheksräumen eingesehen werden. Auch Eigenbestände darf die Bibliothek nur an so vielen elektronischen Leseplätzen zugänglich machen, wie sie in gedruckter Form vor Ort vorhanden sind. Hierfür soll zusätzlich eine neu eingeführte Gebühr erhoben werden, die nicht für eine Kopie oder einen Ausdruck bezahlt werden soll, sondern für die "Zugänglichmachung", also allein für das Lesen (§ 53a UrhG)!!
+
+Diese und andere Neuerungen, die den Anforderungen eines zeitgemäßen wissenschaftlichen Arbeitens völlig zuwiderlaufen, stehen im Referentenentwurf für den sog. "2. Korb" der Urheberrechtsreform, den das Bundesministerium der Justiz am 29. September 2004 veröffentlicht hat. Wie bereits im Vorfeld befürchtet, berücksichtigen die darin enthaltenen Regelungen die Interessen des Bildungsbereichs nur unzureichend. Auch die Urheberinnen und Urheber von Werken werden durch die Einführung einer "Cessio Legis" (Zwangsabtretung von Ansprüchen) zugunsten der Verwertungsgesellschaften und der Medienindustrie deutlich benachteiligt.
+
+Die Praxis der Pauschalvergütung wird beibehalten. § 54c, der eine Anpassung der Geräte- und Speichermedienabgaben vorsieht, betrifft nun allerdings auch Schulen, Hochschulen, Bibliotheken und sonstige Forschungs- und Bildungseinrichtungen in ihrer Eigenschaft als Betreiber von "Vervielfältigungsgeräten" aller Art.
+
+Unklar bleiben weiterhin die Regelungen des § 52a UrhG (Zugänglichmachung für Unterricht und Forschungszwecke), für den keine Neuformulierungen vorgelegt wurden und dessen Befristung bis zum 31.12.2006 in § 137k UrhG beibehalten wurde.
+
+Bitte unterstützen Sie die Interessen von Wissenschaft und Forschung bei der Urheberrechtsreform! Ausführliche Informationen erhalten Sie auf den Seiten des Aktionsbündnis "Urheberrecht für Bildung und Wissenschaft", das bereits eine Kurzstellungnahme zum Referentenentwurf veröffentlicht hat. Das Aktionsbündnis plant für den 15. Dezember 2004 in Berlin einen offenen Workshop zu Problemen des Urheberrechts.
+
+Weitere Informationen erhalten Sie unter:
+
+"www.urheberrechtsbuendnis.de":http://www.urheberrechtsbuendnis.de/
+
+
+"www.urheberrechtsbuendnis.de/docs/KurzstellungnEndf.pdf":http://www.urheberrechtsbuendnis.de/docs/KurzstellungnEndf.pdf (Kurzstellungnahme des Aktionsbündnisses Urheberrecht)
+
+
+"www.lehrer-online.de/url/stellungnahme/":http://www.lehrer-online.de/stellungnahme.php (Stellungnahme von Schulen ans Netz e.V.)
+
+
+"www.telepolis.de/deutsch/special/copy/18721/1.html":http://www.heise.de/tp/r4/artikel/18/18721/1.html
+
+
+
+
+
+
+*5.) prometheus e.V. schreibt  "esPrix " aus*
+
+Wie im letzten Newsletter angekündigt, schreibt prometheus e.V. zum Wintersemester 2004/05 einen studentischen Preis für deutschsprachige mediendidaktische Anwendungen im Bereich der Kulturwissenschaften aus. Einsendeschluss ist der 30. April 2005.
+
+Gefragt sind kreative studentische Eigenleistungen, die sich durch die Harmonisierung von gutem Inhalt, guter Didaktik und gutem Design auszeichnen. Die Ergebnisse sollen inhaltlich und technisch in die Lernwelt von prometheus integrierbar sein. Im Mittelpunkt der Aufgabe steht die mediengerechte Umsetzung eines Lehrinhaltes, orientiert am Anspruch eines Seminars im Grundstudium. Dabei sollen wenigstens zwei Medientypen (Audio, Bild, Text, etc.) kombiniert werden. Die Wahl des Werkzeugs (flash, HTML, PowerPoint, etc.) geht nicht in die Bewertung ein, wohl aber seine sachgerechte Benutzung.
+
+Das Preisgeld in Höhe von 500 Euro wird auf der Basis einer Juryentscheidung vergeben.
+
+Weitere Informationen, einige Beispiele und ein Bewerbungsformular zum Download erhalten Sie ab dem 1. Dezember 2004 über "http://www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de .
+
+
+
+
+
+*6.) neue Partner*
+
+Seit Mitte des Jahres haben sich erneut eine Vielzahl von Institutionen im In- und Ausland prometheus e.V. angeschlossen. Als Partner hinzugewonnen wurden:
+
+* das Kunsthistorische Institut der Universität Basel
+* die Kunst- und Ausstellungshalle der Bundesrepublik in Bonn
+* der Lehrstuhl für Kunstgeschichte und Christliche Archäologie der Universität Freiburg im Breisgau
+* die Kunsthochschule in Kassel
+* die kunstgeschichtliche Abteilung (Section de l’historie de l’art) der Universität Lausanne
+* das Institut für Kunstgeschichte der Universität Leipzig
+* das Museumspädagogische Zentrum in München
+* der Fachbereich Design der Fachhochschule Münster
+* das Institut für Kunsterziehung der Universität Regensburg
+* das Deutsche Historische Institut in Rom
+* das Kunsthistorische Institut der Universität Salzburg
+* das Fach Kunstgeschichte des Fachbereichs III der Universität Trier
+
+
+
+
+*7.) prometheus – facts & figures*
+
+Derzeit können über 170.000 Bilder aus 22 Datenbanken über prometheus recherchiert werden. 2300 Zugänge werden genutzt. 67 Partnerinstitutionen arbeiten in prometheus e.V. zusammen. … und 1800 Personen beziehen diesen Newsletter.
+
+
+
+
+*8.) Mitteilungen der Partner*
+
+Symposium "eLearning - Kooperationsformen, Finanzierungsmodelle und Geschäftsmodelle" am 4. Oktober 2004 in Frankfurt/M
+(e-learning-hessen.de/symposium04) mit Beteiligung der Giessener Projektpartner
+
+Auf der Veranstaltung diskutierten Vertreterinnen und Vertreter aus Politik, Hochschule und Industrie durchaus kontrovers darüber, wie eLearning finanziert, weiterentwickelt und in die akademische Lehre integriert werden kann. Die Gießener prometheus-Partner waren mit einem Plenumsvortrag und einem Präsentationsstand vertreten. Neben dem Vereinskonzept wurden vor allem die aktuellen Gießener Aktivitäten vorgestellt. Hierzu zählen
+
+   1. die Überführung der lokalen Aufgaben in eine Medienstelle des Fachbereichs und
+   2. ein interdisziplinär ausgerichtetes Förderfondsprojekt zur Nutzung von Bildern als Quellen.
+
+
+
+*9.) prometheus – Kontakt*
+
+Partner von prometheus e.V. werden
+An einer Partnerschaft mit prometheus e.V. interessierte Institutionen oder Privatpersonen wenden sich bitte an Vorstandsmitglied Dr. Dorothee Haffner "dorothee.haffner[at]rz.hu-berlin.de":javascript:linkTo_UnCryptMailto('ocknvq,fqtqvjgg0jchhpgtBtb0jw/dgtnkp0fg'); .
+
+
+
+Bürozeiten der Geschäftsstelle
+Bis Ende des Jahres ist Gerd Mörsch M.A. gerd.moersch@uni-koeln.de von Montag bis Donnerstag zwischen 9 und 13 Uhr unter 0221-470 4476 (fon) und 5044 (fax) in der prometheus-Geschäftsstelle zu erreichen.
+
+
+
+
+Impressum
+Der nächste Newsletter (2005/ 01) erscheint vorraussichtlich Ende Januar Redaktion: "sigrid.ruby[at]geschichte.uni-giessen.de":javascript:linkTo_UnCryptMailto('ocknvq,ukitkf0twdaBiguejkejvg0wpk/ikguugp0fg');
+
+prometheus e.V.-Geschäftsstelle
+Kunsthistorisches Institut der
+Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln

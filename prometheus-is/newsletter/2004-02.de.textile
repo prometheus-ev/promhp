@@ -1,0 +1,99 @@
+---
+layout: default
+title: Newsletter 2004/02
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=371
+---
+h4. <%= @page.title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre*
+
+
+Liebe Leserinnen und Leser,
+liebe Kooperationspartner und Interessierte,
+
+gerne nehme ich den Semesterbeginn zum Anlass, Ihnen vom feierlichen Ausklang des Verbundprojektes und erfolgreichen Auftakt des Vereins prometheus zu berichten. Am 19. März fand in Köln die zweite Mitgliederversammlung statt, in der ein neuer Vorstand gewählt und das kommende Geschäftsjahr geplant wurde. Seitdem ist ausschliefllich der Verein prometheus für alle weiteren Entwicklungen des Systems verantwortlich. Als Geschäftsführer der prometheus-Geschäftsstelle steht Gerd Mörsch an Werktagen von 9 bis 13 Uhr telefonisch unter 0221/470-4476 und jederzeit per eMail unter gerd.moersch@uni-koeln.de zur Verfügung.
+
+
+Mit den besten Wünschen
+und weiterhin auf eine gemeinschaftliche Zusammenarbeit, für
+prometheus e.V.,
+Claudia Rust
+
+
+
+*INHALT*
+
+1.) Der Verein  prometheus-Vorstandswahlen
+
+2.) prometheus- aktueller Stand und Zahlen
+
+3.) Ziele und Projekte im kommenden Geschäftsjahr
+
+4.) Nachrichten unserer Partner
+
+
+
+
+
+*1.) Der Verein prometheus-Vorstandswahlen*
+
+Im Rahmen der Mitgliederversammlung am 19. März fand die offizielle Übergabe von prometheus an den gleichnamigen Verein statt. Somit tritt der bereits am 24. März 2003 gegründete Verein die Rechtsnachfolge des Projektes an und sichert dessen Fortführung. Fortan trägt der Verein die Verantwortung und tritt mit den assoziierten Partnern und ehemaligen Verbundpartnern in Kooperation. Eine Vereinsmitgliedschaft für assoziierte Partner ist nicht zwingend aber herzlich willkommen. Der Schwerpunkt der Mitgliederversammlung lag auf den diesjährigen prometheus- Vorstandswahlen. Folgende Personen wurden im Amt bestätigt bzw. neu gewählt:
+
+Vorsitzender: Dr. Holger Simon
+Stellv. Vorsitzende: Dr. Ute Verstegen
+Schatzmeister: PD Dr. Norbert Eschbach
+Stellv. Schatzmeister: Dr. Stefan Brenne
+Schriftführerin: Dr. Bettina Pfleging
+Beisitzer: Dr. Dorothee Haffner, Georg Hohmann M.A.,
+Dipl. des. Tina Kindel, Dr. Sigrid Ruby
+
+
+
+*2.) prometheus- aktueller Stand und Zahlen*
+Während der Projektlaufzeit wurde das Vorhaben zur Erstellung eines digitalen Bildarchivs mit diversen Recherche-Werkzeugen, Arbeitsmappen (on- und offline) und Präsentationsmöglichkeiten umgesetzt. Im Bereich der Lernelemente gibt es unterschiedliche Themenräume sowie einen Prototyp des Terminologie-Trainers und ein Konzept zum Methoden-Coach am Beispiel einer Objektbeschreibung. Als Lernplattform wird ILIAS angeboten. Die 21 bislang eingebundenen Datenbanken bieten einen Zugriff auf mehr als 153.000 Bilder für gut 1.700  Nutzerinnen und Nutzer. Derzeitig kooperieren 60 Partner mit prometheus. 1.892 Abonnentinnen und Abonnenten beziehen diesen Newsletter. Angesichts der veränderten Rechtsform und anderer Neuerungen wurde die prometheus-Homepage (www.prometheus-bildarchiv.de) komplett überarbeitet.
+
+
+
+*3.) Ziele und Projekte im kommenden Geschäftsjahr*
+
+Im kommenden Geschäftsjahr stehen vor allem drei Bereiche im Mittelpunkt der Aktivitäten:
+a.) Erweiterung des prometheus-Bildarchivs durch qualitativ herausragende Datenbanken
+Im Sinne fortgesetzter Qualitätsverbesserung liegt der Schwerpunkt zukünftig auf Museums- und Forschungsdatenbanken. Als Gegenleistung unterstützen wir die Rechteinhaber bei der Verwertung ihrer Objekte. Auf Wunsch kann das über prometheus gefundene Bild in der Trefferliste direkt mit der Besitzerinstitution verknüpft und eine Repro-Bestellung weitergeleitet werden.
+
+b.) Sicherung der Finanzierung von prometheus
+Auch zukünftig streben wir an, den Zugang zu prometheus möglichst vielen Nutzerinnen und Nutzern unentgeltlich zu ermöglichen. Das System soll frei verfügbar für Forschung und Lehre im Netz stehen. Für den Fall, dass die Weiterfinanzierung durch Drittmittel im kommenden Jahr nicht gewährleistet sein sollte, diskutieren wir derzeit Campus-Lizenzen. Zur Vermeidung dieser Alternative sind wir auf Ideen und Unterstützung der Anwenderinnen und Anwender angewiesen.
+
+c.) Ausbau der Integration von prometheus in die universitäre Lehre
+Neben der Nutzung der Recherche-Module zur Vorbereitung von Präsentationen aller Art wird prometheus an einigen Standorten im Zusammenhang mit der Lernplattform ILIAS in Studium und Lehre miteinbezogen. Hinsichtlich Benutzerfreundlichkeit und Aktualität der recherchierbaren Datenbestände wird das prometheus-System zukünftig noch besser. Eine neue Benutzerverwaltung, die Änderungen der eMail-Adresse ermöglicht und die Gültigkeit von einfachen Nutzer-Logins durch ein Verfallsdatum regelt, ist bereits implementiert. Zwei weitere Neuerungen befinden sich momentan in der Testphase: Die Personen-Norm-Datei (PND) wird voraussichtlich mit dem nächsten Update integriert. Außerdem wird derzeit die dynamische Anbindung am Beispiel der Datenbanken des Forschungsarchivs für Antike Plastik in Köln und des Instituts für Kunstgeschichte der Ludwig-Maximilians-Universität München erprobt.
+
+
+
+*4.) Nachrichten unserer Partner*
+
+Zum Thema "Das Bild in der historischen Forschung" findet vom 8. bis 9. Oktober 2004 an der Universität Hildesheim ein Symposium statt. Im Zentrum stehen Erfahrungen zur Bildinterpretation als Methode des Quellenverständnisses. Wie werden Bilder als Quellen analysiert, und welche Probleme stellen sich bei der Bedeutungserhebung von Bildern zu Quellenmaterial ein?
+Interessenten für einen Beitrag sind gebeten bis zum 15. Mai ein kurzes Exposee (max. 2 Seiten) einzusenden. Es werden nur Originalbeiträge angenommen. Referentinnen und Referenten stehen max. 30 Minuten + 15 Minuten für Diskussion zur Verfügung. Nach der Tagung werden die Beiträge in angemessener Form publiziert.
+
+Bitte senden Sie ihren Beitragsvorschlag an:
+Prof. em. Dr. Rudolf W. Keck
+Institut für Angewandte Erziehungswissenschaft und Allgemeine Didaktik der Universität Hildesheim, Marienburger Platz 22, 31141 Hildesheim,
+reckler[at]rz.uni-hildesheim.de
+
+
+
+Christian Ritzi
+Bibliothek für Bildungsgeschichtliche Forschung des Deutschen Instituts für Internationale Pädagogische Forschung, Warschauer Strasse 34-38, 10243 Berlin
+ritzi[at]bbf.dipf.de
+
+
+
+
+
+prometheus e.V. -Geschäftsstelle
+Kunsthistorisches Institut der
+Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln
+
+
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de/
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+0221/470-4476

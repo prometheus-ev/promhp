@@ -1,0 +1,5 @@
+---
+layout: default
+title: mauer_reste
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=1&skin=0&tx_ttnews[tt_news]=32&tx_ttnews[backPid]=65&cHash=1a1f6a67cb
+---

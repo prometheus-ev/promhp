@@ -1,0 +1,29 @@
+---
+layout: default
+title: Mission statement
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=45&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+The purpose of the association is the promotion of science and research through the development, appropriation and application of digital media in the arts, and the field of the history of culture. The association is committed to further the use of digital media in education, research and teaching, and feels especially obligated to colleges, research facilities, museums, archives, and the preservation of historical monuments.
+
+The association supports open access to scientific knowledge according to the "Berliner Erklaerung (PDF)":http://www.mpg.de/pdf/openaccess/BerlinDeclaration_en.pdf of October 22, 2003, and has signed the "Göttingen Declaration":http://www.urheberrechtsbuendnis.de/index.html.en for copyright for education and science of July 5, 2004.
+
+
+*Proposition*
+
+The internet-based offering is founded on the developments of the "projects (2001-2004) supported by BMBF":http://www.medien-bildung.net/focus/focus_79.php/hochschule/projekte/, and is constantly being upgraded. It contains a distributed image archive of art and culture sciences as well as contents and conceptions for the digital support of teaching these subjects.
+
+As Leica, Liesegang, Kodak and Agfa cease the development of analogue images, and as digital cameras and beamers are starting to be noticeably better and cheaper, the launch of a consolidated distributed digital image archive becomes fundamental for future research and teaching.
+A distributed image archive intends to combine images, which are prepared independently in different locations, into a portal to the internet. Databases of research and records, with detailed information about the object, are as important as straightforward institute databases that mainly provide nothing more than the most important images for teaching.
+
+In addition, this distributed image archive combines databases that are heterogeneous in semantics and syntax, because it is our intention to support the development of various databases that are appropriate for a given research object, without impeding the diversity of research through technical harmonization. prometheus ultimately provides a way to access all the information these databases have to offer.
+
+
+*Didactic concept*
+
+The didactic concept is to create a problem-oriented, adaptive and multi-perspective body of information for the supplementation of presence lessons.  Basic knowledge for certain fields are systematically collected, and made available to provide the foundation for course-specific professional training. Such a body of information has the goal to heighten the awareness of the multidimensional reality of knowledge, method, competence and individuality.
+
+As previous evaluations show, the presence lessons must not be restricted by the use of only fixed and specified material. Instead, the instructors should have the possibility to construct the lessons from material that can be combined with their academic research in order to format lessons with individualized and active content.  The learning-platform, the tools and the study contents offered by prometheus, provide that kind of material. Furthermore, the offered material makes it possible for the students to conduct dynamic self-studies in addition to the lesson plan, by providing access to current research discussions, as well as the possibility to partake in research and teaching as a preparation for their scientific occupations – not only in a university setting.  
+
+Users of prometheus have various demands and needs - based on their own perspective as instructors, students or researchers - which p r o m e t h e u s intends to meet. From the perspective of research, the image archive with its media-specific tools (browsing, work folder, presentation) is of particular interest. From the students’ perspective, the image archive and particularly the material offered in the study contents are essential. For instructors, the learning-platform ILIAS offers the possibility to fairly easily supplement the traditional lesson plan with the provided study contents.

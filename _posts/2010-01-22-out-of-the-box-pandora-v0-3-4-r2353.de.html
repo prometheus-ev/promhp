@@ -1,0 +1,26 @@
+--- 
+layout: post
+typo_id: 37
+title: "Out of the box: pandora v0.3.4 (r2353)"
+---
+Am 29.10.2009 haben wir zum letzten Mal unsere Änderungen an <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a> veröffentlicht. Allerhöchste Zeit das mal wieder zu tun, würde ich sagen. Und da ich damit nicht alleine stehe, ist es heute auch wieder so weit, Version 0.3.4 unserer Software ist da. Mit <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=01%2F22%2F10&daysback=84">146 registrierten Änderungen am Quellcode der Software</a>, kein kleines Update. Wobei ein Großteil dessen, woran wir in den letzten Monaten gesessen haben, für die meisten unserer BenutzerInnen unsichtbar bleiben dürfte.<br />
+Hier nun also die wichtigsten Neuerungen im Überblick:
+
+<ul>
+  <li><strong>Die Handhabung der Lizenzen für Institutionen wurde überarbeitet.</strong><br />
+  Eine der Änderungen, von denen unsere BenutzerInnen, so wir keine groben Fehler gemacht haben, nichts bemerken. In erster Linie war es unser Ziel, die Verwaltung der lizenzierten Institutionen zu vereinfachen. Nun können wir einfacher nachhalten, welche Lizenzen eine Institution bisher hatte. Das verlängern der Lizenzen zum Jahreswechsel wurde vereinfacht und in einem weiteren Schritt soll auch das erstellen der alljährlichen Abrechnung weitgehend automatisiert werden.</li>
+  <li><strong>Nach den Bildsammlungen wurde nun auch das Bearbeiten von Präsentationen bequemer.</strong><br />
+  Mit <a href="http://prometheus.khi.uni-koeln.de/blog/2009/10/29/out-of-the-box-pandora-v0-3-3-r2207">unserem lezten Update</a> haben wir dafür gesorgt, dass BenutzerInnen mit aktiviertem <a href="http://de.wikipedia.org/wiki/JavaScript" title="Wikipedia: JavaScript">JavaScript</a>, Bildsammlungen bequemer bearbeiten können. Dies ist ab jetzt auch mit Präsentationen möglich.<br />
+  Um die Metadaten einer Präsentation zu bearbeiten, muss diese nun nicht mehr verlassen werden. Die Daten können direkt an Ort und Stelle geändert werden.</li>
+  <li><strong>Kürzere Links für weniger Fehler.</strong><br />
+  Neue BenutzerInnen oder solche, die ihr Passwort vergessen haben, bekommen von pandora einen Link per Email zugesandt um damit ihre Emailadresse bzw. ihren Zugang zu bestätigen. So ein Link war bisher gerne mal seine 125 Zeichen lang, was in einigen Emailprogrammen dazu führte, dass er auf zwei Zeilen umgebrochen wurde. Dies hatte dann allerdings je nach benutzter Software wieder zur Folge, dass der Link nicht mehr komplett anklickbar war und "von Hand" in den Browser kopiert werden musste.<br />
+  Alles zu viel Aufwand und viel zu fehleranfällig, wie wir finden. Deshalb sind die Links jetzt einfach mal geschrumpft. Ja, manchmal liegt die Lösung so nahe.</li>
+  <li><strong>Heruntergeladene Metadaten sind nun reiner Text.</strong><br />
+  Als wir im Mai letzten Jahres das <a href="http://prometheus.khi.uni-koeln.de/blog/2009/05/14/neues-release-pandora-v0-1-6-r1683">Herunterladen von Bildern inklusive ihrer Metadaten einführten</a>, haben wir uns recht schwer damit getan, eine Entscheidung für das Format unserer Metadaten zu treffen. Im Endeffekt ist es dann <a href="http://de.wikipedia.org/wiki/XML">XML</a> geworden, da uns dies zumindest am flexibelsten erschien.<br />
+  Nun ist einige Zeit vergangen und wir trennen uns wieder von XML. Es hat sich gezeigt, dass sich wohl mehr BenutzerInnen ihre Metadaten als einfache Text-Datei wünschen.<br />
+Dass wir es nicht allen recht machen können, ist uns klar, wir hoffen nur, dass nun mehr Leute mit dem ausgelieferten Format zufrieden sind als zuvor.</li>
+  <li><strong>Und wie üblich, die vielen kleinen Verbesserungen und Fehlerkorrekturen.</strong><br />
+  Unter Anderem wurde nun, nach langer Zeit, die fehlerhafte Darstellung der Vorschaubilder im Microsoft Internet Explorer mit der Version 6 behoben. Doch auch wenn dies nun wieder funktioniert, empfehlen wir allen BenutzerInnen dieser veralteten Software, den Umstieg auf einen Webbrowser, der neue technische Standards unterstützt und kein klaffendes Sicherheitsloch darstellt. Der <a href="http://mozilla-europe.org/firefox/">Mozilla Firefox</a> stellt zum Beispiel eine gute und kostenlose Alternative dar.</li>
+</ul>
+
+Wir wünschen weiterhin viel Spaß mit dem Bildarchiv und freuen uns wie immer über <a href="<%= @site.pandora_url %>/feedback">Ihr Feedback</a>.

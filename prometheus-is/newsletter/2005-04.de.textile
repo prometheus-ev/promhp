@@ -1,0 +1,172 @@
+---
+layout: default
+title: Newsletter 2005/04
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=366
+---
+h4. <%= @page.title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V*
+
+
+Liebe Abonnentin, lieber Abonnent,
+
+ein letztes Mal in diesem Jahr warten wir mit Informationen zum Bildarchiv und aus der Vereinsarbeit für Sie auf. Hinzu treten Tagungsnotizen und der state of the art in Sachen Urheberrecht. Wir bemühen uns, den Kontext unserer Aktionen nie aus den Augen zu verlieren ... Vielleicht möchten sich nicht nur unsere Vereinsmitglieder den MV- und Tagungstermin im kommenden März vornotieren. Das Programm dürfte spannend werden.
+
+Wir wünschen eine gute Lektüre und bedanken uns - auch mit Blick auf den nächsten Newsletter - für Kritik, Kommentare und Anregungen aller Art.
+
+Mit vorweihnachtlichen Grüßen,
+für prometheus e.V.,
+Sigrid Ruby
+
+
+*INHALT*
+
+1.) "esPrix" erstmals verliehen
+
+2.) Zwei neue Datenbanken eingebunden
+
+3.) prometheus-Mitgliederversammlung und -Tagung im März 2006
+
+4.) Neue Werkzeuge und Hilfsmittel zur Arbeit mit digitalen Bildern auf der prometheus-website
+
+5.) Tagungen in Gießen, Berlin, London und Dresden
+
+6.) Urheberrechtsnovelle 2. Korb
+
+7.) prometheus - facts & figures
+
+8.)  prometheus - Kontakt
+
+
+
+*1.) "esPrix" erstmals verliehen*
+
+Am 6. Oktober wurde in der Kölner Geschäftsstelle von prometheus ein Scheck über 500 Euro an den Gewinner des 2005 erstmals ausgeschriebenen "esPrix" überreicht.
+
+Ausgezeichnet wurde "mauer_reste". In diesem Internetangebot dokumentiert Hans-Stefan Bolz, Student an der Universität Bonn, die sichtbaren Reste der Berliner Mauer an der Bernauer Straße. Eigene und historische Bilder, Hintergründe und weiterführende Informationen bietet er gut strukturiert, grafisch ansprechend, sehr benutzerfreundlich und in guter wissenschaftlicher Praxis dar. Für den Besuch vor Ort hat er den topographischen Teil als Reiseführer gestaltet, der als pdf-Dokument ausgedruckt werden kann.
+
+Schauen Sie es sich doch mal an: "www.hansstefanbolz.de/mauerreste/":http://www.hansstefanbolz.de/mauerreste/
+
+
+Auch für 2006 schreiben wir wieder den "esPrix" aus und freuen uns auf zahlreiche gute Einsendungen. Einsendeschluss ist der 28. Februar.
+
+Weitere Informationen unter "http://www.prometheus-bildarchiv.de/esPrix":http://www.prometheus-bildarchiv.de/esPrix
+
+
+
+
+*2.) Zwei neue Datenbanken eingebunden*
+
+In den vergangenen Monaten konnten gleich zwei hochkarätige Bilddatenbanken in prometheus eingebunden und somit für Forschung und Lehre besser zugänglich gemacht werden.
+
+Zum einen die "Bibliotheca Palatina digital", eine Datenbank, die 27 spätmittelalterliche Bilderhandschriften dokumentiert. Der wertvolle Bestand aus der ehemaligen Sammlung der pfälzischen Kurfürsten wird heute in der Universitätsbibliothek Heidelberg verwahrt. Dort wurde er digitalisiert und erschlossen - in Kooperation mit dem örtlichen Institut für Europäische Kunstgeschichte (Lehrstuhl Prof. L. Saurma). Ansprechpartnerin ist Frau Dr. Maria Effinger, Fachreferentin für Kunstgeschichte an der UB Heidelberg.
+
+"www.ub.uni-heidelberg.de/helios/fachinfo/www/kunst/digi/welcome.html":http://www.ub.uni-heidelberg.de/helios/fachinfo/www/kunst/digi/welcome.html
+
+"http://palatina-digital.uni-hd.de":http://palatina-digital.uni-hd.de/
+
+
+
+prometheus bietet einen direkten Zugriff auf die annähernd 2.000 Bildseiten der Handschriften, die insgesamt mehr als 12.000 Seiten umfassen. Ein eigens eingerichteter link, der als Pfeil in der Ergebnisliste unter "Bildnachweis" auftaucht, führt von der Recherche in prometheus zur Buchseite der jeweiligen Handschrift in der Heidelberger Originaldatenbank. Dort können weitere Metadaten und auch die Handschrift als Ganzes angesehen werden.
+
+Der zweite Neuzugang ist die spektakuläre Farbdiasammlung zur Innenausstattung bedeutender Baudenkmäler in Deutschland, Österreich, Tschechien, Polen und Russland, die zwischen 1943 und 1945 im Auftrag Adolf Hitlers angefertigt worden war. Die im Zentralinstitut für Kunstgeschichte (ZI) in München verwahrten etwa 40.000 Dias wurden seit 2001 digitalisiert und in einer kunstwissenschaftlichen Datenbank aufbereitet ("www.zi.fotothek.org":http://www.zi.fotothek.org/). Eine Fachtagung im Zentralinstitut am 21. und 22. Oktober widmete sich dem Bestand und seiner Erschließung.
+
+
+
+
+*3.) prometheus-Mitgliederversammlung und -Tagung im März 2006*
+
+Die nächste prometheus-Mitgliederversammlung, bei der u.a. Vorstandswahlen anstehen, findet am Mittwoch, dem 29. März, in Räumlichkeiten der Universität zu Köln statt. Eine offizielle Einladung ergeht rechtzeitig an alle Mitglieder.
+
+Gleich nach der MV, am 30. März, widmet sich die Tagung "Digitale Medien und Wissenschaftskulturen" dem Brückenschlag zwischen den theoretischen Diskursen über die so genannten "Neuen Medien" und der konkreten Etablierung dieser Medien im wissenschaftlichen Betrieb.
+
+Vor dem Hintergrund der zunehmenden Bedeutung der digitalen Medien in den Wissenschaften möchte die Tagung die Bedingungen der daraus folgenden Wandlungsprozesse aufzeigen und deren Folgen und Chancen kritisch diskutieren. Das Augenmerk der Tagung gilt den Veränderungen in der Wissenschaftsorganisation und Wissensproduktion. Beide Bereiche nehmen Einfluss auf die Erkenntnisleistungen der Wissenschaften im Allgemeinen und der historischen Wissenschaften im Besonderen.
+
+Die Tagung wird veranstaltet vom historischen Fachportal "historicum.net", vertreten durch Herausgeberin Gudrun Gersmann, Professorin am Historischen Seminar der Universität zu Köln, und prometheus. Veranstaltungsort ist die Universität zu Köln.
+
+Das endgültige Programm wird zu Jahresbeginn bekannt gegeben und kann dann auch über die websites der Kölner Universität bzw. prometheus abgerufen werden.
+
+ 
+
+
+*4.) Neue Werkzeuge und Hilfsmittel zur Arbeit mit digitalen Bildern auf der prometheus-website*
+
+Standardisierung der Bildqualität prometheus steht für qualitätvolle digitale Bilder in der Lehre. Häufig aber sind Reproduktionen gedruckter Vorlagen nicht entrastert und unnötig groß oder im Format "mehrere Durchgänge" und nicht in der Bildschirmauflösung (72 dpi) gespeichert. Das kann zu Überlagerungseffekten (Moiré) in der Darstellung und zu Problemen in Präsentationsprogrammen führen. Ein "Leitfaden" in der neuen Informationsreihe der JLU Gießen, Medienstelle FB 04, gibt einfache Handreichungen zur Optimierung von Scannen, Entrastern und Speichern und soll zur Diskussion um eine gewisse Standardisierung der Bildqualität anregen. www.prometheus-bildarchiv.de > werkzeuge > Leitfaden > eikonline_2: Bildreproduktion.
+
+Faltblatt zum Arbeiten im Bildarchiv
+In dieser Reihe ist auch ein Faltblatt zur Arbeit im prometheus-Bildarchiv verfügbar, das ausgedruckt und verteilt oder ausgelegt werden kann: www.prometheus-bildarchiv.de > werkzeuge > Leitfaden > eikonline_5: prometheus-Bildarchiv.
+
+editor+projektor: neue Version
+Das Werkzeug, mit dem Sie aus Ihren lokal verfügbaren Bildern ohne Programmvorkenntnisse und in Sekundenschnelle eine flexible Bildpräsentation mit bis zu drei selbständigen virtuellen Projektoren erstellen können, wird ständig weiterentwickelt - nicht zuletzt dank Ihrer Anregungen! Aktuell stehen der projektor in der Version 2.0 und der editor in der Version 4.6 im zip-Paket zur Verfügung: www.prometheus-bildarchiv.de > werkzeuge > Programme > projektor-editor.
+
+
+
+
+*5.) Tagungen in Gießen, Berlin, London und Dresden*
+
+Hessisches eLearning Symposium 2005 in Gießen, 10. Oktober
+Das 2. hessenweite eLearning Symposium stand unter der Überschrift "Bestandsaufnahme, Entwicklungen und Perspektiven". Neben Impulsvorträgen und einem Projektmarkt fanden Gespräche in Fachforen statt. Darin wurden nicht nur die Tendenzen und die Effizienz in eLearning-Projekten diskutiert, sondern auch erste Schritte zu hochschulübergreifenden Kooperationen eingeleitet. Weitere Informationen: "http://www.e-learning-hessen.de/symposium05/Dokumentation.htm":http://www.e-learning-hessen.de/symposium05/Dokumentation.htm
+
+
+EVA 2005, Workshop "Blind Date", Berlin, 9. November
+Im Rahmen der jährlichen EVA in Berlin versammelte der Workshop "Blind Date - Das digitale Bild zwischen Erschließungsstrategie und Benutzerinteresse" zahlreiche Fachleute aus Museen und Bildarchiven. Themen waren u.a. die automatische Bildinhaltserkennung (Content Based Retrieval, das für anspruchsvolle Aufgaben weiterhin nicht ausgereift ist), aktuelle und interessante Möglichkeiten der Geo-Referenz von Objekten, die Verwendung von (und Werbung für) Referenzdateien wie Iconclass und der SWD sowie das Online-Angebot von kommerziellen Bildagenturen (am Beispiel Corbis) und nicht-kommerziellen Bildarchiven (DILPS, prometheus). Informationen und Programm unter: "":http://www.gfai.de/pinboard/eva/www.gfai.de/pinboard/eva/.
+
+
+CHArt-Konferenz in London, 10.-11. November
+Die seit 1985 jährlich in London stattfindende CHArt (Computers and the History of Art)-Konferenz stand diesmal unter dem sehr allgemeinen Motto "Theorie und Praxis". Dabei bildeten Vorträge zur Praxis, also über Computereinsatz zu künstlerischen Zwecken, den Schwerpunkt. Mit MDID ("www.mdid.org":http://www.mdid.org/) und ARTStor ("www.artstor.org":http://www.artstor.org/) stellten sich aber auch zwei fachspezifische Online-Bilddatenbanken aus den USA vor, die prometheus vergleichbar sind. prometheus, das in London von drei Mitgliedern vertreten wurde, konnte sich in diesem Zusammenhang als technologisch ebenbürtig positionieren und sich gegenüber dem kommerziellen ARTStor abgrenzen. Zudem wurden nachhaltige Kontakte zum MDID-Verbund, der ebenfalls dem Open-Content-Gedanken verpflichtet ist, geknüpft.
+
+
+
+Im Rahmen der CHArt fand eine Podiumsdiskussion statt zum Thema "Democratizing the Image: Creating a Global Learning Community". David Ehrenpreis, der Leiter des MDID, hatte Vertreterinnen und Vertreter von Universitäten, Forschungsinstituten und Museen als Disputanten eingeladen. Erklärtes Ziel der Veranstaltung war, die Interessen der Universitäten einerseits und der Museen andererseits hinsichtlich der Nutzung und Verbreitung digitaler Bilder zu klären und ggf. einander anzunähern. Es zeigte sich aber schnell, dass die üblichen Missverständnisse, Vorurteile und monetären Engpässe auch im englischen Museums- und Bildungsbereich der Bereitstellung digitalen Bildmaterials für Forschung und Lehre im Wege stehen. So bleibt zu hoffen, dass die Diskussionsbeiträge aus prometheus-Sicht und die engagierte Moderation des Open-Content-Verfechters David Ehrenpreis einige Ressentiments aus dem Weg räumen und den Anstoß zur gedanklichen Umorientierung geben konnten. Informationen unter: "www.chart.ac.uk":http://www.chart.ac.uk
+
+Dresdner Tagung zu Fotosammlungen und digitalen Bildarchiven, 10.-11. November Die Tagung in der Sächsischen Landesbibliothek - Staats- und Universitätsbibliothek galt dem Sammeln, Bewahren und Vermitteln von Fotografien speziell in Bibliotheken. Veranstalter waren die in Berlin ansässige "Initiative Fortbildung für wissenschaftliche Spezialbibliotheken und verwandte Einrichtungen e.V." und die Deutsche Fotothek in Dresden.
+
+Die Referate des ersten Tages beschäftigten sich mit Sinn, Sammlungswert und sachgerechter Handhabung von Fotos in Bibliotheken. Am zweiten Tag stellten sich mit prometheus und Foto Marburg zwei prominente digitale Bildarchive vor, deren Arbeit und Ressourcen für den bibliothekarischen Umgang mit Fotografien interessant und hilfreich sind. Die erfolgte Verständigung über ein letztlich gemeinsames Anliegen - die Verfügbarmachung fotografischen Materials für eine möglichst große Zahl von Nutzerinnen und Nutzern - dürfte zukünftigen Kooperationen förderlich sein. Veranstaltungsprogramm unter www.initiativefortbildung.de Der  prometheus-Vortrag kann unter "http://www.ub.uni-heidelberg.de/archiv/5928":http://www.ub.uni-heidelberg.de/archiv/5928 nachgelesen werden.
+
+
+
+
+
+*6.) Urheberrechtsnovelle 2. Korb*
+
+Anlässlich der Bundestagswahl am 18. September hat das Aktionsbündnis "Urheberrecht für Bildung und Wissenschaft" eine Befragung der politischen Parteien zum deutschen Urheberrecht durchgeführt. Die Fragen und Stellungnahmen finden Sie auf der website des Bündnisses:
+
+"http://www.urheberrechtsbuendnis.de/docs/befragung-politik.pdf":http://www.urheberrechtsbuendnis.de/docs/befragung-politik.pdf
+
+"http://www.urheberrechtsbuendnis.de/aktiv.html#wahl":http://www.urheberrechtsbuendnis.de/aktiv.html#wahl
+
+
+
+Das Bundesministerium der Justiz hat derweil mit der Evaluation des § 52a UrhG begonnen, der nach der Gesetzesformulierung im sog. "1. Korb" zunächst bis Ende 2006 befristet ist. Die Erhebung erfolgt über einen ausführlichen Fragebogen, in dem das Ministerium die Nutzung des Paragraphen durch Institutionen aus Bildung und Wissenschaft eruieren will. Auf dieser Grundlage soll über das weitere Schicksal des § 52a entschieden werden. Das Urheberrechtsbündnis ist in die Befragung einbezogen worden.
+
+
+
+*7.) prometheus - facts & figures*
+
+Derzeit können 260.000 Bilder aus 25 Datenbanken über prometheus recherchiert werden. Nach der Account-Umstellung im Sommer gibt es nun 48 Universitäten, Institute und Schulen, die über den Campus-Zugang auf das Bildarchiv zugreifen, und insgesamt 3238 personalisierte Nutzungszugänge. 1.775 Personen beziehen diesen Newsletter.
+
+
+
+
+*8.) prometheus - Kontakt*
+
+Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte als Privatperson an die prometheus-Geschäftsstelle bzw. als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, schomburg@hbz-nrw.de.
+
+Wenn Sie daran interessiert sind, eine Datenbank in prometheus einzubringen, setzen Sie sich bitte mit Vorstandsmitglied Dr. Dorothee Haffner ("dorothee.haffner[at]rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de) in Verbindung.
+
+
+
+Die prometheus-Geschäftsstelle ist besetzt: Mo, Mi, Do und Fr, jeweils 10-13 Uhr, sowie Di 15-18 Uhr. fon: 0221-470 4476, fax: 0221-470 5044, "info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+
+
+
+
+
+Impressum
+
+Der nächste Newsletter (2006/01) erscheint voraussichtlich im März 2006.
+Redaktion: "sigrid.ruby@geschichte.uni-giessen.de":sigrid.ruby@geschichte.uni-giessen.de
+
+prometheus e.V.-Geschäftsstelle
+Kunsthistorisches Institut der Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln

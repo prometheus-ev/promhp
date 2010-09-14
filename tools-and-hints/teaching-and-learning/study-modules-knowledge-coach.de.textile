@@ -1,0 +1,14 @@
+---
+layout: default
+title: Wissenstrainer
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=63&L=0&skin=0
+---
+h4. <%= @page.title %>
+
+Im Grundstudium sind fundierte Kenntnisse in bestimmten Wissensbereichen zu erwerben.
+Der Wissens-Trainer führt in Wissensfelder ein und ermöglicht den Lernenden, Faktenwissen situationsbezogen oder analytisch-synthetisch zu erlernen, es in die jeweils bestehenden Wissensstrukturen einzubetten und durch die multicodalen Präsentationen zusätzliche Verknüpfungen für einen verbesserten Abruf zu erstellen.
+
+
+*Terminologie-Trainer*
+
+!<%=r 'files/images/a69a4f662e.jpg' %>! Studierende im Grundstudium "» mehr":<%=r 'tools-and-hints/teaching-and-learning/study-modules-knowledge-coach-terminologietrainer' %>

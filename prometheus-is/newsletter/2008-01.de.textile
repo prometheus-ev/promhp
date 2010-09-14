@@ -1,0 +1,122 @@
+---
+layout: default
+title: Newsletter 2008/01
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=469
+---
+h4. <%= @page.title %>
+*prometheus -- Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
+www.prometheus-bildarchiv.de
+
+Liebe Abonnentin, lieber Abonnent,
+
+verbunden mit guten Wünschen für das noch junge Jahr informieren wir Sie im heutigen Newsletter über den bevorstehenden Systemwechsel zu Pandora, neu eingebundene Datenbanken und den aktuellen Stand in Sachen Urheberrecht.
+
+Mit besten Grüßen,
+für prometheus e.V.,
+Sigrid Ruby
+
+
+*INHALT*
+
+1.) Pandora kommt
+2.) Bildarchiv Preußischer Kulturbesitz und Datenbank des UNESCO Kompetenzzentrums Paderborn in prometheus integriert
+3.) Konsequenzen des neuen Urheberrechts
+4.) prometheus -- facts & figures
+5.) prometheus -- Kontakt
+Impressum
+
+
+
+*1.) Pandora kommt*
+
+Im März ist es endlich so weit: Pandora, die schöne Schwägerin von Prometheus, geht an den Start. Die Bekräftigung der mythologischen Familienbande bedeutet eine Umstellung von der bislang von prometheus genutzten Software auf das neue System Pandora. Dadurch wird prometheus den Nutzerinnen und Nutzern des Bildarchivs neben den gewohnten Funktionalitäten nun auch noch deutlich verbesserte Möglichkeiten der Recherche und der Ergebnisverwertung bieten und außerdem mit einem optimierten Oberflächendesign aufwarten.
+
+Über die Details der Umstellung, zu denen auch ein vereinfachter Zugang zum Bildarchiv gehört, werden wir Sie im kommenden Monat rechtzeitig informieren.
+Einen ersten Eindruck können Sie sich anhand der seit längerem online geschalteten englischsprachigen Testversion von Pandora verschaffen.
+
+Die wesentlichen Neuerungen möchten wir an dieser Stelle noch einmal vorstellen.
+Was wird neu sein?
+
+*Erweiterte Suchfunktionen
+   Die Verknüpfung der Suchbegriffe mit UND, NICHT und ODER erlaubt eine präzisierte Suche und die gezielte Eingrenzung der Suchergebnisse.
+* Bessere Übersicht
+   Die Annotation der Datenbanken mit Ort, Funktion, inhaltlicher Ausrichtung und Umfang hilft bei der Auswahl der für die jeweilige Suche relevanten Datenbanken. Außerdem lassen sich die verschiedenen Datenbanken nun nach ihrem funktionalen Charakter oder ihrem inhaltlichen Profil gruppieren.
+* Verbesserter Überblick über die Suchergebnisse
+   Die Möglichkeit zur Sortierung der gefundenen Bilder nach Kriterien wie Künstler/in, Titel, Standort, Bildnachweis und Datenbank erleichtert das Finden relevanter Bilder und die Zusammenfassung bestimmter Bildgruppen.
+* Individuelle Gestaltung der Ergebnisliste
+   Die frei wählbare Anzahl der anzuzeigenden Datensätze und die beiden Anzeigemodi ,Galerie' und ,Liste' ermöglichen eine flexible Darstellung der Bilder in der Arbeitsmappe.
+* Verbesserte Nutzerverwaltung
+   Die neue Struktur der Nutzerverwaltung vereinfacht die Einrichtung und Anpassung der Zugänge zum Bildarchiv.
+* Zweisprachigkeit 
+
+
+Die (wahlweise) englische Fassung der Benutzeroberfläche und die Einbindung deutsch-englischer Wörterbücher bei der Suche erleichtern nicht-deutschsprachigen Nutzerinnen und Nutzern den Umgang mit dem Bildarchiv.
+
+Neugierig geworden? Wir freuen uns auf die Umstellung im März und Ihre Reaktionen darauf.
+
+
+
+*2.) Bildarchiv Preußischer Kulturbesitz und Datenbank des UNESCO-Kompetenzzentrums Paderborn in prometheus integriert*
+
+Das Bildarchiv Preußischer Kulturbesitz (bpk), die Fotoagentur der Stiftung Preußischer Kulturbesitz in Berlin, hat seinen Online-Katalog mit den qualitativ hochwertigen Fotografien der Gemälde und Objekte der Berliner Museen in prometheus eingebracht.
+
+Das in unserem letzten Newsletter (vgl. Newsletter 2007/3) erläuterte Rechte- und Publikationsmanagement, das prometheus zusammen mit dem bpk entwickelt hat, kommt nun erstmalig zur Anwendung.
+Alle Bilder im Bildarchiv Preußischer Kulturbesitz dürfen für wissenschaftliche, nicht-kommerzielle Publikationen mit einer Auflagenhöhe von unter 1.000 Exemplaren kostenlos verwendet werden. Die Publikationsgenehmigung erhalten Sie in prometheus über nur einen Klick. Darüber hinaus können Sie über prometheus auch die Genehmigung für z.B. kommerzielle Zwecke beim Bildarchiv Preußischer Kulturbesitz anfragen.
+Wir hoffen, dass diese Art der Rechteverwaltung Schule macht und wir darüber einen Ausgleich zwischen den jeweils berechtigten Interessen der Rechteinhaber einerseits und der Wissenschaft und Bildung andererseits herbeiführen können.
+
+Eine weitere Datenbank ist seit diesem Jahr über prometheus recherchierbar: Sie wurde im Rahmen der UNESCO-Professur für Materielles und
+
+Immaterielles Kulturerbe an der Universität Paderborn angelegt und für die Forschung zum kulturellen Erbe zur Verfügung gestellt. Die vorgehaltenen Bilder stammen aus den Bereichen europäische und außereuropäische Kunstgeschichte (Architektur, Städtebau, Skulptur, Malerei, Grafik und andere Bildkünste) vom Mittelalter bis zur Gegenwart.
+Darüber hinaus bietet das Paderborner Bildarchiv Stätten des kulturellen Erbes und anderen kulturellen Institutionen an, vorhandene Datenbestände zu digitalisieren und einzupflegen.
+Ansprechpartnerin ist Frau Professor Dr. Eva-Maria Seng
+("em-seng[at]mail.uni-paderborn.de":mailto:javascript:linkTo_UnCryptMailto('ocknvq,go/ugpiBockn0wpk/rcfgtdqtp0fg');)
+
+
+
+*3.) Konsequenzen des neuen Urheberrechts*
+
+Seit dem 1. Januar ist in Deutschland der sog. "Zweite Korb" des Urheberrechtsgesetzes in Kraft getreten, der im wissenschaftlichen Bereich bereits deutliche Auswirkungen zeigt. Aufgrund der Änderung des § 53 UrhG hat der Dokumentenlieferdienst subito den Versand elektronischer Kopien wissenschaftlicher Aufsätze eingestellt und ist zum Postversand zurückgekehrt.
+Elektronische Lieferungen sind nach der neuen Gesetzeslage nämlich nur noch dann zulässig, wenn der Verlag selbst keinen Onlinezugang zu dem
+gewünschten Artikel anbietet. Da die Verlagsangebote aber momentan zu unüberschaubar und uneinheitlich sind, kann subito es nicht leisten, alle Kopienanfragen daraufhin zu überprüfen. Subito plant nun, Lizenzvereinbarungen mit den Verlagen zu treffen, um künftig wieder den elektronischen Versand zu ermöglichen.
+
+Eine wichtige Änderung hat sich auch bei den Autorenrechten ergeben: Durch die Aufhebung des alten § 31 Abs. 4 UrhG sind Vereinbarungen über die Einräumung von Rechten für noch nicht bekannte Nutzungsarten künftig zulässig. Der Urheber kann bei Nutzungsarten, die bei Inkrafttreten des "Zweiten Korbs" bereits bekannt sind, innerhalb eines Jahres Widerspruch beim Verlag einlegen. Besondere Auswirkungen hat die neue Rechtslage auf ältere wissenschaftliche Publikationen.
+Erfolgt kein Widerspruch, erhalten die Verlage rückwirkend das Recht zur Online-Publikation von Veröffentlichungen, bei denen die Autoren den Vertrag vor dem 31.12.1994 abgeschlossen und darin dem Verlag das ausschließliche Nutzungsrecht eingeräumt haben. Der Ausschuss für wissenschaftliche Bibliotheken und Informationssysteme der DFG hat daher allen wissenschaftlichen Autorinnen und Autoren, die Open Access unterstützen möchten, geraten, bei denjenigen Verlagen, bei denen sie bislang publiziert haben, mit einem formellen Schreiben Widerspruch einzulegen.
+
+Eine weitere Änderung betrifft die Vergütungssätze: diese sollen künftig zwischen den Verwertungsgesellschaften und den Verbänden der Geräte- und Speichermedienhersteller selbst ausgehandelt werden.
+
+Die Hoffnungen auf ein wissenschaftsfreundlicheres Urheberrecht haben sich vorläufig nicht bewahrheitet. Es bleibt, den Dritten Korb aktiv zu gestalten, der sich auch mit der Wissenschaftsschranke des § 52 a befassen soll.
+
+Weitere Informationen unter:
+
+"http://www.subito-doc.de":http://www.subito-doc.de/
+
+"http://open-access.net/de/allgemeines/rechtsfragen/urheberrechtsreform":http://open-access.net/de/allgemeines/rechtsfragen/urheberrechtsreform
+
+"http://www.heise.de/newsticker/meldung/98336/":http://www.heise.de/newsticker/meldung/98336/
+
+
+
+*4.) prometheus -- facts & figures*
+
+Aktuell können über 490.000 Bilder aus 45 Datenbanken über prometheus gefunden werden. 80 Hochschulen und Institute im In- und Ausland halten eine Campus- bzw. Institutslizenz zur Nutzung des Bildarchivs. Die persönlichen Zugänge belaufen sich auf nunmehr 6.753; hinzu kommen Tausende von Nutzerinnen und Nutzern, die auf prometheus anonym im Rahmen einer Campus-Lizenz zugreifen. Diesen Newsletter beziehen derzeit 1.435 Personen.
+
+
+
+*5.) prometheus -- Kontakt*
+
+Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
+- als Privatperson an die prometheus-Geschäftsstelle
+- als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr.
+Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte[at]hbz.nrw.de":mailto:inhalte@hbz.nrw.de
+
+Eine Liste aller bereits eine Lizenz haltenden Institutionen finden Sie hier unter Bildarchiv->Anmeldung->Lizenzen.
+
+Die prometheus-Geschäftsstelle ist besetzt: Mo, 10-18 Uhr, und Di-Fr, jeweils
+10-13 Uhr. Telefon: 0221-470 4476, Telefax: 0221-470 5044, "info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+
+
+
+Impressum
+
+Der nächste Newsletter (2008 / 02) erscheint voraussichtlich Ende April.
+Redaktion: Dr. Sigrid Ruby ("sigrid.ruby[at]geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de )

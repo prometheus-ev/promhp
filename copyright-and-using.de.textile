@@ -1,0 +1,49 @@
+---
+layout: default
+title: Information zum Bildrecht und zur Verwendung der Bilder in prometheus
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=363
+---
+h4. <%= @page.title %>
+
+
+h5. 1. Verwendung der Bilder für Forschung und Lehre
+
+Die in prometheus recherchierbaren Bilder und Mediendateien (z.B. Videos) dürfen in der Hochschullehre, im Schulunterricht und zum eigenen wissenschaftlichen Gebrauch genutzt werden, ohne dass eine Genehmigung eingeholt oder eine Gebühr entrichtet werden muss.
+Nur wenn Sie die Bilder außerhalb von Lehre und Forschung nutzen wollen, müssen Sie mögliche urheberrechtliche Ansprüche Dritter berücksichtigen und gegebenfalls selber die Nutzungsgenehmigung einholen.
+
+Falls Sie also die Bilder außerhalb von Forschung und Lehre verwenden wollen, dann sollen Ihnen folgende Informationen helfen, sich im Dickicht des Urheberrechts etwas zu orientieren, um die eigenen Möglichkeiten und Ansprüche Dritter angemessen eruieren zu können.
+
+
+h5. 2. Trennung der Rechte am Kunstwerk und am Foto der Kunstwerke
+
+Um einen angemessenen Überblick über mögliche rechtliche Ansprüche Dritter am betreffenden Bild in prometheus zu bekommen, müssen zwei Bereiche unterschieden werden: Zum einen die
+
+
+*(a)* Verwertungsrechte am Kunstwerk, das im Urheberrecht allgemein als "Werk" bezeichnet wird, und zum anderen die
+
+
+*(b)* Verwertungsrechte am Foto des Kunstwerks, im Urheberrecht "Lichtbild" genannt.
+
+
+*zu (a)*
+Der Urheber des Kunstwerks ist der Künstler bzw. die Künstlerin. Die Verwertungsrechte liegen bei ihm/ihr und können bis 70 Jahre nach seinem/ihrem Tod auf seine/ihre Erben übertragen werden.
+
+(UrhG §64) Danach erlischt das Urheberrecht und das Kunstwerk ist gemeinfrei.
+Konkret heißt dies, dass nur urheberrechtlich Ansprüche geltend gemacht werden können, wenn das betreffende Kunstwerk von einem Künstler ist, der noch nicht länger als 70 Jahre verstorben ist.
+
+Die Verwertungsrechte für alle Künstler bis 70 Jahre nach ihrem Tod regelt die "Verwertungsgesellschaft Bild-Kunst":http://www.bildkunst.de/ in Bonn. 
+
+Für die Verwendung der Bilder in Forschung und Lehre hat prometheus mit der VG Bild-Kunst einen Vertrag geschlossen, der zum einen die Zugänglichmachung der Bilder in prometheus durch die verschiedensten Bilddatenbanken erlaubt und zum anderen die Verwendung für Forschung und Lehre (vgl. 1) gestattet.
+Für jede darüber hinausgehende Verwendung, Publikation oder öffentliche Zugänglichmachung muss die Genehmigung bei der VG Bild-Kunst eingeholt und zumeist eine Gebühr entrichtet werden.
+
+
+*zu (b)*
+Auch die Fotografien von Kunstwerken, die sog. Lichtbilder oder Lichtbildwerke werden im Urheberrecht geschützt (UrhG §72, sog. Leistungsschutzrecht). Handelt es sich um ein Foto, das durch einfaches technisches Abfotografieren einer meist zweidimensionalen Vorlage entstanden ist, entsteht ein sog. Lichtbild. Der Schutz erlischt 50 Jahre nach Herstellung des Lichtbildes, bzw. 50 Jahre nach seinem ersten erlaubten Erscheinen. Handelt es sich um ein Foto, das z.B. durch die Wahl des Blickwinkels und der Beleuchtung eine eigene Werkqualität aufweist, gilt es als sog. Lichtbildwerk und ist als solches bis 70 Jahre nach dem Tod des Fotografen geschützt (§ 64 UrhG). Bei Fotos von dreidimensionalen Vorlagen (Skulpturen etc.) entsteht daher in der Regel ein Lichtbildwerk.
+
+Die Genehmigung zur Verwertung muss bei den Fotografen oder Institutionen (z.B. Bildarchiven, Verlagen) direkt eingeholt werden.
+In prometheus sind wir bemüht, die Rechteinhaber der Lichtbilder angemessen auszuzeichnen. Gegebenfalls müssen Sie vom Nutzer selber recherchiert werden. Zumeist kann die Information im Bildnachweis helfen, die die Quelle des Bildes angibt.
+
+Wir sind daran interessiert mit den Rechteinhabern der Lichtbilder, den Fotografen, Bildarchiven, Verlagen usw., Verträge abzuschließen, damit man direkt über prometheus die Publikationsgenehmigungen für nicht-kommerzielle, wissenschaftliche Publikationen einholen kann.
+
+Mit der "Bildagentur für Kunst, Kultur und Geschichte (bpk)":http://www.bpk-images.de/ (ehemals Bildarchiv Preußischer Kulturbesitz) haben wir einen für die Wissenschaft vorbildhaften Kooperationsvertrag geschlossen.
+Danach können alle Bilder, die das bpk prometheus in digitaler Form zur Verfügung gestellt hat, für nicht-kommerzielle, wissenschaftliche Publikationen mit einer Auflagenhöhe von unter 1000 Exemplaren kostenlos verwendet werden. bpk, Museum und Fotograf sind, wie am Bild angegeben, in einem Bildquellenvermerk zu nennen. Den Museen, aus denen die aufgenommenen Werke stammen, ist unaufgefordert ein Belegexemplar zu übersenden. Eine Publikationsfunktion [P] zum jeweiligen Bild im Feld Bildrecht in prometheus ermöglicht die unkomplizierte Einholung der Rechtegenehmigung direkt beim Rechteinhaber.

@@ -1,0 +1,5 @@
+---
+layout: default
+title: Warum ILIAS?
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=207&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---

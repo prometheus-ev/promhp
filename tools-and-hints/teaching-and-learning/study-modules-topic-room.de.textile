@@ -1,0 +1,39 @@
+---
+layout: default
+title: Themenraum
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=65
+---
+h4. <%= @page.title %>
+
+Der Themenraum beruht auf konstruktivistischen Prinzipien, denn er bietet
+- einen authentischen Anwendungskontext,
+- multiple Perspektiven auf den Inhalt,
+- realitätsgetreue komplexe Problemlöseaufgaben und
+- Adaptivität.
+Die Adaptivität wird hier realisiert in
+- frei wählbaren Zugängen und Lernwegen,
+- gestaffelten Informationsniveaus,
+- gestuften Hilfen und
+- unterschiedlichen Aufgabenschwierigkeiten
+und nicht auf der Basis von automatisch erstellten Benutzerprofilen.
+Im Mittelpunkt stehen ein fachspezifischer Inhalt, seine Objekte, komplexe reale Problemsituationen und individuelle Leistungen zu übergreifenden intellektuellen Fragestellungen, wie auch die folgenden Beispiele zeigen:
+
+
+*2D-3D Grundlagen*
+| !<%=r 'files/images/e2a6a71d68.jpg' %>! | Zum Basisstudium "2D/3D Gestalten" wurde dieser Themenraum von Studierenden der Hochschule Anhalt geplant und in einigen Bereichen auch umgesetzt. "» mehr":<%=r 'tools-and-hints/teaching-and-learning/study-modules-topic-room-2d-3d' %> |
+
+
+*Altenberger Dom*
+| !<%=r 'files/images/3ada502581.jpg' %>! | Multimedia-Projekt "» mehr":<%=r 'tools-and-hints/teaching-and-learning/study-modules-topic-room-altenberger-dom' %> |
+
+
+*Altenstadt - Entdeckung einer Wandmalerei*
+| !<%=r 'files/images/033c234766.jpg' %>! | Um Neugier und Forschergeist zu wecken, wurde das Thema "Entdeckung einer Wandmalerei" ausgesucht. Der Einstieg sollte der Wirklichkeit entnommen, interessant, vielseitig und erweiterbar, qualitätvoll, aber nicht "zu bekannt"... "» mehr":<%=r 'tools-and-hints/teaching-and-learning/study-modules-topic-room-altenstadt' %> |
+
+
+*Forum romanum*
+| !<%=r 'files/images/d1f1cc51bc.jpg' %>! | Flashapplikation zum Thema Forum romanum "» mehr":<%=r 'tools-and-hints/teaching-and-learning/study-modules-topic-room-forum-romanum' %> |
+
+
+*mauer_reste*
+| !<%=r 'files/images/e138123eaa.jpg' %>! | mauer_reste wurde mit dem esPrix 2005 ausgezeichnet! "» mehr":<%=r 'tools-and-hints/teaching-and-learning/study-modules-topic-room-forum-romanum' %> |

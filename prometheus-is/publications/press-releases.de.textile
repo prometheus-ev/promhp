@@ -1,0 +1,33 @@
+---
+layout: default
+title: Presseerklärungen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=289&no_cache=1&L=0&skin=
+---
+h4. <%= @page.title %>
+
+
+06.10.05: Informationsdienst Wissenschaft idw "prometheus verleiht erstmals esPrix" "http://idw-online.de/pages/de/news130843":http://idw-online.de/pages/de/news130843 [74]
+
+28.07.04: Informationsdienst Wissenschaft idw "Vorbildliche Medieninitiative" "http://idw-online.de/pages/de/news84043":http://idw-online.de/pages/de/news84043 [75]
+
+16.3.04: Informationsdienst Wissenschaft idw " Drei Jahre prometheus: Einladung zum Festakt" "http://idw-online.de/public/zeige_pm.html?pmid=77266":http://idw-online.de/public/zeige_pm.html?pmid=77266 [76]
+
+15.01.03: Informationsdienst Wissenschaft idw "Die digitalisierte Kunstgeschichte. Innovative Forschungsprojekte an der LMU." "http://idw-online.de/public/zeige_pm.html?pmid=58117":http://idw-online.de/public/zeige_pm.html?pmid=58117 [77]
+
+14.05.01: Informationsdienst Wissenschaft idw "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" "http://idw-online.de/public/zeige_pm.html?pmid=34217":http://idw-online.de/public/zeige_pm.html?pmid=34217 [78]
+
+03.05.01: Presse-Informationen: Mai 2001 "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" "http://www.hu-berlin.de/presse/pressemit/arc4-2001.html#newsitem988902274,93782,":http://www.hu-berlin.de/presse/pressemit/arc4-2001.html#newsitem988902274,93782, [79]
+
+03.05.01: Informationsdienst Wissenschaft idw "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" "http://idw-online.de/public/zeige_pm.html?pmid=33771":http://idw-online.de/public/zeige_pm.html?pmid=33771 [80]
+
+17.04.01: "Neue Medien in der Bildung" "http://idw-online.de/public/zeige_pm.html?pmid=32948":http://idw-online.de/public/zeige_pm.html?pmid=32948 [81]
+
+11.04.01: Presse-Information 48/2001 "Neue Medien in der Bildung: prometheus -Projekt gestartet" "http://www.uni-koeln.de/pi/i/2001.048.htm":http://www.uni-koeln.de/pi/i/2001.048.htm [82]
+
+07.02.01: Informationsdienst Wissenschaft idw "Das Digitale Bild in der Lehre" "http://idw-online.de/public/zeige_pm.html?pmid=29875":http://idw-online.de/public/zeige_pm.html?pmid=29875 [83]
+
+05.02.01 Presse-Information 19/2001 "Das digitale Bild in der Lehre/ Lehr- und Lernmedien in der Kunstgeschichte und Archäologie" "http://www.uni-koeln.de/pi/i/2001.019.htm":http://www.uni-koeln.de/pi/i/2001.019.htm [84]
+
+10.09.01: Presse-Information 115/2001 "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre / Neue Medien für Kunstgeschichte und Archäologie" "http://www.uni-koeln.de/pi/i/2001.115.htm":http://www.uni-koeln.de/pi/i/2001.115.htm [85]
+
+10.09.01: Informationsdienst Wissenschaft idw "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" "http://idw-online.de/public/zeige_pm.html?pmid=38711":http://idw-online.de/public/zeige_pm.html?pmid=38711 [86]

@@ -1,0 +1,153 @@
+---
+layout: default
+title: Newsletter 2003/02
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=372
+---
+h4. <%= @page.title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre*
+
+
+
+Liebe Leserinnen und Leser,
+liebe assoziierte Partner und Interessierte,
+
+nachdem sich nun die ersten Wogen des Semesteranfangs etwas geglättet haben, möchten wir Sie über die aktuellsten Entwicklungen bei p r o m e t h e u s  informieren.
+Bereits an dieser Stelle lade ich alle assoziierten Partner und Interessierten zu unserem kleinen Workshop am 1. Dezember 2003 nach Gießen ein. Weitere Auskünfte hierzu erhalten Sie auf Anfrage oder in diesem Newsletter.
+
+Mit herbstlichen Grüßen und auf ein Wiedersehen in Gießen,
+für das prometheus-Team,
+Claudia Rust
+
+
+
+*INHALT*
+
+1.) Einladung zum  prometheus-Workshop am 1. Dezember 2003
+
+2.) Bildrecherche wird noch komfortabler
+
+3.) Neue Datenbanken eingebunden
+
+4.) Schulungsangebote
+
+5.) prometheus wieder auf Tagungen vertreten
+
+
+
+
+*1.) Einladung zum  prometheus-Workshop am 1. Dezember 2003*
+
+Wir laden Sie herzlich zu unserem 3. prometheus-Workshop am
+1. Dezember in der Justus-Liebig Universität Gießen ein. Da die Förderung des Projekts durch das bmb+f im März nächsten Jahres endet, steht unser diesjähriges Treffen unter dem Motto "Perspektiven". Wie geht es mit prometheus weiter?
+Welche Strategien zur Verstetigung des Projekts gibt es? Wie kann das System dauerhaft in die Lehre
+integriert werden? Diese und andere Fragen werden im Rahmen des folgenden Tagungsprogramms ausführlich diskutiert werden.
+
+prometheus-Workshop 2003, "Perspektiven"
+Justus-Liebig-Universität Gießen, Hauptgebäude Ludwigstr. 23, Aula und Vorraum
+Montag, 1.12.2003, 10.30-18.00 Uhr
+
+
+
++PROGRAMM+
+
+I. Interner Teil für prometheus und assoziierte Partner
+
+10.00
+Anreise
+
+10.30
+Begrüßung
+Prof. Dr. W. Martini
+
+10.45
+Stand und Aussichten der Bereiche Recherche, Arbeitsmappe, Präsentation
+PD Dr. N. Eschbach
+Expertensuche - timeline - offline-Arbeitsmappe - dynamische Anbindung -
+Nutzerverwaltung - Verwaltung von Projekt und Mappe - Hilfe - angebundene
+Datenbanken aktuell und künftig
+
+11.25
+eLearning im Einsatz
+Dr. B. Pfleging, Dipl.-Ing. T. Kindel, Dr. S. Brenne
+eLearning, Ilias, Schulungsangebote
+
+12.05
+Kaffeepause
+
+12.20
+Perspektiven der prometheus-Lernumgebung
+Dr. B. Pfleging, Dipl.-Ing. T. Kindel, Dr. S. Brenne
+Themenraum, Beschreibungs-Coach, Terminologie-Trainer
+
+13.00
+Mittagspause und Postersession
+Imbiß
+
+
+II. Öffentlicher Teil
+
+
+14.00
+Öffentliche Vorstellung der Präsentationen
+Easy-DB (Univ. Bern), Das Digitale Beethovenhaus (Bonn), Digitale Bildarchive (Friedrich-Alexander Univ. Erlangen-Nürnberg), Datenbanksystem DILPS (Johann-Wolfgang-Goethe Univ. Frankfurt), 3-D-Projekte (Georg-August Univ. Göttingen), Erschließung der frühneuzeitlichen Einblattdrucke (Bayerische Staatsbib. München), vihap3d-Projekt (Max-Planck-Inst. Saarbücken), Datenbankprojekt und Lernplattform (Univ. Salzburg), Interaktive Hologramme (Bauhaus-Univ. Weimar), Datenbankprojekt (Stiftung Luther-Gedenkstätten Wittenberg)
+
+15.00
+Ein Blick in die Zukunft - Digitale Kulturarchive von interaktiven 3D-Objekten mit Reflektionseigenschaften H. Lensch, Dr. J. Lang, M. Goesele, C. Weins
+III. Interner Teil für prometheus und assoziierte Partner
+
+15.45
+Verstetigung von prometheus
+Dr. H. Simon - Dr. U. Verstegen - C. Rust M. A.
+Konzepte und Diskussion
+
+18:00
+voraussichtliches Ende
+
+
+
+Der letzte Programmpunkt richtet sich vor allem an unsere assoziierten Partner und alle, die es werden wollen. Ihre Meinungen und Vorschläge liegen uns sehr am Herzen. Wir hoffen, mit Ihnen gemeinsam eine fruchtbare Diskussion über Verstetigungskonzepte und Zukunftsperspektiven von prometheus führen zu dürfen, und freuen uns auf Ihr Kommen. Bitte melden Sie sich bis zum 14. November 2003 bei Claudia Rust per eMail unter Claudia.Weiser[at]geschichte.uni-giessen.de an.
+
+
+
+*2.) Bildrecherche wird noch komfortabler*
+
+Zum prometheus-Workshop am 1. Dezember werden allen Nutzerinnen und Nutzern neue Suchfunktionen im prometheus-System zur Verfügung stehen. Ein Highlight ist die neue Standardsuche, die ähnlich wie "Google" eine intuitive und einfache Suche durch den Datenbestand ermöglicht. Für detaillierte Suchanfragen wird dann eine Detailsuche angeboten, bei der die Suchbegriffe auf spezifische Felder eingegrenzt werden können. Beide neuen Suchmasken können wie gewohnt über die Navigationsleiste ausgewählt werden. Wir wünschen viel Spaß beim neuen Sucherfolg!
+
+
+
+*3.) Neue Datenbanken eingebunden*
+
+Neben den bisher verfügbaren Datenbanken aus den unterschiedlichen kulturhistorischen Themenbereichen treten demnächst fünf weitere Archive hinzu. Damit wird das inhaltliche Spektrum von Graphik über Skulptur bis zur Numismatik entschieden bereichert. Die neu eingebundenen assoziierten Partner sind das Requiem-Projekt der Humboldt-Universität zu Berlin, das Kunsthistorische Institut
+der Universität Bern, die Bayerische Staatsbibliothek München mit ihrer Datenbank zu frühneuzeitlichen Einblattdrucken, die Evangelisch-Theologische Fakultät der Ludwig-Maximilians Universität München mit der Abteilung für Kirchengeschichte und die Stiftung Luther-Gedenkstätten in Wittenberg mit der Münz- und Medaillensammlung.
+Weitere Einbindungen kunsthistorischer und archäologischer Datenbanken folgen. Ein herzliches Dankeschön gilt allen Bildgebern für die freundliche Unterstützung des verteilten digitalen Bildarchivs prometheus und für die Bereitstellung ihrer Bilder.
+
+
+
+*4.) Schulungsangebote*
+
+Die wachsende Nachfrage nach prometheus, aber auch die oftmals immer noch vorhandene Unsicherheit in der Arbeit mit digitalen Medien hat uns veranlasst, über eine Ausdehnung unseres Service-Angebots nachzudenken. Soweit Interesse besteht, bieten prometheus Mitarbeiterinnen und Mitarbeiter zum Selbstkostenpreis bei Ihnen vor Ort oder als koordinierte Lehrgänge bei uns gerne Schulungen und Beratungen zu folgenden Themen an:
+
+- prometheus-Anwendung
+- digitale Bildbearbeitung
+- Ilias-Lernplattform
+- technische Hilfestellungen im Umgang mit Datenbanken
+
+Bitte melden Sie sich diesbezüglich bei der prometheus-Geschäftsstelle oder unter prometheus- info@uni-koeln.de
+
+
+
+*5.) prometheus wieder auf Tagungen vertreten*
+
+Schließlich möchten wir Sie auf weitere Aktivitäten und Vorträge des prometheus-Projektes hinweisen.
+Die Rubrik "termine" auf unserer Homepage unter www.prometheus-bildarchiv.de informiert Sie schon jetzt über Veranstaltungen, an denen prometheus-Mitarbeiterinnen und Mitarbeiter in den nächsten Monaten teilnehmen werden. Wir freuen uns, Sie unter anderem am 12.-14.11.2003 in Berlin auf der EVA-Tagung oder am 21.11.2003 auf der shockwards 2003 in Stuttgart kennen zu lernen.
+
+
+prometheus-Geschäftsstelle
+Kunsthistorisches Institut der
+Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln
+
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de/
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+0221/470-4476

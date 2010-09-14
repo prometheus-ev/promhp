@@ -1,0 +1,56 @@
+---
+layout: default
+title: Newsletter 2009 / 03
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=481
+---
+h4. <%= @page.title %>
+*prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
+
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de
+
+
+
+
+*Sondernummer: Das digitale Historische Archiv Köln für den Grimme Online Award nominiert*
+
+"www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/
+
+
+Das von prometheus e.V. und der Abteilung für Rheinische Landesgeschichte der Universität Bonn initiierte Internetportal "Das digitale Historische Archiv Köln" wurde gestern in der Kategorie Spezial als ein innovatives und qualitativ herausragendes Webangebot für den Grimme Online Award 2009 ("www.grimme-institut.de/html/index.php?id=180":http://www.grimme-institut.de/html/index.php?id=180) nominiert.
+
+
+Das digitale Archiv führt die in der ganzen Welt verstreuten Kopien, Fotos und Mikrofilme der Kölner Archivalien zusammen und wird zu dem digitalen Lesesaal für die Geschichte der Stadt Köln ausgebaut.
+
+
+Über die Nominierung und vor allem auch über den Zuspruch der letzten Wochen haben wir uns sehr gefreut und möchten uns bei allen Unterstützern ganz herzlich bedanken.
+
+
+Am 3. März 2009 stürzte das Historische Archiv der Stadt Köln vermutlich aufgrund des U-Bahnbaus entlang der Severinstraße vollständig in sich zusammen. Nur vier Tage nach der Katastrophe wurde "Das digitale Historische Archiv Köln" ins Leben gerufen ("www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/), um mit der Zusammenführung der Archivalien im Internet die Bestände des Stadtarchivs im Internet zu rekonstruieren und Soforthilfe für aktuelle Forschungen zu leisten. Zudem bietet das Internetportal eine Grundlage für die Rekonstruktion der Originale.
+
+
+Der Zuspruch war von Beginn an sehr groß. Bereits am dritten Tag wurde die Webseite noch vor Pressebekanntmachung von 1145 Besuchern aufgerufen. Bis heute haben sich fast 400 Besucherinnen und Besucher registriert und über 1200 Einträge zu einzelnen Archivalien und ganzen Beständen vorgenommen. Mehrere tausend Digitalisate liegen bereits vor und werden in den nächsten Wochen eingearbeitet.
+
+
+Die überwältigende Unterstützung für das Projekt zeigt das Bedürfnis der ehemaligen Besucherinnen und Besucher des Historischen Archivs "ihr" Stadtarchiv im Netz wieder aufzubauen.
+
+
+Der digitale Lesesaal soll allen die Möglichkeiten zur eigenen Forschung und zur Kommunikation bieten. Wir wünschen uns einen lebendigen Lesesaal zum Austausch mit anderen Nutzerinnen und Nutzern, mit einer Pinnwand der aktuellen Projekte, mit der Möglichkeit Quellen zu kommentieren und so das Wissen über die Geschichte der Stadt Köln aktiv zu ergänzen. Eine digitale Bibliothek mit Lexika, Zeitschriftenaufsätzen und Büchern ergänzt das Archiv zur Kölner Geschichte.
+
+Wird damit das Historische Archiv der Stadt Köln in seiner bisherigen Form als Gebäude mit Lesesaal und Magazin zur Aufbewahrung der Archivalien überflüssig? Nein, ganz im Gegenteil. Der digitale Lesesaal für die Geschichte der Stadt Köln ist die virtuelle Empfangshalle des Archivs, die allen Interessierten weltweit zur Verfügung steht. Das digitale Historische Archiv macht die Kölner Schätze bekannt, lädt zum Stöbern ein und regt dazu an, mit vielen Fragen und Ideen nach Köln zu kommen und dort die einzigartigen Originaldokumente zu studieren!
+
+
+Den Aufbau eines digitalen Lesesaals können die beteiligten Institutionen natürlich nicht alleine schultern. Dazu sind externe Mittel und Partner notwendig. Es wird derzeit an einem Konzept für die Finanzierung gearbeitet, damit ab Mitte des Jahres der Ausbau des digitalen Lesesaals zur Geschichte der Stadt Köln gesichert ist.
+
+
+Für die Verleihung des Grimme Online Award am 24. Juni 2009 in Köln hofft das Team nicht nur auf die höchste Auszeichnung, sondern auch auf den Publikumspreis. Wir freuen uns, wenn Sie für das Projekt unter "www.tvspielfilm.de/gewinnspiele/grimme/wahl/":http://www.tvspielfilm.de/gewinnspiele/grimme/wahl/ Ihre Stimme abgeben.
+
+
+Kontakt:
+
+PD Dr. Holger Simon, prometheus – Das digitale Bildarchiv für Forschung und Lehre e.V. ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de, 0221 470 4476)
+
+Dr. Andreas Rutz, Institut für Geschichtswissenschaft, Abt. für Rheinische Landesgeschichte der Universität Bonn ("www.landesgeschichte.uni-bonn.de":http://landesgeschichte.uni-bonn.de, 0228 739 766)
+
+eMail: "info[at]historischesarchivkoeln.de":mailto:info@historischesarchivkoeln.de
+
+

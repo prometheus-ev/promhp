@@ -1,0 +1,43 @@
+--- 
+layout: post
+typo_id: 34
+title: "Out of the box: pandora v0.3.3 (r2207)"
+---
+<em>English summary <a href="#english-1256745104">below</a>.</em>
+
+Mein lieber Herr Gesangsverein, dieses Mal habe ich aber einiges zu schreiben. Es hat sich viel getan in <a href="http://prometheus.uni-koeln.de/pandora/about" title="About pandora">pandora</a>-Land, seit wir vor nunmehr <a href="http://de.wikipedia.org/wiki/42_(Antwort)" title="Wikipedia: 42">42</a> Tagen das <a href="http://prometheus.khi.uni-koeln.de/blog/2009/09/17/out-of-the-box-pandora-v0-3-2-r2094" title="Out of the box: pandora v0.3.2 (r2094)">letzte Mal unsere Änderungen zur Benutzung freigegeben haben</a>.<br />
+Deshalb spare ich mir hier jetzt auch weiteren Text und verbrauche die wertvollen Buchstaben lieber, um ein paar Worte darüber zu verlieren, wie sich unsere immerhin <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=10%2F29%2F09&daysback=41">113 Änderungen</a> auf das Arbeiten mit dem Bildarchiv auswirken.
+
+<ul>
+  <li><strong>Das Bearbeiten von Bildsammlungen wurde bequemer.</strong><br />
+	BenutzerInnen, die in Ihrem Browser <a href="http://de.wikipedia.org/wiki/JavaScript" title="Wikipedia: JavaScript">JavaScript</a> aktiviert haben, was wohl auf die meisten zutreffen dürfte, kommen nun in den Genuss, Bildsammlungen bequemer bearbeiten zu können. Wer nur mal eben den Beschreibungstext oder Titel seiner Sammlung ändern möchte, ihr einen Link oder ein Schlagwort zuordnen möchte, sprich: wer vorhat die Metadaten einer Sammlung zu ändern muss die Bildsammlung dazu nicht mehr verlassen, sondern kann dies sofort an Ort und Stelle tun. So soll ein flüssigeres Arbeiten ermöglicht werden.</li>
+  <li><strong>Bildsammlungen können nun per RSS im Auge behalten werden.</strong><br />
+	Mein Lieblingsfeature in diesem Release! Bisher musste ich jeden Tag nachsehen, ob jemand etwas in meiner freigegebenen Bildsammlung geändert hat und ob neue Sammlungen von anderen BenutzerInnen freigegeben wurden. Dies wird mir nun von meinem <a href="http://de.wikipedia.org/wiki/Feedreader" title="Wikipedia: Feedreader">Feedreader</a> abgenommen. Denn pandora stellt seit heute <a href="http://de.wikipedia.org/wiki/RSS" title="Wikipedia: RSS">RSS-Feeds</a> für die Listen der Bildsammlungen (<a href="http://prometheus.uni-koeln.de/pandora/collection/own">Eigene</a>, <a href="http://prometheus.uni-koeln.de/pandora/collection/shared">Freigegebene</a>, <a href="http://prometheus.uni-koeln.de/pandora/collection/public">Öffentliche</a>) und die Änderungen an jeder <a href="http://prometheus.uni-koeln.de/pandora/collection/history/15892" title="Änderungen an Mein kleiner Zoo - free">einzelnen Sammlung</a> zur Verfügung. Die Feeds können automatisch gelesen werden, so dass ich mich nur noch von meiner Software darüber informieren lassen muss, ob es etwas neues gibt.</li>
+  <li><strong>Der Durchschnittswert der Abbildungsbewertungen wird nicht mehr in den Datenbankinformationen angezeigt.</strong><br />
+	Wir wurden darauf hingewiesen, dass die Anzeige des Durchschnitts aller bisher zur Datenbank abgegebenen Abbildungsbewertungen irreführend sein kann. Wir haben uns daraufhin zusammengesetzt und sind zu dem Schluss gekommen, dass wir das auch so sehen.<br />
+Das Anzeigen der Sternchen in den Datenbankinformationen kann auf den ersten Blick als Bewertung der gesamten Datenbank aufgefasst werden. Dies jedoch ist nicht so einfach möglich, immerhin könnten bisher zufällig nur die schlechtesten Abbildungen bewertet worden sein. Mal ganz davon abgesehen, dass sich zur Bewertung einer Datenbank noch ganz andere Fragen stellen. Ist eine Datenbank mit besonders seltenen Abbildungen, die aber von minderer Qualität sind, nun eine schlechte oder nicht?</li>
+  <li><strong>Und dann hätten wir da noch die kleinen Verbesserungen und beseitigten Fehler.</strong><br />
+	Wieso erwähne ich die eigentlich immer wieder? Ganz klar, weil sie einen gar nicht so kleinen Anteil an dem ausmachen, was wir hier ständig tun. Irgendwo schleicht sich immer irgendein Fehler ein. Außerdem ist uns natürlich klar, dass pandora durchaus schneller sein könnte, woran auch ständig gearbeitet wird. Mit diesem Update wurden zum Beispiel die Bildsammlungen ein bisschen beschleunigt.<br />
+	Am Benutzer-Interface wird auch dauernd gefeilt, so lassen sich unsere Erfolgs- und Fehlermeldungen jetzt per Mausklick entfernen, auch ohne die aktuelle Seite zu verlassen oder neu zu laden.</li>
+</ul>
+<a href="/files/collection_0_3_3.png"><img src="/files/collection_0_3_3_small.png" alt="Neuheiten in der Bildsammlung" /></a>
+
+Interessant für die Admins unter den Lesern: <strong>Useradmins sehen nun alle Zugänge, für die sie zuständig sind.</strong><br />
+  Bisher sind wir immer davon ausgegangen, dass ein Zugang mit unbestätigter Emailadresse seine Anmeldung noch nicht komplett abgeschlossen hat. Deshalb sind solche Zugänge auch nicht in den Listen der Useradmins aufgetaucht. Dabei hatten wir allerdings übersehen, dass es natürlich etwas seltsam für einen Useradmin ist, gerade einen Zugang für jemanden angelegt zu haben, diesen dann allerdings nicht in der Liste vorzufinden.<br />
+  Deshalb tauchen Zugänge, die von Useradmins angelegt wurden nun auch in der Liste auf.
+
+Wir wünschen natürlich weiterhin viel Spaß bei der Arbeit mit dem prometheus-Bildarchiv und freuen uns auch wie immer über Ihre Rückmeldungen.
+
+<a name="english-1256745104"></a><strong>English summary</strong><br />
+This update to version 0.3.3 includes:
+<ul>
+  <li><strong>Editing collections is now more comfortable.</strong><br />
+  Users with <a href="http://en.wikipedia.org/wiki/JavaScript" title="Wikipedia: JavaScript">JavaScript</a> enabled are now able to edit a collection's metadata in place.</li>
+  <li><strong>Now it is possible to track collections via RSS.</strong><br />
+  We added <a href="http://en.wikipedia.org/wiki/RSS" title="Wikipedia: RSS">RSS feeds</a> to the three lists of collections (<a href="http://prometheus.uni-koeln.de/pandora/collection/own">own</a>, <a href="http://prometheus.uni-koeln.de/pandora/collection/shared">shared</a>, <a href="http://prometheus.uni-koeln.de/pandora/collection/public">public</a>) and to the <a href="http://prometheus.uni-koeln.de/pandora/collection/history/15892">history of each collection</a>.</li>
+  <li><strong>The average reproduction quality ratings are no longer attached to the databases.</strong><br />
+  In order to guard against misunderstandings, the reproduction quality ratings are now removed from the database description. Rating a whole database from only a few votes would simply give a wrong impression.</li>
+  <li><strong>Useradmins are now able to see all accounts they are responsible for.</strong><br />
+  Unlike before, useradmins are now able to see accounts which have not yet verified their email addresses if they were created by a useradmin.</li>
+  <li><strong>As always, we made a bunch of bug fixes and improvements.</strong></li>
+</ul>

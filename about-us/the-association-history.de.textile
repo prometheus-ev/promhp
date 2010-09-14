@@ -1,0 +1,53 @@
+---
+layout: default
+title: Vom Projekt zum Verein - Die Geschichte von prometheus
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=67
+---
+h4. <%= @page.title %>
+
+
+h5. prometheus als bmbf-Projekt
+
+
+Als bundesweites Verbundprojekt startete "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" am 01. April 2001. Es wurde vom Bundesministerium für Bildung und Forschung (bmb+f) im Rahmen des Förderprogramms "„Neue Medien in der Bildung“":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/ mit insgesamt 1,8 Mio. EUR gefördert. Der "Projektträger":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/httpstatus-404/6848_read-6936/ "Neue Medien in der Bildung" war dem Deutschen Institut für Luft- und Raumfahrt (DLR) angeschlossen.
+
+
+
+h5. Drei Projektjahre, vier Hochschulen, acht Institute
+
+
+An der Projektentwicklung und -umsetzung von  prometheus  waren in den drei Jahren neben den neun Projektverantwortlichen insgesamt über
+50 Mitarbeiter/-innen und Hilfskräfte aus vier Hochschulen und acht Instituten beteiligt.
+
+Es war von Anbeginn das Ziel der Projektarbeit, über die Grenzen der einzelnen Disziplinen hinweg einen wirklich interdisziplinären Austausch zu fördern, damit alle Mitarbeiter/-innen einen Einblick in die unterschiedlichsten Arbeitsfelder gewinnen und an deren Entscheidungsfindungen teilhaben konnten.
+Die Hauptarbeitsfelder verteilten sich auf die Hochschulen und Institute wie folgt:
+
+
+*Hochschule Anhalt (FH):*
+Fachbereich Informatik (Köthen): Programmierung der Recherchemodule (TimeLine) und der Offline-Arbeitsmappe
+Fachbereich Design (Dessau): Gestaltung und Konzeption des Bildarchiv (Recherche, Arbeitsmappen, Navigation) und der Homepage; Entwicklung der Lernelemente
+
+*Humboldt-Universität zu Berlin:*
+Kunstwissenschaftliches Seminar: Datenbank imago_diathek, Datenbank der Virtuellen Kunst, Entwicklung der Lernelemente
+
+*Justus-Liebig-Universität Gießen:*
+Professur für Archäologie: Datenbank EikonLine, Entwicklung der Lernelemente
+Professuren für Kunstgeschichte: Datenbank Digitale Diathek, Datenbank DigiDiathek, Koordination der assoziierten Partner
+
+*Universität zu Köln:*
+Kunsthistorisches Institut: Projektleitung und Projektkoordination, Datenbank Dada Web
+Institut für Historisch Kulturwissenschaftliche Informationsverarbeitung: Technologie des zentralen Servers, technische Umsetzung der Konzeption und Gestaltung des Bildarchivs
+Pädagogisches Seminar: Entwicklung der Lernelemente, Evaluation
+
+
+
+Während der Projektlaufzeit konnten über die angestrebten Projektziele hinaus weitere 15 Datenbanken eingebunden werden, so dass man am Ende des Projekts auf mehr als 150.000 Bilder zugreifen konnte.
+
+Über 60 Institutionen schlossen sich in diesen drei Jahren dem Projekt als *assoziierte Partner* an, die selbständig 1700 Anwenderaccounts verwalten.
+
+
+*Verstetigung als Verein 2003*
+
+Um das Erreichte zu verstetigen, wurde schon während der Projektlaufzeit am 24. März 2003 der Verein  „prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.“ gegründet.
+Der Verein trat zum 1. April 2004 die Rechtsnachfolge des Projekts mit dem Ziel an, die Finanzierung und technische Struktur von prometheus sicherzustellen und das Bildarchiv einschließlich der Lernelemente weiter zu entwickeln.
+Die prometheus–Geschäftsstelle hat ihren Sitz am Kunsthistorischen Institut der Universität zu Köln.

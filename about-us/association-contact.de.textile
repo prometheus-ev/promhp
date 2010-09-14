@@ -1,0 +1,41 @@
+---
+layout: default
+title: Kontakt
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=43
+---
+h4. <%= @page.title %>
+
+
+Tel. (0221) 470 4476
+Mo -  Fr von 10 - 16 Uhr
+
+Fax (0221) 470 6773
+
+
+"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+
+
+*prometheus-Geschäftsstelle*
+
+c/o Kunsthistorisches Institut
+der Universität zu Köln
+Albertus-Magnus-Platz
+D - 50923 Köln
+
+
+*Gebäudeadresse*
+
+Bernhard-Feilchenfeld-Str. 11
+D - 50939 Köln
+
+
+*Bankverbindung*
+
+Volksbank Gießen-Friedberg
+BLZ 513 900 00
+Konto-Nr.: 133 89 00
+
+
+*Gerichtsstand*
+
+Amtsgericht Köln VR - 142 02

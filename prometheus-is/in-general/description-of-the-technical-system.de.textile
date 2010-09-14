@@ -1,0 +1,32 @@
+---
+layout: default
+title: Technisches System
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=269
+---
+h4. <%= @page.title %>
+
+Technisches Kernstück von prometheus ist der Zentralserver, der von prometheus e.V. an der Universität zu Köln unter Linux betrieben wird. Der Zentralserver stellt keine einheitliche Bilddatenbank zur Verfügung, sondern leistet den Informationsausgleich zwischen den einzelnen per se autonomen Datenbanken des Bildarchivs.
+
+
+
+Neben unterschiedlichen Feldbenennungen weisen die einzelnen Datenbanken stark unterschiedliche Eingabekonventionen auf. So kann der Titel eines Kunstwerks in einer Datenbank schlicht als »Titel« erscheinen, während der vergleichbare Informationsgehalt in einer anderen Datenbank als das Feld »Kurzbeschreibung« firmiert. Bestimmte Datenbanken datieren ausschließlich mit Zahlen (z.B. »1500-1550«), während andere Ausdrücke wie »1. Hälfte 16. Jh.« oder gar Stil- bzw. Epochenzuschreibungen wie »antoninisch« als Datierungsmerkmal verwenden.
+
+
+
+Die Aufgabe des Zentralservers ist es, bei einer entsprechenden Benutzerabfrage zwischen der Datenstruktur und dem Informationsgehalt der einzelnen Datenbanken zu vermitteln. Wer z.B. über den Server einen bestimmten Bildtitel sucht, wird nicht bemerken, dass er/sie eigentlich in einer Vielzahl verschiedener Datenbanken recherchiert, die diese Information in verschiedener Form bereithalten können. Der Zentralserver bereitet die Informationen außerdem so weit als möglich einheitlich auf. Die Datenausgabe suggeriert dem Anwender und der Anwenderin damit eine Recherche in einer mehr oder minder homogen strukturierten Datenbank.
+
+
+
+Die technische Realisation stellt sich gegenwärtig so dar, dass die Daten (Bildbeschreibungen) der einzelnen Datenbanken als XML-Dump auf dem Zentralserver implementiert werden. Dort werden sie jeweils in einzelne unabhängige Datenbanken überführt.
+
+
+
+Grundlage hierfür war in der Vergangenheit das von Manfred Thaller
+
+entwickelte Datenbankprogramm Kleio.
+
+Am 31. März 2008 übernahm "pandora – Die Software von prometheus, dem digitalen Bildarchiv" diese Aufgabe.
+
+"www.prometheus-bildarchiv.de":<%=r 'prometheus-is/pandora/index' %>
+
+"prometheus.uni-koeln.de/pandora/about":http://prometheus.uni-koeln.de/pandora/about

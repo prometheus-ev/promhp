@@ -1,0 +1,12 @@
+---
+layout: default
+title: Kleine Applikationen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=61
+---
+h4. <%= @page.title %>
+
+In dieser Kategorie finden Sie kleine Applikationen, die sich schnell in eine Lerneinheit o.ä. einbauen lassen.
+
+*Malen mit Flash*
+
+!<%=r 'files/images/4c78bb2698.jpg' %>! Interaktive Flash-Applikation über die Wirkung von Komplementärkontrasten "» mehr":<%=r 'tools-and-hints/teaching-and-learning/study-modules-little-application-malen-mit-flash' %>

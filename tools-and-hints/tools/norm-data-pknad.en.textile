@@ -1,0 +1,5 @@
+---
+layout: default
+title: PKNAD (prometheus KünstlerNamensAnsetzungsDatei)
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=279&L=1&skin=&tx_ttnews[tt_news]=10&tx_ttnews[pointer]=
+---

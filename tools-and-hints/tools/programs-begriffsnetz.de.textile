@@ -1,0 +1,34 @@
+---
+layout: default
+title: Begriffsnetz
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=277&tx_ttnews[tt_news]=24&tx_ttnews[backPid]=58&cHash=1ac3f80532
+---
+h4. <%= @page.title %>
+
+| !<%=r 'files/images/1ab8a38f99.jpg' %>! | !<%=r 'files/images/69764109f9.jpg' %>! |
+
+09.03.07
+
+
+*Dateien zum Herunterladen:*
+"begriffsnetz_1_4.ZIP":<%=r 'files/media/begriffsnetz_1_4.ZIP' %>
+
+
+*Funktionsmodell für den Terminologie-Trainer von prometheus.*
+Das _begriffsnetz_ ist ein Funktionsmodell für den Terminologie-Trainer von prometheus.
+Es geht davon aus, daß die inhaltliche Aussage von Begriffen unabhängig von ihrem Namen ist.
+Die Eingabe erfolgt über ein Autoren-Formular.
+Im Netz werden Informationen (Lexikontext, systematische Tafel, Illustrationen, Literatur) nur auf Wunsch eingeblendet, die Darstellung kann durch die Bedingungen eingeschränkt werden, unter denen die Begriffe miteinander verknüpft sind.
+Der Lernweg im Netz wird aufgezeichnet und individuell gespeichert, ebenso die persönlichen Notizen, die zu Texten zusammengestellt werden können.
+Bitte beachten Sie, daß diese Version erst knapp den beta-Status erreicht hat.
+Das begriffsnetz unterliegt den Bestimmungen der Digital Peer Publishing Lizenz.
+
+*Anwendungsbereich:* Informations-Aufbereitung
+
+*Technische Voraussetzungen:* windows
+
+
+Von: Stefan Brenne
+
+
+"zurück zu: Programme":<%=r 'tools-and-hints/tools/programs' %>

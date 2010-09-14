@@ -1,0 +1,5 @@
+---
+layout: default
+title: Data bases
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=57&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---

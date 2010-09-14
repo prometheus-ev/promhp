@@ -1,0 +1,125 @@
+---
+layout: default
+title: Newsletter 2007 / 01
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=213
+---
+h4. <%= @page.title %>
+*prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
+
+
+Liebe Abonnentin, lieber Abonnent,
+
+auch bei uns laufen die Vorbereitungen für den Kunsthistorikertag in Regensburg auf Hochtouren. Wir habe dort einiges zu bieten!! Außerdem möchten wir explizit hinweisen auf den glücklichen Vertragsabschluß mit der VG BILD-KUNST. Er bringt prometheus und allen, die daran mitwirken, ein wichtiges Stück Rechtssicherheit.
+
+Mit herzlichen Grüßen und guten Wünschen für ein belebendes Frühjahr,
+
+für prometheus e.V.,
+Sigrid Ruby
+
+
+
+*INHALT*
+
+
+1.) prometheus auf dem XXIX. Deutschen Kunsthistorikertag in Regensburg
+2.) Rechtssicherheit nach Vertragsabschluß mit VG BILD-KUNST
+3.) Neues Projekt in Zusammenarbeit mit der FH Köln
+4.) „Digitale Medien und Wissenschaftskulturen“ – Tagungsbeiträge in zeitenblicke veröffentlicht
+5.) Umfrage der Bilddatenbank „Pictura Paedagogica Online“
+6.) prometheus – facts & figures
+7.) prometheus – Kontakt
+
+
+
+*1.) prometheus auf dem XXIX. Deutschen Kunsthistorikertag in Regensburg*
+
+Der XXIX. Kunsthistorikertag (14.-18. März) ist eine willkommene Gelegenheit die technischen und optischen Neuerungen von prometheus erstmalig der Öffentlichkeit vorzustellen.
+
+Unsere website hat nämlich ein neues Gesicht bekommen und dadurch erheblich an Nutzungsfreundlichkeit gewonnen. Unter anderem ist der Weg zum Bildarchiv nun klarer und kürzer. Der Informationsbereich wurde mit FAQs (und Antworten darauf) erweitert.
+In Regensburg präsentieren wir außerdem die Test-Version einer neuen Recherchetechnologie mit hochkomfortablen Funktionen. Diese ermöglichen eine noch präzisere Bildersuche und eine Sortierung der Rechercheergebnisse nach ausgewählten Kriterien.
+
+ 
+
+prometheus wird auf dem Kunsthistorikertag vom 14.-17. März, also von Mittwoch bis Samstag, mit einem Stand vertreten sein, und wir freuen uns auf Ihr reges Interesse.
+
+ 
+
+Aus praktischen Gründen findet die prometheus-Mitgliederversammlung in diesem Jahr in Regensburg statt: Am Donnerstag, dem 15. März, von 19 bis ca. 21 Uhr, im Hörsaal 5 (H5) der Universität.
+Die Verleihung des esPrix 2007 erfolgt gegen 20.30 Uhr im Anschluss an die Mitgliederversammlung.
+
+ 
+*2.) Rechtssicherheit nach Vertragsabschluß mit VG BILD-KUNST*
+
+prometheus hat eine vertragliche Übereinkunft mit der Verwertungsgesellschaft BILD-KUNST getroffen und dadurch Rechtssicherheit für die im Verbund zusammengeschlossenen Datenbanken erwirkt.
+
+ 
+
+Die juristisch unsichere Situation, in welchem Rahmen Abbildungen archiviert und für Forschung und Lehre zur Verfügung gestellt werden dürfen, bestand bereits für die an zahlreichen Hochschulinstituten vorgehaltenen Dia-Sammlungen. Die Einführung digitaler Bildarchive verschärfte letztlich nur das Rechtsproblem.
+
+ 
+
+prometheus hat nun zusammen mit der VG BILD-KUNST einen guten und seriösen Weg aus dem Dilemma gefunden. Mit dem Vertragsabschluss erhalten alle Datenbanken in prometheus Rechtssicherheit für die Aufnahme und Bereitstellung von Abbildungen, die Kunstwerke von Künstlerinnen und Künstlern zeigen, die von der VG BILD-KUNST vertreten werden.
+
+ 
+
+Was bedeutet das konkret?
+Die rechtliche Situation sieht vor, dass für jede Weitergabe eines Bildes, an dem ein Dritter Verwertungsrechte hat, eine angemessene Abgabe an den Rechteinhaber zu zahlen ist. Dies gilt für alle Bildarchive, ob analog oder digital, ob bereits bestehend oder noch im Aufbau befindlich.
+Damit nun nicht alle Hochschulinstitute einzeln mit der Verwertungsgesellschaft verhandeln müssen, zahlt der Verbund prometheus eine angemessene jährliche Abgabe an die VG BILD-KUNST. Dadurch wird es den betreffenden Datenbankbetreibern erlaubt, die Bilder innerhalb ihrer jeweiligen Institution und in prometheus zur Verfügung zu stellen.
+
+Von nun an ist also die Nutzung der Abbildung einer Ölstudie von Willem de Kooning für Forschung und Lehre ausdrücklich erlaubt. Aber diese Regelung gilt natürlich nur für diejenigen Datenbanken, die in das Bildarchiv von prometheus integriert und darüber konsultierbar sind. Alle anderen Institutionen, die Bildarchive vorhalten, müssen eigenständig über eine entsprechende Abgabe mit der VG BILD-KUNST verhandeln.
+
+ 
+*3.) Neues Projekt in Zusammenarbeit mit der FH Köln*
+
+Die RheinEnergieStiftung Köln hat ein Projekt genehmigt, bei dem prometheus mit dem Institut für Informationswissenschaft der Fachhochschule Köln (Prof. Dr. Klaus Lepsky) zusammenarbeitet. In der Laufzeit von zwei Jahren werden mit (halb)automatischen Verfahren Elemente entwickelt, die die Recherche im Bildarchiv grundlegend verbessern sollen. Dabei geht es vorrangig um eine optimierte Suche in denjenigen Datenbanken, die nur wenig inhaltliche Informationen zu den Bildern bereitstellen oder aber Begriffsvarianten verwenden. So sollte in Zukunft die so genannte Mona Lisa von Leonardo auch dann mit der Sucheingabe „Porträt“ gefunden werden, wenn der Begriff nicht in dem Datenbankeintrag auftaucht.
+Projektstart ist der 1. April 2007.
+
+ 
+*4.) „Digitale Medien und Wissenschaftskulturen“ – Tagungsbeiträge in zeitenblicke veröffentlicht*
+
+Zusammen mit historicum.net hatte prometheus im März letzten Jahres die Tagung „Digitale Medien und Wissenschaftskulturen“ in Köln ausgerichtet. Dabei ging es um das Wechselverhältnis zwischen medialen Wandlungsprozessen und der inhaltlichen bzw. methodischer Ausrichtung von wissenschaftlichen Disziplinen.
+Die Ergebnisse der Tagung sind nun, ergänzt um weitere Beiträge, in der online-Zeitschrift zeitenblicke publiziert.
+Siehe: "www.zeitenblicke.de":http://www.zeitenblicke.de/ [zeitenblicke 5 (2006), Nr. 3]
+
+ 
+*5.) Umfrage der Bilddatenbank „Pictura Paedagogica Online“*
+
+Seit dem Herbst letzten Jahres ist die bildungsgeschichtliche Bilddatenbank „Pictura Paedagogica Online“ in prometheus integriert und über das Bildarchiv recherchierbar (vgl. newsletter 2006/04).
+
+ 
+
+Derzeit wird im Rahmen einer Diplomarbeit eine online-Befragung zur Benutzerzufriedenheit mit dieser Bilddatenbank durchgeführt. Unter anderem soll in Erfahrung gebracht werden, welche Nutzerkreise das Bildarchiv erreicht, um daraufhin das Angebot weiter anpassen zu können.
+Bitte helfen Sie mit Ihren Antworten, Anregungen und Kritiken, weitere Optimierungen vorzunehmen, damit Sie zukünftig Ihre Recherchen noch differenzierter durchführen können. Vorab herzlichen Dank!!!
+
+ 
+
+Zu der Befragung gelangen Sie entweder über die homepage der Datenbank:
+"http://www.bbf.dipf.de/VirtuellesBildarchiv/":http://www.bbf.dipf.de/VirtuellesBildarchiv/
+
+oder direkt über diesen link:
+"http://www.befrager.de/befragung.aspx?projekt=2230":v
+
+Sollten Sie weitere Fragen zu dieser online-Befragung haben, kontaktieren Sie bitte:
+"nicole.teschle[at]fh-potsdam.de":mailto:nicole.teschle@fh-potsdam.de
+
+
+*6.) prometheus – facts & figures*
+
+Derzeit können 370.524 Bilder aus 34 Datenbanken über prometheus recherchiert werden. 25 Hochschulen im In- und Ausland halten eine Campuslizenz. Die personalisierten Nutzungszugänge belaufen sich auf nunmehr 4.946; hinzu kommen Tausende von Nutzerinnen und Nutzern, die auf prometheus anonym im Rahmen einer Campus-Lizenz zugreifen. Diesen Newsletter beziehen 1.633 Personen.
+
+
+*7.) prometheus – Kontakt*
+
+Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
+- als Privatperson an die prometheus-Geschäftsstelle
+- als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte[at]hbz-nrw.de":inhalte@hbz-nrw.de.
+
+
+
+Eine Liste aller bereits lizenznehmenden Institutionen finden Sie "hier":<%=r 'licences/licence-holders' %> auf der prometheus-website.
+
+
+
+Die prometheus-Geschäftsstelle ist besetzt: Mo, 10-18 Uhr, und Di - Fr , jeweils 10-13 Uhr. fon: 0221-470 4476, fax: 0221-470 5044,
+
+"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

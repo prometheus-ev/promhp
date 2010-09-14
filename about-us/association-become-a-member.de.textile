@@ -1,0 +1,27 @@
+---
+layout: default
+title: Mitglied werden
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=44
+---
+h4. <%= @page.title %>
+
+
+h5. Werden Sie aktiv!
+
+
+Als Mitglied im Verein  p r o m e t h e u s  e.V. haben Sie die Möglichkeit, aktiv an der Integration der neuen Medien in Forschung und Lehre mitzuwirken.
+
+Bringen Sie Ihre Erfahrungen ein und vertreten Sie Interessen!
+
+*Mitgliedsbeitrag*
+Jahresbeitrag	50 €
+Ermäßigt für Studierende, Auszubildende u.a.	25 €
+Juristische Personen	180 €
+
+*Antrag auf Mitgliedschaft*
+"aufnahmeantrag.pdf":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
+
+PDF herunterladen und ausgefüllt und unterschrieben an die Geschäftstelle schicken!
+
+
+30 K

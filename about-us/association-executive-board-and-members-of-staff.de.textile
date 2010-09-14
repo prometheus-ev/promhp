@@ -1,0 +1,25 @@
+---
+layout: default
+title: Vorstand
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=68
+---
+h4. <%= @page.title %>
+
+
+"PD Dr. Holger Simon":mailto:javascript:linkTo_UnCryptMailto('ocknvq,jqnigt0ukoqpBwpk/mqgnp0fg (Vorsitzender)
+
+"Prof. Dr. Dorothee Haffner":mailto:javascript:linkTo_UnCryptMailto('ocknvq,fqtqvjgg0jchhpgtBjvy/dgtnkp0fg (stellv. Vorsitzende)
+
+"Dr. Stefan Brenne":mailto:javascript:linkTo_UnCryptMailto('ocknvq,Uvghcp0DtgppgBiguejkejvg0wpk/ikguugp0fg (Schatzmeister)
+
+"PD Dr. Norbert Eschbach":mailto:javascript:linkTo_UnCryptMailto('ocknvq,Pqtdgtv0GuejdcejBiguejkejvg0wpk/ikguugp0fg (stellv. Schatzmeister)
+
+"Lisa Dieckmann M.A.":mailto:javascript:linkTo_UnCryptMailto('ocknvq,nkuc0fkgemocppBwpk/mqgnp0fg (Schriftführerin)
+
+"Dr. Ute Verstegen":mailto:javascript:linkTo_UnCryptMailto('ocknvq,wvg0xgtuvgigpBvjgqnqikg0wpk/gtncpigp0fg (Beisitzerin)
+
+"Dr. Bettina Pfleging":mailto:javascript:linkTo_UnCryptMailto('ocknvq,dgvvkpc0rhngikpiBwpk/mqgnp0fg (Beisitzerin)
+
+"PD Dr. Sigrid Ruby":mailto:javascript:linkTo_UnCryptMailto('ocknvq,Ukitkf0TwdaBiguejkejvg0wpk/ikguugp0fg (Beisitzerin)
+
+"Sabine Scheele M.A.":mailto:javascript:linkTo_UnCryptMailto('ocknvq,wvg0xgtuvgigpBvjgqnqikg0wpk/gtncpigp0fg (Beisitzerin)

@@ -1,0 +1,71 @@
+---
+layout: default
+title: Nutzungsbedingungen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=53
+---
+h4. <%= @page.title %>
+
+"Nutzungsbedingungen_de.pdf": NOCH KEIN AKTUELLER LINK !!!!
+
+*Allgemeines*
+# prometheus ist ein internetbasiertes Angebot (www.prometheus-bildarchiv.de) für die Kunst- und Kulturwissenschaften, das einen öffentlichen, gebührenfreien und einen lizenzpflichtigen Bereich umfasst. Träger des Angebots ist der gleichnamige Verein, der den Betrieb des prometheus-Bildarchivs an die Universität zu Köln übertragen hat. Lizenzgebühren werden ausschließlich für die Nutzung dieses verteilten digitalen Bildarchivs erhoben. 
+# Das prometheus-Bildarchiv ist ein Datenbroker, der heterogene und verteilte Bild- und Mediendatenbanken unterschiedlichster Bildgeber zusammenführt. Diese Datenbanken werden von öffentlichen Forschungseinrichtungen und Archiven sowie privaten Anbietern der Forschungsgemeinschaft für Forschung und Lehre kostenlos zur Verfügung gestellt. 
+# Lizenzen werden nicht auf die über das prometheus -Bildarchiv recherchierbaren Bilder und Mediendateien erhoben, sondern dienen ausschließlich zur Deckung der Betriebskosten an der Universität zu Köln, welche für die Aufrechterhaltung, Sicherung und Erweiterung des prometheus-Bildarchivs für Forschung und Lehre notwendig sind. 
+# Das von prometheus zur Verfügung gestellte Angebot sowie alle zugehörigen Elemente dienen ausschließlich den vertraglich vereinbarten Zwecken. 
+# Angebote, elektronische Übermittlungen und die Vergabe von Nutzungsrechten erfolgen ausschließlich freibleibend und nicht exklusiv und zu den nachstehenden Geschäftsbedingungen. 
+# Alle von prometheus zur Verfügung gestellte Software, Ergebnisse, Angebote wie Module, Lernelemente etc. sind urheberrechtlich geschützt. Bild- und Mediendateien (im prometheus -Bildarchiv sowie im übrigen Angebot) können urheberrechtlich geschützt sein. Abgebildete Kunstwerke können zusätzlich selbst noch urheberrechtlich geschützt sein. Die Abklärung aller genannten Rechte ist Aufgabe des Nutzers/der Nutzerin. 
+# Dem Nutzer / der Nutzerin wird ein einfaches, nicht übertragbares, für die Dauer des Lizenzvertrags zeitlich beschränktes Nutzungsrecht für Forschung und Lehre eingeräumt. 
+# Die Weitergabe von Informationen jeglicher Art, Software und Ergebnissen an Dritte ist nicht gestattet. 
+# prometheus behält sich das Recht vor, ohne vorherige Ankündigung Änderungen oder Ergänzungen an der bereitgestellten Software des Datenbankbrokers und an den Lernelementen vorzunehmen. Für Änderungen an den Datenbankinhalten der am 
+prometheus-Bildarchiv beteiligten Datenbanken sind die Datenbankanbieter selbst verantwortlich. 
+# Eine Gewähr für die Aktualität, Richtigkeit und Vollständigkeit der Angaben wird nicht übernommen. Für Datenbankinhalte sind die beteiligten Datenbankanbieter verantwortlich. 
+
+*Verfügungsbeschränkung, Haftung, Verwertungs- und Urheberrechte*
+# Das prometheus-Bildarchiv wird vom Anbieter auf einem Server zum Abruf über das Internet bereitgehalten. Der Abruf ist in Form eines Lesezugriffs sowie in Form eines Ausdrucks von einzelnen Abfragen gestattet; eine darüber hinaus gehende systematische Speicherung von größeren Teilen oder dem Datenbestand als Ganzes in elektronischer, elektromagnetischer oder ähnlicher Form ist ausgeschlossen.
+# Das Bildarchiv wird entweder über den Campuszugang oder mit einem persönlichen Zugang abgerufen. Der Abruf via Campuszugang erfolgt immer über die Zugehörigkeit zu einer lizensierten Institution. Da dieser Zugang nicht personalisiert ist, bestehen nur eingeschränkte Arbeitsmöglichkeiten. 
+# InhaberInnen eines persönlichen Zugangs zum prometheus-Bildarchiv haben zusätzlich die Möglichkeit zur Nutzung der erweiterten Funktionen (Bildsammlungen und  Präsentationen)
+# Die Bild- und Mediendateien werden von prometheus in bildschirmoptimierter Auflösung bereitgehalten. Ihre Verwendung und Präsentation ist ausschließlich im Rahmen von Forschung und Lehre gestattet. Darüber hinausgehende Nutzungs- und Verwertungsformen können möglich sein und werden im Feld "Bildrecht" einer Ergebnisanzeige im Bildarchiv für die Bild- und Mediendatei, soweit vom Bildgeber zur Verfügung gestellt, benannt.
+# Im prometheus-Bildarchiv werden sowohl gemeinfreie als auch urheberrechtlich geschützte Bilder und Mediendateien angeboten. NutzerInnen dürfen diese nur unter Einhaltung des Urheberrechts sowie unter Einhaltung der im Einzelfall genannten Rechte der Bildgeber weiterverwenden. 
+# Die über prometheus zur Verfügung gestellten Bild- und Mediendateien sind, insofern sie geschützt sind, ohne Einverständnis des Urhebers bzw. des Rechteinhabers ausschließlich zu Lehr- und Forschungszwecken zu verwenden und nach Benutzung unaufgefordert zu löschen.
+# Vor jeder Veröffentlichung im Druck oder in anderen Medien ist die ausdrückliche Erlaubnis des Rechteinhabers einzuholen, sofern die genutzten Bild- und Mediendateien urheberrechtlich geschützt sind. In Einzelfällen können über das Feld „Bildrecht“ einer Ergebnisanzeige im Bildarchiv die Verwertungsrechte direkt beim Rechteinhaber eingeholt werden. 
+# Eine Entstellung des urheberrechtlich geschützten Werks durch Abzeichnen, Nachfotografieren, Fotocomposing oder elektronische Hilfsmittel ist nicht gestattet. Ausnahmen bedürfen einer gesonderten Vereinbarung mit den jeweiligen Rechteinhabern.
+# Reproduktionen und elektronische Speicherung von über prometheus bezogenen, geschützten Bilddateien für Archivzwecke des Nutzers/der Nutzerin sowie die Weitergabe an Dritte sind nicht gestattet. Sonderfälle bedürfen der Genehmigung der jeweiligen Rechteinhaber. 
+# Der Nutzer/die Nutzerin ist zur Beachtung der publizistischen Grundsätze des Deutschen Presserats (Pressekodex), sowie zur Beachtung der allgemeinen Gesetze, insb. des Gesetzes über Urheberrecht und verwandte Schutzrechte (UrhG) verpflichtet. Der Nutzer/die Nutzerin trägt die alleinige Verantwortung für etwaige Betextung. Für eine Verletzung des allgemeinen Presserechts, des Urheberrechts oder sonstiger allgemeiner Gesetze durch eine abredewidrige oder sinnentstellende Verwendung in Bild und Text übernimmt prometheus keine Haftung. Bei Verletzung solcher Rechte ist allein der Nutzer/die Nutzerin etwaigen Dritten gegenüber schadensersatzpflichtig und wird prometheus insoweit von allen Ansprüchen Dritter freistellen.
+# prometheus informiert regelmäßig über inhaltliche Veränderungen des über prometheus zugänglichen Datenbestandes (neu aufgenommene oder entfernte Datenbanken).
+# Sollten sich aus dem Verstoß gegen die hier angeführten Vereinbarungen Ansprüche Dritter ergeben, so ist der Nutzer/die Nutzerin verpflichtet, prometheus von diesen Ansprüchen freizustellen. Darüber hinaus ist der Nutzer/die Nutzerin verpflichtet, an prometheus eine Vertragsstrafe in Höhe von 400 Prozent von dem ansonsten seitens des Dritten geforderten Nutzungshonorars zu zahlen. prometheus selbst behält sich vor, gegebenenfalls eigene Ansprüche gegenüber dem Nutzer/der Nutzerin geltend zu machen beispielsweise bei Rufschädigung. 
+
+*Lizenzgebühr. Anpassung. Fälligkeit*
+# Die Höhe der Lizenzgebühr für einen persönlichen Zugang zur Nutzung des prometheus-Bildarchivs beträgt 20 EUR pro Zeitjahr. 
+# Sofern der Nutzer/die Nutzerin über eine gültige Campus-/Institutslizenz auf prometheus zugreift oder Vereinsmitglied von prometheus e.V. ist, ist der persönliche Zugang kostenlos.
+# Die Lizenzgebühren enthalten keine Mehrwertsteuer, da prometheus als gemeinnütziges Projekt von der Mehrwertsteuer befreit ist. 
+# Die Lizenzgebühr wird entweder über einen Onlinezahlungsdienst direkt bezahlt oder ist einschließlich der anfallenden Bearbeitungsgebühr dreißig Tage nach Rechnungsstellung, die per E-Mail erfolgt, ohne Abzug zur Zahlung fällig. Maßgeblich ist das jeweilige Rechnungsdatum. 
+# Die Lizenzgebühr wird ausschließlich für die Betriebskosten erhoben. Sie betrifft nicht das inhaltliche Angebot, welches von den einzelnen Bildgebern kostenlos eingebracht wird. 
+# Der Lizenznehmer kann nur mit unbestrittenen oder rechtskräftig festgestellten Forderungen gegenüber prometheus aufrechnen. Zurückbehaltungsrechte stehen dem Lizenznehmer nicht zu. 
+# Minderjährige Nutzer benötigen für den Erwerb einer Einzellizens die Erlaubnis ihrer Erziehungsberechtigten. 
+
+*Benutzerverwaltung*
+# Der Zugang ist nur für einen begrenzten Zeitraum gültig. Das Einrichten der Gültigkeitsdauer obliegt der für die Vergabe zuständigen Institution. 
+# Vor der Vergabe eines Zugangs für AdministratorInnen muss ein Lizenzvertrag mit prometheus abgeschlossen worden sein. AdministratorInnen sind berechtigt, ohne Rückfrage bei prometheus persönliche Zugänge für Angehörige der Institution einzurichten. Bei der Einrichtung neuer Zugänge haben die AdministratorInnen dafür Sorge zu tragen, dass zuvor die Zugehörigkeit zur Institution überprüft wurde. 
+# Inhaber von Nutzerzugängen können keine weiteren Zugänge einrichten. 
+# Der Zugang ist nicht übertragbar. 
+
+*Gewährleistung, Haftung*
+# Technische Mängel werden von prometheus nach entsprechender Mitteilung des Mangels durch den Lizenznehmer im Rahmen der üblichen Änderungen/Aktualisierungen behoben. Die verschuldensunabhängige Haftung gemäß § 536 a BGB ist ausgeschlossen. 
+# Bei Störungen im Betrieb des Servers ist die Verpflichtung zur Entrichtung der Lizenzgebühren entsprechend dem Umfang der Störung bis zu deren Beseitigung gemindert. Dies gilt nicht bei Störungen, welche im Verhältnis zur Laufzeit dieses Vertrags von geringer Bedeutung sind, sowie bei üblichen Wartungsarbeiten. Ist eine Beseitigung der Störung nicht innerhalb einer Frist von einem Monat möglich, kann der Vertrag darüber hinaus von beiden Vertragspartnern fristlos gekündigt werden. 
+# Etwaige Gewährleistungs- sowie Schadensersatzansprüche an den Anbieter - gleich aus welchem Rechtsgrund - sind der Höhe nach beschränkt auf das fünffache der jeweils gültigen Jahreslizenzgebühr. Die Haftung für Datenverluste wird darüber hinaus auf den typischen Wiederherstellungsaufwand beschränkt, der bei täglicher Anfertigung von Sicherungskopien eingetreten wäre. Dies gilt nicht in Fällen des Vorsatzes oder der groben Fahrlässigkeit, wegen Verletzung des Lebens, des Körpers oder der Gesundheit sowie für die Haftung nach dem Produkthaftungsgesetz. 
+# prometheus haftet nicht für direkte oder indirekte Schäden, die aufgrund von oder in Verbindung mit Informationen entstehen, die sich auf der Website www.prometheus-bildarchiv.de befinden. 
+# prometheus distanziert sich von den Inhalten sämtlicher Seiten, die durch Links auf der Website www.prometheus-bildarchiv.de erreicht werden können, und macht sich deren Inhalte nicht zu Eigen. 
+
+*Vertragsdauer, Kündigung* 
+# Nach Erwerb einer Einzellizenz ist die Nutzung über einen persönlichen Zugang jeweils auf ein Zeitjahr nach Freischaltung des Zugangs befristet. Nach dieser Frist läuft der Zugang automatisch ab und wird deaktiviert. Erst bei erneuter Zahlung wird der Zugang wieder freigeschaltet. Es besteht keine Kündigungsfrist. 
+# Das Recht zur fristlosen Kündigung aus wichtigem Grund bleibt unberührt. Ein wichtiger Grund für prometheus auch ohne vorherige Abmahnung liegt insbesondere vor, wenn der Lizenznehmer in grober Weise gegen seine Zahlungs- oder sonstigen Verpflichtungen aus dieser Vereinbarung, insbesondere derjenigen zur Beachtung der Urheberrechte des Anbieters und/oder der über prometheus zugänglichen Bildgeber verstößt.
+# Ein wichtiger Grund für den Lizenznehmer liegt insbesondere vor, wenn der Anbieter Störungen im Betrieb nicht innerhalb einer Frist von einem Monat beseitigt. 
+# Jede Kündigung bedarf der Schriftform. 
+
+*Sonstiges* 
+# Erfüllungsort und Gerichtsstand ist Köln als Sitz des Anbieters. 
+# Soweit vorstehend nicht besonders aufgeführt, unterliegt jegliche Nutzung dem Recht der Bundesrepublik Deutschland, speziell dem deutschen Urheberrecht. 
+
+Prometheus Nutzungsbedingungen
+Köln, d. 10. August 2010
+"info[at]promtheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

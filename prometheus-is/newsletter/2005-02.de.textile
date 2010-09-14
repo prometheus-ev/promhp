@@ -1,0 +1,179 @@
+---
+layout: default
+title: Newsletter 2005/02
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=370
+---
+h4. <%= @page.title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V*
+
+
+Liebe Abonnentin, lieber Abonnent,
+
+die angelaufene Umstellung auf Lizenzen dominiert derzeit die Vereinsarbeit. Dabei soll nicht untergehen, dass wir eine weitere Datenbank eingebunden haben, dass eine Projektidee von prometheus nun in Berlin verwirklicht werden kann und dass der Einsendeschluss für unseren "esPrix" unmittelbar vor der Tür steht!
+
+Wir wünschen - einmal wieder - gute Lektüre und freuen uns auf Kommentare, Kritik, Anregungen und Fragen jeder Art.
+
+Mit herzlichem Gruß,
+für prometheus e.V.,
+Sigrid Ruby
+
+
+
+
+*INHALT*
+
+1.) Erfolgreiche Einführung der Lizenzierung
+
+2.) prometheus auf dem XXVIII. Deutschen Kunsthistorikertag
+
+3.) Neue Partner und Datenbanken
+
+4.) prometheus-Preis "esPrix"
+
+5.) Neu auf der prometheus -homepage
+
+6.) "Bilder, die die Welt bedeuten" und die Ikonothek
+
+7.) ESF-Projekt "Digitaler Beschreibungs- und Methodencoach"
+
+8.) Urheberrechtsnovelle "2. Korb"
+
+9.)  prometheus - facts & figures
+
+10.) prometheus - Kontakt
+
+
+
+
+*1.) Erfolgreiche Einführung der Lizenzierung*
+
+Wie wir an dieser Stelle schon berichteten (Newsletter 2004/04 und 2005/01), wird das Finanzierungskonzept von prometheus zum 1. Juli auf Lizenzen umgestellt. Das bedeutet, dass ab diesem Termin das Bildarchiv nur noch nach erfolgtem Lizenzkauf seitens der jeweiligen Institution ("Ihrer" Hochschule, Bibliothek etc.) oder aber durch den Erwerb einer ad personam ausgestellten Einzellizenz genutzt werden kann.
+
+Seit Jahresbeginn wurden nicht nur die Partner und Vereinsmitglieder von prometheus, sondern auch alle an einer Nutzung des Bildarchivs potentiell interessierten Institutionen sehr umfassend über das neue Finanzkonzept informiert. Zahlreich eingegangene Rückfragen konnten zügig und detailliert beantwortet werden. Auf diese Umtriebigkeit ist es wohl auch zurückzuführen, dass der Umstieg auf Lizenzen Verständnis und Zustimmung findet.
+
+Die bereits abgeschlossenen Lizenzverträge sprechen für sich: Zum jetzigen Zeitpunkt haben schon 11 Hochschulen eine Campuslizenz und 7 Hochschulinstitute eine Institutslizenz erworben. Zudem wurde auch ein Vertrag über eine Schullizenz abgeschlossen.
+
+Die Refinanzierung der prometheus-Betriebskosten ist damit allerdings noch nicht solide gesichert. Weitere lizenznehmende Institutionen sind vonnöten, um das Bildarchiv langfristig zu stabilisieren. Entsprechende Gespräche laufen.
+
+Mit Blick auf die finanzielle und rechtliche Umstellung wurde die  prometheus-homepage umfassend angepasst. Ausführliche Informationen zum Lizenzierungskonzept und seinen Konditionen, neue Anmeldeformulare für Administratoren und für Einzellizenznehmer/innen sowie aktualisierte Nutzungsbedingungen können nun herunter geladen werden. Außerdem finden Sie eine Liste derjenigen Institutionen, die bereits eine Lizenz erworben haben. Auf der Login-Seite werden vorübergehend die alte und die (ab 1. Juli gültige) neue Account-Struktur geführt.
+
+
+
+*2.) prometheus auf dem XXVIII. Deutschen Kunsthistorikertag*
+
+Auf dem Deutschen Kunsthistorikertag, der vom 16. bis zum 20. März in der Bonner Universität stattfand, war prometheus sehr präsent. An allen Veranstaltungstagen standen prometheus-Mitarbeiterinnen und -Mitarbeiter für Fragen zu den Funktionalitäten des Bildarchivs, zur Arbeit des Vereins und zur Einführung des Lizenzierungskonzepts zur Verfügung. Dieses Angebot wurde rege genutzt.
+
+Bei dem vorrangig dem neuen Finanzierungsmodell gewidmeten Empfang am Freitag fanden sich über 80 Interessierte ein. Die Vorstandsmitglieder Holger Simon und Stefan Brenne skizzierten die Entwicklung, die prometheus von einem Drittmittelprojekt zu einem nicht-kommerziell agierenden Dienstleister durchlaufen hat. Neben dem Lizenzierungskonzept kamen auch die bei weitem noch nicht ausgereizten Potenziale des Bildarchivs zur Sprache.
+
+Die starke und überwiegend positive Resonanz, die das Bildarchiv und der Verein im Rahmen der Bonner Tagung fanden, bezeugt eine merklich gestiegene Akzeptanz von prometheus im Fach Kunstgeschichte.
+
+
+
+*3.) Neue Partner und Datenbanken*
+
+Dem prometheus-Verbund als Partner angeschlossen haben sich
+
+- das Kunsthistorische Seminar der Friedrich-Schiller-Universität Jena,
+
+- die "Ikonothek" am Bayerischen Staatsministerium für Unterricht und Kultus und
+
+- das Seminar für Kunstgeschichte der Heinrich-Heine-Universität Düsseldorf.
+
+Im April ist die Mediatheksdatenbank des Seminars für Kunstgeschichte der Universität Düsseldorf eingebunden worden. Die seit 2004 im Aufbau befindliche und auf kontinuierliches Wachstum ausgelegte Bilddatenbank auf der Basis von "Faust 5" umfasst derzeit gut 2.000 Datensätze. Die thematische Bandbreite spiegelt das Veranstaltungsangebot der Düsseldorfer Kunstgeschichte. Zusätzlich zu den prometheus-Kategorien der Bildbeschriftung liefert die neue Datenbank auch Literaturhinweise zum jeweiligen Objekt.
+
+Kontakt: "kugemediathek[at]phil-fak.uni-duesseldorf.de":mailto:kugemediathek@phil-fak.uni-duesseldorf.de
+
+
+
+*4.) prometheus-Preis "esPrix"*
+
+Zur Erinnerung: Der studentische prometheus-Preis von 500 Euro für die beste mediengerechte Umsetzung eines kulturwissenschaftlichen Lerninhaltes wird 2005 erstmalig vergeben.
+
+Bewerbungsfrist ist der 31. Mai!
+
+Weitere Informationen, einige Beispiele und ein Anmeldeformular zum download finden Sie unter esPrix
+
+
+*5.) Neu auf der prometheus-homepage*
+
+Eine neue Datenbank unter den Werkzeugen: "DILPS" In enger Zusammenarbeit entwickeln derzeit die Hochschule für Gestaltung und Kunst in Zürich (HGKZ), die Staatliche Hochschule für Gestaltung in Karlsruhe und das Kunstgeschichtliche Institut der Johann-Wolfgang-Goethe-Universität in Frankfurt am Main ein netzbasiertes Bilddatenbanksystem: das "DISTRIBUTED IMAGE LIBRARY PROCESSING SYSTEM (DILPS)".
+
+"DILPS" bietet eine virtuelle Umgebung für die Archivierung, Verwaltung und Recherche von Bild- und Metadaten. Auf den Einsatz kommerzieller Software wird vollständig verzichtet, um das gesamte System ohne Lizenzkosten im Rahmen der "GNU Public License" an interessierte Projektpartner weitergeben zu können. Der Zugriff auf "DILPS" (Eingabe und Abfrage) erfolgt ausschließlich über eine Web-Oberfläche, die Daten werden in relationalen Tabellen in MySQL gespeichert und via XML in andere Systeme exportiert. Eine Anbindung an prometheus ist somit problemlos möglich.
+
+"www.dilps.net":http://www.dilps.net/
+
+
+Kontakt: "info[at]dilps.net":mailto:info@dilps.net
+
+
+
+*6.) "Bilder, die die Welt bedeuten" und die Ikonothek*
+
+Das Projekt Ikonothek, Partner und Mitglied von prometheus, wird in diesem Jahr abgeschlossen. Mit der Tagung "Bilder, die die Welt bedeuten" am 24.-25. April in der Evangelischen Akademie in Tutzing präsentierte es seine Ergebnisse.
+
+Ein dichtes Vortragsprogramm vor diskussionsfreudigem Publikum thematisierte "Ikonen" in Kunst, Geschichte, Politik und Alltagsleben sowie ihre Mechanismen und Rezeption. Alle bedienten sich wie selbstverständlich aus einer gemeinsamen Schnittmenge von Bildern, Ereignissen und Gestalten, die ganz offensichtlich für eine Epoche oder ein Lebensgefühl stehen: die Mona Lisa, Che Guevara, 9-11-2001 und Abu Ghraib, Willy Brandts Kniefall in Warschau, Madonna. Das alleine schon rechtfertigt den Ansatz der Ikonothek: die Bereitstellung von Materialien zu hundert ausgewählten "Ikonen" für den schulischen Einsatz.
+
+Sechs bayerische Gymnasien präsentierten die Umsetzung solcher Themen von Altamira bis zum VW-Käfer. Angesichts der fruchtbaren Interdisziplinarität von Geschichte, Sprachen und Kunst, des Engagements der Lehrerschaft und der Begeisterung der Schülerschaft kehrt der Glaube an Konzepte gegen die Pisa-Misere zurück.
+
+Neben anderen deutschsprachigen Bildprojekten stellte sich prometheus vor. Und ganz unbescheiden darf hier konstatiert werden: bezüglich Materialumfang, Bildqualität, Zugänglichkeit und Praktikabilität gibt es keine Alternative! Entsprechend groß ist das Interesse der Schulen - eine Aufforderung an prometheus, den Kontakt mit den Bildungseinrichtungen der Länder zu intensivieren.
+
+"www.ikonothek.de":http://www.ikonothek.de/
+
+
+Die Tagungsbeiträge werden in Kürze als Buch erscheinen.
+
+
+
+*7.) ESF-Projekt "Digitaler Beschreibungs- und Methodencoach"*
+
+Bereits im März startete unter der Leitung von Prof. Dr. Adam Labuda an der Humboldt-Universität zu Berlin die Arbeit am "Digitalen Beschreibungs- und Methodencoach". Das auf knapp drei Jahre ausgelegte Projekt, das vom Europäischen Sozialfonds (ESF) im Rahmen des Programms "Neue Medien in der Aus- und Weiterbildung" gefördert wird, ist ein berufsqualifizierendes Zusatzangebot an der Schnittstelle zwischen akademisch-kunsthistorischem Studium und den Neuen Medien. Die Idee zum Beschreibungscoach geht auf eine Konzeption von prometheus zurück. Neben der Berliner Projektkoordinatorin Sabine Kühl M.A. sind drei weitere ehemalige prometheus-Mitarbeiterinnen und -Mitarbeiter beteiligt.
+
+In medientechnischen Grundlagenkursen und durch den Umgang mit kunsthistorischen Inhalten in einem interaktiven Objektbeschreibungsprogramm erlernen die Studierenden fachbezogene Arbeitsweisen und erwerben gleichzeitig allgemeine Medienkompetenzen. Die Lehrenden werden mit einem flexiblen Autorenwerkzeug nach eigenen Vorstellungen Lernszenarien entwickeln und hierfür unterschiedliche Objekte, Fragestellungen, Kontexte und Methoden vorgeben können.
+
+Der digitale Beschreibungs- und Methodencoach soll nicht nur für die Kunstgeschichte, sondern auch für andere Fächer und Nutzergruppen einsetzbar sein. Dies wird jetzt schon in der Zusammenarbeit mit dem Fach Vergleichende Zoologie am Institut für Biologie der Humboldt-Universität erprobt.
+
+"http://www2.hu-berlin.de/beschreibungscoach":http://www2.hu-berlin.de/beschreibungscoach
+
+
+Kontakt: "sabine.kuehl[at]hu-berlin.de":mailto:sabine.kuehl@hu-berlin.de
+
+
+
+
+*8.) Urheberrechtsnovelle "2. Korb"*
+
+Die Novellierung des sog. "2. Korbs" des Urheberrechts ist erwartungsgemäß weiterhin stark umstritten. Zwar hatte Bundesjustizministerin Zypries eine Verabschiedung für 2005 geplant. Doch der notwendige Kabinettsbeschluss für den ausstehenden Regierungsentwurf der Gesetzesnovelle liegt immer noch nicht vor. Stefan Krempl mutmaßt im Heise-Ticker, die Regierung wolle die Landtagswahl in NRW am 22. Mai abwarten, um eine vorherige "öffentliche Auseinandersetzung über heikle Punkte wie die künftige Regelung von Vergütungspauschalen, gegen die von Industrieseite insbesondere der Branchenverband Bitkom Sturm läuft, tunlichst zu vermeiden."
+
+Die Debatte dürfte also weiterhin spannend bleiben. In der letzten bekannt gewordenen Entwurfsversion ist überraschend die Klausel zur sog. Privatkopie ausgeweitet worden. Sie sieht nun Straffreiheit für private Nutzerinnen und Nutzer vor, die das Urheberrecht nur geringfügig verletzen. Hierunter fallen z.B. das Herunterladen einer kleinen Zahl von Songs aus Tauschbörsen sowie die Weitergabe dieser Kopien an Freunde und Bekannte. Außerdem wurde eine Einschränkung des § 52b gestrichen: Bibliotheken soll es erlaubt sein, gleichzeitig mehr Exemplare eines Werks an elektronischen Leseplätzen zugänglich zu machen als ihr Bestand eigentlich umfasst.
+
+
+
+*9.) prometheus - facts & figures*
+
+Derzeit können über 201.000 Bilder aus 22 Datenbanken über prometheus recherchiert werden. 71 Partnerinstitutionen arbeiten in prometheus zusammen und verwalten die mehr als 3.000 Nutzerzugänge. ... und 1.771 Personen beziehen diesen Newsletter.
+
+
+
+*10.) prometheus- Kontakt*
+
+Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte als Privatperson an die prometheus-Geschäftsstelle bzw. als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "schomburg[at]hbz-nrw.de":mailto:schomburg@hbz-nrw.de .
+
+
+Wenn Sie daran interessiert sind, eine Datenbank in prometheus einzubringen, setzen Sie sich bitte mit Vorstandsmitglied Dr. Dorothee Haffner ("dorothee.haffner[at]rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de) in Verbindung.
+
+
+Die prometheus-Geschäftsstelle ist besetzt: Mo, Mi, Do und Fr, jeweils 10-13 Uhr, sowie Di 15-18 Uhr. fon: 0221-470 4476, fax: 0221-470 5044, "info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+
+
+
+
+Impressum
+
+Der nächste Newsletter (2005/03) erscheint voraussichtlich Ende Juli.
+Redaktion: "sigrid.ruby[at]geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de
+
+
+prometheus e.V.-Geschäftsstelle
+Kunsthistorisches Institut der Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln

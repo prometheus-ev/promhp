@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1><a href="<%=r @page.url %>"><%= @page.title %></a></h1>
+<p><%= date_to_string(@page.date) %></p>
+
+<%= @content %>
+
+<h2>Related Posts</h2>
+<ul class="posts">
+  <% @site.related_posts[0..3].each do |post| %>
+    <li><span><%= date_to_string(post.date) %></span> &raquo; <a href="<%=r post.url %>"><%= post.title %></a></li>
+  <% end %>
+</ul>

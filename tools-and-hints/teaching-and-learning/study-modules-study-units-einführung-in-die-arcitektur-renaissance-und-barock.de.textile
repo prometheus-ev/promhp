@@ -1,0 +1,27 @@
+---
+layout: default
+title: Einführung in die Architektur der Renaissance und des Barock
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=283&L=0&skin=&tx_ttnews[tt_news]=34&tx_ttnews[backPid]=62&cHash=5a8b139d1b
+---
+h4. <%= @page.title %>
+
+09.03.07
+
+| !<%=r 'files/images/8a4efb03a9.jpg' %>! | !<%=r 'files/images/279a728700.jpg' %>! | !<%=r 'files/images/b5cbafc924.jpg' %>! |
+
+*Gegenstand dieser Unterrichtseinheit ist die Architektur in Renaissance und Barock.*
+"Die ungefähr dreieinhalb Jahrhunderte der Baukunst von 1420 bis 1770 stellen sich als eine überaus produktive Epoche in der Menschheitsgeschichte dar; zumindest in der europäischen Kultur ist sie qualitativ wie quantitativ zu einer sehr bestimmenden Größe geworden.
+
+Sakral- und Profanbau werden gleichermaßen behandelt, da diese zwar nicht gleich, aber mit derselben Formensprache gestaltet worden sind. Ausgespart bleiben allerdings bäuerliche Bauformen, reine Ingenieursarchitektur sowie der Festungsbau. In letzterem treten zwar immer wieder repräsentative Motive des Profanbaus in Erscheinung; ansonsten war die Fortifikationsarchitektur aber ein hoch spezialisiertes, gleichsam mathematisch-exaktes System, das allein Gesichtspunkten des Artilleriekrieges Rechnung getragen hat."
+
+*Autorenschaft:* Ulrich Fürst, LMU München
+*Zielgruppe:* Studierende der Kunstgeschichte
+*Medien:* Hypertext
+
+Link:  "www.fak09.uni-muenchen.de/Kunstgeschichte/projekte/arch_complete_vers/start.htm":http://www.kunstgeschichte.uni-muenchen.de/projekte/arch_complete_vers/start.htm
+
+
+Von: Ulrich Fürst
+
+
+"zurück zu: Lerneinheiten ":<%=r 'tools-and-hints/teaching-and-learning/study-modules-study-units' %>

@@ -1,0 +1,12 @@
+---
+layout: default
+title: Information for database supplier
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=72&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+This area is adrressed to institutions and individuals interested in integrating a database in  p r o m e t h e u s .
+
+*All information can be downloaded as PDF ( in the moment only in German):*
+
+"infos_fuer_dblieferer.pdf":<%=r 'files/text/infos_fuer_dblieferer_01.pdf' %>

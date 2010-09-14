@@ -1,0 +1,195 @@
+---
+layout: default
+title: Scientific articles
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=296&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
+Meta-Image - Forschungsumgebung für den Bilddiskurs in der Kunstgeschichte
+in: Sieck, Jürgen (Hrsg.): Kultur und Informatik. Interaktive Systeme. Berlin, 2010, S. 183–188. [104]
+
+Dieckmann, Lisa u.a.
+Meta Image - a collaborative environment for the image discourse
+in: EVA London 2010. Electronic Visualisation and the Arts. Conference Proceedings, hrsg. von Alan Seal, Jonathan Bowen, Kia Ng. Plymouth 2010, S. 190-198. [105]
+
+Verstegen, Ute
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre. Urheberrechtsfragen und Rechtemanagement in eLearning-Anwendungen
+"http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2008/450/":http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2008/450/
+"http://www.mmforum.uni-erlangen.de/workshop2008/Verstegen_prometheus_Urheberrecht.pdf":http://www.mmforum.uni-erlangen.de/workshop2008/Verstegen_prometheus_Urheberrecht.pdf [93]
+
+Verstegen, Ute
+Vom Mehrwert digitaler Simulationen dreidimensionaler Bauten und Objekte in der architekturgeschichtlichen Forschung und Lehre (basierend auf Vortrag am 16.3.2007 beim XXIX. Deutschen Kunsthistorikertag in Regensburg)
+"http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2008/473/":http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2008/473/ [100]
+
+Dieckmann, Lisa
+Prometheus - the distributed digital image archive for research and education goes international!
+EVA London 2008. Conference Proceedings, hrsg. von Stuard Dunn, Suzanne Keene, George Mallen, Jonathan Bowen. Plymouth 2008, S.61-67. [101]
+
+Haffner, Dorothee
+Die Kunstgeschichte ist ein technisches Fach. Bilder an der Wand, auf den Schirm und im Netz
+in: Bild/Geschichte. Festschrift für Horst Bredekamp, hrsg. von Philine Helas u. a., Berlin 2007, S. 119-129. [91]
+
+Simon, Holger
+prometheus" und Justitia - Bildarchive der Kunst- und Kulturwissenschaften im Spannungsfeld des medialen Umbruchs hin zu einer digitalen Informationsgesellschaft
+in: Karl-Nikolaus Peifer, Gudrun Gersmann (Hrsg.): Forschung und Lehre im Informationszeitalter - zwischen Zugangsfreiheit und Privatisierungsanreiz, (Schriften zum Europäischen Urheberrecht Bd. 4), Berlin 2007, S. 65-86.
+"http://kunstsi.uni-koeln.de/publ/06PromJustitia.pdf":http://kunstsi.uni-koeln.de/publ/06PromJustitia.pdf [97]
+
+Simon, Holger
+Kunstgeschichte im digitalen Informationszeitalter - Eine kritische Standortbestimmung (Plenumsvortrag am 14. März 07 auf dem 29. Deutschen Kunsthistorikertag in Regensburg)
+in: Art-Dok. Publikationsplattform Kunstgeschichte , Heidelberg 2007.
+"http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2007/274/":http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2007/274/
+"http://kunstsi.uni-koeln.de/publ/07V_digitalKG.pdf":http://kunstsi.uni-koeln.de/publ/07V_digitalKG.pdf [98]
+
+Verstegen, Ute
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre. Urheberrechtsfragen und Rechtemanagement in einem kulturhistorischen Online-Archiv
+in: Mitteilungen des Deutschen Archäologenverbandes 38, 2007, Heft 2, S. 90-101. [99]
+
+Verstegen, Ute
+Das prometheus-Bildarchiv und das Open-Access-Prinzip. Eine kritische Standortbestimmung vor dem Hintergrund aktueller Perspektiven
+in: Kunstchronik 60, 2007, S. 516-520.
+"http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2008/528/":http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2008/528/ [103]
+
+Haffner, Dorothee
+Digitale Diatheken und Bildarchive – (Kunsthistorische) Bildrecherche im Internet anno 2006
+in: Rundbrief Fotografie, Vol. 13 (2006), No. 1 [N.F. 49], S. 12-15. [90]
+
+Simon, Holger
+Normierung und Standardisierung der Sacherschließung? Ein Plädoyer für die Heterogenität von Sammlungsbeschreibungen (Vortrag auf Tagung Electronic imaging and the visual arts (EVA), Berlin, 10.-12. November 2004)
+in: Jörn Sieglerschmidt: Museums-Informations-System (MusIS), Konstanz 2006, S. 100-105
+"http://www2.bsz-bw.de/cms/service/museen/publ/eva2004":http://www2.bsz-bw.de/cms/service/museen/publ/eva2004
+"http://kunstsi.uni-koeln.de/publ/04EVAHeterogen.pdf":http://kunstsi.uni-koeln.de/publ/04EVAHeterogen.pdf [94]
+
+Simon, Holger
+Internetpublikationen. Zum Umgang mit Kulturgütern aus öffentlichen Sammlungen
+in: Rundbrief Fotografie. Analoge und digitale Bildmedien in Archiven und Sammlungen, Vol. 13 (2006), S. 23-25.
+"http://kunstsi.uni-koeln.de/publ/06RundbrFoto.pdf":http://kunstsi.uni-koeln.de/publ/06RundbrFoto.pdf [96]
+
+Haffner, Dorothee
+prometheus – das verteilte digitale Bildarchiv für Forschung & Lehre e. V. – Stand der Dinge
+in: AKMB news 11 (2005), Heft 1, S. 41-43 [89]
+
+Simon, Holger
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre. Verspricht prometheus mehr als es halten kann? (Vortrag auf der AKMB-Tagung "Sammeln, Bewahren und Vermitteln: Fotosammlungen in Bibliotheken / Digitale Bildarchive", Dresden, 09.-11. November 2005)
+in: Art-Dok. Publikationsplattform Kunstgeschichte , Heidelberg 2005.
+"http://kunstsi.uni-koeln.de/publ/05AKMBDresden.pdf":http://kunstsi.uni-koeln.de/publ/05AKMBDresden.pdf [95]
+
+Simon, Holger; Verstegen, Ute
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre. Neuartige Werkzeuge zur Bereitstellung von verteiltem Content für Wissenschaft und Forschung
+in: Historische Sozialforschung, Sonderheft: Elektronisches Publizieren & Open Access, No. 107, Vol. 29 (2004 -1), S. 247-257 [7]
+
+Simon, Holger; Verstegen, Ute
+prometheus. Kooperationsprojekte gegen die Kommerzialisierung des kulturellen Erbes
+in: Kunstchronik, Heft 4, Nürnberg 2004, S. 204-206 [8]
+
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
+in: Kursbuch eLearning 2004. Produkte aus dem Förderprogramm Hrsg. v. DLR PT-NMB (2004), S. 58-61. [9]
+
+Nemitz, Jürgen; Verstegen, Ute
+Serverentwicklung, Verstetigung und Rechtsfragen: prometheus - Das verteilte digitale Bildarchiv im 3. Projektjahr
+in: EDV-Tage Theuern 2003. Tagungsband. Kümmersbrück 2003 (im Druck, erscheint voraussichtlich im Juni 2004). [10]
+
+Pfleging, Bettina
+E-Learning in den Kulturwissenschaften - Didaktik und Evaluation im Projekt prometheus
+in: Werner Fröhlich / Wolfgang Jütte (Hrsg.): Qualitätsentwicklung in der postgradualen Weiterbildung. Internationale Entwicklungen und Perspektiven (= Lifelong Learning 2). Krems, S. 367-376 [11]
+
+Bredekamp, Horst; Haffner, Dorothee
+Census, Imago, Technical Image, prometheus: Projects of Digital Art History
+in: Digital Resources from Cultural Institutions for Use in Teaching and Learning (hrsg. von Klaus-Dieter Lehmann u. a.), München 2004, S. 37-49. [92]
+
+Nemitz, Jürgen; Verstegen, Ute
+Serverentwicklung, Verstetigung, Rechtsfragen. Das verteilte Bildarchiv prometheus im 3. Projektjahr
+in: EDV-Tage Theuern 2003, Tagungsband, Kümmersbruck 2004, S. 58-66. [5]
+
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre als Projekt im Fokus auf der Webseite des Projektträgers 16.04.2003
+"http://www.medien-bildung.net/focus/focus_79.php":http://www.medien-bildung.net/focus/focus_79.php [12]
+
+Brenne, Stefan
+Zentrierte Datenbank - Metadaten für digitale Diatheken gemeinsam erstellen und nutzen
+in: Mitteilungen des Deutschen Archäologenverbandes e.V. 34, 2003, 93-95. [14]
+
+Hartmann, Rochus
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre (Vortrag bei IMLAB-Symposium 12.-13.05.2003)
+"http://www.imlab.de/symposium/vortraege/hartmann.pdf":http://www.imlab.de/symposium/vortraege/hartmann.pdf [15]
+
+Simon, Holger
+Lernen im digitalen Themenraum. Exploratives Lernen im Internet aus kunsthistorischer Sicht zeitenblicke 2 (2003), Nr. 1
+"http://www.zeitenblicke.historicum.net/2003/01/simon/index.html":http://www.zeitenblicke.historicum.net/2003/01/simon/index.html [16]
+
+Verstegen, Ute
+Die Notebook-Bibliothek. Die Verbindung digitaler und analoger Informationsquellen
+in: Kölner Universitäts-Journal, Heft 1, 2003, 48f. [17]
+
+Verstegen, Ute
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
+in: Zeitenblicke 2 (2003), Nr. 1
+"http://www.zeitenblicke.historicum.net/2003/01/verstegen/index.html":http://www.zeitenblicke.historicum.net/2003/01/verstegen/index.html [18]
+
+Nemitz, Jürgen
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre EDV-Tage Theuern 2002. Tagungsband, Kümmersbruck 2003, S. 35-38.
+"http://www.museumtheuern.de/edvtage/index.htm":http://www.museumtheuern.de/edvtage/index.htm [19]
+
+Bredekamp, H.; Reichle, I.
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre. Ein internetgestütztes Konzept zur Zusammenführung heterogener Wissensquellen am Kunstgeschichtlichen Seminar der Humboldt-Universität zu Berlin
+in: Humboldt Spektrum, 9. Jg., 4/2002, S. 48-53.
+"http://www2.hu-berlin.de/arthistory/pub/pdf/spektrum_prometheus.pdf":http://www2.hu-berlin.de/arthistory/pub/pdf/spektrum_prometheus.pdf [20]
+
+Ruby, Sigrid; Verstegen, Ute
+prometheus - The Distributed Digital Image Archive for Research & Education
+in: EVA 2002 London. Conference Proceedings, hrsg. v. James Hemsley, Vito Cappellini, Gerd Stanke. Farnborough 2002, S. 32-1 bis 32-4 [21]
+
+Hohmann, Georg; Simon, Holger; Verstegen, Ute
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre. Synergetische Nutzung heterogener Datenbasen in den Geisteswissenschaften
+in: nfd Information - Wissenschaft und Praxis, 6/2002, S. 355-360. [22]
+
+Wieviel Kultur geht durch den Draht? E-Learning in den Kulturwissenschaften.
+2. prometheus-Tagung vom 3. bis 4. Oktober 2002 an der Universität zu Köln
+in: AKMB news 8, 2002, H. 2, S. 44f. [23]
+
+Haffner, Dorothee
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre. Bericht über Workshop und Symposium in Köln, 13.-15.09.2001
+in: Rundbrief Fotografie N.F.33, Vol.9, No.1 (15.3.2002), S. 37-40. [24]
+
+Nemitz, Jürgen; Thaller, Manfred
+Gleiche unter Gleichen: prometheus. Informationssysteme ohne Zwang zur Vereinheitlichung
+in: EDV-Tage Theuern 2001, Kümmersbruck 2002, S. 50-58 [25]
+
+Reichle, Ingeborg
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
+in: Humboldt Zeitung, Heft 5/6, April 2001, S. 7. [26]
+
+Reichle, Ingeborg
+Keine Angst vor dem Cyberspace. Frauen und Neue Medien in der Bildung
+in: Die Philosophin. Forum für feministische Theorie und Philosophie, Heft 23, Jg. 12, Tübingen 2001, S. 137ff. [27]
+
+Reichle, Ingeborg
+Mediale Brüche. prometheus - Neue Medien im kunstwissenschaftlichen Arbeiten
+in: Kritische Berichte, Heft 2, 2001, S. 87-89. [28]
+
+Reichle, Ingeborg
+Keine Angst vor dem Cyberspace. Frauen und Neue Medien in der Bildung. prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre
+in: ZIF Bulletin: Zentrum für Interdisziplinäre Frauenforschung der HU, Jg. 22, April 2001, S. 25f. [29]
+
+Simon, Holger
+prometheus - Das verteilte digitale Bildarchiv
+in: Kunstchronik, Heft 2, Februar 2001, S. 88f. [30]
+
+Simon, Holger
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
+in: E. Wagner / M. Kindt (Hrsg.): Virtueller Campus. Szenarien - Strategien - Studium. Münster u. a. 2001, S. 172-178. [31]
+
+Simon, Holger; Verstegen, Ute
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
+in: Konferenzband EVA 2001 Berlin. Berlin 2001, S. 124-128. [32]
+
+Verstegen, Ute
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
+in: AKMB news. Informationen zu Kunst, Museum und Bibliothek 7, Heft 2, 2001, S. 30f. [33]
+
+Verstegen, Ute
+Neue Medien in der Bildung. prometheus - Projekt gestartet
+in: Kölner Universitäts-Journal, Heft 2, Juni 2001, 58f. [34]
+
+Verstegen, Ute
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
+Tagungsbeitrag für »Museums and the Internet«, Hagen, 28./29. Mai 2001. [35] 

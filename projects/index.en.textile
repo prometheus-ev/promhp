@@ -1,0 +1,45 @@
+---
+layout: default
+title: Projects and cooperations
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=319&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+*Meta-Image: Aufbau einer verteilten, virtuellen Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte*
+prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln
+Computer- und Medienservice, Humboldt-Universität zu Berlin
+Rechen- und Medienzentrum, Leuphana Universität Lüneburg
+01.12.2009 – 30.11.2011
+"→ Description":<%=r 'projects/meta-image' %> (in german)
+
+
+
+*Automatische Erschließung des digitalen Bildarchivs*
+*p r o m e t h e u s*
+Department of art history, University Cologne
+Department of information sciences, University of applied sciences, Cologne
+02.04.2007 – 31.03.2009
+"→ Description":<%=r 'projects/automatic-indexing' %>
+
+
+
+*HyperImage – Bildorientierte e-Science-Netzwerke*
+Humboldt University Berlin
+University Lueneburg
+zweitwerk - software engineering GmbH
+01.06.2006 – 31.05.2009
+"→ Description":<%=r 'projects/hyper-image' %> (in german)
+
+
+
+*Aufbau und Integration von digitalen Bildressourcen und E-Learning-Komponenten in interdisziplinären Lehrveranstaltungen*
+Department of history and cultural studies, Justus-Liebig University Giessen
+01.10.2003 - 31.10.2004
+"→ Description":<%=r 'projects/e-learning' %> (in german)
+
+
+
+*Notebook-Bibliothek. Digitale und analoge Medien in wissenschaftlichen Bibliotheken*
+Department of art history, University Cologne
+01.08.2002 - 15.07.2003
+"→ Description":<%=r 'projects/notebook-library' %> (in german)

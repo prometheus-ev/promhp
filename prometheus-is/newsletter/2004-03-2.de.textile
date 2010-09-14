@@ -1,0 +1,52 @@
+---
+layout: default
+title: Newsletter 2004/03 Nachtrag
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=369&L=1\\\\\\\\\\\%27%20and%20char%28124%29%20user%20char%28124%29%3D0%20and%20\\\\\\\\\\\%27\\\\\\\\\\\%27%3D\\\\\\\\\\\%27&skin=0
+---
+h4. <%= @page.title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre*
+
+
+Liebe Abonnentin, lieber Abonnent,
+
+zuletzt informierten wir über den aktuellen Stand bei der Novellierung des deutschen Urheberrechts. Wir versprachen, Sie rechtzeitig darauf hinzuweisen , wie Sie die Bildung und Wissenschaft - und damit wahrscheinlich auch Ihre Arbeit - betreffenden Interessen in dem Verfahren unterstützen können. Dem gilt der heutige "Newsletter-Nachtrag".
+
+Mit herzlichem Gruß,
+für prometheus e.V.
+Sigrid Ruby
+
+
+
+*zu 4.) Urheberrechtsnovelle "2. Korb" - prometheus unterstützt Allianz der Wissenschaften*
+
+Im letzten prometheus-Newsletter ( 2004 / 03) haben wir über die Formierung einer wissenschaftlichen Allianz berichtet, die sich im Rahmen der zweiten Runde der Urheberrechtsnovellierung für die Interessen von Bildung und Wissenschaft einsetzen wird.
+
+Dieses von dreißig wissenschaftlichen Organisationen gebildete Aktionsbündnis "Urheberrecht für Bildung und Wissenschaft", dem auch der Verband Deutscher Kunsthistoriker e.V. (VDK) angehört, hat nun eine Webseite mit einer öffentlichen Stellungnahme ("Göttinger Erklärung") freigeschaltet. Sie können diese Erklärung als Einzelperson sehr einfach per Webformular mitunterzeichnen; als Institution haben Sie weiterhin die Möglichkeit eines Bündnisbeitritts.
+
+Bitte unterstützen Sie diese Initiative und unterzeichnen Sie die "Göttinger Erklärung" unter:
+
+"www.urheberrechtsbuendnis.de":http://www.urheberrechtsbuendnis.de/
+
+
+Weitere Informationen dazu finden Sie unter:
+
+
+"http://idw-online. de/public/zeige_pm.html?pmid=84453":http://idw-online.de/de/
+
+"www.heise.de/newsticker/meldung/49962":http://www.heise.de/newsticker/meldung/Wissenschaftler-fordern-faires-Urheberrecht-104767.html
+
+Sollten Sie weitere Fragen dazu haben, steht Ihnen seitens prometheus e.V. auch gerne zur Verfügung: Dr. Ute Verstegen, LS Christliche Archäologie und Kunstgeschichte, FAU Erlangen-Nürnberg, Kochstr. 6, 91054 Erlangen, eMail: "ute.verstegen[at]theologie.uni-erlangen.de":mailto:javascript:linkTo_UnCryptMailto('ocknvq,wvg0xgtuvgigpBvjgqnqikg0wpk/gtncpigp0fg');
+
+
+
+Impressum
+
+Der nächste Newsletter (2004/04) erscheint vorraussichtlich im Oktober. Redaktion: "sigrid.ruby[at]geschichte.uni-giessen.de":javascript:linkTo_UnCryptMailto('ocknvq,ukitkf0twdaBiguejkejvg0wpk/ikguugp0fg');
+
+
+
+prometheus e.V.-Geschäftsstelle
+Kunsthistorisches Institut der
+Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln

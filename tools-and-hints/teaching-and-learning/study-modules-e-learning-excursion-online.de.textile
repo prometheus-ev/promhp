@@ -1,0 +1,25 @@
+---
+layout: default
+title: exkursion-online
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=351&L=0&skin=0&tx_ttnews[tt_news]=72
+---
+h4. <%= @page.title %>
+
+01.11.07
+
+
+| !<%=r 'files/images/9aeccb7266.jpg' %>!  |  !<%=r 'files/images/300fbfe3cc.jpg' %>!  |  !<%=r 'files/images/3b322f7855.jpg' %>! |
+
+*Autorenschaft:*  Sabine Scheele (s2w3.com) in Zusammenarbeit mit Dr. Stefan Brenne (Uni Gießen), dem HRZ Uni Gießen und prometheus
+*Zielgruppe:*  Reisende und Daheimgebliebene
+*Medien:*  Hypertext, Blog, Video, Link- und Literaturlisten
+
+
+Link:
+"http://www.exkursion-online.de":http://www.uni-giessen.de/exkursion-online/
+
+
+Von: Sabine Scheele
+
+
+"zurück zu: E-Learning 2.0":<%=r 'tools-and-hints/teaching-and-learning/study-modules-e-learning' %>

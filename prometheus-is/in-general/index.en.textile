@@ -1,0 +1,42 @@
+---
+layout: default
+title: The image archive
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=6&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+*prometheus is a digital image archive for Art and Cultural Sciences.*
+p r o m e t h e u s   enables the convenient search for images  on a common user interface within different image archives, variable databases from institutes, research facilities and museums.
+
+
+
+Download  "prometheus Flyer (PDF, 689 KB)!":<%=r 'files/text/prometheus_flyer_07.pdf' %>
+
+
+h5. The licence model of prometheus
+
+p r o m e t h e u s   is a non-commercial image archive. Licence fees are charged exclusively for operating our services and the continuous development of our technologies.
+Additional information at „ "Registration and Licenses":<%=r 'licences/index' %> "
+
+
+h5. Prometheus can be used for scientific work.
+
+p r o m e t h e u s may be used in a variety of ways. Access to prometheus is possible with a license issued either to a campus or to an institute.  Private parties may apply for a personal account.
+Additional information at „ "Registration and licenses":<%=r 'licences/index' %> ”.
+
+
+See “ "Directory of License Holders":<%=r 'licences/licence-holders' %> ” to check if your institute has already signed up.
+
+
+h5. Individual databases can be connected to prometheus
+
+To connect an individual database and to use the advantages of prometheus, find additional information at
+
+
+» "Information for database providers":<%=r 'databases/index' %>
+
+
+
+For smaller image collections we offer the image data base DILPS
+
+Additional information about  » "DILPS":<%=r 'databases/promdilps' %>

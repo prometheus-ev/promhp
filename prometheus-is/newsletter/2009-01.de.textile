@@ -1,0 +1,59 @@
+---
+layout: default
+title: Newsletter 2009 / 01
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=477
+---
+h4. <%= @page.title %>
+prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.
+
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de
+
+
+
+*Sondernummer: prometheus initiiert das digitale Historische Archiv Köln*
+
+"www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/
+
+
+Vor einer Woche, am 3. März, stürzte das Historische Archiv der Stadt Köln ein. Das ist eine menschliche und kulturhistorische Katastrophe, deren Ausmaß man erst langsam begreift. Dieses Archiv war nicht nur eines der größten, sondern auch eines der ältesten Stadtarchive weltweit. Seit 1320 wurden die Beschlüsse des Rates protokolliert, und seit 1513 lagen sie lückenlos vor. Das „Gedächtnis" der Stadt Köln hütete Archivalien aus über tausend Jahren Stadtgeschichte. Mehr als 65.000 Urkunden, 26 Regalkilometer Akten, 104.000 Karten und Pläne, 50.000 Plakate, 780 Nachlässe und rund eine halbe Million Photographien wurden hier aufbewahrt – materielle Zeugnisse, die kulturelle Erinnerung begründeten und von Forscherinnnen und Forschern rege konsultiert wurden.
+
+Ein großer Teil dieser Zeugnisse ist vermutlich unwiederbringlich zerstört. In diesen Tagen konzentrieren sich alle Kräfte auf die Rettung der Realien vor Ort. Das Historische Archiv der Stadt Köln wird voraussichtlich über Jahre geschlossen bleiben, und auch die erhaltenen Archivalien werden nach der Bergung nicht sofort zugänglich sein.
+
+Angesichts dieser desaströsen Sachlage hat prometheus am vergangenen Wochenende die Initiative ergriffen und das digitale Historische Archiv Köln ins Leben gerufen. prometheus will damit einen Beitrag leisten zur Rekonstruktion und Sicherung der kulturellen Erinnerung der Stadt Köln. Namhafte Berufsverbände, zahlreiche Kulturinstitutionen und eine beständig wachsende Zahl von Privatpersonen unterstützen das Projekt.
+
+Worum geht es? Was können Sie tun?
+
+Im digitalen Historischen Archiv Köln, unter "www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/, können ehemalige Nutzerinnen und Nutzer des Kölner Archivs ihre Vervielfältigungen aus den Beständen einstellen. Ziel ist, in den nächsten Wochen und Monaten möglichst viele (digitale) Fotografien, Kopien, Abschriften und Verfilmungen von Archivalien aus dem Historischen Archiv der Stadt Köln zusammenzutragen.
+
+Wir bitten deshalb alle Wissenschaftlerinnen und Wissenschaftler nachdrücklich darum, ihre Forschungsunterlagen nach entsprechenden Vervielfältigungen zu durchsuchen und das Material unter "www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/ einzustellen. Sie tragen mit Ihrem Engagement dazu bei, das historische Gedächtnis der Stadt Köln zumindest in Teilen zu sichern.
+
+Das digitale Historische Archiv wird eine wichtige Hilfe sein bei der an die Bergung anschließenden Rekonstruktion der Archivbestände. Sobald als möglich und sinnvoll soll es kostenfrei an die Stadt Köln übergeben werden. Eine Fortführung des Projekts unter der Leitung des Historischen Archivs Köln ist geplant.
+
+
+Natürlich kann das digitale Historische Archiv Köln den Verlust von Originalen nicht ersetzen. Es kann aber vielleicht einen beträchtlichen Großteil des Informationsgehalts offen zugänglich machen. Und dabei ist Ihre Unterstützung ebenso gefragt wie hoch willkommen.
+
+Besuchen Sie also bitte "www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/! Schauen Sie sich an, was schon geschehen ist, und helfen Sie uns nach Ihren Möglichkeiten!
+
+
+Neben namhaften regionalen und überregionalen Partnern und Privatpersonen wird das digitale Historische Archiv besonders unterstützt von den drei großen Berufsverbänden:
+
+Verband deutscher Archivarinnen und Archivare e.V., Prof. Dr. Robert Kretzschmar (Präsident)
+
+Verband der Historiker und Historikerinnen Deutschlands e.V., Prof. Dr. Werner Plumpe (Vorsitzender)
+
+Verband der Restauratoren e.V., Prof. Volker Schaible (Präsident)
+
+
+Die Koordination des Projekts liegt bei „prometheus“ ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de) in Zusammenarbeit mit dem Institut für Geschichtswissenschaften, Abteilung für Rheinische Landesgeschichte der Universität Bonn.
+
+
+
+Ansprechpartner sind:
+
+PD Dr. Holger Simon (prometheus e.V.) und Dr. Andreas Rutz (Abt. f. Rhein. Landesgeschichte), eMail: "info@historischesarchivkoeln.de":info@historischesarchivkoeln.de
+
+
+
+
+
+Redaktion: PD Dr. Sigrid Ruby ("sigrid.ruby[at]geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de)

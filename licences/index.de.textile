@@ -1,0 +1,29 @@
+---
+layout: default
+title: Anmeldung und Lizenzen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=33
+---
+h4. <%= @page.title %>
+
+
+Es gibt verschiedene Möglichkeiten prometheus zu nutzen.
+Wir bieten für Sie folgende Lizenzmodelle an:
+
+
+*Campuslizenz*
+
+Mit einer Campuslizenz können alle Angehörigen einer Hochschule prometheus an den Computern innerhalb des gesamten Hochschulnetzes nutzen. Darüber hinaus gibt es auch die Möglichkeit, über persönliche Zugänge im Bildarchiv zu recherchieren.
+
+
+*Institutslizenz*
+
+Kleinere Institutionen und einzelne Hochschulinstitute können eine Institutslizenz erwerben. Die Institutslizenzen sind nach der Größe der Institutionen gestaffelt.
+
+
+*Einzellizenz*
+
+Wenn Sie prometheus nicht über eine Institution mit Lizenz nutzen können, haben Sie die Möglichkeit, eine Einzellizenz zu erwerben.
+
+
+
+"» Übersicht der Lizenzgebühren":<%=r 'licences/licence-fee' %>

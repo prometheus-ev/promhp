@@ -1,0 +1,127 @@
+---
+layout: default
+title: Informationen zu pandora
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=390
+---
+h4. <%= @page.title %>
+
+
+*Seit dem 31. März 2008 ist pandora online! In einem ersten Schritt bedeutet dies für prometheus den Ersatz der bisherigen Software "kleio", die uns sieben Jahre lang gute Dienste geleistet hat.*
+*In einem zweiten Schritt bedeutet dies für Sie eine neue, verbesserte Oberfläche und vor allem neue Möglichkeiten innerhalb des Bildarchivs, von denen wir Ihnen einige kurz vorstellen wollen.*
+
+
+h5. Was ist seitdem passiert?
+
+*Mehrsprachigkeit:*
+
+Die Einbindung von Wörterbüchern ermöglicht nun auch unseren nicht-deutschsprachigen Nutzern das engl.-dt. Arbeiten mit dem Bildarchiv.
+
+
+*Gastzugang:*
+
+Fortan kann sich jede/r Interessierte selbstständig über die Funktion "Neu anmelden":http://prometheus.uni-koeln.de/pandora/signup auf unserer homepage einen kostenlosen Gastzugang für eine Woche einrichten. Bisher war dies mit einer Anfrage an die Geschäftsstelle verbunden.
+
+
+*Verwaltung des eigenen Zugangs:*
+
+Unsere Nutzer haben ab jetzt die Möglichkeit, jederzeit ihre persönlichen Daten (Nutzername, Passwort, E-Mail) selbständig zu verwalten.
+
+
+*Erweiterte Such- und Arbeitsfunktionen innerhalb des Bildarchivs:*
+
+Durch pandora hat sich die Auswahl der relevanten Datenbanken vereinfacht. Sie können diese nun für Ihre Suchanfrage nach Ort, Funktion oder Inhalt sortieren und auswählen.
+
+Zudem können Sie Ihre Suchbegriffe mit booleschen Operatoren (AND, OR und NOT) verknüpfen und dadurch die Ergebnisse Ihrer Recherche noch präziser bestimmen.
+
+Bei der Ergebnisanzeige haben Sie die Möglichkeit, zwischen Bildergalerie oder Auflistung mit Angaben zum Werk zu wählen. Außerdem können Sie für einen besseren Überblick Ihre Resultate nach Kriterien wie Künstler, Titel, Standort, Bildnachweis und Datenbank sortieren.
+
+Darüber hinaus lassen sich nun Ihre Bildsammlungen, in denen Sie ausgewählte Bilder sammeln, verschlagworten und dadurch leichter sortieren und gruppieren.
+
+
+
+Außerdem ist es nun möglich, private Bildsammlungen mit anderen Nutzern zu teilen. Das erleichtert das kollaborative Arbeiten an Forschungsprojekten und die gemeinsame Gestaltung von Seminaren. Die Beteiligten können der Bildersammlung weitere Bilder, Beschreibungen, Schlagwörter und Links hinzufügen. Dabei werde die einzelnen Arbeitsschritte genau dokumentiert, so dass Veränderungen für alle nachvollziehbar bleiben.
+
+
+
+Über aktuelle Änderungen in den einzelnen Bildsammlungen oder in den Listen der Bildsammlungen (Eigene, Freigegebene, Öffentliche) können sich unsere Nutzer nun auch selbst informieren. Hierfür stellt prometheus nun RSS-Feeds zur Verfügung, die Sie über einen Button neben den einzelnen Bildsammlungen und Listen abonnieren können.
+
+
+
+Bessere Kommunikationsmöglichkeiten bietet prometheus zudem dadurch, dass NutzerInnen sich nun über Ihre Profilseiten gegenseitig Nachrichten senden können, ohne die jeweiligen E-Mail-Adressen zu kennen.
+
+
+*Daten herunterladen:*
+
+Ein Klick auf das Download-Icon (nach unten gerichteter Pfeil) an einem Bild ermöglicht nun das Herunterladen des Bildes mit allen vorliegenden Metadaten. Diese werden im Text - Format geliefert.
+Auch das Herunterladen der Bildersammlungen ist nun möglich. Beim Klick auf den Download-Link werden alle Bilder der Sammlung zusammen mit den XML-Daten heruntergeladen
+
+
+*Kommentier- und Bewertungsfunktion:*
+
+Ab sofort können Sie die Bilder Ihrere Recherche mit Hilfe einer Punktevergabe bewerten und so schlechte Abbildungen kennzeichnen!
+
+
+
+Kennen Sie die neuesten Forschungsergebnisse zu Objekten, und sind diese noch nicht in den Metadaten integriert oder haben Sie Fragen zu einem Bild? Hinterlassen Sie ein Kommentar und geben Sie damit auch anderen Nutzern die Möglichkeit, auf dem aktuellsten Stand der Dinge zu sein oder eine fruchtbare Diskussion zu entspannen.
+
+
+
+Zudem werden Ihnen nun zu Ihren Rechercheergebnissen ähnliche Objekte, die anhand der Schlagwortvergabe ermittelt wurden, angezeigt. Sie könnten für Ihre Forschung interessant sein!
+
+
+
+Diese Fortschritte sind nur ein Teil der Entwicklungen, die für das Bildarchiv bereits realisiert wurden.
+
+*Als nächstes ist geplant:*
+
+- Redesign der Oberfläche für eine Verbesserung der Usability
+
+
+
+- Anlegen von individuellen Standardeinstellungen in den persönlichen Zugängen
+
+
+
+-  Einrichten einer persönlichen Oberfläche, die nach den individuellen Bedürfnissen der Nutzer gestaltet werden kann und so den schnellen Zugriff auf einzelne Arbeitsfunktionen bietet
+
+
+
+- Einfügen von externen Bildern in die eigenen Bildersammlungen und Präsentationen
+
+
+- Suchoptimierung durch automatische Indexierung der Bildbeschreibungen
+
+- Verknüpfung der Bilder mit kunsthistorischen Fachtexten
+
+
+Da wir das Bildarchiv auch in Zukunft mithilfe Ihrer Kritik und Ihrer Anregungen weiterentwickeln möchten, sind wir gespannt auf "Ihre Reaktionen":<%= @site.pandora_url %>/feedback
+
+
+
+h5. Die neue Technik
+
+"pandora - die Software von prometheus, dem digitalen Bildarchiv für Forschung und Lehre" ist auf der informationstechnologischen Ebene die Nachfolgerin von "kleio" und die treibende Kraft hinter dem prometheus-Bildarchiv.
+
+pandora wird seit Herbst 2006 auf der Basis von "Ruby on Rails":http://rubyonrails.org/ entwickelt. pandora ist "Freie Software":http://www.gnu.org/philosophy/free-sw.html und steht unter den Bedingungen der "GNU General Public License":http://www.gnu.org/licenses/licenses.html#GPL zur Verfügung.
+
+Die "API-Dokumentation":http://prometheus-test.uni-koeln.de/pandora-doc/pandora  für pandora steht online zu Verfügung, ist aber noch nicht sehr umfangreich. Um eine Kopie des Quellcodes zu erhalten, "kontaktieren Sie uns": bitte direkt oder stöbern Sie in unserem "Subversion repository":http://prometheus.khi.uni-koeln.de/svn/pandora/ danach. Unterstützung ist jederzeit willkommen!
+
+
+Bitte melden Sie uns auch Probleme oder Vorschläge auf unserer "Mailing-Liste":https://lists.uni-koeln.de/mailman/listinfo/pandora-devel oder als "Ticket":http://prometheus.khi.uni-koeln.de/trac/pandora/report.
+
+
+Und nun wünschen wir Ihnen viel Vergnügen mit und viel Erfolg bei der Arbeit mit dem "neuen prometheus" und pandora und sind gespannt auf Ihre Rückmeldungen!
+
+
+
+Mit freundlichen Grüßen,
+
+Ihr prometheus-Team
+
+
+
+p r o m e t h e u s - Das verteilte digitale Bildarchiv für Forschung und Lehre
+Kunsthistorisches Institut der Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln
+Telefon: 0221-4704476

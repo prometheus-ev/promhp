@@ -1,0 +1,5 @@
+---
+layout: default
+title: exkursion-online
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=351&L=1&skin=0&tx_ttnews[tt_news]=72&tx_ttnews[pointer]=
+---

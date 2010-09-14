@@ -1,0 +1,5 @@
+---
+layout: default
+title: Aufbau und Integration von digitalen Bildressourcen und E-Learning-Komponenten in interdisziplinären Lehrveranstaltungen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=321&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---

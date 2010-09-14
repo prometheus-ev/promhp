@@ -1,0 +1,127 @@
+---
+layout: default
+title: Satzung
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=69
+---
+h4. <%= @page.title %>
+
+verabschiedet von der Gründungsversammlung
+am 24. März 2003, letzte Satzungsänderung am 16. März 2005.
+
+*Satzung zum Herunterladen (PDF)*
+"satzung.pdf":<%=r 'files/text/satzung.pdf' %>
+
+
+h5. §1 Name, Sitz und Geschäftsjahr
+
+    * Der Verein trägt den Namen "prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V."
+    * Der Verein hat seinen Sitz in Köln und ist im Vereinsregister beim Amtsgericht Köln eingetragen.
+    * Das Geschäftsjahr ist das Kalenderjahr.
+
+h5. §2 Vereinszweck
+
+    * Zweck des Vereins ist die Förderung von Wissenschaft und Forschung durch die Entwicklung, Bereitstellung und Anwendung der digitalen Medien im kunst- und kulturhistorischen Bereich. Der Verein fördert ihren Einsatz in der Aus- und Weiterbildung, Forschung und Lehre und fühlt sich besonders den Hochschulen, Forschungseinrichtungen, Museen, Archiven und der Denkmalpflege verpflichtet.
+    * Der Verein gewährleistet die Sicherung, Bereitstellung und Weiterentwicklung der im Verbundprojekt "prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre" entwickelten Instrumente und Anwendungen.
+
+h5. §3 Gemeinnützigkeit
+
+    * Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung in der jeweils gültigen Fassung.
+    * Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
+    * Für die Erfüllung der satzungsgemäßen Zwecke sollen geeignete Mittel durch Lizenzen, Einkünfte, Spenden, Zuschüsse und sonstige Zuwendungen eingesetzt werden.
+    * Mittel des Vereins dürfen nur für satzungsgemäße Zwecke verwendet werden. Die Mitglieder des Vereins dürfen keine Zuwendungen aus den Mitteln des Vereins erhalten.
+    * Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+
+h5. §4 Mitgliedschaft
+
+    * Mitglied kann jede natürliche oder juristische Person oder eine Gesamthandsgemeinschaft werden.
+
+h5. §5 Rechte und Pflichten der Mitglieder
+
+    * Die Mitglieder haben das Recht, gegenüber dem Vorstand und der Mitgliederversammlung Anträge zu stellen.
+    * Alle angebotenen Veranstaltungen des Vereins stehen den Mitgliedern zur Teilnahme offen.
+    * In der Mitgliederversammlung kann das Stimmrecht nur persönlich ausgeübt werden. Hierzu gehört auch die schriftliche Stimmabgabe per Brief oder E-Mail.
+    * Die Mitglieder sind verpflichtet, den Verein und den Vereinszweck – auch in der Öffentlichkeit – in ordnungsgemäßer Weise zu unterstützen.
+
+h5. §6 Beginn und Ende der Mitgliedschaft
+
+    * Die Mitgliedschaft muss gegenüber dem Vorstand schriftlich beantragt werden. Über den schriftlichen Aufnahmeantrag entscheidet der Vorstand mit einfacher Stimmenmehrheit abschließend. Der Vorstand ist nicht verpflichtet, Ablehnungsgründe der/dem Antragstellenden mitzuteilen.
+    * Die Mitgliedschaft endet durch freiwilligen Austritt, Ausschluss, Tod des Mitglieds, Verlust der Rechtsfähigkeit bei juristischen Personen oder der Auflösung der Gesamthandsgemeinschaft.
+    * Das freiwillige Beenden der Mitgliedschaft muss durch schriftliche Kündigung zum Ende des Jahres unter Einhaltung einer dreimonatigen Frist zum Jahresende gegenüber dem Vorstand erklärt werden.
+    * Der Ausschluss eines Mitglieds mit sofortiger Wirkung und aus wichtigem Grund kann dann ausgesprochen werden, wenn das Mitglied in grober Weise gegen die Satzung, die Ordnungen, den Satzungszweck oder die Vereinsinteressen verstößt.
+    * Über den Ausschluss eines Mitglieds entscheidet der Vorstand mit Zweidrittel-Mehrheit. Dem betroffenen Mitglied steht binnen eines Monats nach Zugang des Ausschlussbescheides der Einspruch an die Mitgliederversammlung zu. Eine außerordentliche Mitgliederversammlung kann mit Zweidrittel-Mehrheit der anwesenden Mitglieder den Bescheid des Vorstands aufheben. Bis dahin ruht die Mitgliedschaft des betroffenen Mitglieds.
+    * Bei Beendigung der Mitgliedschaft, gleich aus welchem Grund, erlöschen alle Ansprüche aus dem Mitgliedsverhältnis. Eine Rückgewähr von Beiträgen, Spenden oder sonstigen Unterstützungsleistungen ist grundsätzlich ausgeschlossen. Der Anspruch des Vereins auf rückständige Beitragsforderungen bleibt hiervon unberührt.
+
+h5. §7 Mitgliedsbeiträge
+
+    * Für die Höhe der jährlichen Mitgliedsbeiträge, Aufnahmegebühren und Umlagen ist die jeweils gültige Beitragsordnung maßgebend, die von der Mitgliederversammlung beschlossen wird.
+    * Der Mitgliedsbeitrag beträgt 50 € / Jahr, für Studierende, Auszubildende, Volontäre/-innen und Arbeitslose 25 € / Jahr und für juristische Personen und Gesamthandsgemeinschaften 180 € / Jahr.
+    * Der Beitrag ist zahlbar für ein Kalenderjahr im Voraus. Die Beitragszahlung hat jeweils bis spätestens zum letzten Werktag im April des jeweiligen Kalenderjahres zu erfolgen. Bei Neueintritt ist der Mitgliedsbeitrag in voller Höhe für das laufende Kalenderjahr zu entrichten
+
+h5. §8 Organe des Vereins
+
+    * Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
+
+h5. §9 Mitgliederversammlung
+
+    * Oberstes Organ des Vereins ist die Mitgliederversammlung; sie hat insbesondere folgende Aufgaben:
+    * • Entgegennahme und Besprechung der Jahresberichte des Vorstands und der Kassenprüfer/innen
+    * • Rechnungslegung für das abgelaufene Geschäftsjahr
+    * • Entlastung des Vorstands
+    * • Wahl des Vorstands
+    * • Wahl der Kassenprüfer/innen
+    * • Genehmigung des vom Vorstand vorzulegenden Haushaltsvoranschlags für das laufende Geschäftsjahr
+    * • Festsetzung der Beiträge für das laufende Geschäftsjahr bzw. Verabschiedung von Beitragsordnungen
+    * • Beschlussfassung über vorliegende Anträge
+    * • Entscheidung über die Satzung, Änderungen der Satzung sowie über die Auflösung des Vereins
+    * Eine ordentliche Mitgliederversammlung wird vom Vorstand des Vereines nach Bedarf, mindestens aber einmal im Geschäftsjahr, nach Möglichkeit im ersten Halbjahr des Geschäftsjahres, einberufen. Die Einladung erfolgt einen Monat vorher schriftlich durch den Vorstand mit Bekanntgabe der vorläufig festgesetzten Tagesordnung an die dem Verein zuletzt bekannte Mitgliedsadresse per Brief oder E-Mail.
+    * Anträge zur Tagesordnung sind dem Vorstand spätestens zwei Wochen vor dem Zeitpunkt der Versammlung per Brief oder E-Mail zu übermitteln. Lehnt der Vorstand die Aufnahme eines Antrags in die Tagesordnung ab, kann der/die Antragsteller/in die Entscheidung über die Aufnahme des Antrags in die Tagesordnung von der Mitgliederversammlung verlangen.
+    * Der Vorstand hat die außerordentliche Mitgliederversammlung unverzüglich einzuberufen, wenn
+    * • es das Interesse des Vereins erfordert.
+    * • die Einberufung von mindestens einem Drittel der stimmberechtigten Vereinsmitglieder schriftlich unter Angabe des Zwecks und der Gründe vom Vorstand verlangt wird.
+    * • der Vorstand zurücktritt.
+    * Der/die Vorsitzende oder sein/e Stellvertreter/in leitet die Mitgliederversammlung. Auf Vorschlag des/der Vorsitzenden kann die Mitgliederversammlung einen/eine Versammlungsleiter/in bestimmen.
+    * Beschlüsse der Mitgliederversammlung werden in einem Protokoll innerhalb von zwei Wochen nach der Mitgliederversammlung niedergelegt und von zwei Vorstandsmitgliedern unterzeichnet. Das Protokoll wird jedem Mitglied per E-Mail zugesandt und kann jederzeit in der Geschäftsstelle eingesehen werden. Gehen innerhalb der folgenden vier Wochen keine Änderungswünsche ein, so gilt das Protokoll als genehmigt.
+
+h5. §10 Stimmrecht / Beschlussfähigkeit
+
+    * Jedes Mitglied ist mit Vollendung des 18. Lebensjahres mit einer Stimme stimmberechtigt. Das Stimmrecht kann nur persönlich ausgeübt werden. Hierzu gehört auch die schriftliche Stimmabgabe per Brief oder E-Mail.
+    * Die Mitgliederversammlung ist beschlussfähig, wenn mehr als ein Viertel der stimmberechtigten Mitglieder und mindestens zwölf stimmberechtigte Mitglieder anwesend sind. Im Falle der Beschlussunfähigkeit kann eine neue Mitgliederversammlung mit unveränderter Tagesordnung einberufen werden; diese Mitgliederversammlung ist unabhängig von der Zahl der Erschienenen beschlussfähig.
+    * Die Mitgliederversammlung fasst ihre Beschlüsse mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Stimmenthaltungen bleiben außer Betracht. Bei Stimmengleichheit gilt der Antrag als abgelehnt.
+    * Abstimmungen in der Mitgliederversammlung erfolgen offen durch Handzeichen oder Zuruf. Eine geheime Abstimmung ist auf Antrag eines anwesenden stimmberechtigten Mitglieds durchzuführen.
+    * Für Satzungsänderungen und Beschlüsse zur Auflösung des Vereins ist eine Mehrheit von Dreivierteln der abgegebenen gültigen Stimmen erforderlich.
+
+h5. §11 Vorstand
+
+    * Der Vorstand besteht aus neun Personen und setzt sich wie folgt zusammen:
+    * • Der/die Vorsitzende und Stellvertreter/in
+    * • Der/die Schatzmeister/in und Stellvertreter/in
+    * • Der/die Schriftführer/in
+    * • vier weitere Beisitzer/innen
+    * Der Vorstand wird von der Mitgliederversammlung für die Dauer von zwei Jahren gewählt. Die unbegrenzte Wiederwahl der Vorstandsmitglieder ist zulässig. Nach Fristablauf bleiben die Vorstandsmitglieder bis zum Antritt ihrer Nachfolger/innen im Amt.
+    * Der Gründungsvorstand bleibt nur bis zum 31.3.2004 im Amt. Die Mitgliederversammlung im März 2004 wählt den neuen Vorstand.
+    * Der Vorstand leitet verantwortlich die Vereinsarbeit. Er kann sich eine Geschäftsordnung geben und besondere Aufgaben unter seinen Mitgliedern verteilen oder Ausschüsse für deren Bearbeitung oder Vorbereitung einsetzen.
+    * Vorstand im Sinne des § 26 BGB sind die in §11 Abs.1 genannten Personen. Jeder ist allein vertretungsberechtigt.
+    * Der Vorstand beschließt mit einfacher Stimmenmehrheit. Der Vorstand ist beschlussfähig, wenn mindestens fünf Mitglieder anwesend sind oder per Brief oder E-Mail zustimmen können. Bei Stimmengleichheit gilt der Antrag als abgelehnt.
+    * Beschlüsse des Vorstands werden in einem Sitzungsprotokoll niedergelegt und von dem/der Vorsitzenden und einem weiteren Vorstandsmitglied unterzeichnet.
+    * Scheidet ein Vorstandsmitglied vor Ablauf seiner Wahlzeit aus, ist der Vorstand berechtigt, ein kommissarisches Vorstandsmitglied zu berufen. Kommissarische Vorstandsmitglieder bleiben bis zur nächsten Mitgliederversammlung im Amt.
+    * Der Vorstand tritt mindestens zweimal pro Jahr zusammen. Weitere Sitzungen müssen auf Verlangen von mindestens drei Vorstandsmitgliedern einberufen werden.
+
+h5. §12 Kassenprüfer/innen
+
+    * Von der Jahresmitgliederversammlung sind zwei Kassenprüfer/innen für die Dauer von einem Jahr zu wählen, die weder dem Vorstand noch einem vom Vorstand berufenen Gremium angehören und nicht Angestellte des Vereins sein dürfen.
+    * Die Kassenprüfer/innen haben die Aufgabe, Rechnungsbelege sowie deren ordnungsgemäße Verbuchung und die Mittelverwendung zu prüfen und dabei insbesondere die satzungsgemäße und steuerlich korrekte Mittelverwendung festzustellen.
+    * Die Prüfung erstreckt sich nicht auf die Zweckmäßigkeit der vom Vorstand getätigten Ausgaben.
+    * Die Kassenprüfer/innen haben die Mitgliederversammlung über das Ergebnis der Kassenprüfung zu unterrichten.
+
+h5. §13 Geschäftsführung
+
+    * Der Vorstand bedient sich zur Erledigung der laufenden Aufgaben einer Geschäftsstelle, die von einer Geschäftsführung zu leiten ist. Der/die Geschäftsführer/in wird vom Vorstand bestellt und abberufen.
+    * Die Aufgabenbereiche der Geschäftsführung werden durch eine Geschäftsordnung geregelt, die vom Vorstand erlassen wird.
+    * Zur Erledigung ihrer Aufgaben kann die Geschäftsführung weitere Personen beauftragen, die nicht Mitglieder sein müssen.
+    * Der/die Geschäftsführer/in und die Mitarbeiter/innen der Geschäftsführung können Vereinsmitglieder sein, nicht aber Vorstandsmitglieder.
+    * Der/die Geschäftsführer/in nimmt beratend an den Sitzungen des Vorstands teil. Alle Mitarbeiter/innen der Geschäftsführung können beratend an der Mitgliederversammlung teilnehmen.
+
+h5. §14 Verwendung der Einkünfte und Mitgliedsbeiträge
+
+    * Bei Auflösung des Vereins oder Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung der in §2 genannten Aufgaben. Beschlüsse über die zukünftige Verwendung des Vermögens dürfen erst nach Einwilligungdes Finanzamts ausgeführt werden.
+    * Als Liquidatoren/-innen werden die im Amt befindlichen Vorstandsmitglieder bestimmt, soweit die Mitgliederversammlung nichts anderes abschließend beschließt.

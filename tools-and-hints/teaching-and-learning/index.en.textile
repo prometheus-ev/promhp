@@ -1,0 +1,9 @@
+---
+layout: default
+title: Teaching and Learning
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=8&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h4. <%= @page.title %>
+
+*In this section prototypical structured study elements developed by prometheus and offers from other projects and institutions respectivly are found.*
+The teaching platform ILIAS complements this offer by prometheus in the categories teaching and learning.

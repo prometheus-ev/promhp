@@ -1,0 +1,126 @@
+---
+layout: default
+title: Newsletter 2006/02 - Sonderausgabe Urheberrecht
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=365
+---
+h4. <%= @page.title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V*
+
+
+Liebe Abonnentin, lieber Abonnent,
+
+aus aktuellem Anlass möchten wir Sie mit dieser Sonderausgabe des Newsletters über die Entwicklungen im Bereich der Urheberrechtsnovellierung informieren. prometheus setzt sich mit einer Stellungnahme aktiv für ein bildungs- und wissenschaftsfreundliches Urheberrecht ein und bittet auch Sie um Ihre Unterstützung.
+
+Mit herzlichem Gruß,
+für prometheus e.V.,
+Oda Verstegen
+
+
+
+*INHALT*
+
+1.) prometheus veröffentlicht ausführliche Stellungnahme zum Gesetzentwurf der Bundesregierung: Entwurf eines Zweiten Gesetzes zur Regelung des Urheberrechts in der Informationsgesellschaft ("Zweiter Korb")
+
+2.) Reaktionen zum "Tag des geistigen Eigentums" am 26. April 2006
+
+3.) prometheus bei Symposium "Forschung und Lehre im Informationszeitalter – zwischen Zugangsfreiheit und Privatisierungsanreiz" in Köln
+
+4.)  prometheus - Kontakt
+
+
+
+*1.) prometheus veröffentlicht ausführliche Stellungnahme zum Gesetzentwurf der Bundesregierung: Entwurf eines Zweiten Gesetzes zur Regelung des Urheberrechts in der Informationsgesellschaft ("Zweiter Korb")*
+
+Mit einer ausführlichen Stellungnahme appelliert prometheus an Öffentlichkeit und Parlament, sich für ein bildungs- und wissenschaftsfreundlicheres Urheberrecht in Deutschland einzusetzen. Anlass ist der am 3. Januar 2006 vom Bundesministerium der Justiz (BMJ) vorgelegte, neue Gesetzentwurf für ein Zweites Gesetz zur Regelung des Urheberrechts in der Informationsgesellschaft ("2. Korb"), der per Kabinettsentscheid am 22. März 2006 bestätigt wurde.
+
+Die Absicht des Bundes und der Länder, das deutsche Urheberrecht der Entwicklung im Bereich der digitalen Informations- und Kommunikationstechnologie anzupassen und rechtliche Klarheit für deren Nutzungsmöglichkeiten in Bildung und Wissenschaft herbeizuführen, ist prinzipiell begrüßenswert. Doch schon die bisherige Novellierung des Urheberrechtsgesetzes hat für Bildung und Wissenschaft zu einschneidenden Behinderungen und zu unakzeptablen Einschränkungen der grundgesetzlich garantierten Rechte bei der öffentlichen Zugänglichkeit und der digitalen Nutzung von veröffentlichten Werken geführt, die sich mit dem Inkrafttreten des sog. "Zweiten Korbs" weiter zu verschärfen drohen.
+
+Mehrere der im sog. "Zweiten Korb" geplanten Regelungen widersprechen aus der Perspektive von Forschung und Hochschullehre schwerwiegend und unangemessen dem im Koalitionsvertrag vereinbarten Ziel eines "bildungs- und wissenschaftsfreundlichen Urheberrechts".
+
+So fällt nach vorliegendem Entwurf die bis Ende 2006 befristet geltende Schrankenregelung § 52a UrhG weg, nach der eine öffentliche Zugänglichmachung urheberrechtlich geschützten Materials im Rahmen der Veranschaulichung des Unterrichts, z.B. in digitalen Semesterapparaten, erlaubt ist. Denjenigen Hochschulen, die sich den bildungspolitisch gewollten und mit Bundesmitteln geförderten e-Learning-Initiativen angeschlossen haben, wird nun rückwirkend die Rechtsgrundlage entzogen. Will die Bundesregierung wirklich diese Hochschulentwicklung zurückdrehen und Bildung und Wissenschaft vom sinnvollen Gebrauch der digitalen Medien ausschließen? Sollen mehrere Milliarden Euro an öffentlichen Mitteln, die dafür bisher investiert wurden, in den Sand gesetzt werden?
+
+Hier besteht dringender Handlungsbedarf! Wir ersuchen vehement darum, § 52a beizubehalten und den Bedürfnissen von Bildung und Wissenschaft weiter anzupassen. Hierzu ist die Befristung dieses Paragraphen aufzuheben oder wenigstens die Befristung um mindestens weitere 5 Jahre zu verlängern, auch um eine wesentliche Verbesserung dieses Paragraphen entsprechend den Bedürfnissen von Bildung und Wissenschaft zu erreichen.
+
+Wer mit der Praxis des aktuellen Wissenschaftsbetriebs und insbesondere der gängigen Einbindung einzelner Institute in die Hochschulintranets vertraut ist, dem/der wird besonders die Regelung im neuen § 52b (Entwurf) absurd erscheinen: Diesem neu eingefügten Paragraphen zufolge soll eine Wiedergabe von Werken aus den elektronischen Beständen einer Bibliothek, eines Archivs oder Museums nur an eigens eingerichteten elektronischen Leseplätzen in der Institution selbst möglich sein. Gerade in der Ortsungebundenheit liegt aber der grundlegende Vorteil der digitalen Ressourcen. Der § 52b zwingt die Nutzer/innen (wie in der bisherigen analogen Nutzung) nun wieder in die Bibliothek und an einen "elektronischen Leseplatz" - insofern er nicht gerade besetzt ist -, um die Ressource online einzusehen. Unklar ist zudem, ob diese überhaupt ausgedruckt werden darf oder vom Bildschirm abgeschrieben werden muss. Ergebnis ist eine absurde Verschlechterung der Informationsversorgung gegenüber dem analogen Zeitalter, als man ein Buch oder eine Zeitschrift wenigstens ausleihen und mitnehmen durfte.
+
+Wie kann es sein, dass vor diesem Hintergrund im Regierungsentwurf behauptet wird, diese Regelungen hätten keine Auswirkung auf die öffentlichen Haushalte? Es entstehe angeblich "kein zusätzlicher Vollzugsaufwand, da organisatorische Umstellungsarbeiten zur Umsetzung des Gesetzes nicht erforderlich" seien. Wenn die erste deutsche Universitätsbibliothek die umliegenden Liegenschaften aufkaufen muss, um dorthin ihre Leseräume zu erweitern, wird auch das BMJ möglicherweise die Absurdität dieser Formulierung begreifen.
+
+Es reicht nicht abzuwarten! Nun sind alle Institutionen von Wissenschaft und Kultur, Lehrende und Studierende gleichermaßen aufgefordert, für ein angemessenes, zukunftsweisendes und nachhaltiges Urheberrecht einzustehen.
+
+Was können Sie tun?
+
+- Unterstützen Sie das Aktionsbündnis "Urheberrecht für Bildung und Wissenschaft", indem Sie die Göttinger Erklärung zum Urheberrecht für Bildung und Wissenschaft vom 5. Juli 2004 unterzeichnen, die von den großen deutschen Wissenschaftsorganisationen, über 260 Fachverbänden und über 3700 Einzelpersonen getragen wird ("http://www.urheberrechtsbuendnis.de/":http://www.urheberrechtsbuendnis.de/).
+
+
+- Fordern Sie Ihre Rektoren/-innen, Präsidenten/-innen und Direktoren/-innen sowie Ihre Studierendenvertreter und ASten auf, sich schriftlich gegen den Regierungsentwurf zu stellen! Sie können sich dabei an der vollständigen Stellungnahme von prometheus e.V. sowie an der umfangreichen Stellungnahme des Urheberrechtsbündnisses orientieren.
+Diese finden Sie unter:
+
+
+"www.prometheus-bildarchiv.de/downloads/prometheus_Stellungnahme.pdf":http://www.prometheus-bildarchiv.de/downloads/prometheus_Stellungnahme.pdf
+
+
+"www.urheberrechtsbuendnis.de/docs/ABStellungnahmeKorb2.pdf":http://www.urheberrechtsbuendnis.de/docs/ABStellungnahmeKorb2.pdf
+
+
+
+- Wenden Sie sich an Ihre zuständigen Bundestagsabgeordneten und fordern Sie diese auf, dafür Sorge zu tragen, dass das Gleichgewicht der Interessen von Urhebern und Nutzern ausgewogen bleibt und in der digitalen Informationsgesellschaft nicht zu Ungunsten von Bildung und Wissenschaft verschoben wird!
+
+Im globalen Wettbewerb werden Bildung und Wissenschaft in Deutschland künftig durch das restriktive geplante Urheberrecht massiv benachteiligt und von der Informationsgesellschaft weitgehend abgekoppelt. Dies läuft allen bildungspolitischen Absichtserklärungen der Landesregierungen und der Bundesregierung zuwider!
+
+
+
+*2.) Reaktionen zum "Tag des geistigen Eigentums" am 26. April 2006*
+
+Bei einer Festveranstaltung zum "Tag des geistigen Eigentums" am 26. April 2006 kündigte Bundesjustizministerin Brigitte Zypries an, den Schutz geistigen Eigentums zum Schwerpunkt der deutschen EU-Ratspräsidentschaft im ersten Halbjahr 2007 zu machen. Sie äußerte sich auch zu einigen stark diskutierten Punkten der geplanten Urheberrechtsnovellierung, so z.B. zum geplanten § 52b. Die Forderung, neben öffentlichen Bibliotheken, Museen und Archiven auch "Bildungseinrichtungen" allgemein die Einrichtung von Online-Leseplätzen zu gestatten, weist das Justizministerium unter dem Argument zurück, die "verfassungsrechtlich geschützten Interessen der Verlage" berücksichtigen zu müssen. Bei den intern elektronisch zur Verfügung gestellten Büchern oder Zeitschriften soll es sich der Intention der Regierung zufolge allerdings um Werke handeln, die sich ohnehin im Präsenzbestand der jeweiligen Einrichtung befinden müssen. Ein Argument dafür, was vor diesem Hintergrund eigentlich gegen eine Nutzung der Ressource durch die Bibliotheksnutzer/innen über das Hochschulintranet spricht, blieb die Ministerin schuldig.
+
+Hinsichtlich der Weiterführung des § 52a antwortete das Justizministerium jüngst auf eine Anfrage der Grünen. Das Ministerium räumt inzwischen selbst ein, dass sich die Rechtsunsicherheit durch die Befristungsklausel von § 52a hemmend auf die Nutzung digitaler Medien an Schulen und Hochschulen ausgewirkt hat. Ein weiteres Problem liegt im Fehlen von Gesamtverträgen mit den Verwertungsgesellschaften über die Abgeltung der in § 52a vorgesehenen Vergütungen für die Urheber, die auch bei einer Nutzung von geschützten Werken zu Lehrzwecken entstehen. Das Ministerium überlegt nun laut heise-Newsticker erstmals, eine Verlängerung der Befristungsklausel vorzuschlagen. Ob dies überhaupt geschieht und es sich nicht nur um eine Ruhigstellungsbehauptung handelt, wird wesentlich von den Reaktionen und Stellungnahmen aus dem Wissenschaftsbereich abhängen!
+Bitte folgen Sie also unbedingt unserem Aufruf und regen Sie Ihre Hochschulleitungen zu Stellungnahmen an!
+
+
+Weitere Informationen unter:
+
+"www.heise.de/ct/aktuell/meldung/72408":http://www.heise.de/ct/aktuell/meldung/72408
+
+
+"www.heise.de/newsticker/meldung/72485":http://www.heise.de/newsticker/meldung/72485
+
+
+
+*3.) prometheus bei Symposium "Forschung und Lehre im Informationszeitalter – zwischen Zugangsfreiheit und Privatisierungsanreiz" in Köln*
+
+Das am 21. April 2006 an der Universität zu Köln abgehaltene Symposium "Forschung und Lehre im Informationszeitalter – zwischen Zugangsfreiheit und Privatisierungsanreiz" thematisierte die Herausforderungen der Digitalisierung für den Hochschulalltag und fragte nach Lösungen für ein modernes Wissensmanagement an den Universitäten. Dabei standen insbesondere urheber- und medienrechtlicher Fragen im Vordergrund. Als beispielhaftes Projekt für die Anwendung digitaler Medien im Hochschulbereich war auch prometheus zu einem Vortrag eingeladen. Holger Simon machte deutlich, mit welchen Herausforderungen sich die kulturwissenschaftliche Forschung und Lehre im digitalen Zeitalter konfrontiert sieht und wie schwierig diese fachspezifischen Anforderungen mit der geltenden und geplanten Urheberrechtsgesetzgebung zu vereinbaren sind. Das wichtigste Ergebnis dieser Tagung war der konstruktive Dialog mit der Verwertungsgesellschaft VG Bild-Kunst, der nun weitergeführt werden wird.
+
+
+
+*4.) Kontakt*
+
+Weitere Informationen zu den urheberrechtlichen Aktivitäten von prometheus erhalten Sie bei:
+
+Dr. Holger Simon (Vorstandsvorsitzender prometheus e.V.)
+Kunsthistorisches Institut der Universität zu Köln
+"holger.simon@uni-koeln.de":mailto:holger.simon@uni-koeln.de
+
+Dr. Ute Verstegen (Vorstandsmitglied prometheus e.V., Arbeitsbereich Rechtsfragen)
+Lehrstuhl für christliche Archäologie und Kunstgeschichte
+Friedrich-Alexander-Universität Erlangen-Nürnberg
+ute.verstegen[at]theologie.uni-erlangen.de
+
+
+oder an der prometheus-Geschäftsstelle.
+Die prometheus-Geschäftsstelle ist besetzt: Mo, Mi, Do und Fr, jeweils 10-13 Uhr, sowie Di 15-18 Uhr. fon: 0221-470 4476, fax: 0221-470 5044, "info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+
+
+
+
+Impressum
+
+Der nächste Newsletter (2006/03) erscheint voraussichtlich im Juni.
+
+Redaktion der Ausgabe 2006/02: Dr. Ute Verstegen "ute.verstegen[at]theologie.uni-erlangen.de":mailto:ute.verstegen@theologie.uni-erlangen.de
+
+
+prometheus e.V.-Geschäftsstelle
+Kunsthistorisches Institut der Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln
+

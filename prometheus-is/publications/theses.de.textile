@@ -1,0 +1,45 @@
+---
+layout: default
+title: Diplomarbeiten
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=291&no_cache=1&L=0&skin=
+---
+h4. <%= @page.title %>
+
+Bergemann, Martin
+Entwicklung und Implementierung einer Konsistenzprüfung für eine MySQL-Datenbank. Diplomarbeit Hochschule Anhalt (FH), 2002 [36]
+
+Bothen, Sabine
+XML-Dump von MySQL-Datenbanken. Diplomarbeit Hochschule Anhalt (FH), 2003 [37]
+
+Brandt, Frau
+Virtueller Innenraum Martinskirche. Diplomarbeit Hochschule Anhalt (FH), in Bearbeitung. [38]
+
+Burkhardt, Benjamin
+Politische Bilder und Archivpolitik. Dissertation JLU Giessen, in Bearbeitung. [39]
+
+Dwucet, Silvia
+Edutainment. Prinzipien interaktiver Wissensvermittlung. Diplomarbeit Hochschule Anhalt (FH), FB Design, WS 03/04 [40]
+
+Emmerich, S.
+XML - Strukturen zur Bearbeitung von Bilddatenbanken. Diplomarbeit Hochschule Anhalt (FH), 2001 [41]
+
+Gröschel, Petra
+"prometheus" Das verteilte digitale Bildarchiv für Forschung & Lehre. Die Zusammenführung von Ressourcen aus heterogenen Informationssystemen. (Abschlussarbeit im Rahmen der Ausbildung zur Wiss. Dokumentarin, FH Potsdam, IID), März 2004 [42]
+
+Just, Daniel
+Entwicklung einer Flash-Suchmaske zur Abfrage in einer MySQL-Datenbank. Datenübertragung mittels XML. Diplomarbeit. Hochschule Anhalt (FH), 2002 [43]
+
+Kamphans, Marion
+Gender Mainstreaming in der Hochschule - Strategien der Umsetzung. Dissertation Univ. Dortmund in Bearbeitung. [44]
+
+Klesch, Anita
+A study of the history of art in an electronic environment. Dissertation, London, bei Prof. William Vaughan, in Bearbeitung. [45]
+
+Lebrecht, Heike
+Methoden und Probleme der Bilderschliessung am Beispiel des verteilten digitalen Bildarchivs Prometheus. Diplomarbeit im Studiengang Bibliothekswesen, Fakultät für Informations- und Kommunikationswissenschaft, Fachhochschule Köln, bei Prof. Lepsky. [46]
+
+Lindner, Claudia
+Vom Denken zur Schrift. LE-H-RNEN, bewegtes lehrnen | lehrnen in bewegung. Entwicklung einer elektronischen, innovativen, interaktiven Lernumgebung. Diplomarbeit Hochschule Anhalt (FH), FB Design, WS 03/04. [47]
+
+Noack, Gianna
+Vom Denken zur Schrift. LE-H-RNEN, bewegtes lehrnen | lehrnen in bewegung. Entwicklung einer elektronischen, innovativen, interaktiven Lernumgebung. Diplomarbeit Hochschule Anhalt (FH), FB Design, WS 03/04. [48] 

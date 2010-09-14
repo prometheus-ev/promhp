@@ -1,0 +1,91 @@
+---
+layout: default
+title: Newsletter 2003/01
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=373
+---
+h4. <%= @page.title %>
+p r o m e t h e u s  - Das verteilte digitale Bildarchiv für Forschung & Lehre
+
+
+
+Liebe Leserinnen und Leser,
+liebe assoziierte Partner und Interessierte,
+
+aufgrund des stetig wachsenden Nutzer- und Interessentenkreises kommen wir gerne denWünschen einiger AnwenderInnen nach, Sie regelmäßig über die aktuellsten Entwicklungen innerhalb des Projekts zu informieren und Neuheiten vorzustellen. Der Newsletter wird Ihnen automatisch zugesandt. Sie können ihn jederzeit auf unserer Homepage (www.prometheus-bildarchiv.de) unter dem Menüpunkt "newsletter" abonnieren oder stornieren.
+
+Wir freuen uns auf einen kooperativen Austausch und hoffen auf rege Resonanz.
+
+Mit sommerlich-warmen Grüßen, für das  p r o m e t h e u s -Team,
+Claudia Weiser
+
+
+---------------------------------------------------------------------------------------
+
+
+INHALT
+
+1.) Interesse an Nutzung des Bildarchivs?
+2.) Kooperationsformen
+3.) p r o m e t h e u s  präsentiert sich im neuen Outfit!
+4.) Verein " p r o m e t h e u s " gegründet
+
+ ---------------------------------------------------------------------------------------
+
+1. Interesse an Nutzung des Bildarchivs?
+
+Sie haben noch keinen Zugang zu  p r o m e t h e u s ? Kein Problem: Gerne richten wir Ihnen einen persönlichen Account ein, mit dem Sie für Forschung und Lehre uneingeschränkt sämtliche bestehenden Funktionen anwenden und testen können. Bitte füllen Sie unseren zweiseitigen Antrag auf Nutzung des Bildarchivs aus und senden ihn unterschrieben per Post an folgende Adresse:
+
+Justus-Liebig-Universität Gießen
+Otto-Behaghel-Straße 10/G
+Professur für Kunstgeschichte
+Projekt  p r o m e t h e u s
+Claudia Weiser
+35394 Gießen.
+
+Den Antrag finden Sie auf unserer Homepage unter www.prometheus-bildarchiv.de, oder Sie können ihn direkt von Claudia Weiser (Claudia.Weiser@geschichte.uni-giessen.de) erhalten.
+
+Im Gegensatz zum individuellen Account für einzelne ForscherInnen oder Studierende besitzen unsere Kooperationspartner für Forschung und Lehre Institutszugänge, mit denen unabhängig von  p r o m e t h e u s  beliebig viele Zugänge für alle Angehörigen der assoziierten Institution eingerichtet werden können.
+
+ ---------------------------------------------------------------------------------------
+
+2. Kooperationsformen
+
+Seit Jahresbeginn bietet  p r o m e t h e u s  jeder interessierten Institution zwei Varianten der Zusammenarbeit. Assoziierter Partner kann jede Institution werden,
+- die als Bildgeber eine eigene digitale Bilddatenbank in das  p r o m e t h e u s -System einbringen möchte oder
+- die als Nutzer  p r o m e t h e u s  kritisch im Betrieb testet und evaluiert.
+Als Gegenleistung steht dem Partner das gesamte p r o m e t h e u s -Angebot zur Verfügung: das verteilte Bildarchiv mit seinen Recherche- und Präsentationstools, die Lernelemente und die neu integrierte Lernplattform ILIAS.
+Sollten Sie Interesse an einer Kooperation haben, wenden Sie sich bitte an Claudia Weiser, unsere Koordinatorin für die assozierten Partner
+(Claudia.Weiser@geschichte.uni-giessen.de).
+
+ ---------------------------------------------------------------------------------------
+
+3.  p r o m e t h e u s  präsentiert sich im neuen Outfit!
+
+p r o m e t h e u s  präsentiert sich seit Mitte Juni im einheitlich angepassten Outfit. Klare Strukturen und durchgängig homogene Gestaltungselemente unterstützen die Benutzerfreundlichkeit. Des weiteren befindet sich nun am unteren Rand eine Navigationsleiste, die Ihnen eine schnelle Übersicht über das Angebot von  p r o m e t h e u s  ermöglicht und die Arbeitswege verkürzt. Außerdem ist die erweiterte Benutzerverwaltung jetzt ebenfalls über einen Link von der Navigationsleiste aus zu erreichen.
+Neben den verbesserten Strukturen eröffnet  p r o m e t h e u s  nun auch den Zugang zu den einzelnen Lernelementen, die Ihnen als Dummies zur Verfügung stehen, und der Lernplattform ILIAS!
+Jede/r NutzerIn ist herzlich aufgefordert, den neuen Bereich zu erkunden. Über Feedback würden wir uns sehr freuen.
+Schließlich dürfen wir Sie schon auf unsere nächste Anpassung hinweisen. Bis zum Wintersemester wird die Standardsuche vereinfacht und eine "detaillierte Suche" eingeführt. Diese Suchfunktionen werden die Bildrecherche innerhalb von  p r o m e t h e u s  enorm erleichtern.
+
+ ---------------------------------------------------------------------------------------
+
+4. Verein " p r o m e t h e u s " gegründet
+
+Am 24. März 2003 haben 14 Gründungsmitglieder in der Kölner p r o m e t h e u s -Geschäftsstelle den Verein " p r o m e t h e u s  - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V." ins Leben gerufen. Zweck des Vereins ist die Förderung von Wissenschaft und Forschung durch die Entwicklung, Bereitstellung und Anwendung der digitalen Medien im kunst- und kulturhistorischen Bereich.
+
+Mit der Vereinsgründung verfolgen wir das Ziel, schon während der finanziellen Förderung des Verbundprojekts (bis März 2004) Strukturen zu schaffen, die die Weiterentwicklung des verteilten digitalen Bildarchivs und der medienspezifischen Lernelemente über den Förderungszeitraum hinaus garantieren, damit digitale Instrumente und Anwendungen der Forschung und Lehre auch weiterhin zur Verfügung stehen können!
+
+Werden auch Sie Mitglied! Fördern Sie mit uns die kooperative Integration der Neuen Medien in den kunst- und kulturhistorischen Bereich.
+
+Anmeldebogen und Satzung liegen auf unserer Homepage www.prometheus-bildarchiv.de unter dem Menüpunkt "verein" zum Download bereit. Senden Sie den ausgefüllten und unterzeichneten Anmeldebogen bitte an die p r o m e t h e u s -Geschäftsstelle.
+
+
+
+prometheus-Geschäftsstelle
+Kunsthistorisches Institut der
+Universität zu Köln
+Albertus-Magnus-Platz
+50923 Köln
+
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de/
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+0221/470-4476

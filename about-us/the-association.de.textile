@@ -1,0 +1,22 @@
+---
+layout: default
+title: prometheus - der Verein
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=11
+---
+h4. <%= @page.title %>
+
+*prometheus e.V. trägt seit 2003 das Bildarchiv prometheus.*
+
+"» Vereinsziel":<%=r 'about-us/association-mission-statement' %>
+
+
+
+Hervorgegangen ist der Verein aus dem Verbundprojekt "prometheus  Das verteilte digitale Bildarchiv für Forschung und Lehre" des Förderprogramms "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
+
+"» zur Geschichte des Projektes und des Vereins":<%=r 'about-us/the-association-history' %>
+
+
+
+*Engagieren Sie sich bei prometheus e.V!*
+
+"» Mitglied werden":<%=r 'about-us/association-become-a-member' %>

@@ -1,0 +1,5 @@
+---
+layout: default
+title: Das digitale Historische Archiv Köln
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=510&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---

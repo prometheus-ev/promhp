@@ -1,0 +1,33 @@
+---
+layout: default
+title: Altenstadt - Entdeckung einer Wandmalerei
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=0&skin=0&tx_ttnews[tt_news]=11&tx_ttnews[backPid]=65&cHash=abe94ea77d
+---
+h4. <%= @page.title %>
+
+05.03.07
+
+| !<%=r 'files/images/033c234766.jpg' %>! | !<%=r 'files/images/f705068cf0.jpg' %>! | !<%=r 'files/images/0be9347d60.jpg' %>! |
+
+*Um Neugier und Forschergeist zu wecken, wurde das Thema "Entdeckung einer Wandmalerei" ausgesucht. Der Einstieg sollte der Wirklichkeit entnommen, interessant, vielseitig und erweiterbar, qualitätvoll, aber nicht "zu bekannt" sein.*
+Deshalb fiel die Wahl auf St. Michael in Altenstadt:
+Der Christophorus ist eine der bedeutendsten Neuentdeckungen des letzten Jahrzehnts; weitere Fresken vor Ort helfen bei Stilvergleich und Datierung und dokumentieren unterschiedliche Prinzipien der Restaurierung;
+der Taufstein mit seinem Bildprogramm und der "Große Gott" sind anschauliche Einstiegsmöglichkeiten in die romanische Skulptur, und die unverfälschte Basilika bietet alle Elemente für eine differenzierte Baubeschreibung.
+Hinzu kommen das historische Umfeld mit seinen offenen Fragen und nicht zuletzt die aktive Unterstützung vor Ort durch den Förderverein *_"Freunde der Romanischen Basilika St. Michael Altenstadt e.V."._*
+
+
+*Zielgruppe:* Studierende im Grund- und Hauptstudium
+
+*Technische Voraussetzung:* Internet-Browser mit Flash-Plugin
+
+*Medien:* Audio, Bild, Text, Video
+
+*Lehrmethode:* Exploratives Lernen
+
+Link: "... /themenraum/index.html":http://prometheus-web.uni-koeln.de/web/lernelemente/themenraum/index.html
+
+
+Von: prometheus e.V., Studierende
+
+
+"zurück zu: Themenraum ":<%=r 'tools-and-hints/teaching-and-learning/study-modules-topic-room' %>
