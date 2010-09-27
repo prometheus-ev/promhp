@@ -2,7 +2,7 @@ url: http://prometheus-bildarchiv.de
 author: prometheus
 email: info@prometheus-bildarchiv.de
 title: prometheus homepage
-pandora_url: http://127.0.0.1:3000
+pandora_url: http://prometheus-app.uni-koeln.de/pandora-devel/
 engine: erb
 paginate: 10
 paginate_files:
