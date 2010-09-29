@@ -75,14 +75,27 @@ body {
 
 #content {
   position:          relative;
+  line-height:       1.4em;
   padding-bottom:    10px;
   margin-top:        3px;
   background-color:  rgb(38,38,38);
 }
 
-#content > * {
+#content .submit_button_wrap {
+  line-height:       1.2em;
+}
+
+#content .header-line {
+  line-height:       2em;
+}
+
+#content > *, #institution_license_renew_form > .list_controls {
   padding-left:      10px;
   padding-right:     10px;
+}
+
+#content > ul {
+  padding-left:      50px;
 }
 
 html, body, select, input, textarea {
@@ -98,6 +111,22 @@ select {
   max-width:         200px;
 }
 
+body.administration-controller.index-action select {
+  width:             140px;
+}
+
+h3 {
+  margin-top:        2em;
+}
+
+ul {
+  list-style-type:   disc;
+}
+
+li + li, ul + li, li + ul {
+  padding-top:       2px;
+}
+
 img {
   border-style:      none;
   vertical-align:    middle;
@@ -107,6 +136,7 @@ hr {
   color:             rgb(60,60,60);
   width:             100%;
   height:            1px;
+  border-style:      solid;
 }
 
 abbr {
@@ -146,7 +176,7 @@ span.prometheus {
   margin-right:      -0.25em;
 }
 
-select, textarea, input {
+select, textarea, input, fieldset {
   font-size:         12px;
   background-color:  rgb(38,38,38);
   color:             rgb(204,204,204);
@@ -186,6 +216,14 @@ body.js input[type=text], body.js input[type=password] {
   background-repeat: repeat-x;
 }
 
+body.js input[type=text].mandatory, body.js input[type=password].mandatory {
+  background-image:  url(../images/misc/input_middle-mandatory.gif);
+}
+
+body.js input[type=text].prompt, body.js input[type=password].prompt {
+  background-image:  url(../images/misc/input_middle-prompt.gif);
+}
+
 .input-left-right {
   display:           inline-block;
   background-image:  url(../images/misc/input_left_right.gif);
@@ -193,8 +231,48 @@ body.js input[type=text], body.js input[type=password] {
   vertical-align:    top;
 }
 
-.login_slogan {
-  width:             400px;
+.input-left-right.mandatory {
+  background-image:  url(../images/misc/input_left_right-mandatory.gif);
+}
+
+.input-left-right.prompt {
+  background-image:  url(../images/misc/input_left_right-prompt.gif);
+}
+
+.mandatory {
+  border-color:      rgb(255,119,33);
+}
+
+.prompt {
+  border-color:      rgb(0,0,255);
+}
+
+.fieldWithErrors .input-left-right,
+.fieldWithErrors .mandatory,
+.fieldWithErrors .prompt {
+  background:        none !important;
+  border-color:      rgb(204,204,204);
+}
+
+.edit-form input[type=text],
+.edit-form input[type=password],
+.edit-form textarea,
+.edit-form .thumbnail_select {
+  width:             350px;
+}
+
+.edit-form select {
+  width:             352px;
+  max-width:         none;
+}
+
+.edit-form .date_select select {
+  width:             inherit;
+  max-width:         inherit;
+}
+
+.login_slogan, body.account-controller.code-action p {
+  width:             430px;
 }
 
 .login_form {
@@ -203,9 +281,24 @@ body.js input[type=text], body.js input[type=password] {
   margin-top:        20px;
 }
 
+div.payment-method {
+  padding:           1em;
+  border:            1px solid rgb(85,85,85);
+}
+
+div.payment-method + div.payment-method {
+  margin-top:        1em;
+}
+
+fieldset {
+  margin:            0;
+  border-width:      1px;
+}
+
 .login_form fieldset {
   width:             310px;
   padding:           10px;
+  background-color:  inherit;
 }
 
 .search_form select {
@@ -392,6 +485,12 @@ div.email:hover {
   background-image:  url(../images/misc/email_hover.gif);
 }
 
+li div.email {
+  float:             none;
+  display:           inline-block;
+  vertical-align:    middle;
+}
+
 div.info {
   width:             16px;
   height:            16px;
@@ -444,6 +543,11 @@ tr.dim:hover > *, .undim:hover tr.dim > *,
   margin-right:      8px;
 }
 
+.truncated .pale, #object-summary .pale {
+  margin-left:       4px;
+  margin-right:      4px;
+}
+
 .active, .active:focus, .inactive:focus,
 .active:active, .inactive:active {
   color:             rgb(255,255,255);
@@ -472,6 +576,10 @@ tr.dim:hover > *, .undim:hover tr.dim > *,
 
 .infobar .gap {
   margin-left:       50px;
+}
+
+body.administration-controller.index-action .gap {
+  margin-left:       8px;
 }
 
 .pad {
@@ -536,7 +644,7 @@ tr.dim:hover > *, .undim:hover tr.dim > *,
   position:          relative;
   bottom:            42px;
   height:            78px;
-  width:             100px;
+  width:             97px;
   display:           inline-block;
   text-align:        center;
 }
@@ -635,12 +743,12 @@ tr.dim:hover > *, .undim:hover tr.dim > *,
 
 #submenu div.menu_link {
   float:             left;
-  min-width:         80px;
+  min-width:         78px;
   padding:           10px;
 }
 
 #submenu .menu_link:hover, #submenu .menu_link.active {
-  background-image:  url(../images/navigation/subnavigation_selected_mi.gif);
+  background-image:  url(../images/navigation/submenu_selected_middle.gif);
 }
 
 #menu .navigation_icon.active:hover span, #submenu .menu_link.active:hover {
@@ -651,7 +759,7 @@ tr.dim:hover > *, .undim:hover tr.dim > *,
   text-shadow:       rgb(255,153,51) 0 0 0;
 }
 
-table.thumblist {
+table.list {
   width:             100%;
 }
 
@@ -667,48 +775,37 @@ table th {
   padding-right:     1em;
 }
 
-table th, td .th {
+table th, td .th, legend {
   color:             rgb(180,180,180);
   font-weight:       normal;
 }
 
 table caption {
-  margin-bottom:     1em;
+  margin-bottom:     1.5em;
 }
 
 table.list td,
-table.list th,
-table.legend td,
-table.legend th {
+table.list th {
   padding-left:      0.4em;
   padding-right:     0.4em;
 }
 
-table.list th {
-  border-style:      solid;
-  border-width:      0 0 1px 1px;
-  white-space:       nowrap;
+table.resourceful-list td,
+table.resourceful-list th {
+  padding-left:      0;
+  padding-right:     0;
 }
 
-table.legend th {
-  white-space:       nowrap;
-  font-weight:       normal;
-}
-
-table.edit_form th {
+.edit-form table th,
+#details-section th {
   width:             120px;
 }
 
-div.image_list th {
+div.metadata th {
   padding-left:      1em;
   width:             1em;
   border:            none;
   white-space:       nowrap;
-}
-
-table.list tr td:first-child {
-  border-width:      0 0 0 2px;
-  border-style:      solid;
 }
 
 table.history td:first-child {
@@ -721,18 +818,46 @@ table.history td.thumbnail {
   white-space:       normal;
 }
 
-body.account-controller.list-action table.legend td {
-  text-align:        right;
-}
-
 table.history h3 {
   margin-bottom:     0.3em;
 }
 
+table.history h3, table.history + .list_controls {
+  margin-top:        1em;
+}
+
+div.history_detail {
+  width:            27.5em;
+  border-left:      0.5em solid rgb(104,104,104);
+  padding-left:     0.5em;
+  margin-top:       2px;
+}
+
+div.history_detail + div.history_detail {
+  margin-top:       0.3em;
+}
+
+div.history_detail div.images {
+  overflow:         auto;
+}
+
+div.history_detail div.images table {
+  border-spacing:   0.2em;
+}
+
 .list_row {
-  min-height:        140px;
-  padding:           15px 10px 5px 10px;
   display:           block;
+  padding:           10px;
+}
+
+table.resourceful-list .list_row {
+  min-height:        140px;
+  padding-top:       15px;
+  padding-bottom:    5px;
+}
+
+body.image-controller.publish-action .list_row {
+  min-height:        180px;
 }
 
 .list_row.odd {
@@ -756,14 +881,23 @@ table.history h3 {
   font-style:        italic;
 }
 
-.title-field, .thumblist .metadata .title-line {
+.title-field, table.list .metadata .title-line {
   padding-bottom:    5px;
   border-bottom:     2px dotted rgb(80,80,80);
 }
 
-.thumblist .metadata .title-line {
+body.announcement-controller .metadata .title-line {
+  padding-bottom:    0;
+  border-bottom:     none;
+}
+
+table.list .metadata .title-line {
   margin-bottom:     5px;
   padding-left:      5px;
+}
+
+table.list .metadata .title-line small {
+  font-weight:       normal;
 }
 
 .metadata {
@@ -775,12 +909,14 @@ table.history h3 {
   text-align:        center;
 }
 
-table.thumblist td.metadata {
-  padding-left:      20px;
-  width:             100%;
+table.list td.dummy {
+  padding:           0;
+  margin:            0;
+  width:             1px;
 }
 
-table.thumblist td.metadata {
+table.resourceful-list td.metadata {
+  padding-left:      20px;
   padding-right:     0;
 }
 
@@ -837,13 +973,20 @@ div.row-adder:focus, div.row-adder:active {
   background:        none;
 }
 
-.icon, div.image_check_box {
+.icon, .help_icon, div.image_check_box {
   display:           inline-block;
   margin-left:       3px;
   width:             19px;
 }
 
-.icon, div.image_check_box, .plain_button {
+.feed_icon {
+  display:           inline-block;
+  margin-left:       3px;
+  margin-right:      5px;
+  width:             14px;
+}
+
+.icon, .help_icon, div.image_check_box, .plain_button {
   border:            1px solid rgb(84,84,84);
 }
 
@@ -853,12 +996,17 @@ div.row-adder:focus, div.row-adder:active {
   background-color:  rgb(27,27,27);
 }
 
+.section_header .icon {
+  margin-top:        5px;
+}
+
 .sort_icon {
   vertical-align:    text-bottom;
   margin-left:       3px;
 }
 
-div.image_check_box, .delete-icon {
+div.image_check_box, .title-line .icon, .delete-icon,
+body.oauth_clients-controller .icon {
   margin-top:        0;
 }
 
@@ -887,10 +1035,6 @@ div.slide_radio_button {
   margin-bottom:     15px;
 }
 
-.store_image .toggle_store_list {
-  cursor:            pointer;
-}
-
 #header-section .thumbnail {
   float:             left;
   margin:            5px 10px 15px 10px
@@ -904,6 +1048,11 @@ div.slide_radio_button {
 #header-section .thumbnail .image img {
   max-width:         48px;
   max-height:        48px;
+}
+
+.thumbnail_select {
+  overflow:          auto;
+  border:            1px solid rgb(85,85,85);
 }
 
 .header-line {
@@ -928,10 +1077,12 @@ div.slide_radio_button {
   font-size:         18px;
 }
 
-.header-line .title-line .owner {
-  font-size:         13px;
+.header-line .title-line .subtitle {
+  display:           inline-block;
   color:             rgb(204,204,204);
-  line-height:       2;
+  font-size:         13px;
+  line-height:       16px;
+  margin-top:        3px;
 }
 
 .header-line .title-line small {
@@ -939,20 +1090,14 @@ div.slide_radio_button {
   font-weight:       normal;
 }
 
-#header-section div.section, #comments-section div.section {
+#header-section              div.section,
+#details-section             div.section,
+#links-section               div.section,
+#references-section          div.section,
+#comments-section            div.section,
+#user_administrators-section div.section {
   width:             650px;
-  margin:            0 10px 20px 10px;
-}
-
-#properties-section table {
-  border-spacing:    10px;
-  padding:           5px 0;
-}
-
-#links-section div.section, #references-section div.section,
-#images-section div.none {
-  padding:           5px 10px 5px 37px;
-  float:             left;
+  margin:            10px;
 }
 
 div.image_wrap {
@@ -960,12 +1105,15 @@ div.image_wrap {
   text-align:        center;
 }
 
-div.image, div.image-line {
+div.image, td.image, div.image-line {
   width:             180px;
 }
 
 div.image, td.image {
   height:            180px;
+}
+
+div.image, td.image, td.thumbnail {
   text-align:        center;
   border:            1px solid rgb(76,76,76);
   background-color:  rgb(27,27,27);
@@ -1063,8 +1211,7 @@ body.account-controller.terms_of_use-action div.scroll,
 #terms_of_use div.scroll {
   height:            25em;
   padding:           1em;
-  border-style:      solid;
-  border-width:      1px;
+  border:            1px solid rgb(85,85,85);
 }
 
 body.account-controller.terms_of_use-action div.scroll {
@@ -1283,6 +1430,14 @@ div.submit_button:focus .button_right, div.submit_button:active .button_right {
   padding:           10px 0;
 }
 
+.page_title {
+  line-height:       20px;
+}
+
+.page_title + .infobar {
+  padding-top:       0;
+}
+
 .list_controls {
   background-image:  url(../images/misc/list_controls_background.gif);
   height:            34px;
@@ -1325,7 +1480,7 @@ div.submit_button:focus .button_right, div.submit_button:active .button_right {
   bottom:            5px;
 }
 
-.thumbnail_image, div.image, td.image {
+.thumbnail_image, div.image, td.image, td.thumbnail {
   display:           table-cell;
   vertical-align:    middle;
 }
@@ -1339,17 +1494,26 @@ div.submit_button:focus .button_right, div.submit_button:active .button_right {
   max-height:        110px;
 }
 
-.thumblist .metadata .summary-line {
-  line-height:       2;
+table.list .metadata .summary-line {
+  line-height:       2em;
 }
 
-.thumblist .metadata .summary-line + div {
+table.list .metadata .summary-line + div {
   margin-top:        0.4em;
 }
 
-.object-description {
+.description-line {
   color:             rgb(255,255,255);
   margin-bottom:     5px;
+}
+
+body.translate-controller .summary-line {
+  margin-bottom:     5px;
+}
+
+body.translate-controller .summary-line span.dim,
+body.translate-controller .list_row textarea + textarea {
+  margin-left:       6px;
 }
 
 .access_status img {
@@ -1366,14 +1530,14 @@ div.submit_button:focus .button_right, div.submit_button:active .button_right {
   color:             rgb(255,255,255);
 }
 
-#object-summary .pale {
-  margin-left:       0;
-  margin-right:      4px;
-}
-
-.search_query {
+.search_query, .section-links {
   padding:           10px;
   background-color:  rgb(48,48,48);
+}
+
+body.administration-controller.index-action .search_query,
+body.administration-controller.index-action .section-links {
+  padding-bottom:    0;
 }
 
 .search_query .search_heading {
@@ -1397,6 +1561,10 @@ div.submit_button:focus .button_right, div.submit_button:active .button_right {
 .pagination, .sort_links, .per_page, .result_view {
   display:           inline-block;
   float:             left;
+}
+
+.pagination {
+  padding-right:     0.5em;
 }
 
 .sort_links, .per_page {
@@ -1483,9 +1651,22 @@ body.search-controller .zoom_thumbs {
   float:             left;
 }
 
-.store_controls .image_select {
+.store_controls .list_select {
   margin:            1px 6px;
   padding-top:       5px;
+}
+
+#institution_license_renew_form .store_controls .list_select {
+  margin-left:       2px;
+}
+
+#institution_license_renew_form .institution_list_item {
+  position:          absolute;
+  left:              2px;
+}
+
+.store_controls .submit_button_wrap {
+  margin-top:        3px;
 }
 
 .store_controls div.noscript {
@@ -1505,11 +1686,15 @@ body.search-controller .zoom_thumbs {
   position:          relative;
 }
 
+.popup_toggle {
+  cursor:            pointer;
+}
+
 .store_images {
   position:          absolute;
   left:              2px;
   top:               30px;
-  min-width:         180px;
+  min-width:         240px;
   background-color:  rgb(51,51,51);
   border:            1px solid rgb(125,125,125);
   z-index:           13;
@@ -1544,7 +1729,8 @@ body.search-controller .zoom_thumbs {
 }
 
 .store_images select {
-  width:             200px;
+  width:             220px;
+  max-width:         none;
 }
 
 .store_images select, .store_images .plus_button {
@@ -1581,51 +1767,51 @@ div.icons {
 }
 
 .icon_first {
-  background-image:  url(../images/misc/icon_first.png);
+  background-image:  url(../images/icon/first.png);
 }
 
 .icon_first:hover {
-  background-image:  url(../images/misc/icon_first_hover.png);
+  background-image:  url(../images/icon/first_hover.png);
 }
 
 .icon_first.inactive {
-  background-image:  url(../images/misc/icon_first_inactive.png);
+  background-image:  url(../images/icon/first_inactive.png);
 }
 
 .icon_prev {
-  background-image:  url(../images/misc/icon_prev.png);
+  background-image:  url(../images/icon/prev.png);
 }
 
 .icon_prev:hover {
-  background-image:  url(../images/misc/icon_prev_hover.png);
+  background-image:  url(../images/icon/prev_hover.png);
 }
 
 .icon_prev.inactive {
-  background-image:  url(../images/misc/icon_prev_inactive.png);
+  background-image:  url(../images/icon/prev_inactive.png);
 }
 
 .icon_next {
-  background-image:  url(../images/misc/icon_next.png);
+  background-image:  url(../images/icon/next.png);
 }
 
 .icon_next:hover {
-  background-image:  url(../images/misc/icon_next_hover.png);
+  background-image:  url(../images/icon/next_hover.png);
 }
 
 .icon_next.inactive {
-  background-image:  url(../images/misc/icon_next_inactive.png);
+  background-image:  url(../images/icon/next_inactive.png);
 }
 
 .icon_last {
-  background-image:  url(../images/misc/icon_last.png);
+  background-image:  url(../images/icon/last.png);
 }
 
 .icon_last:hover {
-  background-image:  url(../images/misc/icon_last_hover.png);
+  background-image:  url(../images/icon/last_hover.png);
 }
 
 .icon_last.inactive {
-  background-image:  url(../images/misc/icon_last_inactive.png);
+  background-image:  url(../images/icon/last_inactive.png);
 }
 
 #footer {
@@ -1652,13 +1838,8 @@ body.presentation-controller.run-action #footer {
   font-size:         11px;
 }
 
-#content caption {
-  font-size:         larger;
-  white-space:       nowrap;
-}
-
 #content code, #content kbd {
-  font-size:         130%;
+  font-size:         110%;
 }
 
 #content code:before {
@@ -1669,15 +1850,45 @@ body.presentation-controller.run-action #footer {
   content:           "«";
 }
 
+#content ul, #content ol {
+  padding-left:      40px;
+  width:             500px;
+}
+
+body.image-controller.publish-action #content > ol {
+  border:            1px solid rgb(85,85,85);
+  margin-left:       10px;
+  padding-top:       10px;
+}
+
+body.image-controller.publish-action #content > ol ol {
+  padding-left:      20px;
+  width:             450px;
+  list-style-type:   lower-alpha;
+}
+
+body.image-controller.publish-action #content > ol li > span {
+  color:             rgb(255,255,255);
+}
+
 div.flash div.flash-controls {
   text-align:        right;
 }
 
-div.flash p, div.announcement {
+.errorExplanation, div.flash p, div.announcement {
   padding:           0.5em;
   margin:            0 0 1em 0;
   border-style:      solid;
   border-width:      0 0 0 1em;
+}
+
+.errorExplanation {
+  margin:            1em 10px;
+}
+
+.fieldWithErrors {
+  border-style:      solid;
+  border-width:      1px;
 }
 
 div.announcement {
@@ -1698,7 +1909,15 @@ div.announcement span.heading {
   margin-right:      1em;
 }
 
-div.announcements p.announcement {
+body.announcement-controller.show-action #content > .announcement {
+  padding-left:      0.5em;
+  padding-right:     0.5em;
+  margin-left:       10px;
+  margin-right:      10px;
+}
+
+body.announcement-controller .list_row .announcement,
+body.announcement-controller .list_row .description-line {
   margin-bottom:     0;
 }
 
@@ -1717,6 +1936,9 @@ p.info, div.announcement {
   background-color:  #993300;
 }
 
+#errorExplanation,
+.fieldWithErrors,
+.captcha_failed input,
 p.warning, div.failure {
   border-color:      #FF0000;
   background-color:  #330000;
@@ -1819,14 +2041,6 @@ div.comment-user > * > div.comment-heading {
   background-color:  rgb(60,60,60);
 }
 
-h3.section_heading {
-  margin-top:        2em;
-}
-
-body.help-controller #content > ul {
-  padding-left:      50px;
-}
-
 body.account-controller.signup-action th,
 body.account-controller.edit-action th {
   width:             200px;
@@ -1835,9 +2049,44 @@ body.account-controller.edit-action th {
 body.account-controller.confirm_email-action input#user_email {
   font-family:       monospace;
   font-size:         150%;
-  width:             100%;
+  width:             97%;
 }
 
 body.pandora-controller.feedback-action td > input[type=text] {
   width:             98%;
+}
+
+body.help-controller div#content > * {
+  width:             650px;
+}
+
+body.help-controller img.screenshot {
+  border:            1px solid rgb(80,80,80);
+  margin-bottom:     0.5em;
+  margin-top:        0.5em;
+}
+
+#help-header {
+  border-bottom:     1px solid rgb(80,80,80);
+}
+
+body.source-controller.open_access-action .list_row .sample,
+body.source-controller.show-action .sample {
+  width:             720px;
+  white-space:       nowrap;
+  overflow:          hidden;
+}
+
+body.source-controller.validate-action #errors {
+  max-height:        300px;
+  overflow:          auto;
+  border:            2px solid rgb(255,153,51);
+  white-space:       pre;
+  font-family:       Typewriter, monospace;
+  padding:           1em;
+  margin:            10px;
+}
+
+body.source-controller.validate-action #errors.invalid {
+  border-color:      rgb(201,0,0);
 }
