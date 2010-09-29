@@ -70,7 +70,7 @@ These progress are only part of the developments already realised for the image 
 * Connection of images with art historical literature
 
 
-As we are intended to advance the image archive with help of your critical statements and suggestions, we are curious about "your reaction":<%= @site.pandora_url %>/feedback
+As we are intended to advance the image archive with help of your critical statements and suggestions, we are curious about "your reaction":<%=p 'feedback' %>
 
 
 
