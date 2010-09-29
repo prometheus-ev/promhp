@@ -59,7 +59,7 @@ Das gemeinsame Arbeiten und die besseren Kommunikationsmöglichkeiten werden im 
 
 Mailingliste: Um prometheus-NutzerInnen und -MitarbeiterInnen ein Kommunikationsmittel für gemeinsame Diskussionen rund um prometheus an die Hand zu geben, ist nun eine Mailingliste eingerichtet worden, an der sich alle schreibend oder lesend beteiligen können. Wir würden uns freuen, wenn Sie diese Kommunikationsmöglichkeit wahrnehmen und sich rege einbringen. Abonnieren können Sie die Liste unter:
 "https://lists.uni-koeln.de/mailman/listinfo/prometheus-users":https://lists.uni-koeln.de/mailman/listinfo/prometheus-users
-Die Möglichkeit der Rückmeldung bzw. der Kontaktaufnahme mit dem prometheus-Team ist natürlich auch weiterhin per Telefon, E-Mail und Feedback-Formular ("http://prometheus.uni-koeln.de/pandora/de/feedback":<%= @site.pandora_url %>/feedback) gegeben.
+Die Möglichkeit der Rückmeldung bzw. der Kontaktaufnahme mit dem prometheus-Team ist natürlich auch weiterhin per Telefon, E-Mail und Feedback-Formular ("http://prometheus.uni-koeln.de/pandora/de/feedback":<%=p 'feedback' %>) gegeben.
 
 Gastzugang: Unter "http://prometheus.uni-koeln.de/pandora/signup":http://prometheus.uni-koeln.de/pandora/signup kann sich fortan jede/r Interessierte selbstständig einen kostenlosen Gastzugang für eine Woche einrichten. Bisher war dies mit einer Anfrage an die Geschäftsstelle verbunden gewesen.
 

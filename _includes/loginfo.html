@@ -1,16 +1,18 @@
 <div id="loginfo">
-  <form action="<%= @site.pandora_url %>/login" method="post" accept-charset="utf-8">
+  <!-- TODO: Insert real Content here! -->
+  <form action="<%=p 'login' %>" method="post" accept-charset="utf-8">
     <legend>
-      <strong><%=t 'Personal account login', 'Persönlicher Zugang' %></strong> (<a href="<%= @site.pandora_url %>/help/login"><%=t 'Login help', 'Anmeldungshilfe' %></a>)
+      <strong><%=t 'Personal account login', 'Persönlicher Zugang' %></strong> (<a href="<%=p 'help', 'login' %>"><%=t 'Login help', 'Anmeldungshilfe' %></a>)
     </legend>
     <label><%=t 'Username', 'Benutzername' %> <small><%=t 'or e-mail', 'oder E-Mail' %></small><br />
     <input id="login" type="text" name="login" tabindex="1" /></label><br />
 
-  <label><%=t 'Password', 'Passwort' %> <small>(<a id="forgot_password" href="<%= @site.pandora_url %>/password"><%=t 'forgotten', 'vergessen' %>?</a></small>)<br />
+  <label><%=t 'Password', 'Passwort' %> <small>(<a id="forgot_password" href="<%=p 'password' %>"><%=t 'forgotten', 'vergessen' %>?</a></small>)<br />
     <input id="password" type="password" name="password" tabindex="2" /></label><br />
     <br />
     <input type="submit" name="commit" value="<%=t 'Log in', 'anmelden' %>" tabindex="3" /> <label>(<input id="remember_me" type="checkbox" name="remember_me" value="1" /> <%=t 'Remember me on this computer', 'Auf diesem Rechner merken' %>.)</label><br />
     <!-- jw/20080407: fool pandora's cookie checking mechanism ;-) -->
     <input type="hidden" name="_pandora_session_id" value="FAKE" />
   </form>
+  <!-- TODO: End -->
 </div>

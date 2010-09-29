@@ -1,9 +1,10 @@
+GEM_NAME = 'jekyll'
+
 task :default => :build
 
 desc "Build the site"
 task :build do
-  name = ENV['USE_FORK'] ? "#{ENV['USE_FORK']}-jekyll" : 'jekyll'
-  gem name  # fail early
+  gem GEM_NAME  # fail early
 
   site, tmp, old = site_paths
 
@@ -11,7 +12,7 @@ task :build do
     argv = ARGV.dup
     ARGV.replace([tmp])
 
-    load Gem.bin_path(name)
+    load Gem.bin_path(GEM_NAME)
 
     mv site, old if File.exist?(site)
     mv tmp, site

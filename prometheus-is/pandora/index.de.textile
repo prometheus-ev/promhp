@@ -94,7 +94,7 @@ Diese Fortschritte sind nur ein Teil der Entwicklungen, die für das Bildarchiv 
 - Verknüpfung der Bilder mit kunsthistorischen Fachtexten
 
 
-Da wir das Bildarchiv auch in Zukunft mithilfe Ihrer Kritik und Ihrer Anregungen weiterentwickeln möchten, sind wir gespannt auf "Ihre Reaktionen":<%= @site.pandora_url %>/feedback
+Da wir das Bildarchiv auch in Zukunft mithilfe Ihrer Kritik und Ihrer Anregungen weiterentwickeln möchten, sind wir gespannt auf "Ihre Reaktionen":<%=p 'feedback' %>
 
 
 

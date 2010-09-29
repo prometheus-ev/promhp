@@ -1,8 +1,9 @@
 url: http://prometheus-bildarchiv.de
 author: prometheus
 email: info@prometheus-bildarchiv.de
-title: prometheus homepage
-pandora_url: http://127.0.0.1:3000
+title: The prometheus Image Archive
+title_de: Das prometheus-Bildarchiv
+pandora_url: http://localhost:3000
 engine: erb
 paginate: 10
 paginate_files:

@@ -1,8 +1,10 @@
 <div id="campus-login">
-  <form action="<%= @site.pandora_url %>/campus_login" method="post">
-    <legend><strong><%=t 'Campus-login', 'Campus-Zugang' %></strong></legend>
+  <!-- TODO: Insert real Content here! -->
+  <form action="<%=p 'campus_login' %>" method="post">
+    <legend><strong><%=t 'Campus login', 'Campuszugang' %></strong></legend>
     <span><%=t 'Available provided you have access to the', 'Verfügbar wenn Sie sich im freigeschalteten' %> <acronym title="Internet Protocol">IP</acronym>-<%=t 'addresses of a', 'Bereich einer' %> <a href="<%=r 'licences/licence-holders' %>"><%=t 'licensed campus', 'lizenzierten Institution' %></a> <%=t 'network', 'befinden' %>.</span><br />
     <br />
     <input type="submit" name="commit" value="<%=t 'Login', 'anmelden' %>" tabindex="0" />
   </form>
+  <!-- TODO: End -->
 </div>
