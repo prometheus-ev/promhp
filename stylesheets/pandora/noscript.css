@@ -1,0 +1,39 @@
+/*
+   class \ JS | enabled | disabled
+  --------------------------------
+  .scriptonly | show    | *hide*
+  .noscript   | hide    | *show*
+  .hidden     | hide    | hide
+*/
+.scriptonly {
+  display: none;
+}
+
+div.noscript, p.noscript {
+  display: block;
+}
+
+span.noscript, input.noscript {
+  display: inline;
+}
+
+li.noscript {
+  display: list-item;
+}
+
+table.noscript {
+  display: table;
+}
+
+tr.noscript {
+  display: table-row;
+}
+
+th.noscript, td.noscript {
+  display: table-cell;
+}
+
+.image_check_box {
+  opacity: 1.0;
+  filter:  alpha(opacity=100);
+}

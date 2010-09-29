@@ -1,0 +1,8 @@
+#header, #footer, .scriptonly {
+  display:          none;
+}
+
+div.scroll {
+  max-height:       none;
+  height:           auto;
+}
