@@ -1,0 +1,24 @@
+.login_form {
+  margin-top:        0;
+}
+
+#campus_login_wrap {
+  margin-top:        10px;
+}
+
+.login_form fieldset {
+  width:             218px;
+}
+
+.login_form input[type=text],
+.login_form input[type=password] {
+  width:             99%;
+}
+
+.login_form input[type=submit] {
+  border-width:      1px;
+}
+
+.login_form legend {
+  white-space:       normal;
+}
