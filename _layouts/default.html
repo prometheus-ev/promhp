@@ -23,19 +23,7 @@
 <body>
   <a name="top"></a>
   <div id="header">
-    <div id="statusbar">
-      <span id="loginfo">
-        <a href="<%=p 'signup' %>"><%=t 'Sign up!', 'Neu anmelden!' %></a>
-      </span>
-
-      <span class="statusbar_link">
-        <a href="<%=p 'help' %>"><%=t 'Help', 'Hilfe' %></a>
-      </span>
-
-      <span class="statusbar_link">
-        <a href="<%=p 'login' %>"><%=t 'login', 'anmelden' %></a>
-      </span>
-    </div>
+    <div id="statusbar"><%= include_file 'statusbar.html' %></div>
 
     <div id="menu">
       <div id="logo">
@@ -53,49 +41,10 @@
     <div id="sidebar">
       <div id="sidebar_header"></div>
 
-      <div id="login_wrap">
-        <form action="<%=p 'login' %>" class="login_form" method="post">
-          <fieldset>
-            <legend>
-              <strong><%=t 'Personal account login', 'Persönlicher Zugang' %></strong>
-              (<a href="<%=p 'help', 'login' %>"><%=t 'Login help', 'Anmeldungshilfe' %></a>)
-            </legend>
+      <div id="login_wrap"><%= include_file 'login.html' %></div>
+      <div id="campus_login_wrap"><%= include_file 'campus_login.html' %></div>
 
-            <label for="login"><%=t 'User name or e-mail address', 'Nutzername oder E-Mail-Adresse' %></label><br />
-            <input type="text" name="login" id="login" size="25" tabindex="1" /><br />
-
-            <br class="vspace1" />
-
-            <label for="password"><%=t 'Password', 'Passwort' %></label>
-            <small>(<a href="<%=p 'password' %>" title="<%=t 'Reset password', 'Passwort zurücksetzen' %>"><%=t 'Forgotten?', 'Vergessen?' %></a></small>)<br />
-            <input type="password" name="password" id="password" size="25" tabindex="2" /><br />
-
-            <br class="vspace1" />
-
-            <input type="submit" name="commit" value="<%=t 'Log in', 'anmelden' %>" class="float-right" />
-
-            <input type="checkbox" name="remember_me" id="remember_me" value="1" />
-            <label for="remember_me"><%=t 'Remember me on this computer.', 'Auf diesem Rechner merken.' %></label><br />
-
-            <!-- jw/20080407: fool pandora's cookie checking mechanism ;-) -->
-            <input type="hidden" name="_pandora_session_id" value="FAKE" />
-          </fieldset>
-        </form>
-      </div>
-
-      <div id="campus_login_wrap">
-        <form action="<%=p 'campus_login' %>" class="login_form" method="post">
-          <fieldset>
-            <legend><strong><%=t 'Campus login', 'Campuszugang' %></strong></legend>
-            <%=t 'Available inside a', 'Verfügbar innerhalb des Campus einer' %>
-            <a href="<%=r 'licences/licence-holders' %>"><%=t 'licensed campus', 'lizenzierten Institution' %></a>.
-            <br />
-            <input type="submit" name="commit" value="<%=t 'Log in', 'anmelden' %>" class="float-right" />
-          </fieldset>
-        </form>
-      </div>
-
-      <%= include_file('navigation.html') %>
+      <%= include_file 'navigation.html' %>
     </div>
 
     <div id="main">
@@ -108,7 +57,7 @@
   </div>
 
   <div id="footer" class="clear-float">
-    <%= include_file('footer.html') %>
+    <%= include_file 'footer.html' %>
   </div>
 
   <script src="<%=p 'pandora.js' %>" type="text/javascript"></script>

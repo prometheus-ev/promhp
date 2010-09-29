@@ -1,0 +1,9 @@
+<form action="<%=p 'campus_login' %>" class="login_form" method="post">
+  <fieldset>
+    <legend><strong><%=t 'Campus login', 'Campuszugang' %></strong></legend>
+    <%=t 'Available inside a', 'Verfügbar innerhalb des Campus einer' %>
+    <a href="<%=r 'licences/licence-holders' %>"><%=t 'licensed campus', 'lizenzierten Institution' %></a>.
+    <br />
+    <input type="submit" name="commit" value="<%=t 'Log in', 'anmelden' %>" class="float-right" />
+  </fieldset>
+</form>
