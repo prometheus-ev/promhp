@@ -3,7 +3,7 @@ layout: default
 title: Hinweise für AdministratorInnen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=51
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 
 Alle Institute und Schulen, die eine eigene Lizenz erworben haben oder Teil einer Campuslizenz sind, können bei der prometheus-Geschäftsstelle kostenlos einen *Administrationszugang* beantragen.

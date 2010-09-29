@@ -3,7 +3,7 @@ layout: default
 title: Das digitale Historische Archiv Köln
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=510
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 
 *Projektpartner:*

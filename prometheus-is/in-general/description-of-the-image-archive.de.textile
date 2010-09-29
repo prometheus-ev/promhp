@@ -3,7 +3,7 @@ layout: default
 title: Beschreibung des Bildarchivs
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=73
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 *Welche Datenbanken sind in prometheus  eingebunden?*
 

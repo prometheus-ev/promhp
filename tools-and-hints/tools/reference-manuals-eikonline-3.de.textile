@@ -2,7 +2,7 @@
 layout: default
 title: "eikonline_3: Bildpräsentation"
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 05.03.07
 

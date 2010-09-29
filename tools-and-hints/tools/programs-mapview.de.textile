@@ -3,7 +3,7 @@ layout: default
 title: MapView (Offline-Mappe)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=277&tx_ttnews[tt_news]=26&tx_ttnews[backPid]=58&cHash=4c8367fcba
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 09.03.07
 

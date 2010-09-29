@@ -3,7 +3,7 @@ layout: default
 title: User instructions to the image archive
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=74
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 This short review provides instructions how to research images. It also shows which tools to use when working with the images and their presentation.
 

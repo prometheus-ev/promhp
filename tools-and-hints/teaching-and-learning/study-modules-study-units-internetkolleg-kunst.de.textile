@@ -3,7 +3,7 @@ layout: default
 title: Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=283&L=0&skin=&tx_ttnews[tt_news]=14
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 05.03.07
 

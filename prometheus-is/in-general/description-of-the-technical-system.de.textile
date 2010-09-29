@@ -3,7 +3,7 @@ layout: default
 title: Technisches System
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=269
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 Technisches Kernstück von prometheus ist der Zentralserver, der von prometheus e.V. an der Universität zu Köln unter Linux betrieben wird. Der Zentralserver stellt keine einheitliche Bilddatenbank zur Verfügung, sondern leistet den Informationsausgleich zwischen den einzelnen per se autonomen Datenbanken des Bildarchivs.
 

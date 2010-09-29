@@ -53,14 +53,37 @@ module Jekyll
     def relativize(str)
       '../' * (@page.url.count('/') - 1) + str.sub(/\A\//, '')
     end
-
     alias_method :r, :relativize
 
-    def pandora(*path)
-      [@site.pandora_url, @page.lang, *path].compact.join('/')
+  end
+
+  class Pagination < Generator
+
+    alias_method :_prometheus_original_paginate, :paginate
+
+    # Overwrites the original method to prevent double posts in pagination
+    def paginate(site, page)
+      all_posts = site.site_payload['site']['posts']
+      all_posts = uniq_by_url(all_posts)
+      pages = Pager.calculate_pages(all_posts, site.config['paginate'].to_i)
+      (1..pages).each do |num_page|
+        pager = Pager.new(site.config, num_page, all_posts, pages)
+        if num_page > 1
+          newpage = Page.new(site, site.source, page.dir, page.name)
+          newpage.pager = pager
+          newpage.dir = File.join(page.dir, "page#{num_page}")
+          site.pages << newpage
+        else
+          page.pager = pager
+        end
+      end
     end
 
-    alias_method :p, :pandora
+    def uniq_by_url(posts)
+      uniq_posts = {}
+      posts.each { |p| uniq_posts[p.url] = p }
+      uniq_posts.values.sort_by { |p| p.date }.reverse
+    end
 
   end
 

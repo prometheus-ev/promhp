@@ -3,7 +3,7 @@ layout: default
 title: Little applications
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=61&L=1
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 In this category you can find little applications that can be fastly involved into a tutorial or the like.
 

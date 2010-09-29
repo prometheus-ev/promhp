@@ -3,7 +3,7 @@ layout: default
 title: diathek
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&tx_ttnews[tt_news]=28&tx_ttnews[backPid]=57&cHash=cb5f6dabeb
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 09.03.07
 
