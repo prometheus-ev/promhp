@@ -3,7 +3,7 @@ layout: default
 title: Formate der Metadaten-Datei
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=79&L=0&skin=0
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 Datenbanken, die in prometheus eingebunden sind bzw. werden, sollten ihre Metadaten möglichst in eine einzige Datei exportieren und diese prometheus zur Verfügung stellen.
 

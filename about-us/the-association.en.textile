@@ -3,7 +3,7 @@ layout: default
 title: prometheus - the association
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=11&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 *p r o m e t h e u s   e.V. bears since 2003 the image archive prometheus.*
 "» the club objective":<%=r 'about-us/association-mission-statement' %>

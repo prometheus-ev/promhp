@@ -3,7 +3,7 @@ layout: default
 title: Mission statement
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=45&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 The purpose of the association is the promotion of science and research through the development, appropriation and application of digital media in the arts, and the field of the history of culture. The association is committed to further the use of digital media in education, research and teaching, and feels especially obligated to colleges, research facilities, museums, archives, and the preservation of historical monuments.
 

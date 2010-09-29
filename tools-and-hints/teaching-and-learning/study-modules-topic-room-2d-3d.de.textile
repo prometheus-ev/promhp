@@ -3,7 +3,7 @@ layout: default
 title: 2D-3D Grundlagen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=0&skin=0&tx_ttnews[tt_news]=30&tx_ttnews[backPid]=65&cHash=42bc15ede6
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 09.03.07
 

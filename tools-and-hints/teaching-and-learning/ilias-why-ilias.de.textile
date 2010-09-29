@@ -3,7 +3,7 @@ layout: default
 title: Warum ILIAS?
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=207&L=0&skin=0
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 
 *Was ist ILIAS?*

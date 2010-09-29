@@ -3,7 +3,7 @@ layout: default
 title: Vom Projekt zum Verein - Die Geschichte von prometheus
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=67
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 
 h5. prometheus als bmbf-Projekt

@@ -3,7 +3,7 @@ layout: default
 title: "Meta-Image: Aufbau einer verteilten virtuellen Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=496
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 
 *Projektpartner:*

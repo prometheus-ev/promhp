@@ -3,7 +3,7 @@ layout: default
 title: Normdaten
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=56
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 h5. PKNAD (prometheus KünstlerNamensAnsetzungsDatei)
 

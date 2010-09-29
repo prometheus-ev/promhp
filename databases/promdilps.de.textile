@@ -3,7 +3,7 @@ layout: default
 title: promDILPS
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=71&L=0&skin=0
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 *Haben Sie keine eigene Datenbank und möchten dennoch Ihre digitalen Bilder für alle Nutzerinnen und Nutzer von prometheus recherchierbar machen?*
 Haben Sie einen kleinen Bestand an digitalen Bilddateien, für die eine eigene Bilddatenbank ein zu hoher Aufwand wäre? Oder fehlt Ihnen das technische Knowhow zum Aufbau einer eigenen Bilddatenbank?

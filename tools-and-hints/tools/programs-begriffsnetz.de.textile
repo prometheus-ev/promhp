@@ -3,7 +3,7 @@ layout: default
 title: Begriffsnetz
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=277&tx_ttnews[tt_news]=24&tx_ttnews[backPid]=58&cHash=1ac3f80532
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 | !<%=r 'files/images/1ab8a38f99.jpg' %>! | !<%=r 'files/images/69764109f9.jpg' %>! |
 

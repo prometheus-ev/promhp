@@ -3,7 +3,7 @@ layout: default
 title: Lehre und Lernen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=8
 ---
-h4. <%= @page.title %>
+h2. <%= @page.title %>
 
 *Hier finden Sie die von promtheus prototypisch entwickelten strukturierten Lernelemente sowie Angebote anderer Projekte und Institutionen.*
 Die Lernplattform ILIAS ergänzt das Angebot von prometheus im Bereich Lernen und Lehre.
