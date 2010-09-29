@@ -53,7 +53,14 @@ module Jekyll
     def relativize(str)
       '../' * (@page.url.count('/') - 1) + str.sub(/\A\//, '')
     end
+
     alias_method :r, :relativize
+
+    def pandora(*path)
+      [@site.pandora_url, @page.lang, *path].compact.join('/')
+    end
+
+    alias_method :p, :pandora
 
   end
 
