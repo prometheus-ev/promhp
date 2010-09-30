@@ -1,9 +1,28 @@
-.login_form {
-  margin-top:        0;
+#header {
+  height:            108px;
 }
 
-#campus_login_wrap {
-  margin-top:        10px;
+#logo {
+  float:             left;
+}
+
+#series {
+  padding-top:       14px;
+}
+
+#series a {
+  display:           inline-block;
+  text-decoration:   none;
+}
+
+#series img {
+  width:             50px;
+  height:            50px;
+  margin:            0 10px;
+}
+
+.login_form {
+  margin-top:        0;
 }
 
 .login_form fieldset {

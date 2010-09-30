@@ -29,9 +29,16 @@
       <div id="logo">
         <a href="<%=r 'index' %>"><img alt="prometheus - Das verteilte digitale Bildarchiv für Forschung &amp; Lehre" src="<%=r 'images/misc/logo.gif' %>" title="prometheus Homepage" /></a>
       </div>
-      <!-- TODO: Insert real Content here! -->
-      &lt;!--#include virtual="BILDSERIE" --&gt;
-      <!-- TODO: End -->
+
+      <div id="series">
+        <!--#config timefmt="%Y/%W" -->
+        <!--#set var="series" value="<%=r 'series' %>/${DATE_LOCAL}" -->
+        <a href="<!--#echo var="series" -->" title="<!--#include virtual="${series}/title" -->">
+        <% for i in 1..8 %>
+          <img src="<!--#echo var="series" -->/<%= n = '%02d' % i %>.jpg" alt="<%= n %>" />
+        <% end %>
+        </a>
+      </div>
     </div>
 
     <div id="menu_shadow"></div>
@@ -51,6 +58,8 @@
       <div id="submenu"></div>
       <div id="content" class="clear-float">
         <div id="announcements_wrap"></div>
+        <script src="<%=p 'pandora.js' %>?<!--#include virtual="/cgi-bin/pandora_timestamp_and_token" -->" type="text/javascript"></script>
+
         <%= @content %>
       </div>
     </div>
@@ -59,7 +68,5 @@
   <div id="footer" class="clear-float">
     <%= include_file 'footer.html' %>
   </div>
-
-  <script src="<%=p 'pandora.js' %>" type="text/javascript"></script>
 </body>
 </html>
