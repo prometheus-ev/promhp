@@ -1,0 +1,33 @@
+---
+layout: default
+title: Andreas Feininger
+author: Hendrikje Hüneke
+date: 20.09.10
+---
+h2. <%= @page.title %>
+
+*"Fotografie ist eine Bildsprache;*
+
+*die einzige Sprache, die überall in der Welt verstanden werden kann."* Andreas Feininger (1906-1999) hatte diese Sprache für sich entdeckt. Berühmt geworden ist er besonders für seine Stadtansichten, vor allem von New York, wo er seit 1939 lebte. Während die Wolkenkratzer, Brücken und Straßenschluchten einen Blick aus der Ferne einnehmen, beeindrucken die Naturstudien mit dem Blick aufs Detail. Die Ausstellung in Friedrichshafen bietet mit fast 300 Fotografien aus unterschiedlichsten Bereichen, darunter auch Bilder aus seiner Zeit als LIFE-Bildjournalist, einen umfassenden Einblick in das Werk Feiningers. *Andreas Feininger. That's Photography, 24. Sept. 2010 - 9. Jan. 2011, Zeppelin-Museum Friedrichshafen*
+
+(<%= @page.author %>, <%= @page.date %>)
+
+<div class="series-details">
+
+!01.jpg(01)! Der Fotojournalist, New York City (Ausschnitt), 1955, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden
+
+!02.jpg(02)! George Washington Brücke, New York City (Ausschnitt), 1948, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden
+
+!03.jpg(03)! Verdrehter Bogen, trisidos tortuosa Linné (Ausschnitt), 1970, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden
+
+!04.jpg(04)! Das Gebäude der Stadtverwaltung, Feuerleitern und die Hochbahn (Ausschnitt), 1940, Fotografie, New York; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München
+
+!05.jpg(05)! Feder (Ausschnitt), 1965, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden
+
+!06.jpg(06)! Fifth Avenue, New York City (Ausschnitt), 1940, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden
+
+!07.jpg(07)! Samen II (Ausschnitt), 1935/36, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden
+
+!08.jpg(08)! New York, Lower Manhattan, von Brooklyn aus gesehen (Ausschnitt), 1940, Fotografie, (Standort nicht angegeben); ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München
+
+</div>

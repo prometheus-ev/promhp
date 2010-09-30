@@ -21,6 +21,27 @@
   margin:            0 10px;
 }
 
+.series-details {
+  margin-top:        2.5em;
+}
+
+.series-details p {
+  width:             500px;
+  height:            100px;
+}
+
+.series-details p + p {
+  margin-top:        20px;
+}
+
+.series-details img {
+  width:             100px;
+  height:            100px;
+  clear:             both;
+  float:             left;
+  margin-right:      10px;
+}
+
 .login_form {
   margin-top:        0;
 }
