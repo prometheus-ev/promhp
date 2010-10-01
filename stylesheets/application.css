@@ -281,6 +281,10 @@ body.js input[type=text].prompt, body.js input[type=password].prompt {
   margin-top:        20px;
 }
 
+#campus_login_wrap .campus_title {
+  margin-bottom:     0.5em;
+}
+
 div.payment-method {
   padding:           1em;
   border:            1px solid rgb(85,85,85);
