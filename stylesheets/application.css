@@ -281,6 +281,10 @@ body.js input[type=text].prompt, body.js input[type=password].prompt {
   margin-top:        20px;
 }
 
+#login_wrap .submit_button_wrap {
+  margin-top:        7px;
+}
+
 #campus_login_wrap .campus_title {
   margin-bottom:     0.5em;
 }
@@ -647,7 +651,7 @@ body.administration-controller.index-action .gap {
 #menu .navigation_icon {
   position:          relative;
   bottom:            42px;
-  height:            78px;
+  height:            76px;
   width:             97px;
   display:           inline-block;
   text-align:        center;
@@ -747,8 +751,21 @@ body.administration-controller.index-action .gap {
 
 #submenu div.menu_link {
   float:             left;
-  min-width:         78px;
-  padding:           10px;
+  padding:           10px 20px;
+}
+
+#submenu div.menu_link_border {
+  float:             left;
+  height:            34px;
+  width:             1px;
+}
+
+#submenu div.menu_link_border.left {
+  background-image:  url(../images/navigation/submenu_selected_left.gif);
+}
+
+#submenu div.menu_link_border.right {
+  background-image:  url(../images/navigation/submenu_selected_right.gif);
 }
 
 #submenu .menu_link:hover, #submenu .menu_link.active {
