@@ -1,9 +1,10 @@
 ---
 layout: series
 title: Andreas Feininger
+subtitle: '"Photography is a picture-language;'
 author: Hendrikje Hüneke
 date: 2010/09/20
 ---
-*"Photography is a picture-language;*
+*the only language that can be understood anywhere in the world."* Andreas Feininger (1906-1999) discovered this language and became a famous photographer with his pictures of architecture and detailed nature studies. An exhibition in Friedrichshafen is showing almost 300 photos as an overview of his lifework.
 
-*the only language that can be understood anywhere in the world."* Andreas Feininger (1906-1999) discovered this language and became a famous photographer with his pictures of architecture and detailed nature studies. An exhibition in Friedrichshafen is showing almost 300 photos as an overview of his lifework. *Andreas Feininger. That's Photography, 24. Sept. 2010 - 9. Jan. 2011, Zeppelin-Museum Friedrichshafen*
+*Andreas Feininger. That's Photography, 24. Sept. 2010 - 9. Jan. 2011, Zeppelin-Museum Friedrichshafen*

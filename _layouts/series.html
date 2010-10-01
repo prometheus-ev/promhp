@@ -6,6 +6,8 @@ layout: default
   <%= "#{t('Image series', 'Bildserie')} #{num}: #{@page.title}" %>
 </h2>
 
+<p><strong><%= @page.subtitle %></strong></p>
+
 <%= @content %>
 
 <p>(<%= @page.author %>, <%= Date.parse(@page.date).strftime(t('%d/%m/%Y', '%d.%m.%Y')) %>)</p>
