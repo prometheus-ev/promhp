@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<h2>
+  <% num = @page.url.split('/').values_at(-2, -3).join(' / ') %>
+  <%= "#{t('Image series', 'Bildserie')} #{num}: #{@page.title}" %>
+</h2>
+
+<%= @content %>
+
+<p>(<%= @page.author %>, <%= Date.parse(@page.date).strftime(t('%d/%m/%Y', '%d.%m.%Y')) %>)</p>
+
+<div class="series-details">
+<% for i in 1..8 %>
+  <p>
+    <img src="<%= n = '%02d' % i %>.jpg" alt="<%= n %>" />
+    <%= include_file "#{n}.desc", true %>
+  </p>
+<% end %>
+</div>
