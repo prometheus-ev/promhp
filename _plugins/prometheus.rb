@@ -32,19 +32,73 @@ module Jekyll
 
   end
 
-  module Filters
+  module Helpers
 
-    def relativize(str)
-      '../' * (@page.url.count('/') - 1) + str.sub(/\A\//, '')
+    def relativize(str, current_page_url)
+      '../' * (current_page_url.count('/') - 1) + str.sub(/\A\//, '')
     end
 
-    alias_method :r, :relativize
+  end
+
+  module Filters
+
+    include Helpers
+
+    def r(str)
+      relativize(str, @page.url)
+    end
 
     def pandora(*path)
       [@site.pandora_url, @page.lang, *path].compact.join('/')
     end
 
     alias_method :p, :pandora
+
+  end
+
+  class Page
+
+    include Helpers
+
+    alias_method :_prometheus_original_initialize, :initialize
+
+    def initialize(site, base, dir, name)
+      _prometheus_original_initialize(site, base, dir, name)
+
+      generate_navigation # if basename == 'description-of-the-image-archive'
+    end
+
+    def generate_navigation
+      unless self.data['navigation']
+        self.data['navigation'] = ''
+        structure = YAML.load_file(File.join(@site.source, '_navigation.yml'))
+        self.data['navigation'] << render_navigation_level(structure)
+      end
+      return self.data['navigation']
+    end
+
+    def render_navigation_item(item)
+      if item[:url]
+        name = "<a href=\"#{relativize(item[:url], File.join(@dir, basename))}\">" +
+          "#{item["title_#{lang}".to_sym]}</a>"
+      else
+        name = item["title_#{lang}".to_sym]
+      end
+
+      if item[:content].nil?
+        "<li>#{name}</li>\n"
+      else
+        "<li>#{name}\n" + render_navigation_level(item[:content]) + "\n</li>\n"
+      end
+    end
+
+    def render_navigation_level(level)
+      out = "<ul>\n"
+      level.each do |i|
+        out << render_navigation_item(i) if i
+      end
+      out << "</ul>\n"
+    end
 
   end
 

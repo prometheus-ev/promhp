@@ -1,0 +1,22 @@
+---
+- :title_en: Home
+  :title_de: Start
+  :url: index
+- :title_en: Blog
+  :title_de: Blog
+  :url: blog
+- :title_en: About us
+  :title_de: Wir über uns
+  :content:
+  - :title_en: The association
+    :title_de: Der Verein
+    :url: about-us/the-association
+  - :title_en: Mission statement
+    :title_de: Vereinsziele
+    :url: about-us/association-mission-statement
+  - :title_en: How to become a member
+    :title_de: Mitglied werde
+    :url: about-us/association-become-a-member
+  - :title_en: Contact us
+    :title_de: Kontakt
+    :url: about-us/association-contact
