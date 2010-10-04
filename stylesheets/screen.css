@@ -21,25 +21,25 @@
   margin:            0 10px;
 }
 
-.series-details {
+.series-items {
   margin-top:        2.5em;
 }
 
-.series-details p {
-  width:             500px;
-  height:            100px;
-}
-
-.series-details p + p {
+.series-items > div + div {
   margin-top:        20px;
 }
 
-.series-details img {
+.series-items img {
   width:             100px;
   height:            100px;
   clear:             both;
   float:             left;
   margin-right:      10px;
+}
+
+.series-items p {
+  width:             500px;
+  height:            100px;
 }
 
 .login_form {

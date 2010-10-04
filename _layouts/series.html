@@ -12,11 +12,11 @@ layout: default
 
 <p>(<%= @page.author %>, <%= Date.parse(@page.date).strftime(t('%d/%m/%Y', '%d.%m.%Y')) %>)</p>
 
-<div class="series-details">
+<div class="series-items">
 <% for i in 1..8 %>
-  <p>
+  <div>
     <img src="<%= n = '%02d' % i %>.jpg" alt="<%= n %>" />
-    <%= include_file "#{n}.desc", true %>
-  </p>
+    <!--#include virtual="<%= "#{n}.html" %>" -->
+  </div>
 <% end %>
 </div>
