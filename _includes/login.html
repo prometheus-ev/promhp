@@ -2,7 +2,9 @@
   <fieldset>
     <legend>
       <strong><%=t 'Personal account login', 'Persönlicher Zugang' %></strong>
-      (<a href="<%=p 'help', 'login' %>"><%=t 'Login help', 'Anmeldungshilfe' %></a>)
+      <a href="<%=p 'help', 'login' %>" title="<%=t 'Login help', 'Anmeldungshilfe' %>">
+        <img src="<%=r 'images/misc/help.gif' %>" alt="Help" />
+      </a>
     </legend>
 
     <label for="login"><%=t 'User name or e-mail address', 'Nutzername oder E-Mail-Adresse' %></label><br />
