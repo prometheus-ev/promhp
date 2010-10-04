@@ -62,3 +62,11 @@
 .login_form legend {
   white-space:       normal;
 }
+
+#facts {
+  text-align:        right;
+  margin-right:      10px;
+  line-height:       30px;
+  font-weight:       bold;
+  color:             rgb(144,144,144);
+}
