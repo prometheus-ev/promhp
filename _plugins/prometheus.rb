@@ -65,7 +65,7 @@ module Jekyll
     def initialize(site, base, dir, name)
       _prometheus_original_initialize(site, base, dir, name)
 
-      generate_navigation # if basename == 'description-of-the-image-archive'
+      generate_navigation
     end
 
     def generate_navigation
@@ -78,9 +78,7 @@ module Jekyll
     end
 
     def render_navigation_item(item)
-      path = File.join(@dir, basename)
-      state = item[:url] == path[1..-1] ? ' active' : ''
-
+      state = active_itme?(item) ? ' active' : ''
       if item[:url]
         name = "<a href=\"#{relativize(item[:url], path)}\">" +
           "#{item["title_#{lang}".to_sym]}</a>"
@@ -88,7 +86,7 @@ module Jekyll
         name = item["title_#{lang}".to_sym]
       end
 
-      if item[:content].nil?
+      if item[:content].nil? || !opend?(item)
         "<li class=\"navigation_item#{state}\">#{name}</li>\n"
       else
         "<li class=\"navigation_item#{state}\">#{name}\n" +
@@ -102,6 +100,23 @@ module Jekyll
         out << render_navigation_item(i) if i
       end
       out << "</ul>\n"
+    end
+
+    def path
+      @path ||= File.join(@dir, basename)
+    end
+
+    def active_itme?(navigation_item)
+      navigation_item[:url] == path[1..-1]
+    end
+
+    def opend?(navigation_item)
+      return true if active_itme?(navigation_item)
+      if navigation_item[:content]
+        navigation_item[:content].each { |i| return true if opend?(i) }
+      end
+
+      return false
     end
 
   end
