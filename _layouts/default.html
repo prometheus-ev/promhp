@@ -51,7 +51,10 @@
       <div id="login_wrap"><%= include_file 'login.html' %></div>
       <div id="campus_login_wrap"><%= include_file 'campus_login.html' %></div>
 
-      <%= include_file 'navigation.html' %>
+      <div id="navigation">
+        <%= @page.navigation %>
+      </div>
+
     </div>
 
     <div id="main">
