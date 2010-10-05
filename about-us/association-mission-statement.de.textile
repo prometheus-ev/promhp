@@ -3,7 +3,7 @@ layout: default
 title: Das Vereinsziel
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=45
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 
 Der Zweck des Vereins ist die Förderung von Wissenschaft und Forschung durch die Entwicklung, Bereitstellung und Anwendung der digitalen Medien im kunst- und kulturhistorischen Bereich.

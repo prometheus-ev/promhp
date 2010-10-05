@@ -3,7 +3,7 @@ layout: default
 title: Wissenschaftliche Beiträge
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=292&no_cache=1&L=0&skin=
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 
 Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin

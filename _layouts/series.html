@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-<h2>
-  <% num = @page.url.split('/').values_at(-2, -3).join(' / ') %>
-  <%= "#{t('Image series', 'Bildserie')} #{num}: #{@page.title}" %>
-</h2>
+<h2><%= page_title %></h2>
 
 <p><strong><%= @page.subtitle %></strong></p>
 

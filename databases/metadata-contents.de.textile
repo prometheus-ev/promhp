@@ -3,7 +3,7 @@ layout: default
 title: Metadaten - Inhalte
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=80&L=0&skin=0
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 Datenbanken, die in prometheus eingebunden sind bzw. werden, sollten folgende Metadatenkonventionen einhalten. Gemäß der Maxime von prometheus, ein breites Spektrum von Metadaten zu unterstützen, ist nur ein sehr begrenzter Bereich von Informationen obligatorisch für die Einbindung.
 

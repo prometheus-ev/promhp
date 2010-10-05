@@ -3,7 +3,7 @@ layout: default
 title: Malen mit Flash
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=284&L=0&skin=0&tx_ttnews[tt_news]=15&tx_ttnews[backPid]=61&cHash=7aae7d62e2
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 
 h4. Malen mit Flash

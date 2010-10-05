@@ -3,7 +3,7 @@ layout: default
 title: Anmeldung und Lizenzen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=33
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 
 Es gibt verschiedene Möglichkeiten prometheus zu nutzen.

@@ -3,7 +3,7 @@ layout: default
 title: Nutzungsbedingungen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=53
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 "Nutzungsbedingungen_de.pdf": NOCH KEIN AKTUELLER LINK !!!!
 

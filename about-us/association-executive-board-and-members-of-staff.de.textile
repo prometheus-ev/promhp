@@ -3,7 +3,7 @@ layout: default
 title: Vorstand
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=68
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 
 "PD Dr. Holger Simon":mailto:javascript:linkTo_UnCryptMailto('ocknvq,jqnigt0ukoqpBwpk/mqgnp0fg (Vorsitzender)

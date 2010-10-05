@@ -3,7 +3,7 @@ layout: default
 title: Newsletter 2005/02
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=370
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 *prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V*
 
 

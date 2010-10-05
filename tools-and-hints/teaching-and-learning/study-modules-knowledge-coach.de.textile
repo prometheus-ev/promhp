@@ -3,7 +3,7 @@ layout: default
 title: Wissenstrainer
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=63&L=0&skin=0
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 Im Grundstudium sind fundierte Kenntnisse in bestimmten Wissensbereichen zu erwerben.
 Der Wissens-Trainer führt in Wissensfelder ein und ermöglicht den Lernenden, Faktenwissen situationsbezogen oder analytisch-synthetisch zu erlernen, es in die jeweils bestehenden Wissensstrukturen einzubetten und durch die multicodalen Präsentationen zusätzliche Verknüpfungen für einen verbesserten Abruf zu erstellen.

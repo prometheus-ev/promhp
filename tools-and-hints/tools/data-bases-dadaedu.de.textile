@@ -3,7 +3,7 @@ layout: default
 title: DaDaEdu
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&tx_ttnews[tt_news]=8&tx_ttnews[backPid]=57&cHash=1c25daa51a
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 05.03.07
 

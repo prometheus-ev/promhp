@@ -3,7 +3,7 @@ layout: default
 title: Neues Benutzerkonto für ILIAS registrieren
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=60&L=0&skin=0
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 Derzeit sind aus technischen Gründen getrennte Anmeldungen für das Bildarchiv und die ILIAS-Lernplattform erforderlich. Sie können aber für ILIAS denselben Namen und dasselbe Kennwort verwenden wie im Bildarchiv.
 

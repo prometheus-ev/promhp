@@ -3,7 +3,7 @@ layout: default
 title: Medienformate
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=81&L=0&skin=0
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 Die folgenden Angaben beziehen sich ausschließlich auf die Bilder und Medien, die prometheus zur Verfügung gestellt werden.
 Für die Verwendung in Ihrer lokalen Anwendung sollten Bilder und Medien stets in der höchstmöglichen Qualität vorgehalten werden. Alle anderen Qualitäts- und Auflösungsstufen (wie z.B. die für prometheus vorgeschlagenen Formate) lassen sich daraus automatisch erstellen.

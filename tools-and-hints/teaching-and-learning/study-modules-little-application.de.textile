@@ -3,7 +3,7 @@ layout: default
 title: Kleine Applikationen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=61
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 In dieser Kategorie finden Sie kleine Applikationen, die sich schnell in eine Lerneinheit o.ä. einbauen lassen.
 

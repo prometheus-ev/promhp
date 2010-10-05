@@ -3,7 +3,7 @@ layout: default
 title: Notebook-Bibliothek. Digitale und analoge Medien in wissenschaftlichen Bibliotheken
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=322
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 
 

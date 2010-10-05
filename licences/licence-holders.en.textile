@@ -3,7 +3,7 @@ layout: default
 title: License holders
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=52&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 *GERMANY*
 

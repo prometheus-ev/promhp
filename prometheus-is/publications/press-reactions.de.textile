@@ -3,7 +3,7 @@ layout: default
 title: Pressereaktionen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=302&no_cache=1&L=0&skin=
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 prometheus wird drei Jahre alt. Das größte internetbasierte Bildarchiv. Interview mit Projektkoordinatorin Dr. Ute Verstegen Deutschlandfunk: 18.3.2004 "http://www.dradio.de/dlf/sendungen/campus/248763/":http://www.dradio.de/dlf/sendungen/campus/248763/ [72]
 

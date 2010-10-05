@@ -3,7 +3,7 @@ layout: default
 title: Method-Coach
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=64&L=1
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 Part of the basic studies is getting acquainted with and the situational appliance of different subject-specific methods.
 The Method-Coach will offer theoretic information about the spectrum of methods and practical application possibilities via a pool of case studies.

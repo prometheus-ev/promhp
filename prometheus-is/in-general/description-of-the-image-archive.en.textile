@@ -3,7 +3,7 @@ layout: default
 title: Description of the image archive
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=73&L=1
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 *Which databases are embedded into  p r o me t h e u s ?*
 Information is found in "»List of the databases":http://prometheus.uni-koeln.de/pandora/en/source/list

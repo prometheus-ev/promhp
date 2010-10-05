@@ -3,7 +3,7 @@ layout: default
 title: Study modules
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=37&L=1
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 These digital study contents are offered free of charge to support both the present teaching and the self study in the History of Art and Cultural Studies.
 The categories are geared to media-compatible concepts for different fields of knowledge:

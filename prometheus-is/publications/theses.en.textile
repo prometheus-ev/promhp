@@ -3,7 +3,7 @@ layout: default
 title: Theses
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=300&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 Bergemann, Martin
 Entwicklung und Implementierung einer Konsistenzprüfung für eine MySQL-Datenbank. Diplomarbeit Hochschule Anhalt (FH), 2002 [36]

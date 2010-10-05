@@ -2,7 +2,7 @@
 layout: default
 title: "eikonline_2: Bildreproduktion"
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
 
 05.03.07
 
