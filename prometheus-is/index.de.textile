@@ -1,0 +1,5 @@
+---
+layout: default
+title: prometheus ist ...
+---
+h2. <%= @page.title %>

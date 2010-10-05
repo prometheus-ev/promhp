@@ -7,6 +7,7 @@
   :url: blog
 - :title_en: About us
   :title_de: Wir über uns
+  :url: about-us/index
   :content:
   - :title_en: The association
     :title_de: Der Verein
@@ -37,6 +38,7 @@
     :url: about-us/sponsors
 - :title_en: prometheus is ...
   :title_de: prometheus ist ...
+  :url: prometheus-is/index
   :content:
   - :title_en: In general
     :title_de: Allgemein
@@ -135,6 +137,7 @@
     :url: projects/notebook-library
 - :title_en: Tools and hints
   :title_de: Tools und Tipps
+  :url: tools-and-hints/index
   :content:
   - :title_en: Teaching and Learning
     :title_de: Lehren und Lernen
