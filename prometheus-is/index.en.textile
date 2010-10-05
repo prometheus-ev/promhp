@@ -2,4 +2,4 @@
 layout: default
 title: prometheus is ...
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>

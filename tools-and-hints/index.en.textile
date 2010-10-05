@@ -2,4 +2,4 @@
 layout: default
 title: Tools and hints
 ---
-h2. <%= @page.title %>
+h2. <%= page_title %>
