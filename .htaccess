@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# blog
+RewriteRule \Ablog(?:\.html.[a-z]{2})?/\z /blog [L,R=permanent]
+RewriteRule \Ablog(?:\.html.[a-z]{2})?(/.*) $1 [L,R=permanent]
+
+# typo3
+RewriteCond %{QUERY_STRING} (?:\A|&)id=(\d+)(?:&|\z)
+RewriteRule .* ${prom-old-to-new:%1|/}? [L,R=permanent]
+RewriteRule \Aindex\.php\z /? [L,R=permanent]
