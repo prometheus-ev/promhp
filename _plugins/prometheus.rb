@@ -93,7 +93,7 @@ module Jekyll
     end
 
     def render_navigation_item(item)
-      state = active_item?(item) ? ' active' : ''
+      state = active?(item) ? ' active' : ''
       if item[:url]
         name = "<a href=\"#{relativize(item[:url], path)}\">" +
           "#{item["title_#{lang}".to_sym]}</a>"
@@ -101,7 +101,7 @@ module Jekyll
         name = item["title_#{lang}".to_sym]
       end
 
-      if item[:content].nil? || !open?(item)
+      if item[:content].nil? || !active?(item, true)
         "<li class=\"navigation_item#{state}\">#{name}</li>\n"
       else
         "<li class=\"navigation_item#{state}\">#{name}\n" +
@@ -121,14 +121,10 @@ module Jekyll
       @path ||= File.join(@dir, basename)
     end
 
-    def active_item?(navigation_item)
-      navigation_item[:url] == path[1..-1]
-    end
-
-    def open?(navigation_item)
-      return true if active_item?(navigation_item)
-      if navigation_item[:content]
-        navigation_item[:content].each { |i| return true if open?(i) }
+    def active?(navigation_item, recursive = false)
+      return true if navigation_item[:url] == path[1..-1]
+      if recursive && navigation_item[:content]
+        navigation_item[:content].each { |i| return true if active?(i, true) }
       end
 
       return false
