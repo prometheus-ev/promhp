@@ -78,17 +78,21 @@ module Jekyll
     end
 
     def render_navigation_item(item)
+      path = File.join(@dir, basename)
+      state = item[:url] == path[1..-1] ? ' active' : ''
+
       if item[:url]
-        name = "<a href=\"#{relativize(item[:url], File.join(@dir, basename))}\">" +
+        name = "<a href=\"#{relativize(item[:url], path)}\">" +
           "#{item["title_#{lang}".to_sym]}</a>"
       else
         name = item["title_#{lang}".to_sym]
       end
 
       if item[:content].nil?
-        "<li>#{name}</li>\n"
+        "<li class=\"navigation_item#{state}\">#{name}</li>\n"
       else
-        "<li>#{name}\n" + render_navigation_level(item[:content]) + "\n</li>\n"
+        "<li class=\"navigation_item#{state}\">#{name}\n" +
+          render_navigation_level(item[:content]) + "\n</li>\n"
       end
     end
 
