@@ -70,3 +70,11 @@
   font-weight:       bold;
   color:             rgb(144,144,144);
 }
+
+#facts a {
+  color:             inherit;
+}
+
+#facts a:hover {
+  text-decoration:   underline;
+}
