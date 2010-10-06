@@ -69,7 +69,7 @@ In Zukunft wollen wir nicht nur das Urheberrecht am abgebildeten Werk, sondern a
 
 Für den kommenden Herbst plant prometheus eine Tagung für alle (auch potentiellen) Bildgeber. Im Mittelpunkt werden die spezifischen Wünsche der Datenbankbetreiber, Fragen des Urheberrechts und der Bildqualität in prometheus stehen. Außerdem werden wir die neuen Funktionen und Möglichkeiten vorstellen, mit denen prometheus 2008 online gehen will.
 
-Mehr Informationen zu dieser in Köln geplanten Tagung erhalten Sie mit dem nächsten newsletter oder auf der prometheus-website. Interessierte wenden sich bitte jederzeit an unsere "Geschäftsstelle":<%=r 'about/association-contact' %>.
+Mehr Informationen zu dieser in Köln geplanten Tagung erhalten Sie mit dem nächsten newsletter oder auf der prometheus-website. Interessierte wenden sich bitte jederzeit an unsere "Geschäftsstelle":<%=r 'contact' %>.
 
 
 
