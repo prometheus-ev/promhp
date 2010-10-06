@@ -91,21 +91,21 @@
 - :title_en: Copyright and usage
   :title_de: Bildrecht und Verwendung
   :url: copyright
-- :title_en: Information for database supplier
+- :title_en: Information for database suppliers
   :title_de: Informationen für Datenbankgeber
   :url: databases/index
   :content:
-  - :title_en: Bereitstellung der Daten
+  - :title_en: Supplying data
     :title_de: Bereitstellung der Daten
     :url: databases/data-supply
-  - :title_en: Metadaten - Inhalte
+  - :title_en: Metadata - Contents
     :title_de: Metadaten - Inhalte
     :url: databases/metadata-contents
-  - :title_en: Formate der Metadaten-Datei
-    :title_de: Formate der Metadaten-Datei
+  - :title_en: Metadata - Formats
+    :title_de: Metadaten - Formate
     :url: databases/metadata-formats
-  - :title_en: Medienformate
-    :title_de: Medienformate
+  - :title_en: Media - Formats
+    :title_de: Medien - Formate
     :url: databases/media-formats
   - :title_en: promDILPS
     :title_de: promDILPS

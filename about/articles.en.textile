@@ -125,3 +125,5 @@ h5. §14 Verwendung der Einkünfte und Mitgliedsbeiträge
 
     * Bei Auflösung des Vereins oder Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung der in §2 genannten Aufgaben. Beschlüsse über die zukünftige Verwendung des Vermögens dürfen erst nach Einwilligungdes Finanzamts ausgeführt werden.
     * Als Liquidatoren/-innen werden die im Amt befindlichen Vorstandsmitglieder bestimmt, soweit die Mitgliederversammlung nichts anderes abschließend beschließt.
+
+TODO: translate

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Medienformate
+title: Medien - Formate
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=81&L=0&skin=0
 ---
 h2. <%= page_title %>
