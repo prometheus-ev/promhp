@@ -1,5 +1,0 @@
----
-layout: default
-title: DILPS -- Distributed Image Library Processing System
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&L=1&tx_ttnews[tt_news]=27&tx_ttnews[backPid]=57&cHash=85ec2421a2
----

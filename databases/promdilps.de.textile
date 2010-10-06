@@ -20,7 +20,7 @@ Neu: "DILPS-FAQ":http://wiki.dilps.net/index.php/DILPS-FAQ auf der DILPS-Dokumen
 
 
 
-prometheus bietet seit 2006 die unentgeltliche Nutzung der Bilddatenbank promDILPS an, die auf der Bilddatenbanksystem "DILPS":<%=r 'tools/tools/data-bases-dilps' %>  basiert. In promDILPS können Sie Ihre Bilder und Datensätze archivieren, ohne sich um einen Server und die Fallstricke der Serveradministration kümmern zu müssen. Alles was Sie in technischer Hinsicht brauchen, ist ein möglichst guter Scanner oder eine Digitalkamera!
+prometheus bietet seit 2006 die unentgeltliche Nutzung der Bilddatenbank promDILPS an, die auf der Bilddatenbanksystem "DILPS":<%=r 'tools/databases/dilps' %>  basiert. In promDILPS können Sie Ihre Bilder und Datensätze archivieren, ohne sich um einen Server und die Fallstricke der Serveradministration kümmern zu müssen. Alles was Sie in technischer Hinsicht brauchen, ist ein möglichst guter Scanner oder eine Digitalkamera!
 
 Sie greifen auf promDILPS genauso bequem zu, wie auf eine Website im Internet.
 

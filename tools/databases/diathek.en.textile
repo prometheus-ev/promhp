@@ -1,0 +1,6 @@
+---
+layout: default
+title: diathek
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&L=1&tx_ttnews[tt_news]=28&tx_ttnews[backPid]=57&cHash=cb5f6dabeb
+---
+TODO: translate

@@ -1,0 +1,28 @@
+---
+layout: default
+title: 2D-3D Grundlagen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=0&skin=0&tx_ttnews[tt_news]=30&tx_ttnews[backPid]=65&cHash=42bc15ede6
+---
+h2. <%= page_title %>
+
+09.03.07
+
+| !<%=r 'files/images/e2a6a71d68.jpg' %>! | !<%=r 'files/images/e383e757b9.jpg' %>! |
+
+*Zum Basisstudium "2D/3D Gestalten" wurde dieser Themenraum von Studierenden der Hochschule Anhalt geplant und in einigen Bereichen auch umgesetzt.*
+
+*Zielgruppe:* Studiende
+*Technische Voraussetzungen:* Internet-Browser mit Flash-PlugIn
+*Medien:* Bewegtbild, Bild, Text
+*Lehrmethode:* Exploratives Lernen
+
+
+
+Link: "tr-zweiddreid.des.hs-anhalt.de":http://tr-zweiddreid.des.hs-anhalt.de/
+
+
+
+Von: Hochschule Anhalt, Fachbereich Design
+
+
+"zurück zu: Themenraum":<%=r 'tools/modules/topic-room/index' %>

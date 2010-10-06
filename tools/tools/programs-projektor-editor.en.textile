@@ -1,5 +1,0 @@
----
-layout: default
-title: projektor + editor
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=277&L=1&tx_ttnews[tt_news]=7&tx_ttnews[backPid]=58&cHash=791edcb10e
----

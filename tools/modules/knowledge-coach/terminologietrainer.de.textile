@@ -1,0 +1,33 @@
+---
+layout: default
+title: Terminologie-Trainer
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=282&L=0&skin=0&tx_ttnews[tt_news]=13&tx_ttnews[backPid]=63&cHash=1d42e99ce3
+---
+h2. <%= page_title %>
+
+
+h4. Terminologie-Trainer
+
+05.03.07
+
+| !<%=r 'files/images/a69a4f662e.jpg' %>! | !<%=r 'files/images/98a9e9e812.jpg' %>! |
+
+
+*Studierende im Grundstudium*
+Der Terminologie-Trainer liegt als ausgearbeitetes Konzept und als Werkzeug vor.
+Er ist in Form eines semantischen Wissensnetzes realisiert, dessen segmentierte Inhalte relational organisiert sind.
+In einem ersten Beispiel sind ca. 300 Grundbegriffe der Archäologie eingegeben, die zur Zeit in Seminaren evaluiert werden.
+
+
+*Zielgruppe:* Studierende im Grundstudium
+*Technische Voraussetzungen:* FileMaker
+*Medien:* Audio, Bild, Text
+*Lehrmethode:* Begriffsnetz
+
+Link: ".../lernelemente/terminologietrainer/index.html":http://prometheus-web.uni-koeln.de/web/lernelemente/terminologietrainer/index.html
+
+
+Von: prometheus e.V.
+
+
+"zurück zu: Wissens-Trainer ":<%=r 'tools/modules/knowledge-coach/index' %>

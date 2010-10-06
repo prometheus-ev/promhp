@@ -1,5 +1,0 @@
----
-layout: default
-title: Ad fontes - Eine Einführung in den Umgang mit Quellen im Archiv
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=281&L=1&skin=0&tx_ttnews[tt_news]=12&tx_ttnews[pointer]=
----

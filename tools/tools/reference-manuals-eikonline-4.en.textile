@@ -1,4 +1,0 @@
----
-layout: default
-title: "eikonline_4: DigiDiathek Nutzung"
----

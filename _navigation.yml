@@ -5,45 +5,45 @@
 - :title_en: Blog
   :title_de: Blog
   :url: blog
-- :title_en: About us
+- :title_en: About Us
   :title_de: Wir über uns
   :url: about/index
   :content:
-  - :title_en: The association
+  - :title_en: The Association
     :title_de: Der Verein
     :url: about/association
-  - :title_en: Mission statement
+  - :title_en: Mission Statement
     :title_de: Das Vereinsziel
     :url: about/mission-statement
-  - :title_en: How to become a member
+  - :title_en: How to become a Member
     :title_de: Mitglied werden
     :url: about/membership
   - :title_en: Articles (German)
     :title_de: Satzung
     :url: about/articles
-  - :title_en: Executive board
+  - :title_en: Executive Board
     :title_de: Vorstand
     :url: about/executive-board
-  - :title_en: Members of staff
+  - :title_en: Members of Staff
     :title_de: MitarbeiterInnen
     :url: about/staff
   - :title_en: The History of prometheus
     :title_de: Geschichte
     :url: about/history
-  - :title_en: Our sponsors
+  - :title_en: Our Sponsors
     :title_de: Unsere Förderer
     :url: about/sponsors
 - :title_en: prometheus is...
   :title_de: prometheus ist...
   :url: prometheus/index
   :content:
-  - :title_en: User instructions
-    :title_de: Hinweise zur Nutzung des Bildarchivs
-    :url: prometheus/usage
-  - :title_en: Description of the image archive
+  - :title_en: Description of the Image Archive
     :title_de: Beschreibung des Bildarchivs
     :url: prometheus/description
-  - :title_en: Technisches System
+  - :title_en: User Instructions
+    :title_de: Hinweise zur Nutzung des Bildarchivs
+    :url: prometheus/usage
+  - :title_en: Technical Details
     :title_de: Technisches System
     :url: prometheus/details
   - :title_en: pandora
@@ -56,13 +56,13 @@
     :title_de: Publikationen
     :url: prometheus/publications/index
     :content:
-    - :title_en: Press releases
+    - :title_en: Press Releases
       :title_de: Presseerklärungen
       :url: prometheus/publications/press-releases
-    - :title_en: Press reactions
+    - :title_en: Press Reactions
       :title_de: Pressereaktionen
       :url: prometheus/publications/press-reactions
-    - :title_en: Scientific articles
+    - :title_en: Scientific Articles
       :title_de: Wissenschaftliche Beiträge
       :url: prometheus/publications/scientific-articles
     - :title_en: Theses
@@ -72,26 +72,26 @@
   :title_de: Anmeldung und Lizenzen
   :url: license/index
   :content:
-  - :title_en: License fees
+  - :title_en: License Fees
     :title_de: Lizenzgebühren
     :url: license/fees
-  - :title_en: Instructions for administrators
+  - :title_en: Instructions for Administrators
     :title_de: Hinweise für AdministratorInnen
     :url: license/instructions-for-administrators
-  - :title_en: License holders
+  - :title_en: License Holders
     :title_de: Liste der Lizenznehmer
     :url: <%= pandora_url 'institution/licensed' %>
   - :title_en: Terms of Use
     :title_de: Nutzungsbedingungen
     :url: <%= pandora_url 'terms_of_use' %>
-- :title_en: Copyright and usage
+- :title_en: Copyright and Usage
   :title_de: Bildrecht und Verwendung
   :url: copyright
-- :title_en: Information for database suppliers
+- :title_en: Information for Database Suppliers
   :title_de: Informationen für Datenbankgeber
   :url: databases/index
   :content:
-  - :title_en: Supplying data
+  - :title_en: Supplying Data
     :title_de: Bereitstellung der Daten
     :url: databases/data-supply
   - :title_en: Metadata - Contents
@@ -116,13 +116,13 @@
   - :title_en: The digital Historical Archive of Cologne
     :title_de: Das digitale Historische Archiv Köln
     :url: projects/dhastk
-  - :title_en: Automatic indexing of the prometheus image archive
+  - :title_en: Automatic Indexing of the prometheus Image Archive
     :title_de: Automatische Erschließung des digitalen Bildarchivs prometheus
     :url: projects/perseus-a
   - :title_en: HyperImage
     :title_de: HyperImage
     :url: projects/hyper-image
-  - :title_en: Digital image resources and e-learning components
+  - :title_en: Digital Image Resources and E-Learning Components
     :title_de: Digitale Bildressourcen und E-Learning-Komponenten
     :url: projects/e-learning
   - :title_en: Notebook-Library
@@ -132,128 +132,128 @@
   :title_de: Tools
   :url: tools/index
   :content:
-  - :title_en: Teaching and Learning
-    :title_de: Lehren und Lernen
-    :url: tools/teaching-and-learning/index
+  - :title_en: Learning Platform ILIAS
+    :title_de: Lernplattform ILIAS
+    :url: tools/ilias/index
     :content:
-    - :title_en: Learning platform ILIAS
-      :title_de: Lernplattform ILIAS
-      :url: tools/teaching-and-learning/ilias
-    - :title_en: ILIAS Benutzerkonto registrieren
+    - :title_en: "[ILIAS Benutzerkonto registrieren]"
       :title_de: ILIAS Benutzerkonto registrieren
-      :url: tools/teaching-and-learning/ilias-user-account
-    - :title_en: Warum ILIAS?
+      :url: tools/ilias/account
+    - :title_en: "[Warum ILIAS?]"
       :title_de: Warum ILIAS?
-      :url: tools/teaching-and-learning/ilias-why-ilias
-    - :title_en: Study modules
-      :title_de: Lernmodule
-      :url: tools/teaching-and-learning/study-modules
+      :url: tools/ilias/why
+  - :title_en: Study Modules
+    :title_de: Lernmodule
+    :url: tools/modules/index
+    :content:
     - :title_en: E-Learning 2.0
       :title_de: E-Learning 2.0
-      :url: tools/teaching-and-learning/study-modules-e-learning
-    - :title_en: exkursion-online
-      :title_de: exkursion-online
-      :url: tools/teaching-and-learning/study-modules-e-learning-excursion-online
-    - :title_en: limes-pohlheim.de
-      :title_de: limes-pohlheim.de
-      :url: tools/teaching-and-learning/study-modules-e-learning-limes-pohlheim
-    - :title_en: Knowledge-Coach
-      :title_de: Wissenstrainer
-      :url: tools/teaching-and-learning/study-modules-knowledge-coach
-    - :title_en: Terminologie-Trainer
-      :title_de: Terminologie-Trainer
-      :url: tools/teaching-and-learning/study-modules-knowledge-coach-terminologietrainer
-    - :title_en: Little applications
-      :title_de: Kleine Applikationen
-      :url: tools/teaching-and-learning/study-modules-little-application
-    - :title_en: Malen mit Flash
-      :title_de: Malen mit Flash
-      :url: tools/teaching-and-learning/study-modules-little-application-malen-mit-flash
+      :url: tools/modules/e-learning/index
+      :content:
+      - :title_en: exkursion-online.de
+        :title_de: exkursion-online.de
+        :url: tools/modules/e-learning/excursion-online
+      - :title_en: limes-pohlheim.de
+        :title_de: limes-pohlheim.de
+        :url: tools/modules/e-learning/limes-pohlheim
+    - :title_en: Topic Room
+      :title_de: Themenraum
+      :url: tools/modules/topic-room/index
+      :content:
+      - :title_en: "[2D-3D Grundlagen]"
+        :title_de: 2D-3D Grundlagen
+        :url: tools/modules/topic-room/2d-3d
+      - :title_en: "[Altenberger Dom]"
+        :title_de: Altenberger Dom
+        :url: tools/modules/topic-room/altenberger-dom
+      - :title_en: "[Altenstadt]"
+        :title_de: Altenstadt
+        :url: tools/modules/topic-room/altenstadt
+      - :title_en: "[Forum romanum]"
+        :title_de: Forum romanum
+        :url: tools/modules/topic-room/forum-romanum
+      - :title_en: "[mauer_reste]"
+        :title_de: mauer_reste
+        :url: tools/modules/topic-room/mauerreste
     - :title_en: Method-Coach
       :title_de: Methoden-Coach
-      :url: tools/teaching-and-learning/study-modules-method-coach
-    - :title_en: Ad fontes
-      :title_de: Ad fontes
-      :url: tools/teaching-and-learning/study-modules-method-coach-ad-fontes
-    - :title_en: Beschreibungs-Coach
-      :title_de: Beschreibungs-Coach
-      :url: tools/teaching-and-learning/study-modules-method-coach-beschreibungscoach
-    - :title_en: Study units
+      :url: tools/modules/method-coach/index
+      :content:
+      - :title_en: "[Beschreibungs-Coach]"
+        :title_de: Beschreibungs-Coach
+        :url: tools/modules/method-coach/beschreibungscoach
+      - :title_en: "[Ad fontes]"
+        :title_de: Ad fontes
+        :url: tools/modules/method-coach/ad-fontes
+    - :title_en: Knowledge-Coach
+      :title_de: Wissenstrainer
+      :url: tools/modules/knowledge-coach/index
+      :content:
+      - :title_en: "[Terminologie-Trainer]"
+        :title_de: Terminologie-Trainer
+        :url: tools/modules/knowledge-coach/terminologietrainer
+    - :title_en: Study Units
       :title_de: Lerneinheiten
-      :url: tools/teaching-and-learning/study-modules-study-units
-    - :title_en: Einführung in die Architektur der Renaissance und des Barock
-      :title_de: Einführung in die Architektur der Renaissance und des Barock
-      :url: tools/teaching-and-learning/study-modules-study-units-einführung-in-die-arcitektur-renaissance-und-barock
-    - :title_en: Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst
-      :title_de: Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst
-      :url: tools/teaching-and-learning/study-modules-study-units-internetkolleg-kunst
-    - :title_en: 2D-3D Grundlagen
-      :title_de: 2D-3D Grundlagen
-      :url: tools/teaching-and-learning/study-modules-topic-room-2d-3d
-    - :title_en: Topic room
-      :title_de: Themenraum
-      :url: tools/teaching-and-learning/study-modules-topic-room
-    - :title_en: Altenberger Dom
-      :title_de: Altenberger Dom
-      :url: tools/teaching-and-learning/study-modules-topic-room-altenberger-dom
-    - :title_en: Altenstadt
-      :title_de: Altenstadt
-      :url: tools/teaching-and-learning/study-modules-topic-room-altenstadt
-    - :title_en: Forum romanum
-      :title_de: Forum romanum
-      :url: tools/teaching-and-learning/study-modules-topic-room-forum-romanum
-    - :title_en: mauer_reste
-      :title_de: mauer_reste
-      :url: tools/teaching-and-learning/study-modules-topic-room-mauerreste
-  - :title_en: Tools
-    :title_de: Werkzeuge
-    :url: tools/tools/index
+      :url: tools/modules/units/index
+      :content:
+      - :title_en: "[Einführung in die Architektur der Renaissance und des Barock]"
+        :title_de: Einführung in die Architektur der Renaissance und des Barock
+        :url: tools/modules/units/einführung-in-die-architektur-renaissance-und-barock
+      - :title_en: "[Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst]"
+        :title_de: Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst
+        :url: tools/modules/units/internetkolleg-kunst
+    - :title_en: Little Applications
+      :title_de: Kleine Applikationen
+      :url: tools/modules/little-applications/index
+      :content:
+      - :title_en: "[Malen mit Flash]"
+        :title_de: Malen mit Flash
+        :url: tools/modules/little-applications/malen-mit-flash
+  - :title_en: Databases
+    :title_de: Datenbanken
+    :url: tools/databases/index
     :content:
-    - :title_en: Data bases
-      :title_de: Datenbanken
-      :url: tools/tools/data-bases
     - :title_en: DaDaEdu
       :title_de: DaDaEdu
-      :url: tools/tools/data-bases-dadaedu
+      :url: tools/databases/dadaedu
     - :title_en: diathek
       :title_de: diathek
-      :url: tools/tools/data-bases-diathek
+      :url: tools/databases/diathek
     - :title_en: DILPS
       :title_de: DILPS
-      :url: tools/tools/data-bases-dilps
-    - :title_en: Reference manuals
-      :title_de: Leitfaden
-      :url: tools/tools/reference-manuals
-    - :title_en: "eikonline_2: Bildreproduktion"
-      :title_de: "eikonline_2: Bildreproduktion"
-      :url: tools/tools/reference-manuals-eikonline-2
-    - :title_en: "eikonline_3: Bildpräsentation"
-      :title_de: "eikonline_3: Bildpräsentation"
-      :url: tools/tools/reference-manuals-eikonline-3
-    - :title_en: "eikonline_4: DigiDiathek Nutzung"
-      :title_de: "eikonline_4: DigiDiathek Nutzung"
-      :url: tools/tools/reference-manuals-eikonline-4
-    - :title_en: "eikonline_5: prometheus-Bildarchiv"
-      :title_de: "eikonline_5: prometheus-Bildarchiv"
-      :url: tools/tools/reference-manuals-eikonline-5
-    - :title_en: Norm data
-      :title_de: Normdaten
-      :url: tools/tools/norm-data
-    - :title_en: PKNAD
-      :title_de: PKNAD
-      :url: tools/tools/norm-data-pknad
-    - :title_en: Programs
-      :title_de: Programme
-      :url: tools/tools/programs
-    - :title_en: Begriffsnetz
+      :url: tools/databases/dilps
+  - :title_en: Programs
+    :title_de: Programme
+    :url: tools/programs/index
+    :content:
+    - :title_en: "[Begriffsnetz]"
       :title_de: Begriffsnetz
-      :url: tools/tools/programs-begriffsnetz
+      :url: tools/programs/begriffsnetz
     - :title_en: MapView
       :title_de: MapView
-      :url: tools/tools/programs-mapview
-    - :title_en: projektor + editor
+      :url: tools/programs/mapview
+    - :title_en: "[projektor + editor]"
       :title_de: projektor + editor
-      :url: tools/tools/programs-projektor-editor
-- :title_en: Contact information
+      :url: tools/programs/projektor-editor
+  - :title_en: Reference Manuals
+    :title_de: Leitfaden
+    :url: tools/manuals/index
+    :content:
+    - :title_en: "[eikonline_2: Bildreproduktion]"
+      :title_de: "eikonline_2: Bildreproduktion"
+      :url: tools/manuals/eikonline-2
+    - :title_en: "[eikonline_3: Bildpräsentation]"
+      :title_de: "eikonline_3: Bildpräsentation"
+      :url: tools/manuals/eikonline-3
+    - :title_en: "[eikonline_4: DigiDiathek Nutzung]"
+      :title_de: "eikonline_4: DigiDiathek Nutzung"
+      :url: tools/manuals/eikonline-4
+    - :title_en: "[eikonline_5: prometheus-Bildarchiv]"
+      :title_de: "eikonline_5: prometheus-Bildarchiv"
+      :url: tools/manuals/eikonline-5
+  - :title_en: PKND
+    :title_de: PKND
+    :url: tools/pknd
+- :title_en: Contact Information
   :title_de: Kontakt
   :url: contact

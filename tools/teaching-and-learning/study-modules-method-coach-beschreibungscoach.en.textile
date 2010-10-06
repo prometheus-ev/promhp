@@ -1,5 +1,0 @@
----
-layout: default
-title: Beschreibungs-Coach
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=281&L=1&skin=0&tx_ttnews[tt_news]=33&tx_ttnews[backPid]=64&cHash=d11273afc6
----

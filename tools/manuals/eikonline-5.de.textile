@@ -1,0 +1,40 @@
+---
+layout: default
+title: "eikonline_5: prometheus-Bildarchiv"
+---
+h2. <%= page_title %>
+
+05.03.07
+
+
+!<%=r 'files/images/499b2e2096.jpg' %>!
+
+
+*Dateien zum Herunterladen:*
+"eikonline_05_prometheus_12.pdf":<%=r 'files/text/eikonline_05_prometheus_12.pdf' %>
+
+*Faltblatt zur Einführung in das Arbeiten mit dem prometheus-Bildarchiv*
+Themen
+
+- Zugang
+
+- Suche
+
+- Bild vergrößern
+
+- Bild lokal speichern
+
+- online-Arbeitsmappe
+
+- online-Präsentation
+
+- f.a.q.: Problembehebung
+
+Version 1.2 (09.03.2005)
+
+
+
+Von: Stefan Brenne, Annette Mag
+
+
+"zurück zu: Leitfaden":<%=r 'tools/manuals/index' %>

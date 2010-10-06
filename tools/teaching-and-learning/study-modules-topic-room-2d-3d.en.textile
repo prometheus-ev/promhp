@@ -1,5 +1,0 @@
----
-layout: default
-title: 2D-3D Grundlagen
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=1&skin=0&tx_ttnews[tt_news]=30&tx_ttnews[pointer]=
----

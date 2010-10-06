@@ -22,7 +22,7 @@ Access to promDILPS is as easy as searching the web.
 
 
 
-For nearer information please click "here":<%=r 'tools/tools/data-bases-dilps' %>
+For nearer information please click "here":<%=r 'tools/databases/dilps' %>
 
 
 Please contact us for further information if this offer appeals to you!

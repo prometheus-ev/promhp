@@ -1,5 +1,0 @@
----
-layout: default
-title: Neues Benutzerkonto für ILIAS registrieren
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=60&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
----

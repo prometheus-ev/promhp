@@ -1,0 +1,21 @@
+---
+layout: default
+title: Programme
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=58
+---
+h2. <%= page_title %>
+
+
+*Begriffsnetz*
+
+!<%=r 'files/images/9dba586288.jpg' %>! Funktionsmodell für den Terminologie-Trainer von prometheus. "» mehr":<%=r 'tools/programs/begriffsnetz' %>
+
+
+*MapView (Offline-Mappe)*
+
+!<%=r 'files/images/b656a9e14d.jpg' %>! Offline-Arbeitsmappe und Präsentation für prometheus "» mehr":<%=r 'tools/programs/mapview' %>
+
+
+*projektor + editor*
+
+!<%=r 'files/images/515d3ca280.jpg' %>! Im editor stellen Sie Ihre Einzelbilder (jpg) oder Flashfilme (swf) tabellarisch zu einem Vortrag zusammen: bis zu drei parallele Bilder, Eingabe von Einblendtexten, Hilfefunktion, Ausdruck. "» mehr":<%=r 'tools/programs/projektor-editor' %>
