@@ -14,7 +14,7 @@ Jede Datenbank wird in einem Kurzprofil beschrieben und die Kontaktdaten der Ans
 
 *Eine einheitliche Suchoberfläche für uneinheitliche Datenbanken?*
 
-Wie die Suche in heterogenen Datenbanken d.h. in Datenbanken mit unterschiedlicher Datenstruktur, funktioniert, erläutert die kurze Beschreibung des "» technischen Systems":<%=r 'prometheus/in-general/description-of-the-technical-system' %>.
+Wie die Suche in heterogenen Datenbanken d.h. in Datenbanken mit unterschiedlicher Datenstruktur, funktioniert, erläutert die kurze Beschreibung des "» technischen Systems":<%=r 'prometheus/details' %>.
 
 
 *Open-Access-Datenbanken*

@@ -37,27 +37,23 @@
   :title_de: prometheus ist...
   :url: prometheus/index
   :content:
-  - :title_en: In general
-    :title_de: Allgemein
-    :url: prometheus/in-general/index
-    :content:
-    - :title_en: User instructions to the image archive
-      :title_de: Hinweise zur Nutzung des Bildarchivs
-      :url: prometheus/in-general/user-instructions-to-the-image-archive
-    - :title_en: Description of the image archive
-      :title_de: Beschreibung des Bildarchivs
-      :url: prometheus/in-general/description-of-the-image-archive
-    - :title_en: Technisches System
-      :title_de: Technisches System
-      :url: prometheus/in-general/description-of-the-technical-system
+  - :title_en: User instructions
+    :title_de: Hinweise zur Nutzung des Bildarchivs
+    :url: prometheus/usage
+  - :title_en: Description of the image archive
+    :title_de: Beschreibung des Bildarchivs
+    :url: prometheus/description
+  - :title_en: Technisches System
+    :title_de: Technisches System
+    :url: prometheus/details
   - :title_en: pandora
     :title_de: pandora
-    :url: prometheus/pandora/index
+    :url: prometheus/pandora
   - :title_en: Newsletter
     :title_de: Newsletter
     :url: prometheus/newsletter/index
   - :title_en: Publications
-    :title_de: Publicationen
+    :title_de: Publikationen
     :url: prometheus/publications/index
     :content:
     - :title_en: Press releases

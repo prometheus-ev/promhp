@@ -5,7 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=292&no_cache=1&L=0&skin
 ---
 h2. <%= page_title %>
 
-
 Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
 Meta-Image - Forschungsumgebung für den Bilddiskurs in der Kunstgeschichte
 in: Sieck, Jürgen (Hrsg.): Kultur und Informatik. Interaktive Systeme. Berlin, 2010, S. 183–188. [104]

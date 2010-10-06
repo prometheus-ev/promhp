@@ -27,6 +27,6 @@ entwickelte Datenbankprogramm Kleio.
 
 Am 31. März 2008 übernahm "pandora – Die Software von prometheus, dem digitalen Bildarchiv" diese Aufgabe.
 
-"www.prometheus-bildarchiv.de":<%=r 'prometheus/pandora/index' %>
+"www.prometheus-bildarchiv.de":<%=r 'prometheus/pandora' %>
 
 "prometheus.uni-koeln.de/pandora/about":http://prometheus.uni-koeln.de/pandora/about

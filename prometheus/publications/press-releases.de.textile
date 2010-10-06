@@ -5,7 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=289&no_cache=1&L=0&skin
 ---
 h2. <%= page_title %>
 
-
 06.10.05: Informationsdienst Wissenschaft idw "prometheus verleiht erstmals esPrix" "http://idw-online.de/pages/de/news130843":http://idw-online.de/pages/de/news130843 [74]
 
 28.07.04: Informationsdienst Wissenschaft idw "Vorbildliche Medieninitiative" "http://idw-online.de/pages/de/news84043":http://idw-online.de/pages/de/news84043 [75]
