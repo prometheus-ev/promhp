@@ -88,6 +88,10 @@
   color: white;
 }
 
+#navigation .inactive a {
+  color: #F93;
+}
+
 #navigation ul {
   list-style: none;
   padding: 0;

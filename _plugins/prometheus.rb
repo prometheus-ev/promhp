@@ -105,7 +105,7 @@ module Jekyll
     private
 
     def render_navigation_item(item)
-      state = active?(item) ? ' class="active"' : ''
+      state = active?(item ,true) ? ' class="active"' : ' class="inactive"'
       if item[:url]
         name = "<a href=\"#{relativize(item[:url], path)}\">" +
           "#{item["title_#{lang}".to_sym]}</a>"
