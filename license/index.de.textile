@@ -26,4 +26,4 @@ Wenn Sie prometheus nicht über eine Institution mit Lizenz nutzen können, habe
 
 
 
-"» Übersicht der Lizenzgebühren":<%=r 'licences/licence-fee' %>
+"» Übersicht der Lizenzgebühren":<%=r 'license/fees' %>

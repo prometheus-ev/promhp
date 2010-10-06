@@ -51,10 +51,7 @@
       <div id="login_wrap"><%= include_file 'login.html' %></div>
       <div id="campus_login_wrap"><%= include_file 'campus_login.html' %></div>
 
-      <div id="navigation">
-        <%= @page.navigation %>
-      </div>
-
+      <div id="navigation"><%= @page.navigation %></div>
     </div>
 
     <div id="main">
@@ -68,8 +65,6 @@
     </div>
   </div>
 
-  <div id="footer" class="clear-float">
-    <%= include_file 'footer.html' %>
-  </div>
+  <div id="footer" class="clear-float"><%= include_file 'footer.html' %></div>
 </body>
 </html>

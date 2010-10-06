@@ -1,17 +1,17 @@
 ---
 layout: default
-title: prometheus - the association
+title: prometheus - The association
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=11&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 h2. <%= page_title %>
 
 *p r o m e t h e u s   e.V. bears since 2003 the image archive prometheus.*
-"» the club objective":<%=r 'about-us/association-mission-statement' %>
+"» the club objective":<%=r 'about/mission-statement' %>
 
 
 The association has arose from the cooperative project "prometheus  The Distributed Digital Image Archive for Research & Studies" of the grant programme "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
-"» History of the project and the association":<%=r 'about-us/the-association-history' %>
+"» History of the project and the association":<%=r 'about/history' %>
 
 
 *Get involved with prometheus e.V!*
-"» Becoming a member":<%=r 'about-us/association-become-a-member' %>
+"» Becoming a member":<%=r 'about/membership' %>

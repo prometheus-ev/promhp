@@ -1,6 +1,6 @@
 ---
 layout: default
-title: From the project to the association - The History of prometheus
+title: From project to association - The History of prometheus
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=67&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 h2. <%= page_title %>

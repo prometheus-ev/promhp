@@ -7,35 +7,32 @@
   :url: blog
 - :title_en: About us
   :title_de: Wir über uns
-  :url: about-us/index
+  :url: about/index
   :content:
   - :title_en: The association
     :title_de: Der Verein
-    :url: about-us/the-association
+    :url: about/association
   - :title_en: Mission statement
-    :title_de: Vereinsziele
-    :url: about-us/association-mission-statement
+    :title_de: Das Vereinsziel
+    :url: about/mission-statement
   - :title_en: How to become a member
-    :title_de: Mitglied werde
-    :url: about-us/association-become-a-member
-  - :title_en: Contact us
-    :title_de: Kontakt
-    :url: about-us/association-contact
-  - :title_en: Satzung
+    :title_de: Mitglied werden
+    :url: about/membership
+  - :title_en: Articles (German)
     :title_de: Satzung
-    :url: about-us/articles-of-association
-  - :title_en: Executive board and members of staff
+    :url: about/articles
+  - :title_en: Executive board
     :title_de: Vorstand
-    :url: about-us/association-executive-board-and-members-of-staff
+    :url: about/executive-board
   - :title_en: Members of staff
     :title_de: MitarbeiterInnen
-    :url: about-us/staff
+    :url: about/staff
   - :title_en: The History of prometheus
     :title_de: Geschichte
-    :url: about-us/the-association-history
+    :url: about/history
   - :title_en: Our sponsors
     :title_de: Unsere Förderer
-    :url: about-us/sponsors
+    :url: about/sponsors
 - :title_en: prometheus is ...
   :title_de: prometheus ist ...
   :url: prometheus-is/index
@@ -75,40 +72,40 @@
     - :title_en: Theses
       :title_de: Diplomarbeiten
       :url: prometheus-is/publications/theses
-- :title_en: Accounts and licenses
+- :title_en: Registration and Licenses
   :title_de: Anmeldung und Lizenzen
-  :url: licences/index
+  :url: license/index
   :content:
-  - :title_en: License fee
+  - :title_en: License fees
     :title_de: Lizenzgebühren
-    :url: licences/licence-fee
+    :url: license/fees
   - :title_en: Instructions for administrators
     :title_de: Hinweise für AdministratorInnen
-    :url: licences/instructions-for-administrators
+    :url: license/instructions-for-administrators
   - :title_en: License holders
     :title_de: Liste der Lizenznehmer
-    :url: licences/licence-holders
+    :url: <%= pandora_url 'institution/licensed' %>
   - :title_en: Terms of Use
     :title_de: Nutzungsbedingungen
-    :url: licences/terms-of-use
-- :title_en: Copyrights and using
+    :url: <%= pandora_url 'terms_of_use' %>
+- :title_en: Copyright and usage
   :title_de: Bildrecht und Verwendung
-  :url: copyright-and-using
-- :title_en: Information for database supplier
+  :url: copyright
+- :title_en: Information for database suppliers
   :title_de: Informationen für Datenbankgeber
   :url: databases/index
   :content:
-  - :title_en: Bereitstellung der Daten
+  - :title_en: Supplying data
     :title_de: Bereitstellung der Daten
     :url: databases/data-supply
-  - :title_en: Metadaten - Inhalte
+  - :title_en: Metadata - Contents
     :title_de: Metadaten - Inhalte
     :url: databases/metadata-contents
-  - :title_en: Formate der Metadaten-Datei
-    :title_de: Formate der Metadaten-Datei
+  - :title_en: Metadata - Formats
+    :title_de: Metadaten - Formate
     :url: databases/metadata-formats
-  - :title_en: Medienformate
-    :title_de: Medienformate
+  - :title_en: Media - Formats
+    :title_de: Medien - Formate
     :url: databases/media-formats
   - :title_en: promDILPS
     :title_de: promDILPS
@@ -261,6 +258,6 @@
     - :title_en: projektor + editor
       :title_de: projektor + editor
       :url: tools-and-hints/tools/programs-projektor-editor
-- :title_en: Contact us
+- :title_en: Contact information
   :title_de: Kontakt
-  :url: about-us/association-contact
+  :url: contact

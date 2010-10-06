@@ -35,7 +35,12 @@ module Jekyll
   module Helpers
 
     def relativize(str, current_page_url)
+      return str if str =~ /\A[a-z]+:\/\//
       '../' * (current_page_url.count('/') - 1) + str.sub(/\A\//, '')
+    end
+
+    def pandora_url(path, site = OpenStruct.new(site.config), page = self)
+      [site.pandora_url, page.lang, *path].compact.join('/')
     end
 
   end
@@ -45,14 +50,12 @@ module Jekyll
     include Helpers
 
     def r(str)
-      relativize(str, @page.url)
+      relativize(str, page.url)
     end
 
-    def pandora(*path)
-      [site.pandora_url, page.lang, *path].compact.join('/')
+    def p(*path)
+      pandora_url(path, site, page)
     end
-
-    alias_method :p, :pandora
 
     def page_title(head = false)
       parts, title = page.url.sub(/\A\//, '').split('/'), page.title
@@ -80,17 +83,26 @@ module Jekyll
     def initialize(site, base, dir, name)
       _prometheus_original_initialize(site, base, dir, name)
 
-      generate_navigation
+      data['navigation'] = render_navigation_level(
+        YAML.load(
+          ERB.new(
+            File.read(
+              File.join(@site.source, '_navigation.yml')
+            )
+          ).result(binding)
+        )
+      )
     end
 
-    def generate_navigation
-      unless self.data['navigation']
-        self.data['navigation'] = ''
-        structure = YAML.load_file(File.join(@site.source, '_navigation.yml'))
-        self.data['navigation'] << render_navigation_level(structure)
-      end
-      return self.data['navigation']
+    alias_method :_prometheus_original_process, :process
+
+    # Overwrites the original method to fix handling of dotfiles.
+    def process(name)
+      _prometheus_original_process(name)
+      self.basename = name if basename.empty?
     end
+
+    private
 
     def render_navigation_item(item)
       state = active?(item) ? ' class="active"' : ''

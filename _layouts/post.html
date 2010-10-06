@@ -6,9 +6,9 @@ layout: default
 
 <%= @content %>
 
-<h2>Related Posts</h2>
+<h2><%=t 'Related Posts', 'Verwandte Artikel' %></h2>
 <ul class="posts">
-  <% @site.related_posts[0..3].each do |post| %>
+  <% for post in @site.related_posts[0..3] %>
     <li><span><%= date_to_string(post.date) %></span> &raquo; <a href="<%=r post.url %>"><%= post.title %></a></li>
   <% end %>
 </ul>

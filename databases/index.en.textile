@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information for database supplier
+title: Information for database suppliers
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=72&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 h2. <%= page_title %>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Executive board and members of staff
+title: Executive board
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=68&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 h2. <%= page_title %>
