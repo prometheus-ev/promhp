@@ -4,34 +4,6 @@ require 'jekyll/localization'
 
 module Jekyll
 
-  class Post
-
-    def title
-      to_hash['title']
-    end
-
-    alias_method :_prometheus_original_url, :url
-
-    # Overwrites the original method to drop the language extension.
-    def url
-      _prometheus_original_url.sub(/#{Localization::LANG_EXT_RE}\z/, '')
-    end
-
-    alias_method :_prometheus_original_write, :write
-
-    # Overwrites the original method to not put our output files as
-    # 'index.html' in a directory called by their slug.
-    def write(dest)
-      FileUtils.mkdir_p(File.join(dest, dir))
-
-      # The url needs to be unescaped in order to preserve the correct filename
-      path = File.join(dest, CGI.unescape("#{url}.html#{@lang_ext}"))
-
-      File.open(path, 'w') { |f| f.write(output) }
-    end
-
-  end
-
   module Helpers
 
     def relativize(str, current_page_url)
@@ -41,35 +13,6 @@ module Jekyll
 
     def pandora_url(path, site = OpenStruct.new(site.config), page = self)
       [site.pandora_url, page.lang, *path].compact.join('/')
-    end
-
-  end
-
-  module Filters
-
-    include Helpers
-
-    def r(str)
-      relativize(str, page.url)
-    end
-
-    def p(*path)
-      pandora_url(path, site, page)
-    end
-
-    def page_title(head = false)
-      parts, title = page.url.sub(/\A\//, '').split('/'), page.title
-
-      case parts.first
-        when /\A\d+\z/
-          pre = "#{t('prometheus Blog', 'prometheus-Blog')} - " if head
-          "#{pre}#{title}"
-        when 'series'
-          num = parts.values_at(-2, -3).join(' / ')
-          "#{t('Image series', 'Bildserie')} #{num}: #{title}"
-        else
-          title
-      end
     end
 
   end
@@ -104,41 +47,81 @@ module Jekyll
 
     private
 
-    def render_navigation_item(item)
-      state = active?(item ,true) ? ' class="active"' : ' class="inactive"'
-      if item[:url]
-        name = "<a href=\"#{relativize(item[:url], path)}\">" +
-          "#{item["title_#{lang}".to_sym]}</a>"
-      else
-        name = item["title_#{lang}".to_sym]
-      end
-
-      if item[:content].nil? || !active?(item, true)
-        "<li#{state}>#{name}</li>\n"
-      else
-        "<li#{state}>#{name}\n" + render_navigation_level(item[:content]) + "\n</li>\n"
-      end
-    end
-
     def render_navigation_level(level)
-      out = "<ul>\n"
-      level.each do |i|
-        out << render_navigation_item(i) if i
-      end
-      out << "</ul>\n"
+      "<ul>\n#{level.inject('') { |out, i| out << render_navigation_item(i) if i }}</ul>\n"
     end
 
-    def path
-      @path ||= File.join(@dir, basename)
+    def render_navigation_item(item)
+      path = File.join(@dir, basename)
+
+      name = item["title_#{lang}".to_sym]
+      name = "<a href=\"#{relativize(item[:url], path)}\">#{name}</a>" if item[:url]
+
+      active = active?(item, path[1..-1])
+      content = "\n#{render_navigation_level(item[:content])}\n" if item[:content] && active
+
+      "<li#{' class="active"' if active}>#{name}#{content}</li>\n"
     end
 
-    def active?(navigation_item, recursive = false)
-      return true if navigation_item[:url] == path[1..-1]
-      if recursive && navigation_item[:content]
-        navigation_item[:content].each { |i| return true if active?(i, true) }
-      end
+    def active?(item, path)
+      item[:url] == path || item[:content] && item[:content].any? { |i| active?(i, path) }
+    end
 
-      return false
+  end
+
+  class Post
+
+    def title
+      to_hash['title']
+    end
+
+    alias_method :_prometheus_original_url, :url
+
+    # Overwrites the original method to drop the language extension.
+    def url
+      _prometheus_original_url.sub(/#{Localization::LANG_EXT_RE}\z/, '')
+    end
+
+    alias_method :_prometheus_original_write, :write
+
+    # Overwrites the original method to not put our output files as
+    # 'index.html' in a directory called by their slug.
+    def write(dest)
+      FileUtils.mkdir_p(File.join(dest, dir))
+
+      # The url needs to be unescaped in order to preserve the correct filename
+      path = File.join(dest, CGI.unescape("#{url}.html#{@lang_ext}"))
+
+      File.open(path, 'w') { |f| f.write(output) }
+    end
+
+  end
+
+  module Filters
+
+    include Helpers
+
+    def r(str)
+      relativize(str, page.url)
+    end
+
+    def p(*path)
+      pandora_url(path, site, page)
+    end
+
+    def page_title(head = false)
+      parts, title = page.url.sub(/\A\//, '').split('/'), page.title
+
+      case parts.first
+        when /\A\d+\z/
+          pre = "#{t('prometheus Blog', 'prometheus-Blog')} - " if head
+          "#{pre}#{title}"
+        when 'series'
+          num = parts.values_at(-2, -3).join(' / ')
+          "#{t('Image series', 'Bildserie')} #{num}: #{title}"
+        else
+          title
+      end
     end
 
   end

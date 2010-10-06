@@ -80,31 +80,37 @@
 }
 
 #navigation {
-  line-height: 30px;
-  font-weight: bold;
+  font-weight:       bold;
 }
 
-#navigation .active a {
-  color: white;
-}
-
-#navigation .inactive a {
-  color: #F93;
+#navigation .active > a {
+  color:             rgb(255,255,255);
 }
 
 #navigation ul {
-  list-style: none;
-  padding: 0;
+  list-style-type:   none;
+  padding:           0;
 }
 
-#navigation ul li {
-  padding: 0;
-  padding-left: 15px;
-  background-image: url(../images/misc/navigation_list_background.gif);
+#navigation li {
+  padding:           0;
+  padding-left:      15px;
+}
+
+#navigation > ul > li {
+  line-height:       30px;
+  background-image:  url(../images/misc/navigation_list_background.gif);
   background-repeat: repeat-x;
 }
 
-#navigation ul li ul li{
-  background-image: none;
-  background-color: #1B1B1B;
+#navigation ul ul li {
+  line-height:       1.2em;
+}
+
+#navigation ul ul li, #navigation > ul > li > ul {
+  padding-bottom:    5px;
+}
+
+#navigation ul ul li, #navigation li ul {
+  padding-top:       5px;
 }
