@@ -1,0 +1,36 @@
+---
+layout: default
+title: DaDaEdu
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&tx_ttnews[tt_news]=8&tx_ttnews[backPid]=57&cHash=1c25daa51a
+---
+h2. <%= page_title %>
+
+05.03.07
+
+| !<%=r 'files/images/33041039cc.jpg' %>! | !<%=r 'files/images/6f318c06af.jpg' %>! | !<%=r 'files/images/046bd0889f.jpg' %>! |
+
+
+*Dateien zum Herunterladen:*
+"DaDaEdu.zip":<%=r 'files/media/DaDaEdu.zip' %>
+
+
+*Anwendungsbereich: Bibliographie- und Objektdatenbank für Studium und Forschung*
+
+Die vorliegende Version "DaDaEdu" wurde extra für Studierende entwickelt. Es handelt sich um eine Light-Version der in Museen und bei Sammlern verbreiteten professionellen Dokumentations- und Administrationsdatenbank "DaDa" der Firma Arthist Dokumentation, Zürich.
+DaDaEdu ist eine leicht zu bedienende Datenbank für die wissenschaftliche Arbeit. Sie verknüpft eine Bibliographie- und Objektdatenbank.
+DaDaEdu steht hier als Shareware-Version zur Verfügung.
+
+
+
+*Autorenschaft:* Arthist Dokumentation, Postfach, 8023 Zürich, Schweiz
+
+*Anwendungsbereich:* Bibliographie- und Objektdatenbank für Studium und Forschung
+
+*Technische Voraussetzungen:* Windows; keine zusätzliche Software nötig [herunterladen, entpacken und DadaErfStart starten]
+
+
+
+Von: Arthist Dokumentation
+
+
+"zurück zu: Datenbanken":<%=r 'tools/tools/data-bases-dilps' %>

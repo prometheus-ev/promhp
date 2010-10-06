@@ -1,0 +1,33 @@
+---
+layout: default
+title: Tools
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=7&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h2. <%= page_title %>
+
+*In this column you find different aids which facilitate the handling of digital pictures and teaching contents for you.*
+
+These can be texts or Internet addresses, however also practical aid programs up to data bases for the administration of pictures or for the preparation of own contents.
+
+
+*The entries are sorted according to these categories:*
+
+
+
+"» Reference manuals":<%=r 'tools/tools/reference-manuals' %>
+Here you find handouts and materials intended for your own use or to be used with training courses.
+
+
+
+"» Programs":<%=r 'tools/tools/programs' %>
+Here you find practical tools for the use in lessons or in private study.
+
+
+
+"» Data bases":<%=r 'tools/tools/data-bases-dilps' %>
+Image data base applications
+
+
+
+"» Standard data - norm data":<%=r 'tools/tools/norm-data' %>
+Wordlists and thesauruses for the standardization of the metadata acquisition and/or –output.

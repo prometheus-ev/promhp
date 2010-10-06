@@ -1,0 +1,23 @@
+---
+layout: default
+title: "eikonline_4: DigiDiathek Nutzung"
+---
+h2. <%= page_title %>
+
+05.03.07
+
+!<%=r 'files/images/13e3c71195.jpg' %>!
+
+*Dateien zum Herunterladen:*
+"eikonline_04_digidiathek_11.pdf":<%=r 'files/text/eikonline_04_digidiathek_11.pdf' %>
+
+*Arbeiten mit der Gießener Datenbank DigiDiathek von der Recherche bis zur Präsentation*
+In der diathek (download einer leeren Struktur unter werkzeuge -> Datenbanken) recherchieren, einen Vortrag mit Doppelprojektion zusammenstellen und Einzelbilder oder einen Vortrag exportieren.
+version 1.1 (09.03.2006)
+
+
+
+Von: Stefan Brenne
+
+
+"zurück zu: Leitfaden":<%=r 'tools/tools/reference-manuals' %>

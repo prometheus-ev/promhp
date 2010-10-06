@@ -1,0 +1,27 @@
+---
+layout: default
+title: Lernmodule
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=37
+---
+h2. <%= page_title %>
+
+*Diese digitalen Lerninhalte werden zur Unterstützung der Präsenzlehre und des Selbststudiums in den Kunst- und Kulturwissenschaften kostenlos bereitgestellt.*
+Die Kategorien orientieren sich an mediengerechten Konzepten für verschiedene Wissensbereiche:
+
+
+"» Themenraum":<%=r 'tools/teaching-and-learning/study-modules-topic-room' %> für die Kombination der verschiedensten Wissensarten
+
+
+
+"» Methoden-Coach":<%=r 'tools/teaching-and-learning/study-modules-method-coach' %> für prozedurales Wissen
+
+
+
+"» Wissens-Trainer":<%=r 'tools/teaching-and-learning/study-modules-knowledge-coach' %> für deklaratives Wissen
+
+
+"» Lerneinheiten":<%=r 'tools/teaching-and-learning/study-modules-study-units' %> für die curriculare Zusammenstellung von Lerninhalten
+
+
+
+Wenn Sie zusätzliche Hinweise geben oder eigene Entwicklungen anbieten wollen, melden Sie sich bitte bei uns!

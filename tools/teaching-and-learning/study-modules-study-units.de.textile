@@ -1,0 +1,20 @@
+---
+layout: default
+title: Lerneinheiten
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=62&L=0&skin=0
+---
+h2. <%= page_title %>
+
+Innerhalb des digitalen Angebots unterscheiden wir Lernobjekte, strukturierte Lernelemente und curriculare Lerneinheiten.
+
+Lernobjekte sind kleinste Sinneinheiten wie Bild, Schrifttext oder Animation.
+Lernelemente sind strukturierte Zusammenstellungen von Lernobjekten zu einem Thema oder Wissensgebiet, beispielsweise Themenräume, ein Methoden-Coach oder ein Wissens-Trainer.
+
+Eine Lerneinheit ist curricular so angelegt, dass sie eine Präsenzveranstaltung begleiten, in einem online-Seminar eingesetzt und/oder zum Selbststudium verwendet werden kann.
+
+
+*Einführung in die Architektur der Renaissance und des Barock*
+!<%=r 'files/images/8a4efb03a9.jpg' %>! Gegenstand dieser Unterrichtseinheit ist die Architektur in Renaissance und Barock. "» mehr":<%=r 'tools/teaching-and-learning/study-modules-study-units-einführung-in-die-arcitektur-renaissance-und-barock' %>
+
+*Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst*
+!<%=r 'files/images/3ba062b1cd.jpg' %>! Studierende der Kunstgeschichte "» mehr":<%=r 'tools/teaching-and-learning/study-modules-study-units-internetkolleg-kunst' %>

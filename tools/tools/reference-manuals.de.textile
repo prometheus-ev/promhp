@@ -1,0 +1,50 @@
+---
+layout: default
+title: Leitfaden
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=59
+---
+h2. <%= page_title %>
+
+
+*eikonline_2: Bildreproduktion*
+
+!<%=r 'files/images/6131d4af9d.jpg' %>! Richtig scannen "» mehr":<%=r 'tools/tools/reference-manuals-eikonline-2' %>
+
+
+*eikonline_3: Bildpräsentation*
+
+!<%=r 'files/images/944a67154a.jpg' %>! Präsentieren mit editor + projektor "» mehr":<%=r 'tools/tools/reference-manuals-eikonline-3' %>
+
+
+*eikonline_4: DigiDiathek Nutzung*
+
+!<%=r 'files/images/13e3c71195.jpg' %>! Arbeiten mit der Gießener Datenbank DigiDiathek von der Recherche bis zur Präsentation "» mehr":<%=r 'tools/tools/reference-manuals-eikonline-4' %>
+
+
+*eikonline_5: prometheus-Bildarchiv*
+
+!<%=r 'files/images/499b2e2096.jpg' %>! Faltblatt zur Einführung in das Arbeiten mit dem prometheus-Bildarchiv "» mehr":<%=r 'tools/tools/reference-manuals-eikonline-5' %>
+
+Zeige Datensatz 1 bis 4 von 6
+
+1
+
+2
+
+vor >
+
+
+eikonline_6: ILIAS 2 Nutzung
+
+Leitfaden für die Nutzung der Lernplattform ILIAS Version 2» mehr
+eikonline_7: ILIAS 3 Nutzung
+
+Leitfaden für die Nutzung der Lernplattform ILIAS Version 3» mehr
+
+Zeige Datensatz 5 bis 6 von 6
+
+< zurück
+
+1
+
+2

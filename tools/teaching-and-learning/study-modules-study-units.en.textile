@@ -1,0 +1,20 @@
+---
+layout: default
+title: Study units
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=62&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h2. <%= page_title %>
+
+Inside the digital offering objects of studies, structured learning elements and curricular study units are differentiated.
+
+Learning objects are the smallest units of meaning as image, text or animation.
+Learning elements are structured compilations of study objects about one topic or one area of knowledge, e.g. topic rooms, a method-coach or a knowledge-coach.
+
+A study unit is applied curricular so that it can accompany a present training sessions, be deployed in an online-workshop and/or be used for private studies.
+
+*Einführung in die Architektur der Renaissance und des Barock*
+!<%=r 'files/images/8a4efb03a9.jpg' %>! Gegenstand dieser Unterrichtseinheit ist die Architektur in Renaissance und Barock. "» more":<%=r 'tools/teaching-and-learning/study-modules-study-units-einführung-in-die-arcitektur-renaissance-und-barock' %>
+
+*Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst*
+!<%=r 'files/images/3ba062b1cd.jpg' %>! Studierende der Kunstgeschichte "» more":<%=r 'tools/teaching-and-learning/study-modules-study-units-internetkolleg-kunst' %>
+

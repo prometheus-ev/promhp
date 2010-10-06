@@ -1,0 +1,45 @@
+---
+layout: default
+title: diathek
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&tx_ttnews[tt_news]=28&tx_ttnews[backPid]=57&cHash=cb5f6dabeb
+---
+h2. <%= page_title %>
+
+09.03.07
+
+| !<%=r 'files/images/5a70813b74.jpg' %>! | !<%=r 'files/images/b2d7ad9b66.jpg' %>! | !<%=r 'files/images/6813629bde.jpg' %>! |
+
+
+*Dateien zum Herunterladen:*
+"diathek_5_1.zip":<%=r 'files/media/diathek_5_1.zip' %>
+
+
+*Die diathek wurde während der Projektzeit von prometheus an der Justus-Liebig-Universität Gießen entwickelt. Sie ist eine relationale Bilddatenbank für den lokalen Einsatz.*
+Sie bildet die Funktionen einer analogen Diathek nach und erweitert sie: Archivierung, Beschriftung, Datenpflege, Recherche, Leuchtpult, Vortragserstellung.
+
+* konsistente Archivierung digitaler Bilder; Archiv-Ordner im Umfang einer CD für zusätzliche Datensicherung
+* Beschriftung der Bilder durch Verknüpfung mit Literatur- und Objektinformationen (Mehrfachverknüpfung), die in separaten Bereichen eingegeben und verwaltet werden
+* automatische thumbnail-Erstellung beim Bildimport möglich
+* automatische Beschriftungsfunktionen für Serienimport
+* Eingabe über Formulare mit Eingabehilfen
+* zusätzliche Verschlagwortung und Objektdefinition mit einer hierarchischen Schlagwortsystematik in fünf Ebenen
+* fakultative Objektbeschreibung (Personen, Datierung, Maße, Material/Technik, Verschlagwortung usw.), wird über die Verknüpfung an die Bilder vererbt
+* Datenpflege durch objektseitige Änderungs- und Austausch-Funktionen
+* Vortragsexport für den projektor und Übergabe in den editor zum Einfügen weiterer Bilder
+* Nutzerverwaltung mit gestufter und zeitlich begrenzter Zugangsberechtigung
+* individuelle Speicherung von Sucheingaben, Notizen, Präsentationen
+* Mehrplatzsystem im Intranet möglich
+* Kontexthilfe und Dokumentation (im Ausbau)
+* prometheus-Anbindung als xml-Export beispielsweise über Netscape
+
+Weitere Informationen im zip-Paket. Die diathek unterliegt den Bestimmungen der Digital Peer Publishing Lizenz.
+Version 5.1 (22.03.2005), Anregungen sind willkommen.
+
+*Technische Voraussetzungen:* windows, Filemaker 5 bis 6, plugin TroiFile und TroiDialog
+
+
+
+Von: Stefan Brenne
+
+
+"zurück zu: Datenbanken":<%=r 'tools/tools/data-bases-dilps' %>
