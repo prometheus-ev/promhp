@@ -78,3 +78,29 @@
 #facts a:hover {
   text-decoration:   underline;
 }
+
+#navigation {
+  line-height: 30px;
+  font-weight: bold;
+}
+
+#navigation .active a {
+  color: white;
+}
+
+#navigation ul {
+  list-style: none;
+  padding: 0;
+}
+
+#navigation ul li {
+  padding: 0;
+  padding-left: 15px;
+  background-image: url(../images/misc/navigation_list_background.gif);
+  background-repeat: repeat-x;
+}
+
+#navigation ul li ul li{
+  background-image: none;
+  background-color: #1B1B1B;
+}
