@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyperImage – Bildorientierte e-Science-Netzwerke
+title: HyperImage - Bildorientierte e-Science-Netzwerke
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=325
 ---
 h2. <%= page_title %>

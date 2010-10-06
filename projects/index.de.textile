@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projekte und Projektbeteiligungen
+title: Projekte und Kooperationen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=319
 ---
 h2. <%= page_title %>
@@ -16,14 +16,14 @@ Rechen- und Medienzentrum, Leuphana Universität Lüneburg
 prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln
 Abteilung für Rheinische Landesgeschichte, Institut für Geschichtswissenschaft der Universität Bonn
 seit März 2009
-"→ Projektbeschreibung":<%=r 'projects/digital-historical-archive' %>
+"→ Projektbeschreibung":<%=r 'projects/dhastk' %>
 
 *Automatische Erschließung des digitalen Bildarchivs*
 *prometheus*
 Kunsthistorisches Institut, Universität zu Köln
 Institut für Informationswissenschaft, Fachhochschule Köln
 02.04.2007 – 31.03.2009
-"→ Projektbeschreibung":<%=r 'projects/automatic-indexing' %>
+"→ Projektbeschreibung":<%=r 'projects/perseus-a' %>
 
 *HyperImage – Bildorientierte e-Science-Netzwerke*
 Humboldt-Universität zu Berlin

@@ -1,5 +1,6 @@
 ---
 layout: default
-title: Automatische Erschließung des digitalen Bildarchivs prometheus
+title: Automatic indexing of the prometheus image archive
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=320&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
+TODO: translate

@@ -110,26 +110,26 @@
   - :title_en: promDILPS
     :title_de: promDILPS
     :url: databases/promdilps
-- :title_en: Projects and cooperations
-  :title_de: Projekte und Projektbeteiligungen
+- :title_en: Projects and Cooperations
+  :title_de: Projekte und Kooperationen
   :url: projects/index
   :content:
   - :title_en: Meta-Image
     :title_de: Meta-Image
     :url: projects/meta-image
-  - :title_en: Das digitale Historische Archiv Köln
+  - :title_en: The digital Historical Archive of Cologne
     :title_de: Das digitale Historische Archiv Köln
-    :url: projects/digital-historical-archive
-  - :title_en: Automatische Erschließung des digitalen Bildarchivs prometheus
+    :url: projects/dhastk
+  - :title_en: Automatic indexing of the prometheus image archive
     :title_de: Automatische Erschließung des digitalen Bildarchivs prometheus
-    :url: projects/automatic-indexing
+    :url: projects/perseus-a
   - :title_en: HyperImage
     :title_de: HyperImage
     :url: projects/hyper-image
-  - :title_en: Digitale Bildressourcen und E-Learning-Komponenten
+  - :title_en: Digital image resources and e-learning components
     :title_de: Digitale Bildressourcen und E-Learning-Komponenten
     :url: projects/e-learning
-  - :title_en: Notebook-Bibliothek
+  - :title_en: Notebook-Library
     :title_de: Notebook-Bibliothek
     :url: projects/notebook-library
 - :title_en: Tools and hints

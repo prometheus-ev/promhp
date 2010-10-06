@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects and cooperations
+title: Projects and Cooperations
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=319&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 h2. <%= page_title %>
@@ -14,12 +14,20 @@ Rechen- und Medienzentrum, Leuphana Universität Lüneburg
 
 
 
+*The digital Historical Archive of Cologne*
+prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln
+Abteilung für Rheinische Landesgeschichte, Institut für Geschichtswissenschaft der Universität Bonn
+since March 2009
+"→ Projektbeschreibung":<%=r 'projects/dhastk' %>
+
+
+
 *Automatische Erschließung des digitalen Bildarchivs*
 *p r o m e t h e u s*
 Department of art history, University Cologne
 Department of information sciences, University of applied sciences, Cologne
 02.04.2007 – 31.03.2009
-"→ Description":<%=r 'projects/automatic-indexing' %>
+"→ Description":<%=r 'projects/perseus-a' %>
 
 
 
