@@ -7,16 +7,16 @@ h2. <%= page_title %>
 
 *prometheus e.V. trägt seit 2003 das Bildarchiv prometheus.*
 
-"» Vereinsziel":<%=r 'about-us/association-mission-statement' %>
+"» Vereinsziel":<%=r 'about/association-mission-statement' %>
 
 
 
 Hervorgegangen ist der Verein aus dem Verbundprojekt "prometheus  Das verteilte digitale Bildarchiv für Forschung und Lehre" des Förderprogramms "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
 
-"» zur Geschichte des Projektes und des Vereins":<%=r 'about-us/the-association-history' %>
+"» zur Geschichte des Projektes und des Vereins":<%=r 'about/the-association-history' %>
 
 
 
 *Engagieren Sie sich bei prometheus e.V!*
 
-"» Mitglied werden":<%=r 'about-us/association-become-a-member' %>
+"» Mitglied werden":<%=r 'about/association-become-a-member' %>

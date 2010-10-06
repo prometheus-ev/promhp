@@ -7,35 +7,35 @@
   :url: blog
 - :title_en: About us
   :title_de: Wir über uns
-  :url: about-us/index
+  :url: about/index
   :content:
   - :title_en: The association
     :title_de: Der Verein
-    :url: about-us/the-association
+    :url: about/the-association
   - :title_en: Mission statement
     :title_de: Vereinsziele
-    :url: about-us/association-mission-statement
+    :url: about/association-mission-statement
   - :title_en: How to become a member
     :title_de: Mitglied werde
-    :url: about-us/association-become-a-member
+    :url: about/association-become-a-member
   - :title_en: Contact us
     :title_de: Kontakt
-    :url: about-us/association-contact
+    :url: about/association-contact
   - :title_en: Satzung
     :title_de: Satzung
-    :url: about-us/articles-of-association
+    :url: about/articles-of-association
   - :title_en: Executive board and members of staff
     :title_de: Vorstand
-    :url: about-us/association-executive-board-and-members-of-staff
+    :url: about/association-executive-board-and-members-of-staff
   - :title_en: Members of staff
     :title_de: MitarbeiterInnen
-    :url: about-us/staff
+    :url: about/staff
   - :title_en: The History of prometheus
     :title_de: Geschichte
-    :url: about-us/the-association-history
+    :url: about/the-association-history
   - :title_en: Our sponsors
     :title_de: Unsere Förderer
-    :url: about-us/sponsors
+    :url: about/sponsors
 - :title_en: prometheus is ...
   :title_de: prometheus ist ...
   :url: prometheus-is/index
@@ -263,4 +263,4 @@
       :url: tools-and-hints/tools/programs-projektor-editor
 - :title_en: Contact us
   :title_de: Kontakt
-  :url: about-us/association-contact
+  :url: about/association-contact
