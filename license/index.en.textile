@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accounts and licenses
+title: Registration and Licenses
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=33&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 h2. <%= page_title %>

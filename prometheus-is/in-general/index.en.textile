@@ -16,16 +16,16 @@ Download  "prometheus Flyer (PDF, 689 KB)!":<%=r 'files/text/prometheus_flyer_07
 h5. The licence model of prometheus
 
 p r o m e t h e u s   is a non-commercial image archive. Licence fees are charged exclusively for operating our services and the continuous development of our technologies.
-Additional information at „ "Registration and Licenses":<%=r 'licences/index' %> "
+Additional information at „ "Registration and Licenses":<%=r 'license/index' %> "
 
 
 h5. Prometheus can be used for scientific work.
 
 p r o m e t h e u s may be used in a variety of ways. Access to prometheus is possible with a license issued either to a campus or to an institute.  Private parties may apply for a personal account.
-Additional information at „ "Registration and licenses":<%=r 'licences/index' %> ”.
+Additional information at „ "Registration and Licenses":<%=r 'license/index' %> ”.
 
 
-See “ "Directory of License Holders":<%=r 'licences/licence-holders' %> ” to check if your institute has already signed up.
+See “ "Directory of License Holders":<%=r 'license/licence-holders' %> ” to check if your institute has already signed up.
 
 
 h5. Individual databases can be connected to prometheus

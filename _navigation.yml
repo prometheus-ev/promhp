@@ -72,22 +72,22 @@
     - :title_en: Theses
       :title_de: Diplomarbeiten
       :url: prometheus-is/publications/theses
-- :title_en: Accounts and licenses
+- :title_en: Registration and Licenses
   :title_de: Anmeldung und Lizenzen
-  :url: licences/index
+  :url: license/index
   :content:
   - :title_en: License fee
     :title_de: Lizenzgebühren
-    :url: licences/licence-fee
+    :url: license/licence-fee
   - :title_en: Instructions for administrators
     :title_de: Hinweise für AdministratorInnen
-    :url: licences/instructions-for-administrators
+    :url: license/instructions-for-administrators
   - :title_en: License holders
     :title_de: Liste der Lizenznehmer
-    :url: licences/licence-holders
+    :url: license/licence-holders
   - :title_en: Terms of Use
     :title_de: Nutzungsbedingungen
-    :url: licences/terms-of-use
+    :url: license/terms-of-use
 - :title_en: Copyright and usage
   :title_de: Bildrecht und Verwendung
   :url: copyright
