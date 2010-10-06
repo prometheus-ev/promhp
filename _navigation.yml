@@ -13,7 +13,7 @@
     :title_de: Der Verein
     :url: about/association
   - :title_en: Mission statement
-    :title_de: Vereinsziele
+    :title_de: Das Vereinsziel
     :url: about/mission-statement
   - :title_en: How to become a member
     :title_de: Mitglied werden
@@ -258,6 +258,6 @@
     - :title_en: projektor + editor
       :title_de: projektor + editor
       :url: tools-and-hints/tools/programs-projektor-editor
-- :title_en: Contact us
+- :title_en: Contact information
   :title_de: Kontakt
   :url: contact
