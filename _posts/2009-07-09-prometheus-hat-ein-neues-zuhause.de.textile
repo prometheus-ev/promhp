@@ -3,7 +3,7 @@ layout: post
 typo_id: 17
 title: prometheus hat ein neues Zuhause
 ---
-<a href="/files/aussicht_panurama_1.jpg"><img src="/files/aussicht_panurama_1_tmp.jpg" alt="Aussicht aus dem neuen Büro" /></a>
+<a href="<%=r 'files/blog/aussicht_panurama_1.jpg' %>"><img src="<%=r 'files/blog/aussicht_panurama_1_tmp.jpg' %>" alt="Aussicht aus dem neuen Büro" /></a>
 
 Das ist der Ausblick aus unserem neuen Büro. Die prometheus-Geschäftsstelle ist nämlich am 30.06.2009 in neue Räume
 umgezogen und befindet sich nun in der <a href="http://www.uni-koeln.de/bin2/where.pl?parent.geb413">Bernhard-Feilchenfeld-Straße 11</a> in Köln-Zollstock.

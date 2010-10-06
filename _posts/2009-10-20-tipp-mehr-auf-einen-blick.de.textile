@@ -3,7 +3,7 @@ layout: post
 typo_id: 33
 title: "Tipp: Mehr auf einen Blick"
 ---
-<img src="/files/galerie_treffer_pro_seite-1.png" alt="Treffer pro Seite und Galerieansicht" />
+<img src="<%=r 'files/blog/galerie_treffer_pro_seite-1.png' %>" alt="Treffer pro Seite und Galerieansicht" />
 
 In den Antworten der <a href="http://prometheus.khi.uni-koeln.de/blog/2009/06/12/nutzerbefragung-episode-zwei">Nutzerbefragung</a>, die wir vor einer Weile durchgeführt hatten, wurde unter anderem ein paar mal nachgefragt, wieso man in den Ergebnissen einer Suche <em>nur so wenige Bilder auf einen Blick</em> angezeigt bekäme.
 

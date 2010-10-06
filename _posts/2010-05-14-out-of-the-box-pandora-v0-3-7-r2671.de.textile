@@ -33,3 +33,4 @@ We have a short list of changes again, because just a few changes will affect ou
   With <a href="http://en.wikipedia.org/wiki/OAuth">OAuth</a> we provide a secure way to authenticate without giving away login data to another party.</li>
   <li><strong>Fixes and minor improvements</strong><br />
   Like in every update we have a lot of fixes an improvements. For instance a bug which broke searches with special characters like ":". And it is not possible to lock yourself out by accidentally sending the license form.</li>
+</ul>

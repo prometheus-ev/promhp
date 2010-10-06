@@ -20,7 +20,7 @@ Das Anzeigen der Sternchen in den Datenbankinformationen kann auf den ersten Bli
 	Wieso erwähne ich die eigentlich immer wieder? Ganz klar, weil sie einen gar nicht so kleinen Anteil an dem ausmachen, was wir hier ständig tun. Irgendwo schleicht sich immer irgendein Fehler ein. Außerdem ist uns natürlich klar, dass pandora durchaus schneller sein könnte, woran auch ständig gearbeitet wird. Mit diesem Update wurden zum Beispiel die Bildsammlungen ein bisschen beschleunigt.<br />
 	Am Benutzer-Interface wird auch dauernd gefeilt, so lassen sich unsere Erfolgs- und Fehlermeldungen jetzt per Mausklick entfernen, auch ohne die aktuelle Seite zu verlassen oder neu zu laden.</li>
 </ul>
-<a href="/files/collection_0_3_3.png"><img src="/files/collection_0_3_3_small.png" alt="Neuheiten in der Bildsammlung" /></a>
+<a href="<%=r 'files/blog/collection_0_3_3.png' %>"><img src="<%=r 'files/blog/collection_0_3_3_small.png' %>" alt="Neuheiten in der Bildsammlung" /></a>
 
 Interessant für die Admins unter den Lesern: <strong>Useradmins sehen nun alle Zugänge, für die sie zuständig sind.</strong><br />
   Bisher sind wir immer davon ausgegangen, dass ein Zugang mit unbestätigter Emailadresse seine Anmeldung noch nicht komplett abgeschlossen hat. Deshalb sind solche Zugänge auch nicht in den Listen der Useradmins aufgetaucht. Dabei hatten wir allerdings übersehen, dass es natürlich etwas seltsam für einen Useradmin ist, gerade einen Zugang für jemanden angelegt zu haben, diesen dann allerdings nicht in der Liste vorzufinden.<br />
