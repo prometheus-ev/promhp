@@ -57,7 +57,7 @@ Mehr Informationen: "http://www.ub.tu-berlin.de/architekturmuseum/index.html":ht
 
 *2.) Von der VG BILD-KUNST vertretene Künstlerinnen und Künstler in prometheus*
 
-Seit Anfang des Jahres dürfen in prometheus Bilder von Werken gezeigt und für Forschung und Lehre genutzt werden, die urheberrechtlich geschützt sind. Von dem hierfür grundlegenden Vertragsabschluß mit der VG BILD-KUNST hatten wir bereits berichtet [vgl. "prometheus newsletter 2007/01":<%=r 'prometheus-is/newsletter/2007-01' %>].
+Seit Anfang des Jahres dürfen in prometheus Bilder von Werken gezeigt und für Forschung und Lehre genutzt werden, die urheberrechtlich geschützt sind. Von dem hierfür grundlegenden Vertragsabschluß mit der VG BILD-KUNST hatten wir bereits berichtet [vgl. "prometheus newsletter 2007/01":<%=r 'prometheus/newsletter/2007-01' %>].
 
 Alle diese geschützten Werke sind nun eigens gekennzeichnet. Bei der Recherche im prometheus-Archiv tauchen im Feld „Bildnachweis“ eine copyright-Notiz und eine Verknüpfung zur VG BILD-KUNST auf. Dies erleichtert den Nutzerinnen und Nutzern einen rechtlich angemessenen Umgang mit den Bildern.
 

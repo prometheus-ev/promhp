@@ -33,45 +33,45 @@
   - :title_en: Our sponsors
     :title_de: Unsere Förderer
     :url: about/sponsors
-- :title_en: prometheus is ...
-  :title_de: prometheus ist ...
-  :url: prometheus-is/index
+- :title_en: prometheus is...
+  :title_de: prometheus ist...
+  :url: prometheus/index
   :content:
   - :title_en: In general
     :title_de: Allgemein
-    :url: prometheus-is/in-general/index
+    :url: prometheus/in-general/index
     :content:
     - :title_en: User instructions to the image archive
       :title_de: Hinweise zur Nutzung des Bildarchivs
-      :url: prometheus-is/in-general/user-instructions-to-the-image-archive
+      :url: prometheus/in-general/user-instructions-to-the-image-archive
     - :title_en: Description of the image archive
       :title_de: Beschreibung des Bildarchivs
-      :url: prometheus-is/in-general/description-of-the-image-archive
+      :url: prometheus/in-general/description-of-the-image-archive
     - :title_en: Technisches System
       :title_de: Technisches System
-      :url: prometheus-is/in-general/description-of-the-technical-system
+      :url: prometheus/in-general/description-of-the-technical-system
   - :title_en: pandora
     :title_de: pandora
-    :url: prometheus-is/pandora/index
+    :url: prometheus/pandora/index
   - :title_en: Newsletter
     :title_de: Newsletter
-    :url: prometheus-is/newsletter/index
+    :url: prometheus/newsletter/index
   - :title_en: Publications
     :title_de: Publicationen
-    :url: prometheus-is/publications/index
+    :url: prometheus/publications/index
     :content:
     - :title_en: Press releases
       :title_de: Presseerklärungen
-      :url: prometheus-is/publications/press-releases
+      :url: prometheus/publications/press-releases
     - :title_en: Press reactions
       :title_de: Pressereaktionen
-      :url: prometheus-is/publications/press-reactions
+      :url: prometheus/publications/press-reactions
     - :title_en: Scientific articles
       :title_de: Wissenschaftliche Beiträge
-      :url: prometheus-is/publications/scientific-articles
+      :url: prometheus/publications/scientific-articles
     - :title_en: Theses
       :title_de: Diplomarbeiten
-      :url: prometheus-is/publications/theses
+      :url: prometheus/publications/theses
 - :title_en: Registration and Licenses
   :title_de: Anmeldung und Lizenzen
   :url: license/index

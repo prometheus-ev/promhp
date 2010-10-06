@@ -11,7 +11,7 @@ This list features abbreviated versions of each database as well as contact deta
 
 
 *A unified search interface for non-uniform databases?*
-The capability of searching in a heterogenous database (databases with different data structure) is specified in the "short description of the technical system":<%=r 'prometheus-is/in-general/description-of-the-technical-system' %> (in german).
+The capability of searching in a heterogenous database (databases with different data structure) is specified in the "short description of the technical system":<%=r 'prometheus/in-general/description-of-the-technical-system' %> (in german).
 
 
 
