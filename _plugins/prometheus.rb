@@ -83,6 +83,14 @@ module Jekyll
       generate_navigation
     end
 
+    alias_method :_prometheus_original_process, :process
+
+    # Overwrites the original method to fix handling of dotfiles.
+    def process(name)
+      _prometheus_original_process(name)
+      self.basename = name if basename.empty?
+    end
+
     def generate_navigation
       unless self.data['navigation']
         self.data['navigation'] = ''
