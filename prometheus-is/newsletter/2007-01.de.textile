@@ -116,7 +116,7 @@ Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
 
 
 
-Eine Liste aller bereits lizenznehmenden Institutionen finden Sie "hier":<%=r 'license/licence-holders' %> auf der prometheus-website.
+Eine Liste aller bereits lizenznehmenden Institutionen finden Sie "hier":<%=p 'institution/licensed' %> auf der prometheus-website.
 
 
 

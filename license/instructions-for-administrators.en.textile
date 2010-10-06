@@ -5,7 +5,7 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=51&L=1&skin=&tx_ttnews[
 ---
 h2. <%= page_title %>
 
-Institutions and schools which hold a license or participate in a campus license may ask at the prometheus office for an *administrative account* free of charge. (cf. "list of license holders":<%=r 'license/licence-holders' %>)
+Institutions and schools which hold a license or participate in a campus license may ask at the prometheus office for an *administrative account* free of charge. (cf. "list of license holders":<%=p 'institution/licensed' %>)
 
 
 

@@ -25,7 +25,7 @@ p r o m e t h e u s may be used in a variety of ways. Access to prometheus is po
 Additional information at „ "Registration and Licenses":<%=r 'license/index' %> ”.
 
 
-See “ "Directory of License Holders":<%=r 'license/licence-holders' %> ” to check if your institute has already signed up.
+See “ "Directory of License Holders":<%=p 'institution/licensed' %> ” to check if your institute has already signed up.
 
 
 h5. Individual databases can be connected to prometheus
