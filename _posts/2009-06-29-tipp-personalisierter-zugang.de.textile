@@ -10,4 +10,4 @@ Die Erstellung eines personalisierten Zugangs ist denkbar einfach. Klicken Sie a
 
 Und falls es doch mal schnell gehen muss, ist es natürlich weiterhin möglich, den Campus-Zugang zu verwenden.
 
-P.S.: Ein Blick in meine Kristallkugel sagt mir außerdem, dass der personalisierte Zugang in Zukunft noch einige weitere Funktionen ermöglichen wird, ich hatte im <a href="http://prometheus.khi.uni-koeln.de/blog/2009/06/18/out-of-the-box-pandora-v0-1-8-r1775">letzten Posting</a> ja bereits darauf hingewiesen (Stichwort: "Forken").
+P.S.: Ein Blick in meine Kristallkugel sagt mir außerdem, dass der personalisierte Zugang in Zukunft noch einige weitere Funktionen ermöglichen wird, ich hatte im <a href="<%=r 'post/out-of-the-box-pandora-v0-1-8-r1775' %>">letzten Posting</a> ja bereits darauf hingewiesen (Stichwort: "Forken").

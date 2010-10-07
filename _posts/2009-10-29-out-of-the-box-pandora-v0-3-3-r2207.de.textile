@@ -5,7 +5,7 @@ title: "Out of the box: pandora v0.3.3 (r2207)"
 ---
 <em>English summary <a href="#english-1256745104">below</a>.</em>
 
-Mein lieber Herr Gesangsverein, dieses Mal habe ich aber einiges zu schreiben. Es hat sich viel getan in <a href="http://prometheus.uni-koeln.de/pandora/about" title="About pandora">pandora</a>-Land, seit wir vor nunmehr <a href="http://de.wikipedia.org/wiki/42_(Antwort)" title="Wikipedia: 42">42</a> Tagen das <a href="http://prometheus.khi.uni-koeln.de/blog/2009/09/17/out-of-the-box-pandora-v0-3-2-r2094" title="Out of the box: pandora v0.3.2 (r2094)">letzte Mal unsere Änderungen zur Benutzung freigegeben haben</a>.<br />
+Mein lieber Herr Gesangsverein, dieses Mal habe ich aber einiges zu schreiben. Es hat sich viel getan in <a href="http://prometheus.uni-koeln.de/pandora/about" title="About pandora">pandora</a>-Land, seit wir vor nunmehr <a href="http://de.wikipedia.org/wiki/42_(Antwort)" title="Wikipedia: 42">42</a> Tagen das <a href="<%=r 'post/out-of-the-box-pandora-v0-3-2-r2094' %>" title="Out of the box: pandora v0.3.2 (r2094)">letzte Mal unsere Änderungen zur Benutzung freigegeben haben</a>.<br />
 Deshalb spare ich mir hier jetzt auch weiteren Text und verbrauche die wertvollen Buchstaben lieber, um ein paar Worte darüber zu verlieren, wie sich unsere immerhin <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=10%2F29%2F09&daysback=41">113 Änderungen</a> auf das Arbeiten mit dem Bildarchiv auswirken.
 
 <ul>

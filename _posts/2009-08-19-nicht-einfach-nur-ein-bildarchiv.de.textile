@@ -4,7 +4,7 @@ typo_id: 25
 title: Nicht einfach nur ein Bildarchiv
 ---
 Ein ganz normales Bildarchiv war das prometheus-Bildarchiv noch nie. Durch die Zusammenführung der verschiedensten Bilddatenbanken, um sie unter einer Oberfläche komfortabel recherchierbar zu machen, unterscheidet sich prometheus von anderen Archiven.<br />
-Mit dem <a href="http://prometheus.khi.uni-koeln.de/blog/2009/08/19/out-of-the-box-pandora-v0-3-0-r2039">heutigen Update</a> sind wir einen weiteren Schritt gegangen. Es genügte uns nicht, dass unsere BenutzerInnen das Archiv nur konsumierend nutzen konnten. Wir möchten nun den Netzwerkgedanken gerne weiterdenken und kollaboratives Arbeiten unter unseren BenutzerInnen ermöglichen. So können jetzt persönliche Bildsammlungen für andere freigegeben werden. An diesen kann auf verschiedene Arten gemeinsam gearbeitet werden, so dass ein Mehrwert für alle entsteht. Ziemlich cool, oder?
+Mit dem <a href="<%=r 'post/out-of-the-box-pandora-v0-3-0-r2039' %>">heutigen Update</a> sind wir einen weiteren Schritt gegangen. Es genügte uns nicht, dass unsere BenutzerInnen das Archiv nur konsumierend nutzen konnten. Wir möchten nun den Netzwerkgedanken gerne weiterdenken und kollaboratives Arbeiten unter unseren BenutzerInnen ermöglichen. So können jetzt persönliche Bildsammlungen für andere freigegeben werden. An diesen kann auf verschiedene Arten gemeinsam gearbeitet werden, so dass ein Mehrwert für alle entsteht. Ziemlich cool, oder?
 
 Im Grunde kann eine Sammlung für alle oder oder auch nur für einige bestimmte BenutzerInnen freigegeben werden. Bei der Freigabe wird zwischen dem Erlauben von lesendem oder schreibendem Zugriff unterschieden.<br />
 Habe ich lesenden Zugriff auf eine Sammlung, kann ich diese nur ansehen. Möchte ich Änderungen an ihr vornehmen, habe ich jedoch die Möglichkeit eine Kopie der Bildsammlung zu erstellen, die dann mir gehört (<a href="http://de.wikipedia.org/wiki/Fork_(Softwareentwicklung)" title="Abspaltung (Softwareentwicklung)  Wikipedia">forken</a>). Mit dieser Sammlung kann ich dann machen was ich möchte.<br />
@@ -12,9 +12,9 @@ Wurde mir auch das Schreibrecht gewährt, kann ich direkt aktiv mitarbeiten und 
 
 Diese verschiedenen Zugriffsrechte lassen sich so kombinieren, dass auch sehr individuelle Freigaben möglich sind.<br />
 Ein Beispiel: Ich könnte ja zusammen mit Karl (<em>den ich gerade erfunden habe!</em>) ein Seminar anbieten. Weil Karl sich mal wieder viel besser auskennt, gebe ich meine Bildsammlung an ihn als <em>Mitarbeiter</em> frei. So können wir gemeinsam daran arbeiten. Die TeilnehmerInnen des Seminars werden von uns als <em>Beobachter</em> hinzugefügt. Sie können unser Werk nun bewundern, kluge Dinge darüber sagen und die Bildsammlung kopieren um sie als eigenes Projekt weiter zu entwickeln.
-	
+
 Das Seminar war ein voller Erfolg. Und weil ich weiß, dass es anderswo auch Seminare zu meinem Thema gibt, gebe ich die Bildsammlung für alle BenutzerInnen des prometheus-Bildarchivs als lesbar frei.<br />
 Es nutzen auch einige Leute mein Angebot, und kopieren meine Sammlung um sie für ihre Zwecke anzupassen. Ich bekomme aber auch immer wieder Nachrichten mit Verbesserungsvorschlägen über meine Profilseite zugesandt. Doch anstatt die Sammlung von Karl und mir zu verändern, erstelle ich eine Kopie von ihr und gebe sie für alle als schreibbar frei. Nun kann sie laufend als Gesamtprojekt aller weiterentwickelt und verbessert werden.
-		
+
 Ich gebe zu: das ist schon ein sehr konstruiertes Beispiel, doch zeigt es auf, wieviel mehr das prometheus-Bildarchiv nun zu bieten hat. Aus prometheus wurde eine kollaborative Arbeitsplattform. Eine Entwicklung, die wir auch in Zukunft gerne fortsetzen möchten.<br />
 Wir würden uns sehr freuen, wenn auch Sie von diesen Entwicklungen profitieren. Geben Sie doch einfach mal eine Ihrer Bildsammlungen frei. Und sollten Sie mal nicht so recht weiterwissen, werfen sie doch mal einen Blick in unsere <a href="http://prometheus.uni-koeln.de/pandora/help">frisch überarbeitete Hilfe</a>. Dort wird noch mal alles ganz genau erklärt.
