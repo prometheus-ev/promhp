@@ -42,6 +42,22 @@
   height:            100px;
 }
 
+#facts {
+  text-align:        right;
+  margin-right:      10px;
+  line-height:       30px;
+  font-weight:       bold;
+  color:             rgb(144,144,144);
+}
+
+#facts a {
+  color:             inherit;
+}
+
+#facts a:hover {
+  text-decoration:   underline;
+}
+
 .login_form {
   margin-top:        0;
 }
@@ -63,20 +79,12 @@
   white-space:       normal;
 }
 
-#facts {
-  text-align:        right;
-  margin-right:      10px;
-  line-height:       30px;
-  font-weight:       bold;
-  color:             rgb(144,144,144);
+#login_wrap + #campus_login_wrap {
+  margin-top:        2px;
 }
 
-#facts a {
-  color:             inherit;
-}
-
-#facts a:hover {
-  text-decoration:   underline;
+#campus_login_wrap + #navigation {
+  margin-top:        1px;
 }
 
 #navigation {
@@ -89,6 +97,7 @@
 
 #navigation ul {
   list-style-type:   none;
+  margin:            0;
   padding:           0;
 }
 
