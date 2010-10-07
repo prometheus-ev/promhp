@@ -11,4 +11,4 @@ paginate_files:
 - blog.en.html
 pygments: true
 exclude: [Rakefile]
-permalink: /:year/:month/:day/:title
+permalink: /:year-:month-:day/:title
