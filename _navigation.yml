@@ -48,7 +48,7 @@
     :url: prometheus/details
   - :title_en: pandora
     :title_de: pandora
-    :url: prometheus/pandora
+    :url: <%= pandora_url 'about' %>
   - :title_en: Newsletter
     :title_de: Newsletter
     :url: prometheus/newsletter/index
@@ -254,6 +254,3 @@
   - :title_en: PKND
     :title_de: PKND
     :url: tools/pknd
-- :title_en: Contact Information
-  :title_de: Kontakt
-  :url: contact
