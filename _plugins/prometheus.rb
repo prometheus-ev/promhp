@@ -124,6 +124,28 @@ module Jekyll
       end
     end
 
+    def paginator_previous_link(link_text = '&lt;&lt;')
+      if @paginator.page == 2
+        href = 'blog' # TODO: Make this dynamic.
+      elsif @paginator.page > 2
+        href = "page#{@paginator.previous_page}"
+      end
+      href ? "<a href=\"#{r(href)}\">#{link_text}</a>" : link_text
+    end
+
+    def paginator_next_link(link_text = '&gt;&gt;')
+      if @paginator.page == @paginator.total_pages
+        link_text
+      else
+        href = "page#{@paginator.next_page}"
+        "<a href=\"#{r(href)}\">#{link_text}</a>"
+      end
+    end
+
+    def paginator_navigation(previous_link = '&lt;&lt;', next_link = '&gt;&gt;')
+      "#{paginator_previous_link(previous_link)} | #{@paginator.page} | #{paginator_next_link(next_link)}"
+    end
+
   end
 
 end

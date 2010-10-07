@@ -11,7 +11,5 @@ title: prometheus-Blog
   <%= post.content %>
 <% end %>
 <p>
-<a href="<%=r 'page' + @paginator.previous_page.to_s %>/">&lt;&lt;</a> |
-<%= @paginator.page %> |
-<a href="<%=r 'page' + @paginator.next_page.to_s %>/">&gt;&gt;</a>
+<%= paginator_navigation %>
 </p>
