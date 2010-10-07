@@ -1,4 +1,5 @@
-url: http://prometheus-bildarchiv.de
+#url: http://prometheus-bildarchiv.de
+url: http://cartman.rrz.uni-koeln.de:2273
 author: prometheus
 email: info@prometheus-bildarchiv.de
 title: The prometheus Image Archive
