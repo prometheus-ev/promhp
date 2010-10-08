@@ -17,42 +17,7 @@ module Jekyll
 
   end
 
-  class Page
-
-    include Helpers
-
-    alias_method :_prometheus_original_initialize, :initialize
-
-    def initialize(site, base, dir, name)
-      _prometheus_original_initialize(site, base, dir, name)
-
-      data['navigation'] = render_navigation_level(
-        YAML.load(
-          ERB.new(
-            File.read(
-              File.join(@site.source, '_navigation.yml')
-            )
-          ).result(binding)
-        )
-      )
-    end
-
-    alias_method :_prometheus_original_process, :process
-
-    # Overwrites the original method to fix handling of dotfiles.
-    def process(name)
-      _prometheus_original_process(name)
-      self.basename = name if basename.empty?
-    end
-
-    alias_method :_pagination_original_index?, :index?
-
-    def index? # TODO: Puzzle the whole "pagination index in a subdir" stuff in jekyll-pagination gem.
-      file = File.join(@dir, name)[1..-1]
-      Pager.paginate_files(@site.config).include?(file)
-    end
-
-    private
+  module Navigation
 
     def render_navigation_level(level)
       "<ul>\n#{level.inject('') { |out, i| out << render_navigation_item(i) if i }}</ul>\n"
@@ -75,9 +40,67 @@ module Jekyll
         (item[:content] || []).any? { |i| active?(i, path) }
     end
 
+    def load_navigaion
+      render_navigation_level(
+        YAML.load(
+          ERB.new(
+            File.read(
+              File.join(@site.source, '_navigation.yml')
+            )
+          ).result(binding)
+        )
+      )
+    end
+
+  end
+
+  class Page
+
+    include Helpers
+    include Navigation
+
+    alias_method :_prometheus_original_initialize, :initialize
+
+    def initialize(site, base, dir, name)
+      _prometheus_original_initialize(site, base, dir, name)
+
+      data['navigation'] = load_navigaion
+    end
+
+    alias_method :_prometheus_original_process, :process
+
+    # Overwrites the original method to fix handling of dotfiles.
+    def process(name)
+      _prometheus_original_process(name)
+      self.basename = name if basename.empty?
+    end
+
+    alias_method :_pagination_original_index?, :index?
+
+    def index? # TODO: Puzzle the whole "pagination index in a subdir" stuff in jekyll-pagination gem.
+      file = File.join(@dir, name)[1..-1]
+      Pager.paginate_files(@site.config).include?(file)
+    end
+
   end
 
   class Post
+
+    include Helpers
+    include Navigation
+
+    alias_method :_prometheus_original_initialize, :initialize
+
+    def initialize(site, source, dir, name)
+      _prometheus_original_initialize(site, source, dir, name)
+
+      @dir = send(:dir)
+      data['navigation'] = load_navigaion
+    end
+
+    def basename
+      slug.sub(/\.[a-z]{2}\z/, '')
+    end
 
     def title
       to_hash['title']
