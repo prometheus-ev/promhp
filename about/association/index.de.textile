@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Das Vereinsziel
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=45
+title: prometheus - Der Verein
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=11
 ---
 h2. <%= page_title %>
 
+*prometheus e.V. trägt seit 2003 das Bildarchiv prometheus.*
+
+h5. Das Vereinsziel
 
 Der Zweck des Vereins ist die Förderung von Wissenschaft und Forschung durch die Entwicklung, Bereitstellung und Anwendung der digitalen Medien im kunst- und kulturhistorischen Bereich.
 Der Verein fördert ihren Einsatz in der Aus- und Weiterbildung, Forschung und Lehre und fühlt sich besonders den Hochschulen, Forschungseinrichtungen, Museen, Archiven und der Denkmalpflege verpflichtet.
@@ -31,3 +34,14 @@ Das didaktische Konzept sieht daher vor, eine problemorientierte, adaptive und m
 In den bisherigen Evaluationen wurde deutlich, dass die Präsenzlehre keine Einschränkung durch den Einsatz von starrem, vorgegebenem Material erfahren darf. Vielmehr müssen Angebote für die Lehrenden vorgehalten werden, durch die sie ihre Hochschullehre in Verbindung mit ihrer Forschungsarbeit individuell und aktiv gestalten können. Die über prometheus angebotene Lernplattform, die Werkzeuge und die Lerninhalte verstehen sich als solche Angebote. Das Selbststudium gewinnt neben der Präsenzlehre eine dynamische Aktualität und ermöglicht den Lernenden den Zugang zur aktuellen Forschungsdiskussion und die Beteiligung an der Forschung und Lehre als Hinführung zu ihrer zukünftigen wissenschaftlichen Tätigkeit – nicht nur an Hochschulen.
 
 Die Anwenderinnen und Anwender stellen jeweils aus ihrer Perspektive – Lehren, Lernen und Forschen – ganz unterschiedliche Ansprüche an p r o m e t h e u s , denen wir gerecht werden wollen. Aus der Perspektive des Forschens steht das Bildarchiv mit seinen medienspezifischen Werkzeugen (Recherche, Arbeitsmappe, Präsentation) im Vordergrund. Aus der Sicht der Lernenden sind es neben dem Bildarchiv schwerpunktmäßig die Angebote der Lerninhalte und aus der Perspektive der Lehre bietet die Lernplattform ILIAS die Möglichkeit, relativ einfach die traditionelle Präsenzlehre mit den angebotenen Lerninhalten zu verbinden.
+
+
+Hervorgegangen ist der Verein aus dem Verbundprojekt "prometheus  Das verteilte digitale Bildarchiv für Forschung und Lehre" des Förderprogramms "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
+
+"» zur Geschichte des Projektes und des Vereins":<%=r 'about/history' %>
+
+
+
+*Engagieren Sie sich bei prometheus e.V!*
+
+"» Mitglied werden":<%=r 'about/association/membership' %>

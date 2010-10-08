@@ -51,3 +51,13 @@ Während der Projektlaufzeit konnten über die angestrebten Projektziele hinaus 
 Um das Erreichte zu verstetigen, wurde schon während der Projektlaufzeit am 24. März 2003 der Verein  „prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.“ gegründet.
 Der Verein trat zum 1. April 2004 die Rechtsnachfolge des Projekts mit dem Ziel an, die Finanzierung und technische Struktur von prometheus sicherzustellen und das Bildarchiv einschließlich der Lernelemente weiter zu entwickeln.
 Die prometheus–Geschäftsstelle hat ihren Sitz am Kunsthistorischen Institut der Universität zu Köln.
+
+h5. Unsere Förderer
+
+| !<%=r 'files/images/bmbf.jpg' %>!:http://www.bmbf.de
+"Bundesministerium fürBildung und Forschung":http://www.bmbf.de/ |"Sal. Oppenheim-Stiftung zur Förderung der
+Wissenschaften Köln":http://www.stifterverband.de/site/php/stiftung.php?SID=&seite=StiftungDetail&stiftung=168&herkunft=0&detailansprechnr=463&detailexansprechnr |
+| !<%=r 'files/images/siegel2.gif' %>!:http://www.uni-koeln.de/
+"Universität zu Köln":http://www.uni-koeln.de/ |!<%=r 'files/images/phil_siegel.gif' %>!:http://phil-fak.uni-koeln.de/
+"Philosophische Fakultät
+der Universität zu Köln":http://phil-fak.uni-koeln.de/ |

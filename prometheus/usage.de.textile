@@ -1,8 +1,0 @@
----
-layout: default
-title: Hinweise zur Nutzung des Bildarchivs
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=74
----
-h2. <%= page_title %>
-
-Wie Sie im Bildarchiv recherchieren können und welche Werkzeuge Sie für die Arbeit mit den Bildern und die Präsentation nutzen können, erfahren Sie innerhalb des Bildarchivs unter "Hilfe":http://prometheus.uni-koeln.de/pandora/de/help.

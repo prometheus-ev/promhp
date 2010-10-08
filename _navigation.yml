@@ -6,15 +6,6 @@
   :title_de: prometheus ist...
   :url: prometheus
   :content:
-  - :title_en: ...an Image Archive
-    :title_de: ...ein Bildarchiv
-    :url: prometheus/description
-  - :title_en: User Instructions
-    :title_de: Hinweise zur Nutzung des Bildarchivs
-    :url: prometheus/usage
-  - :title_en: Technical Details
-    :title_de: Technisches System
-    :url: prometheus/details
   - :title_en: pandora
     :title_de: pandora
     :url: <%= pandora_url 'about' %>
@@ -25,86 +16,98 @@
     :title_de: Publikationen
     :url: prometheus/publications
     :content:
+    - :title_en: Scientific Articles
+      :title_de: Wissenschaftliche Beiträge
+      :url: prometheus/publications/scientific-articles
     - :title_en: Press Releases
       :title_de: Presseerklärungen
       :url: prometheus/publications/press-releases
     - :title_en: Press Reactions
       :title_de: Pressereaktionen
       :url: prometheus/publications/press-reactions
-    - :title_en: Scientific Articles
-      :title_de: Wissenschaftliche Beiträge
-      :url: prometheus/publications/scientific-articles
     - :title_en: Theses
       :title_de: Diplomarbeiten
       :url: prometheus/publications/theses
 - :title_en: About Us
   :title_de: Wir über uns
-  :url: about
+  :url: about/history
   :content:
+  - :title_en: Project History
+    :title_de: Projektgeschichte
+    :url: about/history
   - :title_en: The Association
     :title_de: Der Verein
     :url: about/association
-  - :title_en: Mission Statement
-    :title_de: Das Vereinsziel
-    :url: about/mission-statement
-  - :title_en: How to become a Member
-    :title_de: Mitglied werden
-    :url: about/membership
-  - :title_en: Articles (German)
-    :title_de: Satzung
-    :url: about/articles
-  - :title_en: Executive Board
-    :title_de: Vorstand
-    :url: about/executive-board
+    :content:
+    - :title_en: Articles (German)
+      :title_de: Satzung
+      :url: about/association/articles
+    - :title_en: Executive Board
+      :title_de: Vorstand
+      :url: about/association/executive-board
+    - :title_en: How to become a Member
+      :title_de: Mitglied werden
+      :url: about/association/membership
   - :title_en: Members of Staff
     :title_de: MitarbeiterInnen
     :url: about/staff
-  - :title_en: The History of prometheus
-    :title_de: Geschichte
-    :url: about/history
-  - :title_en: Our Sponsors
-    :title_de: Unsere Förderer
-    :url: about/sponsors
-- :title_en: Registration and Licenses
-  :title_de: Anmeldung und Lizenzen
+- :title_en: Licenses
+  :title_de: Lizenzen
   :url: license
   :content:
+  - :title_en: License Model
+    :title_de: Lizenzmodell
+    :url: license
   - :title_en: License Fees
     :title_de: Lizenzgebühren
     :url: license/fees
-  - :title_en: Instructions for Administrators
-    :title_de: Hinweise für AdministratorInnen
-    :url: license/instructions-for-administrators
   - :title_en: License Holders
     :title_de: Liste der Lizenznehmer
     :url: <%= pandora_url 'institution/licensed' %>
+  - :title_en: Instructions for Administrators
+    :title_de: Hinweise für AdministratorInnen
+    :url: license/instructions-for-administrators
+- :title_en: Legal
+  :title_de: Rechtliches
+  :url: copyright
+  :content:
+  - :title_en: Copyright and Usage
+    :title_de: Bildrecht und Verwendung
+    :url: copyright
   - :title_en: Terms of Use
     :title_de: Nutzungsbedingungen
     :url: <%= pandora_url 'terms_of_use' %>
-- :title_en: Copyright and Usage
-  :title_de: Bildrecht und Verwendung
-  :url: copyright
-- :title_en: Information for Database Suppliers
-  :title_de: Informationen für Datenbankgeber
+- :title_en: Databases
+  :title_de: Datenbanken
   :url: databases
   :content:
-  - :title_en: Supplying Data
-    :title_de: Bereitstellung der Daten
-    :url: databases/data-supply
-  - :title_en: Metadata - Contents
-    :title_de: Metadaten - Inhalte
-    :url: databases/metadata-contents
-  - :title_en: Metadata - Formats
-    :title_de: Metadaten - Formate
-    :url: databases/metadata-formats
-  - :title_en: Media - Formats
-    :title_de: Medien - Formate
-    :url: databases/media-formats
-  - :title_en: promDILPS
-    :title_de: promDILPS
-    :url: databases/promdilps
-- :title_en: Projects and Cooperations
-  :title_de: Projekte und Kooperationen
+  - :title_en: Information for Data Suppliers
+    :title_de: Informationen für Bildgeber
+    :url: databases
+    :content:
+    - :title_en: Supplying Data
+      :title_de: Bereitstellung der Daten
+      :url: databases/data-supply
+    - :title_en: Metadata - Contents
+      :title_de: Metadaten - Inhalte
+      :url: databases/data-supply/metadata-contents
+    - :title_en: Metadata - Formats
+      :title_de: Metadaten - Formate
+      :url: databases/data-supply/metadata-formats
+    - :title_en: Media - Formats
+      :title_de: Medien - Formate
+      :url: databases/data-supply/media-formats
+    - :title_en: promDILPS
+      :title_de: promDILPS
+      :url: databases/promdilps
+  - :title_en: List of Databases
+    :title_de: Liste der Datenbanken
+    :url: <%= pandora_url 'source' %>
+  - :title_en: List of Open Access-Databases
+    :title_de: Liste der Open Access-Datenbanken
+    :url: <%= pandora_url 'open_access' %>
+- :title_en: Projects
+  :title_de: Projekte
   :url: projects
   :content:
   - :title_en: Meta-Image
