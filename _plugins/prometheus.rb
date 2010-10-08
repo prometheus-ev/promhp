@@ -45,6 +45,13 @@ module Jekyll
       self.basename = name if basename.empty?
     end
 
+    alias_method :_pagination_original_index?, :index?
+
+    def index? # TODO: Puzzle the whole "pagination index in a subdir" stuff in jekyll-pagination gem.
+      file = File.join(@dir, name)[1..-1]
+      Pager.paginate_files(@site.config).include?(file)
+    end
+
     private
 
     def render_navigation_level(level)
@@ -144,6 +151,40 @@ module Jekyll
 
     def paginator_navigation(previous_link = '&lt;&lt;', next_link = '&gt;&gt;')
       "#{paginator_previous_link(previous_link)} | #{@paginator.page} | #{paginator_next_link(next_link)}"
+    end
+
+  end
+
+  class Pagination
+
+    alias_method :_pagination_original_generate, :generate
+
+    def generate(site)
+      site.pages.dup.each do |page|
+        file = File.join(page.instance_variable_get(:@dir), page.name)[1..-1]
+        paginate(site, page) if Pager.pagination_enabled?(site.config, file)
+      end
+    end
+
+    alias_method :_pagination_original_paginate, :paginate
+
+    def paginate(site, page)
+
+      def page.dir
+        @dir
+      end
+
+      Page.send(:define_method, :dir=) { |dir|
+        dir = dir.split('/')
+        dir.delete_at(dir.size - 2)
+        @dir = dir.join('/')
+      }
+
+      _pagination_original_paginate(site, page)
+
+      class << page
+        remove_method :dir
+      end
     end
 
   end

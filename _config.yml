@@ -7,8 +7,8 @@ pandora_url: http://localhost:3000
 engine: erb
 paginate: 10
 paginate_files:
-- blog.de.html
-- blog.en.html
+- blog/index.de.html
+- blog/index.en.html
 pygments: true
 exclude: [Rakefile]
 permalink: /post/:title
