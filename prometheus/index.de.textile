@@ -17,13 +17,13 @@ h5. Das Lizenzmodell von prometheus
 
 prometheus ist ein nicht-kommerzielles Bildarchiv. Die Lizenzen werden nicht auf die Bilder erhoben, sondern dienen ausschließlich zur Deckung der Betriebskosten, die für Erhaltung, Pflege und Ausbau des Bildarchivs (Aktualisierung, Einbindung neuer Datenbanken) notwendig sind. Der gemeinnützige Verein prometheus verfolgt mit der Lizenzierung des prometheus Bildarchivs keinen kommerziellen Zweck.
  
-Mehr Informationen zu  "» Anmeldung und Lizenzen":<%=r 'license/index' %>
+Mehr Informationen zu  "» Anmeldung und Lizenzen":<%=r 'license' %>
 
 
 h5. Binden Sie Ihre Datenbank in prometheus ein
 
 Wollen Sie Ihre Datenbank in prometheus einbinden und die Vorteile von prometheus nutzen?
- "» Info für Datenbankgeber":<%=r 'databases/index' %>
+ "» Info für Datenbankgeber":<%=r 'databases' %>
  
 Für kleinere Bildsammlungen stellen wir die Bilddatenbank DILPS zur Verfügung.
 mehr zu  "» DILPS":<%=r 'databases/promdilps' %>

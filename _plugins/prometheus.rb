@@ -71,7 +71,8 @@ module Jekyll
     end
 
     def active?(item, path)
-      item[:url] == path || item[:content] && item[:content].any? { |i| active?(i, path) }
+      path =~ /\A#{Regexp.escape(item[:url])}/ ||
+        (item[:content] || []).any? { |i| active?(i, path) }
     end
 
   end

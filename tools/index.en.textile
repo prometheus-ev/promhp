@@ -14,17 +14,17 @@ These can be texts or Internet addresses, however also practical aid programs up
 
 
 
-"» Reference manuals":<%=r 'tools/manuals/index' %>
+"» Reference manuals":<%=r 'tools/manuals' %>
 Here you find handouts and materials intended for your own use or to be used with training courses.
 
 
 
-"» Programs":<%=r 'tools/programs/index' %>
+"» Programs":<%=r 'tools/programs' %>
 Here you find practical tools for the use in lessons or in private study.
 
 
 
-"» Data bases":<%=r 'tools/databases/index' %>
+"» Data bases":<%=r 'tools/databases' %>
 Image data base applications
 
 

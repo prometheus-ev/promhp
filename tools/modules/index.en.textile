@@ -9,10 +9,10 @@ These digital study contents are offered free of charge to support both the pres
 The categories are geared to media-compatible concepts for different fields of knowledge:
 
 
-"» Topic room":<%=r 'tools/modules/topic-room/index' %> for a combination of all different kinds of knowledge,
-"» Method-Coach":<%=r 'tools/modules/method-coach/index' %> for procedural knowledge,
-"» Knowledge-Coach":<%=r 'tools/modules/knowledge-coach/index' %> for declarative knowledge
-"» Study Units":<%=r 'tools/modules/units/index' %> for the curricular composition of the subject matter
+"» Topic room":<%=r 'tools/modules/topic-room' %> for a combination of all different kinds of knowledge,
+"» Method-Coach":<%=r 'tools/modules/method-coach' %> for procedural knowledge,
+"» Knowledge-Coach":<%=r 'tools/modules/knowledge-coach' %> for declarative knowledge
+"» Study Units":<%=r 'tools/modules/units' %> for the curricular composition of the subject matter
 
 
 

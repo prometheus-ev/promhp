@@ -1,26 +1,25 @@
 ---
 ---
-<% host          = 'cartman.rrz.uni-koeln.de'  # TODO: @site.url[/\/([^\/:]+)/, 1]
-   lang_ext      = '([a-z]{2})'
+<% lang_ext      = '([a-z]{2})'
    multiview_ext = "(?:\\.html(?:\\.#{lang_ext.delete('()')})?)?" %>
 RewriteEngine On
 
 # Recognize language code in URL; save to cookie and environment variable
 RewriteCond %{REQUEST_URI} \A/<%= lang_ext %>(/.*)
-RewriteRule \A.*\z %2 [CO=language:%1:<%= host %>:525600,E=LANG:%1]
+RewriteRule .* %2 [CO=language:%1:<%= @site.url[/\/([^\/:]+)/, 1] %>:525600,E=LANG:%1]
+
 # Extract preferred language from cookie and environment variable
 SetEnvIf Cookie        language=<%= lang_ext %>\b prefer-language=$1
 SetEnvIf REDIRECT_LANG        \A<%= lang_ext %>\z prefer-language=$1
 
-# blog
-RewriteRule \Ablog<%= multiview_ext %>/\z /blog [L,R=permanent]
-RewriteRule \Ablog<%= multiview_ext %>(/.*) $1 [L,R=permanent]
+# Blog
+RewriteRule \Ablog<%= multiview_ext %>(?:/\d+){3}(/.+) /blog$1 [L,R=permanent]
 
-# typo3
+# Typo3
 RewriteCond %{QUERY_STRING} (?:\A|&)cHash=([\da-f]+)(?:&|\z) [OR]
 RewriteCond %{QUERY_STRING} (?:\A|&)id=(\d+)(?:&|\z)
 RewriteRule .* ${prom-old-to-new:%1|/}? [L,R=permanent]
 RewriteRule \Aindex\.php\z /? [L,R=permanent]
 
-# code
+# Code login
 RewriteRule \Acode<%= multiview_ext %>(?:\z|/) <%=p 'code' %> [L,R]

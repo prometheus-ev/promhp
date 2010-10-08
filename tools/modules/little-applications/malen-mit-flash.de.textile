@@ -31,4 +31,4 @@ Die interaktive Flashapplikation erlaubt das Färben von Flächen eines Landscha
 Von: Sabine Scheele
 
 
-"zurück zu: Kleine Applikationen":<%=r 'tools/modules/little-applications/index' %>
+"zurück zu: Kleine Applikationen":<%=r 'tools/modules/little-applications' %>

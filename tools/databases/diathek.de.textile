@@ -42,4 +42,4 @@ Version 5.1 (22.03.2005), Anregungen sind willkommen.
 Von: Stefan Brenne
 
 
-"zurück zu: Datenbanken":<%=r 'tools/databases/index' %>
+"zurück zu: Datenbanken":<%=r 'tools/databases' %>

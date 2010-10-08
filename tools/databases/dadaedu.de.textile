@@ -33,4 +33,4 @@ DaDaEdu steht hier als Shareware-Version zur Verfügung.
 Von: Arthist Dokumentation
 
 
-"zurück zu: Datenbanken":<%=r 'tools/databases/index' %>
+"zurück zu: Datenbanken":<%=r 'tools/databases' %>

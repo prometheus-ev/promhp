@@ -9,18 +9,18 @@ h2. <%= page_title %>
 Die Kategorien orientieren sich an mediengerechten Konzepten für verschiedene Wissensbereiche:
 
 
-"» Themenraum":<%=r 'tools/modules/topic-room/index' %> für die Kombination der verschiedensten Wissensarten
+"» Themenraum":<%=r 'tools/modules/topic-room' %> für die Kombination der verschiedensten Wissensarten
 
 
 
-"» Methoden-Coach":<%=r 'tools/modules/method-coach/index' %> für prozedurales Wissen
+"» Methoden-Coach":<%=r 'tools/modules/method-coach' %> für prozedurales Wissen
 
 
 
-"» Wissens-Trainer":<%=r 'tools/modules/knowledge-coach/index' %> für deklaratives Wissen
+"» Wissens-Trainer":<%=r 'tools/modules/knowledge-coach' %> für deklaratives Wissen
 
 
-"» Lerneinheiten":<%=r 'tools/modules/units/index' %> für die curriculare Zusammenstellung von Lerninhalten
+"» Lerneinheiten":<%=r 'tools/modules/units' %> für die curriculare Zusammenstellung von Lerninhalten
 
 
 

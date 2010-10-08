@@ -6,6 +6,12 @@
   <title><%= [page_title(true), t(@site.title, @site.title_de)].compact.join(' | ') %></title>
 
   <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/application.css' %>" media="all" />
+  <!--[if IE]>
+  <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/application_ie.css' %>" media="all" />
+  <![endif]-->
+  <!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/application_ie7.css' %>" media="all" />
+  <![endif]-->
 <noscript>
   <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/noscript.css' %>" media="all" />
 </noscript>
@@ -22,6 +28,11 @@
 </head>
 <body>
   <a name="top"></a>
+  <!--[if lte IE 6]>
+  <div id="ie6warning" style="background-color: #ff0; color: #000" class="warning_icon">
+    <%= include_file "ie6warning.#{page.lang}.html" %>
+  </div>
+  <![endif]-->
   <div id="header">
     <div id="statusbar"><%= include_file 'statusbar.html' %></div>
 
@@ -46,15 +57,13 @@
 
   <div id="workspace">
     <div id="sidebar">
-      <div id="sidebar_header"></div>
+      <div id="sidebar_header"></div><div id="sidebar_header_shadow"></div>
 
       <div id="login_wrap"><%= include_file 'login.html' %></div>
       <div id="campus_login_wrap"><%= include_file 'campus_login.html' %></div>
 
       <div id="navigation"><%= @page.navigation %></div>
-    </div>
-
-    <div id="main">
+    </div><div id="main">
       <div id="submenu"><div id="facts"></div></div>
       <div id="content" class="clear-float">
         <div id="announcements_wrap"></div>

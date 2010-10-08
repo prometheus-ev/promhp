@@ -31,4 +31,4 @@ Das begriffsnetz unterliegt den Bestimmungen der Digital Peer Publishing Lizenz.
 Von: Stefan Brenne
 
 
-"zurück zu: Programme":<%=r 'tools/programs/index' %>
+"zurück zu: Programme":<%=r 'tools/programs' %>

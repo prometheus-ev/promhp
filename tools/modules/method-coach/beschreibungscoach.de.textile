@@ -27,4 +27,4 @@ Link:
 Von: prometheus e.V.
 
 
-"zurück zu: Methoden-Coach ":<%=r 'tools/modules/method-coach/index' %>
+"zurück zu: Methoden-Coach ":<%=r 'tools/modules/method-coach' %>

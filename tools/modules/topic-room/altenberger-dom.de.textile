@@ -28,4 +28,4 @@ Link: "www.altenberg-projekt.uni-dortmund.de":http://www.altenberg-projekt.uni-d
 
 
 
-"zurück zu: Themenraum":<%=r 'tools/modules/topic-room/index' %>
+"zurück zu: Themenraum":<%=r 'tools/modules/topic-room' %>

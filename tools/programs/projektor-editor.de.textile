@@ -32,4 +32,4 @@ Der *projektor* zeigt ein bis drei Bilder oder swf-Dateien folienweise, in Einze
 Von: Stefan Brenne (editor), Sabine Scheele (projektor)
 
 
-"zurück zu: Programme":<%=r 'tools/programs/index' %>
+"zurück zu: Programme":<%=r 'tools/programs' %>
