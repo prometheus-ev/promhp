@@ -33,4 +33,4 @@ Link: "www.hansstefanbolz.de/mauerreste":http://www.hansstefanbolz.de/mauerreste
 Von: Hans-Stefan Bolz
 
 
-"zurück zu: Themenraum ":<%=r 'tools/modules/topic-room/index' %>
+"zurück zu: Themenraum ":<%=r 'tools/modules/topic-room' %>

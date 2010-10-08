@@ -5,7 +5,7 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=496&L=1
 ---
 h2. <%= page_title %>
 
-"back":<%=r 'projects/index' %>
+"back":<%=r 'projects' %>
 
 
 *Project partners:*

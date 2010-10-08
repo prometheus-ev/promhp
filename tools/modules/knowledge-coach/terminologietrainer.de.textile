@@ -30,4 +30,4 @@ Link: ".../lernelemente/terminologietrainer/index.html":http://prometheus-web.un
 Von: prometheus e.V.
 
 
-"zurück zu: Wissens-Trainer ":<%=r 'tools/modules/knowledge-coach/index' %>
+"zurück zu: Wissens-Trainer ":<%=r 'tools/modules/knowledge-coach' %>

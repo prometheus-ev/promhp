@@ -11,15 +11,15 @@ Das können Texte oder Internet-Adressen sein, aber auch praktische Hilfsprogram
 
 *Die Einträge sind nach Kategorien sortiert:*
 
-"» Leitfaden":<%=r 'tools/manuals/index' %>
+"» Leitfaden":<%=r 'tools/manuals' %>
 Hier finden Sie Informationsblätter und Materialien für den Selbstgebrauch oder zum Einsatz bei Schulungen.
 
 
-"» Programme":<%=r 'tools/programs/index' %>
+"» Programme":<%=r 'tools/programs' %>
 Hier finden Sie praktische Hilfsprogramme für den Einsatz in der Lehre oder im Selbststudium.
 
 
-"» Datenbanken":<%=r 'tools/databases/index' %>
+"» Datenbanken":<%=r 'tools/databases' %>
 Bilddatenbank-Lösungen
 
 

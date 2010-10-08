@@ -25,4 +25,4 @@ Link: "tr-zweiddreid.des.hs-anhalt.de":http://tr-zweiddreid.des.hs-anhalt.de/
 Von: Hochschule Anhalt, Fachbereich Design
 
 
-"zurück zu: Themenraum":<%=r 'tools/modules/topic-room/index' %>
+"zurück zu: Themenraum":<%=r 'tools/modules/topic-room' %>

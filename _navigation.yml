@@ -2,12 +2,44 @@
 - :title_en: Home
   :title_de: Start
   :url: index
-- :title_en: Blog
-  :title_de: Blog
-  :url: blog
+- :title_en: prometheus is...
+  :title_de: prometheus ist...
+  :url: prometheus
+  :content:
+  - :title_en: ...an Image Archive
+    :title_de: ...ein Bildarchiv
+    :url: prometheus/description
+  - :title_en: User Instructions
+    :title_de: Hinweise zur Nutzung des Bildarchivs
+    :url: prometheus/usage
+  - :title_en: Technical Details
+    :title_de: Technisches System
+    :url: prometheus/details
+  - :title_en: pandora
+    :title_de: pandora
+    :url: <%= pandora_url 'about' %>
+  - :title_en: Newsletter
+    :title_de: Newsletter
+    :url: prometheus/newsletter
+  - :title_en: Publications
+    :title_de: Publikationen
+    :url: prometheus/publications
+    :content:
+    - :title_en: Press Releases
+      :title_de: Presseerklärungen
+      :url: prometheus/publications/press-releases
+    - :title_en: Press Reactions
+      :title_de: Pressereaktionen
+      :url: prometheus/publications/press-reactions
+    - :title_en: Scientific Articles
+      :title_de: Wissenschaftliche Beiträge
+      :url: prometheus/publications/scientific-articles
+    - :title_en: Theses
+      :title_de: Diplomarbeiten
+      :url: prometheus/publications/theses
 - :title_en: About Us
   :title_de: Wir über uns
-  :url: about/index
+  :url: about
   :content:
   - :title_en: The Association
     :title_de: Der Verein
@@ -33,44 +65,9 @@
   - :title_en: Our Sponsors
     :title_de: Unsere Förderer
     :url: about/sponsors
-- :title_en: prometheus is...
-  :title_de: prometheus ist...
-  :url: prometheus/index
-  :content:
-  - :title_en: Description of the Image Archive
-    :title_de: Beschreibung des Bildarchivs
-    :url: prometheus/description
-  - :title_en: User Instructions
-    :title_de: Hinweise zur Nutzung des Bildarchivs
-    :url: prometheus/usage
-  - :title_en: Technical Details
-    :title_de: Technisches System
-    :url: prometheus/details
-  - :title_en: pandora
-    :title_de: pandora
-    :url: <%= pandora_url 'about' %>
-  - :title_en: Newsletter
-    :title_de: Newsletter
-    :url: prometheus/newsletter/index
-  - :title_en: Publications
-    :title_de: Publikationen
-    :url: prometheus/publications/index
-    :content:
-    - :title_en: Press Releases
-      :title_de: Presseerklärungen
-      :url: prometheus/publications/press-releases
-    - :title_en: Press Reactions
-      :title_de: Pressereaktionen
-      :url: prometheus/publications/press-reactions
-    - :title_en: Scientific Articles
-      :title_de: Wissenschaftliche Beiträge
-      :url: prometheus/publications/scientific-articles
-    - :title_en: Theses
-      :title_de: Diplomarbeiten
-      :url: prometheus/publications/theses
 - :title_en: Registration and Licenses
   :title_de: Anmeldung und Lizenzen
-  :url: license/index
+  :url: license
   :content:
   - :title_en: License Fees
     :title_de: Lizenzgebühren
@@ -89,7 +86,7 @@
   :url: copyright
 - :title_en: Information for Database Suppliers
   :title_de: Informationen für Datenbankgeber
-  :url: databases/index
+  :url: databases
   :content:
   - :title_en: Supplying Data
     :title_de: Bereitstellung der Daten
@@ -108,7 +105,7 @@
     :url: databases/promdilps
 - :title_en: Projects and Cooperations
   :title_de: Projekte und Kooperationen
-  :url: projects/index
+  :url: projects
   :content:
   - :title_en: Meta-Image
     :title_de: Meta-Image
@@ -134,7 +131,7 @@
   :content:
   - :title_en: Learning Platform ILIAS
     :title_de: Lernplattform ILIAS
-    :url: tools/ilias/index
+    :url: tools/ilias
     :content:
     - :title_en: "[ILIAS Benutzerkonto registrieren]"
       :title_de: ILIAS Benutzerkonto registrieren
@@ -144,11 +141,11 @@
       :url: tools/ilias/why
   - :title_en: Study Modules
     :title_de: Lernmodule
-    :url: tools/modules/index
+    :url: tools/modules
     :content:
     - :title_en: E-Learning 2.0
       :title_de: E-Learning 2.0
-      :url: tools/modules/e-learning/index
+      :url: tools/modules/e-learning
       :content:
       - :title_en: exkursion-online.de
         :title_de: exkursion-online.de
@@ -158,7 +155,7 @@
         :url: tools/modules/e-learning/limes-pohlheim
     - :title_en: Topic Room
       :title_de: Themenraum
-      :url: tools/modules/topic-room/index
+      :url: tools/modules/topic-room
       :content:
       - :title_en: "[2D-3D Grundlagen]"
         :title_de: 2D-3D Grundlagen
@@ -177,7 +174,7 @@
         :url: tools/modules/topic-room/mauerreste
     - :title_en: Method-Coach
       :title_de: Methoden-Coach
-      :url: tools/modules/method-coach/index
+      :url: tools/modules/method-coach
       :content:
       - :title_en: "[Beschreibungs-Coach]"
         :title_de: Beschreibungs-Coach
@@ -187,14 +184,14 @@
         :url: tools/modules/method-coach/ad-fontes
     - :title_en: Knowledge-Coach
       :title_de: Wissenstrainer
-      :url: tools/modules/knowledge-coach/index
+      :url: tools/modules/knowledge-coach
       :content:
       - :title_en: "[Terminologie-Trainer]"
         :title_de: Terminologie-Trainer
         :url: tools/modules/knowledge-coach/terminologietrainer
     - :title_en: Study Units
       :title_de: Lerneinheiten
-      :url: tools/modules/units/index
+      :url: tools/modules/units
       :content:
       - :title_en: "[Einführung in die Architektur der Renaissance und des Barock]"
         :title_de: Einführung in die Architektur der Renaissance und des Barock
@@ -204,14 +201,14 @@
         :url: tools/modules/units/internetkolleg-kunst
     - :title_en: Little Applications
       :title_de: Kleine Applikationen
-      :url: tools/modules/little-applications/index
+      :url: tools/modules/little-applications
       :content:
       - :title_en: "[Malen mit Flash]"
         :title_de: Malen mit Flash
         :url: tools/modules/little-applications/malen-mit-flash
   - :title_en: Databases
     :title_de: Datenbanken
-    :url: tools/databases/index
+    :url: tools/databases
     :content:
     - :title_en: DaDaEdu
       :title_de: DaDaEdu
@@ -224,7 +221,7 @@
       :url: tools/databases/dilps
   - :title_en: Programs
     :title_de: Programme
-    :url: tools/programs/index
+    :url: tools/programs
     :content:
     - :title_en: "[Begriffsnetz]"
       :title_de: Begriffsnetz
@@ -237,7 +234,7 @@
       :url: tools/programs/projektor-editor
   - :title_en: Reference Manuals
     :title_de: Leitfaden
-    :url: tools/manuals/index
+    :url: tools/manuals
     :content:
     - :title_en: "[eikonline_2: Bildreproduktion]"
       :title_de: "eikonline_2: Bildreproduktion"
@@ -254,3 +251,6 @@
   - :title_en: PKND
     :title_de: PKND
     :url: tools/pknd
+- :title_en: Blog
+  :title_de: Blog
+  :url: blog

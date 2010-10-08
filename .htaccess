@@ -6,14 +6,14 @@ RewriteEngine On
 
 # Recognize language code in URL; save to cookie and environment variable
 RewriteCond %{REQUEST_URI} \A/<%= lang_ext %>(/.*)
-RewriteRule \A.*\z %2 [CO=language:%1:<%= @site.url[/\/([^\/:]+)/, 1] %>:525600,E=LANG:%1]
+RewriteRule .* %2 [CO=language:%1:<%= @site.url[/\/([^\/:]+)/, 1] %>:525600,E=LANG:%1]
 
 # Extract preferred language from cookie and environment variable
 SetEnvIf Cookie        language=<%= lang_ext %>\b prefer-language=$1
 SetEnvIf REDIRECT_LANG        \A<%= lang_ext %>\z prefer-language=$1
 
 # Blog
-RewriteRule \Ablog<%= multiview_ext %>(?:/\d+){3}(/.+) /blog/$1 [L,R=permanent]
+RewriteRule \Ablog<%= multiview_ext %>(?:/\d+){3}(/.+) /blog$1 [L,R=permanent]
 
 # Typo3
 RewriteCond %{QUERY_STRING} (?:\A|&)cHash=([\da-f]+)(?:&|\z) [OR]

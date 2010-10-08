@@ -24,4 +24,4 @@ h2. <%= page_title %>
 Von: Reinhard Greulich
 
 
-"zurück zu: Programme":<%=r 'tools/programs/index' %>
+"zurück zu: Programme":<%=r 'tools/programs' %>

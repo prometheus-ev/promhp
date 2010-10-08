@@ -13,5 +13,5 @@ You receive further help within the image archive "prometheus.uni-koeln.de/pando
 
 
 *editor+projektor*
-For putting together individual images for a lecture quickly and conveniently, the editor+projektor can be downloaded under "‘Tools - Programs’":<%=r 'tools/programs/index' %>
+For putting together individual images for a lecture quickly and conveniently, the editor+projektor can be downloaded under "‘Tools - Programs’":<%=r 'tools/programs' %>
 With the help of this editor+projector, scattered images are compiled into a chart without any intermediate steps, and can be presented with an autonomous projector from the offline work folder.

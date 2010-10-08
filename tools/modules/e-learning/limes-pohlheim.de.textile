@@ -23,4 +23,4 @@ Link:
 Von: Sabine Scheele
 
 
-"zurück zu: E-Learning 2.0":<%=r 'tools/modules/e-learning/index' %>
+"zurück zu: E-Learning 2.0":<%=r 'tools/modules/e-learning' %>

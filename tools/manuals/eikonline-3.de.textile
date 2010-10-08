@@ -32,4 +32,4 @@ Version 1.4 (09.03.2006)
 Von: Stefan Brenne, Annette Mag
 
 
-"zurück zu: Leitfaden":<%=r 'tools/manuals/index' %>
+"zurück zu: Leitfaden":<%=r 'tools/manuals' %>

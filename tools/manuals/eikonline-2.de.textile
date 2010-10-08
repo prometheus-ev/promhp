@@ -26,4 +26,4 @@ Version 1.2 (09.03.2006)
 Von: Stefan Brenne
 
 
-"zurück zu: Leitfaden":<%=r 'tools/manuals/index' %>
+"zurück zu: Leitfaden":<%=r 'tools/manuals' %>
