@@ -1,0 +1,52 @@
+---
+layout: default
+title: 'FAQ: Utilisation of the prometheus image archive'
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=46&L=1&skin=
+---
+h2. <%= page_title %>
+
+*How can I use the image archive?*
+The image archive can be used with an inexpensive license.
+
+*Can anyone use the image archive?*
+You can use the image archive via a single license for 20 €/year, which can be payed via the e-payment service Click&Buy.
+It's also possible to pay the amount on account. In this case an additional fee of 15 € will be calculated.
+
+*Attention!*
+
+Please, check our "list of licensees":<%=p 'institution/licensed' %>. Possibly you belong to one of the institutions listed. This enables you to apply for a free account for the image archive.
+
+In both cases you can register "here":<%=p 'signup' %>
+
+*As an institution, how can we use the image archive?*
+You can either apply for an institute license or a campus license.
+The fee is based on the size of your institute. ("license fees":<%=r 'license/fees' %>)
+To receive a license please contact the Hochschulbibliothekszentrum (HBZ). ("inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de). For an IP-connection and the authorization of the administration to use your personalized account please contact our office. ("info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de <info@prometheus-bildarchiv.de>)
+
+*What is a Campus account?*
+The IP-address of the respective computer of the University is activated so research can be done online.
+
+*Can I use the image archive at home?*
+Yes the image archive can be used either with a personalized account with a “user name” and a pin or you can log on to the University network and then use the campus account to log-in the image archive.
+
+*What can I do when the access gets denied in spite of a personalized account and the right pin?*
+First you need to check if your user name and your pin is correct. Did you watch the case sensitivity?
+If you do not remember your pin, please use the 'Forgot your password?'-Button.
+Furthermore make sure that your browser accepts cookies and that JavaScript is activated.
+
+In case you are using *Internet-Explorer* you can adjust it with Extras – Internetoptions –Data Security – Accept all cookies.
+“Execute JavaScript” can be activated with Extras – Internetoptions – Security – Internet – Active Scripting
+
+In case you are using *Mozilla Firefox* you can click on Extras – Adjustments – Data Security – Cookies – Accept cookies, followed by Extras – Adjustments – Web Features – Activate JavaScript
+
+In case you are using *Opera* you can click on Extras – Adjustments – Advanced – Cookies – Accept Cookies and Extras – Adjustments – Advanced – JavaScript – Activate JavaScript
+
+In case you are using *Netscape* you can set a mark under Edit – Adjustments – Advanced: Scripts and Plug-ins at “enable JavaScript for”
+
+*The campus account is denied in spite of the activation of the IP-field. What can I do?*
+Please check the activated IP with our office.
+Ask your computer center if there is an intermediary Proxy-server. If so, have it activated also and please, pass on the information to our "office":mailto:info@prometheus-bildarchiv.de <info@prometheus-bildarchiv.de>.
+
+*I am not able to log-in to prometheus, although my college has a campus account according to the list of licensees. What is responsible for that problem?*
+That could be due to either your working on a computer that is not part of the college network, for example your own computer at home or possible problems occurred during the release of the IP addresses of your college.
+In the first case you can get a personalized account via the "Sign up"-button on our homepage. In the latter case please inform the administrators at your college computer center.

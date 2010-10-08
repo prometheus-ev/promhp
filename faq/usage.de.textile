@@ -1,0 +1,58 @@
+---
+layout: default
+title: 'FAQ: Nutzung des verteilten Bildarchivs prometheus'
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=46
+---
+h2. <%= page_title %>
+
+*Wie kann ich das Bildarchiv nutzen?*
+Das Bildarchiv kann über eine kostengünstige Lizenz genutzt werden.
+
+*Wie kann ich als Einzelperson das Bildarchiv nutzen?*
+Sie können das Bildarchiv über eine Einzellizenz für 20 € pro Jahr nutzen. Die Bezahlung erfolgt über das Onlinezahlungssystem Click&Buy.
+Als Alternative ermöglichen wir Ihnen auch die Bezahlung gegen Rechnung, hierbei fällt eine Bearbeitungsgebühr von zzgl. 15 € an.
+
+*Achtung!*
+Schauen Sie aber vorher die "Liste unserer Lizenznehmer":<%=p 'institution/licensed' %> durch. Vielleicht gehören Sie einer hier aufgeführten Institution an und Sie können einen kostenlosen Zugang bekommen.
+
+In beiden Fällen können Sie sich über unser Onlineformular anmelden.
+Hier geht's zur "Neuanmeldung":<%=p 'signup' %>
+
+*Wie können wir als Institution das Bildarchiv nutzen?*
+Sie können entweder eine Institutslizenz oder eine Campuslizenz erwerben. Die Preise richten sich nach der Größe Ihrer Institution ("Lizenzgebühren":<%=r 'license/fees' %>).
+
+Für den Erhalt einer Lizenz nehmen Sie zunächst Kontakt mit der Abteilung Digitale Inhalte vom Hochschulbibliothekszentrum (HBZ) auf ("inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de).
+
+Für die IP-Freischaltung und die Administrationsberechtigung zum Einrichten eigener personalisierter Zugänge nehmen Sie Kontakt mit der Geschäftsstelle ("info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de) auf.
+
+*Was ist ein Campuszugang?*
+Bei einem Campuszugang werden die IP-Adressen der Computer der jeweiligen Hochschule freigeschaltet, so dass die Recherche für alle über das Hochschulnetz möglich ist.
+
+*Kann ich das Bildarchiv von zuhause nutzen?*
+Ja, entweder über einen personalisierten Zugang mit Benutzername und Passwort oder indem Sie sich über das Hochschulnetz ins Internet einwählen und dann über den Campuszugang ins Bildarchiv gelangen.
+
+*Was kann ich tun, wenn mir trotz personalisiertem Zugang und richtiger Kennung der Zugang verweigert wird?*
+Zunächst einmal können Sie überprüfen, ob Ihr Benutzername und das Passwort korrekt sind. Haben Sie Groß- und Kleinschreibung beachtet?
+
+Wenn Sie Ihr Passwort vergessen haben, können Sie über die 'Passwort vergessen'-Funktionen ein neues Passwort generieren.
+
+Außerdem sollten Sie überprüfen, ob in Ihrem Browser die Annahme von Cookies und das Ausführen von JavaScript aktiviert sind.
+
+Wenn Sie den *Internet Explorer* nutzen, können Sie unter Extras – Internetoptionen – Datenschutz –  „Alle Cookies annehmen“ einstellen und
+Das „Ausführen von JavaScript“ können Sie über Extras – Internetoptionen – Sicherheit –  Internet  - Stufe anpassen – Scripting: Active Scripting -  aktivieren anklicken - erlauben.
+
+Wenn Sie *Mozilla Firefox* nutzen, können Sie unter Extras – Einstellungen – Datenschutz – Cookies – „Cookies akzeptieren“ anklicken und unter Extras – Einstellungen – Web-Features  – „JavaScript aktivieren“ anklicken.
+
+Wenn Sie *Opera* nutzen, können Sie unter Extras – Einstellungen – Erweitert – Cookies – „Cookies annehmen“ und unter Extras – Einstellungen – Erweitert – Javascript – „JavaScript aktivieren“ anklicken.
+
+Wenn Sie *Netscape* nutzen, können Sie unter Bearbeiten – Einstellungen – Erweitert: Scripts und Plug-Ins ein Häkchen bei „enable JavaScript for“ setzen.
+
+*Unserer Hochschule wird trotz Freischaltung des IP-Bereichs der Campuszugang verweigert. Was kann ich tun?*
+Bitte überprüfen Sie die freigeschalteten IPs bei der Geschäftsstelle.
+
+Fragen Sie bei Ihrem eigenen Rechenzentrum, ob ein Proxy-Server dazwischen geschaltet ist. Wenn ja, lassen Sie diesen auch frei schalten und geben Sie die Information an die Geschäftsstelle ("info@prometheus-bildarchiv":mailto:info@prometheus-bildarchiv.de) weiter.
+
+*Ich kann mich bei prometheus nicht einloggen, obwohl meine Hochschule laut Liste der Lizenznehmer einen Campuszugang besitzt. Woran liegt das?*
+Das könnte entweder daran liegen, dass Sie an einem Computer arbeiten, der nicht zum Hochschulnetz gehört, z.B. zu Hause oder dass bei der Freischaltung der IP-Adressen Ihrer Hochschule Probleme aufgetreten sind.
+
+Für den ersten Fall können Sie sich einen personalisierten Zugang anlegen über den Button "Neu anmelden" auf unserer Startseite. Für den zweiten Fall informieren Sie bitte die an Ihrer Hochschule zuständigen Personen (Administrator, Rechenzentrum, ...) über Ihre Schwierigkeiten.

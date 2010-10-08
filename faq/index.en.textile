@@ -1,0 +1,14 @@
+---
+layout: default
+title: 'FAQ - Frequently asked questions'
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=21&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+---
+h2. <%= page_title %>
+
+h3. Categories
+
+* "Utilisation of the prometheus image archive":<%=r 'faq/usage' %>
+* "Use of single tools":<%=r 'faq/tools' %>
+* "Supply of images":<%=r 'faq/data-supply' %>
+
+"FAQ":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/DILPS-FAQ of the DILPS documentation

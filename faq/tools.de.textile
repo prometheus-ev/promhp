@@ -1,0 +1,51 @@
+---
+layout: default
+title: 'FAQ: Nutzung einzelner Werkzeuge'
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=49
+---
+h2. <%= page_title %>
+
+*Wie kann ich ein Bild aus prometheus herunterladen?*
+Sie können das gewünschte Bild aus der Ergebnisliste durch nochmaliges Klicken vergrößern und dann per rechten Mausklick auf dem eigenen Rechner abspeichern.
+
+*Ich will Bilder aus prometheus auf meiner privaten Website im Internet zeigen. Darf ich das?*
+Nein, meist nicht. Sie dürfen nur die Bilder auf ihrer Webseite zeigen, bei denen keine Urheberrechte tangiert werden.
+Dies betrifft aber nur die Bilder, bei denen die Verwertungsrechte des Künstlers am Werk (ab 70 Jahre nach dem Tod des Künstlers) oder die Leistungsschutzrechte eines Fotografen an der Fotografie (ab 50 Jahr nach Erscheinen) nicht mehr berührt werden.
+Andernfalls sind stets bei den Urhebern und/oder der VG Bild-Kunst die Rechte einzuholen.
+
+*Kann ich Bilddateien aus prometheus für den Druck meiner Dissertation verwenden?*
+Nein, meist nicht. Sie dürfen nur die Bilder für den Druck Ihrer Dissertation verwenden, bei denen keine Urheberrechte tangiert werden.
+Dies betrifft aber nur die Bilder, bei denen die Verwertungsrechte des Künstlers am Werk (ab 70 Jahre nach dem Tod des Künstlers) oder die Leistungsschutzrechte eines Fotografen an der Fotografie (ab 50 Jahr nach Erscheinen) nicht mehr berührt werden.
+Andernfalls sind stets bei den Urhebern und/oder der VG Bild-Kunst die Rechte einzuholen.
+
+*Kann ich Bilddateien aus prometheus für Prüfungen, Hausarbeiten und Magisterarbeiten verwenden?*
+Ja, dürfen Sie, wenn es sich ausschließlich um Qualifikationsarbeiten im Rahmen des Studiums handeln, die nicht publiziert werden.
+
+*Ich suche lieber in Google. Was sind die Nachteile?*
+Sie finden dort zumeist schlechtere Bildqualität oder schlechtere Bildbeischriften.
+
+*Warum gibt es in prometheus zu manchen Gebieten sehr viele, zu anderen aber fast keine Bilder?*
+prometheus selber besitzt keine Bilder, sondern ist abhängig von den Bilddatenbanken, die die Bilder liefern. Hier gibt es trotz der bestehenden Vielfalt noch viele Lücken. Wenn Sie wichtige Bilder haben oder eine wichtige Bilddatenbank kennen, dann wenden Sie sich an die "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de <info@prometheus-bildarchiv.de>. Wir binden diese Bilddatenbanken gerne ein.
+
+*Warum ist die Qualität der Bilder so unterschiedlich?*
+Die Qualität der Bilder ist so gut, wie sie von den Bilddatenbanken aus den Instituten, Forschungsprojekten, Museen und Archiven bereit gestellt werden. Wenn Sie auf ein sehr schlechtes Bild treffen, dann wenden Sie sich bitte per Mail an den zuständigen Projektverantwortlichen.
+
+*Was ist eine Bildsammlung?*
+Eine Bildsammlung ist eine Ablege- und Sortiermöglichkeit von Bildern zur Weiterverarbeitung für eine Präsentation. Die Nutzung der Arbeitsmappe ist nur online und über einen personalisierten Zugang möglich.
+
+*Was ist eine Online-Präsentation?*
+Eine Online-Präsentation ist eine Präsentationsmöglichkeit für Bilder. Sie kann nur mit Bildern aus der Bildsammlung bestückt werden. Eigene Bilder können hier nicht eingefügt werden. Die Nutzung der Online-Präsentation ist nur online und über einen personalisierten Zugang möglich.
+
+*Was ist der projektor + editor?*
+Der projektor + editor sind ein eigenständiges Programm, dass Sie herunterladen und kostenlos zur Präsentation von Bildern in Vorträgen und im Seminar nutzen können.
+"Werkzeuge - Programme":<%=r 'tools/programs/projektor-editor' %>
+Der *projektor* zeigt den im editor erstellten Vortrag mit Einzelbildschaltungen, Direktauswahl, Texteinblendungen und Vergrößerungen.
+Mit dem *editor* können heruntergeladene Bilder wie auf einem Leuchtpult gesammelt und sortiert werden. Dies ist auch ohne persönlichen Account möglich.
+Infoblatt „Erstellen einer Bildpräsentation mit editor und projektor“ – herunterzuladen unter: "Werkzeuge - Leitfaden (eikonline 3)":<%=r 'tools/manuals/eikonline-3' %>
+
+*Wie kann ich offline eine Präsentation erstellen?*
+Sie können mit dem "projektor + editor":<%=r 'tools/programs/projektor-editor' %> offline eine Präsentation erstellen. Dazu laden Sie aus prometheus die Bilder herunter und erstellen eine Präsentation mit dem Projektor. Hier können Sie auch eigene Bilder einfügen.
+Sie können auch mit Power-Point oder anderen Präsentationsprogrammen offline eine Präsentation erstellen. Dazu laden Sie ebenfalls die Bilder herunter und fügen sie in das Programm ein. Hier können Sie auch eigene Bilder einfügen.
+
+*Was ist Ilias?*
+ILIAS ist eine Online-Lern- und Lehrplattform. Mit ILIAS können Lehrende E-Learning-Kursmaterialien erstellen, Online-Tests zu Wissensprüfungen einrichten und virtuelle Seminare oder Vorlesungen durchführen. Der Zugriff ist von jedem internetfähigen Computer aus möglich. Die Anmeldung mit Gastrechten erfolgt online. Wenn Sie weitere Rechte benötigen, wenden Sie sich bitte an die "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de <info@prometheus-bildarchiv.de>.

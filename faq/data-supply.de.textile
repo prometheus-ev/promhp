@@ -1,0 +1,19 @@
+---
+layout: default
+title: 'FAQ: Lieferung von Bildmaterial'
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=273
+---
+h2. <%= page_title %>
+
+*Wir möchten unsere Bilder gerne in prometheus einspeisen. Was sind die ersten Schritte?*
+Zunächst erstellen Sie eine eigene Datenbank.
+
+Dann gibt es mehrere Möglichkeiten, wie Ihre Datenbank eingebunden werden kann.
+1. Sie schicken uns einen XML-Dump mit dem Inhalt und den Bilddateien und wir halten die Daten auf dem prometheus-Server für Sie vor.
+2. Sie liefern uns nur einen XML-Dump mit dem Inhalt und halten die Bilddateien auf Ihrem Server selber vor. Sie sind dann für den Zugriff auf Ihren Server selber verantwortlich.
+Weitere Möglichkeiten und Varianten erfragen Sie bitte bei der Geschäftsstelle.
+
+"Informationen für Datenbanklieferer":<%=r 'databases' %>
+
+*Wir planen unsere Instituts-Diathek zu digitalisieren. Ist das sinnvoll?*
+Grundsätzlich ist das nicht sinnvoll, weil die meisten Dias in den Diatheken aus Büchern abfotografiert wurden. Eine digitale Neuaufnahme ist meist besser. Lediglich die Originaldias mit Ansichten und Objekten, die es in der Literatur nicht gibt, sollten eingescannt werden.
