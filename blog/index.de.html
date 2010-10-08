@@ -3,8 +3,6 @@ layout: default
 monolingual: true
 title: prometheus-Blog
 ---
-<h1><%= page_title %></h1>
-<hr />
 <% for post in @paginator.posts %>
   <h2><a href="<%=r post.url %>"><%= post.title %></a></h2>
   <p><small><%= post.date %></small></p>

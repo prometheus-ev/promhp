@@ -5,10 +5,3 @@ layout: default
 <p><%= date_to_string(@page.date) %></p>
 
 <%= @content %>
-
-<h2><%=t 'Related Posts', 'Verwandte Artikel' %></h2>
-<ul class="posts">
-  <% for post in @site.related_posts[0..3] %>
-    <li><span><%= date_to_string(post.date) %></span> &raquo; <a href="<%=r post.url %>"><%= post.title %></a></li>
-  <% end %>
-</ul>
