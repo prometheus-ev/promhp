@@ -1,0 +1,24 @@
+#logo, #menu .navigation_icon {
+  display:           block;
+  float:             left;
+}
+
+#menu .navigation_icon {
+  bottom:            0;
+}
+
+.page_form div, .result_view div, .slide-item div {
+  display:           inline;
+}
+
+div.section_wrap, div#image_wrap {
+  display:           inline-block;
+}
+
+div#rating  {
+  width:             300px;
+}
+
+.search_query .submit_button_wrap {
+  width:             80px;
+}

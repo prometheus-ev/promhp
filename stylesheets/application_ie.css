@@ -1,0 +1,23 @@
+#sidebar, #main {
+  display:           block;
+  float:             left;
+}
+
+#workspace {
+  background-image:  none;
+}
+
+table.resourceful-list td.thumbnail {
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width:             150px;
+}
+
+td.thumbnail img {
+  max-height:        110px;
+  width:             80px;
+}
+
+table.resourceful-list td.metadata {
+  padding-top:       10px;
+}
