@@ -71,7 +71,8 @@
   width:             99%;
 }
 
-.login_form input[type=submit] {
+.login_form input[type=submit],
+.search_form input[type=submit] {
   border-width:      1px;
 }
 
@@ -122,4 +123,12 @@
 
 #navigation ul ul li, #navigation li ul {
   padding-top:       5px;
+}
+
+#content {
+  margin-top:        0;
+}
+
+.nopandora {
+  border:            2px solid rgb(147,0,0);
 }

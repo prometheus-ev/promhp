@@ -209,7 +209,8 @@ input, .search_form select, .input-left-right {
   height:            28px;
 }
 
-.search_form input, .search_form select, .search_form .input-left-right {
+.search_form input, .search_form select,
+.search_form img, .search_form .input-left-right {
   float:             left;
 }
 
@@ -264,11 +265,11 @@ body.js input[type=text].prompt, body.js input[type=password].prompt {
 }
 
 .mandatory {
-  border-color:      rgb(255,119,33);
+  border-color:      rgb(169,109,48);
 }
 
 .prompt {
-  border-color:      rgb(0,0,255);
+  border-color:      rgb(47,115,167);
 }
 
 .fieldWithErrors .input-left-right,
@@ -338,15 +339,13 @@ fieldset {
   height:            28px;
 }
 
-.noscript_button {
-  padding:           2px;
-
+body.js .noscript_button {
   /* http://code.google.com/p/chromium/issues/detail?id=45549 */
   display:           block;
   position:          absolute;
   visibility:        hidden;
   left:              50%;
-  top:               -10000px;
+  top:               -9999px;
 }
 
 .noscript_button .submit {
@@ -949,9 +948,12 @@ table.list .metadata .title-line small {
 }
 
 table.list td.dummy {
+  display:           none;
+}
+
+table.list td.dummy + td.metadata {
+  width:             10%;
   padding:           0;
-  margin:            0;
-  width:             1px;
 }
 
 table.resourceful-list td.metadata {
@@ -1522,6 +1524,7 @@ table.resourceful-list td.thumbnail {
   width:             128px;
   height:            150px;
   background-image:  url(../images/misc/image_layers.gif);
+  background-repeat: no-repeat;
   border:            none;
   background-color:  transparent;
   padding-right:     22px;
@@ -1579,7 +1582,7 @@ body.administration-controller.index-action .section-links {
   border-bottom:     1px solid rgb(80,80,80);
   padding-bottom:    2px;
   margin-bottom:     8px;
-  width:             500px;
+  width:             100%;
   display:           block;
 }
 
@@ -1691,12 +1694,12 @@ body.search-controller .zoom_thumbs {
 }
 
 #institution_license_renew_form .store_controls .list_select {
-  margin-left:       2px;
+  margin-left:       -1px;
 }
 
 #institution_license_renew_form .institution_list_item {
   position:          absolute;
-  left:              2px;
+  left:              -1px;
 }
 
 .store_controls .submit_button_wrap {
@@ -1997,6 +2000,10 @@ p.prompt, div.maintenance {
   padding:           1em;
   padding-left:      70px;
   font-weight:       bold;
+}
+
+#content .warning_icon strong {
+  color:             rgb(255,255,255);
 }
 
 #captcha {

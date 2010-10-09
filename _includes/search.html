@@ -1,0 +1,12 @@
+<%= include_file "nopandora.#{page.lang}.html" %>
+<form action="<%=p 'search' %>" class="search_form search_query" id="query_form" method="get">
+<noscript>
+  <table>
+    <tr>
+      <td><input id="v[]" name="v[]" size="30" type="text" /></td>
+      <td><input type="submit" name="commit" value="<%=t 'Search', 'Suche' %>" class="float-right" /></td>
+    </tr>
+  </table>
+  <div class="clear-float"></div>
+</noscript>
+</form>
