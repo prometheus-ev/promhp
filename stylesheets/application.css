@@ -1595,7 +1595,7 @@ body.administration-controller.index-action .section-links {
   margin-left:       0.5em;
 }
 
-.pagination, .sort_links, .per_page, .result_view {
+.pagination, .sort_links, .per_page, .result_view, .toggle_zoom {
   display:           inline-block;
   float:             left;
 }
@@ -1608,7 +1608,7 @@ body.administration-controller.index-action .section-links {
   padding:           0.5em;
 }
 
-.result_view {
+.result_view, .toggle_zoom {
   margin-left:       10px;
 }
 
@@ -1616,18 +1616,8 @@ body.administration-controller.index-action .section-links {
   display:           inline;
 }
 
-.zoom_thumbs {
-  display:           inline-block;
-  vertical-align:    middle;
-  padding:           0.6em;
-}
-
-body.search-controller .zoom_thumbs {
-  padding:           0.7em;
-}
-
-.view_link {
-  height:            35px;
+.view_link, .zoom_link {
+  height:            32px;
   width:             32px;
   display:           inline-block;
   padding:           0;
@@ -1663,6 +1653,14 @@ body.search-controller .zoom_thumbs {
 
 .view_link.gallery_view.inactive {
   background-image:  url(../images/misc/gallery_inactive.gif);
+}
+
+.zoom_link.enabled {
+  background-image:  url(../images/misc/zoom_enabled.gif);
+}
+
+.zoom_link.disabled {
+  background-image:  url(../images/misc/zoom_disabled.gif);
 }
 
 #submenu .image_navigation {

@@ -1,0 +1,28 @@
+<h2 class="header-line"><%=t 'Welcome to', 'Herzlich Willkommen bei' %> <em>prometheus</em></h2>
+
+<div id="series-front">
+  <a href="<!--#echo var="series" -->" title="<!--#include virtual="${series}/title" -->">
+    <img src="<!--#echo var="series" -->/<%= n = '%02d' % 1 %>.jpg" alt="<%= n %>" />
+  </a>
+</div>
+
+<div id="greeting">
+  <%= include_file "greeting.#{page.lang}.html" %>
+
+  <ul>
+    <li>
+      <% link = %Q{<a href="#{r 'prometheus'}">%s</a>} %><%=
+        link % %Q{<img src="#{r 'files/icons/info.gif'}" alt="Info" />}
+      %><%=
+        link % t('Learn more about us', 'Erfahren Sie mehr über uns')
+      %>
+    </li>
+    <li>
+      <% link = %Q{<a href="#{p 'signup'}">%s</a>} %><%=
+        link % %Q{<img src="#{r 'files/icons/signup.gif'}" alt="Signup" />}
+      %><%=
+        link % t('Sign up for prometheus', 'Melden Sie sich bei prometheus an')
+      %>
+    </li>
+  </ul>
+</div>
