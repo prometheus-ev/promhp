@@ -7,7 +7,7 @@ h2. <%= page_title %>
 
 *single license                                 20,-€ p.a.*
 
-» "Sign up":http://prometheus.uni-koeln.de/pandora/signup
+"» Sign up":http://prometheus.uni-koeln.de/pandora/signup
 
 
 

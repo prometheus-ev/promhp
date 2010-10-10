@@ -5,11 +5,9 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=44
 ---
 h2. <%= page_title %>
 
+h3. Werden Sie aktiv!
 
-h5. Werden Sie aktiv!
-
-
-Als Mitglied im Verein  p r o m e t h e u s  e.V. haben Sie die Möglichkeit, aktiv an der Integration der neuen Medien in Forschung und Lehre mitzuwirken.
+Als Mitglied im Verein prometheus e.V. haben Sie die Möglichkeit, aktiv an der Integration der neuen Medien in Forschung und Lehre mitzuwirken.
 
 Bringen Sie Ihre Erfahrungen ein und vertreten Sie Interessen!
 
@@ -22,6 +20,5 @@ Juristische Personen	180 €
 "aufnahmeantrag.pdf":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
 
 PDF herunterladen und ausgefüllt und unterschrieben an die Geschäftstelle schicken!
-
 
 30 K

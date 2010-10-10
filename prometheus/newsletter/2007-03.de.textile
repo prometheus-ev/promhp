@@ -4,7 +4,7 @@ title: Newsletter 2007 / 03
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=344
 ---
 h2. <%= page_title %>
-*prometheus – Das verteilte digitale Bildarchiv für Forschung & Lehre e.V.*
+*prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V.*
 
 
 Liebe Abonnentin, lieber Abonnent,
@@ -27,8 +27,8 @@ Sigrid Ruby
 2.) prometheus-Tagung zum Thema Bilddatenbanken am 3. November
 3.) Neue archäologische Datenbank eingebunden
 4.) prometheus-Nutzungsbedingungen angepasst
-5.) prometheus – facts & figures
-6.) prometheus – Kontakt
+5.) prometheus - facts & figures
+6.) prometheus - Kontakt
 Impressum
 
 
@@ -39,7 +39,7 @@ prometheus und das Bildarchiv Preußischer Kulturbesitz (bpk) arbeiten nun bei d
 
 Das bedeutet nicht nur eine erhebliche Aufstockung der in prometheus vorgehaltenen Bilder, sondern vor allem eine wichtige qualitative Steigerung. Das Bildarchiv Preußischer Kulturbesitz, die renommierte Fotoagentur der Stiftung Preußischer Kulturbesitz in Berlin, besitzt eine Unmenge vorzüglicher Fotografien aus den Bereichen Kunst, Kultur und Geschichte und vermittelt zudem digitale Bilder aus deutschen, französischen und italienischen Bildarchiven.
 
-Darüber hinaus haben prometheus und das Bildarchiv Preußischer Kulturbesitz eine – wie wir meinen – vorbildliche Lösung für die Organisation des Rechtemanagements in der Wissenschaft gefunden. Alle Bilder des Bildarchivs Preußischer Kulturbesitz dürfen für wissenschaftliche, nicht-kommerzielle Publikationen mit einer Auflagenhöhe von unter 1.000 Exemplaren kostenlos verwendet werden. Eine den Richtlinien guter wissenschaftlicher Praxis folgenden Nennung der Rechteinhaber ist selbstverständlich. Ein Formular informiert das bpk jeweils über den Vorgang, und die Nutzerin bzw. der Nutzer erhält automatisch eine Publikationsgenehmigung. Auch eine Publikationserlaubnis für andere, z.B. kommerzielle Zwecke kann fortan über prometheus beim bpk angefragt werden.
+Darüber hinaus haben prometheus und das Bildarchiv Preußischer Kulturbesitz eine - wie wir meinen - vorbildliche Lösung für die Organisation des Rechtemanagements in der Wissenschaft gefunden. Alle Bilder des Bildarchivs Preußischer Kulturbesitz dürfen für wissenschaftliche, nicht-kommerzielle Publikationen mit einer Auflagenhöhe von unter 1.000 Exemplaren kostenlos verwendet werden. Eine den Richtlinien guter wissenschaftlicher Praxis folgenden Nennung der Rechteinhaber ist selbstverständlich. Ein Formular informiert das bpk jeweils über den Vorgang, und die Nutzerin bzw. der Nutzer erhält automatisch eine Publikationsgenehmigung. Auch eine Publikationserlaubnis für andere, z.B. kommerzielle Zwecke kann fortan über prometheus beim bpk angefragt werden.
 
 Diese Lösung könnte Modellcharakter haben. Bietet sie doch neben dem Management der Rechte am Werk (VG BILD-KUNST) nun auch die Möglichkeit die Leistungsschutzrechte der Fotografen bzw. Fotografinnen zu sichern. Zudem ist ein angemessener Ausgleich zwischen kommerzieller und wissenschaftlicher Verwendung gewährleistet.
 
@@ -49,7 +49,7 @@ Diese Lösung könnte Modellcharakter haben. Bietet sie doch neben dem Managemen
 
 Wie im letzten Newsletter (2007 / 02) bereits angekündigt, veranstaltet prometheus in diesem Herbst eine Tagung für Bilddatenbankbetreiber.
 
-Die Veranstaltung mit dem Titel „Bilder – Daten – Datenbanken: So kann’s gehen!“ findet am 3. November von 9-18 Uhr im Neuen Senatssaal der Universität zu Köln (Hauptgebäude) statt.
+Die Veranstaltung mit dem Titel "Bilder - Daten - Datenbanken: So kann's gehen!" findet am 3. November von 9-18 Uhr im Neuen Senatssaal der Universität zu Köln (Hauptgebäude) statt.
 
 Vorrangiges Ziel der Tagung ist es, die Qualität der Digitalbilder und Metadaten in prometheus zu erhöhen und mit den Bilddatenbankbetreibern angemessene Lösungen für unterschiedliche Betriebs- und Verwendungszusammenhänge (z.B. Instituts- und Forschungsdatenbanken) zu diskutieren.
 
@@ -73,22 +73,22 @@ Mehr Informationen: "http://www.ub.uni-heidelberg.de/helios/digi/heidicon-archae
 *4.) prometheus-Nutzungsbedingungen verändert*
 
 Um unseren bildgebenden Datenbankbetreibern angemessenen Rechtsschutz und juristische Handhabe zu geben, wurde der § 22 der prometheus-Nutzungsbedingungen ergänzt. Dort heißt es nun:
-„Sollte sich aus dem Verstoß gegen die hier angeführten Vereinbarungen Ansprüche Dritter ergeben, so ist der Nutzer / die Nutzerin verpflichtet, prometheus von diesen Ansprüchen freizustellen. Darüber hinaus ist der Nutzer verpflichtet, an prometheus eine Vertragsstrafe in Höhe von 400 Prozent von dem ansonsten seitens des Dritten geforderten Nutzungshonorar zu zahlen. prometheus selbst behält sich vor, gegebenenfalls eigene Ansprüche gegenüber dem Nutzer geltend zu machen, beispielsweise bei Rufschädigung.“
+"Sollte sich aus dem Verstoß gegen die hier angeführten Vereinbarungen Ansprüche Dritter ergeben, so ist der Nutzer / die Nutzerin verpflichtet, prometheus von diesen Ansprüchen freizustellen. Darüber hinaus ist der Nutzer verpflichtet, an prometheus eine Vertragsstrafe in Höhe von 400 Prozent von dem ansonsten seitens des Dritten geforderten Nutzungshonorar zu zahlen. prometheus selbst behält sich vor, gegebenenfalls eigene Ansprüche gegenüber dem Nutzer geltend zu machen, beispielsweise bei Rufschädigung."
 
 
 
-*5.) prometheus – facts & figures*
+*5.) prometheus - facts & figures*
 Aktuell können 442.090 Bilder aus 41 Datenbanken über prometheus gefunden werden. 27 Hochschulen im In- und Ausland halten eine Campus-Lizenz zur Nutzung des Bildarchivs. Die persönlichen Zugänge belaufen sich auf nunmehr 5.810; hinzu kommen Tausende von Nutzerinnen und Nutzern, die auf prometheus anonym im Rahmen einer Campus-Lizenz zugreifen. Diesen Newsletter beziehen derzeit 1.602 Personen.
 
 
 
-*6.) prometheus – Kontakt*
+*6.) prometheus - Kontakt*
 
 Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
 - als Privatperson an die prometheus-Geschäftsstelle
 - als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":inhalte@hbz-nrw.de
 
-Eine Liste aller bereits eine Lizenz haltenden Institutionen finden Sie auf der prometheus-website unter „Bildarchiv“ > „Anmeldung und Lizenzen“
+Eine Liste aller bereits eine Lizenz haltenden Institutionen finden Sie auf der prometheus-website unter "Bildarchiv" > "Anmeldung und Lizenzen"
 
 Die prometheus-Geschäftsstelle ist besetzt: Mo, 10-18 Uhr, und Di-Fr, jeweils 10-13 Uhr. Telefon: 0221-470 4476, Telefax: 0221-470 5044, info@prometheus-bildarchiv.de
 

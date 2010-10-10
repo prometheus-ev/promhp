@@ -108,7 +108,7 @@ Das 2. hessenweite eLearning Symposium stand unter der Überschrift "Bestandsauf
 
 
 EVA 2005, Workshop "Blind Date", Berlin, 9. November
-Im Rahmen der jährlichen EVA in Berlin versammelte der Workshop "Blind Date - Das digitale Bild zwischen Erschließungsstrategie und Benutzerinteresse" zahlreiche Fachleute aus Museen und Bildarchiven. Themen waren u.a. die automatische Bildinhaltserkennung (Content Based Retrieval, das für anspruchsvolle Aufgaben weiterhin nicht ausgereift ist), aktuelle und interessante Möglichkeiten der Geo-Referenz von Objekten, die Verwendung von (und Werbung für) Referenzdateien wie Iconclass und der SWD sowie das Online-Angebot von kommerziellen Bildagenturen (am Beispiel Corbis) und nicht-kommerziellen Bildarchiven (DILPS, prometheus). Informationen und Programm unter: "":http://www.gfai.de/pinboard/eva/www.gfai.de/pinboard/eva/.
+Im Rahmen der jährlichen EVA in Berlin versammelte der Workshop "Blind Date - Das digitale Bild zwischen Erschließungsstrategie und Benutzerinteresse" zahlreiche Fachleute aus Museen und Bildarchiven. Themen waren u.a. die automatische Bildinhaltserkennung (Content Based Retrieval, das für anspruchsvolle Aufgaben weiterhin nicht ausgereift ist), aktuelle und interessante Möglichkeiten der Geo-Referenz von Objekten, die Verwendung von (und Werbung für) Referenzdateien wie Iconclass und der SWD sowie das Online-Angebot von kommerziellen Bildagenturen (am Beispiel Corbis) und nicht-kommerziellen Bildarchiven (DILPS, prometheus). Informationen und Programm unter: "http://www.gfai.de/pinboard/eva/www.gfai.de/pinboard/eva/":http://www.gfai.de/pinboard/eva/www.gfai.de/pinboard/eva/.
 
 
 CHArt-Konferenz in London, 10.-11. November

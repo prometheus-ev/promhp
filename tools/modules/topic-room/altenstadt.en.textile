@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Altenstadt - Entdeckung einer Wandmalerei (German)'
+title: Altenstadt - Entdeckung einer Wandmalerei (German)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=1&skin=0&tx_ttnews[tt_news]=11&tx_ttnews[backPid]=65&cHash=abe94ea77d
 ---
 <%# TODO: translate %>

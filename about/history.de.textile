@@ -6,14 +6,14 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=67
 h2. <%= page_title %>
 
 
-h5. prometheus als bmbf-Projekt
+h3. prometheus als bmbf-Projekt
 
 
-Als bundesweites Verbundprojekt startete "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" am 01. April 2001. Es wurde vom Bundesministerium für Bildung und Forschung (bmb+f) im Rahmen des Förderprogramms "„Neue Medien in der Bildung“":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/ mit insgesamt 1,8 Mio. EUR gefördert. Der "Projektträger":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/httpstatus-404/6848_read-6936/ "Neue Medien in der Bildung" war dem Deutschen Institut für Luft- und Raumfahrt (DLR) angeschlossen.
+Als bundesweites Verbundprojekt startete "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" am 01. April 2001. Es wurde vom Bundesministerium für Bildung und Forschung (bmb+f) im Rahmen des Förderprogramms "Neue Medien in der Bildung":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/ mit insgesamt 1,8 Mio. EUR gefördert. Der "Projektträger":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/httpstatus-404/6848_read-6936/ "Neue Medien in der Bildung" war dem Deutschen Institut für Luft- und Raumfahrt (DLR) angeschlossen.
 
 
 
-h5. Drei Projektjahre, vier Hochschulen, acht Institute
+h3. Drei Projektjahre, vier Hochschulen, acht Institute
 
 
 An der Projektentwicklung und -umsetzung von  prometheus  waren in den drei Jahren neben den neun Projektverantwortlichen insgesamt über
@@ -48,11 +48,11 @@ Während der Projektlaufzeit konnten über die angestrebten Projektziele hinaus 
 
 *Verstetigung als Verein 2003*
 
-Um das Erreichte zu verstetigen, wurde schon während der Projektlaufzeit am 24. März 2003 der Verein  „prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.“ gegründet.
+Um das Erreichte zu verstetigen, wurde schon während der Projektlaufzeit am 24. März 2003 der Verein  "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre e.V." gegründet.
 Der Verein trat zum 1. April 2004 die Rechtsnachfolge des Projekts mit dem Ziel an, die Finanzierung und technische Struktur von prometheus sicherzustellen und das Bildarchiv einschließlich der Lernelemente weiter zu entwickeln.
-Die prometheus–Geschäftsstelle hat ihren Sitz am Kunsthistorischen Institut der Universität zu Köln.
+Die prometheus-Geschäftsstelle hat ihren Sitz am Kunsthistorischen Institut der Universität zu Köln.
 
-h5. Unsere Förderer
+h3. Unsere Förderer
 
 | !<%=r 'files/images/bmbf.jpg' %>!:http://www.bmbf.de
 "Bundesministerium fürBildung und Forschung":http://www.bmbf.de/ |"Sal. Oppenheim-Stiftung zur Förderung der

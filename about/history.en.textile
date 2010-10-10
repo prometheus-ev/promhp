@@ -6,15 +6,15 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=67&L=1&skin=&tx_ttnews[
 h2. <%= page_title %>
 
 
-h5. prometheus as a bmbf-Projekt
+h3. prometheus as a bmbf-Projekt
 
-"p r o m e t h e u s  - The Distributed Digital Image Archive for Research and Studies" started on April 1, 2001 as a cooperative project in Germany. Within the frame work of "“New Media in Education”":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/ , p r o m e t h e u s was supported by the Federal Ministry for Education and Research (bmb+f) with a total amount of 1.8 Mio. €. The "project’s executing organization, "„New Media in Education“":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/httpstatus-404/6848_read-6936/ was associated with the German Institute for Aerospace industry (DLR).
+"prometheus - The Distributed Digital Image Archive for Research and Studies" started on April 1, 2001 as a cooperative project in Germany. Within the frame work of "New Media in Education":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/, prometheus was supported by the Federal Ministry for Education and Research (bmb+f) with a total amount of 1.8 Mio. €. The "project's executing organization, "New Media in Education":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/httpstatus-404/6848_read-6936/ was associated with the German Institute for Aerospace industry (DLR).
 
 
 
-h5. Three Project Years, four Universities, eight Institutes
+h3. Three Project Years, four Universities, eight Institutes
 
-During the 3 years of the project’s development and implementation, the project team consisted of 9 project managers, and a total of 50 staff members and assistants from 4 universities and 8 institutes.
+During the 3 years of the project's development and implementation, the project team consisted of 9 project managers, and a total of 50 staff members and assistants from 4 universities and 8 institutes.
 From the very beginning of the project, the established objective was to encourage close interdisciplinary interaction to enable all staff members to gain an understanding of varied subject areas, and to participate in decision making.
 The major components of the project work was distributed between the universities and institutes as follows:
 
@@ -45,13 +45,13 @@ In addition to the pre-established project objectives, it was possible to incorp
 During those 3 years, more than 60 institutions joined the project as associate partners, independently managing 1700 user accounts.
 
 
-h5. Long-term sustainability as an association 2003
+h3. Long-term sustainability as an association 2003
 
-While the project was still ongoing, the association “p r o m e t h e u s -  The Distributed Digital Image Archive for Research and Studies e.V” was founded on March 24, 2003, to perpetuate and sustain the project’s achievements.
-As of April 1, 2004, this association became the legal successor of the project with the goal to guarantee the financing and technical structure of  p r o m e t h e u s,  and to continue development of the image archive including the educational programs.
-The registered office of p r o m e t h e u s  is located at the Institute of Art History at the University of Cologne.
+While the project was still ongoing, the association "prometheus - The Distributed Digital Image Archive for Research and Studies e.V" was founded on March 24, 2003, to perpetuate and sustain the project's achievements.
+As of April 1, 2004, this association became the legal successor of the project with the goal to guarantee the financing and technical structure of prometheus, and to continue development of the image archive including the educational programs.
+The registered office of prometheus is located at the Institute of Art History at the University of Cologne.
 
-h5. Our sponsors
+h3. Our sponsors
 
 | !<%=r 'files/images/bmbf.jpg' %>!:http://www.bmbf.de
 "Bundesministerium fürBildung und Forschung":http://www.bmbf.de/ |"Sal. Oppenheim-Stiftung zur Förderung der

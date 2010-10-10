@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Forum romanum (German)'
+title: Forum romanum (German)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=1&skin=0&tx_ttnews[tt_news]=29&tx_ttnews[backPid]=65&cHash=d87029f3e2
 ---
 <%# TODO: translate %>

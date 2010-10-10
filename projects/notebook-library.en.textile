@@ -1,19 +1,19 @@
 ---
 layout: default
-title: 'Notebook-Bibliothek. Digitale und analoge Medien in wissenschaftlichen Bibliotheken'
+title: Notebook-Bibliothek. Digitale und analoge Medien in wissenschaftlichen Bibliotheken
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=322&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-
+h3. Projektpartner
 
 Kunsthistorisches Institut der Universität zu Köln ("www.uni-koeln.de/phil-fak/khi":http://www.uni-koeln.de/phil-fak/khi/)
 
 *Projektlaufzeit:* 01.08.2002 - 15.07.2003
 
+*"www.uni-koeln.de/phil-fak/khi/NotebookBib/index.html":http://www.uni-koeln.de/phil-fak/khi/NotebookBib/index.html*
+
+h3. Projektbeschreibung
 
 Um die Neuen Medien als selbstverständliches Arbeitsmittel in den Studienalltag einzuführen, bietet das Kunsthistorisches Institut Notebooks zur Ausleihe an. Das Projekt führte gemeinsam mit prometheus Tutorien zum Umgang mit Geräten und Programmen, zur wissenschaftlichen Internetrecherche und zum Erstellen eigener digitaler Präsentationen durch und begleitete die Umstellung des Seminarbetriebs auf die digitalen Bildmedien. Praktische Tipps, Anleitungen und Informationen auf der Internetseite des Instituts erleichtern den Studierenden seitdem die Arbeit.
-
-
-"www.uni-koeln.de/phil-fak/khi/NotebookBib/index.html":http://www.uni-koeln.de/phil-fak/khi/NotebookBib/index.html

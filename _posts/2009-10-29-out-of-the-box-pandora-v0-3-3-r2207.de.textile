@@ -23,7 +23,7 @@ Das Anzeigen der Sternchen in den Datenbankinformationen kann auf den ersten Bli
 <a href="<%=r 'files/blog/collection_0_3_3.png' %>"><img src="<%=r 'files/blog/collection_0_3_3_small.png' %>" alt="Neuheiten in der Bildsammlung" /></a>
 
 Interessant für die Admins unter den Lesern: <strong>Useradmins sehen nun alle Zugänge, für die sie zuständig sind.</strong><br />
-  Bisher sind wir immer davon ausgegangen, dass ein Zugang mit unbestätigter Emailadresse seine Anmeldung noch nicht komplett abgeschlossen hat. Deshalb sind solche Zugänge auch nicht in den Listen der Useradmins aufgetaucht. Dabei hatten wir allerdings übersehen, dass es natürlich etwas seltsam für einen Useradmin ist, gerade einen Zugang für jemanden angelegt zu haben, diesen dann allerdings nicht in der Liste vorzufinden.<br />
+  Bisher sind wir immer davon ausgegangen, dass ein Zugang mit unbestätigter E-Mail-Adresse seine Anmeldung noch nicht komplett abgeschlossen hat. Deshalb sind solche Zugänge auch nicht in den Listen der Useradmins aufgetaucht. Dabei hatten wir allerdings übersehen, dass es natürlich etwas seltsam für einen Useradmin ist, gerade einen Zugang für jemanden angelegt zu haben, diesen dann allerdings nicht in der Liste vorzufinden.<br />
   Deshalb tauchen Zugänge, die von Useradmins angelegt wurden nun auch in der Liste auf.
 
 Wir wünschen natürlich weiterhin viel Spaß bei der Arbeit mit dem prometheus-Bildarchiv und freuen uns auch wie immer über Ihre Rückmeldungen.
@@ -38,6 +38,6 @@ This update to version 0.3.3 includes:
   <li><strong>The average reproduction quality ratings are no longer attached to the databases.</strong><br />
   In order to guard against misunderstandings, the reproduction quality ratings are now removed from the database description. Rating a whole database from only a few votes would simply give a wrong impression.</li>
   <li><strong>Useradmins are now able to see all accounts they are responsible for.</strong><br />
-  Unlike before, useradmins are now able to see accounts which have not yet verified their email addresses if they were created by a useradmin.</li>
+  Unlike before, useradmins are now able to see accounts which have not yet verified their e-mail addresses if they were created by a useradmin.</li>
   <li><strong>As always, we made a bunch of bug fixes and improvements.</strong></li>
 </ul>

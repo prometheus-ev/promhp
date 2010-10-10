@@ -1,0 +1,12 @@
+---
+layout: default
+title: Bereitstellung der Daten
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=78&L=0&skin=0
+---
+h2. <%= page_title %>
+
+Die Daten der eingebundenen Datenbanken können prometheus auf verschiedenen Wegen bereitgestellt werden.
+
+# Der Datenbankbetreiber sendet die Metadaten-Datei und Bilder auf CD/DVD-R prometheus per Briefpost zu.
+# Der Datenbankbetreiber legt Metadaten-Datei und Bilder auf einem eigenen FTP-Server ab, zu dem prometheus Zugang erhält. Alternativ sind die entsprechenden Datei über HTTP aus einem (passwortgeschützen) Verzeichnis abrufbar.
+# Der Datenbankbetreiber richtet einen HTTP-Request für prometheus ein, über dem bei Bedarf die Metadaten-Datei ad hoc generiert wird und abgerufen werden kann. Die Bilder sind analog dazu oder per einfachen Link über das WWW erreichbar. Variante 3 wird von prometheus präferiert. Die beschriebenen Bereitstellungsverfahren können auch gemischt zum Einsatz kommen (z.B. Bilder per Briefpost und Metadaten-Datei per HTTP-Request). Im Einzelfall können auch weitere Datenübertragungswege mit prometheus abgesprochen werden.

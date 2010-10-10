@@ -30,4 +30,4 @@ Image data base applications
 
 
 "» Standard data - norm data":<%=r 'tools/pknd' %>
-Wordlists and thesauruses for the standardization of the metadata acquisition and/or –output.
+Wordlists and thesauruses for the standardization of the metadata acquisition and/or output.

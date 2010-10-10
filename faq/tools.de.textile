@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'FAQ: Nutzung einzelner Werkzeuge'
+title: "FAQ: Nutzung einzelner Werkzeuge"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=49
 ---
 h2. <%= page_title %>
@@ -41,7 +41,7 @@ Der projektor + editor sind ein eigenständiges Programm, dass Sie herunterladen
 "Werkzeuge - Programme":<%=r 'tools/programs/projektor-editor' %>
 Der *projektor* zeigt den im editor erstellten Vortrag mit Einzelbildschaltungen, Direktauswahl, Texteinblendungen und Vergrößerungen.
 Mit dem *editor* können heruntergeladene Bilder wie auf einem Leuchtpult gesammelt und sortiert werden. Dies ist auch ohne persönlichen Account möglich.
-Infoblatt „Erstellen einer Bildpräsentation mit editor und projektor“ – herunterzuladen unter: "Werkzeuge - Leitfaden (eikonline 3)":<%=r 'tools/manuals/eikonline-3' %>
+Infoblatt "Erstellen einer Bildpräsentation mit editor und projektor" - herunterzuladen unter: "Werkzeuge - Leitfaden (eikonline 3)":<%=r 'tools/manuals/eikonline-3' %>
 
 *Wie kann ich offline eine Präsentation erstellen?*
 Sie können mit dem "projektor + editor":<%=r 'tools/programs/projektor-editor' %> offline eine Präsentation erstellen. Dazu laden Sie aus prometheus die Bilder herunter und erstellen eine Präsentation mit dem Projektor. Hier können Sie auch eigene Bilder einfügen.

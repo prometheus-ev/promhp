@@ -4,7 +4,7 @@ title: Newsletter 2009 / 03
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=481
 ---
 h2. <%= page_title %>
-*prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
+*prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
 
 "www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de
 
@@ -47,10 +47,8 @@ Für die Verleihung des Grimme Online Award am 24. Juni 2009 in Köln hofft das 
 
 Kontakt:
 
-PD Dr. Holger Simon, prometheus – Das digitale Bildarchiv für Forschung und Lehre e.V. ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de, 0221 470 4476)
+PD Dr. Holger Simon, prometheus - Das digitale Bildarchiv für Forschung und Lehre e.V. ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de, 0221 470 4476)
 
 Dr. Andreas Rutz, Institut für Geschichtswissenschaft, Abt. für Rheinische Landesgeschichte der Universität Bonn ("www.landesgeschichte.uni-bonn.de":http://landesgeschichte.uni-bonn.de, 0228 739 766)
 
-eMail: "info@historischesarchivkoeln.de":mailto:info@historischesarchivkoeln.de
-
-
+E-Mail: "info@historischesarchivkoeln.de":mailto:info@historischesarchivkoeln.de

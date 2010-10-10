@@ -1,0 +1,10 @@
+---
+layout: default
+title: Registration and Licenses
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=33&L=1
+---
+h2. <%= page_title %>
+
+The prometheus image archive is a broker that brings together an array of diverse databases. The image holders put their databases at disposal free of charge for use in research and education.
+
+The license fees are used exclusively to cover the expense arising from running, managing, and improving the image archive. The association prometheus e.V. ("gemeinnütziger Verein") is decidedly non-commercial.

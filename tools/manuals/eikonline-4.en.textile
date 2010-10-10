@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'eikonline_4: DigiDiathek Nutzung (German)'
+title: "eikonline_4: DigiDiathek Nutzung (German)"
 ---
 <%# TODO: translate %>
 h2. <%= page_title %>

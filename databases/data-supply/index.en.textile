@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Supplying data
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=78&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+title: Information for database suppliers
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=72&L=1
 ---
-<%# TODO: translate %>
 h2. <%= page_title %>
 
-Die Daten der eingebundenen Datenbanken können prometheus auf verschiedenen Wegen bereitgestellt werden.
+This area is addressed to institutions and individuals interested in integrating a database in prometheus.
 
-# Der Datenbankbetreiber sendet die Metadaten-Datei und Bilder auf CD/DVD-R prometheus per Briefpost zu.
-# Der Datenbankbetreiber legt Metadaten-Datei und Bilder auf einem eigenen FTP-Server ab, zu dem prometheus Zugang erhält. Alternativ sind die entsprechenden Datei über HTTP aus einem (passwortgeschützen) Verzeichnis abrufbar.
-# Der Datenbankbetreiber richtet einen HTTP-Request für prometheus ein, über dem bei Bedarf die Metadaten-Datei ad hoc generiert wird und abgerufen werden kann. Die Bilder sind analog dazu oder per einfachen Link über das WWW erreichbar. Variante 3 wird von prometheus präferiert. Die beschriebenen Bereitstellungsverfahren können auch gemischt zum Einsatz kommen (z.B. Bilder per Briefpost und Metadaten-Datei per HTTP-Request). Im Einzelfall können auch weitere Datenübertragungswege mit prometheus abgesprochen werden.
+*All information can be downloaded as PDF (in the moment only in German):*
+"infos_fuer_dblieferer.pdf":<%=r 'files/text/infos_fuer_dblieferer_01.pdf' %>

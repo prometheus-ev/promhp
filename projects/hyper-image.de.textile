@@ -5,26 +5,25 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=325
 ---
 h2. <%= page_title %>
 
+h3. Projektpartner
 
-
-*Projektpartner:*
 Humboldt-Universität zu Berlin ("www.hu-berlin.de":http://www.hu-berlin.de/)
 Universität Lüneburg ("www.uni-lueneburg.de":http://www.uni-lueneburg.de/uni/index.php?id=kulturinformatik)
 zweitwerk - software engineering GmbH ("www.zweitwerk.com":http://www.zweitwerk.com/)
 
+*Projektlaufzeit:* 01.06.2006 - 31.05.2009
 
-*Projektlaufzeit:* 01.06.2006 – 31.05.2009
+h3. Projektbeschreibung
 
-
-*Ziel des Projektes* ist es, innovative Wege zur kollaborativen Zusammenstellung und Bearbeitung von Bildcorpora zu erschließen. Mittels des künftigen HyperImage-Editors können einerseits beliebig viele Details innerhalb eines Bildes präzise markiert und beschrieben werden. Andererseits können die Annotationen des jeweiligen Corpus von Hand wie auch automatisch untereinander verlinkt und über Indizes erschlossen werden. Die Arbeitsumgebung ist webbasiert und frei konfigurierbar in Bezug auf die Zugriffsrechte. Zwischenergebnisse wie endgültige Fassungen lassen sich jederzeit als hypermediale online- oder offline-Publikation erstellen. Die Anwendung wird unter den Richtlinien der GNU General Public License erstellt.
+Ziel des Projektes ist es, innovative Wege zur kollaborativen Zusammenstellung und Bearbeitung von Bildcorpora zu erschließen. Mittels des künftigen HyperImage-Editors können einerseits beliebig viele Details innerhalb eines Bildes präzise markiert und beschrieben werden. Andererseits können die Annotationen des jeweiligen Corpus von Hand wie auch automatisch untereinander verlinkt und über Indizes erschlossen werden. Die Arbeitsumgebung ist webbasiert und frei konfigurierbar in Bezug auf die Zugriffsrechte. Zwischenergebnisse wie endgültige Fassungen lassen sich jederzeit als hypermediale online- oder offline-Publikation erstellen. Die Anwendung wird unter den Richtlinien der GNU General Public License erstellt.
 
 Im Rahmen der Kooperation zwischen prometheus und HyperImage werden die HyperImage-Nutzer (bei Vorliegen einer entsprechenden prometheus-Lizenz) für ihre Arbeit auf Datenmaterial von prometheus zugreifen und im HyperImage-Editor verwenden können.
 
-
 *Finanzierung:* BMBF
 
+h3. Ansprechpartner
 
 *Projektleitung HUB:*
 Prof. Dr. Peter Schirmbacher
 Tel.: 030 2093-7010
-E-mail: "schirmbacher@cms.hu-berlin.de":mailto:schirmbacher@cms.hu-berlin.de
+E-Mail: "schirmbacher@cms.hu-berlin.de":mailto:schirmbacher@cms.hu-berlin.de

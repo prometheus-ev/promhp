@@ -4,9 +4,9 @@
   <img src="<%=r "files/images/tags.#{page.lang}.png" %>" width="363" height="284" border="0" usemap="#tags" />
 
   <map name="tags">
-    <area shape="rect" coords="57,53,290,108"  alt="<%= n = t('Searching', 'Suchen') %>"        title="<%= n %>" href="<%=r 'prometheus#searching' %>" />
-    <area shape="rect" coords="86,108,335,155" alt="<%= n = t('Collecting', 'Sammeln') %>"      title="<%= n %>" href="<%=r 'prometheus#collecting' %>" />
-    <area shape="rect" coords="40,155,296,195" alt="<%= n = t('Presenting', 'Präsentieren') %>" title="<%= n %>" href="<%=r 'prometheus#presenting' %>" />
+    <area shape="rect" coords="57,53,290,108"  alt="<%= n = t('Searching', 'Suchen') %>"        title="<%= n %>" href="<%=r 'prometheus/about#searching' %>" />
+    <area shape="rect" coords="86,108,335,155" alt="<%= n = t('Collecting', 'Sammeln') %>"      title="<%= n %>" href="<%=r 'prometheus/about#collecting' %>" />
+    <area shape="rect" coords="40,155,296,195" alt="<%= n = t('Presenting', 'Präsentieren') %>" title="<%= n %>" href="<%=r 'prometheus/about#presenting' %>" />
   </map>
 </div>
 
@@ -15,7 +15,7 @@
 
   <ul>
     <li>
-      <% link = %Q{<a href="#{r 'prometheus'}">%s</a>} %><%=
+      <% link = %Q{<a href="#{r 'prometheus/about'}">%s</a>} %><%=
         link % %Q{<img src="#{r 'files/icons/info.gif'}" alt="Info" />}
       %><%=
         link % t('Learn more about us', 'Erfahren Sie mehr über uns')

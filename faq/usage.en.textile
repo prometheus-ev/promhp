@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'FAQ: Utilisation of the prometheus image archive'
+title: "FAQ: Utilisation of the prometheus image archive"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=46&L=1&skin=
 ---
 h2. <%= page_title %>
@@ -27,21 +27,21 @@ To receive a license please contact the Hochschulbibliothekszentrum (HBZ). ("inh
 The IP-address of the respective computer of the University is activated so research can be done online.
 
 *Can I use the image archive at home?*
-Yes the image archive can be used either with a personalized account with a “user name” and a pin or you can log on to the University network and then use the campus account to log-in the image archive.
+Yes the image archive can be used either with a personalized account with a "user name" and a pin or you can log on to the University network and then use the campus account to log-in the image archive.
 
 *What can I do when the access gets denied in spite of a personalized account and the right pin?*
 First you need to check if your user name and your pin is correct. Did you watch the case sensitivity?
 If you do not remember your pin, please use the 'Forgot your password?'-Button.
 Furthermore make sure that your browser accepts cookies and that JavaScript is activated.
 
-In case you are using *Internet-Explorer* you can adjust it with Extras – Internetoptions –Data Security – Accept all cookies.
-“Execute JavaScript” can be activated with Extras – Internetoptions – Security – Internet – Active Scripting
+In case you are using *Internet-Explorer* you can adjust it with Extras - Internetoptions - Data Security - Accept all cookies.
+"Execute JavaScript" can be activated with Extras - Internetoptions - Security - Internet - Active Scripting
 
-In case you are using *Mozilla Firefox* you can click on Extras – Adjustments – Data Security – Cookies – Accept cookies, followed by Extras – Adjustments – Web Features – Activate JavaScript
+In case you are using *Mozilla Firefox* you can click on Extras - Adjustments - Data Security - Cookies - Accept cookies, followed by Extras - Adjustments - Web Features - Activate JavaScript
 
-In case you are using *Opera* you can click on Extras – Adjustments – Advanced – Cookies – Accept Cookies and Extras – Adjustments – Advanced – JavaScript – Activate JavaScript
+In case you are using *Opera* you can click on Extras - Adjustments - Advanced - Cookies - Accept Cookies and Extras - Adjustments - Advanced - JavaScript - Activate JavaScript
 
-In case you are using *Netscape* you can set a mark under Edit – Adjustments – Advanced: Scripts and Plug-ins at “enable JavaScript for”
+In case you are using *Netscape* you can set a mark under Edit - Adjustments - Advanced: Scripts and Plug-ins at "enable JavaScript for"
 
 *The campus account is denied in spite of the activation of the IP-field. What can I do?*
 Please check the activated IP with our office.

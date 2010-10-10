@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'eikonline_2: Bildreproduktion (German)'
+title: "eikonline_2: Bildreproduktion (German)"
 ---
 <%# TODO: translate %>
 h2. <%= page_title %>

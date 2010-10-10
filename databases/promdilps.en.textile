@@ -16,7 +16,7 @@ New:  "DILPS-FAQ":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki
 | !<%=r 'files/images/a0a80639ef.jpg' %>!:<%=r 'files/images/f54408615b.jpg' %> | !<%=r 'files/images/62a1d35746.jpg' %>!:<%=r 'files/images/5c060fef62.jpg' %> | !<%=r 'files/images/8c239c26ae.jpg' %>!:<%=r 'files/images/3026bbea05.jpg' %> |
 | Retrieval | Edit | Overview |
 
-Since 2006 p r o m e t h e u s offers the use of the promDILPS image database free of charge. promDILPS is based in the software DILPS. Images and data record sets can be archived without having to use a server. All you need is a good scanner and a digital camera!
+Since 2006, prometheus offers the use of the promDILPS image database free of charge. promDILPS is based on the software DILPS. Images and data record sets can be archived without having to use a server. All you need is a good scanner and a digital camera!
 
 Access to promDILPS is as easy as searching the web.
 

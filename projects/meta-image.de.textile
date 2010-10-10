@@ -5,27 +5,24 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=496
 ---
 h2. <%= page_title %>
 
+h3. Projektpartner
 
-*Projektpartner:*
 Humboldt-Universität zu Berlin ("www.hu-berlin.de":http://www.hu-berlin.de/)
-Leuphana Universität Lüneburg ("www.leuphana.de":)
+Leuphana Universität Lüneburg ("www.leuphana.de":http://www.leuphana.de/)
 prometheus-Bildarchiv, Köln ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de/)
 
+*Projektlaufzeit:* 01.12.2009 - 30.11.2011
 
-*Projektlaufzeit:* 01.12.2009 – 30.11.2011
+*"www.meta-image.de":http://www.meta-image.de/*
 
+h3. Projektbeschreibung
 
-"www.meta-image.de":http://www.meta-image.de/
+Ziel des Projektes ist eine "verteilte virtuelle Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte" zu entwickeln. Das Projekt ist auf zwei Jahre angelegt und im Förderbereich "Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)" der Deutschen Forschungsgemeinschaft angesiedelt.
+Für prometheus geht es vor allem darum, die Möglichkeiten der ‚digitalen Bildinterpretation‘ und des kollaborativen Arbeitens innerhalb des Bildarchivs zu erweitern. Mit der Integration des genuin bildorientierten Werkzeugs "HyperImage" werden auf das Detail zielende Bilddiskurstechniken Anwendung finden. Dann wird es möglich sein, gemeinsam oder individuell an beliebigen Bildausschnitten zu arbeiten, Bilddetails präzise zu markieren, zu beschreiben und miteinander zu verknüpfen. Die freigegebenen Meta-Informationen sollen später in das Bildarchiv zurückgeführt werden, so dass sie dann für die gesamte Forschungsgemeinschaft zur Verfügung stehen.
 
+*Finanzierung:* DFG - Deutsche Forschungsgemeinschaft
 
-*Ziel des Projektes* ist eine „verteilte virtuelle Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte“ zu entwickeln. Das Projekt ist auf zwei Jahre angelegt und im Förderbereich „Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)“ der Deutschen Forschungsgemeinschaft angesiedelt.
-Für prometheus geht es vor allem darum, die Möglichkeiten der ‚digitalen Bildinterpretation‘ und des kollaborativen Arbeitens innerhalb des Bildarchivs zu erweitern. Mit der Integration des genuin bildorientierten Werkzeugs „HyperImage“ werden auf das Detail zielende Bilddiskurstechniken Anwendung finden. Dann wird es möglich sein, gemeinsam oder individuell an beliebigen Bildausschnitten zu arbeiten, Bilddetails präzise zu markieren, zu beschreiben und miteinander zu verknüpfen. Die freigegebenen Meta-Informationen sollen später in das Bildarchiv zurückgeführt werden, so dass sie dann für die gesamte Forschungsgemeinschaft zur Verfügung stehen.
-
-
-*Finanzierung:* DFG - Deutschen Forschungsgemeinschaft
-
-
-Antragsteller:
+h3. Antragsteller
 
 PD Dr. Martin Warnke
 Leuphana Universität Lüneburg
@@ -45,8 +42,7 @@ Computer- und Medienservice
 Unter den Linden 6
 10117 Berlin
 
-
 *Projektleitung Leuphana Universität Lüneburg:*
 PD Dr. Martin Warnke
 Tel.: 04131 677 1202
-E-mail: "warnke@leuphana.de":mailto:warnke@leuphana.de
+E-Mail: "warnke@leuphana.de":mailto:warnke@leuphana.de

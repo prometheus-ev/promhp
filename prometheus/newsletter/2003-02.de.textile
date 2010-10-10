@@ -11,7 +11,7 @@ h2. <%= page_title %>
 Liebe Leserinnen und Leser,
 liebe assoziierte Partner und Interessierte,
 
-nachdem sich nun die ersten Wogen des Semesteranfangs etwas geglättet haben, möchten wir Sie über die aktuellsten Entwicklungen bei p r o m e t h e u s  informieren.
+nachdem sich nun die ersten Wogen des Semesteranfangs etwas geglättet haben, möchten wir Sie über die aktuellsten Entwicklungen bei prometheus informieren.
 Bereits an dieser Stelle lade ich alle assoziierten Partner und Interessierten zu unserem kleinen Workshop am 1. Dezember 2003 nach Gießen ein. Weitere Auskünfte hierzu erhalten Sie auf Anfrage oder in diesem Newsletter.
 
 Mit herbstlichen Grüßen und auf ein Wiedersehen in Gießen,
@@ -105,7 +105,7 @@ voraussichtliches Ende
 
 
 
-Der letzte Programmpunkt richtet sich vor allem an unsere assoziierten Partner und alle, die es werden wollen. Ihre Meinungen und Vorschläge liegen uns sehr am Herzen. Wir hoffen, mit Ihnen gemeinsam eine fruchtbare Diskussion über Verstetigungskonzepte und Zukunftsperspektiven von prometheus führen zu dürfen, und freuen uns auf Ihr Kommen. Bitte melden Sie sich bis zum 14. November 2003 bei Claudia Rust per eMail unter Claudia.Weiser@geschichte.uni-giessen.de an.
+Der letzte Programmpunkt richtet sich vor allem an unsere assoziierten Partner und alle, die es werden wollen. Ihre Meinungen und Vorschläge liegen uns sehr am Herzen. Wir hoffen, mit Ihnen gemeinsam eine fruchtbare Diskussion über Verstetigungskonzepte und Zukunftsperspektiven von prometheus führen zu dürfen, und freuen uns auf Ihr Kommen. Bitte melden Sie sich bis zum 14. November 2003 bei Claudia Rust per E-Mail unter Claudia.Weiser@geschichte.uni-giessen.de an.
 
 
 

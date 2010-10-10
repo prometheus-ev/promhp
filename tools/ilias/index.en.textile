@@ -1,25 +1,15 @@
 ---
 layout: default
 title: Learning platform ILIAS
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=38&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=38&L=1
 ---
 h2. <%= page_title %>
 
-
 *Use our ILIAS-installation as platform for your courses!*
-
-
-
-"» Ilias-Login":http://prometheus.khi.uni-koeln.de/ilias/login.php?target=&soap_pw=&ext_uid=&cookies=nocookies&client_id=prometheus&lang=de
-
-
+"» Ilias-Login":http://prometheus-app.uni-koeln.de/ilias/
 
 You have no access for ILIAS? Please click here:
-
 "» user account":<%=r 'tools/ilias/account' %>
 
-
-
-You want to get more information about ILIAS and why  p r o m e t h e u s  provides an ILIAS-installation?
-
+You want to get more information about ILIAS and why prometheus provides an ILIAS-installation?
 "» Why ILIAS?":<%=r 'tools/ilias/why' %>

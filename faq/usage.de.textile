@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'FAQ: Nutzung des verteilten Bildarchivs prometheus'
+title: "FAQ: Nutzung des verteilten Bildarchivs prometheus"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=46
 ---
 h2. <%= page_title %>
@@ -38,14 +38,14 @@ Wenn Sie Ihr Passwort vergessen haben, können Sie über die 'Passwort vergessen
 
 Außerdem sollten Sie überprüfen, ob in Ihrem Browser die Annahme von Cookies und das Ausführen von JavaScript aktiviert sind.
 
-Wenn Sie den *Internet Explorer* nutzen, können Sie unter Extras – Internetoptionen – Datenschutz –  „Alle Cookies annehmen“ einstellen und
-Das „Ausführen von JavaScript“ können Sie über Extras – Internetoptionen – Sicherheit –  Internet  - Stufe anpassen – Scripting: Active Scripting -  aktivieren anklicken - erlauben.
+Wenn Sie den *Internet Explorer* nutzen, können Sie unter Extras - Internetoptionen - Datenschutz -  "Alle Cookies annehmen" einstellen und
+Das "Ausführen von JavaScript" können Sie über Extras - Internetoptionen - Sicherheit -  Internet  - Stufe anpassen - Scripting: Active Scripting -  aktivieren anklicken - erlauben.
 
-Wenn Sie *Mozilla Firefox* nutzen, können Sie unter Extras – Einstellungen – Datenschutz – Cookies – „Cookies akzeptieren“ anklicken und unter Extras – Einstellungen – Web-Features  – „JavaScript aktivieren“ anklicken.
+Wenn Sie *Mozilla Firefox* nutzen, können Sie unter Extras - Einstellungen - Datenschutz - Cookies - "Cookies akzeptieren" anklicken und unter Extras - Einstellungen - Web-Features  - "JavaScript aktivieren" anklicken.
 
-Wenn Sie *Opera* nutzen, können Sie unter Extras – Einstellungen – Erweitert – Cookies – „Cookies annehmen“ und unter Extras – Einstellungen – Erweitert – Javascript – „JavaScript aktivieren“ anklicken.
+Wenn Sie *Opera* nutzen, können Sie unter Extras - Einstellungen - Erweitert - Cookies - "Cookies annehmen" und unter Extras - Einstellungen - Erweitert - Javascript - "JavaScript aktivieren" anklicken.
 
-Wenn Sie *Netscape* nutzen, können Sie unter Bearbeiten – Einstellungen – Erweitert: Scripts und Plug-Ins ein Häkchen bei „enable JavaScript for“ setzen.
+Wenn Sie *Netscape* nutzen, können Sie unter Bearbeiten - Einstellungen - Erweitert: Scripts und Plug-Ins ein Häkchen bei "enable JavaScript for" setzen.
 
 *Unserer Hochschule wird trotz Freischaltung des IP-Bereichs der Campuszugang verweigert. Was kann ich tun?*
 Bitte überprüfen Sie die freigeschalteten IPs bei der Geschäftsstelle.

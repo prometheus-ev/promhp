@@ -11,7 +11,7 @@ Liebe Abonnentin, lieber Abonnent,
 
 mit dem vierten und letzten Newsletter dieses Jahres dürfen wir Sie einmal wieder über die Aktivitäten von prometheus, über das Bildarchiv und die Arbeit im Verein informieren. Hinzu tritt die fortgesetzte Berichterstattung über den aktuellen Stand der Urheberrechtsreform, die alle in Bildung und Wissenschaft Tätige betreffen wird und insofern Priorität auch für die Informationspolitik von prometheus e.V. besitzt.
 
-Wir wünschen eine gute Lektüre und bedanken uns – auch mit Blick auf den nächsten Newsletter – für Kritik, Kommentare und Anregungen aller Art.
+Wir wünschen eine gute Lektüre und bedanken uns - auch mit Blick auf den nächsten Newsletter - für Kritik, Kommentare und Anregungen aller Art.
 
 Herzlichst,
 für prometheus e.V.
@@ -34,11 +34,11 @@ Sigrid Ruby
 
 6.) neue Partner
 
-7.) prometheus –  facts & figures
+7.) prometheus -  facts & figures
 
 8.) Mitteilungen der Partner
 
-9.) prometheus – Kontakt
+9.) prometheus - Kontakt
 
 
 
@@ -60,7 +60,7 @@ Die Umsetzung von Gender Mainstreaming (GM) in allen Arbeitsbereichen war und is
 *3.) MEDIDA-PRIX-Finale in Graz*
 
 Beim MEDIDA-PRIX-Finale in Graz (15.-17. September 2004) war prometheus mit sieben Personen aus allen ehemaligen Projektstandorten vertreten.
-Am Stand gab es erfreulich regen Publikumsverkehr und eine ausgesprochen positive Resonanz. Als besonders interessant und fruchtbar erwies sich der Austausch mit Kolleginnen und Kollegen aus den Konkurrenzbewerbungen – in ausnehmend freundschaftlicher Atmosphäre, die für die ganze Tagung charakteristisch war. Dass die eher konzeptuell ausgerichteten Lernelemente von prometheus mit den inhaltsreichen Lernprogrammen der meisten anderen Projekte bislang nur bedingt konkurrieren können, war im Vorfeld klar. Von Herzen gratuliert prometheus den Preisträgern von Graz:
+Am Stand gab es erfreulich regen Publikumsverkehr und eine ausgesprochen positive Resonanz. Als besonders interessant und fruchtbar erwies sich der Austausch mit Kolleginnen und Kollegen aus den Konkurrenzbewerbungen - in ausnehmend freundschaftlicher Atmosphäre, die für die ganze Tagung charakteristisch war. Dass die eher konzeptuell ausgerichteten Lernelemente von prometheus mit den inhaltsreichen Lernprogrammen der meisten anderen Projekte bislang nur bedingt konkurrieren können, war im Vorfeld klar. Von Herzen gratuliert prometheus den Preisträgern von Graz:
 PathoBasiliensis (Basel), pastperfect (Wien) und Virtual Excursion (Zürich).
 
 "http:/www.medidaprix.org":http://www.medidaprix.org/
@@ -120,7 +120,7 @@ Seit Mitte des Jahres haben sich erneut eine Vielzahl von Institutionen im In- u
 * die Kunst- und Ausstellungshalle der Bundesrepublik in Bonn
 * der Lehrstuhl für Kunstgeschichte und Christliche Archäologie der Universität Freiburg im Breisgau
 * die Kunsthochschule in Kassel
-* die kunstgeschichtliche Abteilung (Section de l’historie de l’art) der Universität Lausanne
+* die kunstgeschichtliche Abteilung (Section de l'historie de l'art) der Universität Lausanne
 * das Institut für Kunstgeschichte der Universität Leipzig
 * das Museumspädagogische Zentrum in München
 * der Fachbereich Design der Fachhochschule Münster
@@ -132,7 +132,7 @@ Seit Mitte des Jahres haben sich erneut eine Vielzahl von Institutionen im In- u
 
 
 
-*7.) prometheus – facts & figures*
+*7.) prometheus - facts & figures*
 
 Derzeit können über 170.000 Bilder aus 22 Datenbanken über prometheus recherchiert werden. 2300 Zugänge werden genutzt. 67 Partnerinstitutionen arbeiten in prometheus e.V. zusammen. … und 1800 Personen beziehen diesen Newsletter.
 
@@ -151,7 +151,7 @@ Auf der Veranstaltung diskutierten Vertreterinnen und Vertreter aus Politik, Hoc
 
 
 
-*9.) prometheus – Kontakt*
+*9.) prometheus - Kontakt*
 
 Partner von prometheus e.V. werden
 An einer Partnerschaft mit prometheus e.V. interessierte Institutionen oder Privatpersonen wenden sich bitte an Vorstandsmitglied Dr. Dorothee Haffner "dorothee.haffner@rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de.

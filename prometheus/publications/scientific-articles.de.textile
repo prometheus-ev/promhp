@@ -7,7 +7,7 @@ h2. <%= page_title %>
 
 Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
 Meta-Image - Forschungsumgebung für den Bilddiskurs in der Kunstgeschichte
-in: Sieck, Jürgen (Hrsg.): Kultur und Informatik. Interaktive Systeme. Berlin, 2010, S. 183–188. [104]
+in: Sieck, Jürgen (Hrsg.): Kultur und Informatik. Interaktive Systeme. Berlin, 2010, S. 183-188. [104]
 
 Dieckmann, Lisa u.a.
 Meta Image - a collaborative environment for the image discourse
@@ -51,7 +51,7 @@ in: Kunstchronik 60, 2007, S. 516-520.
 "http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2008/528/":http://archiv.ub.uni-heidelberg.de/artdok/volltexte/2008/528/ [103]
 
 Haffner, Dorothee
-Digitale Diatheken und Bildarchive – (Kunsthistorische) Bildrecherche im Internet anno 2006
+Digitale Diatheken und Bildarchive - (Kunsthistorische) Bildrecherche im Internet anno 2006
 in: Rundbrief Fotografie, Vol. 13 (2006), No. 1 [N.F. 49], S. 12-15. [90]
 
 Simon, Holger
@@ -66,7 +66,7 @@ in: Rundbrief Fotografie. Analoge und digitale Bildmedien in Archiven und Sammlu
 "http://kunstsi.uni-koeln.de/publ/06RundbrFoto.pdf":http://kunstsi.uni-koeln.de/publ/06RundbrFoto.pdf [96]
 
 Haffner, Dorothee
-prometheus – das verteilte digitale Bildarchiv für Forschung & Lehre e. V. – Stand der Dinge
+prometheus - das verteilte digitale Bildarchiv für Forschung & Lehre e. V. - Stand der Dinge
 in: AKMB news 11 (2005), Heft 1, S. 41-43 [89]
 
 Simon, Holger

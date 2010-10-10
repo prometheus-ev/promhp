@@ -5,12 +5,12 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=68
 ---
 h2. <%= page_title %>
 
-"PD Dr. Holger Simon":mailto:holger.simon@uni-koeln.de (Vorsitzender)
-"Prof. Dr. Dorothee Haffner":mailto:dorothee.haffner@htw-berlin.de (stellv. Vorsitzende)
-"Dr. Stefan Brenne":mailto:stefan.brenne@geschichte.uni-giessen.de (Schatzmeister)
-"PD Dr. Norbert Eschbach":mailto:norbert.eschbach@geschichte.uni-giessen.de (stellv. Schatzmeister)
-"Lisa Dieckmann M.A.":mailto:lisa.dieckmann@uni-koeln.de (Schriftführerin)
-"Dr. Ute Verstegen":mailto:ute.verstegen@theologie.uni-erlangen.de (Beisitzerin)
-"Dr. Bettina Pfleging":mailto:bettina.pfleging@uni-koeln.de (Beisitzerin)
-"PD Dr. Sigrid Ruby":mailto:sigrid.ruby@geschichte.uni-giessen.de (Beisitzerin)
-"Sabine Scheele M.A.":mailto:sabine.scheele@s2w3.com (Beisitzerin)
+* "PD Dr. Holger Simon":mailto:holger.simon@uni-koeln.de (Vorsitzender)
+* "Prof. Dr. Dorothee Haffner":mailto:dorothee.haffner@htw-berlin.de (stellv. Vorsitzende)
+* "Dr. Stefan Brenne":mailto:stefan.brenne@geschichte.uni-giessen.de (Schatzmeister)
+* "PD Dr. Norbert Eschbach":mailto:norbert.eschbach@geschichte.uni-giessen.de (stellv. Schatzmeister)
+* "Lisa Dieckmann M.A.":mailto:lisa.dieckmann@uni-koeln.de (Schriftführerin)
+* "Dr. Ute Verstegen":mailto:ute.verstegen@theologie.uni-erlangen.de (Beisitzerin)
+* "Dr. Bettina Pfleging":mailto:bettina.pfleging@uni-koeln.de (Beisitzerin)
+* "PD Dr. Sigrid Ruby":mailto:sigrid.ruby@geschichte.uni-giessen.de (Beisitzerin)
+* "Sabine Scheele M.A.":mailto:sabine.scheele@s2w3.com (Beisitzerin)

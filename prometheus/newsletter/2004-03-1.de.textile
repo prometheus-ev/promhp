@@ -9,7 +9,7 @@ h2. <%= page_title %>
 
 Liebe Abonnentin, lieber Abonnent,
 
-vier Monate nach Projektende steht fest, dass der Verein als Rechtsnachfolger die Geschicke von prometheus gut zu lenken vermag. In der Sorge um Erhalt, Ausbau und Optimierung des Bildarchivs und seiner Instrumente wurde viel kreative Arbeit geleistet. Die Nominierung für den MEDIDA-PRIX 2004 ist nur einer – allerdings der größte, schönste und öffentlichkeitswirksamste – von vielen Teilerfolgen.
+vier Monate nach Projektende steht fest, dass der Verein als Rechtsnachfolger die Geschicke von prometheus gut zu lenken vermag. In der Sorge um Erhalt, Ausbau und Optimierung des Bildarchivs und seiner Instrumente wurde viel kreative Arbeit geleistet. Die Nominierung für den MEDIDA-PRIX 2004 ist nur einer - allerdings der größte, schönste und öffentlichkeitswirksamste - von vielen Teilerfolgen.
 Dieser Newsletter entstand im Anschluss an die Vorstandssitzung vom 15./16. Juli. Wir freuen uns, Sie hiermit einmal wieder über den aktuellen Stand der Vereinsarbeit informieren zu dürfen. Viel Spaß beim Lesen!
 
 Herzlichst,
@@ -27,8 +27,7 @@ Sigrid Ruby
 
 3.) Neu auf der prometheus-homepage
 
-4.) Urheberrechtsnovelle „2. Korb“
-       – prometheus unterstützt Allianz der Wissenschaften
+4.) Urheberrechtsnovelle "2. Korb" - prometheus unterstützt Allianz der Wissenschaften
 
 5.) Mitteilungen der Partner
 
@@ -36,9 +35,6 @@ Sigrid Ruby
 
 7.) Impressum
 
-
-
- 
 
 *1.) prometheus im Finale für den MEDIDA-PRIX*
 
@@ -55,16 +51,16 @@ Schon die Einladung zum MEDIDA-PRIX-Finale ist eine hohe Auszeichnung. Sie honor
 
 *2.) prometheus-update zu Monatsbeginn*
 
-Fortan wird es an jedem ersten Montag im Monat ein update aller Daten geben. An diesen Tagen wird der Server zwischen 15 und 19 Uhr nicht oder nur sporadisch zu erreichen sein. Wir bedanken uns für Ihr Verständnis! Die „aufgefrischten“ Daten werden mehr zu bieten haben ...
+Fortan wird es an jedem ersten Montag im Monat ein update aller Daten geben. An diesen Tagen wird der Server zwischen 15 und 19 Uhr nicht oder nur sporadisch zu erreichen sein. Wir bedanken uns für Ihr Verständnis! Die "aufgefrischten" Daten werden mehr zu bieten haben ...
 
 
 
 *3.) Neu auf der prometheus-homepage*
 
 projektor01 mit editor:
-prometheus-Mitarbeiterinnen und –Mitarbeiter haben ein einfaches Werkzeug entwickelt, mit dem Sie offline einen digitalen Bildvortrag zusammenstellen und zeigen können. Im editor werden die gewünschten Bilder wie auf einem Leuchtpult gesammelt und angeordnet und dann mit dem projektor01 mit bis zu drei einzeln oder gleichzeitig schaltbaren Projektoren gezeigt. Angenehme Zusatzfunktionen: Die Bilder können in zwei Stufen vergrößert, eigene Kurztexte können zugeblendet werden.
+prometheus-Mitarbeiterinnen und -Mitarbeiter haben ein einfaches Werkzeug entwickelt, mit dem Sie offline einen digitalen Bildvortrag zusammenstellen und zeigen können. Im editor werden die gewünschten Bilder wie auf einem Leuchtpult gesammelt und angeordnet und dann mit dem projektor01 mit bis zu drei einzeln oder gleichzeitig schaltbaren Projektoren gezeigt. Angenehme Zusatzfunktionen: Die Bilder können in zwei Stufen vergrößert, eigene Kurztexte können zugeblendet werden.
 Der aktuelle editor setzt Windows voraus; eine Mac-Version ist in Vorbereitung.
-Derzeit können Sie das Paket hier als zip-Datei herunterladen: www.prometheus-bildarchiv.de > login > Lehre > Ilias-Umgebung > Name: „gast3“, Passwort: „lernen“
+Derzeit können Sie das Paket hier als zip-Datei herunterladen: www.prometheus-bildarchiv.de > login > Lehre > Ilias-Umgebung > Name: "gast3", Passwort: "lernen"
 Über Lob und Tadel freut sich: die Redaktion.
 
 Beschreibungen der Datenbanken der prometheus-Partner:
@@ -76,14 +72,13 @@ Englische Versionen weiterer homepage-Komponenten sollen folgen.
 
 
 
-*4.) Urheberrechtsnovelle „2. Korb“*
-       – prometheus unterstützt Allianz der Wissenschaften
+*4.) Urheberrechtsnovelle "2. Korb" - prometheus unterstützt Allianz der Wissenschaften*
 
-Nach der ersten Anpassung des nationalen Urheberrechts an die EU-Richtlinie zur Regelung des Urheberrechts in der Informationsgesellschaft wird zur Zeit der sog. „2. Korb“ vorbereitet. Wichtige, in der Diskussion befindliche Punkte sind die Regelung einer Pauschalabgabe im Rahmen der Verwertung urheberrechtlich geschützter Werke, der Einsatz von technischen Schutzmaßnahmen zum Rechtemanagement - sog. „Digital Rights Management“ (DRM)-Systeme - und die Privatkopie.
+Nach der ersten Anpassung des nationalen Urheberrechts an die EU-Richtlinie zur Regelung des Urheberrechts in der Informationsgesellschaft wird zur Zeit der sog. "2. Korb" vorbereitet. Wichtige, in der Diskussion befindliche Punkte sind die Regelung einer Pauschalabgabe im Rahmen der Verwertung urheberrechtlich geschützter Werke, der Einsatz von technischen Schutzmaßnahmen zum Rechtemanagement - sog. "Digital Rights Management" (DRM)-Systeme - und die Privatkopie.
 
 Im Rahmen der ersten Anpassung konnten aufgrund von Initiativen einzelner weniger Organisationen aus dem Bereich der Wissenschaft mit der Einfügung des § 52a (Schrankenregelung zur öffentlichen Zugänglichmachung urheberrechtlich geschützter Werke im Bereich von Unterricht, Wissenschaft und Forschung) einschneidendere Bestrebungen des Börsenvereins und der Unterhaltungsindustrie vorläufig verhindert werden. Auch prometheus e.V. hat sich von Beginn an durch Stellungnahmen und eine Unterschriftenaktion an diesen Maßnahmen beteiligt.
 
-Damit in der zweiten Runde die Interessen von Bildung und Wissenschaft stärker als bisher Berücksichtigung finden, hat die Deutsche Initiative für Netzwerkinformation e.V. (DINI) eine ausführliche Stellungnahme vorgelegt mit dem Ziel, eine Allianz der Wissenschaften zu initiieren. prometheus e.V. unterstützt diese Initiative und fordert Sie auf, sich ebenfalls zu beteiligen! Wie die aktuelle Klage des Börsenvereins gegen den wissenschaftlichen Dokumentenlieferdienst subito zeigt, versuchen Interessengruppen mit starker Lobby „rechtzeitig“ zum 2. Korb der Novellierung wichtige Instrumente wissenschaftlicher Tätigkeit zu unterbinden. Davon werden auch Sie in Ihrer wissenschaftlichen Arbeit betroffen sein!
+Damit in der zweiten Runde die Interessen von Bildung und Wissenschaft stärker als bisher Berücksichtigung finden, hat die Deutsche Initiative für Netzwerkinformation e.V. (DINI) eine ausführliche Stellungnahme vorgelegt mit dem Ziel, eine Allianz der Wissenschaften zu initiieren. prometheus e.V. unterstützt diese Initiative und fordert Sie auf, sich ebenfalls zu beteiligen! Wie die aktuelle Klage des Börsenvereins gegen den wissenschaftlichen Dokumentenlieferdienst subito zeigt, versuchen Interessengruppen mit starker Lobby "rechtzeitig" zum 2. Korb der Novellierung wichtige Instrumente wissenschaftlicher Tätigkeit zu unterbinden. Davon werden auch Sie in Ihrer wissenschaftlichen Arbeit betroffen sein!
 
 Informationen unter:
 "http://www.dini.de/documents/DINI-UrhG-K2.pdf":http://www.dini.de/documents/DINI-UrhG-K2.pdf
@@ -101,7 +96,7 @@ Informationen unter:
 *5.) Mitteilungen der Partner*
 
 eLearning. Symposium in Frankfurt a.M.:
-Anfang Oktober findet auf dem Campus der Johann Wolfgang Goethe-Universität in Frankfurt ein Symposium statt zum Thema eLearning – Kooperationsformen, Finanzierungsmodelle und Geschäftmodelle. Szenarien für eine erfolgreiche Implementierung von eLearning an Hochschulen“. Bei der auf hessische Projekte fokussierenden Veranstaltung, zu deren Eröffnung auch Bildungsministerin Edelgard Buhlmahn einen Kurzvortrag halten wird, ist prometheus e.V. als eines von sieben Best Practice Beispielen mit seinen Gießener Partnern vertreten.
+Anfang Oktober findet auf dem Campus der Johann Wolfgang Goethe-Universität in Frankfurt ein Symposium statt zum Thema eLearning - Kooperationsformen, Finanzierungsmodelle und Geschäftmodelle. Szenarien für eine erfolgreiche Implementierung von eLearning an Hochschulen". Bei der auf hessische Projekte fokussierenden Veranstaltung, zu deren Eröffnung auch Bildungsministerin Edelgard Buhlmahn einen Kurzvortrag halten wird, ist prometheus e.V. als eines von sieben Best Practice Beispielen mit seinen Gießener Partnern vertreten.
 
 
 
@@ -112,12 +107,12 @@ Partner von prometheus e.V. werden:
 Durch die Überführung des Projekts in einen Verein haben sich personelle Veränderungen ergeben. An einer Partnerschaft mit prometheus e.V. interessierte Institutionen oder Privatpersonen wenden sich bitte an Vorstandsmitglied Dr. Dorothee Haffner
 
 Bürozeiten der Geschäftsführung:
-prometheus-Geschäftsführer Gerd Mörsch M.A. ist auch weiterhin von Montag bis Donnerstag, jeweils 9-13 Uhr, unter 0221 – 470 4476 (fon) bzw. 5044 (fax) zu erreichen.
+prometheus-Geschäftsführer Gerd Mörsch M.A. ist auch weiterhin von Montag bis Donnerstag, jeweils 9-13 Uhr, unter 0221 - 470 4476 (fon) bzw. 5044 (fax) zu erreichen.
 
 
 
 
 *7.) Impressum*
 
-Der prometheus-Newsletter erscheint viermal im Jahr und immer nach einer Vorstandssitzung. Den nächsten Newsletter (2004/04) gibt’s im Oktober. Redaktion: "sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de
+Der prometheus-Newsletter erscheint viermal im Jahr und immer nach einer Vorstandssitzung. Den nächsten Newsletter (2004/04) gibt's im Oktober. Redaktion: "sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de
 

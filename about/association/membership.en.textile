@@ -5,9 +5,9 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=44&L=1&skin=&tx_ttnews[
 ---
 h2. <%= page_title %>
 
-h5. Get active!
+h3. Get active!
 
-Members of   p r o m e t h e u s  have the opportunity of actively contributing to the integration of new media in research and teaching.
+Members of prometheus have the opportunity of actively contributing to the integration of new media in research and teaching.
 
 Bring out your experiences and represent interests!
 

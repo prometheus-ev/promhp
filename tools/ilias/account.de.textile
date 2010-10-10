@@ -8,7 +8,7 @@ h2. <%= page_title %>
 Derzeit sind aus technischen Gründen getrennte Anmeldungen für das Bildarchiv und die ILIAS-Lernplattform erforderlich. Sie können aber für ILIAS denselben Namen und dasselbe Kennwort verwenden wie im Bildarchiv.
 
 
-h5. In zwei Schritten zu einem Benutzerkonto auf ILIAS:
+h3. In zwei Schritten zu einem Benutzerkonto auf ILIAS:
 
 
 *1. Schritt*

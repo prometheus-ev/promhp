@@ -15,7 +15,7 @@ Darüber hinaus sollten natürlich so viele Daten wie möglich zu einem Objekt a
 So kann prometheus beliebige weitere Informationen zu den Objekten verarbeiten und sie für die Volltextsuche indexieren. Zusammen mit der ersten Zoomstufe eines Bildes werden immer grundsätzlich alle Daten angezeigt, die zum Bild in prometheus vorliegen.
 
 
-h5. Obligatorische Metadaten ("Muss-Felder")
+h3. Obligatorische Metadaten ("Muss-Felder")
 
 Datenbanken, die in prometheus integriert sind, müssen zu jedem Bild mindestens folgende Informationen bereithalten:
 
@@ -32,7 +32,7 @@ Ist der Urheber eines Bildes (z.B. der Fotograf) bekannt, so muss er hier genann
 Der eindeutige Identifikationsvermerk eines Bildes, auf das sich die angegebenen Metadaten beziehen. In der Regel sind hier eindeutige Dateinamen (oder Namenteile) oder Pfade anzugeben (z.B. "image_123.jpg", "123" "archiv/image_123")
 
 
-h5. Fakultative Metadaten ("Soll-Felder")
+h3. Fakultative Metadaten ("Soll-Felder")
 
 Folgende Felder sollten ebenfalls enthalten sein, sind aber für die Zusammenarbeit mit prometheus nicht zwingend erforderlich:
 
@@ -54,7 +54,7 @@ Materialien, aus denen das Objekt hergestellt ist. Hier kann auch die "Technik" 
 *Gattung*
 Bezeichnung für die "Gattung" eines Objekts. Gattungsbezeichnungen können durch einen oder mehrere voneinander getrennte Begriffe spezifiziert werden (z. B. "Skulptur", "Architektur", "Malerei", "Zeichnung" oder "Zeichnung/Grundriss; Architektur/Grundriss"; "Skulptur/Kapitell").
 
-h5. Optionale Metadaten ("Kann-Felder")
+h3. Optionale Metadaten ("Kann-Felder")
 
 Zu jedem Objekt können beliebige weitere Metadaten zu einem Objekt eingebunden werden, die nicht in die Bereich "obligatorisch" und "fakultativ" fallen. Optionale Metadaten werden im Volltextindex erfasst. Sie können über die Volltextsuche recherchiert und mit der ersten Vergrößerung angezeigt werden.
 

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Executive board
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=68&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=68&L=1
 ---
 h2. <%= page_title %>
 
-"PD Dr. Holger Simon":mailto:holger.simon@uni-koeln.de (Chair)
-"Prof. Dr. Dorothee Haffner":mailto:dorothee.haffner@htw-berlin.de (Deputy chair)
-"Dr. Stefan Brenne":mailto:stefan.brenne@geschichte.uni-giessen.de (Treasurer)
-"PD Dr. Norbert Eschbach":mailto:norbert.eschbach@geschichte.uni-giessen.de (Deputy treasurer)
-"Lisa Dieckmann M.A.":mailto:lisa.dieckmann@uni-koeln.de (Secretary)
-"Dr. Ute Verstegen":mailto:ute.verstegen@theologie.uni-erlangen.de (Assessor)
-"Dr. Bettina Pfleging":mailto:bettina.pfleging@uni-koeln.de (Assessor)
-"PD Dr. Sigrid Ruby":mailto:sigrid.ruby@geschichte.uni-giessen.de (Assessor)
-"Sabine Scheele M.A.":mailto:sabine.scheele@s2w3.com (Assessor)
+* "PD Dr. Holger Simon":mailto:holger.simon@uni-koeln.de (Chair)
+* "Prof. Dr. Dorothee Haffner":mailto:dorothee.haffner@htw-berlin.de (Deputy chair)
+* "Dr. Stefan Brenne":mailto:stefan.brenne@geschichte.uni-giessen.de (Treasurer)
+* "PD Dr. Norbert Eschbach":mailto:norbert.eschbach@geschichte.uni-giessen.de (Deputy treasurer)
+* "Lisa Dieckmann M.A.":mailto:lisa.dieckmann@uni-koeln.de (Secretary)
+* "Dr. Ute Verstegen":mailto:ute.verstegen@theologie.uni-erlangen.de (Assessor)
+* "Dr. Bettina Pfleging":mailto:bettina.pfleging@uni-koeln.de (Assessor)
+* "PD Dr. Sigrid Ruby":mailto:sigrid.ruby@geschichte.uni-giessen.de (Assessor)
+* "Sabine Scheele M.A.":mailto:sabine.scheele@s2w3.com (Assessor)

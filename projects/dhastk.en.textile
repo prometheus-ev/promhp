@@ -6,20 +6,20 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=510&L=1&skin=&tx_ttnews
 <%# TODO: translate %>
 h2. <%= page_title %>
 
+h3. Projektpartner
 
-*Projektpartner:*
-prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de)
+prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de)
 Abteilung für Rheinische Landesgeschichte, Institut für Geschichtswissenschaft der Universität Bonn ("www.landesgeschichte.uni-bonn.de":http://www.landesgeschichte.uni-bonn.de)
 
 *Projektlaufzeit:* seit März 2009
 
-"www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/
+*"www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/*
 
-
+h3. Projektbeschreibung
 
 Am 3. März 2009 stürzte das Historische Archiv der Stadt Köln vollständig in sich zusammen. Nur vier Tage nach der Katastrophe wurde "Das digitale Historische Archiv Köln" ins Leben gerufen, um mit der Zusammenführung der Archivalien im Internet die Bestände des Stadtarchivs im Internet zu rekonstruieren und Soforthilfe für aktuelle Forschungen zu leisten. Zudem bietet das Internetportal eine Grundlage für die Rekonstruktion der Originale.
 
-Der digitale Lesesaal soll allen die Möglichkeiten zur eigenen Forschung und zur Kommunikation bieten. Ziel ist ein lebendiger Lesesaal zum Austausch mit anderen Nutzerinnen und Nutzern, mit einer Pinnwand der aktuellen Projekte, mit der Möglichkeit Quellen zu kommentieren und so das Wissen über die Geschichte der Stadt Köln aktiv zu ergänzen. Eine digitale Bibliothek mit Lexika, Zeitschriftenaufsätzen und Büchern ergänzt das Archiv zur Kölner Geschichte.
+Der digitale Lesesaal soll allen die Möglichkeiten zur eigenen Forschung und zur Kommunikation bieten. Ziel ist ein lebendiger Lesesaal zum Austausch mit anderen Nutzerinnen und Nutzern, mit einer Pinnwand der aktuellen Projekte, mit der Möglichkeit, Quellen zu kommentieren und so das Wissen über die Geschichte der Stadt Köln aktiv zu ergänzen. Eine digitale Bibliothek mit Lexika, Zeitschriftenaufsätzen und Büchern ergänzt das Archiv zur Kölner Geschichte.
 
 Natürlich wird das digitale Historische Archiv ständig weiter ausgebaut.
 
@@ -27,15 +27,14 @@ So werden seit Anfang diesen Jahres unter der Rubrik "Restaurierungspatenschafte
 
 Unterstützt wird das Projekt von zahlreichen Institutionen aus den Bereichen Archiv, Restaurierung, Geschichtswissenschaft und Kunstgeschichte, allen voran die Berufsverbände. Darüber hinaus haben sich mittlerweile fast 400 Privatpersonen aus aller Welt als Nutzer registriert, die das Digitale Historische Archiv Köln nutzen und laufend um weitere Dokumente ergänzen.
 
-*Ansprechpartner:*
+h3. Ansprechpartner
 
 PD Dr. Holger Simon
 Tel.: 0221 470-3509
 E-Mail: "holger.simon@uni-koeln.de":mailto:holger.simon@uni-koeln.de
 
-
 Dr. Andreas Rutz | Prof. Dr. Manfred Groten
 Am Hofgarten 22
 D - 53113 Bonn
-Tel. 0228 739766
+Tel.: 0228 739766
 E-Mail: "andreas.rutz@uni-bonn.de":mailto:andreas.rutz@uni-bonn.de

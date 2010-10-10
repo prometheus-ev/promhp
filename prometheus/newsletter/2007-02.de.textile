@@ -4,13 +4,13 @@ title: Newsletter 2007 / 02
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=340
 ---
 h2. <%= page_title %>
-prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.
+prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.
 www.prometheus-bildarchiv.de
 
 
 Liebe Abonnentin, lieber Abonnent,
 
-prometheus wächst und wächst. Wir haben in den letzten Monaten die 400.000-Marke überschritten und sechs neue Bilddatenbanken integriert. Wichtiger noch als die Zahlen sind die immer ergiebigeren Recherche-Ergebnisse – ergiebiger sowohl in quantitativer wie auch in qualitativer Hinsicht. Die Nutzerinnen und Nutzer des Bildarchivs (be-)merken das.
+prometheus wächst und wächst. Wir haben in den letzten Monaten die 400.000-Marke überschritten und sechs neue Bilddatenbanken integriert. Wichtiger noch als die Zahlen sind die immer ergiebigeren Recherche-Ergebnisse - ergiebiger sowohl in quantitativer wie auch in qualitativer Hinsicht. Die Nutzerinnen und Nutzer des Bildarchivs (be-)merken das.
 Auch angesichts der nicht gerade erfreulichen Entwicklung der Urheberrechtsreform betreiben wir unermüdlich und erfolgreich die rechtliche Absicherung unseres Angebots. Der Zugang zum Bild muss für Forschung und Lehre erhalten bleiben!
 
 Wir wünschen Ihnen allen einen schönen Sommer,
@@ -28,8 +28,8 @@ Sigrid Ruby
 4.) Tagungsteilnahmen
 5.) Bundestag beschließt sog. Zweiten Korb der Urheberrechtsreform
 6.) Welterbe erhalten! Unterzeichnen Sie den Dresdner Appell!
-7.) prometheus – facts & figures
-8.) prometheus – Kontakt
+7.) prometheus - facts & figures
+8.) prometheus - Kontakt
 
 
 
@@ -59,7 +59,7 @@ Mehr Informationen: "http://www.ub.tu-berlin.de/architekturmuseum/index.html":ht
 
 Seit Anfang des Jahres dürfen in prometheus Bilder von Werken gezeigt und für Forschung und Lehre genutzt werden, die urheberrechtlich geschützt sind. Von dem hierfür grundlegenden Vertragsabschluß mit der VG BILD-KUNST hatten wir bereits berichtet [vgl. "prometheus newsletter 2007/01":<%=r 'prometheus/newsletter/2007-01' %>].
 
-Alle diese geschützten Werke sind nun eigens gekennzeichnet. Bei der Recherche im prometheus-Archiv tauchen im Feld „Bildnachweis“ eine copyright-Notiz und eine Verknüpfung zur VG BILD-KUNST auf. Dies erleichtert den Nutzerinnen und Nutzern einen rechtlich angemessenen Umgang mit den Bildern.
+Alle diese geschützten Werke sind nun eigens gekennzeichnet. Bei der Recherche im prometheus-Archiv tauchen im Feld "Bildnachweis" eine copyright-Notiz und eine Verknüpfung zur VG BILD-KUNST auf. Dies erleichtert den Nutzerinnen und Nutzern einen rechtlich angemessenen Umgang mit den Bildern.
 
 In Zukunft wollen wir nicht nur das Urheberrecht am abgebildeten Werk, sondern auch das Leistungsschutzrecht am Foto genauer ausweisen. Darüber hinaus soll es bald die Möglichkeit geben, Verwertungsrechte direkt über prometheus beim Rechteinhaber einzuholen.
 
@@ -77,20 +77,20 @@ Mehr Informationen zu dieser in Köln geplanten Tagung erhalten Sie mit dem näc
 
 Knowledge by Networking in Berlin
 
-Am 21. und 22. Juni fand in Berlin im Rahmen der deutschen EU-Ratspräsidentschaft die internationale Tagung „Knowledge by Networking - WISSEN DURCH VERNETZUNG - Kulturgutdigitalisierung in Deutschland und Europa“ statt (www.knowbynet.de). prometheus war mit Postern, einer Präsentation und Dorothee Haffner vertreten.
+Am 21. und 22. Juni fand in Berlin im Rahmen der deutschen EU-Ratspräsidentschaft die internationale Tagung "Knowledge by Networking - WISSEN DURCH VERNETZUNG - Kulturgutdigitalisierung in Deutschland und Europa" statt (www.knowbynet.de). prometheus war mit Postern, einer Präsentation und Dorothee Haffner vertreten.
 
-Inhaltlicher Schwerpunkt der Tagung war die Verknüpfung digitaler Sammlungen zu Online-Verbünden und -Portalen, auch im europäischen Rahmen. Es ging vor allem um Standardisierung, Mehrsprachigkeit, Langzeitarchivierung und Informationsplattformen – also genau um die Themen, die sich auch das prometheus-Team für die nächsten Monate vorgenommen hat.
+Inhaltlicher Schwerpunkt der Tagung war die Verknüpfung digitaler Sammlungen zu Online-Verbünden und -Portalen, auch im europäischen Rahmen. Es ging vor allem um Standardisierung, Mehrsprachigkeit, Langzeitarchivierung und Informationsplattformen - also genau um die Themen, die sich auch das prometheus-Team für die nächsten Monate vorgenommen hat.
 
 Vor dem Hintergrund besonders interessant scheinen zwei im Aufbau begriffene Online-Portale:
 - das europäische Portal MICHAEL (www.michaelculture.org), ein mehrsprachiges Inventar des kulturellen Erbes in Europa, und
 - das Informationsportal Kulturerbe-digital (www.kulturerbe-digital.de), das Hilfestellung bei allen Fragen zur Digitalisierung des kulturellen Erbes geben wird.
 
-Die abschließende Podiumsdiskussion zur Frage „Kultur und Wissenschaft – Wie geht es weiter?“ brachte VertreterInnen aus den beteiligten Bereichen noch einmal zusammen, um die versammelten Erfahrungen und Kompetenzen im Umgang mit digitalen Bildern, Katalogen und Volltextdigitalisaten auszuschöpfen.
+Die abschließende Podiumsdiskussion zur Frage "Kultur und Wissenschaft - Wie geht es weiter?" brachte VertreterInnen aus den beteiligten Bereichen noch einmal zusammen, um die versammelten Erfahrungen und Kompetenzen im Umgang mit digitalen Bildern, Katalogen und Volltextdigitalisaten auszuschöpfen.
 
 
 Jahrestagung des Deutschen Archäologen-Verbandes e.V. in Heidelberg (15.-17. Juni)
 
-Die diesjährige Jahrestagung des Deutschen Archäologen-Verbandes widmete sich dem Schwerpunktthema „Urheberrecht und Neue Publikationsformen“. Ziel war es, vielseitig und ausgewogen über das Thema zu informieren, weshalb das Spektrum der Vorträge von der Perspektive der Verlage bis zu Open Access-Projekten aus Museen und Bibliotheken reichte. Stellvertretend für das Genre wissenschaftlicher Bildarchive im Internet sprach Ute Verstegen für prometheus zum Thema „Prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre. Urheberrechtsfragen und Rechtemanagement in einem kulturhistorischen Online-Archiv“.
+Die diesjährige Jahrestagung des Deutschen Archäologen-Verbandes widmete sich dem Schwerpunktthema "Urheberrecht und Neue Publikationsformen". Ziel war es, vielseitig und ausgewogen über das Thema zu informieren, weshalb das Spektrum der Vorträge von der Perspektive der Verlage bis zu Open Access-Projekten aus Museen und Bibliotheken reichte. Stellvertretend für das Genre wissenschaftlicher Bildarchive im Internet sprach Ute Verstegen für prometheus zum Thema "Prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre. Urheberrechtsfragen und Rechtemanagement in einem kulturhistorischen Online-Archiv".
 
 Als ein wichtiges Ergebnis der Jahrestagung ist festzuhalten, dass sich der Deutsche Archäologen-Verband den Berliner, Göttinger und Wiener Erklärungen zum Urheberrecht angeschlossen hat.
 Mehr Informationen: "http://www.darv.de/mv.html":http://www.darv.de/mv.html
@@ -100,19 +100,19 @@ Mehr Informationen: "http://www.darv.de/mv.html":http://www.darv.de/mv.html
 *5.) Bundestag beschließt sog. Zweiten Korb der Urheberrechtsreform*
 (von Ute Verstegen)
 Fast vier Jahre nach Inkrafttreten des sog. Ersten Korbs der Urheberrechtsnovellierung hat der Bundestag am 5. Juli 2007 den Zweiten Korb verabschiedet, der nun nur noch den Bundesrat passieren muss.
-Entgegen dem Anspruch des Koalitionsvertrags, ein „bildungs- und wissenschaftsfreundliches Urheberrecht“ zu schaffen, hat der Bundestag ein Gesetz beschlossen, das vor allem die Belange der Verwerter und der Urheber stärkt. „Für die Verbraucher sowie die Wissenschaft bleibt der Korb größtenteils leer“, bewertet Stefan Krempl den Beschluss treffend in einer heise-Meldung.
-Die Veränderungen betreffen in erster Linie eine Neuregelung des Vergütungssystems im Kontext der Geräteabgabe. Künftig sollen sich die Beteiligten – Verwertungsgesellschaft und Gerätehersteller – selbst auf die Vergütungspflichtigkeit der Geräte und die jeweilige Vergütungshöhe einigen.
+Entgegen dem Anspruch des Koalitionsvertrags, ein "bildungs- und wissenschaftsfreundliches Urheberrecht" zu schaffen, hat der Bundestag ein Gesetz beschlossen, das vor allem die Belange der Verwerter und der Urheber stärkt. "Für die Verbraucher sowie die Wissenschaft bleibt der Korb größtenteils leer", bewertet Stefan Krempl den Beschluss treffend in einer heise-Meldung.
+Die Veränderungen betreffen in erster Linie eine Neuregelung des Vergütungssystems im Kontext der Geräteabgabe. Künftig sollen sich die Beteiligten - Verwertungsgesellschaft und Gerätehersteller - selbst auf die Vergütungspflichtigkeit der Geräte und die jeweilige Vergütungshöhe einigen.
 Im Rahmen der Novellierung wurden auch zwei bereits seit längerem diskutierte Schranken für Wissenschaft und Bildung beschlossen:
 
-Erstens dürfen nach dem neuen § 52b Bibliotheken, Museen und Archive veröffentlichte Werke aus ihrem Bestand an elektronischen Leseplätzen in den Räumen der Einrichtung zu Forschungszwecken und für private Studien zugänglich machen, soweit dem keine vertraglichen Regelungen entgegenstehen. Es dürfen allerdings nur so viele Exemplare eines Werks verfügbar gemacht werden, wie im Bestand der Einrichtung vorhanden sind. Eine Ausnahme greift in sog. „Belastungsspitzen“. Dann soll ein Buch gleichzeitig an maximal vier Leseplätzen abgerufen werden können. In Zukunft werden sich Lehrende und Studierende also an den Terminals in ihren Bibliotheken anstellen dürfen. Eine Zurverfügungstellung für BibliotheksnutzerInnen an anderen Rechnern innerhalb des Campus oder gar am heimischen PC ist nämlich nicht gestattet.
+Erstens dürfen nach dem neuen § 52b Bibliotheken, Museen und Archive veröffentlichte Werke aus ihrem Bestand an elektronischen Leseplätzen in den Räumen der Einrichtung zu Forschungszwecken und für private Studien zugänglich machen, soweit dem keine vertraglichen Regelungen entgegenstehen. Es dürfen allerdings nur so viele Exemplare eines Werks verfügbar gemacht werden, wie im Bestand der Einrichtung vorhanden sind. Eine Ausnahme greift in sog. "Belastungsspitzen". Dann soll ein Buch gleichzeitig an maximal vier Leseplätzen abgerufen werden können. In Zukunft werden sich Lehrende und Studierende also an den Terminals in ihren Bibliotheken anstellen dürfen. Eine Zurverfügungstellung für BibliotheksnutzerInnen an anderen Rechnern innerhalb des Campus oder gar am heimischen PC ist nämlich nicht gestattet.
 
-Hinsichtlich des wissenschaftlichen Kopienversands auf Bestellung wurde mit § 53a beschlossen, dass es öffentlichen Bibliotheken erlaubt ist, Zeitschriften- und Zeitungsartikel sowie „kleine Teile eines erschienen Werks“ auch elektronisch als grafische, nicht-durchsuchbare Dateien zu kopieren und versenden. Ausgenommen sind Schulbücher. Voraussetzung ist aber, dass der Zugang zu den fraglichen Informationen nicht schon von den Verlagen selbst „offensichtlich von Orten und zu Zeiten ihrer Wahl“ und „zu angemessenen Bedingungen“ ermöglicht wird. Eine Konkretisierung des Terminus „angemessen“ – beispielsweise mittels Richtwert pro Seite oder Zeichenzahl – ist im Gesetz nicht gegeben.
+Hinsichtlich des wissenschaftlichen Kopienversands auf Bestellung wurde mit § 53a beschlossen, dass es öffentlichen Bibliotheken erlaubt ist, Zeitschriften- und Zeitungsartikel sowie "kleine Teile eines erschienen Werks" auch elektronisch als grafische, nicht-durchsuchbare Dateien zu kopieren und versenden. Ausgenommen sind Schulbücher. Voraussetzung ist aber, dass der Zugang zu den fraglichen Informationen nicht schon von den Verlagen selbst "offensichtlich von Orten und zu Zeiten ihrer Wahl" und "zu angemessenen Bedingungen" ermöglicht wird. Eine Konkretisierung des Terminus "angemessen" - beispielsweise mittels Richtwert pro Seite oder Zeichenzahl - ist im Gesetz nicht gegeben.
 Da es für Lieferdienste wie subito zu viel Aufwand bedeutet, in jedem Einzelfall zu überprüfen, ob ein Verlag ein digitales Angebot besitzt, wird der elektronische Versand voraussichtlich vollständig eingestellt, während analoge Kopien auch weiterhin versandt werden können.
-Keine Fortschritte gibt es in der Frage des Weiterbestehens bzw. der Entfristung der im Ersten Korb eingefügten Schrankenregelung § 52a. Diese sog. „Intranet-Klausel“ ermöglicht es, für Unterricht und Forschung kleine Teile eines Werks und einzelne Beiträge aus Zeitungen für den Gebrauch in Schule und Wissenschaft zugänglich zu machen. Die Klausel wurde zwischenzeitlich bis Ende 2008 verlängert. Hier besteht weiterhin dringender Handlungsbedarf!
-Für die VerbraucherInnen unbefriedigend bleiben die Regelungen im Bereich der Privatkopie. Es ist zwar weiterhin zulässig, zu privaten Zwecken Kopien von urheberrechtlich geschützten Werken – auch auf digitalem Wege - anzufertigen. Allerdings dürfen Rechteinhaber ihre Werke mit technischen Schutzmaßnahmen versehen, mit denen das Kopieren verhindert wird, und diese dürfen von den Verbrauchern nicht umgangen werden (§ 95a). Ob man sich eine Kopie einer selbst erworbenen Musik-CD für das Autoradio oder auch nur eine Sicherheitskopie davon machen darf, liegt in diesem Falle nicht im eigenen Ermessen, sondern schlicht im Ermessen des Herstellers, der einen Kopierschutz anbringen oder darauf verzichten kann. Hier bleibt es bei einer massiven Verschlechterung für die Verbraucher im Vergleich zur Privatkopie des analogen Zeitalters.
+Keine Fortschritte gibt es in der Frage des Weiterbestehens bzw. der Entfristung der im Ersten Korb eingefügten Schrankenregelung § 52a. Diese sog. "Intranet-Klausel" ermöglicht es, für Unterricht und Forschung kleine Teile eines Werks und einzelne Beiträge aus Zeitungen für den Gebrauch in Schule und Wissenschaft zugänglich zu machen. Die Klausel wurde zwischenzeitlich bis Ende 2008 verlängert. Hier besteht weiterhin dringender Handlungsbedarf!
+Für die VerbraucherInnen unbefriedigend bleiben die Regelungen im Bereich der Privatkopie. Es ist zwar weiterhin zulässig, zu privaten Zwecken Kopien von urheberrechtlich geschützten Werken - auch auf digitalem Wege - anzufertigen. Allerdings dürfen Rechteinhaber ihre Werke mit technischen Schutzmaßnahmen versehen, mit denen das Kopieren verhindert wird, und diese dürfen von den Verbrauchern nicht umgangen werden (§ 95a). Ob man sich eine Kopie einer selbst erworbenen Musik-CD für das Autoradio oder auch nur eine Sicherheitskopie davon machen darf, liegt in diesem Falle nicht im eigenen Ermessen, sondern schlicht im Ermessen des Herstellers, der einen Kopierschutz anbringen oder darauf verzichten kann. Hier bleibt es bei einer massiven Verschlechterung für die Verbraucher im Vergleich zur Privatkopie des analogen Zeitalters.
 Neu ist außerdem die Möglichkeit für Urheber, Verträge über unbekannte Nutzungsarten abzuschließen (§ 31a). Diese Regelung ist für wissenschaftliche Autoren besonders relevant. Fortan muss der Rechteverwerter den Urheber darüber informieren, wenn er beabsichtigt, das Werk in der neuen Art zu nutzen, wobei dem Urheber ein dreimonatiges Widerspruchsrecht zusteht. Er hat allerdings dafür Sorge zu tragen, dass er für den Verwerter erreichbar ist.
 Ebenfalls aufgenommen wurde eine Regelung zur Open Content-Praxis, das heißt zur freien Zurverfügungstellung von Wissen und Information. So wird nun klargestellt, dass der Urheber sein Werk kostenlos zur Verfügung stellen kann, indem er allen potentiellen Nutzenden ein einfaches Nutzungsrecht einräumt (§ 32a). Einer Schriftform bedarf es nicht, da solche freien Lizenzen, etwa für Linux oder Wikipedia, öffentlich mit dem jeweiligen Werk verbunden sind.
-Sicher ist, dass es nun einen Dritten Korb geben wird. Die Fraktion der Grünen, die sich wegen der Mängel des Entwurfs bei der Bundestagsabstimmung enthielt, hat die Bundesregierung bereits in einem Entschließungsantrag aufgefordert, mehrere kritische Punkte zu klären, die insbesondere wissenschaftliche Belange betreffen. Von allen anderen Fraktionen sowie vom Bildungsausschuss des Bundestags wurden ebenfalls Anträge eingereicht – auf eine Reform der Reform …
+Sicher ist, dass es nun einen Dritten Korb geben wird. Die Fraktion der Grünen, die sich wegen der Mängel des Entwurfs bei der Bundestagsabstimmung enthielt, hat die Bundesregierung bereits in einem Entschließungsantrag aufgefordert, mehrere kritische Punkte zu klären, die insbesondere wissenschaftliche Belange betreffen. Von allen anderen Fraktionen sowie vom Bildungsausschuss des Bundestags wurden ebenfalls Anträge eingereicht - auf eine Reform der Reform …
 
 Weitere Informationen:
 "http://dip.bundestag.de/btd/16/018/1601828.pdf":http://dip.bundestag.de/btd/16/018/1601828.pdf (Gesetzesentwurf)
@@ -123,28 +123,28 @@ Weitere Informationen:
 
 *6.) Welterbe erhalten! Unterzeichnen Sie den Dresdner Appell!*
 
-Die sächsische Landesregierung hat die Absicht, die Waldschlösschen-Brücke zu bauen, selbst wenn der Welterbe-Titel für Dresden aberkannt wird. Um das Welterbe – und vor allem die Elbwiesen – für Dresden zu bewahren, sind deutschlandweite und internationale Aufmerksamkeit und Unterstützung vonnöten.
+Die sächsische Landesregierung hat die Absicht, die Waldschlösschen-Brücke zu bauen, selbst wenn der Welterbe-Titel für Dresden aberkannt wird. Um das Welterbe - und vor allem die Elbwiesen - für Dresden zu bewahren, sind deutschlandweite und internationale Aufmerksamkeit und Unterstützung vonnöten.
 
-Informieren Sie sich und unterzeichnen Sie im Internet den „Dresdner Appell für den Erhalt des Welterbestatus“!
+Informieren Sie sich und unterzeichnen Sie im Internet den "Dresdner Appell für den Erhalt des Welterbestatus"!
 
 "www.welterbe-erhalten.de":http://www.welterbe-erhalten.de/ (deutsch)
 "www.heritage-dresden.de":http://www.heritage-dresden.de/ (englisch)
 
 
 
-*7.) prometheus – facts & figures*
+*7.) prometheus - facts & figures*
 
 Derzeit können 437.675 Bilder aus 40 Datenbanken über prometheus gefunden werden. 27 Hochschulen im In- und Ausland halten eine Campuslizenz. Die personalisierten Nutzungszugänge belaufen sich auf nunmehr 5.733; hinzu kommen Tausende von Nutzerinnen und Nutzern, die auf prometheus anonym im Rahmen einer Campus-Lizenz zugreifen. Diesen Newsletter beziehen 1.615 Personen.
 
 
 
-*8.) prometheus – Kontakt*
+*8.) prometheus - Kontakt*
 
 Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
 - als Privatperson an die prometheus-Geschäftsstelle
 - als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de.
 
-Eine Liste aller bereits lizenznehmenden Institutionen finden Sie auf der prometheus-website unter „Bildarchiv“ > „Anmeldung / Lizenzen“.
+Eine Liste aller bereits lizenznehmenden Institutionen finden Sie auf der prometheus-website unter "Bildarchiv" > "Anmeldung / Lizenzen".
 
 Die prometheus-Geschäftsstelle ist besetzt: Mo, 10-18 Uhr, und Di - Fr , jeweils 10-13 Uhr. fon: 0221-470 4476, fax: 0221-470 5044, "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
 

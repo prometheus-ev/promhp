@@ -7,41 +7,37 @@ h2. <%= page_title %>
 
 *prometheus e.V. trägt seit 2003 das Bildarchiv prometheus.*
 
-h5. Das Vereinsziel
+h3. Das Vereinsziel
 
 Der Zweck des Vereins ist die Förderung von Wissenschaft und Forschung durch die Entwicklung, Bereitstellung und Anwendung der digitalen Medien im kunst- und kulturhistorischen Bereich.
 Der Verein fördert ihren Einsatz in der Aus- und Weiterbildung, Forschung und Lehre und fühlt sich besonders den Hochschulen, Forschungseinrichtungen, Museen, Archiven und der Denkmalpflege verpflichtet.
 
+Der Verein unterstützt den offenen Zugang zum wissenschaftlichen Wissen gemäß der "Berliner Erklärung (PDF)":http://www.mpg.de/pdf/openaccess/BerlinDeclaration_dt.pdf vom 22. Oktober 2003 und ist Unterzeichner der "Göttinger Erklärung":http://www.urheberrechtsbuendnis.de/ zum Urheberrecht für Bildung und Wissenschaft vom 5. Juli 2004.
 
-Der Verein unterstützt den offenen Zugang zum wissenschaftlichen Wissen gemäß der "Berliner Erklärung (PDF)":http://www.mpg.de/pdf/openaccess/BerlinDeclaration_dt.pdf  vom 22. Oktober 2003 und ist Unterzeichner der "Göttinger Erklärung":http://www.urheberrechtsbuendnis.de/  zum Urheberrecht für Bildung und Wissenschaft vom 5. Juli 2004.
+h3. Angebot
 
-*Angebot*
-
-Das internetbasierte Angebot baut auf den Entwicklungen des 2001-2004 vom "BMBF geförderten Verbundprojekts":http://www.medien-bildung.net/focus/focus_79.php/hochschule/projekte/  auf und wird seit Projektende stetig erweitert. Es umfasst ein verteiltes Bildarchiv der Kunst- und Kulturwissenschaften sowie Inhalte und Konzeptionen für die digitale Unterstützung der Lehre in diesem Bereich.
+Das internetbasierte Angebot baut auf den Entwicklungen des 2001-2004 vom "BMBF geförderten Verbundprojekts":http://www.medien-bildung.net/focus/focus_79.php/hochschule/projekte/ auf und wird seit Projektende stetig erweitert. Es umfasst ein verteiltes Bildarchiv der Kunst- und Kulturwissenschaften sowie Inhalte und Konzeptionen für die digitale Unterstützung der Lehre in diesem Bereich.
 
 Nachdem die Firmen Leica, Liesegang, Kodak und Agfa die Entwicklung im Bereich analoger Bilder einstellen und digitale Kameras und Beamer merklich besser und billiger werden, ist die gemeinsame Realisierung eines verteilten digitalen Bildarchivs grundlegend für zukünftige Forschung und Lehre.
-Ein verteiltes Bildarchiv folgt der Idee, dass an mehreren Orten und unabhängig von einander digitale Bilder für Forschung und Lehre angefertigt und über ein Portal zusammengeführt werden. Hier sind Forschungs- und Dokumentationsdatenbanken mit ausführlichen Informationen zum Objekt genau so wichtig wie einfache Institutsdatenbanken, die hauptsächlich wichtige Bilder für die Lehre zur Verfügung stellen.
+Ein verteiltes Bildarchiv folgt der Idee, dass an mehreren Orten und unabhängig voneinander digitale Bilder für Forschung und Lehre angefertigt und über ein Portal zusammengeführt werden. Hier sind Forschungs- und Dokumentationsdatenbanken mit ausführlichen Informationen zum Objekt genauso wichtig wie einfache Institutsdatenbanken, die hauptsächlich wichtige Bilder für die Lehre zur Verfügung stellen.
 
 Darüber hinaus realisiert dieses verteilte Bildarchiv den Anspruch, semantisch und syntaktisch heterogene Datenbanken zusammenzuführen. Damit wollen wir offensiv den Aufbau von unterschiedlichen, dem Forschungsgegenstand angemessenen Datenbanken fördern und die Vielfalt der Forschung nicht durch eine technische Harmonisierung behindern. Über prometheus kommen Sie schließlich an alle Informationen, die die Datenbanken anbieten.
 
-*Didaktisches Konzept*
+h3. Didaktisches Konzept
 
 In den Kunst- und Kulturwissenschaften sind hochschuldidaktische Konzepte und die Anwendung digitaler Medien bisher noch wenig verbreitet. Eine Fachdidaktik fehlt.
 In den Kunst- und Kulturwissenschaften geht es nicht primär um die Vermittlung 'objektiven' Wissens, sondern um die Sicherung und Interpretation von Kulturgütern, die je nach Fragestellung und Methode sehr unterschiedlich sein können.
 
 Das didaktische Konzept sieht daher vor, eine problemorientierte, adaptive und multiperspektivische Umgebung als Ergänzung zur Präsenzlehre zu schaffen. Darin werden bestimmte Bereiche der Grundausbildung systematisch gesammelt und bereitgestellt, aus denen sich eine spezifische Fachdidaktik für die Grundausbildung entwickeln kann. Eine solche Umgebung verfolgt das Ziel, die Mehrgleisigkeit von Wissen, Methode, Kompetenz und Individualität bewusst zu machen und zu schärfen.
 
-In den bisherigen Evaluationen wurde deutlich, dass die Präsenzlehre keine Einschränkung durch den Einsatz von starrem, vorgegebenem Material erfahren darf. Vielmehr müssen Angebote für die Lehrenden vorgehalten werden, durch die sie ihre Hochschullehre in Verbindung mit ihrer Forschungsarbeit individuell und aktiv gestalten können. Die über prometheus angebotene Lernplattform, die Werkzeuge und die Lerninhalte verstehen sich als solche Angebote. Das Selbststudium gewinnt neben der Präsenzlehre eine dynamische Aktualität und ermöglicht den Lernenden den Zugang zur aktuellen Forschungsdiskussion und die Beteiligung an der Forschung und Lehre als Hinführung zu ihrer zukünftigen wissenschaftlichen Tätigkeit – nicht nur an Hochschulen.
+In den bisherigen Evaluationen wurde deutlich, dass die Präsenzlehre keine Einschränkung durch den Einsatz von starrem, vorgegebenem Material erfahren darf. Vielmehr müssen Angebote für die Lehrenden vorgehalten werden, durch die sie ihre Hochschullehre in Verbindung mit ihrer Forschungsarbeit individuell und aktiv gestalten können. Die über prometheus angebotene Lernplattform, die Werkzeuge und die Lerninhalte verstehen sich als solche Angebote. Das Selbststudium gewinnt neben der Präsenzlehre eine dynamische Aktualität und ermöglicht den Lernenden den Zugang zur aktuellen Forschungsdiskussion und die Beteiligung an der Forschung und Lehre als Hinführung zu ihrer zukünftigen wissenschaftlichen Tätigkeit - nicht nur an Hochschulen.
 
-Die Anwenderinnen und Anwender stellen jeweils aus ihrer Perspektive – Lehren, Lernen und Forschen – ganz unterschiedliche Ansprüche an p r o m e t h e u s , denen wir gerecht werden wollen. Aus der Perspektive des Forschens steht das Bildarchiv mit seinen medienspezifischen Werkzeugen (Recherche, Arbeitsmappe, Präsentation) im Vordergrund. Aus der Sicht der Lernenden sind es neben dem Bildarchiv schwerpunktmäßig die Angebote der Lerninhalte und aus der Perspektive der Lehre bietet die Lernplattform ILIAS die Möglichkeit, relativ einfach die traditionelle Präsenzlehre mit den angebotenen Lerninhalten zu verbinden.
+Die Anwenderinnen und Anwender stellen jeweils aus ihrer Perspektive - Lehren, Lernen und Forschen - ganz unterschiedliche Ansprüche an prometheus, denen wir gerecht werden wollen. Aus der Perspektive des Forschens steht das Bildarchiv mit seinen medienspezifischen Werkzeugen (Recherche, Arbeitsmappe, Präsentation) im Vordergrund. Aus der Sicht der Lernenden sind es neben dem Bildarchiv schwerpunktmäßig die Angebote der Lerninhalte und aus der Perspektive der Lehre bietet die Lernplattform ILIAS die Möglichkeit, relativ einfach die traditionelle Präsenzlehre mit den angebotenen Lerninhalten zu verbinden.
 
+<br />
 
-Hervorgegangen ist der Verein aus dem Verbundprojekt "prometheus  Das verteilte digitale Bildarchiv für Forschung und Lehre" des Förderprogramms "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
-
+Hervorgegangen ist der Verein aus dem Verbundprojekt "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" des Förderprogramms "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
 "» zur Geschichte des Projektes und des Vereins":<%=r 'about/history' %>
 
-
-
 *Engagieren Sie sich bei prometheus e.V!*
-
 "» Mitglied werden":<%=r 'about/association/membership' %>

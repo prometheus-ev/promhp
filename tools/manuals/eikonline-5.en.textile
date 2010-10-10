@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'eikonline_5: prometheus-Bildarchiv (German)'
+title: "eikonline_5: prometheus-Bildarchiv (German)"
 ---
 <%# TODO: translate %>
 h2. <%= page_title %>

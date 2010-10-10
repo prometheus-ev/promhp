@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Einführung in die Architektur der Renaissance und des Barock (German)'
+title: Einführung in die Architektur der Renaissance und des Barock (German)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=283&L=1&skin=&tx_ttnews[tt_news]=34&tx_ttnews[pointer]=
 ---
 <%# TODO: translate %>

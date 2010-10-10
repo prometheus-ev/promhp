@@ -4,7 +4,7 @@ title: Newsletter 2009 / 01
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=477
 ---
 h2. <%= page_title %>
-prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.
+prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.
 
 "www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de
 
@@ -15,7 +15,7 @@ prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.
 "www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/
 
 
-Vor einer Woche, am 3. März, stürzte das Historische Archiv der Stadt Köln ein. Das ist eine menschliche und kulturhistorische Katastrophe, deren Ausmaß man erst langsam begreift. Dieses Archiv war nicht nur eines der größten, sondern auch eines der ältesten Stadtarchive weltweit. Seit 1320 wurden die Beschlüsse des Rates protokolliert, und seit 1513 lagen sie lückenlos vor. Das „Gedächtnis" der Stadt Köln hütete Archivalien aus über tausend Jahren Stadtgeschichte. Mehr als 65.000 Urkunden, 26 Regalkilometer Akten, 104.000 Karten und Pläne, 50.000 Plakate, 780 Nachlässe und rund eine halbe Million Photographien wurden hier aufbewahrt – materielle Zeugnisse, die kulturelle Erinnerung begründeten und von Forscherinnnen und Forschern rege konsultiert wurden.
+Vor einer Woche, am 3. März, stürzte das Historische Archiv der Stadt Köln ein. Das ist eine menschliche und kulturhistorische Katastrophe, deren Ausmaß man erst langsam begreift. Dieses Archiv war nicht nur eines der größten, sondern auch eines der ältesten Stadtarchive weltweit. Seit 1320 wurden die Beschlüsse des Rates protokolliert, und seit 1513 lagen sie lückenlos vor. Das "Gedächtnis" der Stadt Köln hütete Archivalien aus über tausend Jahren Stadtgeschichte. Mehr als 65.000 Urkunden, 26 Regalkilometer Akten, 104.000 Karten und Pläne, 50.000 Plakate, 780 Nachlässe und rund eine halbe Million Photographien wurden hier aufbewahrt - materielle Zeugnisse, die kulturelle Erinnerung begründeten und von Forscherinnnen und Forschern rege konsultiert wurden.
 
 Ein großer Teil dieser Zeugnisse ist vermutlich unwiederbringlich zerstört. In diesen Tagen konzentrieren sich alle Kräfte auf die Rettung der Realien vor Ort. Das Historische Archiv der Stadt Köln wird voraussichtlich über Jahre geschlossen bleiben, und auch die erhaltenen Archivalien werden nach der Bergung nicht sofort zugänglich sein.
 
@@ -44,13 +44,13 @@ Verband der Historiker und Historikerinnen Deutschlands e.V., Prof. Dr. Werner P
 Verband der Restauratoren e.V., Prof. Volker Schaible (Präsident)
 
 
-Die Koordination des Projekts liegt bei „prometheus“ ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de) in Zusammenarbeit mit dem Institut für Geschichtswissenschaften, Abteilung für Rheinische Landesgeschichte der Universität Bonn.
+Die Koordination des Projekts liegt bei "prometheus" ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de) in Zusammenarbeit mit dem Institut für Geschichtswissenschaften, Abteilung für Rheinische Landesgeschichte der Universität Bonn.
 
 
 
 Ansprechpartner sind:
 
-PD Dr. Holger Simon (prometheus e.V.) und Dr. Andreas Rutz (Abt. f. Rhein. Landesgeschichte), eMail: "info@historischesarchivkoeln.de":info@historischesarchivkoeln.de
+PD Dr. Holger Simon (prometheus e.V.) und Dr. Andreas Rutz (Abt. f. Rhein. Landesgeschichte), E-Mail: "info@historischesarchivkoeln.de":info@historischesarchivkoeln.de
 
 
 

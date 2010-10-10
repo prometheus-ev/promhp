@@ -5,30 +5,24 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=496&L=1
 ---
 h2. <%= page_title %>
 
-"back":<%=r 'projects' %>
+h3. Project partners
 
+Humboldt-Universität zu Berlin ("www.hu-berlin.de":http://www.hu-berlin.de/)
+Leuphana Universität Lüneburg ("www.leuphana.de":http://www.leuphana.de/)
+prometheus-Bildarchiv, Köln ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de/)
 
-*Project partners:*
-Humboldt-Universität zu Berlin ("www.hu-berlin.de":www.hu-berlin.de)
-Leuphana Universität Lüneburg ("www.leuphana.de":www.leuphana.de)
-prometheus-Bildarchiv, Köln ("www.prometheus-bildarchiv.de":www.prometheus-bildarchiv.de)
+*Duration of the project:* 01.12.2009 - 30.11.2011
 
+*"www.meta-image.de":www.meta-image.de*
 
-*Duration of the project:* 01.12.2009 – 30.11.2011
+h3. Project description
 
-
-"www.meta-image.de":www.meta-image.de
-
-
-*Aim of the project* is to develop a "distributed virtual environment for research and communication for the discourse of images in art history". The project is planned for two years and settled in the area of support "Scientific Library Services and Information Systems (LIS)" of the Deutsche Forschungsgemeinschaft.
+Aim of the project is to develop a "distributed virtual environment for research and communication for the discourse of images in art history". The project is planned for two years and settled in the area of support "Scientific Library Services and Information Systems (LIS)" of the Deutsche Forschungsgemeinschaft.
 For prometheus the primarily point is to expand the possibilities of digital image interpretation 'and the collaborative work within the image archive. By the integration of the genuinely Image-oriented tool "Hyper Image" it will be possible to work together or individually to any of the illustrations to highlight image details accurately, describing and linking them to each other. The released meta-information will later be returned to the archive, available for the entire research community.
 
+*Financing:* DFG - Deutsche Forschungsgemeinschaft
 
-*Financing:* DFG - Deutschen Forschungsgemeinschaft
-
-
-Enrolee:
-
+h3. Enrolees
 
 PD Dr. Martin Warnke
 Leuphana Universität Lüneburg
@@ -48,8 +42,7 @@ Computer- und Medienservice
 Unter den Linden 6
 10117 Berlin
 
-
 *Project management Leuphana Universität Lüneburg:*
 PD Dr. Martin Warnke
 Tel.: 04131 677 1202
-E-mail: "warnke@leuphana.de":mailto:warnke@leuphana.de
+E-Mail: "warnke@leuphana.de":mailto:warnke@leuphana.de

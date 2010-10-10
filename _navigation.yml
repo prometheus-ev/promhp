@@ -4,11 +4,11 @@
   :url: index
 - :title_en: prometheus is...
   :title_de: prometheus ist...
-  :url: prometheus
+  :url: prometheus/about
   :content:
   - :title_en: ...an Image Archive
     :title_de: ...ein Bildarchiv
-    :url: prometheus
+    :url: prometheus/about
   - :title_en: pandora
     :title_de: pandora
     :url: <%= pandora_url 'about' %>
@@ -33,11 +33,11 @@
       :url: prometheus/publications/theses
 - :title_en: About Us
   :title_de: Wir über uns
-  :url: about
+  :url: about/history
   :content:
   - :title_en: Project History
     :title_de: Projektgeschichte
-    :url: about
+    :url: about/history
   - :title_en: The Association
     :title_de: Der Verein
     :url: about/association
@@ -56,11 +56,11 @@
     :url: about/staff
 - :title_en: Licenses
   :title_de: Lizenzen
-  :url: license
+  :url: license/model
   :content:
   - :title_en: License Model
     :title_de: Lizenzmodell
-    :url: license
+    :url: license/model
   - :title_en: License Fees
     :title_de: Lizenzgebühren
     :url: license/fees
@@ -82,22 +82,22 @@
     :url: <%= pandora_url 'terms_of_use' %>
 - :title_en: Databases
   :title_de: Datenbanken
-  :url: databases
+  :url: databases/data-supply
   :content:
   - :title_en: Information for Data Suppliers
     :title_de: Informationen für Bildgeber
-    :url: databases
+    :url: databases/data-supply
     :content:
-    - :title_en: Supplying Data
+    - :title_en: Supplying Data (German)
       :title_de: Bereitstellung der Daten
-      :url: databases/data-supply
-    - :title_en: Metadata - Contents
+      :url: databases/data-supply/supplying-data
+    - :title_en: Metadata - Contents (German)
       :title_de: Metadaten - Inhalte
       :url: databases/data-supply/metadata-contents
-    - :title_en: Metadata - Formats
+    - :title_en: Metadata - Formats (German)
       :title_de: Metadaten - Formate
       :url: databases/data-supply/metadata-formats
-    - :title_en: Media - Formats
+    - :title_en: Media - Formats (German)
       :title_de: Medien - Formate
       :url: databases/data-supply/media-formats
     - :title_en: promDILPS
@@ -116,19 +116,19 @@
   - :title_en: Meta-Image
     :title_de: Meta-Image
     :url: projects/meta-image
-  - :title_en: The digital Historical Archive of Cologne
+  - :title_en: The digital Historical Archive of Cologne (German)
     :title_de: Das digitale Historische Archiv Köln
     :url: projects/dhastk
-  - :title_en: Automatic Indexing of the prometheus Image Archive
+  - :title_en: Automatic Indexing of the prometheus Image Archive (German)
     :title_de: Automatische Erschließung des digitalen Bildarchivs prometheus
     :url: projects/perseus-a
-  - :title_en: HyperImage
+  - :title_en: HyperImage (German)
     :title_de: HyperImage
     :url: projects/hyper-image
-  - :title_en: Digital Image Resources and E-Learning Components
+  - :title_en: Digital Image Resources and E-Learning Components (German)
     :title_de: Digitale Bildressourcen und E-Learning-Komponenten
     :url: projects/e-learning
-  - :title_en: Notebook-Library
+  - :title_en: Notebook-Library (German)
     :title_de: Notebook-Bibliothek
     :url: projects/notebook-library
 - :title_en: Tools
@@ -139,106 +139,106 @@
     :title_de: Lernplattform ILIAS
     :url: tools/ilias
     :content:
-    - :title_en: "ILIAS Benutzerkonto registrieren (German)"
+    - :title_en: ILIAS Benutzerkonto registrieren (German)
       :title_de: ILIAS Benutzerkonto registrieren
       :url: tools/ilias/account
-    - :title_en: "Warum ILIAS? (German)"
+    - :title_en: Warum ILIAS? (German)
       :title_de: Warum ILIAS?
       :url: tools/ilias/why
   - :title_en: Study Modules
     :title_de: Lernmodule
     :url: tools/modules
     :content:
-    - :title_en: E-Learning 2.0
+    - :title_en: E-Learning 2.0 (German)
       :title_de: E-Learning 2.0
       :url: tools/modules/e-learning
       :content:
-      - :title_en: exkursion-online.de
+      - :title_en: exkursion-online.de (German)
         :title_de: exkursion-online.de
         :url: tools/modules/e-learning/excursion-online
-      - :title_en: limes-pohlheim.de
+      - :title_en: limes-pohlheim.de (German)
         :title_de: limes-pohlheim.de
         :url: tools/modules/e-learning/limes-pohlheim
     - :title_en: Topic Room
       :title_de: Themenraum
       :url: tools/modules/topic-room
       :content:
-      - :title_en: "2D-3D Grundlagen (German)"
+      - :title_en: 2D-3D Grundlagen (German)
         :title_de: 2D-3D Grundlagen
         :url: tools/modules/topic-room/2d-3d
-      - :title_en: "Altenberger Dom (German)"
+      - :title_en: Altenberger Dom (German)
         :title_de: Altenberger Dom
         :url: tools/modules/topic-room/altenberger-dom
-      - :title_en: "Altenstadt (German)"
+      - :title_en: Altenstadt (German)
         :title_de: Altenstadt
         :url: tools/modules/topic-room/altenstadt
-      - :title_en: "Forum romanum (German)"
+      - :title_en: Forum romanum (German)
         :title_de: Forum romanum
         :url: tools/modules/topic-room/forum-romanum
-      - :title_en: "mauer_reste (German)"
+      - :title_en: mauer_reste (German)
         :title_de: mauer_reste
         :url: tools/modules/topic-room/mauerreste
     - :title_en: Method-Coach
       :title_de: Methoden-Coach
       :url: tools/modules/method-coach
       :content:
-      - :title_en: "Beschreibungs-Coach (German)"
+      - :title_en: Beschreibungs-Coach (German)
         :title_de: Beschreibungs-Coach
         :url: tools/modules/method-coach/beschreibungscoach
-      - :title_en: "Ad fontes (German)"
+      - :title_en: Ad fontes (German)
         :title_de: Ad fontes
         :url: tools/modules/method-coach/ad-fontes
-    - :title_en: Knowledge-Coach
+    - :title_en: Knowledge-Coach (German)
       :title_de: Wissenstrainer
       :url: tools/modules/knowledge-coach
       :content:
-      - :title_en: "Terminologie-Trainer (German)"
+      - :title_en: Terminologie-Trainer (German)
         :title_de: Terminologie-Trainer
         :url: tools/modules/knowledge-coach/terminologietrainer
     - :title_en: Study Units
       :title_de: Lerneinheiten
       :url: tools/modules/units
       :content:
-      - :title_en: "Einführung in die Architektur der Renaissance und des Barock (German)"
+      - :title_en: Einführung in die Architektur der Renaissance und des Barock (German)
         :title_de: Einführung in die Architektur der Renaissance und des Barock
         :url: tools/modules/units/einführung-in-die-architektur-renaissance-und-barock
-      - :title_en: "Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst (German)"
+      - :title_en: Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst (German)
         :title_de: Die Geschichte der Kunst im Wandel ihrer Funktionen - Internetkolleg Kunst
         :url: tools/modules/units/internetkolleg-kunst
     - :title_en: Little Applications
       :title_de: Kleine Applikationen
       :url: tools/modules/little-applications
       :content:
-      - :title_en: "Malen mit Flash (German)"
+      - :title_en: Malen mit Flash (German)
         :title_de: Malen mit Flash
         :url: tools/modules/little-applications/malen-mit-flash
-  - :title_en: Databases
+  - :title_en: Databases (German)
     :title_de: Datenbanken
     :url: tools/databases
     :content:
-    - :title_en: DaDaEdu
+    - :title_en: DaDaEdu (German)
       :title_de: DaDaEdu
       :url: tools/databases/dadaedu
-    - :title_en: diathek
+    - :title_en: diathek (German)
       :title_de: diathek
       :url: tools/databases/diathek
-    - :title_en: DILPS
+    - :title_en: DILPS (German)
       :title_de: DILPS
       :url: tools/databases/dilps
   - :title_en: Programs
     :title_de: Programme
     :url: tools/programs
     :content:
-    - :title_en: "Begriffsnetz (German)"
+    - :title_en: Begriffsnetz (German)
       :title_de: Begriffsnetz
       :url: tools/programs/begriffsnetz
-    - :title_en: MapView
+    - :title_en: MapView (German)
       :title_de: MapView
       :url: tools/programs/mapview
-    - :title_en: "projektor + editor (German)"
+    - :title_en: projektor + editor (German)
       :title_de: projektor + editor
       :url: tools/programs/projektor-editor
-  - :title_en: Reference Manuals
+  - :title_en: Reference Manuals (German)
     :title_de: Leitfaden
     :url: tools/manuals
     :content:

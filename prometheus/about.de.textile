@@ -33,7 +33,7 @@ Mehr Informationen zu "» Anmeldung und Lizenzen":<%=r 'license' %>
 h3. Binden Sie Ihre Datenbank in prometheus ein
 
 Wollen Sie Ihre Datenbank in prometheus einbinden und die Vorteile von prometheus nutzen?
-"» Info für Datenbankgeber":<%=r 'databases' %>
+"» Info für Datenbankgeber":<%=r 'databases/data-supply' %>
 
 Für kleinere Bildsammlungen stellen wir die Bilddatenbank DILPS zur Verfügung.
-mehr zu "» DILPS":<%=r 'databases/promdilps' %>
+mehr zu "»DILPS«":<%=r 'databases/promdilps' %>

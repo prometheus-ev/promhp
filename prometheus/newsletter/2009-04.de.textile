@@ -4,7 +4,7 @@ title: Newsletter 2009 / 04
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=506
 ---
 h2. <%= page_title %>
-*prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
+*prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
 "www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de
 
 
@@ -14,9 +14,9 @@ h2. <%= page_title %>
 2.) Ergebnisse der Frühjahrsumfrage
 3.) prometheus ermöglicht kollaboratives Arbeiten
 4.) Weitere Neuerungen bei prometheus
-5.) DFG-Projekt „Meta-Image“ geht an den Start
-6.) „e-campus Altertum“ an der Justus-Liebig-Universität Gießen
-7.) "www.pausanio.de":http://www.pausanio.de – prometheus gratuliert zur Gründung
+5.) DFG-Projekt "Meta-Image" geht an den Start
+6.) "e-campus Altertum" an der Justus-Liebig-Universität Gießen
+7.) "www.pausanio.de":http://www.pausanio.de - prometheus gratuliert zur Gründung
 8.) prometheus -- facts & figures
 9.) prometheus -- Kontakt
 
@@ -26,16 +26,16 @@ h2. <%= page_title %>
 *1.)    prometheus integriert vier neue Datenbanken*
 
 In den vergangenen Monaten ist es gelungen, vier weitere hochwertige Datenbanken in das prometheus-Bildarchiv zu integrieren.
-Im August ging die Datenbank des Archäologischen Instituts der Georg-August-Universität Göttingen via Prometheus ans Netz. „GAUDI“ hat derzeit knapp 4.400 Datensätze mit Schwerpunkten im italisch-etruskischen Raum und in der römischen Kunst.
+Im August ging die Datenbank des Archäologischen Instituts der Georg-August-Universität Göttingen via Prometheus ans Netz. "GAUDI" hat derzeit knapp 4.400 Datensätze mit Schwerpunkten im italisch-etruskischen Raum und in der römischen Kunst.
 Hinzugekommen ist außerdem die DILPS Bilddatenbank UdK des Instituts für Kunstwissenschaft und Ästhetik an der Berliner Universität der Künste. Sie umfasst gut 1.800 Datensätze. Inhaltliche Schwerpunkte sind die Kunstgeschichte des 19. und des 20. Jahrhunderts, Fotografie und Gegenwartskunst sowie die visuellen Schnittstellen von Kunst und Wissenschaft.
 
-Außerdem konnte das Bildarchiv von „digiCULT“ in Kiel integriert werden. Das von der Christian-Albrecht-Universität in Zusammenarbeit mit dem Museumsverband Schleswig-Holstein e.V. seit 2003 betriebene Projekt „digiCULT“ widmet sich der kooperativen digitalen Dokumentation und langfristigen Sicherung des Kulturerbes mit neuen Technologien sowie der zentralen Zugänglichmachung des Kulturgutes für Bildung, Wissenschaft und Tourismus. Es wird gefördert durch Mittel der EU und des Zukunftsprogramms Schleswig-Holstein. Für weitere Informationen: "www.digicult-sh.de":http://www.digicult-sh.de und "www.museen-sh.de":http://www.museen-sh.de
-„digiCULT“ liefert momentan etwa 5.000 hochwertige Datensätze und Bilder an prometheus. Dabei handelt es sich vorwiegend um Objekte aus Kunstmuseen, z.B. aus dem Gemäldebestand der neuen Lübecker Kunsthalle St. Annen, aber auch um Bühnenbilder und Figurinen aus theaterwissenschaftlichen Sammlungen.
+Außerdem konnte das Bildarchiv von "digiCULT" in Kiel integriert werden. Das von der Christian-Albrecht-Universität in Zusammenarbeit mit dem Museumsverband Schleswig-Holstein e.V. seit 2003 betriebene Projekt "digiCULT" widmet sich der kooperativen digitalen Dokumentation und langfristigen Sicherung des Kulturerbes mit neuen Technologien sowie der zentralen Zugänglichmachung des Kulturgutes für Bildung, Wissenschaft und Tourismus. Es wird gefördert durch Mittel der EU und des Zukunftsprogramms Schleswig-Holstein. Für weitere Informationen: "www.digicult-sh.de":http://www.digicult-sh.de und "www.museen-sh.de":http://www.museen-sh.de
+"digiCULT" liefert momentan etwa 5.000 hochwertige Datensätze und Bilder an prometheus. Dabei handelt es sich vorwiegend um Objekte aus Kunstmuseen, z.B. aus dem Gemäldebestand der neuen Lübecker Kunsthalle St. Annen, aber auch um Bühnenbilder und Figurinen aus theaterwissenschaftlichen Sammlungen.
 
-Desweiteren konnte das rund 10.000 Datensätze umfassende „Lexikon der Revolutions-Ikonographie in der europäischen Druckgraphik 1789-1889“ eingebunden werden. Mit dem Aufbau dieser Datenbank wurde im Jahr 2000 im Rahmen des SFB "Erinnerungskulturen" an der Justus-Liebig-Universität Gießen begonnen. Seit 2008 wird das Bilderlexikon als DFG-gefördertes Projekt fortgeführt.
-Das „Lexikon der Revolutions-Ikonographie“ behandelt die im Wesentlichen visuell geprägte öffentliche Kultur seit dem Mediengroßereignis Französische Revolution. Mit seinem Schwerpunkt auf Blättern aus dem 18. und 19. Jahrhundert bietet es zum einen Einblicke in die zeit- und medienspezifische Bildsprache der politischen Druckgraphik sowie in ihre Produktions- und Vertriebsmechanismen. Zum anderen macht die Verschlagwortung des Materials signifikante Wiederholungen einprägsamer Bilderfindungen sichtbar. Der häufige Transfer und das Wechselspiel von Bildern, Motiven und Symbolen wird anhand der Bilddatenbank dokumentiert und von einem internationalen Autorenstab in Artikeln aufgearbeitet. Diese sollen spätestens 2012 publiziert werden.
+Desweiteren konnte das rund 10.000 Datensätze umfassende "Lexikon der Revolutions-Ikonographie in der europäischen Druckgraphik 1789-1889" eingebunden werden. Mit dem Aufbau dieser Datenbank wurde im Jahr 2000 im Rahmen des SFB "Erinnerungskulturen" an der Justus-Liebig-Universität Gießen begonnen. Seit 2008 wird das Bilderlexikon als DFG-gefördertes Projekt fortgeführt.
+Das "Lexikon der Revolutions-Ikonographie" behandelt die im Wesentlichen visuell geprägte öffentliche Kultur seit dem Mediengroßereignis Französische Revolution. Mit seinem Schwerpunkt auf Blättern aus dem 18. und 19. Jahrhundert bietet es zum einen Einblicke in die zeit- und medienspezifische Bildsprache der politischen Druckgraphik sowie in ihre Produktions- und Vertriebsmechanismen. Zum anderen macht die Verschlagwortung des Materials signifikante Wiederholungen einprägsamer Bilderfindungen sichtbar. Der häufige Transfer und das Wechselspiel von Bildern, Motiven und Symbolen wird anhand der Bilddatenbank dokumentiert und von einem internationalen Autorenstab in Artikeln aufgearbeitet. Diese sollen spätestens 2012 publiziert werden.
 
-Das „Lexikon der Revolutions-Ikonographie“ ist die erste ‚freie‘ Datenbank im prometheus-Bildarchiv. Urheberrechtliche Ansprüche Dritter existieren nicht. Das „Lexikon“ ist ohne Login über "http://prometheus.uni-koeln.de/pandora/open_access":http://prometheus.uni-koeln.de/pandora/open_access für jeden erreichbar.
+Das "Lexikon der Revolutions-Ikonographie" ist die erste ‚freie‘ Datenbank im prometheus-Bildarchiv. Urheberrechtliche Ansprüche Dritter existieren nicht. Das "Lexikon" ist ohne Login über "http://prometheus.uni-koeln.de/pandora/open_access":http://prometheus.uni-koeln.de/pandora/open_access für jeden erreichbar.
 
 
 
@@ -44,7 +44,7 @@ Das „Lexikon der Revolutions-Ikonographie“ ist die erste ‚freie‘ Datenba
 Anlässlich des ersten Geburtstages von pandora hatten wir im Frühjahr eine Umfrage durchgeführt, die den Nutzerinnen und Nutzern von prometheus Gelegenheit gab, Erfahrungen und Wünsche hinsichtlich des Bildarchivs zu äußern. Allen an dieser Aktion Mitwirkenden sei an dieser Stelle herzlich gedankt!
 Wir haben durch Ihre Antworten und Kommentare wertvolle Hinweise vor allem in Sachen Benutzerfreundlichkeit erhalten. Einige Funktionalitäten konnten schon angepasst, optisch verbessert bzw. leichter handhabbar gemacht werden.
 Offenbar gibt es auch ein signifikantes Bedürfnis nach gehaltvolleren Metadaten und qualitativ hochwertigeren Bildern. Wir arbeiten an diesen Problemen! Wegen der strukturellen Offenheit des Bildarchivs und seiner gewollten Heterogenität sind hier allerdings keine radikalen, sondern intelligente Lösungen gefragt.
-Einstweilen verweisen wir auf die allen NutzerInnen gegebene Möglichkeit, mit der Vergabe von Sternchen die Qualität einzelner Abbildungen zu bewerten – und so eine kritische Masse zu schaffen, mit der wir künftig operieren können.
+Einstweilen verweisen wir auf die allen NutzerInnen gegebene Möglichkeit, mit der Vergabe von Sternchen die Qualität einzelner Abbildungen zu bewerten - und so eine kritische Masse zu schaffen, mit der wir künftig operieren können.
 Einige graphische Darstellungen und einen Kommentar zur Umfrageauswertung finden Sie in unserem Blog: "http://prometheus.khi.uni-koeln.de/blog/tag/umfrage":http://prometheus.khi.uni-koeln.de/blog/tag/umfrage
 
 
@@ -63,29 +63,29 @@ Die Möglichkeit der Rückmeldung bzw. der Kontaktaufnahme mit dem prometheus-Te
 
 Gastzugang: Unter "http://prometheus.uni-koeln.de/pandora/signup":http://prometheus.uni-koeln.de/pandora/signup kann sich fortan jede/r Interessierte selbstständig einen kostenlosen Gastzugang für eine Woche einrichten. Bisher war dies mit einer Anfrage an die Geschäftsstelle verbunden gewesen.
 
-Bezahlung der Einzellizenz: Aufgrund häufiger Anfragen bietet prometheus ab sofort auch die Zahlung per Rechnung für Einzellizenzen an. Wer seine Zahlung nicht über den Online-Zahlungsdienst „ClickandBuy“ abwickeln will, muss allerdings eine Bearbeitungsgebühr von 15 Euro in Kauf nehmen.
+Bezahlung der Einzellizenz: Aufgrund häufiger Anfragen bietet prometheus ab sofort auch die Zahlung per Rechnung für Einzellizenzen an. Wer seine Zahlung nicht über den Online-Zahlungsdienst "ClickandBuy" abwickeln will, muss allerdings eine Bearbeitungsgebühr von 15 Euro in Kauf nehmen.
 
 Daten herunterladen: Ein Klick auf das Download-Icon (nach unten gerichteter Pfeil) an einem Bild ermöglicht nun das Herunterladen des Bildes mit allen vorliegenden Metadaten. Diese werden im flexiblen XML-Format geliefert.
 Auch das Herunterladen der Bildersammlungen ist nun möglich. Beim Klick auf den Download-Link werden alle Bilder der Sammlung zusammen mit den XML-Daten heruntergeladen.
 
 
 
-*5.)    DFG-Projekt „Meta-Image“ geht an den Start*
+*5.)    DFG-Projekt "Meta-Image" geht an den Start*
 
-Gemeinsam mit dem Rechen- und Medienzentrum der Leuphana Universität Lüneburg und dem Computer- und Medienservice der Humboldt-Universität zu Berlin entwickelt prometheus seit dem 1. Oktober eine „verteilte virtuelle Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte“. Das Projekt ist auf zwei Jahre angelegt und im Förderbereich „Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)“ der Deutschen Forschungsgemeinschaft angesiedelt.
-Für prometheus geht es vor allem darum, die Möglichkeiten der ‚digitalen Bildinterpretation‘ und des kollaborativen Arbeitens innerhalb des Bildarchivs zu erweitern. Mit der Integration des genuin bildorientierten Werkzeugs „HyperImage“ werden auf das Detail zielende Bilddiskurstechniken Anwendung finden. Dann wird es möglich sein, gemeinsam oder individuell an beliebigen Bildausschnitten zu arbeiten, Bilddetails präzise zu markieren, zu beschreiben und miteinander zu verknüpfen. Die freigegebenen Meta-Informationen sollen später in das Bildarchiv zurückgeführt werden, so dass sie dann für die gesamte Forschungsgemeinschaft zur Verfügung stehen.
-
-
-
-*6.)    „e-campus Altertum“ an der Justus-Liebig-Universität Gießen*
-
-In den letzten Jahren wurden an der JLU immer wieder beispielhafte E-Learning Angebote zu altertumswissenschaftlichen Themen entwickelt. So entstanden u.a. „Das griechische Symposion“ (Klassische Philologie/Klassische Archäologie) und „Das Römische Forum“ (Klassische Archäologie) – interaktive Lernprogramme, die durch den Einsatz multimedialer Techniken Basiswissen, aber auch neueste Forschungsergebnisse fundiert und spielerisch zugleich vermitteln. Nun gilt es, diese Erfahrungen für einen curricular nachhaltig nutzbaren Einsatz von E-Learning zu sichern.
-Ein gemeinsamer Antrag des Instituts für Altertumswissenschaften und der Medienstelle des Fachbereichs 04 (Gründungsmitglied von prometheus) im Studienstrukturprogramm des Landes Hessen wurde vom HMWK mit einem Volumen von 199.000 € genehmigt. Im Juli lief die erste Projektphase an. Ausgewählte Lehrinhalte der Klassischen Philologie, der Klassischen Archäologie und der Alten Geschichte werden in Online-Angebote umgesetzt. Bei der Materialrecherche wird auf prometheus zurückgegriffen und neu erstelltes Bildmaterial wiederum in prometheus eingespeist. Die E-Learning-Kurse sollen begleitend im Studiengang „Kultur der Antike“ und in der Lehrerfortbildung zum Einsatz kommen.
-In der zweiten Phase werden die Angebote auf der neuen Lernplattform „ILIAS für ALTERTUM“ zur Verfügung gestellt, ähnlich wie bei den hessenweiten E-Learning Projekten „k-MED“ und „sports-edu“. Langfristig soll so mit Online-Angeboten, die von kooperierenden Hochschulen des In- und Auslands erstellt werden, eine europäische E-Learning Plattform für die Altertumswissenschaften entstehen. Fachvertreter der Humboldt-Universität zu Berlin und der Universität Zürich haben bereits ihre Mitarbeit angekündigt.
+Gemeinsam mit dem Rechen- und Medienzentrum der Leuphana Universität Lüneburg und dem Computer- und Medienservice der Humboldt-Universität zu Berlin entwickelt prometheus seit dem 1. Oktober eine "verteilte virtuelle Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte". Das Projekt ist auf zwei Jahre angelegt und im Förderbereich "Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)" der Deutschen Forschungsgemeinschaft angesiedelt.
+Für prometheus geht es vor allem darum, die Möglichkeiten der ‚digitalen Bildinterpretation‘ und des kollaborativen Arbeitens innerhalb des Bildarchivs zu erweitern. Mit der Integration des genuin bildorientierten Werkzeugs "HyperImage" werden auf das Detail zielende Bilddiskurstechniken Anwendung finden. Dann wird es möglich sein, gemeinsam oder individuell an beliebigen Bildausschnitten zu arbeiten, Bilddetails präzise zu markieren, zu beschreiben und miteinander zu verknüpfen. Die freigegebenen Meta-Informationen sollen später in das Bildarchiv zurückgeführt werden, so dass sie dann für die gesamte Forschungsgemeinschaft zur Verfügung stehen.
 
 
 
-*7.)     "www.pausanio.de":http://www.pausanio.de – prometheus gratuliert zur Gründung*
+*6.)    "e-campus Altertum" an der Justus-Liebig-Universität Gießen*
+
+In den letzten Jahren wurden an der JLU immer wieder beispielhafte E-Learning Angebote zu altertumswissenschaftlichen Themen entwickelt. So entstanden u.a. "Das griechische Symposion" (Klassische Philologie/Klassische Archäologie) und "Das Römische Forum" (Klassische Archäologie) - interaktive Lernprogramme, die durch den Einsatz multimedialer Techniken Basiswissen, aber auch neueste Forschungsergebnisse fundiert und spielerisch zugleich vermitteln. Nun gilt es, diese Erfahrungen für einen curricular nachhaltig nutzbaren Einsatz von E-Learning zu sichern.
+Ein gemeinsamer Antrag des Instituts für Altertumswissenschaften und der Medienstelle des Fachbereichs 04 (Gründungsmitglied von prometheus) im Studienstrukturprogramm des Landes Hessen wurde vom HMWK mit einem Volumen von 199.000 € genehmigt. Im Juli lief die erste Projektphase an. Ausgewählte Lehrinhalte der Klassischen Philologie, der Klassischen Archäologie und der Alten Geschichte werden in Online-Angebote umgesetzt. Bei der Materialrecherche wird auf prometheus zurückgegriffen und neu erstelltes Bildmaterial wiederum in prometheus eingespeist. Die E-Learning-Kurse sollen begleitend im Studiengang "Kultur der Antike" und in der Lehrerfortbildung zum Einsatz kommen.
+In der zweiten Phase werden die Angebote auf der neuen Lernplattform "ILIAS für ALTERTUM" zur Verfügung gestellt, ähnlich wie bei den hessenweiten E-Learning Projekten "k-MED" und "sports-edu". Langfristig soll so mit Online-Angeboten, die von kooperierenden Hochschulen des In- und Auslands erstellt werden, eine europäische E-Learning Plattform für die Altertumswissenschaften entstehen. Fachvertreter der Humboldt-Universität zu Berlin und der Universität Zürich haben bereits ihre Mitarbeit angekündigt.
+
+
+
+*7.)     "www.pausanio.de":http://www.pausanio.de - prometheus gratuliert zur Gründung*
 
 ‚pausanio.de‘ ist ein Audioguideportal für Kunst- und Kulturreisende, das als Startup-Unternehmen in diesem Sommer gegründet wurde. Die beiden Initiatoren Holger Simon und Stephan Hoppe lehren am Kunsthistorischen Institut der Universität zu Köln. Holger Simon war zudem Mitbegründer und langjähriger Leiter des Verbundprojekts prometheus und hat seit nunmehr sechs Jahren den Vorstandsvorsitz im Verein inne.
 

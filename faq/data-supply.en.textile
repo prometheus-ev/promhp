@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'FAQ: Supplying images'
+title: "FAQ: Supplying images"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=273&L=1&skin=
 ---
 h2. <%= page_title %>
@@ -12,7 +12,7 @@ Then there are several possibilities how your database can be uploaded.
 1. Please send us a XML-dump with the contents and the image files and we reserve your data on the prometheus-Server.
 2. You provide us with a XML-dump with the contents but keep the image files on your own server. In this case you are responsible for the access to your own server.
 Further possibilities and options can be acquired through our office.
-see "Information for database suppliers":<%=r 'databases' %>
+see "Information for database suppliers":<%=r 'databases/data-supply' %>
 *Attention!!* prometheus offers the database system DILPS to interested institutes free of charge in order to create an own database. Please apply for an account in our office.
 Your images are uploaded automatically after a DILPS database is provided.
 For the picture production please follow our recommendations:

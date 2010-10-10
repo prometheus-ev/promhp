@@ -12,7 +12,7 @@ Die Bilder und Medien (Video, Animationen etc.), die in prometheus eingebunden s
 
 Dazu sind folgende Eckpunkte einzuhalten:
 
-h5. Bilder
+h3. Bilder
 
 *Dateiformat*
 Als Dateiformat wird ausschließlich JPEG verarbeitet. Die Kompressionsstufe sollte dabei so gering wie möglich gewählt werden, um ein adäquates Verhältnis von Bildqualität und Dateigröße zu gewährleisten.
@@ -30,7 +30,7 @@ Ausnahme: Datenbanken, deren Bilder nicht bei prometheus, sondern auf einem eige
 *Dateigröße*
 Die Dateigröße einer abgespeicherten JPG-Datei hängt unmittelbar von der Größe der Vorlage und der Einhaltung oben angegebener Richtwerte ab. Bei Scans von üblichen Vorlagen (z.B. Dias, Abbildungen in Büchern) oder bei digitalen Fotos als Vorlage sollte die Dateigröße des für prometheus bereitgestellten Großformats in der Regel die Grenze von 1 MB nicht überschreiten. Es ist zu beachten, dass das gelieferte Großformat als dritte Zoomstufe in prometheus dargestellt und somit bei Aufruf die gesamte Datengröße über das Internet übertragen wird. Falls die Dateigröße 1 MB überschreitet, sollte geprüft werden, ob bei vertretbarem Qualitätsverlust durch Anpassung an die oben genannten Richtwerte die Dateigröße weiter reduziert werden kann.
 
-h5. Sonstige Medien
+h3. Sonstige Medien
 
 Generell können in prometheus alle Medien zur Visualisierung eines Objekts wie Videos oder Animationen eingebunden werden. Da diese (funktionsbedingt) in vielen verschiedenen Formaten vorliegen können, können an dieser Stelle keine näheren Angaben über Qualitätsstandards gemacht werden. Die eingebunden Formate sollten aber über das Internet z.B. mit Hilfe von Browser-Plugins (Quicktime, Flash, SVG etc.) anzeigbar sein und keine (kostenpflichtige) Spezialsoftware auf Seiten des Benutzers voraussetzen. Die Dateigröße sollte äquivalent zu den bei den Bildern gegebenen Hinweisen zu einem adäquaten Verhältnis zur Abbildungsqualität und Internetstruktur sein. Für alle dynamischen Medien wird ein Standbild (Richtwerte für Bilder s.o.) benötigt, das auch ein Hinweis auf das eigentliche Medium enthalten kann.
 

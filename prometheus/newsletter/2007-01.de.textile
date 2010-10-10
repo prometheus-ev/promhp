@@ -4,7 +4,7 @@ title: Newsletter 2007 / 01
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=213
 ---
 h2. <%= page_title %>
-*prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
+*prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
 
 
 Liebe Abonnentin, lieber Abonnent,
@@ -24,10 +24,10 @@ Sigrid Ruby
 1.) prometheus auf dem XXIX. Deutschen Kunsthistorikertag in Regensburg
 2.) Rechtssicherheit nach Vertragsabschluß mit VG BILD-KUNST
 3.) Neues Projekt in Zusammenarbeit mit der FH Köln
-4.) „Digitale Medien und Wissenschaftskulturen“ – Tagungsbeiträge in zeitenblicke veröffentlicht
-5.) Umfrage der Bilddatenbank „Pictura Paedagogica Online“
-6.) prometheus – facts & figures
-7.) prometheus – Kontakt
+4.) "Digitale Medien und Wissenschaftskulturen" - Tagungsbeiträge in zeitenblicke veröffentlicht
+5.) Umfrage der Bilddatenbank "Pictura Paedagogica Online"
+6.) prometheus - facts & figures
+7.) prometheus - Kontakt
 
 
 
@@ -71,20 +71,20 @@ Von nun an ist also die Nutzung der Abbildung einer Ölstudie von Willem de Koon
  
 *3.) Neues Projekt in Zusammenarbeit mit der FH Köln*
 
-Die RheinEnergieStiftung Köln hat ein Projekt genehmigt, bei dem prometheus mit dem Institut für Informationswissenschaft der Fachhochschule Köln (Prof. Dr. Klaus Lepsky) zusammenarbeitet. In der Laufzeit von zwei Jahren werden mit (halb)automatischen Verfahren Elemente entwickelt, die die Recherche im Bildarchiv grundlegend verbessern sollen. Dabei geht es vorrangig um eine optimierte Suche in denjenigen Datenbanken, die nur wenig inhaltliche Informationen zu den Bildern bereitstellen oder aber Begriffsvarianten verwenden. So sollte in Zukunft die so genannte Mona Lisa von Leonardo auch dann mit der Sucheingabe „Porträt“ gefunden werden, wenn der Begriff nicht in dem Datenbankeintrag auftaucht.
+Die RheinEnergieStiftung Köln hat ein Projekt genehmigt, bei dem prometheus mit dem Institut für Informationswissenschaft der Fachhochschule Köln (Prof. Dr. Klaus Lepsky) zusammenarbeitet. In der Laufzeit von zwei Jahren werden mit (halb)automatischen Verfahren Elemente entwickelt, die die Recherche im Bildarchiv grundlegend verbessern sollen. Dabei geht es vorrangig um eine optimierte Suche in denjenigen Datenbanken, die nur wenig inhaltliche Informationen zu den Bildern bereitstellen oder aber Begriffsvarianten verwenden. So sollte in Zukunft die so genannte Mona Lisa von Leonardo auch dann mit der Sucheingabe "Porträt" gefunden werden, wenn der Begriff nicht in dem Datenbankeintrag auftaucht.
 Projektstart ist der 1. April 2007.
 
  
-*4.) „Digitale Medien und Wissenschaftskulturen“ – Tagungsbeiträge in zeitenblicke veröffentlicht*
+*4.) "Digitale Medien und Wissenschaftskulturen" - Tagungsbeiträge in zeitenblicke veröffentlicht*
 
-Zusammen mit historicum.net hatte prometheus im März letzten Jahres die Tagung „Digitale Medien und Wissenschaftskulturen“ in Köln ausgerichtet. Dabei ging es um das Wechselverhältnis zwischen medialen Wandlungsprozessen und der inhaltlichen bzw. methodischer Ausrichtung von wissenschaftlichen Disziplinen.
+Zusammen mit historicum.net hatte prometheus im März letzten Jahres die Tagung "Digitale Medien und Wissenschaftskulturen" in Köln ausgerichtet. Dabei ging es um das Wechselverhältnis zwischen medialen Wandlungsprozessen und der inhaltlichen bzw. methodischer Ausrichtung von wissenschaftlichen Disziplinen.
 Die Ergebnisse der Tagung sind nun, ergänzt um weitere Beiträge, in der online-Zeitschrift zeitenblicke publiziert.
 Siehe: "www.zeitenblicke.de":http://www.zeitenblicke.de/ [zeitenblicke 5 (2006), Nr. 3]
 
  
-*5.) Umfrage der Bilddatenbank „Pictura Paedagogica Online“*
+*5.) Umfrage der Bilddatenbank "Pictura Paedagogica Online"*
 
-Seit dem Herbst letzten Jahres ist die bildungsgeschichtliche Bilddatenbank „Pictura Paedagogica Online“ in prometheus integriert und über das Bildarchiv recherchierbar (vgl. newsletter 2006/04).
+Seit dem Herbst letzten Jahres ist die bildungsgeschichtliche Bilddatenbank "Pictura Paedagogica Online" in prometheus integriert und über das Bildarchiv recherchierbar (vgl. newsletter 2006/04).
 
  
 
@@ -103,12 +103,12 @@ Sollten Sie weitere Fragen zu dieser online-Befragung haben, kontaktieren Sie bi
 "nicole.teschle@fh-potsdam.de":mailto:nicole.teschle@fh-potsdam.de
 
 
-*6.) prometheus – facts & figures*
+*6.) prometheus - facts & figures*
 
 Derzeit können 370.524 Bilder aus 34 Datenbanken über prometheus recherchiert werden. 25 Hochschulen im In- und Ausland halten eine Campuslizenz. Die personalisierten Nutzungszugänge belaufen sich auf nunmehr 4.946; hinzu kommen Tausende von Nutzerinnen und Nutzern, die auf prometheus anonym im Rahmen einer Campus-Lizenz zugreifen. Diesen Newsletter beziehen 1.633 Personen.
 
 
-*7.) prometheus – Kontakt*
+*7.) prometheus - Kontakt*
 
 Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
 - als Privatperson an die prometheus-Geschäftsstelle
