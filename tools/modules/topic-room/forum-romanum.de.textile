@@ -17,9 +17,4 @@ h2. <%= page_title %>
 
 URL: "http://www.talis-online.de":http://www.talis-online.de/
 
-
-
 Von: Martini, Scheele, Theissen
-
-
-"zurück zu: Themenraum ":<%=r 'tools/modules/topic-room' %>

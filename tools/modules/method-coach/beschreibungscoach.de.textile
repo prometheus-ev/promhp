@@ -18,13 +18,7 @@ Das vorliegende Konzept zum Beschreibungs-Coach bezieht sich auf zwei Beschreibu
 *Medien:* Audio, Bild, Text
 *Lehrmethode:* fallbasiertes Lernen
 
-
 Link:
-
 ".../lernelemente/beschreibungscoach/index.html":http://prometheus-web.uni-koeln.de/web/lernelemente/beschreibungscoach/index.html
 
-
 Von: prometheus e.V.
-
-
-"zurück zu: Methoden-Coach ":<%=r 'tools/modules/method-coach' %>

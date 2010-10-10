@@ -27,8 +27,4 @@ Das begriffsnetz unterliegt den Bestimmungen der Digital Peer Publishing Lizenz.
 
 *Technische Voraussetzungen:* windows
 
-
 Von: Stefan Brenne
-
-
-"zurück zu: Programme":<%=r 'tools/programs' %>

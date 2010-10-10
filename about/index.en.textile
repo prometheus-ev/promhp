@@ -1,7 +1,62 @@
 ---
 layout: default
-title: About us
+title: From project to association - The History of prometheus
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=67&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 h2. <%= page_title %>
 
-TODO: content
+
+h5. prometheus as a bmbf-Projekt
+
+"p r o m e t h e u s  - The Distributed Digital Image Archive for Research and Studies" started on April 1, 2001 as a cooperative project in Germany. Within the frame work of "“New Media in Education”":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/ , p r o m e t h e u s was supported by the Federal Ministry for Education and Research (bmb+f) with a total amount of 1.8 Mio. €. The "project’s executing organization, "„New Media in Education“":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/httpstatus-404/6848_read-6936/ was associated with the German Institute for Aerospace industry (DLR).
+
+
+
+h5. Three Project Years, four Universities, eight Institutes
+
+During the 3 years of the project’s development and implementation, the project team consisted of 9 project managers, and a total of 50 staff members and assistants from 4 universities and 8 institutes.
+From the very beginning of the project, the established objective was to encourage close interdisciplinary interaction to enable all staff members to gain an understanding of varied subject areas, and to participate in decision making.
+The major components of the project work was distributed between the universities and institutes as follows:
+
+
+*University of Anhalt (FH):*
+
+Computer Sciences (Köthen): Programming of the research modules (TimeLine) and the off-line work folder
+Design (Dessau): Layout and conception of the image archive (research, work folders, navigation) and the home page; development of the educational program
+
+
+*Humboldt University Berlin:*
+
+Fine Arts: Database imago_diathek, database of the virtual art, development of the educational program
+
+*Justus-Liebig University Giessen:*
+
+Professorship for Archeology: Database EikonLine, development of the educational program
+Professorships for Art history: Database digital Diathek, database DigiDiathek, coordination of the associated partners
+
+*University of Cologne:*
+
+Institute of Art History: Project management and project coordination, database DaDa Web
+Institute for Data Processing of Cultural Studies: Technology of the central server, technical realization of the design and organization of the image archive
+Pedagogical Department: Development of the educational program, evaluation.
+
+
+In addition to the pre-established project objectives, it was possible to incorporate 15 extra databases, resulting in access to more than 150,000 images by the end of the project.
+During those 3 years, more than 60 institutions joined the project as associate partners, independently managing 1700 user accounts.
+
+
+h5. Long-term sustainability as an association 2003
+
+While the project was still ongoing, the association “p r o m e t h e u s -  The Distributed Digital Image Archive for Research and Studies e.V” was founded on March 24, 2003, to perpetuate and sustain the project’s achievements.
+As of April 1, 2004, this association became the legal successor of the project with the goal to guarantee the financing and technical structure of  p r o m e t h e u s,  and to continue development of the image archive including the educational programs.
+The registered office of p r o m e t h e u s  is located at the Institute of Art History at the University of Cologne.
+
+h5. Our sponsors
+
+| !<%=r 'files/images/bmbf.jpg' %>!:http://www.bmbf.de
+"Bundesministerium fürBildung und Forschung":http://www.bmbf.de/ |"Sal. Oppenheim-Stiftung zur Förderung der
+Wissenschaften Köln":http://www.stifterverband.de/site/php/stiftung.php?SID=&seite=StiftungDetail&stiftung=168&herkunft=0&detailansprechnr=463&detailexansprechnr |
+| !<%=r 'files/images/siegel2.gif' %>!:http://www.uni-koeln.de/
+"Universität zu Köln":http://www.uni-koeln.de/ |!<%=r 'files/images/phil_siegel.gif' %>!:http://phil-fak.uni-koeln.de/
+"Philosophische Fakultät
+der Universität zu Köln":http://phil-fak.uni-koeln.de/ |

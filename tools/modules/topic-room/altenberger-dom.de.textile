@@ -22,10 +22,4 @@ Das Altenberg-Multimedia-Projekt ist eine durch den Universitätsverbund Multime
 *Medien:* Text, Bild, 3D-Darstellungen
 *Lehrmethode:* induktiv, von der Anschauung eines Einzelojektes ausgehend
 
-
-
 Link: "www.altenberg-projekt.uni-dortmund.de":http://www.altenberg-projekt.uni-dortmund.de/
-
-
-
-"zurück zu: Themenraum":<%=r 'tools/modules/topic-room' %>

@@ -28,9 +28,4 @@ DaDaEdu steht hier als Shareware-Version zur Verfügung.
 
 *Technische Voraussetzungen:* Windows; keine zusätzliche Software nötig [herunterladen, entpacken und DadaErfStart starten]
 
-
-
 Von: Arthist Dokumentation
-
-
-"zurück zu: Datenbanken":<%=r 'tools/databases' %>

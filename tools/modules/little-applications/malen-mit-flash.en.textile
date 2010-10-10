@@ -1,6 +1,24 @@
 ---
 layout: default
-title: '[Malen mit Flash]'
+title: 'Malen mit Flash (German)'
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=284&L=1&skin=0&tx_ttnews[tt_news]=15&tx_ttnews[pointer]=
 ---
-TODO: translate
+<%# TODO: translate %>
+h2. <%= page_title %>
+
+05.03.07
+!<%=r 'files/images/4c78bb2698.jpg' %>!
+
+*Dateien zum Herunterladen:*
+"malen_mit_flash.swf":<%=r 'files/media/malen_mit_flash.swf' %>
+
+*Interaktive Flash-Applikation über die Wirkung von Komplementärkontrasten*
+Die interaktive Flashapplikation erlaubt das Färben von Flächen eines Landschaftsbildes und macht so die Wirkung von Komplementärkontrasten, wie sie z.B. im Expressionismus verwendet wurden, deutlich.
+
+*Zielgruppe:* Schüler, Erwachsenenbildung, Kunstgeschichte im Grundstudium
+
+*Technische Voraussetzungen:* Windows/Mac, Flash-Plugin
+
+*Nutzungsbedingungen:* Bei Verwendung bitte eine E-Mail an "sabine.scheele[at]s2w3.com":mailto:sabine.scheele@s2w3.com
+
+Von: Sabine Scheele

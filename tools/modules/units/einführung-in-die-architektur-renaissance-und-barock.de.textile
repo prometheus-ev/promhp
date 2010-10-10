@@ -20,8 +20,4 @@ Sakral- und Profanbau werden gleichermaßen behandelt, da diese zwar nicht gleic
 
 Link:  "www.fak09.uni-muenchen.de/Kunstgeschichte/projekte/arch_complete_vers/start.htm":http://www.kunstgeschichte.uni-muenchen.de/projekte/arch_complete_vers/start.htm
 
-
 Von: Ulrich Fürst
-
-
-"zurück zu: Lerneinheiten ":<%=r 'tools/modules/units' %>

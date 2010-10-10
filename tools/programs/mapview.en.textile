@@ -1,6 +1,22 @@
 ---
 layout: default
-title: '[MapView (Offline-Mappe)]'
+title: 'MapView (Offline-Mappe)'
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=277&L=1&tx_ttnews[tt_news]=26&tx_ttnews[backPid]=58&cHash=4c8367fcba
 ---
-TODO: translate
+<%# TODO: translate %>
+h2. <%= page_title %>
+
+09.03.07
+
+| !<%=r 'files/images/b656a9e14d.jpg' %>! | !<%=r 'files/images/c7f9ddbf86.jpg' %>! |
+
+*Offline-Arbeitsmappe und Präsentation für prometheus*
+*Anwendungsbereich:* prometheus
+*Technische Voraussetzungen:* Java 1.4.2 oder höher
+*Lizenz:* GNU public licence
+
+*Link:* "dda3.design.hs-anhalt.de/~greulich/download.htm":http://dda3.design.hs-anhalt.de/~greulich/download.htm
+
+*zur Zeit leider nicht verfügbar!*
+
+Von: Reinhard Greulich

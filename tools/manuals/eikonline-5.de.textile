@@ -32,9 +32,4 @@ Themen
 
 Version 1.2 (09.03.2005)
 
-
-
 Von: Stefan Brenne, Annette Mag
-
-
-"zurück zu: Leitfaden":<%=r 'tools/manuals' %>

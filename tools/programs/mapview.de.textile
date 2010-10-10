@@ -20,8 +20,4 @@ h2. <%= page_title %>
 
 *zur Zeit leider nicht verfügbar!*
 
-
 Von: Reinhard Greulich
-
-
-"zurück zu: Programme":<%=r 'tools/programs' %>

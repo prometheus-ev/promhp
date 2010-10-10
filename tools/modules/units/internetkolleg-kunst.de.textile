@@ -20,6 +20,3 @@ h2. <%= page_title %>
 Link:  "hera.geschkult.fu-berlin.de/~sds":http://sds.geschkult.fu-berlin.de/~sds/
 
 Von: Werner Busch (Hg.), FU Berlin
-
-
-"zurück zu: Lerneinheiten ":<%=r 'tools/modules/units' %>

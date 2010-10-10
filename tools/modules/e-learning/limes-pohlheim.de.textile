@@ -14,13 +14,7 @@ h2. <%= page_title %>
 *Zielgruppe:* Historisch Interessierte, Studierende, Schüler
 *Medien:* Hypertext
 
-
 Link:
 "http://www.limes-pohlheim.de":http://www.limes-pohlheim.de/
 
-
-
 Von: Sabine Scheele
-
-
-"zurück zu: E-Learning 2.0":<%=r 'tools/modules/e-learning' %>

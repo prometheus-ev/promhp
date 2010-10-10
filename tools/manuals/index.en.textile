@@ -3,4 +3,25 @@ layout: default
 title: Reference manuals
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=59&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
-TODO: translate
+<%# TODO: translate %>
+h2. <%= page_title %>
+
+
+*eikonline_2: Bildreproduktion*
+
+!<%=r 'files/images/6131d4af9d.jpg' %>! Richtig scannen "» mehr":<%=r 'tools/manuals/eikonline-2' %>
+
+
+*eikonline_3: Bildpräsentation*
+
+!<%=r 'files/images/944a67154a.jpg' %>! Präsentieren mit editor + projektor "» mehr":<%=r 'tools/manuals/eikonline-3' %>
+
+
+*eikonline_4: DigiDiathek Nutzung*
+
+!<%=r 'files/images/13e3c71195.jpg' %>! Arbeiten mit der Gießener Datenbank DigiDiathek von der Recherche bis zur Präsentation "» mehr":<%=r 'tools/manuals/eikonline-4' %>
+
+
+*eikonline_5: prometheus-Bildarchiv*
+
+!<%=r 'files/images/499b2e2096.jpg' %>! Faltblatt zur Einführung in das Arbeiten mit dem prometheus-Bildarchiv "» mehr":<%=r 'tools/manuals/eikonline-5' %>

@@ -22,14 +22,8 @@ Der *projektor* zeigt ein bis drei Bilder oder swf-Dateien folienweise, in Einze
 *Aktuelle Version: 2.0.* (Stand 08.09.05: Verbessertes Fehlermanagement, Unterstützung von SWF-Interaktivität, veränderbare Textgrößen u.a.)
 *Neu:* Anleitung als PDF
 
-
-
 *Autoren:* Stefan Brenne (editor), Sabine Scheele (projektor)
 
 *Anwendungsbereich:* Bildpräsentation
 
-
 Von: Stefan Brenne (editor), Sabine Scheele (projektor)
-
-
-"zurück zu: Programme":<%=r 'tools/programs' %>

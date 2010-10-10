@@ -16,13 +16,6 @@ h2. <%= page_title %>
 *Medien:* Bewegtbild, Bild, Text
 *Lehrmethode:* Exploratives Lernen
 
-
-
 Link: "tr-zweiddreid.des.hs-anhalt.de":http://tr-zweiddreid.des.hs-anhalt.de/
 
-
-
 Von: Hochschule Anhalt, Fachbereich Design
-
-
-"zurück zu: Themenraum":<%=r 'tools/modules/topic-room' %>

@@ -26,8 +26,4 @@ In einem ersten Beispiel sind ca. 300 Grundbegriffe der Archäologie eingegeben,
 
 Link: ".../lernelemente/terminologietrainer/index.html":http://prometheus-web.uni-koeln.de/web/lernelemente/terminologietrainer/index.html
 
-
 Von: prometheus e.V.
-
-
-"zurück zu: Wissens-Trainer ":<%=r 'tools/modules/knowledge-coach' %>

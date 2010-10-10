@@ -18,12 +18,6 @@ Digitale Bilder für die Präsentation müssen nicht nur inhaltliche, sondern au
 
 Das Faltblatt *Bildbearbeitung: Scannen* aus der Reihe *eikonline* der JLU Gießen, Medienstelle FB 04, soll die Arbeit erleichern und mithelfen, den Standard in der Bildqualität zu verbessern.
 
-
-
 Version 1.2 (09.03.2006)
 
-
 Von: Stefan Brenne
-
-
-"zurück zu: Leitfaden":<%=r 'tools/manuals' %>

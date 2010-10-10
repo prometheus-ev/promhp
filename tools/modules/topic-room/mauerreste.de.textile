@@ -26,11 +26,6 @@ Der Spaziergang steht zusätzlich als druckbare Version zur Verfügung und kann 
 
 #* 6. Links
 
-
 Link: "www.hansstefanbolz.de/mauerreste":http://www.hansstefanbolz.de/mauerreste/
 
-
 Von: Hans-Stefan Bolz
-
-
-"zurück zu: Themenraum ":<%=r 'tools/modules/topic-room' %>

@@ -30,4 +30,3 @@ Apache, mind. Version 1.3 MySQL, mind. Version 4.0 PHP, mind. Version 4.3 (inkl.
 * "www.dilps.net":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/Hauptseite
 
 Von: Jürgen Enge
-zurück zu: Datenbanken

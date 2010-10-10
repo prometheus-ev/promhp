@@ -37,9 +37,4 @@ Version 5.1 (22.03.2005), Anregungen sind willkommen.
 
 *Technische Voraussetzungen:* windows, Filemaker 5 bis 6, plugin TroiFile und TroiDialog
 
-
-
 Von: Stefan Brenne
-
-
-"zurück zu: Datenbanken":<%=r 'tools/databases' %>

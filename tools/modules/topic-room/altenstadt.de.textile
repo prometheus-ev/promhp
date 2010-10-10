@@ -26,8 +26,4 @@ Hinzu kommen das historische Umfeld mit seinen offenen Fragen und nicht zuletzt 
 
 Link: "... /themenraum/index.html":http://prometheus-web.uni-koeln.de/web/lernelemente/themenraum/index.html
 
-
 Von: prometheus e.V., Studierende
-
-
-"zurück zu: Themenraum ":<%=r 'tools/modules/topic-room' %>

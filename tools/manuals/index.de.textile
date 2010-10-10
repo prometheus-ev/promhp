@@ -24,27 +24,3 @@ h2. <%= page_title %>
 *eikonline_5: prometheus-Bildarchiv*
 
 !<%=r 'files/images/499b2e2096.jpg' %>! Faltblatt zur Einführung in das Arbeiten mit dem prometheus-Bildarchiv "» mehr":<%=r 'tools/manuals/eikonline-5' %>
-
-Zeige Datensatz 1 bis 4 von 6
-
-1
-
-2
-
-vor >
-
-
-eikonline_6: ILIAS 2 Nutzung
-
-Leitfaden für die Nutzung der Lernplattform ILIAS Version 2» mehr
-eikonline_7: ILIAS 3 Nutzung
-
-Leitfaden für die Nutzung der Lernplattform ILIAS Version 3» mehr
-
-Zeige Datensatz 5 bis 6 von 6
-
-< zurück
-
-1
-
-2

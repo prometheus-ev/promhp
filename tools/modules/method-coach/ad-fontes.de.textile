@@ -22,9 +22,4 @@ An Beispielen aus dem Stiftsarchiv Einsiedeln kann das Lesen und Datieren sowie 
 
 Link:  "www.adfontes.unizh.ch":http://www.adfontes.uzh.ch/1000.php
 
-
-
 Von: Projektverantwortung: Prof. Dr. Roger Sablonier
-
-
-"zurück zu: Methoden-Coach":<%=r 'tools/modules/method-coach' %>

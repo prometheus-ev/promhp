@@ -3,4 +3,19 @@ layout: default
 title: limes-pohlheim.de
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=351&L=1&skin=0&tx_ttnews[tt_news]=71&tx_ttnews[backPid]=350&cHash=a66dc3800e
 ---
-TODO: translate
+<%# TODO: translate %>
+h2. <%= page_title %>
+
+30.10.07
+
+| !<%=r 'files/images/e46e9a01ee.jpg' %>! | !<%=r 'files/images/577727a161.jpg' %>! | !<%=r 'files/images/b40366fb5d.jpg' %>! |
+
+*Internetseite über den römischen Limes im Bereich der Stadt Pohlheim (bei Gießen)*
+*Autorenschaft:* Sabine Scheele (s2w3.com) ,  Dr. Stefan Brenne (Uni Gießen)
+*Zielgruppe:* Historisch Interessierte, Studierende, Schüler
+*Medien:* Hypertext
+
+Link:
+"http://www.limes-pohlheim.de":http://www.limes-pohlheim.de/
+
+Von: Sabine Scheele

@@ -1,5 +1,24 @@
 ---
 layout: default
-title: "[eikonline_2: Bildreproduktion]"
+title: 'eikonline_2: Bildreproduktion (German)'
 ---
-TODO: translate
+<%# TODO: translate %>
+h2. <%= page_title %>
+
+05.03.07
+
+!<%=r 'files/images/6131d4af9d.jpg' %>!
+
+*Dateien zum Herunterladen:*
+"eikonline_02_scan_01.pdf":<%=r 'files/text/eikonline_02_scan_01.pdf' %>
+
+
+*Richtig scannen*
+Digitale Bilder für die Präsentation müssen nicht nur inhaltliche, sondern auch technische Bedingungen erfüllen. Die Bildreproduktion hängt stark von der Qualität (Größe, Rasterung ...) der Vorlage ab.
+
+
+Das Faltblatt *Bildbearbeitung: Scannen* aus der Reihe *eikonline* der JLU Gießen, Medienstelle FB 04, soll die Arbeit erleichern und mithelfen, den Standard in der Bildqualität zu verbessern.
+
+Version 1.2 (09.03.2006)
+
+Von: Stefan Brenne

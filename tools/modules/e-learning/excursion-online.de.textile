@@ -18,8 +18,4 @@ h2. <%= page_title %>
 Link:
 "http://www.exkursion-online.de":http://www.uni-giessen.de/exkursion-online/
 
-
 Von: Sabine Scheele
-
-
-"zurück zu: E-Learning 2.0":<%=r 'tools/modules/e-learning' %>

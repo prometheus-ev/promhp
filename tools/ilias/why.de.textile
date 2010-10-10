@@ -5,20 +5,15 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=207&L=0&skin=0
 ---
 h2. <%= page_title %>
 
-
 *Was ist ILIAS?*
 ILIAS ist eine Open-Source-Software für ein Learning Management System. Damit können einerseits internet-basierte Lehr- und Lernmaterialien (für E-Learning) erstellt und verfügbar gemacht werden. Andererseits unterstützt ILIAS die Kommunikation und Zusammenarbeit von Lehrenden und Lernenden. Schließlich können didaktische Strukturen für komplette Kurse, Prüfungen und Evaluationen verwirklicht werden. Gegenwärtig besteht bereits das Release 3.7.4. [Quelle: "wikipedia":http://www.wikipedia.de/]
-
- 
 
 Zur Projektwebsite:
 "http://www.ilias.de":http://www.ilias.de/docu/
 
-
 *ILIAS als exemplarische Lernplattform*
 prometheus bietet ILIAS und seinen Editor als exemplarische Lernplattform an. Beispiele von Lerneinheiten zeigen, wie die von
 prometheus entwickelten Werkzeuge und Lernelemente in die Lehre eingebunden werden können.
-
 
 *Neue Lernformen in der Präsenzlehre*
 Die Lehrenden haben hier die Möglichkeit, eigene Lerneinheiten zu erstellen und die Kommunikations- und Organisationsmöglichkeiten der Plattform zu nutzen, um beispielsweise Gruppenarbeit in den Seminaren, (Online)-Tutoring von Studierenden für Studierende zu organisieren und studentische Arbeiten in Lernelemente und Lerneinheiten zu integrieren.
