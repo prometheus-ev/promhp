@@ -154,7 +154,7 @@ Auf der Veranstaltung diskutierten Vertreterinnen und Vertreter aus Politik, Hoc
 *9.) prometheus – Kontakt*
 
 Partner von prometheus e.V. werden
-An einer Partnerschaft mit prometheus e.V. interessierte Institutionen oder Privatpersonen wenden sich bitte an Vorstandsmitglied Dr. Dorothee Haffner "dorothee.haffner[at]rz.hu-berlin.de":javascript:linkTo_UnCryptMailto('ocknvq,fqtqvjgg0jchhpgtBtb0jw/dgtnkp0fg'); .
+An einer Partnerschaft mit prometheus e.V. interessierte Institutionen oder Privatpersonen wenden sich bitte an Vorstandsmitglied Dr. Dorothee Haffner "dorothee.haffner@rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de.
 
 
 
@@ -165,7 +165,7 @@ Bis Ende des Jahres ist Gerd Mörsch M.A. gerd.moersch@uni-koeln.de von Montag b
 
 
 Impressum
-Der nächste Newsletter (2005/ 01) erscheint vorraussichtlich Ende Januar Redaktion: "sigrid.ruby[at]geschichte.uni-giessen.de":javascript:linkTo_UnCryptMailto('ocknvq,ukitkf0twdaBiguejkejvg0wpk/ikguugp0fg');
+Der nächste Newsletter (2005/ 01) erscheint vorraussichtlich Ende Januar Redaktion: "sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de
 
 prometheus e.V.-Geschäftsstelle
 Kunsthistorisches Institut der

@@ -119,5 +119,5 @@ prometheus-Geschäftsführer Gerd Mörsch M.A. ist auch weiterhin von Montag bis
 
 *7.) Impressum*
 
-Der prometheus-Newsletter erscheint viermal im Jahr und immer nach einer Vorstandssitzung. Den nächsten Newsletter (2004/04) gibt’s im Oktober. Redaktion: "sigrid.ruby[at]geschichte.uni-giessen.de":javascript:linkTo_UnCryptMailto('ocknvq,ukitkf0twdaBiguejkejvg0wpk/ikguugp0fg');
+Der prometheus-Newsletter erscheint viermal im Jahr und immer nach einer Vorstandssitzung. Den nächsten Newsletter (2004/04) gibt’s im Oktober. Redaktion: "sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de
 

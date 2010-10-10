@@ -6,7 +6,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=509&L=1&skin=&tx_ttnews
 h2. <%= page_title %>
 
 *Current*
-
 Sebastian Beßler (Cologne, Informatics)
 Lisa Dieckmann M.A. (Executive of the project prometheus at the Department of Art History of the University of Cologne, Informatics)
 Arne Eilermann (Cologne, Informatics)

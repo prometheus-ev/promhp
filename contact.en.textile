@@ -10,7 +10,7 @@ Mo - Fr 10 a.m. -  4.p.m
 fax  ++49 (0) 221 470 6773
 
 
-"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
 
 *prometheus-office*
 c/o Kunsthistorisches Institut

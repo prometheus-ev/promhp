@@ -12,7 +12,7 @@ Mo -  Fr von 10 - 16 Uhr
 Fax (0221) 470 6773
 
 
-"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
 
 
 *prometheus-Geschäftsstelle*

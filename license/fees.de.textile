@@ -24,7 +24,7 @@ Kontaktdaten Hochschulbibliothekszentrum NRW:
 
 Abteilung Digitale Inhalte, Jülicher Straße 6, 50674 Köln
 Tel: 0221 400 75 - 300
-inhalte[at]hbz-nrw.de
+"inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de
 
 
 
@@ -42,4 +42,4 @@ Institutionen über 3000 Personen	6000,-€/Jahr
 prometheus-Geschäftsstelle
 
 Tel: 0221 470 4476
-"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

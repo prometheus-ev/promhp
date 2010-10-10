@@ -81,7 +81,7 @@ Dem prometheus-Verbund als Partner angeschlossen haben sich
 
 Im April ist die Mediatheksdatenbank des Seminars für Kunstgeschichte der Universität Düsseldorf eingebunden worden. Die seit 2004 im Aufbau befindliche und auf kontinuierliches Wachstum ausgelegte Bilddatenbank auf der Basis von "Faust 5" umfasst derzeit gut 2.000 Datensätze. Die thematische Bandbreite spiegelt das Veranstaltungsangebot der Düsseldorfer Kunstgeschichte. Zusätzlich zu den prometheus-Kategorien der Bildbeschriftung liefert die neue Datenbank auch Literaturhinweise zum jeweiligen Objekt.
 
-Kontakt: "kugemediathek[at]phil-fak.uni-duesseldorf.de":mailto:kugemediathek@phil-fak.uni-duesseldorf.de
+Kontakt: "kugemediathek@phil-fak.uni-duesseldorf.de":mailto:kugemediathek@phil-fak.uni-duesseldorf.de
 
 
 
@@ -103,7 +103,7 @@ Eine neue Datenbank unter den Werkzeugen: "DILPS" In enger Zusammenarbeit entwic
 "www.dilps.net":http://www.dilps.net/
 
 
-Kontakt: "info[at]dilps.net":mailto:info@dilps.net
+Kontakt: "info@dilps.net":mailto:info@dilps.net
 
 
 
@@ -135,7 +135,7 @@ Der digitale Beschreibungs- und Methodencoach soll nicht nur für die Kunstgesch
 "http://www2.hu-berlin.de/beschreibungscoach":http://www2.hu-berlin.de/beschreibungscoach
 
 
-Kontakt: "sabine.kuehl[at]hu-berlin.de":mailto:sabine.kuehl@hu-berlin.de
+Kontakt: "sabine.kuehl@hu-berlin.de":mailto:sabine.kuehl@hu-berlin.de
 
 
 
@@ -156,13 +156,13 @@ Derzeit können über 201.000 Bilder aus 22 Datenbanken über prometheus recherc
 
 *10.) prometheus- Kontakt*
 
-Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte als Privatperson an die prometheus-Geschäftsstelle bzw. als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "schomburg[at]hbz-nrw.de":mailto:schomburg@hbz-nrw.de .
+Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte als Privatperson an die prometheus-Geschäftsstelle bzw. als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "schomburg@hbz-nrw.de":mailto:schomburg@hbz-nrw.de .
 
 
-Wenn Sie daran interessiert sind, eine Datenbank in prometheus einzubringen, setzen Sie sich bitte mit Vorstandsmitglied Dr. Dorothee Haffner ("dorothee.haffner[at]rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de) in Verbindung.
+Wenn Sie daran interessiert sind, eine Datenbank in prometheus einzubringen, setzen Sie sich bitte mit Vorstandsmitglied Dr. Dorothee Haffner ("dorothee.haffner@rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de) in Verbindung.
 
 
-Die prometheus-Geschäftsstelle ist besetzt: Mo, Mi, Do und Fr, jeweils 10-13 Uhr, sowie Di 15-18 Uhr. fon: 0221-470 4476, fax: 0221-470 5044, "info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+Die prometheus-Geschäftsstelle ist besetzt: Mo, Mi, Do und Fr, jeweils 10-13 Uhr, sowie Di 15-18 Uhr. fon: 0221-470 4476, fax: 0221-470 5044, "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
 
 
 
@@ -170,7 +170,7 @@ Die prometheus-Geschäftsstelle ist besetzt: Mo, Mi, Do und Fr, jeweils 10-13 Uh
 Impressum
 
 Der nächste Newsletter (2005/03) erscheint voraussichtlich Ende Juli.
-Redaktion: "sigrid.ruby[at]geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de
+Redaktion: "sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de
 
 
 prometheus e.V.-Geschäftsstelle

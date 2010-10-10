@@ -100,7 +100,7 @@ oder direkt über diesen link:
 "http://www.befrager.de/befragung.aspx?projekt=2230":v
 
 Sollten Sie weitere Fragen zu dieser online-Befragung haben, kontaktieren Sie bitte:
-"nicole.teschle[at]fh-potsdam.de":mailto:nicole.teschle@fh-potsdam.de
+"nicole.teschle@fh-potsdam.de":mailto:nicole.teschle@fh-potsdam.de
 
 
 *6.) prometheus – facts & figures*
@@ -112,7 +112,7 @@ Derzeit können 370.524 Bilder aus 34 Datenbanken über prometheus recherchiert 
 
 Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
 - als Privatperson an die prometheus-Geschäftsstelle
-- als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte[at]hbz-nrw.de":inhalte@hbz-nrw.de.
+- als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":inhalte@hbz-nrw.de.
 
 
 
@@ -122,4 +122,4 @@ Eine Liste aller bereits lizenznehmenden Institutionen finden Sie "hier":<%=p 'i
 
 Die prometheus-Geschäftsstelle ist besetzt: Mo, 10-18 Uhr, und Di - Fr , jeweils 10-13 Uhr. fon: 0221-470 4476, fax: 0221-470 5044,
 
-"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

@@ -47,10 +47,10 @@ Das Veranstaltungsprogramm und weitere Informationen finden Sie unter "www.prome
 
 In den vergangenen Monaten konnten zwei neue Institutsdatenbanken eingebunden werden.
 Das ist zum einen die mit DILPS aufgebaute Datenbank der Kunstgeschichte an der Universität Trier. Sie umfasst etwa 4.000 Bilder und hat Schwerpunkte in den Bereichen Neue Medien, Photographie, Gender und Post Colonial Studies.
-Ansprechpartner vor Ort ist Dr. Georg Schelbert ("schelbert[at]uni-trier.de":schelbert@uni-trier.de)
+Ansprechpartner vor Ort ist Dr. Georg Schelbert ("schelbert@uni-trier.de":schelbert@uni-trier.de)
 
 Die zweite Datenbank nutzt die Software ImageAccess und kommt vom Institut für Kunstgeschichte der Universität Mainz. Sie bringt gegenwärtig über 7.300 neue Bilder in prometheus ein. Der Schwerpunkte liegt auf Sakral- und Profanarchitektur, vor allem in Frankreich und Deutschland.
-Ansprechpartner vor Ort ist Dr. Klaus T. Weber ("klweber[at]mail.uni-mainz.de":mailto:klweber[at]mail.uni-mainz.de).
+Ansprechpartner vor Ort ist Dr. Klaus T. Weber ("klweber@mail.uni-mainz.de":mailto:klweber@mail.uni-mainz.de).
 
 
 
@@ -68,7 +68,7 @@ So kann zum Beispiel mit der Eingabe "*kirche", die den Zugriff auf das Wortende
 Prometheus hat als assoziierter Partner Anteil an HyperImage. Das Projekt, bei dem die Humboldt-Universität zu Berlin und die Universität Lüneburg zusammenarbeiten, wurde vom BMBF im Rahmen des Förderprogramms "e-Science und vernetztes Wissensmanagement" bewilligt.
 Ziel von HyperImage ist es, zwei bereits bestehende Werkzeuge auszubauen und miteinander zu verknüpfen: 1.) PeTAL (Lüneburg), ein System zur Annotation von Bildern, und 2.) Mneme (Berlin), ein Objektmanagementsystem, das die Abbildungen vorhält.
 Pilotanwendungen aus den Fächern Kunstgeschichte und Zoologie testen den entstehenden HyperImage-Editor in der Praxis. Gleichzeitig evaluieren Content-Anbieter wie prometheus das neue Werkzeug.
-Ansprechpartnerin für weitere Informationen zu HyperImage ist Dr. Dorothee Haffner ("dorothee.haffner[at]rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de).
+Ansprechpartnerin für weitere Informationen zu HyperImage ist Dr. Dorothee Haffner ("dorothee.haffner@rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de).
 
 
 
@@ -125,17 +125,17 @@ Derzeit können mehr als 275.000 Bilder aus 28 Datenbanken über prometheus rech
 Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
 - als Privatperson an die prometheus-Geschäftsstelle in Köln,
 - als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr.
-Silke Schomburg, Jülicher Straße 6, 50674 Köln, "schomburg[at]hbz-nrw.de.":javascript:linkTo_UnCryptMailto('ocknvq,uejqodwtiBjdb/pty0fg');
+Silke Schomburg, Jülicher Straße 6, 50674 Köln, "schomburg@hbz-nrw.de":mailto:schomburg@hbz-nrw.de.
 
 Eine Liste aller bereits lizenznehmenden Institutionen finden Sie auf der prometheus-website unter "Bildarchiv" > "Anmeldung / Lizenzen".
 
 Wenn Sie daran interessiert sind, eine Datenbank in prometheus einzubringen, setzen Sie sich bitte mit Vorstandsmitglied Dr. Dorothee Haffner
-("dorothee.haffner[at]rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de) in Verbindung.
+("dorothee.haffner@rz.hu-berlin.de":mailto:dorothee.haffner@rz.hu-berlin.de) in Verbindung.
 
 
 Die prometheus-Geschäftsstelle ist besetzt: Mo, Mi, Do und Fr, jeweils 10-13
 Uhr, sowie Di 15-18 Uhr. fon: 0221-470 4476, fax: 0221-470 5044,
-"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
 
 
 
@@ -144,7 +144,7 @@ Impressum
 
 Der nächste reguläre Newsletter (2006 / 02) erscheint voraussichtlich im Juni.
 Aus gegebenem Anlass planen wird eine Sonderausgabe zum Thema Urheberrecht für
-Mitte April. Redaktion: Dr. Sigrid Ruby (sigrid.ruby[at]geschichte.uni-giessen.de)
+Mitte April. Redaktion: Dr. Sigrid Ruby ("sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de)
 
 
 prometheus e.V.-Geschäftsstelle

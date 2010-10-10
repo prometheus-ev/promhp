@@ -29,4 +29,4 @@ Please contact us for further information if this offer appeals to you!
 
 
 
-"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

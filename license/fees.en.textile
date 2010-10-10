@@ -24,7 +24,7 @@ Discount for universities of applied sciences	50%
 Contact Campus Library Center NRW:
 
 Juelicher Straße 6, D-50674 Koeln, +49 221 400 75 - 223,
-"inhalte[at]hbz-nrw.de":mailto:inhalte@hbz-nrw.de
+"inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de
 
 
 
@@ -45,4 +45,4 @@ An St. Laurebntius 4, D - 50931 Cologne
 phone: +49 (0) 221 470 4476
 
 fax: +49 (0) 221 470 5044
-"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

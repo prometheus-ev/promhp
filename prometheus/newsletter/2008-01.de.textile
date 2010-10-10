@@ -69,7 +69,7 @@ Eine weitere Datenbank ist seit diesem Jahr über prometheus recherchierbar: Sie
 Immaterielles Kulturerbe an der Universität Paderborn angelegt und für die Forschung zum kulturellen Erbe zur Verfügung gestellt. Die vorgehaltenen Bilder stammen aus den Bereichen europäische und außereuropäische Kunstgeschichte (Architektur, Städtebau, Skulptur, Malerei, Grafik und andere Bildkünste) vom Mittelalter bis zur Gegenwart.
 Darüber hinaus bietet das Paderborner Bildarchiv Stätten des kulturellen Erbes und anderen kulturellen Institutionen an, vorhandene Datenbestände zu digitalisieren und einzupflegen.
 Ansprechpartnerin ist Frau Professor Dr. Eva-Maria Seng
-("em-seng[at]mail.uni-paderborn.de":mailto:javascript:linkTo_UnCryptMailto('ocknvq,go/ugpiBockn0wpk/rcfgtdqtp0fg');)
+("em-seng@mail.uni-paderborn.de":mailto:em-seng@mail.uni-paderborn.de)
 
 
 
@@ -107,16 +107,16 @@ Aktuell können über 490.000 Bilder aus 45 Datenbanken über prometheus gefunde
 Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
 - als Privatperson an die prometheus-Geschäftsstelle
 - als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr.
-Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte[at]hbz.nrw.de":mailto:inhalte@hbz.nrw.de
+Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte@hbz.nrw.de":mailto:inhalte@hbz.nrw.de
 
 Eine Liste aller bereits eine Lizenz haltenden Institutionen finden Sie hier unter Bildarchiv->Anmeldung->Lizenzen.
 
 Die prometheus-Geschäftsstelle ist besetzt: Mo, 10-18 Uhr, und Di-Fr, jeweils
-10-13 Uhr. Telefon: 0221-470 4476, Telefax: 0221-470 5044, "info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+10-13 Uhr. Telefon: 0221-470 4476, Telefax: 0221-470 5044, "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
 
 
 
 Impressum
 
 Der nächste Newsletter (2008 / 02) erscheint voraussichtlich Ende April.
-Redaktion: Dr. Sigrid Ruby ("sigrid.ruby[at]geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de )
+Redaktion: Dr. Sigrid Ruby ("sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de )

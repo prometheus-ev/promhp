@@ -26,7 +26,7 @@ Apache, mind. Version 1.3 MySQL, mind. Version 4.0 PHP, mind. Version 4.3 (inkl.
 * Wie erhalte ich die »DILPS«-Software?
 »DILPS« wird demnächst in einer komprimierten Datei zum Download angeboten werden. Eine erste Zugriffsmöglichkeit gibt es hier: "berliOS - Der Open-Source-Mediator":http://developer.berlios.de/projects/dilps
 
-* Kontakt: "info[at]dilps.net":mailto:info@dilps.net
+* Kontakt: "info@dilps.net":mailto:info@dilps.net
 
 * "www.dilps.net":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/Hauptseite
 

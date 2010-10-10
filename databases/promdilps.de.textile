@@ -30,4 +30,4 @@ Sprechen Sie uns an, wenn dieses Angebot für Sie attraktiv ist und Sie weitere 
 
 
 
-"info[at]prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

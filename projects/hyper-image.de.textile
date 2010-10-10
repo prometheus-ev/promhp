@@ -27,4 +27,4 @@ Im Rahmen der Kooperation zwischen prometheus und HyperImage werden die HyperIma
 *Projektleitung HUB:*
 Prof. Dr. Peter Schirmbacher
 Tel.: 030 2093-7010
-E-mail: "schirmbacher[at]cms.hu-berlin.de":mailto:schirmbacher@cms.hu-berlin.de
+E-mail: "schirmbacher@cms.hu-berlin.de":mailto:schirmbacher@cms.hu-berlin.de

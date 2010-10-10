@@ -37,9 +37,9 @@ Finanzierung:  "GEW Stiftung Köln":http://www.gew-stiftung.de/
 Projektleitung:
 PD Dr. Holger Simon
 Tel.: 0221 470-3509
-E-Mail: "holger.simon[at]uni-koeln.de":mailto:holger.simon@uni-koeln.de
+E-Mail: "holger.simon@uni-koeln.de":mailto:holger.simon@uni-koeln.de
 
 
 Prof. Dr. Klaus Lepsky
 Tel.: 0221 8275-3363
-E-Mail: "klaus.lepsky[at]fh-koeln.de":mailto:klaus.lepsky@fh-koeln.de
+E-Mail: "klaus.lepsky@fh-koeln.de":mailto:klaus.lepsky@fh-koeln.de

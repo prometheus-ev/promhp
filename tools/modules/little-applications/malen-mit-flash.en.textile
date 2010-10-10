@@ -19,6 +19,6 @@ Die interaktive Flashapplikation erlaubt das Färben von Flächen eines Landscha
 
 *Technische Voraussetzungen:* Windows/Mac, Flash-Plugin
 
-*Nutzungsbedingungen:* Bei Verwendung bitte eine E-Mail an "sabine.scheele[at]s2w3.com":mailto:sabine.scheele@s2w3.com
+*Nutzungsbedingungen:* Bei Verwendung bitte eine E-Mail an "sabine.scheele@s2w3.com":mailto:sabine.scheele@s2w3.com
 
 Von: Sabine Scheele

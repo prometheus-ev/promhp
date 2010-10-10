@@ -5,37 +5,12 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=68&L=1&skin=&tx_ttnews[
 ---
 h2. <%= page_title %>
 
-"PD Dr. Holger Simon":mailto:javascript:linkTo_UnCryptMailto('ocknvq,jqnigt0ukoqpBwpk/mqgnp0fg (Chair)
-"Prof. Dr. Dorothee Haffner":mailto:javascript:linkTo_UnCryptMailto('ocknvq,fqtqvjgg0jchhpgtBjvy/dgtnkp0fg (Deputy chair)
-"Dr. Stefan Brenne":mailto:javascript:linkTo_UnCryptMailto('ocknvq,Uvghcp0DtgppgBiguejkejvg0wpk/ikguugp0fg (Treasurer)
-"PD Dr. Norbert Eschbach":mailto:javascript:linkTo_UnCryptMailto('ocknvq,Pqtdgtv0GuejdcejBiguejkejvg0wpk/ikguugp0fg (Deputy treasurer)
-"Lisa Dieckmann M.A.":mailto:javascript:linkTo_UnCryptMailto('ocknvq,nkuc0fkgemocppBwpk/mqgnp0fg (Secretary)
-"Dr. Ute Verstegen":mailto:javascript:linkTo_UnCryptMailto('ocknvq,wvg0xgtuvgigpBvjgqnqikg0wpk/gtncpigp0fg (Assessor)
-"Dr. Bettina Pfleging":mailto:javascript:linkTo_UnCryptMailto('ocknvq,dgvvkpc0rhngikpiBwpk/mqgnp0fg (Assessor)
-"PD Dr. Sigrid Ruby":mailto:javascript:linkTo_UnCryptMailto('ocknvq,Ukitkf0TwdaBiguejkejvg0wpk/ikguugp0fg (Assessor)
-"Sabine Scheele M.A.":mailto:javascript:linkTo_UnCryptMailto('ocknvq,wvg0xgtuvgigpBvjgqnqikg0wpk/gtncpigp0fg (Assessor)
-
-h4. Members of staff
-
-*Current*
-Sebastian Beßler (Cologne, computer engineering)
-Lisa Dieckmann M.A. (Managing Director of the prometheus project, Institute of Art History, University of Cologne, computer engineering)
-Arne Eilermann (Cologne, computer engineering)
-Theresa Nisters (Cologne, office)
-Sabine Scheele (Giessen, webdesign)
-Silvia Stark M.A. (Cologne, office)
-Katja Vierk (Cologne, Office)
-Dipl.-Bibl. Jens Wille (Cologne, computer engineering)
-
-*Former*
-Thomas Bodo Block (Cologne, computer engineering)
-Ben Burkhard (Cologne, computer engineering)
-Rebeca Ehses (Cologne, office)
-Dr. Meta Friese (Cologne, office)
-Julia Iwanowa M.A. (Cologne, computer engineering)
-Ansgar Lorenz (Cologne, office)
-Gerd Mörsch M.A. (Cologne, office)
-Dipl.-Bibl. Thomas Müller (Cologne, computer engineering)
-Dr. Jürgen Nemitz (Cologne/Marburg,  computer engineering)
-Johanna Neumann (Cologne,  computer engineering)
-Dipl. Des. Dirk Schuster (Dessau, design)
+"PD Dr. Holger Simon":mailto:holger.simon@uni-koeln.de (Chair)
+"Prof. Dr. Dorothee Haffner":mailto:dorothee.haffner@htw-berlin.de (Deputy chair)
+"Dr. Stefan Brenne":mailto:stefan.brenne@geschichte.uni-giessen.de (Treasurer)
+"PD Dr. Norbert Eschbach":mailto:norbert.eschbach@geschichte.uni-giessen.de (Deputy treasurer)
+"Lisa Dieckmann M.A.":mailto:lisa.dieckmann@uni-koeln.de (Secretary)
+"Dr. Ute Verstegen":mailto:ute.verstegen@theologie.uni-erlangen.de (Assessor)
+"Dr. Bettina Pfleging":mailto:bettina.pfleging@uni-koeln.de (Assessor)
+"PD Dr. Sigrid Ruby":mailto:sigrid.ruby@geschichte.uni-giessen.de (Assessor)
+"Sabine Scheele M.A.":mailto:sabine.scheele@s2w3.com (Assessor)
