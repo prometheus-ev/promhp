@@ -2,7 +2,7 @@
   height:            108px;
 }
 
-#logo, #series-front, #greeting {
+#logo, #tags-map, #greeting {
   float:             left;
 }
 
@@ -10,7 +10,7 @@
   padding-top:       14px;
 }
 
-#series a, #series-front a {
+#series a, #series-front .section-item > a {
   display:           inline-block;
   text-decoration:   none;
 }
@@ -19,11 +19,6 @@
   width:             50px;
   height:            50px;
   margin:            0 10px;
-}
-
-#series-front img {
-  width:             100px;
-  height:            100px;
 }
 
 .series-items {
@@ -139,21 +134,13 @@
 }
 
 #content .header-line {
-  margin:            1em 10px;
+  margin:            1em 10px 0.5em 10px;
   padding-left:      0;
   width:             95%;
 }
 
-#series-front {
-  margin:            0 2em 2em 10px;
-  padding:           40px;
-  text-align:        center;
-  background-color:  rgb(27,27,27);
-  border:            1px solid rgb(80,80,80);
-}
-
 #greeting {
-  width:             500px;
+  width:             350px;
 }
 
 #greeting p {
@@ -171,4 +158,41 @@
 
 #greeting ul a + a {
   padding-left:      0.75em;
+}
+
+.section-title {
+  font-size:         12px;
+  padding-bottom:    2px;
+  border-bottom:     1px solid rgb(80,80,80);
+  margin-bottom:     -13px;
+}
+
+.section-heading {
+  font-size:         14px;
+  color:             rgb(255,255,255);
+  padding-top:       1em;
+  margin-bottom:     0.5em;
+}
+
+.section-item {
+  background-color:  rgb(27,27,27);
+  padding-right:     10px;
+}
+
+.section-item > a {
+  float:             left;
+  margin-right:      2em;
+}
+
+.section-item > div, .section-item > div > p:last-child {
+  display:           inline;
+}
+
+#series-front img {
+  width:             100px;
+  height:            100px;
+}
+
+#series-front .section-item {
+  min-height:        100px;
 }

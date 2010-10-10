@@ -574,7 +574,7 @@ tr.dim:hover > *, .undim:hover tr.dim > *,
   margin-right:      8px;
 }
 
-.truncated .pale, #object-summary .pale {
+.truncated .pale, #object-summary .pale, #footer .pale {
   margin-left:       4px;
   margin-right:      4px;
 }
@@ -1859,12 +1859,12 @@ body.presentation-controller.run-action #footer {
   text-align:        center;
 }
 
-#footer span {
+#footer > span {
   padding-top:       7px;
   margin-left:       1em;
 }
 
-#footer span a {
+#footer > span a {
   color:             rgb(204,204,204);
   font-size:         11px;
 }

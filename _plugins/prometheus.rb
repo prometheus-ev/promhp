@@ -6,7 +6,7 @@ module Jekyll
 
   module Helpers
 
-    def relativize(str, current_page_url)
+    def relative_url(str, current_page_url)
       return str if str =~ /\A[a-z]+:\/\//
       '../' * (current_page_url.count('/') - 1) + str.sub(/\A\//, '')
     end
@@ -27,7 +27,7 @@ module Jekyll
       path = File.join(@dir, basename)
 
       name = item["title_#{lang}".to_sym]
-      name = "<a href=\"#{relativize(item[:url], path)}\">#{name}</a>" if item[:url]
+      name = "<a href=\"#{relative_url(item[:url], path)}\">#{name}</a>" if item[:url]
 
       active = active?(item, path[1..-1])
       content = "\n#{render_navigation_level(item[:content])}\n" if item[:content] && active
@@ -133,7 +133,7 @@ module Jekyll
     include Helpers
 
     def r(str)
-      relativize(str, page.url)
+      relative_url(str, page.url)
     end
 
     def p(*path)

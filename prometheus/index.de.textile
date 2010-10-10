@@ -5,25 +5,35 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=6
 ---
 h2. <%= page_title %>
 
-prometheus ist ein digitales Bildarchiv für Kunst-und Kulturwissenschaften.  
+prometheus ist ein digitales Bildarchiv für Kunst-und Kulturwissenschaften.
 Das prometheus Bildarchiv funktioniert nach dem Prinzip eines Datenbankbrokers, der heterogene Bilddatenbanken zusammenführt.
 Die Bildgeber stellen ihre Datenbanken der Forschung und Lehre kostenlos zur Verfügung.
 Somit ermöglicht prometheus eine komfortable Bildsuche über eine gemeinsame Oberfläche in unterschiedlichen Bildarchiven, Instituts-, Forschungs- und Museumsdatenbanken.
- 
+
 Auf einen Blick: "prometheus-Flyer (PDF, 838 KB)":<%=r 'files/text/prometheus-flyer_jan09.pdf' %> herunterladen
 
+h3. Begriffe
 
-h5. Das Lizenzmodell von prometheus
+h4(#searching). Suchen
+TODO: content
 
-prometheus ist ein nicht-kommerzielles Bildarchiv. Die Lizenzen werden nicht auf die Bilder erhoben, sondern dienen ausschließlich zur Deckung der Betriebskosten, die für Erhaltung, Pflege und Ausbau des Bildarchivs (Aktualisierung, Einbindung neuer Datenbanken) notwendig sind. Der gemeinnützige Verein prometheus verfolgt mit der Lizenzierung des prometheus Bildarchivs keinen kommerziellen Zweck.
- 
-Mehr Informationen zu  "» Anmeldung und Lizenzen":<%=r 'license' %>
+h4(#collecting). Sammeln
+TODO: content
+
+h4(#presenting). Präsentieren
+TODO: content
+
+h3. Das Lizenzmodell von prometheus
+
+prometheus ist ein nicht-kommerzielles Bildarchiv. Die Lizenzen werden nicht auf die Bilder erhoben, sondern dienen ausschließlich zur Deckung der Betriebskosten, die für Erhaltung, Pflege und Ausbau des Bildarchivs (Aktualisierung, Einbindung neuer Datenbanken) notwendig sind. Der gemeinnützige Verein prometheus verfolgt mit der Lizenzierung des prometheus Bildarchivs keinen kommerziellen Zweck.
+
+Mehr Informationen zu "» Anmeldung und Lizenzen":<%=r 'license' %>
 
 
-h5. Binden Sie Ihre Datenbank in prometheus ein
+h3. Binden Sie Ihre Datenbank in prometheus ein
 
-Wollen Sie Ihre Datenbank in prometheus einbinden und die Vorteile von prometheus nutzen?
- "» Info für Datenbankgeber":<%=r 'databases' %>
- 
+Wollen Sie Ihre Datenbank in prometheus einbinden und die Vorteile von prometheus nutzen?
+"» Info für Datenbankgeber":<%=r 'databases' %>
+
 Für kleinere Bildsammlungen stellen wir die Bilddatenbank DILPS zur Verfügung.
-mehr zu  "» DILPS":<%=r 'databases/promdilps' %>
+mehr zu "» DILPS":<%=r 'databases/promdilps' %>

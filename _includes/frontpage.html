@@ -1,9 +1,13 @@
 <h2 class="header-line"><%=t 'Welcome to', 'Herzlich Willkommen bei' %> <em>prometheus</em></h2>
 
-<div id="series-front">
-  <a href="<!--#echo var="series" -->" title="<!--#include virtual="${series}/title" -->">
-    <img src="<!--#echo var="series" -->/<%= n = '%02d' % 1 %>.jpg" alt="<%= n %>" />
-  </a>
+<div id="tags-map">
+  <img src="<%=r "files/images/tags.#{page.lang}.png" %>" width="363" height="284" border="0" usemap="#tags" />
+
+  <map name="tags">
+    <area shape="rect" coords="57,53,290,108"  alt="<%= n = t('Searching', 'Suchen') %>"        title="<%= n %>" href="<%=r 'prometheus#searching' %>" />
+    <area shape="rect" coords="86,108,335,155" alt="<%= n = t('Collecting', 'Sammeln') %>"      title="<%= n %>" href="<%=r 'prometheus#collecting' %>" />
+    <area shape="rect" coords="40,155,296,195" alt="<%= n = t('Presenting', 'Präsentieren') %>" title="<%= n %>" href="<%=r 'prometheus#presenting' %>" />
+  </map>
 </div>
 
 <div id="greeting">
@@ -26,3 +30,26 @@
     </li>
   </ul>
 </div>
+
+<br class="clear-float" />
+
+<div id="series-front">
+  <h3 class="section-title"><%=t 'Current image series', 'Aktuelle Bildserie' %></h3>
+
+  <div class="section-item">
+    <a href="<!--#echo var="series" -->" title="<!--#include virtual="${series}/title.<%= page.lang %>" -->">
+      <img src="<!--#echo var="series" -->/<%= n = '%02d' % 1 %>.jpg" alt="<%= n %>" />
+    </a>
+
+    <h4 class="section-heading"><!--#include virtual="${series}/title.<%= page.lang %>" --></h4>
+
+    <div><!--#include virtual="${series}/teaser.html.<%= page.lang %>" --></div>
+
+    <span>
+      <span class="pale">|</span>
+      <a href="<!--#echo var="series" -->"><%=t 'more...', 'mehr...' %></a>
+    </span>
+  </div>
+</div>
+
+<br class="clear-float" />
