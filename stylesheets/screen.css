@@ -143,11 +143,6 @@
   width:             95%;
 }
 
-#content img {
-  border: 1px solid #505050;
-  margin: 0.5em;
-}
-
 #greeting {
   width:             450px;
 }
@@ -218,4 +213,9 @@
 .post-meta {
   font-size: 90%;
   color: #B4B4B4;
+}
+
+.bordered-image {
+  border: 1px solid #505050;
+  margin: 0.5em;
 }

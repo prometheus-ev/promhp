@@ -3,7 +3,7 @@ layout: post
 typo_id: 10
 title: Neuanmeldungen bei prometheus
 ---
-<img src="<%=r 'files/blog/personal_accounts_count.png' %>" alt="Zähler: personalisierte Zugänge" align="right" />Wenn ich mir von Zeit zu Zeit den Zähler der personalisierten Accounts auf der <a href="http://prometheus-bildarchiv.de">prometheus Homepage</a> ansehe, freue ich mich über die stetig wachsende Zahl. Heute bin ich dann mal neugierig geworden und habe mir das genauer angesehen.
+<img src="<%=r 'files/blog/personal_accounts_count.png' %>" class="bordered-image" alt="Zähler: personalisierte Zugänge" align="right" />Wenn ich mir von Zeit zu Zeit den Zähler der personalisierten Accounts auf der <a href="http://prometheus-bildarchiv.de">prometheus Homepage</a> ansehe, freue ich mich über die stetig wachsende Zahl. Heute bin ich dann mal neugierig geworden und habe mir das genauer angesehen.
 
 Über die letzten 50 Tage wurden durchschnittlich rund 25 Zugänge pro Tag erstellt. Eine schöne Zahl, wie ich meine. Allerdings kann man davon ausgehen, dass dieser Durchschnitt gegen Ende des Semesters wieder sinken wird, schade eigentlich.
 

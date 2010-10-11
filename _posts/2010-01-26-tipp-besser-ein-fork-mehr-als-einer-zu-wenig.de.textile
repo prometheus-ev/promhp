@@ -3,7 +3,7 @@ layout: post
 typo_id: 38
 title: "Tipp: Besser ein Fork mehr, als einer zu wenig"
 ---
-<img src="<%=r 'files/blog/fork_collection.png' %>" alt="Bildsammlung forken" />
+<img src="<%=r 'files/blog/fork_collection.png' %>" class="bordered-image" alt="Bildsammlung forken" />
 
 Seit <a href="<%=r 'post/out-of-the-box-pandora-v0-1-8-r1775' %>" title="Out of the box: pandora v0.1.8 (r1775)">einiger Zeit</a> ist es im prometheus-Bildarchiv möglich, öffentliche <a href="<%=r 'post/nicht-einfach-nur-ein-bildarchiv' %>" title="Nicht einfach nur ein Bildarchiv">Bildsammlungen zu forken</a>. Das bedeutet, eine Kopie der Sammlung zu erstellen, deren Besitzer man dann ist. Dies macht z.B. dann Sinn, wenn ich eine öffentliche Bildsammlung gerne bearbeiten möchte, allerdings kein Schreibrecht auf die Sammlung habe.
 

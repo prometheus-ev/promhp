@@ -3,7 +3,7 @@ layout: post
 typo_id: 35
 title: Designfortschritte
 ---
-<img src="<%=r 'files/blog/SAMMELN_liste_01.png' %>" alt="pandora designvorschau" />
+<img src="<%=r 'files/blog/SAMMELN_liste_01.png' %>" class="bordered-image" alt="pandora designvorschau" />
 
 Lange habe ich nichts mehr geschrieben. Nicht, dass es nichts zu erzählen gegeben hätte, ich bin nur einfach nicht dazu gekommen. Da war ein bisschen Urlaub in Paris, vier gar grässliche Weisheitszähne und noch mehr. Doch nun, da ich wieder im Lande und voll einsatzbereit bin, werfe ich auch wieder mit Neuigkeiten um mich.
 
