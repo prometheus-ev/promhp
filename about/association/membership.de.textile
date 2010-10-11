@@ -20,5 +20,3 @@ Juristische Personen	180 €
 "aufnahmeantrag.pdf":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
 
 PDF herunterladen und ausgefüllt und unterschrieben an die Geschäftstelle schicken!
-
-30 K

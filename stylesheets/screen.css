@@ -129,6 +129,10 @@
   margin-top:        0;
 }
 
+#content h2 {
+  line-height:       1.8em;
+}
+
 .nopandora {
   border:            2px solid rgb(147,0,0);
 }

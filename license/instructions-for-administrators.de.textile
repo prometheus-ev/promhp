@@ -22,4 +22,4 @@ Der Administrationszugang sollte - wenn möglich - von einem/r Mitarbeiter/in im
 Bitte füllen Sie dazu den folgenden Antrag aus und schicken Sie ihn unterschrieben zur  prometheus-Geschäftsstelle:
 
 
-"Antrag auf einen Administrationszugang":<%=r 'files/text/administrator_de_0907_01.pdf' %>   63 K
+"Antrag auf einen Administrationszugang":<%=r 'files/text/administrator_de_0907_01.pdf' %>
