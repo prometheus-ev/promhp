@@ -1,0 +1,25 @@
+---
+layout: default
+title: "eikonline_6: ILIAS 2 Nutzung"
+---
+h2. <%= page_title %>
+
+05.03.07
+
+!<%=r 'files/images/3436e08930.jpg' %>!
+
+*Dateien zum Herunterladen:*
+"eikonline_06_ilias2_11.pdf":<%=r 'files/text/eikonline_06_ilias2_11.pdf' %>
+
+*Leitfaden für die Nutzung der Lernplattform ILIAS Version 2*
+
+Die wichtigsten Funktionen einer ILIAS-Plattform der Version 2 aus Nutzersicht.
+* Hauptmenü
+* Nachrichtenverwaltung
+* Gruppenverwaltung
+* Arbeiten in einer Lernenheit
+* Notizen
+
+Version 1.1 (04.05.2006)
+
+Von: Annette Mag

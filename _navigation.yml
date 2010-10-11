@@ -254,6 +254,12 @@
     - :title_en: "eikonline_5: prometheus-Bildarchiv (German)"
       :title_de: "eikonline_5: prometheus-Bildarchiv"
       :url: tools/manuals/eikonline-5
+    - :title_en: "eikonline_6: ILIAS 2 Nutzung (German)"
+      :title_de: "eikonline_6: ILIAS 2 Nutzung"
+      :url: tools/manuals/eikonline-6
+    - :title_en: "eikonline_7: ILIAS 3 Nutzung (German)"
+      :title_de: "eikonline_7: ILIAS 3 Nutzung"
+      :url: tools/manuals/eikonline-7
   - :title_en: PKND
     :title_de: PKND
     :url: tools/pknd
