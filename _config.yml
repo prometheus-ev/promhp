@@ -4,7 +4,8 @@ author: prometheus
 email: info@prometheus-bildarchiv.de
 title: The prometheus Image Archive
 title_de: Das prometheus-Bildarchiv
-pandora_url: http://localhost:3000
+#pandora_url: http://prometheus.uni-koeln.de/pandora
+pandora_url: http://prometheus-test.uni-koeln.de/pandora-devel
 engine: erb
 paginate: 10
 paginate_files:
