@@ -197,3 +197,7 @@
 #series-front .section-item {
   min-height:        100px;
 }
+
+.pagination {
+  line-height: 35px;
+}

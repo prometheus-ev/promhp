@@ -155,26 +155,44 @@ module Jekyll
       end
     end
 
-    def paginator_previous_link(link_text = '&lt;&lt;')
+    def paginator_first_link
+      if @paginator.page < 2
+        '<div class="icon_first inactive"></div>'
+      else
+        "<a href=\"#{r('blog')}\"><div class=\"icon_first\"></div></a>" # TODO: Make this dynamic.
+      end
+    end
+
+    def paginator_last_link
+      if @paginator.page >= @paginator.total_pages
+        '<div class="icon_last inactive"></div>'
+      else
+        "<a href=\"#{r("page#{@paginator.total_pages}")}\"><div class=\"icon_last\"></div></a>"
+      end
+    end
+
+    def paginator_previous_link
       if @paginator.page == 2
         href = 'blog' # TODO: Make this dynamic.
       elsif @paginator.page > 2
         href = "page#{@paginator.previous_page}"
       end
-      href ? "<a href=\"#{r(href)}\">#{link_text}</a>" : link_text
+      href ? "<a href=\"#{r(href)}\"><div class=\"icon_prev\"></div></a>" :
+        '<div class="icon_prev inactive"></div>'
     end
 
-    def paginator_next_link(link_text = '&gt;&gt;')
+    def paginator_next_link
       if @paginator.page == @paginator.total_pages
-        link_text
+        '<div class="icon_next inactive"></div>'
       else
-        href = "page#{@paginator.next_page}"
-        "<a href=\"#{r(href)}\">#{link_text}</a>"
+        "<a href=\"#{r("page#{@paginator.next_page}")}\"><div class=\"icon_next\"></div></a>"
       end
     end
 
-    def paginator_navigation(previous_link = '&lt;&lt;', next_link = '&gt;&gt;')
-      "#{paginator_previous_link(previous_link)} | #{@paginator.page} | #{paginator_next_link(next_link)}"
+    def paginator_navigation
+      "#{paginator_first_link} #{paginator_previous_link} " +
+        t('Page', 'Seite') + " #{@paginator.page} " + t('of', 'von') +  " #{@paginator.total_pages}" +
+        " #{paginator_next_link} #{paginator_last_link}"
     end
 
   end

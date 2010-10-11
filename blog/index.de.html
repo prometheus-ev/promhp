@@ -8,6 +8,9 @@ title: prometheus-Blog
   <p><small><%= post.date %></small></p>
   <%= post.content %>
 <% end %>
-<p>
-<%= paginator_navigation %>
-</p>
+
+<div class="list_controls">
+  <div class="pagination">
+    <%= paginator_navigation %>
+  </div>
+</div>
