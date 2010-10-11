@@ -139,6 +139,11 @@
   width:             95%;
 }
 
+#content img {
+  border: 1px solid #505050;
+  margin: 0.5em;
+}
+
 #greeting {
   width:             450px;
 }
