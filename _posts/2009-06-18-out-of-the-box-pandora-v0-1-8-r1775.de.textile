@@ -4,7 +4,7 @@ typo_id: 15
 title: "Out of the box: pandora v0.1.8 (r1775)"
 ---
 <a href="<%=r 'post/out-of-the-box-pandora-v0-1-7-r1738' %>">Gute zwei Wochen sind vergangen</a> und wieder haben wir ein Update auf die Server geschoben. Allerdings ein wirklich kleines.<br />
-Es gab insgesamt <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=06%2F18%2F09&daysback=15">34 Änderungen</a> an <a href="http://prometheus.uni-koeln.de/pandora/about">pandoras</a> Code, die sich wie folgt auf das System auswirken:
+Es gab insgesamt <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=06%2F18%2F09&daysback=15">34 Änderungen</a> an <a href="http://prometheus.uni-koeln.de/pandora/about">pandoras</a> Code, die sich wie folgt auf das System auswirken:
 
 <ul>
   <li><b>Das Laden sehr langer Listen wurde beschleunigt.</b><br />

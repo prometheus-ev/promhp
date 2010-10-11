@@ -21,6 +21,12 @@ TODO: content
 h4(#presenting). Presenting
 TODO: content
 
+h4(#publishing). Publishing
+TODO: content
+
+h4(#researching). Researching
+TODO: content
+
 h3. The licence model of prometheus
 
 prometheus is a non-commercial image archive. Licence fees are charged exclusively for operating our services and the continuous development of our technologies.

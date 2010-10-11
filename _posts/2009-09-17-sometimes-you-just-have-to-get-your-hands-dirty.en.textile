@@ -3,7 +3,7 @@ layout: post
 typo_id: 29
 title: Sometimes you just have to get your hands dirty
 ---
-Lately, we've been experiencing increased search times on <a href="http://prometheus.uni-koeln.de/pandora/about">our image archive</a> due to the inclusion of information on which collections a particular image is contained in (<a href="http://prometheus.khi.uni-koeln.de/trac/pandora/changeset/1970#file2">r1970</a>). For each result in a results list <strong>three database queries</strong> are issued just to get the desired counts. Suppose <code>_condition<var>N</var>_</code> and <code>_joins<var>N</var>_</code> are one of the three pairs of conditions and joins to determine <em>own</em>, <em>shared</em>, or <em>public</em> collections, and <code>_conditionR_</code> is the clause for restricting the query to just the given resource. We then have the following queries:
+Lately, we've been experiencing increased search times on <a href="http://prometheus.uni-koeln.de/pandora/about">our image archive</a> due to the inclusion of information on which collections a particular image is contained in (<a href="http://prometheus-app.uni-koeln.de/trac/pandora/changeset/1970#file2">r1970</a>). For each result in a results list <strong>three database queries</strong> are issued just to get the desired counts. Suppose <code>_condition<var>N</var>_</code> and <code>_joins<var>N</var>_</code> are one of the three pairs of conditions and joins to determine <em>own</em>, <em>shared</em>, or <em>public</em> collections, and <code>_conditionR_</code> is the clause for restricting the query to just the given resource. We then have the following queries:
 
 <code lang="ruby">
 SELECT COUNT(*) FROM table _joins1_ WHERE _condition1_ AND _conditionR_
@@ -47,7 +47,7 @@ WHERE  _conditionR_
 
 Hooray, now it works!
 
-That was easy, you say? Well, then try to convince Rails, or, more specifically, ActiveRecord, to execute that query for you while still providing you with as much abstraction as possible ;-) It wasn't too bad after all because, to be honest, we started messing with ActiveRecord's internals all along (most of which is handled through our <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/browser/trunk/app/models/application_model.rb">ApplicationModel</a> all of our models inherit from). The resulting method is in <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/changeset/2092#file2">r2092</a> which eventually dropped the rendering time down to a half. :-)
+That was easy, you say? Well, then try to convince Rails, or, more specifically, ActiveRecord, to execute that query for you while still providing you with as much abstraction as possible ;-) It wasn't too bad after all because, to be honest, we started messing with ActiveRecord's internals all along (most of which is handled through our <a href="http://prometheus-app.uni-koeln.de/trac/pandora/browser/trunk/app/models/application_model.rb">ApplicationModel</a> all of our models inherit from). The resulting method is in <a href="http://prometheus-app.uni-koeln.de/trac/pandora/changeset/2092#file2">r2092</a> which eventually dropped the rendering time down to a half. :-)
 
 So, what do we learn from this? (Sure, we already knew it, but just for the sake of it...) - Sometimes you just have to get your hands dirty and handcraft your SQL, possibly bypassing any ORM layer or parts of it.
 

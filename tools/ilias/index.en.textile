@@ -5,11 +5,11 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=38&L=1
 ---
 h2. <%= page_title %>
 
-*Use our ILIAS-installation as platform for your courses!*
-"» Ilias-Login":http://prometheus-app.uni-koeln.de/ilias/
+*Use our ILIAS installation as platform for your courses!*
+"» ILIAS-Login":http://prometheus-app.uni-koeln.de/ilias/
 
 You have no access for ILIAS? Please click here:
-"» user account":<%=r 'tools/ilias/account' %>
+"» User account":<%=r 'tools/ilias/account' %>
 
-You want to get more information about ILIAS and why prometheus provides an ILIAS-installation?
+You want to get more information about ILIAS and why prometheus provides an ILIAS installation?
 "» Why ILIAS?":<%=r 'tools/ilias/why' %>

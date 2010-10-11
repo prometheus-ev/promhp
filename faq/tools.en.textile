@@ -47,5 +47,5 @@ Infosheet "Generation of an image presentation with editor and projector" - "dow
 You can establish a presentation with the "projektor + editor":<%=r 'tools/programs/projektor-editor' %> in an off-line way. You can download images from prometheus and establish a presentation with the projector. Here you can also include your own images.
 You can establish a presentation also with Power-Point or other presentation programs off-line. For this purpose download the images and add them to the program. Here you can also include your own images.
 
-*What is Ilias?*
+*What is ILIAS?*
 ILIAS is an online study- and teaching-platform. With ILIAS teachers can create E-Learning course materials, establish online tests for examinations and carry out virtual classes or lectures. The access is possible from every internet-capable computer. The registration for a guest account can be applied for online. If you need further rights, please turn to our "office":mailto:info@prometheus-bildarchiv.de.

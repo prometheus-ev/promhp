@@ -13,4 +13,4 @@ Ich kann hier nicht jede einzelne Fehlerkorrektur aufführen, doch auf ein paar 
 	<li>Die wichtigste Änderung ist wohl der Link zu diesem großartigen Weblog hier, der sich im Kopfbereich der Anwendung breitgemacht hat. ;-)</li>
 </ul>
 
-Eine Liste aller Änderungen <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=05%2F14%2F09&daysback=27">finden Sie hier</a>.
+Eine Liste aller Änderungen <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=05%2F14%2F09&daysback=27">finden Sie hier</a>.

@@ -69,7 +69,7 @@ Datenbanken aktuell und künftig
 11.25
 eLearning im Einsatz
 Dr. B. Pfleging, Dipl.-Ing. T. Kindel, Dr. S. Brenne
-eLearning, Ilias, Schulungsangebote
+eLearning, ILIAS, Schulungsangebote
 
 12.05
 Kaffeepause
@@ -129,7 +129,7 @@ Die wachsende Nachfrage nach prometheus, aber auch die oftmals immer noch vorhan
 
 - prometheus-Anwendung
 - digitale Bildbearbeitung
-- Ilias-Lernplattform
+- ILIAS-Lernplattform
 - technische Hilfestellungen im Umgang mit Datenbanken
 
 Bitte melden Sie sich diesbezüglich bei der prometheus-Geschäftsstelle oder unter prometheus- info@uni-koeln.de

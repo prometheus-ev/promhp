@@ -60,7 +60,7 @@ Fortan wird es an jedem ersten Montag im Monat ein update aller Daten geben. An 
 projektor01 mit editor:
 prometheus-Mitarbeiterinnen und -Mitarbeiter haben ein einfaches Werkzeug entwickelt, mit dem Sie offline einen digitalen Bildvortrag zusammenstellen und zeigen können. Im editor werden die gewünschten Bilder wie auf einem Leuchtpult gesammelt und angeordnet und dann mit dem projektor01 mit bis zu drei einzeln oder gleichzeitig schaltbaren Projektoren gezeigt. Angenehme Zusatzfunktionen: Die Bilder können in zwei Stufen vergrößert, eigene Kurztexte können zugeblendet werden.
 Der aktuelle editor setzt Windows voraus; eine Mac-Version ist in Vorbereitung.
-Derzeit können Sie das Paket hier als zip-Datei herunterladen: www.prometheus-bildarchiv.de > login > Lehre > Ilias-Umgebung > Name: "gast3", Passwort: "lernen"
+Derzeit können Sie das Paket hier als zip-Datei herunterladen: www.prometheus-bildarchiv.de > login > Lehre > ILIAS-Umgebung > Name: "gast3", Passwort: "lernen"
 Über Lob und Tadel freut sich: die Redaktion.
 
 Beschreibungen der Datenbanken der prometheus-Partner:

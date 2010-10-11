@@ -6,17 +6,10 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=38
 h2. <%= page_title %>
 
 *Nutzen Sie unsere ILIAS-Installation als Plattform für Ihre Lehrveranstaltungen!*
-
-
-
-"» zum Ilias-Login":http://prometheus.khi.uni-koeln.de/ilias/login.php?target=&soap_pw=&ext_uid=&cookies=nocookies&client_id=prometheus&lang=de
-
-
+"» zum ILIAS-Login":http://prometheus-app.uni-koeln.de/ilias/
 
 Sie haben noch keine Zugangsdaten für ILIAS? Klicken Sie bitte hier:
 "» Benutzerkonto":<%=r 'tools/ilias/account' %>
 
-
-
-Sie möchten mehr über ILIAS und warum prometheus eine ILIAS-Installation zur Verfügung stellt, erfahren?
+Sie möchten mehr über ILIAS erfahren und warum prometheus eine ILIAS-Installation zur Verfügung stellt?
 "» Warum ILIAS?":<%=r 'tools/ilias/why' %>

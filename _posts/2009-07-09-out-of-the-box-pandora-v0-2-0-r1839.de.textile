@@ -21,5 +21,5 @@ Es <a href="<%=r 'post/nutzerbefragung-episode-zwei' %>">wurde ja bereits erwäh
 Dies wird sich auch noch über einen längeren Zeitraum hinziehen. Wir haben vor, die Arbeit mit dem Bildarchiv, schrittweise einfacher und effizienter zu machen.</li>
 </ul>
 
-Um dies und die obligatorischen kleineren Verbesserungen und <a href="http://de.wikipedia.org/wiki/Bugfix">Bugfixes</a> umzusetzen, haben wir in den letzten 21 Tagen insgesamt <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=07%2F09%2F09&daysback=21">64 Änderungen am Quellcode</a> an unser Versionskontrollsystem übergeben.<br />
+Um dies und die obligatorischen kleineren Verbesserungen und <a href="http://de.wikipedia.org/wiki/Bugfix">Bugfixes</a> umzusetzen, haben wir in den letzten 21 Tagen insgesamt <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=07%2F09%2F09&daysback=21">64 Änderungen am Quellcode</a> an unser Versionskontrollsystem übergeben.<br />
 Die nächsten Änderungen warten schon darauf umgesetzt zu werden. Sie können sich also sicher sein, es wird sich auch weiterhin etwas tun.

@@ -5,7 +5,7 @@ title: "Out of the box: pandora v0.3.7 (r2671)"
 
 English summary <a href="#english-1273838082">below</a>.
 
-52 Tage und <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=05%2F14%2F10&daysback=51">164 Änderungen</a> seit dem letzten Update... Dann wollen wir mal wieder, oder? Jupp.<br />
+52 Tage und <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=05%2F14%2F10&daysback=51">164 Änderungen</a> seit dem letzten Update... Dann wollen wir mal wieder, oder? Jupp.<br />
 Auch dieses Mal sind nicht all zu viele Neuerungen dabei, die von unseren BenutzerInnen wahrgenommen werden. Deshalb fällt die Liste der wichtigsten Änderungen auch recht kurz aus. Aber macht ja nichts, wenn Sie weniger im Blog lesen müssen, haben Sie schließlich mehr Zeit Bilder zu recherchieren.
 
 <ul>
@@ -22,7 +22,7 @@ Auch dieses Mal sind nicht all zu viele Neuerungen dabei, die von unseren Benutz
 Wir wünschen weiterhin viel Spaß mit dem Bildarchiv und freuen uns wie immer über <a href="<%=p 'feedback' %>">Ihr Feedback</a>.
 
 <a name="english-1273838082"></a><strong>English summary</strong><br />
-52 days and <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=05%2F14%2F10&daysback=51">164 changes</a> later... It is time for a new update, isn't it? Okay, here we go.<br />
+52 days and <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=05%2F14%2F10&daysback=51">164 changes</a> later... It is time for a new update, isn't it? Okay, here we go.<br />
 We have a short list of changes again, because just a few changes will affect our users directly. Anyway, less reading this blog is more searching the archive.
 
 <ul>

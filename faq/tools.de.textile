@@ -47,5 +47,5 @@ Infoblatt "Erstellen einer Bildpräsentation mit editor und projektor" - herunte
 Sie können mit dem "projektor + editor":<%=r 'tools/programs/projektor-editor' %> offline eine Präsentation erstellen. Dazu laden Sie aus prometheus die Bilder herunter und erstellen eine Präsentation mit dem Projektor. Hier können Sie auch eigene Bilder einfügen.
 Sie können auch mit Power-Point oder anderen Präsentationsprogrammen offline eine Präsentation erstellen. Dazu laden Sie ebenfalls die Bilder herunter und fügen sie in das Programm ein. Hier können Sie auch eigene Bilder einfügen.
 
-*Was ist Ilias?*
+*Was ist ILIAS?*
 ILIAS ist eine Online-Lern- und Lehrplattform. Mit ILIAS können Lehrende E-Learning-Kursmaterialien erstellen, Online-Tests zu Wissensprüfungen einrichten und virtuelle Seminare oder Vorlesungen durchführen. Der Zugriff ist von jedem internetfähigen Computer aus möglich. Die Anmeldung mit Gastrechten erfolgt online. Wenn Sie weitere Rechte benötigen, wenden Sie sich bitte an die "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de <info@prometheus-bildarchiv.de>.

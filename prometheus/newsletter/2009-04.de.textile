@@ -45,7 +45,7 @@ Anlässlich des ersten Geburtstages von pandora hatten wir im Frühjahr eine Umf
 Wir haben durch Ihre Antworten und Kommentare wertvolle Hinweise vor allem in Sachen Benutzerfreundlichkeit erhalten. Einige Funktionalitäten konnten schon angepasst, optisch verbessert bzw. leichter handhabbar gemacht werden.
 Offenbar gibt es auch ein signifikantes Bedürfnis nach gehaltvolleren Metadaten und qualitativ hochwertigeren Bildern. Wir arbeiten an diesen Problemen! Wegen der strukturellen Offenheit des Bildarchivs und seiner gewollten Heterogenität sind hier allerdings keine radikalen, sondern intelligente Lösungen gefragt.
 Einstweilen verweisen wir auf die allen NutzerInnen gegebene Möglichkeit, mit der Vergabe von Sternchen die Qualität einzelner Abbildungen zu bewerten - und so eine kritische Masse zu schaffen, mit der wir künftig operieren können.
-Einige graphische Darstellungen und einen Kommentar zur Umfrageauswertung finden Sie in unserem Blog: "http://prometheus.khi.uni-koeln.de/blog/tag/umfrage":http://prometheus.khi.uni-koeln.de/blog/tag/umfrage
+Einige graphische Darstellungen und einen Kommentar zur Umfrageauswertung finden Sie in unserem Blog: "<%=r 'blog/tag/umfrage' %>":<%r 'blog/tag/umfrage' %>
 
 
 

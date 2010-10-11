@@ -1,41 +1,84 @@
 ---
 layout: default
 title: Neues Benutzerkonto für ILIAS registrieren (German)
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=60&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=60&L=1
 ---
 <%# TODO: translate %>
 h2. <%= page_title %>
 
 Derzeit sind aus technischen Gründen getrennte Anmeldungen für das Bildarchiv und die ILIAS-Lernplattform erforderlich. Sie können aber für ILIAS denselben Namen und dasselbe Kennwort verwenden wie im Bildarchiv.
 
-
 h3. In zwei Schritten zu einem Benutzerkonto auf ILIAS:
-
 
 *1. Schritt*
 Bitte klicken Sie auf diesen Link:
-"» Zur Registrierung auf Ilias":http://prometheus.khi.uni-koeln.de/ilias/?lang=de
-Es öffnet sich die Anmeldeseite der ILIAS-Lernplattform in einem neuen Fenster.
+"» Zur Registrierung auf ILIAS":http://prometheus-app.uni-koeln.de/ilias/
 
 *2. Schritt*
-Füllen Sie das Anmeldeformular anhand der nachfolgenden Vorlage vollständig aus und bestätigen Sie am Ende der Seite, dass Sie die Nutzungsbedingungen anerkennen.
+Klicken Sie auf "Neues Benutzerkonto registrieren" und füllen Sie das Anmeldeformular anhand der nachfolgenden Vorlage vollständig aus. Bestätigen Sie am Ende der Seite, dass Sie die Nutzungsbedingungen anerkennen.
 Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anmelden.
 
-|gewünschter ILIAS-Benutzername|• z. B. vorname.nachname • keine Sonderzeichen oder Umlaute verwenden! • bitte exakt notieren, wird für die Anmeldung benötigt!|
-|gewünschtes ILIAS-Passwort|• wenigstens sechs Zeichen • keine Sonderzeichen oder Umlaute verwenden! • bitte exakt notieren, wird für die Anmeldung benötigt!|
-|Anrede|• anklicken|
-|Nachname |• unbedingt angeben!|
-|Vorname | |
-|akademischer Titel| |
-|Institution | • unbedingt angeben!|
-|Straße | |
-|Postleitzahl | |
-|Wohnort | |
-|Land | |
-|Telefon | |
-|E-Mail | • unbedingt angeben!|
-|Status | • (anklicken)|
-
-
+<table>
+  <tr>
+    <th>gewünschter ILIAS-Benutzername</th>
+    <td>
+      <ul style="margin:0">
+        <li>z. B. vorname.nachname</li>
+        <li>keine Sonderzeichen oder Umlaute verwenden!</li>
+        <li>bitte exakt notieren, wird für die Anmeldung benötigt!</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>gewünschtes ILIAS-Passwort</th>
+    <td>
+      <ul style="margin:0">
+        <li>wenigstens sechs Zeichen</li>
+        <li>keine Sonderzeichen oder Umlaute verwenden!</li>
+        <li>bitte exakt notieren, wird für die Anmeldung benötigt!</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Anrede</th>
+    <td>
+      <ul style="margin:0">
+        <li>anklicken</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Nachname</th>
+    <td>
+      <ul style="margin:0">
+        <li>unbedingt angeben!</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Institution</th>
+    <td>
+      <ul style="margin:0">
+        <li>unbedingt angeben!</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>E-Mail</th>
+    <td>
+      <ul style="margin:0">
+        <li>unbedingt angeben!</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Status</th>
+    <td>
+      <ul style="margin:0">
+        <li>anklicken</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 Der angegebene Status hat keinen Einfluß auf die Bearbeitungsrechte in ILIAS. *Rechte zur Erstellung von Lerneinheiten* auf Anfrage bei "prometheus e.V.":mailto:info@prometheus-bildarchiv.de

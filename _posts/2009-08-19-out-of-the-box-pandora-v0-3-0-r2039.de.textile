@@ -4,7 +4,7 @@ typo_id: 26
 title: "Out of the box: pandora v0.3.0 (r2039)"
 ---
 Anfang Juli hatten wir den letzten größeren <a href="<%=r 'post/out-of-the-box-pandora-v0-2-0-r1839' %>" title="Out of the box: pandora v0.2.0 (r1839)">Versionssprung auf die 0.2.0</a> unserer Software <a href="http://prometheus.uni-koeln.de/pandora/about" title="prometheus image archive [pandora] - About">pandora</a>, die hinter dem prometheus-Bildarchiv arbeitet. Seitdem hatten wir einige mehr oder weniger großen Änderungen, die wir veröffentlichen konnten, doch haben wir auch die ganze Zeit auf Version 0.3.0 hingearbeitet, die wir heute in Produktion schicken konnten.<br />
-Und es ist wirklich mal ein großes Update. Mit den <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=08%2F19%2F09&amp;daysback=19" title="Timeline - pandora - Trac">119 (!!) Änderungen</a>, die wir seit <a href="<%=r 'post/out-of-the-box-pandora-v0-2-2-r1920' %>" title="Out of the box: pandora v0.2.2 (r1920)" >Version 0.2.2</a> an pandoras Programmcode vorgenommen haben, wurde unter anderem folgendes umgesetzt:
+Und es ist wirklich mal ein großes Update. Mit den <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=08%2F19%2F09&amp;daysback=19" title="Timeline - pandora - Trac">119 (!!) Änderungen</a>, die wir seit <a href="<%=r 'post/out-of-the-box-pandora-v0-2-2-r1920' %>" title="Out of the box: pandora v0.2.2 (r1920)" >Version 0.2.2</a> an pandoras Programmcode vorgenommen haben, wurde unter anderem folgendes umgesetzt:
 
 <ul>
 	<li><strong>Die Liste der ausgewählten Datenbanken in den Suchergebnissen ist nun kompakter.</strong><br />

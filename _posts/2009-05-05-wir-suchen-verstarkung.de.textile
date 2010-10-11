@@ -22,5 +22,5 @@ Du solltest mitbringen:
 	<li>viel  Interesse und Spaß an Deiner Arbeit</li>
 </ul>
 
-Wenn Du zusätzlich etwas mit Ruby on Rails und/oder Typo3 anfangen kannst, umso besser. Die offizielle <a href="http://prometheus.khi.uni-koeln.de/~prometheus/ausschreibungshk_informatik_prometheus.pdf">Stellenausschreibung findest Du hier</a>.
+Wenn Du zusätzlich etwas mit Ruby on Rails und/oder Typo3 anfangen kannst, umso besser. Die offizielle <a href="http://prometheus-app.uni-koeln.de/~prometheus/ausschreibungshk_informatik_prometheus.pdf">Stellenausschreibung findest Du hier</a>.
 Wir freuen uns auf zahlreiche Bewerbungen.

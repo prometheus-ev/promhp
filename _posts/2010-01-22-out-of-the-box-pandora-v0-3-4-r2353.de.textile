@@ -3,7 +3,7 @@ layout: post
 typo_id: 37
 title: "Out of the box: pandora v0.3.4 (r2353)"
 ---
-Am 29.10.2009 haben wir zum letzten Mal unsere Änderungen an <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a> veröffentlicht. Allerhöchste Zeit das mal wieder zu tun, würde ich sagen. Und da ich damit nicht alleine stehe, ist es heute auch wieder so weit, Version 0.3.4 unserer Software ist da. Mit <a href="http://prometheus.khi.uni-koeln.de/trac/pandora/timeline?from=01%2F22%2F10&daysback=84">146 registrierten Änderungen am Quellcode der Software</a>, kein kleines Update. Wobei ein Großteil dessen, woran wir in den letzten Monaten gesessen haben, für die meisten unserer BenutzerInnen unsichtbar bleiben dürfte.<br />
+Am 29.10.2009 haben wir zum letzten Mal unsere Änderungen an <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a> veröffentlicht. Allerhöchste Zeit das mal wieder zu tun, würde ich sagen. Und da ich damit nicht alleine stehe, ist es heute auch wieder so weit, Version 0.3.4 unserer Software ist da. Mit <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=01%2F22%2F10&daysback=84">146 registrierten Änderungen am Quellcode der Software</a>, kein kleines Update. Wobei ein Großteil dessen, woran wir in den letzten Monaten gesessen haben, für die meisten unserer BenutzerInnen unsichtbar bleiben dürfte.<br />
 Hier nun also die wichtigsten Neuerungen im Überblick:
 
 <ul>
