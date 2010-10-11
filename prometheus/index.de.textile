@@ -5,41 +5,46 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=6
 ---
 h2. <%= page_title %>
 
-prometheus ist ein digitales Bildarchiv für Kunst-und Kulturwissenschaften.
-Das prometheus Bildarchiv funktioniert nach dem Prinzip eines Datenbankbrokers, der heterogene Bilddatenbanken zusammenführt.
-Die Bildgeber stellen ihre Datenbanken der Forschung und Lehre kostenlos zur Verfügung.
-Somit ermöglicht prometheus eine komfortable Bildsuche über eine gemeinsame Oberfläche in unterschiedlichen Bildarchiven, Instituts-, Forschungs- und Museumsdatenbanken.
+prometheus ist ein digitales Bildarchiv für Kunst-und Kulturwissenschaften. Das prometheus Bildarchiv funktioniert nach dem Prinzip eines Datenbankbrokers, der heterogene Bilddatenbanken zusammenführt. Die Bildgeber stellen ihre Datenbanken der Forschung und Lehre kostenlos zur Verfügung. Somit ermöglicht prometheus eine komfortable Bildsuche über eine gemeinsame Oberfläche in unterschiedlichen Bildarchiven, Instituts-, Forschungs- und Museumsdatenbanken.
 
-Auf einen Blick: "prometheus-Flyer (PDF, 838 KB)":<%=r 'files/text/prometheus-flyer_jan09.pdf' %> herunterladen
+Auf einen Blick: Unseren "prometheus-Flyer (PDF)":<%=r 'files/text/prometheus-flyer_jan09.pdf' %> herunterladen!
 
 h3. Begriffe
 
-h4(#searching). Suchen
-TODO: content
+h4(#searching). Suchen - In vielen Bilddatenbanken unter einer Oberfläche recherchieren
 
-h4(#collecting). Sammeln
-TODO: content
+Aktuell können Sie in <span id="source_count">knapp 60</span> Bilddatenbanken der Kunst-, Design- und Architekturgeschichte, Theologie, Geschichte und Archäologie mit insgesamt <span id="record_count">über 730.000</span> Bildern suchen. Ihnen steht eine einfache Suche zur Verfügung, die über alle Felder nach den von Ihnen eingegebenen Begriffen sucht oder die erweiterte Suche, mit der Sie die Suchbegriffe auf unterschiedliche Art kombinieren, eine Datenbankauswahl treffen und somit gezielter suchen können.
 
-h4(#presenting). Präsentieren
-TODO: content
+h4(#collecting). Sammeln - Die gefundenen Bilder an einem Ort zu einem Thema zusammenstellen
 
-h4(#publishing). Publizieren
-TODO: content
+In die Bildsammlungen können Sie die von Ihnen für ein Seminar, eine Präsentation oder eine Forschungsarbeit benötigten Bilder ablegen. Sie können die Bildsammlung jederzeit um ausgewählte Bilder erweitern und haben ortsunabhängig Zugriff darauf. Zusätzliche Informationen für die Charakterisierung der Bildsammlung (Beschreibung, Schlagwörter) oder Informationen zu Forschungsliteratur und weiterführende Links können Sie hinzufügen. Sie haben außerdem die Möglichkeit, die Bildsammlung für alle oder einzelne Nutzerinnen und Nutzer zum Lesen oder direkt zur Mitarbeit freizugeben.
 
-h4(#researching). Forschen
-TODO: content
+h4(#presenting). Präsentieren - Die zusammengestellten Bilder für einen Vortrag ortsunabhängig präsentieren
+
+In die Präsentationen können Sie Bilder integrieren, die Sie in der Suche gefunden oder in der Bildsammlung zusammengestellt haben. Die Gestaltung der Folien ist flexibel, die Präsentation kann leicht in jedem Browser gestartet werden. Sie dürfen die Bilder aber auch herunterladen und in Ihr lokales Präsentationsprogramm integrieren.
+
+h4(#publishing). Publizieren - Sich über das Bildrecht informieren und die Bilder publizieren
+
+Direkt am Bild finden Sie einen Link zum Bildrecht des jeweiligen Bildes, der darüber aufklärt, welche Rechte für eine Publikation einzuholen sind. In einigen Fällen gibt es die Möglichkeit die Publikationsgenehmigung zu einem Bild direkt über prometheus einzuholen.
+
+Für die Verwendung der Bilder in Forschung und Lehre hat prometheus mit der "VG Bild-Kunst":http://bildkunst.de/ einen Vertrag geschlossen, der zum einen die Zugänglichmachung der Bilder in prometheus durch die verschiedenen Bilddatenbanken erlaubt und zum anderen die Verwendung für Forschung und Lehre gestattet (s. auch "» Bildrecht und Publikation":<%=r 'copyright' %>).
+
+h4(#researching). Forschen - Suchen, Sammeln, Annotieren, Bilder verknüpfen und Motive kennzeichnen
+
+Sie können in jedem Bereich Hilfsmittel finden, die Ihnen bei Ihrer Forschung helfen und die Arbeit erleichtern: z.B. eine gezielte Suche mithilfe einer Datenbankauswahl und kombinierten Suchfeldern, die strukturierte und mit Zusatzinformationen versehene Bildsammlung oder die von Ihnen für die Mitarbeit freigegebene Forschungsarbeit.
+
+In Kürze wird prometheus zudem ein Werkzeug integrieren, das die Forschung direkt am Bild über Verknüpfungen und Bildannotationen in einer Forschungsgruppe möglich macht.
 
 h3. Das Lizenzmodell von prometheus
 
-prometheus ist ein nicht-kommerzielles Bildarchiv. Die Lizenzen werden nicht auf die Bilder erhoben, sondern dienen ausschließlich zur Deckung der Betriebskosten, die für Erhaltung, Pflege und Ausbau des Bildarchivs (Aktualisierung, Einbindung neuer Datenbanken) notwendig sind. Der gemeinnützige Verein prometheus verfolgt mit der Lizenzierung des prometheus Bildarchivs keinen kommerziellen Zweck.
+prometheus ist ein nicht-kommerzielles Bildarchiv. Die Lizenzen werden nicht auf die Bilder erhoben, sondern dienen ausschließlich zur Deckung der Betriebskosten, die für Erhaltung, Pflege und Ausbau des Bildarchivs (Aktualisierung, Einbindung neuer Datenbanken) notwendig sind. Der gemeinnützige Verein prometheus verfolgt mit der Lizenzierung des prometheus-Bildarchivs keinen kommerziellen Zweck.
 
-Mehr Informationen zu "» Anmeldung und Lizenzen":<%=r 'license' %>
-
+Mehr Informationen zu "» Anmeldung und Lizenzen":<%=r 'license' %>.
 
 h3. Binden Sie Ihre Datenbank in prometheus ein
 
 Wollen Sie Ihre Datenbank in prometheus einbinden und die Vorteile von prometheus nutzen?
-"» Info für Datenbankgeber":<%=r 'databases' %>
+"» Info für Datenbankgeber":<%=r 'databases' %>.
 
 Für kleinere Bildsammlungen stellen wir die Bilddatenbank DILPS zur Verfügung.
-mehr zu "»DILPS«":<%=r 'databases/promdilps' %>
+Mehr zu "» DILPS":<%=r 'databases/promdilps' %>.

@@ -18,4 +18,4 @@ h2. <%= page_title %>
 
 *DILPS -- Distributed Image Library Processing System*
 
-!<%=r 'files/images/64cd63e389.jpg' %>! »DILPS« ist ein Bilddatenbanksystem zur Verwaltung und Recherche digitaler Bilder. "» mehr":<%=r 'tools/databases/dilps' %>
+!<%=r 'files/images/64cd63e389.jpg' %>! DILPS ist ein Bilddatenbanksystem zur Verwaltung und Recherche digitaler Bilder. "» mehr":<%=r 'tools/databases/dilps' %>

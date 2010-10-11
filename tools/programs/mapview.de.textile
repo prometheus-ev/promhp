@@ -12,7 +12,7 @@ h2. <%= page_title %>
 *Offline-Arbeitsmappe und Präsentation für prometheus*
 *Anwendungsbereich:* prometheus
 *Technische Voraussetzungen:* Java 1.4.2 oder höher
-*Lizenz:* GNU public licence
+*Lizenz:* GNU public license
 
 
 
