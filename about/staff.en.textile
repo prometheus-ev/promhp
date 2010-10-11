@@ -5,26 +5,30 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=509&L=1&skin=&tx_ttnews
 ---
 h2. <%= page_title %>
 
-*Current*
-Sebastian Beßler (Cologne, Informatics)
-Lisa Dieckmann M.A. (Executive of the project prometheus at the Department of Art History of the University of Cologne, Informatics)
-Arne Eilermann (Cologne, Informatics)
-Theresa Nisters (Cologne, Office)
-Sabine Scheele M.A. (Giessen, Webdesign)
-Silvia Stark M.A. (Cologne, Office)
-Katja Vierk (Cologne, Office)
-Dipl.-Bibl. Jens Wille (Cologne, Informatics)
+h3. Current
 
-*Former*
-Thomas Bodo Block (Cologne, Informatics)
-Ben Burkhard (Cologne, Informatics)
-Rebeca Ehses (Cologne, Office)
-Dr. Meta Friese (Cologne, Office)
-Georg Hohmann (Cologne, Project coordination)
-Julia Iwanowa M.A. (Berlin, Informatics)
-Ansgar Lorenz (Cologne, Office)
-Gerd Mörsch M.A. (Cologne, Office)
-Dipl.-Bibl. Thomas Müller (Cologne, Informatics)
-Dr. Jürgen Nemitz (Cologne/Marburg, Informatics)
-Johanna Neumann (Cologne, Informatics)
-Dipl. Des. Dirk Schuster (Dessau, Design)
+* Lisa Dieckmann M.A. (Executive of the project prometheus at the Department of Art History of the University of Cologne, Informatics)
+* Arne Eilermann (Cologne, Informatics)
+* Hendrikje Hüneke (Giessen, Image series)
+* Theresa Nisters (Cologne/Rome, Office)
+* Silvia Stark M.A. (Cologne, Office)
+* Katja Vierk (Cologne, Office)
+* Dipl.-Bibl. Jens Wille (Cologne, Informatics)
+
+h3. Former
+
+* Sebastian Beßler (Cologne, Informatics)
+* Thomas Bodo Block (Cologne, Informatics)
+* Ben Burkhard (Cologne, Informatics)
+* Rebeca Ehses (Cologne, Office)
+* Dr. Meta Friese (Cologne, Office)
+* Georg Hohmann (Cologne, Project coordination)
+* Julia Iwanowa M.A. (Berlin, Informatics)
+* Ansgar Lorenz (Cologne, Office)
+* Gerd Mörsch M.A. (Cologne, Office)
+* Astrid Puckett (Giessen, Image series)
+* Sabine Scheele M.A. (Giessen, Webdesign)
+* Dipl.-Bibl. Thomas Müller (Cologne, Informatics)
+* Dr. Jürgen Nemitz (Cologne/Marburg, Informatics)
+* Johanna Neumann (Cologne, Informatics)
+* Dipl. Des. Dirk Schuster (Dessau, Design)

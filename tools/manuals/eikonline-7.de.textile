@@ -1,0 +1,20 @@
+---
+layout: default
+title: "eikonline_7: ILIAS 3 Nutzung"
+---
+h2. <%= page_title %>
+
+05.03.07
+
+!<%=r 'files/images/94ae6f2b7a.jpg' %>!
+
+*Dateien zum Herunterladen:*
+"eikonline_07_ilias3_10.pdf":<%=r 'files/text/eikonline_07_ilias3_10.pdf' %>
+
+*Leitfaden für die Nutzung der Lernplattform ILIAS Version 3*
+
+Die wichtigsten Funktionen einer ILIAS-Plattform der Version 3 aus Nutzersicht.
+
+Version 1.0
+
+Von: Karin Riedhammer

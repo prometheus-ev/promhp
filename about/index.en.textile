@@ -53,10 +53,5 @@ The registered office of prometheus is located at the Institute of Art History a
 
 h3. Our sponsors
 
-| !<%=r 'files/images/bmbf.jpg' %>!:http://www.bmbf.de
-"Bundesministerium fürBildung und Forschung":http://www.bmbf.de/ |"Sal. Oppenheim-Stiftung zur Förderung der
-Wissenschaften Köln":http://www.stifterverband.de/site/php/stiftung.php?SID=&seite=StiftungDetail&stiftung=168&herkunft=0&detailansprechnr=463&detailexansprechnr |
-| !<%=r 'files/images/siegel2.gif' %>!:http://www.uni-koeln.de/
-"Universität zu Köln":http://www.uni-koeln.de/ |!<%=r 'files/images/phil_siegel.gif' %>!:http://phil-fak.uni-koeln.de/
-"Philosophische Fakultät
-der Universität zu Köln":http://phil-fak.uni-koeln.de/ |
+| !<%=r 'files/images/bmbf.jpg' %>!:http://www.bmbf.de "Bundesministerium für Bildung und Forschung":http://www.bmbf.de/ |"Sal. Oppenheim-Stiftung zur Förderung der Wissenschaften Köln":http://stiftungen.stifterverband.info/t142_oppenheimsal |
+| !<%=r 'files/images/siegel2.gif' %>!:http://www.uni-koeln.de/ "Universität zu Köln":http://www.uni-koeln.de/ |!<%=r 'files/images/phil_siegel.gif' %>!:http://phil-fak.uni-koeln.de/ "Philosophische Fakultät der Universität zu Köln":http://phil-fak.uni-koeln.de/ |
