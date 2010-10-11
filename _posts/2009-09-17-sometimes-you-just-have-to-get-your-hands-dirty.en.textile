@@ -5,17 +5,20 @@ title: Sometimes you just have to get your hands dirty
 ---
 Lately, we've been experiencing increased search times on <a href="http://prometheus.uni-koeln.de/pandora/about">our image archive</a> due to the inclusion of information on which collections a particular image is contained in (<a href="http://prometheus-app.uni-koeln.de/trac/pandora/changeset/1970#file2">r1970</a>). For each result in a results list <strong>three database queries</strong> are issued just to get the desired counts. Suppose <code>_condition<var>N</var>_</code> and <code>_joins<var>N</var>_</code> are one of the three pairs of conditions and joins to determine <em>own</em>, <em>shared</em>, or <em>public</em> collections, and <code>_conditionR_</code> is the clause for restricting the query to just the given resource. We then have the following queries:
 
-<code lang="ruby">
+<%
+text = "
 SELECT COUNT(*) FROM table _joins1_ WHERE _condition1_ AND _conditionR_
 
 SELECT COUNT(*) FROM table _joins2_ WHERE _condition2_ AND _conditionR_
 
 SELECT COUNT(*) FROM table _joins3_ WHERE _condition3_ AND _conditionR_
-</code>
+"%>
+<%= highlight(text, :sql) %>
 
 Multiply that by, say, 100 results per page and it will wipe any smile from your face. So the question becomes: How can we perform multiple <code>COUNT</code>s in a <strong>single SQL query</strong>? There are quite a few discussions about this <a href="http://www.google.de/search?q=sql+multiple+count+in+one+query">on the web</a> (namely <a href="http://bytes.com/topic/oracle/answers/821201-multiple-counts-1-query">this</a> or <a href="http://stackoverflow.com/questions/1269639/multiple-counts-within-a-single-sql-query">this</a>), but the first attempt didn't quite cut it:
 
-<code lang="ruby">
+<%
+text = "
 SELECT
   SUM(IF(_condition1_, 1, 0)) AS count1,
   SUM(IF(_condition2_, 1, 0)) AS count2,
@@ -27,11 +30,13 @@ FROM table
    _joins3_
 
 WHERE  _conditionR_
-</code>
+"%>
+<%= highlight(text, :sql) %>
 
 The problem - as we soon learn - is that the <code>JOIN</code>s introduce extra rows which might potentially skew the results. Crap... What's a boy to do in such a situation? Exactly, think for himself! So this is what we've finally come up with:
 
-<code lang="ruby">
+<%
+text = "
 SELECT
   COUNT(DISTINCT IF(_condition1_, table.id, NULL)) AS count1,
   COUNT(DISTINCT IF(_condition2_, table.id, NULL)) AS count2,
@@ -43,7 +48,8 @@ FROM table
    _joins3_
 
 WHERE  _conditionR_
-</code>
+"%>
+<%= highlight(text, :sql) %>
 
 Hooray, now it works!
 
