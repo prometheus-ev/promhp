@@ -20,3 +20,21 @@ td.thumbnail img {
 table.resourceful-list td.metadata {
   padding-top:       10px;
 }
+
+table.list tr.list_row td.metadata {
+  padding:           10px;
+}
+
+.noscript_button {
+  display:           block;
+}
+
+body.js .noscript_button {
+  visibility:        visible;
+}
+
+div.suggestions {
+  position:          relative !important;
+  top:               0 !important;
+  left:              0 !important;
+}

@@ -342,8 +342,8 @@ fieldset {
 body.js .noscript_button {
   /* http://code.google.com/p/chromium/issues/detail?id=45549 */
   display:           block;
-  position:          absolute;
   visibility:        hidden;
+  position:          absolute;
   left:              50%;
   top:               -9999px;
 }
@@ -353,9 +353,6 @@ body.js .noscript_button {
   background-image:  url(../images/misc/button_send_middle.gif);
   background-repeat: repeat-x;
   font-weight:       bold;
-}
-
-.noscript_button .submit {
   border:            none;
 }
 
@@ -1165,6 +1162,10 @@ div.slide input[type=radio] {
   margin:            10px;
 }
 
+.compact #details-section div.section {
+  width:             auto;
+}
+
 div.image_wrap {
   float:             left;
   text-align:        center;
@@ -1220,6 +1221,7 @@ div.image, td.image {
 
 .compact .metadata th {
   margin-top:        2px;
+  padding-left:      0;
 }
 
 .source-field div.source_icons {
@@ -1680,6 +1682,7 @@ body.administration-controller.index-action .section-links {
   background-image:  url(../images/misc/header.gif);
   font-size:         12px;
   text-align:        left;
+  float:             left;
 }
 
 .store_controls > * {
@@ -2028,10 +2031,11 @@ div.suggestions {
   background-color:  rgb(60,60,60);
 }
 
-div.suggestions ul {
+#content div.suggestions ul {
   list-style-type:   none;
   margin:            0;
   padding:           0;
+  width:             auto;
 }
 
 div.suggestions ul li {
