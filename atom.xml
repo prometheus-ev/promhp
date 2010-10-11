@@ -5,7 +5,7 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><%= @site.title %></title>
-  <link href="<%= @site.url %>atom.xml" rel="self"/>
+  <link href="<%= @site.url %>/atom.xml" rel="self"/>
   <link href="<%= @site.url %>"/>
   <updated><%= date_to_xmlschema(@site.time) %></updated>
   <id><%= @site.url %></id>
@@ -16,7 +16,7 @@ layout: nil
 
  <% for post in @site.posts %>
  <entry>
-   <title><%= post.title %></title>
+   <title><%=h post.title %></title>
    <link href="<%= @site.url + post.url %>"/>
    <updated><%= date_to_xmlschema(post.date) %></updated>
    <id><%= @site.url + post.id %></id>
