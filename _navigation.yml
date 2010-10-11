@@ -4,11 +4,11 @@
   :url: index
 - :title_en: prometheus is...
   :title_de: prometheus ist...
-  :url: prometheus/about
+  :url: prometheus/index
   :content:
   - :title_en: ...an Image Archive
     :title_de: ...ein Bildarchiv
-    :url: prometheus/about
+    :url: prometheus/index
   - :title_en: pandora
     :title_de: pandora
     :url: <%= pandora_url 'about' %>
@@ -33,11 +33,11 @@
       :url: prometheus/publications/theses
 - :title_en: About Us
   :title_de: Wir über uns
-  :url: about/history
+  :url: about/index
   :content:
   - :title_en: Project History
     :title_de: Projektgeschichte
-    :url: about/history
+    :url: about/index
   - :title_en: The Association
     :title_de: Der Verein
     :url: about/association
@@ -56,11 +56,11 @@
     :url: about/staff
 - :title_en: Licenses
   :title_de: Lizenzen
-  :url: license/model
+  :url: license/index
   :content:
   - :title_en: License Model
     :title_de: Lizenzmodell
-    :url: license/model
+    :url: license/index
   - :title_en: License Fees
     :title_de: Lizenzgebühren
     :url: license/fees
@@ -82,24 +82,24 @@
     :url: <%= pandora_url 'terms_of_use' %>
 - :title_en: Databases
   :title_de: Datenbanken
-  :url: databases/data-supply
+  :url: databases/index
   :content:
   - :title_en: Information for Data Suppliers
     :title_de: Informationen für Bildgeber
-    :url: databases/data-supply
+    :url: databases/index
     :content:
     - :title_en: Supplying Data (German)
       :title_de: Bereitstellung der Daten
-      :url: databases/data-supply/supplying-data
+      :url: databases/supplying-data
     - :title_en: Metadata - Contents (German)
       :title_de: Metadaten - Inhalte
-      :url: databases/data-supply/metadata-contents
+      :url: databases/metadata-contents
     - :title_en: Metadata - Formats (German)
       :title_de: Metadaten - Formate
-      :url: databases/data-supply/metadata-formats
+      :url: databases/metadata-formats
     - :title_en: Media - Formats (German)
       :title_de: Medien - Formate
-      :url: databases/data-supply/media-formats
+      :url: databases/media-formats
     - :title_en: promDILPS
       :title_de: promDILPS
       :url: databases/promdilps

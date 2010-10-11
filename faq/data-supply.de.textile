@@ -13,7 +13,7 @@ Dann gibt es mehrere Möglichkeiten, wie Ihre Datenbank eingebunden werden kann.
 2. Sie liefern uns nur einen XML-Dump mit dem Inhalt und halten die Bilddateien auf Ihrem Server selber vor. Sie sind dann für den Zugriff auf Ihren Server selber verantwortlich.
 Weitere Möglichkeiten und Varianten erfragen Sie bitte bei der Geschäftsstelle.
 
-"Informationen für Datenbanklieferer":<%=r 'databases/data-supply' %>
+"Informationen für Datenbanklieferer":<%=r 'databases' %>
 
 *Wir planen unsere Instituts-Diathek zu digitalisieren. Ist das sinnvoll?*
 Grundsätzlich ist das nicht sinnvoll, weil die meisten Dias in den Diatheken aus Büchern abfotografiert wurden. Eine digitale Neuaufnahme ist meist besser. Lediglich die Originaldias mit Ansichten und Objekten, die es in der Literatur nicht gibt, sollten eingescannt werden.

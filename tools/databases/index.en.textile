@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Databases
+title: Databases (German)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=57&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 <%# TODO: translate %>

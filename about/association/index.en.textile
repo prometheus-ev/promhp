@@ -33,7 +33,7 @@ Users of prometheus have various demands and needs - based on their own perspect
 <br />
 
 The association has arose from the cooperative project "prometheus - The Distributed Digital Image Archive for Research & Studies" of the grant programme "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
-"» History of the project and the association":<%=r 'about/history' %>
+"» History of the project and the association":<%=r 'about' %>
 
 *Get involved with prometheus e.V!*
 "» Becoming a member":<%=r 'about/association/membership' %>

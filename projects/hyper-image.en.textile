@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HyperImage - Image-Oriented e-Science Networks
+title: HyperImage - Image-Oriented e-Science Networks (German)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=325&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 <%# TODO: translate %>

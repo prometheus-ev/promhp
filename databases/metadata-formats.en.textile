@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Metadata - Formats
+title: Metadata - Formats (German)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=79&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 <%# TODO: translate %>

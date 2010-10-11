@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supplying data
+title: Supplying data (German)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=78&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 <%# TODO: translate %>

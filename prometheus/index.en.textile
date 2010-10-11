@@ -42,7 +42,7 @@ See "Directory of License Holders":<%=p 'institution/licensed' %> " to check if 
 h3. Individual databases can be connected to prometheus
 
 To connect an individual database and to use the advantages of prometheus, find additional information at
-» "Information for database providers":<%=r 'databases/data-supply' %>
+» "Information for database providers":<%=r 'databases' %>
 
 
 For smaller image collections we offer the image data base DILPS

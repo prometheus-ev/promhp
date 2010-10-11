@@ -4,11 +4,11 @@
   <img src="<%=r "files/images/tags.#{page.lang}.png" %>" width="238" height="186" usemap="#tags" />
 
   <map name="tags">
-    <area shape="rect" coords="<%=t '20,17,223,50',   '19,15,171,51' %>"   alt="<%= n = t('Searching', 'Suchen') %>"        title="<%= n %>" href="<%=r 'prometheus/about#searching' %>" />
-    <area shape="rect" coords="<%=t '33,50,205,79',   '57,51,220,80' %>"   alt="<%= n = t('Collecting', 'Sammeln') %>"      title="<%= n %>" href="<%=r 'prometheus/about#collecting' %>" />
-    <area shape="rect" coords="<%=t '26,79,167,103',  '26,80,194,104' %>"  alt="<%= n = t('Presenting', 'Präsentieren') %>" title="<%= n %>" href="<%=r 'prometheus/about#presenting' %>" />
-    <area shape="rect" coords="<%=t '49,103,221,132', '48,104,233,132' %>" alt="<%= n = t('Publishing', 'Publizieren') %>"  title="<%= n %>" href="<%=r 'prometheus/about#publishing' %>" />
-    <area shape="rect" coords="<%=t '67,132,225,156', '66,132,187,157' %>" alt="<%= n = t('Researching', 'Forschen') %>"    title="<%= n %>" href="<%=r 'prometheus/about#researching' %>" />
+    <area shape="rect" coords="<%=t '20,17,223,50',   '19,15,171,51' %>"   alt="<%= n = t('Searching', 'Suchen') %>"        title="<%= n %>" href="<%=r 'prometheus#searching' %>" />
+    <area shape="rect" coords="<%=t '33,50,205,79',   '57,51,220,80' %>"   alt="<%= n = t('Collecting', 'Sammeln') %>"      title="<%= n %>" href="<%=r 'prometheus#collecting' %>" />
+    <area shape="rect" coords="<%=t '26,79,167,103',  '26,80,194,104' %>"  alt="<%= n = t('Presenting', 'Präsentieren') %>" title="<%= n %>" href="<%=r 'prometheus#presenting' %>" />
+    <area shape="rect" coords="<%=t '49,103,221,132', '48,104,233,132' %>" alt="<%= n = t('Publishing', 'Publizieren') %>"  title="<%= n %>" href="<%=r 'prometheus#publishing' %>" />
+    <area shape="rect" coords="<%=t '67,132,225,156', '66,132,187,157' %>" alt="<%= n = t('Researching', 'Forschen') %>"    title="<%= n %>" href="<%=r 'prometheus#researching' %>" />
   </map>
 </div>
 
@@ -17,7 +17,7 @@
 
   <ul>
     <li>
-      <% link = %Q{<a href="#{r 'prometheus/about'}">%s</a>} %><%=
+      <% link = %Q{<a href="#{r 'prometheus'}">%s</a>} %><%=
         link % %Q{<img src="#{r 'files/icons/info.gif'}" alt="Info" />}
       %><%=
         link % t('Learn more about us', 'Erfahren Sie mehr über uns')

@@ -37,7 +37,7 @@ Die Anwenderinnen und Anwender stellen jeweils aus ihrer Perspektive - Lehren, L
 <br />
 
 Hervorgegangen ist der Verein aus dem Verbundprojekt "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" des Förderprogramms "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
-"» zur Geschichte des Projektes und des Vereins":<%=r 'about/history' %>
+"» zur Geschichte des Projektes und des Vereins":<%=r 'about' %>
 
 *Engagieren Sie sich bei prometheus e.V!*
 "» Mitglied werden":<%=r 'about/association/membership' %>
