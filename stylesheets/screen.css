@@ -201,3 +201,8 @@
 .pagination {
   line-height: 35px;
 }
+
+.post-meta {
+  font-size: 90%;
+  color: #B4B4B4;
+}

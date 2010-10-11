@@ -2,6 +2,6 @@
 layout: default
 ---
 <h2><a href="<%=r @page.url %>"><%= page_title %></a></h2>
-<p><%= date_to_string(@page.date) %></p>
+<p class="post-meta"><%= date_to_string(@page.date) %></p>
 
 <%= @content %>
