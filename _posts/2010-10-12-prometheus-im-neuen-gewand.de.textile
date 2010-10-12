@@ -1,0 +1,17 @@
+---
+layout: post
+title: prometheus im neuen Gewand
+author: Lisa
+---
+!(bordered-image)<%=r 'files/blog/screenshot_collection_2010-10-12.png' %>(Screenshot Collection)!
+Was ist neu? Mit der Umgestaltung ist die Handhabung in allen Bereichen intuitiver, das Design fließender geworden. Die Übergänge von Farben und Formen erscheinen weicher und die einzelnen Bereiche sind besser auf einander abgestimmt. Funktionalitäten und Informationen treten erst dann prominent hervor, wenn sie gezielt angesteuert werden. Damit liegt der Fokus noch stärker auf den Bildern. Einzelne Bereiche sind ein- und ausklappbar. Damit haben Sie nun die Möglichkeit, nur den Arbeitsbereich zu öffnen, den Sie gerade benötigen. Außerdem haben wir die Homepage noch mehr an das Bildarchiv angepasst und einzelne Funktionalitäten weiter ausgebaut wie:
+* *die Publikationsfunktion*: Wir informieren Sie direkt am Bild über das jeweilige Bildrecht bzw. weisen Sie für jedes Bild darauf hin, welche Schritte zu unternehmen sind, wenn eine Publikationsgenehmigung eingeholt werden soll. Das entsprechende Icon finden Sie links neben dem Bild. Falls die Angaben des Datensatzes nicht ausreichen, informieren wir Sie, wo Sie nachsehen bzw. an wen Sie sich wenden müssen. Natürlich gibt es bei einigen Bildern weiterhin die Möglichkeit, die Publikationsgenehmigung direkt über prometheus beim Bildgeber einzuholen.
+* *die Ablage der Bilder in Bildsammlungen und Präsentationen*: Die Speicherung ist nun von jedem Bild aus möglich, egal ob in der Ergebnisliste, in der Vollansicht oder in der Bildsammlung. Auch hier finden Sie das entsprechende Icon links neben dem Bild. Hinzu kommt, dass Sie nun auch direkt aus der Suche in die Präsentationen speichern können.
+
+Aber verschaffen Sie sich am besten selbst einen "Eindruck":http://www.prometheus-bildarchiv.de!
+
+Falls Sie Hilfe benötigen, konsultieren  Sie einfach "unsere Hilfeseiten":<%= pandora_url 'help' %> oder wenden Sie sich direkt an die "Geschäftsstelle":<%=r 'contact' %>.
+
+Bis zum Ende des Jahres werden wir Ihnen eine Favoritenleiste zur Verfügung stellen, in der Sie alles, was Sie für den Schnellzugriff benötigen, ablegen können. Das kann z.B. eine bestimmte Suche oder Präsentation sein, eine Liste der Bildsammlungen - gefiltert nach ausgewählten Kriterien, oder ein individuelles Bild.
+
+Zudem wird dann ein weiteres Feature realisiert sein, das von Ihnen verstärkt gewünscht wurde:  die persönlichen Einstellungen. Damit haben Sie z. B. die Möglichkeit,  die Anzahl der Treffer in der Liste bzw. Galerieansicht festzulegen,  Suchparameter und Anzeigeoptionen  oder  auch die Sprache standardmäßig zu bestimmen.
