@@ -1,11 +1,9 @@
-#url: http://prometheus-bildarchiv.de
-url: http://cartman.rrz.uni-koeln.de:2273
+url: http://prometheus-bildarchiv.de
 author: prometheus
 email: info@prometheus-bildarchiv.de
 title: The prometheus Image Archive
 title_de: Das prometheus-Bildarchiv
-#pandora_url: http://prometheus.uni-koeln.de/pandora
-pandora_url: http://prometheus-test.uni-koeln.de/pandora-devel
+pandora_url: http://prometheus.uni-koeln.de/pandora
 engine: erb
 paginate: 10
 paginate_files:
