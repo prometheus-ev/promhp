@@ -15,14 +15,14 @@ SetEnvIf REDIRECT_LANG        \A<%= lang_ext %>\z prefer-language=$1
 Header append Vary Cookie
 
 # Blog
-RewriteRule \Ablog/articles.rss /atom.xml [L,R=permanent]
+RewriteRule \Ablog/articles\.(?:rss|atom) /atom.xml [L,R=permanent]
 RewriteRule \Ablog<%= multiview_ext %>(?:/\d+){3}(/.+) /blog$1 [L,R=permanent]
 
 # Typo3
 RewriteCond %{QUERY_STRING} (?:\A|&)cHash=([\da-f]+)(?:&|\z) [OR]
 RewriteCond %{QUERY_STRING} (?:\A|&)id=(\d+)(?:&|\z)
 RewriteRule .* ${prom-old-to-new:%1|/}? [L,R=permanent]
-RewriteRule \Aindex\.php\z /? [L,R=permanent]
+RewriteRule \A(?:t3pro|index\.php\z) /? [L,R=permanent]
 
 # Code login
 RewriteRule \Acode<%= multiview_ext %>(?:\z|/) <%=p 'code' %> [L,R]
