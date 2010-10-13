@@ -27,7 +27,7 @@ h4(#publishing). Publizieren - Sich über das Bildrecht informieren und die Bild
 
 Direkt am Bild finden Sie einen Link zum Bildrecht des jeweiligen Bildes, der darüber aufklärt, welche Rechte für eine Publikation einzuholen sind. In einigen Fällen gibt es die Möglichkeit die Publikationsgenehmigung zu einem Bild direkt über prometheus einzuholen.
 
-Für die Verwendung der Bilder in Forschung und Lehre hat prometheus mit der "VG Bild-Kunst":http://bildkunst.de/ einen Vertrag geschlossen, der zum einen die Zugänglichmachung der Bilder in prometheus durch die verschiedenen Bilddatenbanken erlaubt und zum anderen die Verwendung für Forschung und Lehre gestattet (s. auch "» Bildrecht und Publikation":<%=r 'copyright' %>).
+Für die Verwendung der Bilder in Forschung und Lehre hat prometheus mit der "VG Bild-Kunst":http://www.bildkunst.de/ einen Vertrag geschlossen, der zum einen die Zugänglichmachung der Bilder in prometheus durch die verschiedenen Bilddatenbanken erlaubt und zum anderen die Verwendung für Forschung und Lehre gestattet (s. auch "» Bildrecht und Publikation":<%=r 'copyright' %>).
 
 h4(#researching). Forschen - Suchen, Sammeln, Annotieren, Bilder verknüpfen und Motive kennzeichnen
 

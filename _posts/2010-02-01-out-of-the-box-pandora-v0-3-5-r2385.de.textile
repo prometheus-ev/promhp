@@ -5,7 +5,7 @@ title: "Out of the box: pandora v0.3.5 (r2386)"
 ---
 <em>English summary <a href="#english-1265017300">below</a>.</em>
 
-Dies ist nur ein kleines Update, das in erster Linie <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=02%2F01%2F10&daysback=10">ein paar Fehlerbereinigungen</a> nachschiebt, die zum Teil beim <a href="<%=r 'post/out-of-the-box-pandora-v0-3-4-r2353' %>">letzten Mal</a> durchgerutscht sind, zum Teil aber auch schon länger bestehen und nur nicht ganz so dringend waren.
+Dies ist nur ein kleines Update, das in erster Linie <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=02%2F01%2F10&daysback=10">ein paar Fehlerbereinigungen</a> nachschiebt, die zum Teil beim <a href="<%=r 'blog/out-of-the-box-pandora-v0-3-4-r2353' %>">letzten Mal</a> durchgerutscht sind, zum Teil aber auch schon länger bestehen und nur nicht ganz so dringend waren.
 
 <ul>
   <li><strong>Sortieren von Bildsammlungen nach Besitzer</strong><br />

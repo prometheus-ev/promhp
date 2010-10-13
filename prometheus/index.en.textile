@@ -27,7 +27,7 @@ h4(#publishing). Publishing - Inform yourself about copyrights and publish image
 
 Next to any image you will find a link which leads you to the copyright information of the particular image. There you can research what is necessary to obtain the consent of the copyright-holder. In some cases there will be the opportunity to obtain the permission for publication directly through prometheus.
 
-In order to use the images for research and education, prometheus cooperates with the "VG Bild-Kunst":http://bildkunst.de/ which allows both access to the images of the different databases through prometheus and the utilization of the images for research and education (see "» Copyrights and Publication":<%=r 'copyright' %>).
+In order to use the images for research and education, prometheus cooperates with the "VG Bild-Kunst":http://www.bildkunst.de/ which allows both access to the images of the different databases through prometheus and the utilization of the images for research and education (see "» Copyrights and Publication":<%=r 'copyright' %>).
 
 h4(#researching). Researching - Search, collect, annotate, connect images and mark motives
 

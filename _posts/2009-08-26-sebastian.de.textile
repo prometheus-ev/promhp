@@ -5,6 +5,6 @@ title: Sebastian
 ---
 Aus der Kategorie <em>Neuigkeiten, die schon lange keine mehr sind</em>! Heute: <a href="http://prometheus.uni-koeln.de/pandora/account/show/sbessler">Sebastian</a> unser "neuer" Mitarbeiter.
 
-Es ist schon eine Weile her, da haben wir nach einer neuen <a href="<%=r 'post/wir-suchen-verstarkung' %>">Studentischen Hilfskraft gesucht</a>. Unsere Suche war erfolgreich, denn seit Anfang Juli verstärkt Sebastian unser Team in Sachen IT. Er studiert <a href="http://www.studium.fh-koeln.de/service/studienangebot/u/02713.php">Bibliothekswesen</a> an der <a href="http://www.fh-koeln.de/">FH Köln</a> und bringt einiges an informationstechnischem Know-How mit.
+Es ist schon eine Weile her, da haben wir nach einer neuen <a href="<%=r 'blog/wir-suchen-verstarkung' %>">Studentischen Hilfskraft gesucht</a>. Unsere Suche war erfolgreich, denn seit Anfang Juli verstärkt Sebastian unser Team in Sachen IT. Er studiert <a href="http://www.studium.fh-koeln.de/service/studienangebot/u/02713.php">Bibliothekswesen</a> an der <a href="http://www.fh-koeln.de/">FH Köln</a> und bringt einiges an informationstechnischem Know-How mit.
 
-Wir freuen uns, dass er dazu gestoßen ist und begrüßen ihn mit einem dreifachen hip-hip ach, so'n Quatsch. Hallo Sebastian.
+Wir freuen uns, dass er dazu gestoßen ist und begrüßen ihn mit einem dreifachen hip-hip... ach, so'n Quatsch. Hallo Sebastian.
