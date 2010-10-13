@@ -10,7 +10,7 @@ Was ist neu? Mit der Umgestaltung ist die Handhabung in allen Bereichen intuitiv
 
 Aber verschaffen Sie sich am besten selbst einen "Eindruck":http://www.prometheus-bildarchiv.de!
 
-Falls Sie Hilfe benötigen, konsultieren  Sie einfach "unsere Hilfeseiten":<%= pandora_url 'help' %> oder wenden Sie sich direkt an die "Geschäftsstelle":<%=r 'contact' %>.
+Falls Sie Hilfe benötigen, konsultieren  Sie einfach "unsere Hilfeseiten":<%=p 'help' %> oder wenden Sie sich direkt an die "Geschäftsstelle":<%=r 'contact' %>.
 
 Bis zum Ende des Jahres werden wir Ihnen eine Favoritenleiste zur Verfügung stellen, in der Sie alles, was Sie für den Schnellzugriff benötigen, ablegen können. Das kann z.B. eine bestimmte Suche oder Präsentation sein, eine Liste der Bildsammlungen - gefiltert nach ausgewählten Kriterien, oder ein individuelles Bild.
 
