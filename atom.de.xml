@@ -5,7 +5,7 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><%= @site.title %></title>
-  <link href="<%= "#{@site.url}/#{@page.lang}/atom" %>" rel="self"/>
+  <link href="<%= "#{@site.url}/atom.xml.#{@page.lang}" %>" rel="self"/>
   <link href="<%= @site.url %>"/>
   <updated><%= date_to_xmlschema(@site.time) %></updated>
   <id><%= @site.url %></id>
