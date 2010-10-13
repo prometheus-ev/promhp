@@ -202,7 +202,7 @@
   height:            120px;
 }
 
-.section-item > div, .section-item > div > p:last-child {
+.section-item > p {
   display:           inline;
 }
 

@@ -847,7 +847,7 @@ table.resourceful-list th {
 
 div.metadata th {
   padding-left:      1em;
-  width:             1em;
+  width:             9em;
   border:            none;
   white-space:       nowrap;
 }
@@ -959,14 +959,6 @@ table.list td.dummy + td.metadata {
 table.resourceful-list td.metadata {
   padding-left:      20px;
   padding-right:     0;
-}
-
-body.image-controller.show-action div.metadata {
-  margin-left:       35px;
-}
-
-body.image-controller.show-action .compact div.metadata {
-  margin-left:       0;
 }
 
 div.image_list div.list_row {
@@ -1165,7 +1157,7 @@ div.slide input[type=radio] {
   margin:            10px;
 }
 
-.compact #details-section div.section {
+body.image-controller.show-action #details-section div.section {
   width:             auto;
 }
 
@@ -1554,8 +1546,18 @@ body.translate-controller .summary-line {
 }
 
 body.translate-controller .summary-line span.dim,
-body.translate-controller .list_row textarea + textarea {
+body.translate-controller .list_row textarea + textarea,
+body.translate-controller .list_row textarea + form {
   margin-left:       6px;
+}
+
+body.translate-controller .list_row textarea,
+body.translate-controller .list_row form {
+  float:             left;
+}
+
+body.translate-controller .list_row input[type=submit] {
+  border-width:      1px;
 }
 
 .access_status img {
@@ -1597,7 +1599,8 @@ body.administration-controller.index-action .section-links {
 }
 
 .search_query .reset-link {
-  margin-left:       0.5em;
+  display:           inline-block;
+  margin:            5px 0 0 0.5em;
 }
 
 .pagination, .sort_links, .per_page, .result_view, .toggle_zoom {
