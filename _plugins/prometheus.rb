@@ -195,12 +195,6 @@ module Jekyll
         " #{paginator_next_link} #{paginator_last_link}"
     end
 
-    def local_posts
-      posts, lang = @site.posts, @page.lang
-      posts.delete_if { |post| post.lang != lang } if lang
-      return posts
-    end
-
   end
 
   class Pagination
