@@ -84,6 +84,7 @@
   margin-top:        2px;
 }
 
+#login_wrap + #navigation,
 #campus_login_wrap + #navigation {
   margin-top:        1px;
 }
