@@ -12,9 +12,9 @@ Nachdem das Herunterladen einzelner Bilder <a href="<%=r 'blog/neues-release-pan
   <li><strong>Die Hilfe ist nun übersichtlicher.</strong>
   Bisher bestand die <a href="http://prometheus.uni-koeln.de/pandora/help">Hilfe zu pandora</a> aus einer einzigen großen Seite. Das Springen zu einzelnen Themen innerhalb der Hilfeseite war zwar möglich, doch optimal ist eindeutig anders.
   Nun gibt es zu jedem Themenschwerpunkt eine eigene Hilfeseite, die wie gehabt über den kontextbezogenen Hilfe-Link im Kopfbereich der Anwendung oder aber über den Hilfe-Index erreicht werden kann.</li>
-  <li><strong>Das Verhalten der Suche hat sich  äh  verändert.</strong>
+  <li><strong>Das Verhalten der Suche hat sich - äh - verändert.</strong>
   Kein leichtes Thema, aber ich fange einfach mal an, wo es auch für uns angefangen hat, nämlich mit Feedback (Danke dafür!). Wir wurden auf ein Fehlverhalten unserer Suche aufmerksam gemacht. Bei komplexen Suchanfragen, die aus verschiedenen, mit <em>UND</em> und <em>ODER</em> (<a href="http://de.wikipedia.org/wiki/Boolescher_Operator">Operatoren</a>) verknüpften Suchbegriffen bestehen, wurde die Suche falsch ausgeführt. Im Rahmen der Fehlerbehebung stellte sich für uns dann die Frage, wie wir die <a href="http://de.wikipedia.org/wiki/Operatorrangfolge#Rangfolge_unterschiedlicher_Operatoren">Rangfolge</a> unserer Operatoren festlegen sollen, was in etwa vergleichbar ist mit der bekannten Konvention <a href="http://de.wikipedia.org/wiki/Punkt_vor_Strich">Punkt- vor Strichrechnung</a>.
-  Uns erschien es am sinnvollsten, das Verhalten unserer Suche dahingehend zu ändern, dass <em>ODER</em> stärker bindet als <em>UND NICHT</em>, was wiederum stärker bindet als <em>UND</em>. Genauere Informationen finden Sie auf (tada!) der <a href="http://prometheus.uni-koeln.de/pandora/help/syntax#boolean_operators">Hilfeseite zum Thema</a>.
+  Uns erschien es am sinnvollsten, das Verhalten unserer Suche dahingehend zu ändern, dass <em>ODER</em> stärker bindet als <em>UND NICHT</em>, was wiederum stärker bindet als <em>UND</em>. Genauere Informationen finden Sie auf (tada!) der <a href="http://prometheus.uni-koeln.de/pandora/help/syntax#operators">Hilfeseite zum Thema</a>.
   </li>
 </ul>
 

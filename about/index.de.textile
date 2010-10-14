@@ -9,7 +9,7 @@ h2. <%= page_title %>
 h3. prometheus als bmbf-Projekt
 
 
-Als bundesweites Verbundprojekt startete "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" am 01. April 2001. Es wurde vom Bundesministerium für Bildung und Forschung (bmb+f) im Rahmen des Förderprogramms "Neue Medien in der Bildung":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/ mit insgesamt 1,8 Mio. EUR gefördert. Der "Projektträger":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/httpstatus-404/6848_read-6936/ "Neue Medien in der Bildung" war dem Deutschen Institut für Luft- und Raumfahrt (DLR) angeschlossen.
+Als bundesweites Verbundprojekt startete "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" am 01. April 2001. Es wurde vom Bundesministerium für Bildung und Forschung (bmb+f) im Rahmen des Förderprogramms "Neue Medien in der Bildung":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/ mit insgesamt 1,8 Mio. EUR gefördert. Der "Projektträger":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/6848_read-6936/ "Neue Medien in der Bildung" war dem Deutschen Institut für Luft- und Raumfahrt (DLR) angeschlossen.
 
 
 

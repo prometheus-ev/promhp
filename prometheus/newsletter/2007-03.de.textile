@@ -58,7 +58,7 @@ Die Kurzvorträge dienen sowohl der Information als auch der Anregung zum Erfahr
 
 Der workshop richtet sich vor allem an diejenigen, die bereits eine Bilddatenbank in prometheus einbringen oder eine zukünftige Zusammenarbeit in Erwägung ziehen. Wir freuen uns über eine rege Teilnahme und einen informationsreichen Austausch
 
-Das Programm zur Tagung finden Sie auf unserer website: "www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de, Anfragen über "info@prometheus-bildarchiv.de":info@prometheus-bildarchiv.de und per Telefon 0221-470-4476
+Das Programm zur Tagung finden Sie auf unserer website: "www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de, Anfragen über "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de und per Telefon 0221-470-4476
 Um Anmeldung wird baldmöglichst, spätestens aber bis zum 25.10. gebeten. Die Teilnahme an der Tagung ist kostenlos.
 
 
@@ -66,7 +66,7 @@ Um Anmeldung wird baldmöglichst, spätestens aber bis zum 25.10. gebeten. Die T
 *3.) Neue archäologische Datenbank eingebunden*
 
 In diesem Sommer konnte die gut 2.100 Bilder umfassende Datenbank des Instituts für Klassische Archäologie der Universität Heidelberg angeschlossen werden. Der pragmatisch aus dem Kontext von Forschung und Lehre aufgebaute Bestand ist ein willkommener Zuwachs für den archäologischen Bilderfundus in prometheus.
-Mehr Informationen: "http://www.ub.uni-heidelberg.de/helios/digi/heidicon-archaeologie.html":http://www.ub.uni-heidelberg.de/helios/digi/heidicon-archaeologie.html
+Mehr Informationen: "http://www.ub.uni-heidelberg.de/helios/digi/heidicon_arch.html":http://www.ub.uni-heidelberg.de/helios/digi/heidicon_arch.html
 
 
 
@@ -86,7 +86,7 @@ Aktuell können 442.090 Bilder aus 41 Datenbanken über prometheus gefunden werd
 
 Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
 - als Privatperson an die prometheus-Geschäftsstelle
-- als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":inhalte@hbz-nrw.de
+- als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de
 
 Eine Liste aller bereits eine Lizenz haltenden Institutionen finden Sie auf der prometheus-website unter "Bildarchiv" > "Anmeldung und Lizenzen"
 

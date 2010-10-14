@@ -43,15 +43,16 @@ Die Graphische Sammlung der Universitätsbibliothek Heidelberg besteht aus Ansic
 Mehr Informationen: "http://www.ub.uni-heidelberg.de/allg/benutzung/bereiche/handschriften/graphischesammlung.html":http://www.ub.uni-heidelberg.de/allg/benutzung/bereiche/handschriften/graphischesammlung.html
 
 Hinzu kamen auch zwei Bilddatenbanken des Seminars für Ägyptologie der Universität Heidelberg: Die 729 Datensätze umfassende ehemalige Diathek hält Bilder vor zu Monumenten und Objekten aus allen Epochen des altägyptischen Reiches. Die 1.162 Datensätze des ägyptologischen Archivs dokumentieren die Badische Grabung von Ranke (1912-13) und die Ausgrabungen an den Ramessidischen Gräbern in Theben (seit 1977).
-Mehr Informationen: "http://www.ub.uni-heidelberg.de/helios/digi/heidicon_aegyptologie.html":http://www.ub.uni-heidelberg.de/helios/digi/heidicon_aegyptologie.html
+Mehr Informationen: "http://www.ub.uni-heidelberg.de/helios/digi/heidicon_aegypt_dia.html":http://www.ub.uni-heidelberg.de/helios/digi/heidicon_aegypt_dia.html
+und "http://www.ub.uni-heidelberg.de/helios/digi/heidicon_aegypt_archiv.html":http://www.ub.uni-heidelberg.de/helios/digi/heidicon_aegypt_archiv.html
 
 
 Eingebunden wurden zudem die 10.755 Bilder vorhaltende Datenbank des Instituts für Europäische Kunstgeschichte sowie die virtuelle Diathek des Zentrums für Ostasienwissenschaften mit 754 Datensätzen zur Kunst- und Kulturgeschichte Ostasiens, beide Universität Heidelberg.
-Mehr Informationen: "http://www.ub.uni-heidelberg.de/helios/digi/heidicon_iek.html":http://www.ub.uni-heidelberg.de/helios/digi/heidicon_iek.html
-und "http://www.ub.uni-heidelberg.de/helios/digi/heidicon_ostasien.html":http://www.ub.uni-heidelberg.de/helios/digi/heidicon_ostasien.html
+Mehr Informationen: "http://www.ub.uni-heidelberg.de/helios/digi/heidicon_eurkg.html":http://www.ub.uni-heidelberg.de/helios/digi/heidicon_eurkg.html
+und "http://www.ub.uni-heidelberg.de/helios/digi/heidicon_zo.html":http://www.ub.uni-heidelberg.de/helios/digi/heidicon_zo.html
 
 Fast 27.000 Bilder bringt die Datenbank des Architekturmuseums der TU Berlin in prometheus ein. Die in der Berliner Universitätsbibliothek verwahrte Sammlung von Architekturzeichnungen ist eine der ältesten ihrer Art. Die meisten der sukzessive auch in digitalisierter Form erschlossenen Blätter stammen von preußischen Architekten des 19. und 20. Jahrhunderts.
-Mehr Informationen: "http://www.ub.tu-berlin.de/architekturmuseum/index.html":http://www.ub.tu-berlin.de/architekturmuseum/index.html
+Mehr Informationen: "http://architekturmuseum.ub.tu-berlin.de":http://architekturmuseum.ub.tu-berlin.de
 
 
 

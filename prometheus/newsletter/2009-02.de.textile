@@ -32,7 +32,7 @@ Wir danken Ihnen an dieser Stelle herzlich für Ihre Unterstützung durch zahlre
 
 *2.) Umfrage*
 
-Ein Jahr pandora - diesen ersten Geburtstag nehmen wir gerne zum Anlass, Sie zu Ihren Erfahrungen und Wünschen hinsichtlich des Bildarchivs zu befragen. Unsere noch bis Ende Mai laufende Umfrage erreichen Sie unter: "<http://www.onlineumfragen.de/login.cfm?umfrage=11728>":http://www.onlineumfragen.de/login.cfm?umfrage=11728
+Ein Jahr pandora - diesen ersten Geburtstag nehmen wir gerne zum Anlass, Sie zu Ihren Erfahrungen und Wünschen hinsichtlich des Bildarchivs zu befragen. Unsere noch bis Ende Mai laufende Umfrage erreichen Sie unter: "http://www.onlineumfragen.de/login.cfm?umfrage=11728":http://www.onlineumfragen.de/login.cfm?umfrage=11728
 Wir freuen uns, wenn Sie sich ein wenig Zeit für die Beantwortung der Fragen nehmen. Sie helfen damit uns und allen NutzerInnen, prometheus nach Ihren Wünschen und Bedürfnissen zu gestalten!
 Die Umfrage-Ergebnisse werden wir Ihnen nach der Auswertung selbstverständlich mitteilen und die zukünftigen Entwicklungen daraufhin anpassen.
 
@@ -40,17 +40,17 @@ Die Umfrage-Ergebnisse werden wir Ihnen nach der Auswertung selbstverständlich 
 
 *3.) prometheus bloggt*
 
-Seit wenigen Tagen ist unter "<http://prometheus-bildarchiv.de/blog>":<%=r 'blog' %> unser neues Weblog zu erreichen. Wir wollen versuchen, die vielen Prozesse in und um prometheus transparent zu machen. Besonders wichtig ist uns dabei der persönliche Dialog mit unseren Nutzerinnen und Nutzern. Denn nur durch direkte Kommunikation können wir das Archiv für alle weiter entwickeln und dabei immer Ihre Anforderungen im Auge behalten. Deshalb freuen wir uns über Ihre Kommentare im Blog!
+Seit wenigen Tagen ist unter "http://prometheus-bildarchiv.de/blog":<%=r 'blog' %> unser neues Weblog zu erreichen. Wir wollen versuchen, die vielen Prozesse in und um prometheus transparent zu machen. Besonders wichtig ist uns dabei der persönliche Dialog mit unseren Nutzerinnen und Nutzern. Denn nur durch direkte Kommunikation können wir das Archiv für alle weiter entwickeln und dabei immer Ihre Anforderungen im Auge behalten. Deshalb freuen wir uns über Ihre Kommentare im Blog!
 
 
 
 4.) Zusammenarbeit mit dem Historischen Archiv der Stadt Köln
 
-Wie in der letzten Sondernummer unseres Newsletters berichtet, hat prometheus unmittelbar nach dem Einsturz des Historischen Archivs der Stadt Köln die Initiative "Das digitale Historische Archiv Köln" gestartet. Wir haben WissenschaftlerInnen, HeimatforscherInnen, BesucherInnen und Freunde des Kölner Stadtarchivs aufgerufen, ihre Unterlagen nach Kopien der Kölner Bestände zu durchsuchen und diese unter "<http://www.historischesarchivkoeln.de>":http://www.historischesarchivkoeln.de einzustellen. Die Idee war und ist, durch ein digitales Archiv die Zugänglichkeit eines großen Teils der Kölner Archivalien weiterhin zu gewährleisten.
+Wie in der letzten Sondernummer unseres Newsletters berichtet, hat prometheus unmittelbar nach dem Einsturz des Historischen Archivs der Stadt Köln die Initiative "Das digitale Historische Archiv Köln" gestartet. Wir haben WissenschaftlerInnen, HeimatforscherInnen, BesucherInnen und Freunde des Kölner Stadtarchivs aufgerufen, ihre Unterlagen nach Kopien der Kölner Bestände zu durchsuchen und diese unter "http://www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de einzustellen. Die Idee war und ist, durch ein digitales Archiv die Zugänglichkeit eines großen Teils der Kölner Archivalien weiterhin zu gewährleisten.
 Inzwischen haben wir einen Kooperationsvertrag mit der Stadt Köln abgeschlossen, der die rechtliche Grundlage für den Ausbau des digitalen Historischen Archivs Köln bietet.
 Der Kooperationsvertrag erlaubt allen, ihre Kopien und digitalen Bilder in "Das digitale Historische Archiv Köln" einzustellen. Darüber hinaus regelt der Kooperationsvertrag die enge Zusammenarbeit und anschließende Übergabe an das Historische Archiv der Stadt Köln - unter Wahrung des Portalcharakters und als ein offenes Bürgerarchiv.
 Eingedenk der außerordentlichen Situation war dies nur möglich, weil alle Beteiligten von der Tragweite und dem Nutzen dieser Initiative für das Historische Archiv der Stadt Köln überzeugt sind.
-Wir rufen weiterhin dazu auf, diese Initiative zu unterstützen. Besuchen Sie also gerne die Website "<http://www.historischesarchivkoeln.de>":http://www.historischesarchivkoeln.de! Schauen Sie sich an, was schon geschehen ist, und helfen Sie uns nach Ihren Möglichkeiten!
+Wir rufen weiterhin dazu auf, diese Initiative zu unterstützen. Besuchen Sie also gerne die Website "http://www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de! Schauen Sie sich an, was schon geschehen ist, und helfen Sie uns nach Ihren Möglichkeiten!
 
 
 
@@ -65,10 +65,10 @@ Das prometheus-Bildarchiv fungiert als Recherche- und Arbeitsinstrument für das
 *6.) prometheus integriert vier neue Datenbanken*
 
 In der jüngeren Vergangenheit konnten vier neue Datenbanken in das Bildarchiv integriert werden.
-[1] Die Fotothek der Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg sammelt und bewahrt ältere und gegenwärtige Aufnahmen der preußischen Schlösser und Gärten sowie der darin befindlichen Kunstsammlungen. Die Sammlung der Fotothek bzw. des Bildarchivs verfügt damit über ein Bildmaterial, das für die kunst- und kulturhistorische Forschung von herausragendem Wert ist. Derzeit erweitern die historischen Originalaufnahmen von 1894 bis 1945 den Bilderpool von prometheus.
-[2] Mit der Erlanger Datenbank RUDI hat prometheus die erste Datenbank der Christlichen Archäologie integriert. Über 13.000 Datensätze aus RUDI sind schon in prometheus recherchierbar.
-[3] Die Virtuelle Diathek der Kunstgeschichtlichen Seminars der Universität Hamburg hat ihr Datenmaterial zur Verfügung gestellt und erweitert mit knapp 8.000 Bildern das Bildarchiv.
-[4] Außerdem konnten wir die erste promDILPS-Datenbank in prometheus überführen. Das Institut für Kunstgeschichte der Universität Leipzig nutzt den angebotenen Service, um sein Bildmaterial in eine von prometheus zur Verfügung gestellte Datenbank einzustellen.
+# Die Fotothek der Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg sammelt und bewahrt ältere und gegenwärtige Aufnahmen der preußischen Schlösser und Gärten sowie der darin befindlichen Kunstsammlungen. Die Sammlung der Fotothek bzw. des Bildarchivs verfügt damit über ein Bildmaterial, das für die kunst- und kulturhistorische Forschung von herausragendem Wert ist. Derzeit erweitern die historischen Originalaufnahmen von 1894 bis 1945 den Bilderpool von prometheus.
+# Mit der Erlanger Datenbank RUDI hat prometheus die erste Datenbank der Christlichen Archäologie integriert. Über 13.000 Datensätze aus RUDI sind schon in prometheus recherchierbar.
+# Die Virtuelle Diathek der Kunstgeschichtlichen Seminars der Universität Hamburg hat ihr Datenmaterial zur Verfügung gestellt und erweitert mit knapp 8.000 Bildern das Bildarchiv.
+# Außerdem konnten wir die erste promDILPS-Datenbank in prometheus überführen. Das Institut für Kunstgeschichte der Universität Leipzig nutzt den angebotenen Service, um sein Bildmaterial in eine von prometheus zur Verfügung gestellte Datenbank einzustellen.
 
 
 
@@ -87,4 +87,4 @@ Für Ihre Fragen und Anregungen ist selbstverständlich auch unsere prometheus-G
 Die prometheus-Geschäftsstelle in Köln ist besetzt: Mo-Fr, jeweils 10-18 Uhr. Telefon: 0221-470 4476, Telefax: 0221-470 5044, "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
 
 
-Redaktion: PD Dr. Sigrid Ruby ("sigrid.ruby@geschichte.uni-giessen.de":mailtosigrid.ruby@geschichte.uni-giessen.de)
+Redaktion: PD Dr. Sigrid Ruby ("sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de)

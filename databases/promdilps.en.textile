@@ -11,7 +11,7 @@ Do you have a small supply of digital image files, but the complexity of an imag
 
 
 
-New:  "DILPS-FAQ":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/Index.php/DILPS-FAQ on the DILPS website
+New:  "DILPS-FAQ":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/DILPS-FAQ on the DILPS website
 
 | !<%=r 'files/images/a0a80639ef.jpg' %>!:<%=r 'files/images/f54408615b.jpg' %> | !<%=r 'files/images/62a1d35746.jpg' %>!:<%=r 'files/images/5c060fef62.jpg' %> | !<%=r 'files/images/8c239c26ae.jpg' %>!:<%=r 'files/images/3026bbea05.jpg' %> |
 | Retrieval | Edit | Overview |

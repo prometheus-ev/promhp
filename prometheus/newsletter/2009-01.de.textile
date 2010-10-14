@@ -50,7 +50,7 @@ Die Koordination des Projekts liegt bei "prometheus" ("www.prometheus-bildarchiv
 
 Ansprechpartner sind:
 
-PD Dr. Holger Simon (prometheus e.V.) und Dr. Andreas Rutz (Abt. f. Rhein. Landesgeschichte), E-Mail: "info@historischesarchivkoeln.de":info@historischesarchivkoeln.de
+PD Dr. Holger Simon (prometheus e.V.) und Dr. Andreas Rutz (Abt. f. Rhein. Landesgeschichte), E-Mail: "info@historischesarchivkoeln.de":mailto:info@historischesarchivkoeln.de
 
 
 

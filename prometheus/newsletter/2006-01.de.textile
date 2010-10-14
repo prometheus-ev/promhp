@@ -47,7 +47,7 @@ Das Veranstaltungsprogramm und weitere Informationen finden Sie unter "www.prome
 
 In den vergangenen Monaten konnten zwei neue Institutsdatenbanken eingebunden werden.
 Das ist zum einen die mit DILPS aufgebaute Datenbank der Kunstgeschichte an der Universität Trier. Sie umfasst etwa 4.000 Bilder und hat Schwerpunkte in den Bereichen Neue Medien, Photographie, Gender und Post Colonial Studies.
-Ansprechpartner vor Ort ist Dr. Georg Schelbert ("schelbert@uni-trier.de":schelbert@uni-trier.de)
+Ansprechpartner vor Ort ist Dr. Georg Schelbert ("schelbert@uni-trier.de":mailto:schelbert@uni-trier.de)
 
 Die zweite Datenbank nutzt die Software ImageAccess und kommt vom Institut für Kunstgeschichte der Universität Mainz. Sie bringt gegenwärtig über 7.300 neue Bilder in prometheus ein. Der Schwerpunkte liegt auf Sakral- und Profanarchitektur, vor allem in Frankreich und Deutschland.
 Ansprechpartner vor Ort ist Dr. Klaus T. Weber ("klweber@mail.uni-mainz.de":mailto:klweber@mail.uni-mainz.de).

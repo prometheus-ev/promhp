@@ -56,7 +56,7 @@ Was können Sie tun?
 Diese finden Sie unter:
 
 
-"www.prometheus-bildarchiv.de/downloads/prometheus_Stellungnahme.pdf":http://www.prometheus-bildarchiv.de/downloads/prometheus_Stellungnahme.pdf
+"www.prometheus-bildarchiv.de/files/text/prometheus_Stellungnahme.pdf":http://www.prometheus-bildarchiv.de/files/text/prometheus_Stellungnahme.pdf
 
 
 "www.urheberrechtsbuendnis.de/docs/ABStellungnahmeKorb2.pdf":http://www.urheberrechtsbuendnis.de/docs/ABStellungnahmeKorb2.pdf
