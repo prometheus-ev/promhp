@@ -97,7 +97,7 @@ Zu der Befragung gelangen Sie entweder über die homepage der Datenbank:
 "http://www.bbf.dipf.de/VirtuellesBildarchiv/":http://www.bbf.dipf.de/VirtuellesBildarchiv/
 
 oder direkt über diesen link:
-"http://www.befrager.de/befragung.aspx?projekt=2230":v
+"http://www.befrager.de/befragung.aspx?projekt=2230":http://www.befrager.de/befragung.aspx?projekt=2230
 
 Sollten Sie weitere Fragen zu dieser online-Befragung haben, kontaktieren Sie bitte:
 "nicole.teschle@fh-potsdam.de":mailto:nicole.teschle@fh-potsdam.de
@@ -112,7 +112,7 @@ Derzeit können 370.524 Bilder aus 34 Datenbanken über prometheus recherchiert 
 
 Wenn Sie am Erwerb einer Lizenz interessiert sind, wenden Sie sich bitte
 - als Privatperson an die prometheus-Geschäftsstelle
-- als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":inhalte@hbz-nrw.de.
+- als Vertreter/in einer Hochschule oder Institution an das HBZ in Köln, Dr. Silke Schomburg, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de.
 
 
 

@@ -8,7 +8,7 @@ h2. <%= page_title %>
 
 h3. prometheus as a bmbf-Projekt
 
-"prometheus - The Distributed Digital Image Archive for Research and Studies" started on April 1, 2001 as a cooperative project in Germany. Within the frame work of "New Media in Education":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/, prometheus was supported by the Federal Ministry for Education and Research (bmb+f) with a total amount of 1.8 Mio. €. The "project's executing organization, "New Media in Education":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/httpstatus-404/6848_read-6936/ was associated with the German Institute for Aerospace industry (DLR).
+"prometheus - The Distributed Digital Image Archive for Research and Studies" started on April 1, 2001 as a cooperative project in Germany. Within the frame work of "New Media in Education":http://www.dlr.de/pt/desktopdefault.aspx/tabid-5882/9540_read-18559/, prometheus was supported by the Federal Ministry for Education and Research (bmb+f) with a total amount of 1.8 Mio. €. The "project's executing organization, "New Media in Education":http://www.dlr.de/pt/desktopdefault.aspx/tabid-4270/6848_read-6936/ was associated with the German Institute for Aerospace industry (DLR).
 
 
 

@@ -104,11 +104,11 @@ Das Werkzeug, mit dem Sie aus Ihren lokal verfügbaren Bildern ohne Programmvork
 *5.) Tagungen in Gießen, Berlin, London und Dresden*
 
 Hessisches eLearning Symposium 2005 in Gießen, 10. Oktober
-Das 2. hessenweite eLearning Symposium stand unter der Überschrift "Bestandsaufnahme, Entwicklungen und Perspektiven". Neben Impulsvorträgen und einem Projektmarkt fanden Gespräche in Fachforen statt. Darin wurden nicht nur die Tendenzen und die Effizienz in eLearning-Projekten diskutiert, sondern auch erste Schritte zu hochschulübergreifenden Kooperationen eingeleitet. Weitere Informationen: "http://www.e-learning-hessen.de/symposium05/Dokumentation.htm":http://www.e-learning-hessen.de/symposium05/Dokumentation.htm
+Das 2. hessenweite eLearning Symposium stand unter der Überschrift "Bestandsaufnahme, Entwicklungen und Perspektiven". Neben Impulsvorträgen und einem Projektmarkt fanden Gespräche in Fachforen statt. Darin wurden nicht nur die Tendenzen und die Effizienz in eLearning-Projekten diskutiert, sondern auch erste Schritte zu hochschulübergreifenden Kooperationen eingeleitet. Weitere Informationen: "http://www.e-learning-hessen.de/de/veranstaltungen/symposium-2005/":http://www.e-learning-hessen.de/de/veranstaltungen/symposium-2005/
 
 
 EVA 2005, Workshop "Blind Date", Berlin, 9. November
-Im Rahmen der jährlichen EVA in Berlin versammelte der Workshop "Blind Date - Das digitale Bild zwischen Erschließungsstrategie und Benutzerinteresse" zahlreiche Fachleute aus Museen und Bildarchiven. Themen waren u.a. die automatische Bildinhaltserkennung (Content Based Retrieval, das für anspruchsvolle Aufgaben weiterhin nicht ausgereift ist), aktuelle und interessante Möglichkeiten der Geo-Referenz von Objekten, die Verwendung von (und Werbung für) Referenzdateien wie Iconclass und der SWD sowie das Online-Angebot von kommerziellen Bildagenturen (am Beispiel Corbis) und nicht-kommerziellen Bildarchiven (DILPS, prometheus). Informationen und Programm unter: "http://www.gfai.de/pinboard/eva/www.gfai.de/pinboard/eva/":http://www.gfai.de/pinboard/eva/www.gfai.de/pinboard/eva/.
+Im Rahmen der jährlichen EVA in Berlin versammelte der Workshop "Blind Date - Das digitale Bild zwischen Erschließungsstrategie und Benutzerinteresse" zahlreiche Fachleute aus Museen und Bildarchiven. Themen waren u.a. die automatische Bildinhaltserkennung (Content Based Retrieval, das für anspruchsvolle Aufgaben weiterhin nicht ausgereift ist), aktuelle und interessante Möglichkeiten der Geo-Referenz von Objekten, die Verwendung von (und Werbung für) Referenzdateien wie Iconclass und der SWD sowie das Online-Angebot von kommerziellen Bildagenturen (am Beispiel Corbis) und nicht-kommerziellen Bildarchiven (DILPS, prometheus). Informationen und Programm unter: "http://www.gfai.de/pinboard/eva/":http://www.gfai.de/pinboard/eva/.
 
 
 CHArt-Konferenz in London, 10.-11. November
@@ -164,7 +164,7 @@ Die prometheus-Geschäftsstelle ist besetzt: Mo, Mi, Do und Fr, jeweils 10-13 Uh
 Impressum
 
 Der nächste Newsletter (2006/01) erscheint voraussichtlich im März 2006.
-Redaktion: "sigrid.ruby@geschichte.uni-giessen.de":sigrid.ruby@geschichte.uni-giessen.de
+Redaktion: "sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de
 
 prometheus e.V.-Geschäftsstelle
 Kunsthistorisches Institut der Universität zu Köln
