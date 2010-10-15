@@ -1,0 +1,10 @@
+---
+layout: series
+title: Johannes Vermeer van Delft
+subtitle: Vermeer und die "Schilderkunst"
+author: Hendrikje Hüneke
+date: 2010/10/15
+---
+Im Mittelpunkt der Dresdner Ausstellung steht die Erkundung des Malprozesses bei Vermeer. Um die Stilfindung des Malers zu verdeutlichen, werden frühe Werke ("Diana und ihre Gefährtinnen", "Christus bei Maria und Martha" sowie das Bild "Bei der Kupplerin") Gemälden anderer Künstler gegenübergestellt, die als Vermeers Vorbilder erkannt werden oder die Eigenheiten Vermeers aufzeigen können. Höhepunkt der Ausstellung mag jedoch "Das Brieflesende Mädchen am offenen Fenster" sein, das in einem umfassenden Projekt untersucht worden ist. Durch ein begehbares Modell des Bildraumes, sollen die Komposition, die Raum-, und Beleuchtungskonzepte experimentell nachvollziehbar gemacht werden.
+
+*Der frühe Vermeer, 3. Sep. - 28. Nov. 2010, Gemäldegalerie Alte Meister, Dresden; "Ein Gemälde zum Begehen", "www.dresden-vermeer.de":http://www.dresden-vermeer.de/*

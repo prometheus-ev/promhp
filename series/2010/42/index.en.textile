@@ -1,0 +1,10 @@
+---
+layout: series
+title: Johannes Vermeer van Delft
+subtitle: Vermeer and the "Schilderkunst"
+author: Hendrikje Hüneke
+date: 2010/10/15
+---
+The "Girl reading a letter at an open window" might be the highlight of an exhibition in Dresden, which deals with Vermeers method of painting. The famous canvas was analysed in cooperation with the adult aducation centre, the academy of fine arts and the technical university in Dresden. The extensive project culminated in a passable reconstruction of the room, to make the pictorial composition comprehensible.
+
+*Der frühe Vermeer, 3. Sep. – 28. Nov. 2010, Gemäldegalerie Alte Meister, Dresden; "A walkable canvas", "www.dresden-vermeer.de":http://www.dresden-vermeer.de/*
