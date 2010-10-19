@@ -1,7 +1,9 @@
---- 
+---
 layout: post
 typo_id: 36
 title: Happy Holidays
+tags:
+- holidays
 ---
 Es wird still werden, in diesem Weblog.<br />
 Heute Nachmittag werde ich meine Sachen zusammenpacken und bis Anfang Januar in den Weihnachtsurlaub verschwinden. Die Fleißigeren von uns werden auch zwischen Weihnachten und Silvester hier sein, doch ob dabei noch ein Blogeintrag rum kommt, weiß ich nicht.

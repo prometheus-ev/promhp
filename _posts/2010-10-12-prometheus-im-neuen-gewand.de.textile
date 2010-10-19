@@ -2,6 +2,10 @@
 layout: post
 title: prometheus im neuen Gewand
 author: Lisa
+tags:
+- design
+- usability
+- relaunch
 ---
 !(bordered-image)<%=r 'files/blog/screenshot_collection_2010-10-12.png' %>(Screenshot Collection)!
 Was ist neu? Mit der Umgestaltung ist die Handhabung in allen Bereichen intuitiver, das Design fließender geworden. Die Übergänge von Farben und Formen erscheinen weicher und die einzelnen Bereiche sind besser auf einander abgestimmt. Funktionalitäten und Informationen treten erst dann prominent hervor, wenn sie gezielt angesteuert werden. Damit liegt der Fokus noch stärker auf den Bildern. Einzelne Bereiche sind ein- und ausklappbar. Damit haben Sie nun die Möglichkeit, nur den Arbeitsbereich zu öffnen, den Sie gerade benötigen. Außerdem haben wir die Homepage noch mehr an das Bildarchiv angepasst und einzelne Funktionalitäten weiter ausgebaut wie:

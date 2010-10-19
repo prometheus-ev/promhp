@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 33
 title: "Tipp: Mehr auf einen Blick"
+tags:
+- tipp
+- suche
 ---
 <img src="<%=r 'files/blog/galerie_treffer_pro_seite-1.png' %>" class="bordered-image" alt="Treffer pro Seite und Galerieansicht" />
 

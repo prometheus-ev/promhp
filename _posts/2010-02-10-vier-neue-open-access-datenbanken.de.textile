@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 40
 title: Vier neue Open-Access-Datenbanken
+tags:
+- open-access
+- datenbanken
 ---
 <strong>Die UB Heidelberg bringt vier neue Pools mit verschiedenen Schwerpunkten und fast 30.000 neuen Objekten ins Bildarchiv ein</strong>
 
@@ -14,5 +17,5 @@ Seine photographische Dokumentation dieser Reisen ist nicht nur für einen ethno
 
 Kirchenburgen ist eine Photodokumentation über befestigte Kirchenanlagen mit dem Schwerpunkt Baden-Württemberg. Es wird darin der heutige, vor Ort angetroffene Zustand ab dem Jahre 2003 festgehalten. Neben den wehrhaften Details, zu denen auch Rund- und Tortürme zählen, sind ebenfalls Übersichtsaufnahmen der heutigen Anlagen beigegeben, desgleichen vollständige Ansichten der (Kirch-) Türme wie auch der Kirchenschiffe (oder Langhäuser), so sie denn gotisches oder älteres Material enthalten, so das auch der reine Kunst- und Kirchenfreund etwas finden wird. Die Datenbank enthält knapp 2000 Datensätze, wird aber stetig weiter gefüllt.
 
-Ziel des Pools "Fliegende Blätter" ist die formale und inhaltliche Erschließung sämtlicher in der Satirezeitschrift Fliegende Blätter enthaltenen Illustrationen und Karikaturen. Die Bilderschließung erfolgt im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projektes: Digitalisierung und Erschließung illustrierter Kunst- und Satirezeitschriften des 19. und frühen 20. Jahrhunderts.
-Die Fliegenden Blätter enthalten Karikaturen, die sich über mehrere Seiten oder gar Hefte erstrecken. In prometheus gelangt man über einen Link neben dem Bild direkt zum externen Datensatz in HeidICON und damit zum Gesamtkontext der Abbildung. Bislang sind knapp 3000 Abbildungen integriert, die Datenbank wächst aber stetig weiter. 
+Ziel des Pools "Fliegende Blätter" ist die formale und inhaltliche Erschließung sämtlicher in der Satirezeitschrift "Fliegende Blätter" enthaltenen Illustrationen und Karikaturen. Die Bilderschließung erfolgt im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projektes: Digitalisierung und Erschließung illustrierter Kunst- und Satirezeitschriften des 19. und frühen 20. Jahrhunderts.
+Die Fliegenden Blätter enthalten Karikaturen, die sich über mehrere Seiten oder gar Hefte erstrecken. In prometheus gelangt man über einen Link neben dem Bild direkt zum externen Datensatz in HeidICON und damit zum Gesamtkontext der Abbildung. Bislang sind knapp 3000 Abbildungen integriert, die Datenbank wächst aber stetig weiter.

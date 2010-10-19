@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 21
 title: "Out of the box: pandora v0.2.1 (r1852)"
+tags:
+- update
+- pandora
 ---
 Gerade mal einen Tag nach <a href="<%=r 'blog/out-of-the-box-pandora-v0-2-0-r1839' %>">Version 0.2.0</a> wurde Version 0.2.1 nachgeschoben.
 

@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 31
 title: "Vier neue Datenbanken, eine davon frei zugänglich"
+tags:
+- datenbanken
+- open-access
 ---
 In den vergangenen Monaten haben wir vier neue, ganz unterschiedliche Datenbanken mit sehr interessanten und teilweise ganz neuen Schwerpunkten und Inhalten ins Bildarchiv integrieren können. Zuletzt das 'Lexikon der Revolutionsikonographie' - unsere erste 'open Access'-Datenbank. Weil hier keine urheberrechtlichen Ansprüche existieren, kann ganz ohne Anmeldung über prometheus recherchiert werden. Das "Lexikon" ist über <a href="http://prometheus.uni-koeln.de/pandora/open_access">http://prometheus.uni-koeln.de/pandora/open_access</a> für jeden erreichbar.
 

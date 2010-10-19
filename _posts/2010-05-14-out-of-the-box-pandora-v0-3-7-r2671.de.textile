@@ -1,6 +1,11 @@
 ---
 layout: post
 title: "Out of the box: pandora v0.3.7 (r2671)"
+tags:
+- pandora
+- update
+- api
+- oauth
 ---
 
 English summary <a href="#english-1273838082">below</a>.

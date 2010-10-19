@@ -1,7 +1,9 @@
---- 
+---
 layout: post
 typo_id: 35
 title: Designfortschritte
+tags:
+- design
 ---
 <img src="<%=r 'files/blog/SAMMELN_liste_01.png' %>" class="bordered-image" alt="pandora designvorschau" />
 

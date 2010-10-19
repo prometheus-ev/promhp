@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 17
 title: prometheus hat ein neues Zuhause
+tags:
+- prometheus
+- umzug
 ---
 <a href="<%=r 'files/blog/aussicht_panurama_1.jpg' %>"><img src="<%=r 'files/blog/aussicht_panurama_1_tmp.jpg' %>" class="bordered-image" alt="Aussicht aus dem neuen Büro" /></a>
 

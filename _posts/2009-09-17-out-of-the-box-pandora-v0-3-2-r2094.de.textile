@@ -1,7 +1,11 @@
---- 
+---
 layout: post
 typo_id: 28
 title: "Out of the box: pandora v0.3.2 (r2094)"
+tags:
+- update
+- pandora
+- security
 ---
 <em>English summary <a href="#summary">below</a>.</em>
 

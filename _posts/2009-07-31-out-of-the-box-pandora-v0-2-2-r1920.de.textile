@@ -1,7 +1,12 @@
---- 
+---
 layout: post
 typo_id: 23
 title: "Out of the box: pandora v0.2.2 (r1920)"
+tags:
+- update
+- pandora
+- rechnung
+- usability
 ---
 Knapp drei Wochen nach dem <a href="<%=r 'blog/out-of-the-box-pandora-v0-2-1-r1852' %>">letzten Update</a> hat sich wieder <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=07%2F31%2F09&daysback=20">ein bisschen was</a> getan in <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a>. Da Arne aber gerade im wohlverdienten Urlaub ist, will ich heute einmal versuchen, Ihnen die Änderungen nahe zu bringen ;-)
 

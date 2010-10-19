@@ -1,7 +1,9 @@
---- 
+---
 layout: post
 typo_id: 3
 title: Immer in Bewegung bleiben
+tags:
+- blog
 ---
 Nach dem Umstieg auf die eigens für das <a href="http://prometheus-bildarchiv.de/">prometheus-Bildarchiv</a> entwickelte Software <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a> vor einem Jahr hat sich einiges getan. Das System wurde stets weiterentwickelt. So können neue Benutzer ihre Zugänge nun zum Beispiel selbst einrichten oder das Archiv auch mehrsprachig durchsuchen.
 

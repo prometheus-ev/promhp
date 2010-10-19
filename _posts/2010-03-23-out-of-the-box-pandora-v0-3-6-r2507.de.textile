@@ -1,7 +1,11 @@
---- 
+---
 layout: post
 typo_id: 41
 title: "Out of the box: pandora v0.3.6 (r2507)"
+tags:
+- pandora
+- update
+- bildsammlungen
 ---
 <em>English summary <a href="#english-1269344293">below</a>.</em>
 

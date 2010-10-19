@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 typo_id: 20
 title: Neu anmelden und gleich loslegen

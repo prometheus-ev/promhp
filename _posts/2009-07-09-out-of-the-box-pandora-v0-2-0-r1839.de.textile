@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 19
 title: "Out of the box: pandora v0.2.0 (r1839)"
+tags:
+- update
+- pandora
 ---
 Wir hatten es ja bereits angekündigt und heute war es dann auch so weit, das Bildarchiv war wegen eines größeren Softwareupdates eine kleine Weile nicht zu erreichen. Wir hoffen, alle haben diese kurze Pause ohne Schaden an Leib und Seele überstanden und können Ihr Tagwerk nun ungehindert wieder aufnehmen.
 

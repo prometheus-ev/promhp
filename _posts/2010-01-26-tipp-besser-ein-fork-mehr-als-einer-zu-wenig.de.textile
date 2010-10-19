@@ -2,6 +2,10 @@
 layout: post
 typo_id: 38
 title: "Tipp: Besser ein Fork mehr, als einer zu wenig"
+tags:
+- tipp
+- fork
+- bildsammlungen
 ---
 <img src="<%=r 'files/blog/fork_collection.png' %>" class="bordered-image" alt="Bildsammlung forken" />
 

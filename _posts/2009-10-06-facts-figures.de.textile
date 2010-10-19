@@ -1,7 +1,9 @@
---- 
+---
 layout: post
 typo_id: 32
 title: facts & figures 10/2009
+tags:
+- facts
 ---
 Mit dem heutigen Update haben wir 53 Datenbanken mit insgesamt über 645.000 Bildern in unserem Bildarchiv eingebunden. Die Datenbank "digiCULT" und das "Lexikon der Revolutions-Ikonographie in der europäischen Druckgraphik 1789-1889" sind neu hinzu gekommen. Das "Lexikon der Revolutions-Ikonographie" ist unsere erste open access-Datenbank.
 Weitere Infos zu den Datenbanken finden Sie

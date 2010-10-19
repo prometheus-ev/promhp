@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 typo_id: 36
 title: Happy Holidays
