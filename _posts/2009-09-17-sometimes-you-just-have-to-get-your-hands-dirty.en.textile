@@ -3,7 +3,7 @@ layout: post
 typo_id: 29
 title: Sometimes you just have to get your hands dirty
 ---
-Lately, we've been experiencing increased search times on <a href="http://prometheus.uni-koeln.de/pandora/about">our image archive</a> due to the inclusion of information on which collections a particular image is contained in (<a href="http://prometheus-app.uni-koeln.de/trac/pandora/changeset/1970#file2">r1970</a>). For each result in a results list <strong>three database queries</strong> are issued just to get the desired counts. Suppose <code>_condition<var>N</var>_</code> and <code>_joins<var>N</var>_</code> are one of the three pairs of conditions and joins to determine <em>own</em>, <em>shared</em>, or <em>public</em> collections, and <code>_conditionR_</code> is the clause for restricting the query to just the given resource. We then have the following queries:
+Lately, we've been experiencing increased search times on <a href="http://prometheus.uni-koeln.de/pandora/about">our image archive</a> due to the inclusion of information on which collections a particular image is contained in (<a href="http://prometheus-app.uni-koeln.de/trac/pandora/changeset/1970#file2">r1970</a>). For each result in a results list <strong>three database queries</strong> are issued just to get the desired counts. Suppose <notextile><code>_condition<var>N</var>_</code></notextile> and <notextile><code>_joins<var>N</var>_</code></notextile> are one of the three pairs of conditions and joins to determine <em>own</em>, <em>shared</em>, or <em>public</em> collections, and <code>_conditionR_</code> is the clause for restricting the query to just the given resource. We then have the following queries:
 
 <%
 text = "

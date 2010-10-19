@@ -1609,15 +1609,19 @@ body.administration-controller.index-action .section-links {
 }
 
 .pagination {
-  padding-right:     5px;
+  padding-right:     7px;
 }
 
 .sort_links, .per_page {
-  padding:           0.5em 5px;
+  padding:           0.5em 7px;
 }
 
-.result_view, .toggle_zoom {
-  margin-left:       5px;
+.result_view {
+  margin-left:       7px;
+}
+
+.toggle_zoom {
+  margin-left:       14px;
 }
 
 .page_form, .per_page_form {
