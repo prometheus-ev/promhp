@@ -208,15 +208,20 @@
 }
 
 .pagination {
-  line-height: 35px;
+  line-height:       35px;
 }
 
 .post-meta {
-  font-size: 90%;
-  color: #B4B4B4;
+  font-size:         90%;
+  color:             rgb(180,180,180);
 }
 
-.bordered-image {
-  border: 1px solid #505050;
-  margin: 0.5em;
+.bordered-image, div.highlight {
+  border:            1px solid rgb(80,80,80);
+  margin:            10px;
+}
+
+div.highlight pre code:before,
+div.highlight pre code:after {
+  content:           "" !important;
 }
