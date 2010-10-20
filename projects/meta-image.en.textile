@@ -13,7 +13,7 @@ prometheus-Bildarchiv, Köln ("www.prometheus-bildarchiv.de":http://www.promethe
 
 *Duration of the project:* 01.12.2009 - 30.11.2011
 
-*"www.meta-image.de":www.meta-image.de*
+*"www.meta-image.de":http://www.meta-image.de*
 
 h3. Project description
 
