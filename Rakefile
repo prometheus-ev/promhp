@@ -27,6 +27,11 @@ task :clean do
   rm_rf site_paths
 end
 
+desc "Tag release"
+task :tag do
+  sh 'git', 'tag', "cl-#{Time.now.to_f}"
+end
+
 def site_paths
   site = File.expand_path('../_site', __FILE__)
   [site, "#{site}.tmp", "#{site}.old"]
