@@ -14,6 +14,15 @@ SetEnvIf REDIRECT_LANG        \A<%= lang_ext %>\z prefer-language=$1
 
 Header append Vary Cookie
 
+# Prevent caching of dummy file (to set language from pandora)
+<Files dummy>
+  FileETag None
+  Header unset ETag
+  Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+  Header set Pragma "no-cache"
+  Header set Expires "Thu, 01 Jan 1970 00:00:00 GMT"
+</Files>
+
 # Blog
 RewriteRule \Ablog/articles\.(?:rss|atom) /atom.xml [L,R=permanent]
 RewriteRule \Ablog<%= multiview_ext %>(?:/\d+){3}(/.+) /blog$1 [L,R=permanent]
