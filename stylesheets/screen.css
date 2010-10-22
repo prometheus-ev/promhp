@@ -80,7 +80,8 @@
   white-space:       normal;
 }
 
-#login_wrap + #campus_login_wrap {
+#login_wrap + #campus_login_wrap,
+#navigation + #tag-cloud {
   margin-top:        2px;
 }
 
@@ -224,4 +225,31 @@
 div.highlight pre code:before,
 div.highlight pre code:after {
   content:           "" !important;
+}
+
+#tag-cloud {
+  background-color: rgb(48, 48, 48);
+  padding: 10px;
+  width: 240px;
+  margin-bottom: 2px;
+}
+
+#tag-cloud .bigger {
+  font-size: 200%;
+}
+
+#tag-cloud .bigger {
+  font-size: 175%;
+}
+
+#tag-cloud .normal {
+  font-size: 150%;
+}
+
+#tag-cloud .small {
+  font-size: 125%;
+}
+
+#tag-cloud .smaller {
+  font-size: 100%;
 }

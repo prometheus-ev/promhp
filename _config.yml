@@ -12,3 +12,4 @@ paginate_files:
 pygments: true
 exclude: [Rakefile]
 permalink: /blog/:title
+tag_page_layout: tag_page

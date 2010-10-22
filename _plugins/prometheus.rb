@@ -1,6 +1,7 @@
 require 'jekyll/rendering'
 require 'jekyll/pagination'
 require 'jekyll/localization'
+require 'jekyll/tagging'
 
 module Jekyll
 
@@ -195,6 +196,12 @@ module Jekyll
         " #{paginator_next_link} #{paginator_last_link}"
     end
 
+    def tag_cloud
+      @site.tag_data.collect { |t|
+        "<a href=\"#{r('tag/' + t[0])}\" class=\"#{t[1]}\">#{t[0]}</a>"
+      }.join(' ')
+    end
+
   end
 
   class Pagination
@@ -227,6 +234,27 @@ module Jekyll
       class << page
         remove_method :dir
       end
+    end
+
+  end
+
+  class Tagger
+
+    alias_method :_pagination_original_generate_tagpages, :generate_tagpages
+
+    def generate_tagpages(site)
+      original_tags = site.tags.dup
+      tags = []
+
+      ['de', 'en'].each { |l|
+        site.tags.dup.each { |t|
+          tags << ["#{t[0]}.#{l}", t[1]]
+        }
+      }
+
+      site.tags = tags
+      _pagination_original_generate_tagpages(site)
+      site.tags = original_tags
     end
 
   end

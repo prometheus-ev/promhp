@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<h2><%=t 'Posts tagged with', 'Posts mit dem Tag' %>: <%= @page.tag %></h2>
+<ul>
+<% for post in @page.posts %>
+  <li><a href="<%=r post.url %>"><%= post.title %></a></li>
+<% end %>
+</ul>
