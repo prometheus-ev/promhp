@@ -16,6 +16,13 @@ module Jekyll
       [site.pandora_url, page.lang, *path].compact.join('/')
     end
 
+    def blog?(url)
+      url = url.sub(/\A\//, '')
+      blog_dir = site.config['permalink'].match(/\A(\/|\/:)(\w+)\//)[2]
+
+      url =~ /\A#{blog_dir}/ || url =~ /\A#{site.config['tag_page_dir']}\//
+    end
+
   end
 
   module Navigation
@@ -38,6 +45,7 @@ module Jekyll
 
     def active?(item, path)
       path =~ /\A#{Regexp.escape(item[:url])}/ ||
+        (blog?(path) && blog?(item[:url])) ||
         (item[:content] || []).any? { |i| active?(i, path) }
     end
 
