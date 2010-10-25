@@ -4,6 +4,6 @@ layout: default
 <h2><%=t 'Posts tagged with', 'Posts mit dem Tag' %>: <%= @page.tag %></h2>
 <ul>
 <% for post in @page.posts %>
-  <li><a href="<%=r post.url %>"><%= post.title %></a></li>
+  <li><a href="<%=r post.url %>"><%= post.title %></a> <span class="post-meta">(<%= date_to_string(post.date) %>)</span></li>
 <% end %>
 </ul>
