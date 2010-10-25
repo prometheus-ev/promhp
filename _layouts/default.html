@@ -66,7 +66,10 @@
 
       <div id="navigation"><%= @page.navigation %></div>
 
-      <div id="tag-cloud"><%= tag_cloud %></div>
+      <% if blog?(page.url) %>
+        <div id="tag-cloud"><%= tag_cloud %></div>
+      <% end %>
+
     </div><div id="main">
       <div id="submenu"><div id="facts"></div></div>
       <div id="content" class="clear-float">
