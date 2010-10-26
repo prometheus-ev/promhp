@@ -5,3 +5,9 @@ layout: default
 <p class="post-meta"><%= date_to_string(@page.date) %></p>
 
 <%= @content %>
+
+<p class="post-meta">Tags:
+<% for tag in @page.tags do %>
+  <a href="<%=r "tag/#{tag}" %>"><%= tag %></a>
+<% end %>
+</p>
