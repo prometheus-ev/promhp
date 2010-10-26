@@ -67,7 +67,7 @@
       <div id="navigation"><%= @page.navigation %></div>
 
       <% if blog?(page.url) %>
-        <div id="tag-cloud"><%= tag_cloud %></div>
+        <div id="tag-cloud"><%= tag_cloud(@site.tag_data) %></div>
       <% end %>
 
     </div><div id="main">

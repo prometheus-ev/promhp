@@ -211,8 +211,8 @@ module Jekyll
         " #{paginator_next_link} #{paginator_last_link}"
     end
 
-    def tag_cloud
-      @site.tag_data.collect { |t|
+    def tag_cloud(tag_data)
+      tag_data.collect { |t|
         "<a href=\"#{r('tag/' + t[0])}\" class=\"#{t[1]}\">#{t[0]}</a>"
       }.join(' ')
     end
