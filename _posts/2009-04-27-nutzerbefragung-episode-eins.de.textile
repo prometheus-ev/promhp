@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 4
 title: "Nutzerbefragung: Episode Eins"
+tags:
+- umfrage
+- feedback
 ---
 Dem einen oder anderen mag es bereits aufgefallen sein: wir führen anlässlich des ersten Geburtstags von <a href="http://prometheus.uni-koeln.de/pandora/about" title="prometheus image archive [pandora] - About">pandora</a>, der Software hinter prometheus, eine Umfrage unter unseren Nutzern durch. Wir wollen dadurch herausfinden, wie unsere Nutzer das Bildarchiv sehen, was ihnen gefällt und was nicht. Schließlich möchten wir ja nicht irgendwann merken, dass wir zwar ein ganz tolles Archiv nach unseren Vorstellungen entwickelt haben, es außer uns jedoch niemand mehr verwenden möchte.
 

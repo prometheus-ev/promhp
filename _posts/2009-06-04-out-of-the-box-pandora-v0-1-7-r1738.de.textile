@@ -1,7 +1,13 @@
---- 
+---
 layout: post
 typo_id: 11
 title: "Out of the box: pandora v0.1.7 (r1738)"
+tags:
+- pandora
+- update
+- download
+- usability
+- suche
 ---
 Vorgestern war es mal wieder so weit, wir haben <a href="http://prometheus-app.uni-koeln.de/trac/pandora/timeline?from=06%2F02%2F09&daysback=18">unsere Änderungen</a> an <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a> in die weite Welt hinaus geschickt. Soll heißen: unser Werk der letzten knapp drei Wochen steht nun auch Ihnen zur Verfügung.
 

@@ -1,7 +1,12 @@
---- 
+---
 layout: post
 typo_id: 27
 title: "Out of the box: pandora v0.3.1 (r2063)"
+tags:
+- update
+- pandora
+- profil
+- bildsammlungen
 ---
 Sieben Tage ist unser großes <a href="<%=r 'blog/out-of-the-box-pandora-v0-3-0-r2039' %>">Update auf Version 0.3.0</a> nun her. Es hat eine ganze Reihe cooler Neuerungen gegeben, die nur darauf warten, ausgiebig genutzt zu werden.
 

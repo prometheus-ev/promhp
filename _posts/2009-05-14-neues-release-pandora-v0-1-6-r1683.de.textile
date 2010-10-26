@@ -1,7 +1,12 @@
---- 
+---
 layout: post
 typo_id: 9
 title: "Neues Release: pandora v0.1.6 (r1683)"
+tags:
+- pandora
+- update
+- download
+- blog
 ---
 Fast einen ganzen Monat ist es her, dass wir das letzte Mal unsere Änderungen an <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a> auf das Produktionssystem übertragen und damit an Sie freigegeben haben. Seitdem hat sich allerdings einiges getan. Insgesamt 83 Mal wurde <a href="http://de.wikipedia.org/wiki/Quellcode">Programmcode</a> mit kleineren und größeren Änderungen an unser <a href="http://de.wikipedia.org/wiki/Versionskontrollsystem">Versionskontrollsystem</a> übergeben.
 

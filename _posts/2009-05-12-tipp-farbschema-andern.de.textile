@@ -2,6 +2,9 @@
 layout: post
 typo_id: 8
 title: "Tipp: Farbschema ändern"
+tags:
+- tipp
+- usability
 ---
 Persönlich mag ich es ja sehr gerne, mir Bilder auf einem schwarzen Hintergrund anzusehen. Vielen Leuten geht es wie mir, deshalb ist die voreingestellte Hintergrundfarbe im Bildarchiv auch kein Zufall.
 

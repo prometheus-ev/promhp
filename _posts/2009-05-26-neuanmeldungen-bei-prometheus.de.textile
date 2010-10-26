@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 10
 title: Neuanmeldungen bei prometheus
+tags:
+- facts
+- benutzer
 ---
 <img src="<%=r 'files/blog/personal_accounts_count.png' %>" class="bordered-image" alt="Zähler: personalisierte Zugänge" align="right" />Wenn ich mir von Zeit zu Zeit den Zähler der personalisierten Accounts auf der <a href="http://prometheus-bildarchiv.de">prometheus Homepage</a> ansehe, freue ich mich über die stetig wachsende Zahl. Heute bin ich dann mal neugierig geworden und habe mir das genauer angesehen.
 

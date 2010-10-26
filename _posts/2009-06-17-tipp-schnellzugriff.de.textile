@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 14
 title: "Tipp: Schnellzugriff"
+tags:
+- tipp
+- schnellzugriff
 ---
 Ich habe mal wieder bei einer Ankündigung auf "Ausblenden" geklickt, bevor ich sie vernünftig bis zum Ende gelesen hatte. Nun ist sie weg. Allerdings weiß ich auch, dass es da ein Archiv aller Ankündigungen gibt, die große Frage ist nur: wo?
 

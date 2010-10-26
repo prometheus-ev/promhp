@@ -2,6 +2,9 @@
 layout: post
 typo_id: 20
 title: Neu anmelden und gleich loslegen
+tags:
+- usability
+- zugang
 ---
 Es kommt oft vor, dass wir potentiellen BenutzerInnen Gastzugänge einrichten, die durchaus am prometheus-Bildarchiv interessiert sind, jedoch nicht genau wissen, was sie erwartet. Klar, wie auch? Es ist ja nun nicht so, als ließe sich das Archiv unproblematisch mal eben so auf die Schnelle kostenlos testen.
 Doch, und zwar seit heute!

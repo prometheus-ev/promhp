@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 13
 title: "Nutzerbefragung: Episode Zwei"
+tags:
+- umfrage
+- feedback
 ---
 <a href="<%=r 'files/blog/Umfrage.01.png' %>"><img src="<%=r 'files/blog/Umfrage.01_tmp.png' %>" class="bordered-image" alt="Frage 1: Wie lange nutzen sie prometheus bereits?" align="left" /></a>Seit Dienstag, dem 02. Juni, ist unsere <a href="<%=r 'blog/nutzerbefragung-episode-eins' %>">Nutzerbefragung</a> zum einjährigen Geburtstag von <a href="http://prometheus.uni-koeln.de/pandora/about">pandora</a> beendet. 214 Personen haben daran teilgenommen und uns wertvolles Feedback gegeben. Vielen Dank an alle, die sich die Zeit dafür genommen haben! In der vergangenen Woche wurde nun fleißig ausgewertet, damit wir jetzt umsetzen können, was Sie sich wünschen.
 

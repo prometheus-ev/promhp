@@ -1,7 +1,10 @@
---- 
+---
 layout: post
 typo_id: 22
 title: Sebastian
+tags:
+- job
+- team
 ---
 Aus der Kategorie <em>Neuigkeiten, die schon lange keine mehr sind</em>! Heute: <a href="http://prometheus.uni-koeln.de/pandora/account/show/sbessler">Sebastian</a> unser "neuer" Mitarbeiter.
 
