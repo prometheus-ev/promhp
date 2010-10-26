@@ -106,9 +106,6 @@ body {
   padding-right:     10px;
 }
 
-body.search-controller #content > .list_controls {
-}
-
 #content > ul {
   padding-left:      50px;
 }
@@ -919,6 +916,10 @@ body.image-controller.publish-action .list_row {
   font-style:        italic;
 }
 
+.title-line small {
+  font-style:        normal;
+}
+
 .title-field, table.list .metadata .title-line {
   padding-bottom:    5px;
   border-bottom:     2px dotted rgb(80,80,80);
@@ -1147,6 +1148,11 @@ div.slide input[type=radio] {
   font-weight:       normal;
 }
 
+.header-line .icon-line {
+  float:             left;
+  white-space:       nowrap;
+}
+
 #header-section              div.section,
 #details-section             div.section,
 #links-section               div.section,
@@ -1253,6 +1259,7 @@ div.image, td.image {
 
 .image-line {
   margin-top:        2px;
+  min-height:        2.8em;
 }
 
 #related_objects-section div.images td {

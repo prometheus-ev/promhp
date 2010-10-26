@@ -7,7 +7,7 @@ h2. <%= page_title %>
 
 prometheus wird drei Jahre alt. Das größte internetbasierte Bildarchiv. Interview mit Projektkoordinatorin Dr. Ute Verstegen Deutschlandfunk: 18.3.2004 "http://www.dradio.de/dlf/sendungen/campus/248763/":http://www.dradio.de/dlf/sendungen/campus/248763/ [72]
 
-prometheus wird drei Jahre alt. Interview mit Projektleiter Dr. Holger Simon. Kölncampus: 19.3.2004 "http://prometheus-web.uni-koeln.de/web/Koelncampus.mp3":http://prometheus-web.uni-koeln.de/web/Koelncampus.mp3 [73]
+prometheus wird drei Jahre alt. Interview mit Projektleiter Dr. Holger Simon. Kölncampus: 19.3.2004 "Koelncampus.mp3":<%=r 'files/media/Koelncampus.mp3' %> [73]
 
 Rexrodt, Anne
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre Portal Kunstgeschichte, 3.4.2003 "http://www.portalkunstgeschichte.de/forschung_lehre/projekte/7.php":http://www.portalkunstgeschichte.de/forschung_lehre/projekte/7.php [69]
