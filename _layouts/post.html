@@ -2,12 +2,9 @@
 layout: default
 ---
 <h2><a href="<%=r @page.url %>"><%= page_title %></a></h2>
-<p class="post-meta"><%= date_to_string(@page.date) %></p>
+<p class="post-meta">
+  <%= date_to_string(@page.date) %> |
+  Tags: <%= post_tags(@page) %>
+</p>
 
 <%= @content %>
-
-<p class="post-meta">Tags:
-<% for tag in @page.tags do %>
-  <a href="<%=r "tag/#{tag}" %>"><%= tag %></a>
-<% end %>
-</p>

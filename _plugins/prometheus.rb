@@ -211,10 +211,16 @@ module Jekyll
         " #{paginator_next_link} #{paginator_last_link}"
     end
 
-    def tag_cloud(tag_data)
-      tag_data.collect { |t|
-        "<a href=\"#{r('tag/' + t[0])}\" class=\"#{t[1]}\">#{t[0]}</a>"
+    def tag_cloud(site)
+      site.tag_data.collect { |t|
+        "<a href=\"#{r("#{site.tag_page_dir}/#{ERB::Util.u(t[0])}")}\" class=\"#{t[1]}\">#{t[0]}</a>"
       }.join(' ')
+    end
+
+    def post_tags(post)
+      post.tags.collect { |t|
+        "<a href=\"#{r("#{@site.tag_page_dir}/#{t}")}\">#{t}</a>"
+      }.join(', ')
     end
 
   end
@@ -255,9 +261,9 @@ module Jekyll
 
   class Tagger
 
-    alias_method :_pagination_original_generate_tagpages, :generate_tagpages
+    alias_method :_pagination_original_generate_tag_pages, :generate_tag_pages
 
-    def generate_tagpages(site)
+    def generate_tag_pages(site)
       original_tags = site.tags.dup
       tags = []
 
@@ -268,7 +274,7 @@ module Jekyll
       }
 
       site.tags = tags
-      _pagination_original_generate_tagpages(site)
+      _pagination_original_generate_tag_pages(site)
       site.tags = original_tags
     end
 
