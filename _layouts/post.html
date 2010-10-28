@@ -4,7 +4,7 @@ layout: default
 <h2><a href="<%=r @page.url %>"><%= page_title %></a></h2>
 <p class="post-meta">
   <%= date_to_string(@page.date) %>
-<% unless (tags = post_tags(@page)).empty? %>
+<% unless (tags = tags(@page)).empty? %>
   <span class="pale">|</span>
   Tags: <%= tags %>
 <% end %>

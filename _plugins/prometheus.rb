@@ -223,12 +223,15 @@ module Jekyll
       ].join(' ')
     end
 
-    def post_tags(post)
-      post.tags.map { |tag| %Q{<a href="#{tag_url(tag)}">#{tag}</a>} }.join(', ')
-    end
-
     def tag_url(tag, dir = site.tag_page_dir)
       r(File.join(dir, u(tag)))
+    end
+
+    alias_method :_prometheus_original_tags, :tags
+
+    def tags(obj)
+      obj = { 'tags' => obj.tags } if obj.is_a?(Jekyll::Post)
+      _prometheus_original_tags(obj)
     end
 
   end

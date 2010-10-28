@@ -6,8 +6,11 @@ title: prometheus-Blog
 <% for post in @paginator.posts %>
   <h2><a href="<%=r post.url %>"><%= post.title %></a></h2>
   <p class="post-meta">
-    <%= date_to_string(post.date) %> |
-    Tags: <%= post_tags(post) %>
+    <%= date_to_string(post.date) %>
+  <% unless (tags = tags(post)).empty? %>
+    <span class="pale">|</span>
+    Tags: <%= tags %>
+  <% end %>
   </p>
   <%= post.content %>
 <% end %>
