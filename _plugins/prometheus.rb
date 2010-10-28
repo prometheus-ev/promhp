@@ -5,6 +5,8 @@ require 'jekyll/tagging'
 
 module Jekyll
 
+  Localization::LANGUAGES.replace(%w[en de])
+
   module Helpers
 
     def relative_url(str, current_page_url)
@@ -261,21 +263,19 @@ module Jekyll
 
   class Tagger
 
-    alias_method :_pagination_original_generate_tag_pages, :generate_tag_pages
+    alias_method :_prometheus_original_generate_tag_pages, :generate_tag_pages
 
     def generate_tag_pages(site)
-      original_tags = site.tags.dup
-      tags = []
+      tags, original_tags = [], site.tags.dup
 
-      ['de', 'en'].each { |l|
-        site.tags.dup.each { |t|
-          tags << ["#{t[0]}.#{l}", t[1]]
-        }
+      Localization::LANGUAGES.each { |lang|
+        original_tags.each { |tag, posts| tags << ["#{tag}.#{lang}", posts] }
       }
 
       site.tags = tags
-      _pagination_original_generate_tag_pages(site)
-      site.tags = original_tags
+      _prometheus_original_generate_tag_pages(site)
+    ensure
+      site.tags = original_tags if original_tags
     end
 
   end
