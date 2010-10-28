@@ -89,11 +89,18 @@ module Jekyll
       self.basename = name if basename.empty?
     end
 
-    alias_method :_pagination_original_index?, :index?
+    alias_method :_prometheus_original_index?, :index?
 
     def index? # TODO: Puzzle the whole "pagination index in a subdir" stuff in jekyll-pagination gem.
       file = File.join(@dir, name)[1..-1]
       Pager.paginate_files(@site.config).include?(file)
+    end
+
+    alias_method :_prometheus_original_dir=, :dir=
+
+    def _prometheus_dir=(dir)
+      base, name = File.split(dir)
+      @dir = File.join(File.dirname(base), name)
     end
 
   end
@@ -225,7 +232,7 @@ module Jekyll
 
   class Pagination
 
-    alias_method :_pagination_original_generate, :generate
+    alias_method :_prometheus_original_generate, :generate
 
     def generate(site)
       site.pages.dup.each do |page|
@@ -234,25 +241,16 @@ module Jekyll
       end
     end
 
-    alias_method :_pagination_original_paginate, :paginate
+    alias_method :_prometheus_original_paginate, :paginate
 
     def paginate(site, page)
+      def page.dir; @dir; end
+      Page.send(:alias_method, :dir=, :_prometheus_dir=)
 
-      def page.dir
-        @dir
-      end
-
-      Page.send(:define_method, :dir=) { |dir|
-        dir = dir.split('/')
-        dir.delete_at(dir.size - 2)
-        @dir = dir.join('/')
-      }
-
-      _pagination_original_paginate(site, page)
-
-      class << page
-        remove_method :dir
-      end
+      _prometheus_original_paginate(site, page)
+    ensure
+      class << page; remove_method :dir; end
+      Page.send(:alias_method, :dir=, :_prometheus_original_dir=)
     end
 
   end
