@@ -3,6 +3,10 @@ require 'jekyll/pagination'
 require 'jekyll/localization'
 require 'jekyll/tagging'
 
+class OpenStruct
+  alias_method :[], :send
+end
+
 module Jekyll
 
   Localization::LANGUAGES.replace(%w[en de])
