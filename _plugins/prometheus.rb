@@ -223,16 +223,12 @@ module Jekyll
       ].join(' ')
     end
 
-    def tag_cloud(site)
-      site.tag_data.collect { |t|
-        "<a href=\"#{r("#{site.tag_page_dir}/#{ERB::Util.u(t[0])}")}\" class=\"#{t[1]}\">#{t[0]}</a>"
-      }.join(' ')
+    def post_tags(post)
+      post.tags.map { |tag| %Q{<a href="#{tag_url(tag)}">#{tag}</a>} }.join(', ')
     end
 
-    def post_tags(post)
-      post.tags.collect { |t|
-        "<a href=\"#{r("#{@site.tag_page_dir}/#{t}")}\">#{t}</a>"
-      }.join(', ')
+    def tag_url(tag, dir = site.tag_page_dir)
+      r(File.join(dir, u(tag)))
     end
 
   end
