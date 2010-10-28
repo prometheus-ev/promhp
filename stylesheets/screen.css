@@ -233,30 +233,33 @@ div.highlight pre code:after {
   width:            240px;
   margin-bottom:    2px;
   text-align:       center;
-  word-spacing: 5px;
+  word-spacing:     5px;
 }
 
 #tag-cloud .set-5 {
-  font-size: 200%;
-  color: rgb(250, 250, 250)
+  font-size:        200%;
+  line-height:      80%;
+  color:            rgb(250, 250, 250)
 }
 
 #tag-cloud .set-4 {
-  font-size: 175%;
-  color: rgb(220, 220, 220)
+  font-size:        175%;
+  line-height:      80%;
+  color:            rgb(220, 220, 220)
 }
 
 #tag-cloud .set-3 {
-  font-size: 150%;
-  color: rgb(190, 190, 190)
+  font-size:        150%;
+  line-height:      80%;
+  color:            rgb(190, 190, 190)
 }
 
 #tag-cloud .set-2 {
-  font-size: 125%;
-  color: rgb(160, 160, 160)
+  font-size:        125%;
+  color:            rgb(160, 160, 160)
 }
 
 #tag-cloud .set-1 {
-  font-size: 100%;
-  color: rgb(130, 130, 130)
+  font-size:        100%;
+  color:            rgb(130, 130, 130)
 }
