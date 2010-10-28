@@ -98,7 +98,7 @@ module Jekyll
 
     alias_method :_prometheus_original_dir=, :dir=
 
-    def _prometheus_dir=(dir)
+    def _prometheus_paginate_dir=(dir)
       base, name = File.split(dir)
       @dir = File.join(File.dirname(base), name)
     end
@@ -115,7 +115,7 @@ module Jekyll
     def initialize(site, source, dir, name)
       _prometheus_original_initialize(site, source, dir, name)
 
-      @dir = send(:dir)
+      @dir = self.dir
       data['navigation'] = load_navigaion
     end
 
@@ -180,7 +180,7 @@ module Jekyll
       if @paginator.page < 2
         '<div class="icon_first inactive"></div>'
       else
-        "<a href=\"#{r('blog')}\"><div class=\"icon_first\"></div></a>" # TODO: Make this dynamic.
+        %Q{<a href="#{r('blog')}"><div class="icon_first"></div></a>} # TODO: Make this dynamic.
       end
     end
 
@@ -188,32 +188,35 @@ module Jekyll
       if @paginator.page >= @paginator.total_pages
         '<div class="icon_last inactive"></div>'
       else
-        "<a href=\"#{r("page#{@paginator.total_pages}")}\"><div class=\"icon_last\"></div></a>"
+        %Q{<a href="#{r("page#{@paginator.total_pages}")}"><div class="icon_last"></div></a>}
       end
     end
 
     def paginator_previous_link
-      if @paginator.page == 2
-        href = 'blog' # TODO: Make this dynamic.
-      elsif @paginator.page > 2
-        href = "page#{@paginator.previous_page}"
+      case @paginator.page
+        when 1 then return '<div class="icon_prev inactive"></div>'
+        when 2 then href = 'blog' # TODO: Make this dynamic.
+        else        href = "page#{@paginator.previous_page}"
       end
-      href ? "<a href=\"#{r(href)}\"><div class=\"icon_prev\"></div></a>" :
-        '<div class="icon_prev inactive"></div>'
+
+      %Q{<a href="#{r(href)}"><div class="icon_prev"></div></a>}
     end
 
     def paginator_next_link
       if @paginator.page == @paginator.total_pages
         '<div class="icon_next inactive"></div>'
       else
-        "<a href=\"#{r("page#{@paginator.next_page}")}\"><div class=\"icon_next\"></div></a>"
+        %Q{<a href="#{r("page#{@paginator.next_page}")}"><div class="icon_next"></div></a>}
       end
     end
 
     def paginator_navigation
-      "#{paginator_first_link} #{paginator_previous_link} " +
-        t('Page', 'Seite') + " #{@paginator.page} " + t('of', 'von') +  " #{@paginator.total_pages}" +
-        " #{paginator_next_link} #{paginator_last_link}"
+      [
+        paginator_first_link, paginator_previous_link,
+        t('Page', 'Seite'),  @paginator.page,
+        t('of',   'von'),    @paginator.total_pages,
+        paginator_next_link,  paginator_last_link
+      ].join(' ')
     end
 
     def tag_cloud(site)
@@ -245,7 +248,7 @@ module Jekyll
 
     def paginate(site, page)
       def page.dir; @dir; end
-      Page.send(:alias_method, :dir=, :_prometheus_dir=)
+      Page.send(:alias_method, :dir=, :_prometheus_paginate_dir=)
 
       _prometheus_original_paginate(site, page)
     ensure
