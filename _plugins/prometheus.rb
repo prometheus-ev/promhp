@@ -19,17 +19,13 @@ module Jekyll
     end
 
     def blog?(url)
-      url = url.sub(/\A\//, '')
-      if site.respond_to?(:config)
-        tag_page_dir = site.config['tag_page_dir']
-        permalink    = site.config['permalink']
+      d = if site.respond_to?(:config)
+        site.config.values_at(*%w[tag_page_dir permalink])
       else
-        tag_page_dir = site.tag_page_dir
-        permalink    = site.permalink
+        [site.tag_page_dir, site.permalink]
       end
 
-      url =~ /\A#{permalink.match(/\A(\/|\/:)(\w+)\//)[2]}/ ||
-        url =~ /\A#{tag_page_dir}\//
+      url =~ %r{\A/?(?:#{Regexp.union(d[0], d[1][%r{\A/:?(\w+)}, 1])})(?:/|\z)}
     end
 
   end
