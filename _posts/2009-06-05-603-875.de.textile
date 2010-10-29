@@ -4,7 +4,7 @@ typo_id: 12
 title: "603.875"
 tags:
 - facts
-- datansätze
+- datensätze
 - datenbanken
 ---
 Das ist die die Anzahl der aktuell recherchierbaren Datensätze im <a href="http://prometheus-bildarchiv.de/">prometheus-Bildarchiv</a>.
