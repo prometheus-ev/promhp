@@ -1,0 +1,16 @@
+&cntitem0=cnt_skey~cnt_keyalias~cnt_source~group_key~item_name~item_text~item_help_source&
+
+&cntitem1=010aaa1~080mmm~data/link_perseus.swf~~Linkliste Drachentöter~~&
+&cntitem2=080aaa1~010mmm~data/link_perseus.swf~005~Linkliste Drachentöter~~&
+
+&cntitem3=020aaa1~060mmm~data/stud_tauf1.swf~~Bildanordnung Taufstein~~&
+&cntitem4=060aaa1~020mmm~data/stud_tauf1.swf~015~Bildanordnung Taufstein~~&
+
+&cntitem5=020aaa2~070mmm~data/stud_tauf2.swf~~Evangelistensymbole~auf dem Taufstein~&
+&cntitem6=070aaa1~020mmm~data/stud_tauf2.swf~015~Evangelistensymbole~auf dem Taufstein~&
+
+&cntitem7=040aaa1~~data/stud_tauf3.swf~~Erklaerung Zwickelbilder~~&
+
+
+
+&cnt=7&

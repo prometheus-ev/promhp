@@ -3,10 +3,11 @@ layout: default
 title: Little applications
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=61&L=1
 ---
+<%# TODO: translate %>
 h2. <%= page_title %>
 
 In this category you can find little applications that can be fastly involved into a tutorial or the like.
 
-*Malen mit Flash*
+h3. Malen mit Flash
 
-!<%=r 'files/images/4c78bb2698.jpg' %>! Interaktive Flash-Applikation über die Wirkung von Komplementärkontrasten "» more":<%=r 'tools/modules/little-applications/malen-mit-flash' %>
+|!<%=r 'files/images/4c78bb2698.jpg' %>!:<%=r 'tools/modules/little-applications/malen-mit-flash' %>||Interaktive Flash-Applikation über die Wirkung von Komplementärkontrasten. "» mehr":<%=r 'tools/modules/little-applications/malen-mit-flash' %>|

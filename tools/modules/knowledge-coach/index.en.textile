@@ -3,12 +3,11 @@ layout: default
 title: Knowledge-Coach
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=63&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
+<%# TODO: translate %>
 h2. <%= page_title %>
 
-During the basic studies substantiated skills in certain areas of knowledge shall be obtained.
-The Knowledge Coach inducts into fields of knowledge and enables the student to learn factual knowledge situational or analytic-synthetically, to imbed it into the respectively given structure of knowledge and to create further connections through multicodal presentations for an improved grasp.
+During the basic studies substantiated skills in certain areas of knowledge shall be obtained. The Knowledge Coach inducts into fields of knowledge and enables the student to learn factual knowledge situational or analytic-synthetically, to imbed it into the respectively given structure of knowledge and to create further connections through multicodal presentations for an improved grasp.
 
+h3. Terminologie-Trainer
 
-*Terminologie-Trainer*
-
-!<%=r 'files/images/a69a4f662e.jpg' %>! Studierende im Grundstudium "» more":<%=r 'tools/modules/knowledge-coach/terminologietrainer' %>
+|!<%=r 'files/images/a69a4f662e.jpg' %>!:<%=r 'tools/modules/knowledge-coach/terminologietrainer' %>||Der Terminologie-Trainer liegt als ausgearbeitetes Konzept und als Werkzeug vor. "» mehr":<%=r 'tools/modules/knowledge-coach/terminologietrainer' %>|

@@ -5,11 +5,10 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=350
 ---
 h2. <%= page_title %>
 
-*exkursion-online*
+h3. exkursion-online
 
-!<%=r 'files/images/9aeccb7266.jpg' %>! Autorenschaft:  Sabine Scheele (s2w3.com) in Zusammenarbeit mit Dr. Stefan Brenne (Uni Gießen), dem HRZ Uni Gießen und prometheusZielgruppe:  Reisende und DaheimgebliebeneMedien:  Hypertext, Blog, Video, Link- und... "» mehr":<%=r 'tools/modules/e-learning/excursion-online' %>
+|!<%=r 'files/images/9aeccb7266.jpg' %>!:<%=r 'tools/modules/e-learning/excursion-online' %>||Online-Plattform für Reisende und Daheimgebliebene. "» mehr":<%=r 'tools/modules/e-learning/excursion-online' %>|
 
+h3. limes-pohlheim.de
 
-*limes-pohlheim.de*
-
-!<%=r 'files/images/e46e9a01ee.jpg' %>! Internetseite über den römischen Limes im Bereich der Stadt Pohlheim (bei Gießen) "» mehr":<%=r 'tools/modules/e-learning/limes-pohlheim' %>
+|!<%=r 'files/images/e46e9a01ee.jpg' %>!:<%=r 'tools/modules/e-learning/limes-pohlheim' %>||Internetseite über den römischen Limes im Bereich der Stadt Pohlheim (bei Gießen). "» mehr":<%=r 'tools/modules/e-learning/limes-pohlheim' %>|

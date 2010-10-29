@@ -1,0 +1,11 @@
+&winfo010=winfo+ungruppiert&
+&sinfo020=sinfo+ungruppiert&
+&quest030=quest+ungruppiert&
+&job040=job+ungruppiert&
+&fun050=fun+ungruppiert&
+&pict060=pict+ungruppiert#Praesentation#015&
+&audi070=audi+ungruppiert&
+&text080=text+ungruppiert#Liste#005#Lesetext#007#Praesentation#015&
+&video090=video+ungruppiert&
+&shelp100=shelp+ungruppiert&
+&cntload=1&

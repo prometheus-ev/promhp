@@ -1,0 +1,11 @@
+&winfo010=winfo+ungruppiert#Grundriss#001#Aussenansicht#002#Innenraum#003&
+&sinfo020=sinfo+ungruppiert#Grundriss#001#Aussenansicht#002#Innenraum#003&
+&quest030=quest+ungruppiert&
+&job040=job+ungruppiert#Grundriss#001#Aussenansicht#002#Innenraum#003&
+&fun050=fun+ungruppiert#Aussenansicht#002#Innenraum#003&
+&pict060=pict+ungruppiert#Abbildung#014#Schema#015#Praesentation#016&
+&audi070=audi+ungruppiert#Musik#012#Geraeusch#013&
+&text080=text+ungruppiert#Liste#005#Lesetext#007&
+&video090=video+ungruppiert#Animation#008#Video#009#Simulation#010&
+&shelp100=shelp+unguppiert&
+&cntload=1&

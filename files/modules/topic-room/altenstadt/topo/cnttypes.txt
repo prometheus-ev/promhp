@@ -1,0 +1,15 @@
+&cntitem0=cnt_skey~cnt_keyalias~cnt_source~group_key~item_name~item_text~item_help_source&
+
+&cntitem1=010aaa1~080mmm~data/linkliste_topo.swf~~Linkliste Topografie~~&
+
+&cntitem2=020aaa1~060mmm~data/stud_topo1.swf~~Umgebung Altenstadt~~&
+
+&cntitem3=040aaa1~~data/aufg_sb.swf~~Gruppenreise~Planen Sie eine Gruppenreise in den Pfaffenwinkel!~&
+
+&cntitem4=080aaa1~010mmm~data/linkliste_topo.swf~005~ Linkliste Topografie~~&
+
+&cntitem5=060aaa1~020mmm~data/stud_topo1.swf~015~ Umgebung Altenstadt~~&
+
+&cntitem6=040aaa2~~data/stud_spiel_topo1.swf~~Kirchen der Umgebung~Ordnen Sie zu! - Ordnen Sie die Kirchen in der Zeitleiste den Orten in der Karte zu! <br><b>TIPP: </b>Ziehen Sie bei gedrueckter Maustaste die Gebaudeabbildungen in der Zeitleiste<br>auf die Flaechen der Umgebungskarte und lassen Sie dann die gedrueckte Maustaste los!~&
+
+&cnt=6&

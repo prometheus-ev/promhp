@@ -1,0 +1,166 @@
+&cntitem0=eigener schluessel~schluessel auf verweise auf andere containerinhalte~pfad zur datei~gruppe (kategorie) schluessel~bezeichnung des inhalts~beschreibung durch text~item_help_source&
+
+&cntitem1=040aaa1~100A1H1,100A1H2,100A1H3,100A1H4,100A1H5,100A1H6,100A1H7~data/grund_aufg1.swf~001~Begriffe~Welche Informationen koennen Sie aus dem Grundriss ablesen? Notieren Sie Ihre Gedanken im Notizfeld, beschriften Sie den Grundriss.~&
+&cntitem2=100A1H1~~data/grund_aufg1_h1.swf~~Hilfe 1~[ad]<br><font size='11' color='#333333'>Was bedeuten die farbigen Linien und Flaechen?</font>~&
+&cntitem3=100A1H2~~data/grund_aufg1_h2.swf~~Hilfe 2~[ad]<br><font size='11' color='#333333'>Was bedeuten die farbigen Linien?</font>~&
+&cntitem4=100A1H3~~data/grund_aufg1_h3.swf~~Hilfe 3~[ad]<br><font size='11' color='#333333'>Welchen Querschnitt haben die Stuetzen?</font>~&
+&cntitem5=100A1H4~~data/grund_aufg1_h4.swf~~Hilfe 4~[ad]<br><font size='11' color='#333333'>Wo befinden sich Tueren und Fenster? Woran sind sie zu erkennen?</font>~&
+&cntitem6=100A1H5~~data/grund_aufg1_h5.swf~~Hilfe 5~[ad]<br><font size='11' color='#333333'>Was bedeuten die unterschiedlichen Farben in der Darstellung?</font>~&
+&cntitem7=100A1H6~~data/grund_aufg1_h6.swf~~Hilfe 6~[ad]<br><font size='11' color='#333333'>Wie viele Joche hat das Kirchenschiff?</font>~&
+&cntitem8=100A1H7~~data/link_tt.swf~~... zum Terminologietrainer~~&
+
+
+&cntitem9=040aaa2~100A2H1,100A2H2,100A2H3~data/grund_aufg2.swf~001~Begriffe und Funktionen~Was ist wo? Wissen Sie auch warum?<br>Ordnen Sie die Teile zu, benennen Sie die Teile und deren Funktionen in den angehaengten Textfeldern.~&
+&cntitem10=100A2H1~~data/grund_explo.swf~~Hilfe 1~[ad]~~&
+&cntitem11=100A2H2~~data/grund_aufg1_h3.swf~~Hilfe 2~[ad]<br><font size='11' color='#333333'>Weshalb sind diese Stuetzen anders dargestellt?</font>~&
+&cntitem12=100A2H3~~data/link_tt.swf~~... zum Terminologietrainer~~&
+
+
+&cntitem13=040aaa3~100A3H1,100A3H2,100A3H3~data/grund_aufg3.swf~001~Zuordnen~Ordnen Sie zu.~&
+&cntitem14=100A3H1~~data/grund_aufg3_h1.swf~~Hilfe 1~[ad]~~&
+&cntitem15=100A3H2~~data/grund_aufg3_h2.swf~~Hilfe 2~[ad]~~&
+&cntitem16=100A3H3~~data/link_tt.swf~~... zum Terminologietrainer~~&
+
+
+&cntitem17=040aaa7~100A6H1,100A6H2,100A6H3,100A6H4,100A6H5,100A6H6,100A6H7~data/west_aufgabe.swf~002~Beschreibung-Westfassade~Fuer eine Beschreibung der Westfassade gehen Sie folgendermassen vor:<br>a) Gliederung, Flaechenaufteilung, b) Einzelteile benennen, c) Details - Beachten Sie auch die Ecken.~&
+&cntitem18=100A6H1~~data/west_h1.swf~~Hilfe 1~[ad]~~&
+&cntitem19=100A6H2~~data/west_h2.swf~~Hilfe 2~[ad]~~&
+&cntitem20=100A6H3~~data/west_h3.swf~~Hilfe 3~[ad]~~&
+&cntitem21=100A6H4~~data/west_h4.swf~~Hilfe 4~[ad]~~&
+&cntitem22=100A6H5~~data/west_h5.swf~~Hilfe 5~[ad]~~&
+&cntitem23=100A6H6~~data/west_h6.swf~~Hilfe 6~[ad]~~&
+&cntitem24=100A6H7~~data/link_tt.swf~~... zum Terminologietrainer~~&
+
+
+&cntitem25=040aaa8~100A7H1,100A7H2,100A7H3,100A7H4,100A7H5,100A7H6,100A7H7~data/nord_aufgabe.swf~002~Beschreibung-Nordfassade~Fuer eine Beschreibung der Nordfassade gehen Sie so vor:<br>a) Gliederung, Flaechenaufteilung, b) Einzelteile benennen, c) Details - Beachten Sie auch die Ecken.~&
+&cntitem26=100A7H1~~data/nord_h1.swf~~Hilfe 1~[ad]~~&
+&cntitem27=100A7H2~~data/nord_h2.swf~~Hilfe 2~[ad]~~&
+&cntitem28=100A7H3~~data/nord_h3.swf~~Hilfe 3~[ad]~~&
+&cntitem29=100A7H4~~data/nord_h4.swf~~Hilfe 4~[ad]~~&
+&cntitem30=100A7H5~~data/nord_h5.swf~~Hilfe 5~[ad]~~&
+&cntitem31=100A7H6~~data/nord_h6.swf~~Hilfe 6~[ad]~~&
+&cntitem32=100A7H7~~data/link_tt.swf~~... zum Terminologietrainer~~&
+
+
+&cntitem33=040aaa9~100A8H1,100A8H2,100A8H3~data/ost_aufgabe.swf~002~Beschreibung-Ostfassade~Fuer eine Beschreibung der Ostfassade gehen Sie so vor:<br>a) Gliederung, Flaechenaufteilung, b) Einzelteile benennen, c) Details - Beachten Sie auch die Ecken.~&
+&cntitem34=100A8H1~~data/ost_h1.swf~~Hilfe 1~[ad]~~&
+&cntitem35=100A8H2~~data/ost_h2.swf~~Hilfe 2~[ad]~~&
+&cntitem36=100A8H3~~data/link_tt.swf~~... zum Terminologietrainer~~&
+
+
+&cntitem37=040aa10~100A9H1,100A9H2,100A9H3,100A9H4~data/sued_aufgabe.swf~002~Beschreibung-Suedfassade~Fuer eine Beschreibung der Suedfassade gehen Sie so vor:<br>a) Gliederung, Flaechenaufteilung, b) Einzelteile benennen, c) Details - Beachten Sie auch die Ecken.~&
+&cntitem38=100A9H1~~data/sued_h1.swf~~Hilfe 1~[ad]~~&
+&cntitem39=100A9H2~~data/sued_h2.swf~~Hilfe 2~[ad]~~&
+&cntitem40=100A9H3~~data/sued_h3.swf~~Hilfe 3~[ad]~~&
+&cntitem41=100A9H4~~data/link_tt.swf~~... zum Terminologietrainer~~&
+
+
+&cntitem42=040aa11~100A5H1~data/innen_aufg1.swf~003~Analyse~Analysiere die Wandgliederung~&
+&cntitem43=100A5H1~~data/link_tt.swf~~... zum Terminologietrainer~~&
+
+
+&cntitem44=040aa12~~data/stud_spiel_arch1.swf~~Objekte Kirchen zuordnen~Ordnen Sie zu! <b>TIPP:</b> Ziehen Sie bei gedrueckter Maustaste die im Focus stehenden Abbildungen<br>auf die Gebaude der unteren Zeitleiste und lassen Sie dann die gedrueckte Maustaste los!~&
+
+&cntitem45=040aa13~100A4H1~data/stud_aufg1.swf~001~Zuordnen~Ordnen Sie verschiedene Grundrisse zu~&
+&cntitem46=100A4H1~~data/link_tt.swf~~... zum Terminologietrainer~~&
+
+
+&cntitem47=050aaa1~090mmm~data/entspan_aufgang.swf~002~Umfeld~Aufgang zum Westportal~&
+&cntitem48=090aaa1~020mmm~data/entspan_aufgang.swf~009~Aufgang Westportal~Aufgang zum Westportal~&
+
+&cntitem49=060aaa1~020iii~data/grund_farb.swf~015~Grundrissdarstellung~~&
+&cntitem50=020aaa1~060mmm~data/grund_farb.swf~001~Grundrissdarstellung~~&
+
+&cntitem51=060aaa2~020mmm~data/grund_standort.swf~015~Objektstandorte~~&
+&cntitem52=020aaa2~060mmm~data/grund_standort.swf~001~Objektstandorte~~&
+
+&cntitem53=060aaa3~020iii~data/skizze_aufriss.swf~015~Aufrisse~Aufrissdarstellungen~&
+&cntitem54=020aaa3~060mmm~data/skizze_aufriss.swf~002~Aufrisse~Aufrissdarstellungen~&
+
+&cntitem55=060aaa4~020iii~data/grafik_suedost.swf~016~Details-Suedostansicht~~&
+&cntitem56=020aaa4~060mmm~data/grafik_suedost.swf~002~Details-Suedostansicht~~&
+
+&cntitem57=060aaa5~020iii~data/west.swf~014~Westansicht~~&
+&cntitem58=020aaa5~060mmm~data/west.swf~002~Westansicht~~&
+
+&cntitem59=060aaa6~020iii~data/nordwest.swf~014~Nordwestansicht~~&
+&cntitem60=020aaa6~060mmm~data/nordwest.swf~002~Nordwestansicht~~&
+
+&cntitem61=060aaa7~020iii~data/nord.swf~014~Nordansicht~~&
+&cntitem62=020aaa7~060mmm~data/nord.swf~002~Nordansicht~~&
+
+&cntitem63=060aaa8~020iii~data/nordost.swf~014~Nordostansicht~~&
+&cntitem64=020aaa8~060mmm~data/nordost.swf~002~Nordostansicht~~&
+
+&cntitem65=060aaa9~020iii~data/ost.swf~014~Ostansicht~~&
+&cntitem66=020aaa9~060mmm~data/ost.swf~002~Ostansicht~~&
+
+&cntitem67=060aa10~020iii~data/suedost.swf~014~Suedostansicht~~&
+&cntitem68=020aa10~060mmm~data/suedost.swf~002~Suedostansicht~~&
+
+&cntitem69=060aa11~020iii~data/sued.swf~014~Suedansicht~~&
+&cntitem70=020aa11~060mmm~data/sued.swf~002~Suedansicht~~&
+
+&cntitem71=060aa12~020iii~data/suedwest.swf~014~Suedwestansicht~~&
+&cntitem72=020aa12~060mmm~data/suedwest.swf~002~Suedwestansicht~~&
+
+&cntitem73=090aaa2~020iii~data/grund_explo.swf~008~Explosionsdarstellung~~&
+&cntitem74=020aa13~090mmm~data/grund_explo.swf~001~Explosionsdarstellung~~&
+
+&cntitem75=090aaa3~020iii~data/3d.swf~008~3D-Aufbau Basilika~~&
+&cntitem76=020aa14~090mmm~data/3d.swf~001~3D-Aufbau Basilika~~&
+
+&cntitem77=090aaa4~020iii~data/grund_dreh.swf~008~Rundum-Ansicht Basilika~... zum Drehen~&
+&cntitem78=020aa15~090mmm~data/grund_dreh.swf~001~Rundum-Ansicht Basilika~... zum Drehen~&
+
+&cntitem79=090aaa5~020iii~data/aussen_zoom.swf~009~Zoom auf Deutsches Band-Detail~Aussenansicht-Detail~&
+&cntitem80=020aa16~090mmm~data/aussen_zoom.swf~002~Zoom auf Deutsches Band~Aussenansicht-Detail~&
+
+&cntitem81=090aaa6~020iii~data/skizze_inter3d.swf~010~Interaktives 3D-Objekt~Interaktives 3D-Objekt zum Drehen~&
+&cntitem82=020aa17~090mmm~data/skizze_3d.swf~002~3D-Modelle~Interaktive 3D-Objekte zum Drehen~&
+
+&cntitem83=090aaa7~050iii~data/entspan2.html~010~3D-Innenraum~~&
+&cntitem84=050aaa2~090mmm~data/entspan2.html~003~3D-Innenraum~~&
+
+&cntitem85=020aa18~060mmm~data/grund_aufg3_h2.swf~001~Grundrissebenen~~&
+&cntitem86=060aa13~020iii~data/grund_aufg3_h2.swf~015~Grundrissebenen~~&
+
+&cntitem87=020aa19~060mmm~data/innen_aufg1.swf~003~Kapitelle~~&
+&cntitem88=060aa14~020iii~data/innen_aufg1.swf~014~Kapitelle~~&
+
+&cntitem89=060aa15~020mmm~data/stud_standort1.swf~016~Objektstandorte~~&
+&cntitem90=020aa20~060mmm~data/stud_standort1.swf~003~Objektstandorte~~&
+
+&cntitem91=010aaa1~080mmm~data/aussen_begriff.swf~~Begriff Basilika~~&
+&cntitem92=080aaa1~010mmm~data/aussen_begriff.swf~007~Begriff Basilika~Der Begriff Basilika~&
+
+&cntitem93=080aaa2~010mmm~data/glossar.swf~005~Glossar~~&
+&cntitem94=010aaa2~080mmm~data/glossar.swf~~Glossar~~&
+
+&cntitem95=080aaa3~010mmm~data/literatur.swf~005~Literatur~Literaturempfehlungen~&
+&cntitem96=010aaa3~080mmm~data/literatur.swf~~Literatur~Literaturempfehlungen~&
+
+&cntitem97=060aa16~050mmm~data/entspan_uhr.swf~016~Kirchturmuhr~Kirchturmuhr und Glockengelaeut~&
+&cntitem98=050aaa3~060mmm~data/entspan_uhr.swf~002~Kirchturmuhr~Kirchturmuhr und Glockengelaeut~&
+
+&cntitem99=010aaa4~080mmm~data/link_bautech.swf~001~Link Bautechnisches Zeichnen~~&
+&cntitem100=080aaa4~010mmm~data/link_bautech.swf~005~Link Bautechnisches Zeichnen~~&
+
+&cntitem101=010aaa5~080mmm~data/linkliste_smz.swf~002~Linkliste Steinmetzzeichen~~&
+&cntitem102=080aaa5~010mmm~data/linkliste_smz.swf~005~Linkliste Steinmetzzeichen~~&
+
+&cntitem103=010aaa6~060mmm~data/stud_aus_smz.swf~002~Steinmetzzeichen~Botschaften aus der Vergangenheit~&
+&cntitem104=060aa17~010mmm~data/stud_aus_smz.swf~016~Steinmetzzeichen~Botschaften aus der Vergangenheit~&
+
+&cntitem105=070aaa1~050mmm~data/glocke.swf~013~Glockengelaeut~Basilika~&
+&cntitem106=050aaa4~070mmm~data/glocke.swf~013~Glockengelaeut~Basilika~&
+
+&cntitem107=020aa21~060mmm~data/stud_orgel.swf~003~Orgel~<b>Achtung:</b> Lautsprecher sind erforderlich!~&
+&cntitem108=060aa18~020mmm~data/stud_orgel.swf~016~Orgel~<b>Achtung:</b> Lautsprecher sind erforderlich!~&
+
+&cntitem109=070aaa2~010mmm~data/arch_orgel.swf~012~Orgelmusik~<b>Achtung:</b> Lautsprecher sind erforderlich!~&
+&cntitem110=010aaa7~070mmm~data/arch_orgel.swf~003~Orgelmusik~<b>Achtung:</b> Lautsprecher sind erforderlich!~&
+
+
+
+&cnt=110&

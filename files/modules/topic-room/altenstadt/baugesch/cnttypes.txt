@@ -1,0 +1,6 @@
+&cntitem0=cnt_skey~cnt_keyalias~cnt_source~group_key~item_name~item_text~item_help_source&
+
+&cntitem1=020aaa1~060mmm~data/stud_baugesch1.swf~~Bilder Baugeschichte~~&
+&cntitem2=060aaa1~020mmm~data/stud_baugesch1.swf~014~Bilder Baugeschichte~~&
+
+&cnt=2&

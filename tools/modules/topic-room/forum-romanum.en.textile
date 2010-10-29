@@ -8,14 +8,30 @@ h2. <%= page_title %>
 
 09.03.07
 
-| !<%=r 'files/images/d1f1cc51bc.jpg' %>! | !<%=r 'files/images/8565b6cfd2.jpg' %>! | !<%=r 'files/images/75dbdbefc3.jpg' %>! |
+|!<%=r 'files/images/d1f1cc51bc.jpg' %>!||!<%=r 'files/images/8565b6cfd2.jpg' %>!||!<%=r 'files/images/75dbdbefc3.jpg' %>!|
 
-*Flashapplikation zum Thema Forum romanum*
-*Zielgruppe:* Studierende der Archäologie
-*Technische Voraussetzungen:* Internet-Browser mit Flash-PlugIn
-*Medien:* Audio, Bild, Video, Text
-*Lehrmethode:* Entdeckendes Lernen
+Flashapplikation zum Thema Forum romanum
 
-URL: "http://www.talis-online.de":http://www.talis-online.de/
+h3. Autorenschaft
 
-Von: Martini, Scheele, Theissen
+Martini, Scheele, Theissen
+
+h3. Zielgruppe
+
+Studierende der Archäologie
+
+h3. Technische Voraussetzungen
+
+Internet-Browser mit Flash-PlugIn
+
+h3. Medien
+
+Audio, Bild, Video, Text
+
+h3. Lehrmethode
+
+Entdeckendes Lernen
+
+h3. Link
+
+"www.talis-online.de":http://www.talis-online.de/

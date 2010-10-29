@@ -7,19 +7,30 @@ h2. <%= page_title %>
 
 09.03.07
 
-!<%=r 'files/images/3ada502581.jpg' %>!
-
-
-*Multimedia-Projekt*
+|!<%=r 'files/images/3ada502581.jpg' %>!|
 
 Das Altenberg-Multimedia-Projekt ist eine durch den Universitätsverbund Multimedia (UVM) unterstützte Kooperation der Lehrstühle Baugeschichte (Prof. Nußbaum) und Software-Technologie (Prof. Doberkat) an der Universität Dortmund. Ziel des 1997 gestarteten Projektes ist es, eine multimediale, interaktive Lernsoftware zu erstellen, die es der Nutzerin bzw. dem Nutzer ermöglicht, sich ein gotisches Architektursystem unter Ausnutzung multimedialer Techniken zu veranschaulichen und im Detail erklären zu lassen.
 
+h3. Autorenschaft
 
+Lehrstühle Baugeschichte (Prof. Nußbaum), Software-Technologie (Prof. Doberkat), Universität Dortmund
 
-*Autorenschaft:* Lehrstühle Baugeschichte (Prof. Nußbaum), Software-Technologie (Prof. Doberkat), Universität Dortmund
-*Zielgruppe:* Studierende der Kunstgeschichte
-*Technische Voraussetzungen:* Zur Darstellung bestimmter Multimediainhalte wird Quicktime (4.0) und dessen PlugIn in aktueller Version (4.0) benötigt.
-*Medien:* Text, Bild, 3D-Darstellungen
-*Lehrmethode:* induktiv, von der Anschauung eines Einzelojektes ausgehend
+h3. Zielgruppe
 
-Link: "www.altenberg-projekt.uni-dortmund.de":http://www.altenberg-projekt.uni-dortmund.de/
+Studierende der Kunstgeschichte
+
+h3. Technische Voraussetzungen
+
+Zur Darstellung bestimmter Multimediainhalte wird Quicktime (4.0) und dessen PlugIn in aktueller Version (4.0) benötigt.
+
+h3. Medien
+
+Text, Bild, 3D-Darstellungen
+
+h3. Lehrmethode
+
+induktiv, von der Anschauung eines Einzelojektes ausgehend
+
+h3. Link
+
+"www.altenberg-projekt.uni-dortmund.de":http://www.altenberg-projekt.uni-dortmund.de/

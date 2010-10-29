@@ -8,30 +8,36 @@ h2. <%= page_title %>
 <%# TODO: current + info %>
 
 h3. 2009
+
 * "Newsletter 2009/04":<%=r 'prometheus/newsletter/2009-04' %>
 * "Newsletter 2009/03":<%=r 'prometheus/newsletter/2009-03' %>
 * "Newsletter 2009/02":<%=r 'prometheus/newsletter/2009-02' %>
 * "Newsletter 2009/01":<%=r 'prometheus/newsletter/2009-01' %>
 
 h3. 2008
+
 * "Newsletter 2008/01":<%=r 'prometheus/newsletter/2008-01' %>
 
 h3. 2007
+
 * "Newsletter 2007/03":<%=r 'prometheus/newsletter/2007-03' %>
 * "Newsletter 2007/02":<%=r 'prometheus/newsletter/2007-02' %>
 * "Newsletter 2007/01":<%=r 'prometheus/newsletter/2007-01' %>
 
 h3. 2006
+
 * "Newsletter 2006/02":<%=r 'prometheus/newsletter/2006-02' %>
 * "Newsletter 2006/01":<%=r 'prometheus/newsletter/2006-01' %>
 
 h3. 2005
+
 * "Newsletter 2005/04":<%=r 'prometheus/newsletter/2005-04' %>
 * Newsletter 2005/03
 * "Newsletter 2005/02":<%=r 'prometheus/newsletter/2005-02' %>
 * Newsletter 2005/01
 
 h3. 2004
+
 * "Newsletter 2004/04":<%=r 'prometheus/newsletter/2004-04' %>
 * "Newsletter 2004/03 Supplement":<%=r 'prometheus/newsletter/2004-03-2' %>
 * "Newsletter 2004/03":<%=r 'prometheus/newsletter/2004-03-1' %>
@@ -39,5 +45,6 @@ h3. 2004
 * Newsletter 2004/01
 
 h3. 2003
+
 * "Newsletter 2003/02":<%=r 'prometheus/newsletter/2003-02' %>
 * "Newsletter 2003/01":<%=r 'prometheus/newsletter/2003-01' %>

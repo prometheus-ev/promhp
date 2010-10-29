@@ -7,15 +7,20 @@ h2. <%= page_title %>
 
 01.11.07
 
+|!<%=r 'files/images/9aeccb7266.jpg' %>!||!<%=r 'files/images/300fbfe3cc.jpg' %>!||!<%=r 'files/images/3b322f7855.jpg' %>!|
 
-| !<%=r 'files/images/9aeccb7266.jpg' %>!  |  !<%=r 'files/images/300fbfe3cc.jpg' %>!  |  !<%=r 'files/images/3b322f7855.jpg' %>! |
+h3. Autorenschaft
 
-*Autorenschaft:*  Sabine Scheele (s2w3.com) in Zusammenarbeit mit Dr. Stefan Brenne (Uni Gießen), dem HRZ Uni Gießen und prometheus
-*Zielgruppe:*  Reisende und Daheimgebliebene
-*Medien:*  Hypertext, Blog, Video, Link- und Literaturlisten
+Sabine Scheele (s2w3.com) in Zusammenarbeit mit Dr. Stefan Brenne (Uni Gießen), dem HRZ Uni Gießen und prometheus
 
+h3. Zielgruppe
 
-Link:
-"http://www.exkursion-online.de":http://www.uni-giessen.de/exkursion-online/
+Reisende und Daheimgebliebene
 
-Von: Sabine Scheele
+h3. Medien
+
+Hypertext, Blog, Video, Link- und Literaturlisten
+
+h3. Link
+
+"www.exkursion-online.de":http://www.exkursion-online.de/

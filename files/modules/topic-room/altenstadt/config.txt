@@ -1,0 +1,13 @@
+wandelt eingelesene syntax &themenraum=Themenraum Altenstadt&
+&thema=Entdeckung+von+Wandmalerei+in+Deutschland&
+&thema_kern=Bildbeschreibung+Christopherus&
+&kap_pfade=topo~Topografie#gesch~Geschichte#archi~Architektur#grossg~Grosser Gott von Altenstadt#taufst~Taufstein#fresken~Fresken#ausstatt~Ausstattung#baugesch~Baugeschichte#kirchgem~Kirche und Gemeinde#bildbeschr~Bildbeschreibung Christopherus&
+&ltrailer_pfad=trailer/trailer.sfw&
+&rtrailer_pfad=&
+&lintr_pfad=intro/lintro.swf&
+&rintr_pfad=intro/rintro.swf&
+&grp_offset=16&
+&grp_speed=3&
+&cnt_offset=8&
+&cnt_speed=5&
+&dataload=1&

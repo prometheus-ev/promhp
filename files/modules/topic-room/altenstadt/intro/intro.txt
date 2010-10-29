@@ -1,0 +1,8 @@
+&test=URL+encodierungscodes&
+&kategorieen=Topografie#Geschichte#Architektur#Grosser+Gott+von+Altenstein#Taufstein#Fresken#Ausstattung#Baugeschichte#Kirche+und+Gemeinde#Bildbeschreibung+Christopherus&
+&katpfade=topo/topo.swf#gesch/geschichte.swf#archi/architek.swf#grossg/ggvaltst.swf#taufst/taufst.swf#fresken/fresk.swf#ausstatt/ausstatt.swf#baugesch/bauges.swf#kirchgem/kirchg.swf#bildbchr/christoph.swf&
+&lintro=irgendwaslinks.swf&
+&rintro=irgendwasrechts.swf&
+&winsize=370:400&
+&dataload=1&
+&thema=Fund+von+Wandmalerei+und+Architektur+in+Deutschland+Themenraum+Altenstadt&

@@ -188,8 +188,8 @@
       - :title_en: Ad fontes (German)
         :title_de: Ad fontes
         :url: tools/modules/method-coach/ad-fontes
-    - :title_en: Knowledge-Coach (German)
-      :title_de: Wissenstrainer
+    - :title_en: Knowledge-Coach
+      :title_de: Wissens-Trainer
       :url: tools/modules/knowledge-coach
       :content:
       - :title_en: Terminologie-Trainer (German)

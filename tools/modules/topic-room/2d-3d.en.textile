@@ -8,15 +8,30 @@ h2. <%= page_title %>
 
 09.03.07
 
-| !<%=r 'files/images/e2a6a71d68.jpg' %>! | !<%=r 'files/images/e383e757b9.jpg' %>! |
+|!<%=r 'files/images/e2a6a71d68.jpg' %>!||!<%=r 'files/images/e383e757b9.jpg' %>!|
 
-*Zum Basisstudium "2D/3D Gestalten" wurde dieser Themenraum von Studierenden der Hochschule Anhalt geplant und in einigen Bereichen auch umgesetzt.*
+Zum Basisstudium "2D/3D Gestalten" wurde dieser Themenraum von Studierenden der Hochschule Anhalt geplant und in einigen Bereichen auch umgesetzt.
 
-*Zielgruppe:* Studiende
-*Technische Voraussetzungen:* Internet-Browser mit Flash-PlugIn
-*Medien:* Bewegtbild, Bild, Text
-*Lehrmethode:* Exploratives Lernen
+h3. Autorenschaft
 
-Link: "tr-zweiddreid.des.hs-anhalt.de":http://tr-zweiddreid.des.hs-anhalt.de/
+Hochschule Anhalt, Fachbereich Design
 
-Von: Hochschule Anhalt, Fachbereich Design
+h3. Zielgruppe
+
+Studiende
+
+h3. Technische Voraussetzungen
+
+Internet-Browser mit Flash-PlugIn
+
+h3. Medien
+
+Bewegtbild, Bild, Text
+
+h3. Lehrmethode
+
+Exploratives Lernen
+
+h3. Link
+
+"tr-zweiddreid.design.hs-anhalt.de":http://tr-zweiddreid.design.hs-anhalt.de/

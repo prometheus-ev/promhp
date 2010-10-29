@@ -1,0 +1,9 @@
+&cntitem0=cnt_skey~cnt_keyalias~cnt_source~group_key~item_name~item_text~item_help_source&
+
+
+&cntitem1=020aaa1~060mmm~data/stud_glocke.swf~~BilderGlockenweihe~~&
+&cntitem2=060aaa1~020mmm~data/stud_glocke.swf~015~BilderGlockenweihe~~&
+
+
+
+&cnt=2&

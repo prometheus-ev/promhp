@@ -6,34 +6,37 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=65
 h2. <%= page_title %>
 
 Der Themenraum beruht auf konstruktivistischen Prinzipien, denn er bietet
-- einen authentischen Anwendungskontext,
-- multiple Perspektiven auf den Inhalt,
-- realitätsgetreue komplexe Problemlöseaufgaben und
-- Adaptivität.
+* einen authentischen Anwendungskontext,
+* multiple Perspektiven auf den Inhalt,
+* realitätsgetreue komplexe Problemlöseaufgaben und
+* Adaptivität.
+
 Die Adaptivität wird hier realisiert in
-- frei wählbaren Zugängen und Lernwegen,
-- gestaffelten Informationsniveaus,
-- gestuften Hilfen und
-- unterschiedlichen Aufgabenschwierigkeiten
+* frei wählbaren Zugängen und Lernwegen,
+* gestaffelten Informationsniveaus,
+* gestuften Hilfen und
+* unterschiedlichen Aufgabenschwierigkeiten
+
 und nicht auf der Basis von automatisch erstellten Benutzerprofilen.
+
 Im Mittelpunkt stehen ein fachspezifischer Inhalt, seine Objekte, komplexe reale Problemsituationen und individuelle Leistungen zu übergreifenden intellektuellen Fragestellungen, wie auch die folgenden Beispiele zeigen:
 
+h3. 2D-3D Grundlagen
 
-*2D-3D Grundlagen*
-| !<%=r 'files/images/e2a6a71d68.jpg' %>! | Zum Basisstudium "2D/3D Gestalten" wurde dieser Themenraum von Studierenden der Hochschule Anhalt geplant und in einigen Bereichen auch umgesetzt. "» mehr":<%=r 'tools/modules/topic-room/2d-3d' %> |
+|!<%=r 'files/images/e2a6a71d68.jpg' %>!:<%=r 'tools/modules/topic-room/2d-3d' %>||Zum Basisstudium "2D/3D Gestalten" wurde dieser Themenraum von Studierenden der Hochschule Anhalt geplant und in einigen Bereichen auch umgesetzt. "» mehr":<%=r 'tools/modules/topic-room/2d-3d' %>|
 
+h3. Altenberger Dom
 
-*Altenberger Dom*
-| !<%=r 'files/images/3ada502581.jpg' %>! | Multimedia-Projekt "» mehr":<%=r 'tools/modules/topic-room/altenberger-dom' %> |
+|!<%=r 'files/images/3ada502581.jpg' %>!:<%=r 'tools/modules/topic-room/altenberger-dom' %>||Das Altenberg-Multimedia-Projekt ist eine multimediale, interaktive Lernsoftware... "» mehr":<%=r 'tools/modules/topic-room/altenberger-dom' %>|
 
+h3. Altenstadt - Entdeckung einer Wandmalerei
 
-*Altenstadt - Entdeckung einer Wandmalerei*
-| !<%=r 'files/images/033c234766.jpg' %>! | Um Neugier und Forschergeist zu wecken, wurde das Thema "Entdeckung einer Wandmalerei" ausgesucht. Der Einstieg sollte der Wirklichkeit entnommen, interessant, vielseitig und erweiterbar, qualitätvoll, aber nicht "zu bekannt"... "» mehr":<%=r 'tools/modules/topic-room/altenstadt' %> |
+|!<%=r 'files/images/033c234766.jpg' %>!:<%=r 'tools/modules/topic-room/altenstadt' %>||Um Neugier und Forschergeist zu wecken, wurde das Thema "Entdeckung einer Wandmalerei" ausgesucht. Der Einstieg sollte der Wirklichkeit entnommen, interessant, vielseitig und erweiterbar, qualitätvoll, aber nicht "zu bekannt"... "» mehr":<%=r 'tools/modules/topic-room/altenstadt' %>|
 
+h3. Forum romanum
 
-*Forum romanum*
-| !<%=r 'files/images/d1f1cc51bc.jpg' %>! | Flashapplikation zum Thema Forum romanum "» mehr":<%=r 'tools/modules/topic-room/forum-romanum' %> |
+|!<%=r 'files/images/d1f1cc51bc.jpg' %>!:<%=r 'tools/modules/topic-room/forum-romanum' %>||Flashapplikation zum Thema Forum romanum "» mehr":<%=r 'tools/modules/topic-room/forum-romanum' %>|
 
+h3. mauer_reste
 
-*mauer_reste*
-| !<%=r 'files/images/e138123eaa.jpg' %>! | mauer_reste wurde mit dem esPrix 2005 ausgezeichnet! "» mehr":<%=r 'tools/modules/topic-room/forum-romanum' %> |
+|!<%=r 'files/images/e138123eaa.jpg' %>!:<%=r 'tools/modules/topic-room/mauerreste' %>||mauer_reste dokumentiert die heute sichtbaren Reste der Berliner Mauer an der Bernauer Straße, ergänzt durch allgemeine und historische Informationen. "» mehr":<%=r 'tools/modules/topic-room/mauerreste' %>|

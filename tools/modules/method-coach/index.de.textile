@@ -5,13 +5,12 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=64&L=0&skin=0
 ---
 h2. <%= page_title %>
 
-Zum Grundstudium gehört das Kennenlernen und das situative Anwenden unterschiedlicher fachspezifischer Methoden.
-Der Methoden-Coach wird theoretische Informationen zum großen Methodenspektrum und praktische Anwendungsmöglichkeiten über einen Pool von Fallbeispielen anbieten.
-Die Lernenden erreichen ihre Methodenkompetenz entweder über in der Lehre vorgegebene Wege oder über eigene Wege, bei denen sie auch jederzeit auf die Unterstützung des Programms zurückgreifen können.
+Zum Grundstudium gehört das Kennenlernen und das situative Anwenden unterschiedlicher fachspezifischer Methoden. Der Methoden-Coach wird theoretische Informationen zum großen Methodenspektrum und praktische Anwendungsmöglichkeiten über einen Pool von Fallbeispielen anbieten. Die Lernenden erreichen ihre Methodenkompetenz entweder über in der Lehre vorgegebene Wege oder über eigene Wege, bei denen sie auch jederzeit auf die Unterstützung des Programms zurückgreifen können.
 
-*Beschreibungs-Coach*
-!<%=r 'files/images/5256d3576f.jpg' %>! Konzept "» mehr":<%=r 'tools/modules/method-coach/beschreibungscoach' %>
+h3. Beschreibungs-Coach
 
+|!<%=r 'files/images/5256d3576f.jpg' %>!:<%=r 'tools/modules/method-coach/beschreibungscoach' %>||Das vorliegende Konzept zum Beschreibungs-Coach bezieht sich auf zwei Beschreibungsseminare... "» mehr":<%=r 'tools/modules/method-coach/beschreibungscoach' %>|
 
-*Ad fontes - Eine Einführung in den Umgang mit Quellen im Archiv*
-!<%=r 'files/images/bca5e0d8e5.jpg' %>! Studierende der Geschichtswissenschaft und verwandter Fächer "» mehr":<%=r 'tools/modules/method-coach/ad-fontes' %>
+h3. Ad fontes - Eine Einführung in den Umgang mit Quellen im Archiv
+
+|!<%=r 'files/images/bca5e0d8e5.jpg' %>!:<%=r 'tools/modules/method-coach/ad-fontes' %>||Mit diesem Internet-Lernangebot können Geschichtsstudierende praxisnah den Umgang und die Auswertung von handschriftlichem Quellenmaterial lernen. "» mehr":<%=r 'tools/modules/method-coach/ad-fontes' %>|

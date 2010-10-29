@@ -1,0 +1,18 @@
+&cntitem0=cnt_skey~cnt_keyalias~cnt_source~group_key~item_name~item_text~item_help_source&
+
+&cntitem1=010aaa1~080mmm~data/link_adfontes.swf~~Linkliste Adfontes~~&
+&cntitem2=080aaa1~010mmm~data/link_adfontes.swf~005~Linkliste Adfontes~~&
+
+&cntitem3=020aaa1~060mmm~data/stud_gesch1.swf~~Bilder zur Geschichte~~&
+&cntitem4=060aaa1~020mmm~data/stud_gesch1.swf~014~Bilder zur Geschichte~~&
+
+&cntitem5=010aaa2~060mmm~data/stud_dendro.swf~~Jahresringdatierung~~&
+&cntitem6=060aaa2~010mmm~data/stud_dendro.swf~015~Jahresringdatierung~~&
+
+&cntitem7=010aaa3~060mmm~data/stud_templer1.swf~~Tempelritter~Templer in Altenstadt~&
+&cntitem8=060aaa3~010mmm~data/stud_templer1.swf~015~Tempelritter~Templer in Altenstadt~&
+
+&cntitem9=040aaa1~~data/ausstellung.swf~~Ausstellung~Gestalten Sie eine Ausstellung in Altenstadt! <b>TIPP: </b>Waehlen Sie zuerst ein Thema und ziehen Sie <br>danach Bilder und Texte auf die jeweilige Ausstellungswand!~&
+
+
+&cnt=9&

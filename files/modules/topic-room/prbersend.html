@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>- problembericht senden - </title>
+</head>
+<script language="JavaScript">
+function prb_send(){
+document.form.submit();
+}
+
+</script>
+<body bgcolor="#cccccc">
+<form name="formul">
+status:&nbsp;<input type="Text" name="info" size="40"><br>
+</form>
+<br>
+<form name="form" action="http://lkhnet.han-solo.net/cgi-bin/form_back" method="post">
+<input type="hidden" name=UseDomain value=Y>	
+<input type="Hidden" name="HTMLBack" value="http://www.willys-place.de/prj/thr/danke.html">
+<input type="Hidden" name="EMail" value="wizard@willys-place.de">
+<input type="Hidden" name="MailCC" value="wizard@willys-place.de">
+<input type="Hidden" name="Header" size="50" maxlength="50" value="Lernmodul problembericht">
+<input type="text" name="Mail" size="50" maxlength="50" value="owner-prometheus@rrz.uni-koeln.de">
+<input type="Hidden" name="Text" size="50" maxlength="50" value="
+
+<b>bericht</b><br>
+1. angabe ...
+
+
+">
+
+<br>
+<input type="text" name="weiteres" size="50" maxlength="50" value="
+<b>bericht</b><br>
+1. angabe ...
+
+
+">
+</form>
+
+<script language="JavaScript">
+window.setTimeout("prb_send();",3000);
+</script>
+</body>
+</html>

@@ -8,19 +8,30 @@ h2. <%= page_title %>
 
 05.03.07
 
-| !<%=r 'files/images/bca5e0d8e5.jpg' %>! | !<%=r 'files/images/cbd3990592.jpg' %>! | !<%=r 'files/images/aac2ade95c.jpg' %>! |
+|!<%=r 'files/images/bca5e0d8e5.jpg' %>!||!<%=r 'files/images/cbd3990592.jpg' %>!||!<%=r 'files/images/aac2ade95c.jpg' %>!|
 
+Mit diesem Internet-Lernangebot können Geschichtsstudierende praxisnah den Umgang und die Auswertung von handschriftlichem Quellenmaterial lernen. An Beispielen aus dem Stiftsarchiv Einsiedeln kann das Lesen und Datieren sowie das Erschliessen und Auswerten von Archivquellen interaktiv geübt werden.
 
-*Studierende der Geschichtswissenschaft und verwandter Fächer*
-Mit diesem Internet-Lernangebot können Geschichtsstudierende praxisnah den Umgang und die Auswertung von handschriftlichem Quellenmaterial lernen.
-An Beispielen aus dem Stiftsarchiv Einsiedeln kann das Lesen und Datieren sowie das Erschliessen und Auswerten von Archivquellen interaktiv geübt werden.
+h3. Projektverantwortung
 
+Prof. Dr. Roger Sablonier
 
-*Zielgruppe:* Studierende der Geschichtswissenschaft und verwandter Fächer
-*Technische Voraussetzungen:* Internet-Browser, Macromedia Shockwave Plugin, Apple QuickTime
-*Medien:* Bewegtbild (Panoramen), Bild, Text
-*Lehrmethode:* fallbasiertes Lernen
+h3. Zielgruppe
 
-Link:  "www.adfontes.unizh.ch":http://www.adfontes.uzh.ch/1000.php
+Studierende der Geschichtswissenschaft und verwandter Fächer
 
-Von: Projektverantwortung: Prof. Dr. Roger Sablonier
+h3. Technische Voraussetzungen
+
+Internet-Browser, Macromedia Shockwave Plugin, Apple QuickTime
+
+h3. Medien
+
+Bewegtbild (Panoramen), Bild, Text
+
+h3. Lehrmethode
+
+fallbasiertes Lernen
+
+h3. Link
+
+"www.adfontes.unizh.ch":http://www.adfontes.uzh.ch/1000.php

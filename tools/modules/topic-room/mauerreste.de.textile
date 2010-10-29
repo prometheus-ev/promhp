@@ -7,25 +7,23 @@ h2. <%= page_title %>
 
 09.03.07
 
-| !<%=r 'files/images/e138123eaa.jpg' %>! | !<%=r 'files/images/b538f8d45f.jpg' %>! | !<%=r 'files/images/b538f8d45f.jpg' %>! |
-
+|!<%=r 'files/images/e138123eaa.jpg' %>!||!<%=r 'files/images/b538f8d45f.jpg' %>!||!<%=r 'files/images/b538f8d45f.jpg' %>!|
 
 *mauer_reste wurde mit dem esPrix 2005 ausgezeichnet!*
-*mauer-reste* dokumentiert die heute sichtbaren Reste der Berliner Mauer an der Bernauer Straße, ergänzt durch allgemeine und historische Informationen.
-Der Spaziergang steht zusätzlich als druckbare Version zur Verfügung und kann so als Reiseführer genutzt werden. Inhalt:
 
-#* 1. Geschichte der Berliner Mauer
+mauer_reste dokumentiert die heute sichtbaren Reste der Berliner Mauer an der Bernauer Straße, ergänzt durch allgemeine und historische Informationen. Der Spaziergang steht zusätzlich als druckbare Version zur Verfügung und kann so als Reiseführer genutzt werden. Inhalt:
 
-#* 2. Verlauf der Berliner Mauer
+# Geschichte der Berliner Mauer
+# Verlauf der Berliner Mauer
+# Aufbau der Berliner Mauer
+# Spaziergang Bernauer Straße
+# Literatur
+# Links
 
-#* 3. Aufbau der Berliner Mauer
+h3. Autorenschaft
 
-#* 4. Spaziergang Bernauer Straße
+Hans-Stefan Bolz
 
-#* 5. Literatur
+h3. Link
 
-#* 6. Links
-
-Link: "www.hansstefanbolz.de/mauerreste":http://www.hansstefanbolz.de/mauerreste/
-
-Von: Hans-Stefan Bolz
+"www.hansstefanbolz.de/mauerreste":http://www.hansstefanbolz.de/mauerreste/

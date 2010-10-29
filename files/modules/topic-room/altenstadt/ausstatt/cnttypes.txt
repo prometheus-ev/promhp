@@ -1,0 +1,19 @@
+&cntitem0=cnt_skey~cnt_keyalias~cnt_source~group_key~item_name~item_text~item_help_source&
+
+&cntitem1=020aaa1~060mmm~data/stud_madonna1.swf~~Bilder Madonna~~&
+&cntitem2=060aaa1~020mmm~data/stud_madonna1.swf~014~Bilder Madonna~~&
+
+&cntitem3=020aaa2~060mmm~data/stud_standort1.swf~~Objektstandorte~~&
+&cntitem4=060aaa2~020mmm~data/stud_standort1.swf~015~Objektübersicht~~&
+
+&cntitem5=020aaa3~060mmm~data/stud_orgel.swf~015~Orgel~Orgeln und Orgelmusik~&
+&cntitem6=060aaa3~020mmm~data/stud_orgel.swf~015~Orgel~Orgeln und Orgelmusik~&
+
+&cntitem7=020aaa4~060mmm~data/stud_assistenz1.swf~~Bilder Assistenzfiguren~~&
+&cntitem8=060aaa4~020mmm~data/stud_assistenz1.swf~014~Bilder Assistenzfiguren~~&
+
+
+&cntitem9=040aaa1~~data/stud_spielzuordnen1.swf~~Objekte zuordnen~Ordnen Sie zu! <b>TIPP:</b> Waehlen Sie zuerst eine Gebaeudeabbildung aus!~&
+
+&cnt=9&
+

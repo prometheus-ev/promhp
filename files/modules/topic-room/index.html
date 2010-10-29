@@ -1,0 +1,57 @@
+<HTML>
+<HEAD>
+<TITLE>themenraum</TITLE>
+
+</HEAD>
+<script language="JavaScript">
+var InternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
+var dbgwin;
+var smgwin;
+function debug_win(){
+dbgwin = window.open("","","");
+dbgwin.document.open();
+dbgwin.document.writeln("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head><meta http-equiv=Content-Type content=\"text/html;  charset=ISO-8859-1\"><title>debug Log-Datei</title></head><body bgcolor=\"#000000\" style=\"font-family:verdana; font-size:11px; color:AAFF66;\"><div align=\"left\">");
+}
+
+function get_debug(){
+var path = InternetExplorer ? lm : document.lm;
+var debug_item = path.GetVariable("_root.debug_string");
+dbgwin.document.writeln("<br><hr noshade>"+debug_item);
+}
+
+function prber_mail(){
+var path = InternetExplorer ? lm : document.lm;
+smgwin = window.open("prbersend.html", "problembericht", "width=600,height=400");
+//smgwin.document.open();
+//smgwin.document.writeln("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">\n<html>\n<head><meta http-equiv=Content-Type content=\"text/html;  charset=ISO-8859-1\"><title>Problembericht senden</title></head><body bgcolor=\"#000000\" style=\"font-family:verdana; font-size:11px; color:AAFF66;\"><div align=\"left\">");
+}
+
+function prber_status(p){
+smgwin.document.formul.info.value = p;
+}
+
+function oeffneSuche(){
+window.open("pro_suche.html", "Projekt_Suche", "width=400,height=400,dependent=yes,scrollbars=yes,resizable=yes");
+}
+
+function oeffneEingabe(){
+window.open("pro_einfuegen.html", "Projekt_Eingabe", "width=400,height=400,dependent=yes,scrollbars=yes,resizable=yes");
+}
+</script>
+
+
+<BODY bgcolor="#333333" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" 
+ID=lm WIDTH="100%" HEIGHT="100%">
+<PARAM NAME=movie VALUE="lmodul.swf">
+<PARAM NAME=quality VALUE="high">
+<PARAM NAME=salign VALUE="L">
+<PARAM NAME=bgcolor VALUE="#333333">
+<EMBED swLiveConnect="true" 
+NAME="lm" src="lmodul.swf" salign="L" quality="high" bgcolor="#333333" WIDTH="100%" HEIGHT="100%" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+</EMBED>
+</OBJECT>
+
+
+</BODY>
+</HTML>

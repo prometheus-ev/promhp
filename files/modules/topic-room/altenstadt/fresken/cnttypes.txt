@@ -1,0 +1,22 @@
+&cntitem0=cnt_skey~cnt_keyalias~cnt_source~group_key~item_name~item_text~item_help_source&
+
+&cntitem1=020aaa1~060mmm~data/stud_fresken1.swf~~Bilder Fresken~~&
+&cntitem2=060aaa1~020mmm~data/stud_fresken1.swf~014~Bilder Fresken~~&
+
+&cntitem3=010aaa1~080mmm~data/stud_fresken2.swf~~Christophorus Zeitungsartikel~Entdeckung eines Freskos~&
+&cntitem4=080aaa1~010mmm~data/stud_fresken2.swf~007~Christophorus Zeitungsartikel~Entdeckung eines Freskos~&
+
+&cntitem5=010aaa2~060mmm~data/stud_fresken3.swf~~Bilder  St. Michael ~Weitere Darstellungen~&
+&cntitem6=060aaa2~010mmm~data/stud_fresken3.swf~014~Bilder  St. Michael ~Weitere Darstellungen~&
+
+&cntitem7=010aaa3~060mmm~data/stud_bild1.swf~~Christophorus Schlagzeilen~~&
+&cntitem8=080aaa2~010mmm~data/stud_bild1.swf~015~Christophorus Schlagzeilen~~&
+
+&cntitem9=020aaa2~060mmm~data/stud_michael1.swf~~Fresko St. Michael~~&
+&cntitem10=060aaa3~020mmm~data/stud_michael1.swf~014~Fresko St. Michael~~&
+
+&cntitem11=020aaa3~060mmm~data/stud_verkuend1.swf~~Fresko Verkuendigung~~&
+&cntitem12=060aaa4~020mmm~data/stud_verkuend1.swf~014~Fresko Verkuendigung~~&
+
+&cnt=12&
+

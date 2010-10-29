@@ -7,16 +7,22 @@ h2. <%= page_title %>
 
 05.03.07
 
-!<%=r 'files/images/3ba062b1cd.jpg' %>!
+|!<%=r 'files/images/3ba062b1cd.jpg' %>!|
 
+Die Funktionen von Kunst und deren Wandel im Laufe der Geschichte bilden den Kern dieses Lernprogramms. Im Zentrum steht dabei die Frage, welche unterschiedlichen Aufgaben die Kunst zu den verschiedenen Zeiten übernommen hat. Kunstgeschichte kann so als lebendiger Prozess begriffen werden, in dem die verschiedensten Einflüsse bestimmend auf das jeweilige Kunstwerk einwirken. Dieses Internetangebot basiert auf dem 1985 entwickelten "Funkkolleg Kunst", dessen Texte komplett überarbeitet wurden. Die Inhalte erscheinen nun in einer neuen mediengerechten Präsentation, sie wurden didaktisch aufbereitet und reichhaltig mit neuem Material erweitert. (s. Ankündigung im Projekt "Schule des Sehens")
 
-*Studierende der Kunstgeschichte*
-"Die Funktionen von Kunst und deren Wandel im Laufe der Geschichte bilden den Kern dieses Lernprogramms. Im Zentrum steht dabei die Frage, welche unterschiedlichen Aufgaben die Kunst zu den verschiedenen Zeiten übernommen hat. Kunstgeschichte kann so als lebendiger Prozess begriffen werden, in dem die verschiedensten Einflüsse bestimmend auf das jeweilige Kunstwerk einwirken. Dieses Internetangebot basiert auf dem 1985 entwickelten "Funkkolleg Kunst", dessen Texte komplett überarbeitet wurden. Die Inhalte erscheinen nun in einer neuen mediengerechten Präsentation, sie wurden didaktisch aufbereitet und reichhaltig mit neuem Material erweitert." (s. Ankündigung im Projekt "Schule des Sehens")
+h3. Autorenschaft
 
+Werner Busch (Hg.), FU Berlin
 
-*Zielgruppe:* Studierende der Kunstgeschichte
-*Medien:* Hypertext
+h3. Zielgruppe
 
-Link:  "hera.geschkult.fu-berlin.de/~sds":http://sds.geschkult.fu-berlin.de/~sds/
+Studierende der Kunstgeschichte
 
-Von: Werner Busch (Hg.), FU Berlin
+h3. Medien
+
+Hypertext
+
+h3. Link
+
+"www.kunst-und-funktion.de":http://www.kunst-und-funktion.de/

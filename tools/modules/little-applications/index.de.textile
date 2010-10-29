@@ -7,6 +7,6 @@ h2. <%= page_title %>
 
 In dieser Kategorie finden Sie kleine Applikationen, die sich schnell in eine Lerneinheit o.ä. einbauen lassen.
 
-*Malen mit Flash*
+h3. Malen mit Flash
 
-!<%=r 'files/images/4c78bb2698.jpg' %>! Interaktive Flash-Applikation über die Wirkung von Komplementärkontrasten "» mehr":<%=r 'tools/modules/little-applications/malen-mit-flash' %>
+|!<%=r 'files/images/4c78bb2698.jpg' %>!:<%=r 'tools/modules/little-applications/malen-mit-flash' %>||Interaktive Flash-Applikation über die Wirkung von Komplementärkontrasten. "» mehr":<%=r 'tools/modules/little-applications/malen-mit-flash' %>|
