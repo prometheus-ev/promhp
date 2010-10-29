@@ -1,0 +1,7 @@
+<p class="post-meta">
+  <%= date_to_string(post.date) %>
+<% unless (tags = tags(post)).empty? %>
+  <span class="pale">|</span>
+  Tags: <%= tags %>
+<% end %>
+</p>
