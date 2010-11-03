@@ -9,25 +9,30 @@ prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V.
 Vereinsregister Amtsgericht Köln: VR 14202
 "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
 
-*Vertretungsberechtigter Vorstand*
+h3. Vertretungsberechtigter Vorstand
+
 PD Dr. Holger Simon
 Kunsthistorisches Institut der Universität zu Köln
 Albertus-Magnus-Platz
 D - 50923 Köln
 Tel. 0221 470 4476
 
-*Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV*
+h3. Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV
+
 Der Vorstand von prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V.
 D - 50923 Köln
 Tel. 0221 470 4476
 
-*Übersetzung*
+h3. Übersetzung
+
 Astrid Puckett, Wirtschaftsdolmetscherin (Englisch)
 
-*Webdesign*
+h3. Webdesign
+
 Ingo Feisthamel, "Hello Earth":http://helloearth.de
 
-*Haftung*
+h3. Haftung
+
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V. veröffentlicht Informationen und Beiträge auf dieser Website nach bestem Wissen und sorgfältiger Kontrolle der Inhalte. Eine Gewähr für Aktualität, Richtigkeit und Vollständigkeit der auf der Website veröffentlichten Informationen und Verweise kann aufgrund ständiger Aktualisierungen der Website nicht übernommen werden. Eine Haftung für Schäden, die durch Nutzung von Angeboten auf der Website entstehen, ist ausgeschlossen.
 
 Externe Links, auf die prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V. keinen Einfluss hat, haben informativen Charakter und geben den Inhalt und die Meinung der jeweiligen Anbieter wieder, für die wir keine Haftung übernehmen. Für den Inhalt dieser verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
