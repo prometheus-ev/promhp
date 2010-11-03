@@ -13,51 +13,29 @@ Usage other than for research and education requires the consideration of possib
 
 If images will be used for purposes other than research and education, the following information might be helpful to ascertain the possible copyright claims of third parties, and the appropriate options open to you.
 
-
-2. Distinction between the copyright for a work of art and the copyright for an image of that work of art
-
-
+h3. 2. Distinction between the copyright for a work of art and the copyright for an image of that work of art
 
 In order to get an adequate overview of possible third-party copyright claims regarding a specific image in prometheus, two distinct categories may apply:
 
-
-
 *(a)* Utilization rights to objects defined as "work of art" in the copyright
+*(b)* Utilization rights to images of these objects which are defined as "photographs/photographic works of art" in the copyright
 
-
-
-*(b)* Utilization rights to images of these objects which are defined as "photographs/ photographic works of art " in the copyright
-
-
-*regarding (a)*
-
-
+h4. regarding (a)
 
 The copyright-holder of a work of art is the artist. Utilization rights remain the property of the artist, and can be transferred to his/her heirs for up to 70 years after the demise of the artist.
-
-
 
 (UrhG § 64) After that time, the copyright expires, and the work of art enters the public domain.
 This definition makes clear that a copyright exists only if a specific work of art was created by an artist whose death occurred less than 70 years ago.
 
-
 Utilization rights for all artists for the years before the 70th anniversary of their demise are regulated by "Verwertungsgesellschaft Bild-Kunst":http://www.bildkunst.de/ in Bonn, Germany.
-
-
 
 prometheus has concluded an agreement with Bild-Kunst. This agreement permits making the images available through various image databases in prometheus, as well as utilizing those images for research and educational purposes (see 1).
 
-*regarding (b)*
-
-
+h4. regarding (b)
 
 Photographs of works of art are protected by ancillary copyright as well (UrhG § 72, Right to Use). Photos/slides are products of a straightforward photographic process or a process analogous to photography.  Copyright protection terminates 50 years after the creation of the photograph/slide, or 50 years after its first authorized publication. If a more artistic photograph has been produced, for example by choosing a certain angle or special lighting, it is defined as a photographic work of art, and is protected by copyright for up to 70 years after the photographer's death. As a rule, photos taken of three-dimensional originals (sculptures, etc.) result in a photographic work of art.
 
-
-
 Permission to use them requires authorization directly from the photographer or institution (e.g. image databases, publishers). prometheus endeavours to name the appropriate copyright-holders of the photographs. On occasion, the user him/herself has to research the copyright. The indicated source of the image is usually helpful.
-
-
 
 prometheus is interested in negotiating contracts with the copyright-holders of photographs, photographic works of art, photographers, image databases, publishers etc., in order to enable us to provide permission for publication for non-profit, scientific publications.
 
