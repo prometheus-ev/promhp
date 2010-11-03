@@ -5,18 +5,22 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=273&L=1&skin=
 ---
 h2. <%= page_title %>
 
-*We would like to upload our pictures in prometheus. What are the first steps?*
+# "We would like to upload our pictures in prometheus. What are the first steps?":#upload
+# "We intend to digitalize our slides. Is that recommended?":#digitalize
+
+h3(#upload). We would like to upload our pictures in prometheus. What are the first steps?
+
 First of all you create an own database.
 
 Then there are several possibilities how your database can be uploaded.
+
 1. Please send us a XML-dump with the contents and the image files and we reserve your data on the prometheus-Server.
 2. You provide us with a XML-dump with the contents but keep the image files on your own server. In this case you are responsible for the access to your own server.
-Further possibilities and options can be acquired through our office.
-see "Information for database suppliers":<%=r 'databases' %>
-*Attention!!* prometheus offers the database system DILPS to interested institutes free of charge in order to create an own database. Please apply for an account in our office.
-Your images are uploaded automatically after a DILPS database is provided.
-For the picture production please follow our recommendations:
-see Infosheet "Image reproduction: Scan" - "download: tools - reference manuals (eikonline 2)":<%=r 'tools/manuals/eikonline-2' %>
 
-*We intend to digitalize our slides. Is that recommended?*
+Further possibilities and options can be acquired through our office.
+
+"Information for database suppliers":<%=r 'databases' %>
+
+h3(#digitalize). We intend to digitalize our slides. Is that recommended?
+
 Basically it is not recommended, because most slides were photographed from books. A digital image is often much better. Only original slides with views and objects which are not found in books should be scanned.
