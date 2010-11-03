@@ -11,13 +11,14 @@ Members of prometheus have the opportunity of actively contributing to the integ
 
 Bring out your experiences and represent interests!
 
-*Membership fee*
-Annual subscription						50 €
-Reduced memebership fee for students, trainees and others	25 €
-Legal persons							180 €
+h3. Membership fee
 
-*Membership Application*
+|Annual subscription||50 €|
+|Reduced memebership fee for students, trainees and others||25 €|
+|Legal persons||180 €|
+
+h3. Membership Application
 
 "aufnahmeantrag.pdf":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
 
-Download, fill it out, sign it and sent it to our administration office!
+Download, fill it out, sign it and send it to our administration office!

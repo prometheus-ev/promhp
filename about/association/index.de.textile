@@ -34,7 +34,7 @@ In den bisherigen Evaluationen wurde deutlich, dass die Präsenzlehre keine Eins
 
 Die Anwenderinnen und Anwender stellen jeweils aus ihrer Perspektive - Lehren, Lernen und Forschen - ganz unterschiedliche Ansprüche an prometheus, denen wir gerecht werden wollen. Aus der Perspektive des Forschens steht das Bildarchiv mit seinen medienspezifischen Werkzeugen (Recherche, Arbeitsmappe, Präsentation) im Vordergrund. Aus der Sicht der Lernenden sind es neben dem Bildarchiv schwerpunktmäßig die Angebote der Lerninhalte und aus der Perspektive der Lehre bietet die Lernplattform ILIAS die Möglichkeit, relativ einfach die traditionelle Präsenzlehre mit den angebotenen Lerninhalten zu verbinden.
 
-<br />
+h3. Geschichte
 
 Hervorgegangen ist der Verein aus dem Verbundprojekt "prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre" des Förderprogramms "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
 "» zur Geschichte des Projektes und des Vereins":<%=r 'about' %>

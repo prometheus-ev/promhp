@@ -30,7 +30,7 @@ As previous evaluations show, the presence lessons must not be restricted by the
 
 Users of prometheus have various demands and needs - based on their own perspective as instructors, students or researchers - which prometheus intends to meet. From the perspective of research, the image archive with its media-specific tools (browsing, work folder, presentation) is of particular interest. From the students' perspective, the image archive and particularly the material offered in the study contents are essential. For instructors, the learning-platform ILIAS offers the possibility to fairly easily supplement the traditional lesson plan with the provided study contents.
 
-<br />
+h3. History
 
 The association has arose from the cooperative project "prometheus - The Distributed Digital Image Archive for Research & Studies" of the grant programme "Neue Medien in der Bildung" (Bundesministerium für Bildung und Forschung).
 "» History of the project and the association":<%=r 'about' %>

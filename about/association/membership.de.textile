@@ -11,12 +11,14 @@ Als Mitglied im Verein prometheus e.V. haben Sie die Möglichkeit, aktiv an der 
 
 Bringen Sie Ihre Erfahrungen ein und vertreten Sie Interessen!
 
-*Mitgliedsbeitrag*
-Jahresbeitrag	50 €
-Ermäßigt für Studierende, Auszubildende u.a.	25 €
-Juristische Personen	180 €
+h3. Mitgliedsbeitrag
 
-*Antrag auf Mitgliedschaft*
+|Jahresbeitrag||50 €|
+|Ermäßigt für Studierende, Auszubildende u.a||25 €|
+|Juristische Personen||180 €|
+
+h3. Antrag auf Mitgliedschaft
+
 "aufnahmeantrag.pdf":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
 
 PDF herunterladen und ausgefüllt und unterschrieben an die Geschäftstelle schicken!
