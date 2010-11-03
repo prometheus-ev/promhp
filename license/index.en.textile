@@ -5,6 +5,18 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=33&L=1
 ---
 h2. <%= page_title %>
 
-The prometheus image archive is a broker that brings together an array of diverse databases. The image holders put their databases at disposal free of charge for use in research and education.
+There are different ways to use prometheus. We offer the following license models for you:
 
-The license fees are used exclusively to cover the expense arising from running, managing, and improving the image archive. The association prometheus e.V. ("gemeinnütziger Verein") is decidedly non-commercial.
+h3. Campus license
+
+With a campus license all members of a university can use prometheus from any computer within the campus network. Additionally, they may obtain personal accounts for added benefit.
+
+h3. Institutional license
+
+Smaller institutions and single university departments can obtain an institutional license. The institutional license fees are staggered by the size of the institution.
+
+h3. Single license
+
+If you can't use prometheus through a licensed institution you can obtain a single license.
+
+"» License fees":<%=r 'license/fees' %>

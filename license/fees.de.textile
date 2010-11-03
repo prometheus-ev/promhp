@@ -5,41 +5,36 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=55
 ---
 h2. <%= page_title %>
 
+h3. Einzellizenz
 
-*Einzellizenz*                                     20,-€ / Jahr
-"» Zur Anmeldung":http://prometheus.uni-koeln.de/pandora/signup
+20,- €/Jahr
 
+"» Zur Anmeldung":<%=p 'signup' %>
 
+h3. Ermäßigte Lizenzgebühren für Hochschulen (über das HBZ)
 
+|Institute bis 500 Personen||500,- €/Jahr|
+|Institute bis 1000 Personen||1000,- €/Jahr|
+|Institute über 1000 Personen||1800,- €/Jahr|
+|Campuslizenz||4000,- €/Jahr|
 
-*Ermäßigte Lizenzgebühren für Hochschulen (über das HBZ)*
-Campuslizenz	4000,- €/Jahr
-Institute bis 500 Personen	500,- €/Jahr
-Institute bis 1000 Personen	1000,- €/Jahr
-Institute über 1000 Personen	1800,- €/Jahr
-Nachlass für Fachhochschulen	50%/Jahr
+Nachlass für Fachhochschulen: 50%/Jahr
 
-
-Kontaktdaten Hochschulbibliothekszentrum NRW:
+*Kontaktdaten Hochschulbibliothekszentrum NRW:*
 
 Abteilung Digitale Inhalte, Jülicher Straße 6, 50674 Köln
-Tel: 0221 400 75 - 300
+Tel: 0221 400 75 300
 "inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de
 
+h3. Lizenzgebühren für weitere Institutionen (über die prometheus-Geschäftsstelle)
 
+|Schulen und Museen||200,- €/Jahr|
+|Institutionen bis 500 Personen||900,- €/Jahr|
+|Institutionen bis 1000 Personen||1800,- €/Jahr|
+|Institutionen bis 3000 Personen||3400,- €/Jahr|
+|Institutionen über 3000 Personen||6000,-€/Jahr|
 
-
-*Lizenzgebühren für weitere Institutionen (über die prometheus-Geschäftsstelle)*
-Schulen und Museen	200,- €/Jahr
-Institutionen bis 500 Personen	900,- €/Jahr
-Institutionen bis 1000 Personen	1800,- €/Jahr
-Institutionen bis 3000 Personen	3400,- €/Jahr
-Institutionen über 3000 Personen	6000,-€/Jahr
-
-
-
-
-prometheus-Geschäftsstelle
+*prometheus-Geschäftsstelle:*
 
 Tel: 0221 470 4476
 "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
