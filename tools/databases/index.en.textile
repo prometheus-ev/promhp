@@ -6,17 +6,14 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=57&L=1&skin=&tx_ttnews[
 <%# TODO: translate %>
 h2. <%= page_title %>
 
+h3. DaDaEdu
 
-*DaDaEdu*
+|!<%=r 'files/images/33041039cc.jpg' %>!:<%=r 'tools/databases/dadaedu' %>||Bibliographie- und Objektdatenbank für Studium und Forschung. "» mehr":<%=r 'tools/databases/dadaedu' %>|
 
-!<%=r 'files/images/33041039cc.jpg' %>! Anwendungsbereich: Bibliographie- und Objektdatenbank für Studium und Forschung "» mehr":<%=r 'tools/databases/dadaedu' %>
+h3. diathek
 
+|!<%=r 'files/images/5a70813b74.jpg' %>!:<%=r 'tools/databases/diathek' %>||Relationale Bilddatenbank für den lokalen Einsatz. "» mehr":<%=r 'tools/databases/diathek' %>|
 
-*diathek*
+h3. DILPS - Distributed Image Library Processing System
 
-!<%=r 'files/images/5a70813b74.jpg' %>! Die diathek wurde während der Projektzeit von prometheus an der Justus-Liebig-Universität Gießen entwickelt. Sie ist eine relationale Bilddatenbank für den lokalen Einsatz. "» mehr":<%=r 'tools/databases/diathek' %>
-
-
-*DILPS -- Distributed Image Library Processing System*
-
-!<%=r 'files/images/64cd63e389.jpg' %>! DILPS ist ein Bilddatenbanksystem zur Verwaltung und Recherche digitaler Bilder. "» mehr":<%=r 'tools/databases/dilps' %>
+|!<%=r 'files/images/64cd63e389.jpg' %>!:<%=r 'tools/databases/dilps' %>||Bilddatenbanksystem zur Verwaltung und Recherche digitaler Bilder. "» mehr":<%=r 'tools/databases/dilps' %>|

@@ -15,9 +15,9 @@ h3. Autorenschaft
 
 prometheus e.V.
 
-h3. Nutzungsbedingungen
+h3. Anwendungsbereich
 
-Die PKND unterliegt den Bestimmungen der "Digital Peer Publishing Lizenz":http://www.dipp.nrw.de/lizenzen/dppl/ (DPPL).
+Normdaten
 
 h3. Technische Voraussetzungen
 
@@ -26,6 +26,10 @@ XML/Unicode-Support
 h3. Dateiformat/-größe
 
 Zip/856 KB
+
+h3. Nutzungsbedingungen
+
+Die PKND unterliegt den Bestimmungen der "Digital Peer Publishing Lizenz":http://www.dipp.nrw.de/lizenzen/dppl/ (DPPL).
 
 h3. Dateien zum Herunterladen
 

@@ -8,25 +8,27 @@ h2. <%= page_title %>
 
 05.03.07
 
-| !<%=r 'files/images/33041039cc.jpg' %>! | !<%=r 'files/images/6f318c06af.jpg' %>! | !<%=r 'files/images/046bd0889f.jpg' %>! |
-
-
-*Dateien zum Herunterladen:*
-"DaDaEdu.zip":<%=r 'files/media/DaDaEdu.zip' %>
-
-
-*Anwendungsbereich: Bibliographie- und Objektdatenbank für Studium und Forschung*
+|!<%=r 'files/images/33041039cc.jpg' %>!||!<%=r 'files/images/6f318c06af.jpg' %>!||!<%=r 'files/images/046bd0889f.jpg' %>!|
 
 Die vorliegende Version "DaDaEdu" wurde extra für Studierende entwickelt. Es handelt sich um eine Light-Version der in Museen und bei Sammlern verbreiteten professionellen Dokumentations- und Administrationsdatenbank "DaDa" der Firma Arthist Dokumentation, Zürich.
 DaDaEdu ist eine leicht zu bedienende Datenbank für die wissenschaftliche Arbeit. Sie verknüpft eine Bibliographie- und Objektdatenbank.
+
+h3. Autorenschaft
+
+Arthist Dokumentation, Postfach, 8023 Zürich, Schweiz
+
+h3. Anwendungsbereich
+
+Bibliographie- und Objektdatenbank für Studium und Forschung
+
+h3. Technische Voraussetzungen
+
+Windows; keine zusätzliche Software nötig [herunterladen, entpacken und DadaErfStart starten]
+
+h3. Nutzungsbedingungen
+
 DaDaEdu steht hier als Shareware-Version zur Verfügung.
 
+h3. Dateien zum Herunterladen
 
-
-*Autorenschaft:* Arthist Dokumentation, Postfach, 8023 Zürich, Schweiz
-
-*Anwendungsbereich:* Bibliographie- und Objektdatenbank für Studium und Forschung
-
-*Technische Voraussetzungen:* Windows; keine zusätzliche Software nötig [herunterladen, entpacken und DadaErfStart starten]
-
-Von: Arthist Dokumentation
+"DaDaEdu.zip":<%=r 'files/media/DaDaEdu.zip' %>
