@@ -11,4 +11,4 @@ h3. Categories
 * "Use of single tools":<%=r 'faq/tools' %>
 * "Supply of images":<%=r 'faq/data-supply' %>
 
-"FAQ":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/DILPS-FAQ of the DILPS documentation
+"FAQ":http://wiki.dilps.net/DILPS-FAQ of the DILPS documentation

@@ -97,7 +97,7 @@ III. Interner Teil für prometheus und assoziierte Partner
 
 15.45
 Verstetigung von prometheus
-Dr. H. Simon - Dr. U. Verstegen - C. Rust M. A.
+Dr. H. Simon - Dr. U. Verstegen - C. Rust M.A.
 Konzepte und Diskussion
 
 18:00

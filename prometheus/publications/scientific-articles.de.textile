@@ -28,7 +28,7 @@ EVA London 2008. Conference Proceedings, hrsg. von Stuard Dunn, Suzanne Keene, G
 
 * Haffner, Dorothee
 Die Kunstgeschichte ist ein technisches Fach. Bilder an der Wand, auf den Schirm und im Netz
-in: Bild/Geschichte. Festschrift für Horst Bredekamp, hrsg. von Philine Helas u. a., Berlin 2007, S. 119-129.
+in: Bild/Geschichte. Festschrift für Horst Bredekamp, hrsg. von Philine Helas u.a., Berlin 2007, S. 119-129.
 
 * Simon, Holger
 prometheus" und Justitia - Bildarchive der Kunst- und Kulturwissenschaften im Spannungsfeld des medialen Umbruchs hin zu einer digitalen Informationsgesellschaft
@@ -66,7 +66,7 @@ in: Rundbrief Fotografie. Analoge und digitale Bildmedien in Archiven und Sammlu
 "http://kunstsi.uni-koeln.de/publ/06RundbrFoto.pdf":http://kunstsi.uni-koeln.de/publ/06RundbrFoto.pdf
 
 * Haffner, Dorothee
-prometheus - das verteilte digitale Bildarchiv für Forschung & Lehre e. V. - Stand der Dinge
+prometheus - das verteilte digitale Bildarchiv für Forschung & Lehre e.V. - Stand der Dinge
 in: AKMB news 11 (2005), Heft 1, S. 41-43
 
 * Simon, Holger
@@ -95,7 +95,7 @@ in: Werner Fröhlich / Wolfgang Jütte (Hrsg.): Qualitätsentwicklung in der pos
 
 * Bredekamp, Horst; Haffner, Dorothee
 Census, Imago, Technical Image, prometheus: Projects of Digital Art History
-in: Digital Resources from Cultural Institutions for Use in Teaching and Learning (hrsg. von Klaus-Dieter Lehmann u. a.), München 2004, S. 37-49.
+in: Digital Resources from Cultural Institutions for Use in Teaching and Learning (hrsg. von Klaus-Dieter Lehmann u.a.), München 2004, S. 37-49.
 
 * Nemitz, Jürgen; Verstegen, Ute
 Serverentwicklung, Verstetigung, Rechtsfragen. Das verteilte Bildarchiv prometheus im 3. Projektjahr
@@ -176,7 +176,7 @@ in: Kunstchronik, Heft 2, Februar 2001, S. 88f.
 
 * Simon, Holger
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
-in: E. Wagner / M. Kindt (Hrsg.): Virtueller Campus. Szenarien - Strategien - Studium. Münster u. a. 2001, S. 172-178.
+in: E. Wagner / M. Kindt (Hrsg.): Virtueller Campus. Szenarien - Strategien - Studium. Münster u.a. 2001, S. 172-178.
 
 * Simon, Holger; Verstegen, Ute
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre

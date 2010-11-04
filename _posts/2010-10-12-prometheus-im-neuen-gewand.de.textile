@@ -18,4 +18,4 @@ Falls Sie Hilfe benötigen, konsultieren  Sie einfach "unsere Hilfeseiten":<%=p 
 
 Bis zum Ende des Jahres werden wir Ihnen eine Favoritenleiste zur Verfügung stellen, in der Sie alles, was Sie für den Schnellzugriff benötigen, ablegen können. Das kann z.B. eine bestimmte Suche oder Präsentation sein, eine Liste der Bildsammlungen - gefiltert nach ausgewählten Kriterien, oder ein individuelles Bild.
 
-Zudem wird dann ein weiteres Feature realisiert sein, das von Ihnen verstärkt gewünscht wurde:  die persönlichen Einstellungen. Damit haben Sie z. B. die Möglichkeit,  die Anzahl der Treffer in der Liste bzw. Galerieansicht festzulegen,  Suchparameter und Anzeigeoptionen  oder  auch die Sprache standardmäßig zu bestimmen.
+Zudem wird dann ein weiteres Feature realisiert sein, das von Ihnen verstärkt gewünscht wurde:  die persönlichen Einstellungen. Damit haben Sie z.B. die Möglichkeit,  die Anzahl der Treffer in der Liste bzw. Galerieansicht festzulegen,  Suchparameter und Anzeigeoptionen  oder  auch die Sprache standardmäßig zu bestimmen.

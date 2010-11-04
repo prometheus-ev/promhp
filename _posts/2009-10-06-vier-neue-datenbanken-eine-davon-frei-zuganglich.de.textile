@@ -18,4 +18,4 @@ Hinzugekommen ist außerdem die DILPS Bilddatenbank UdK des Instituts für Kunst
 
 Außerdem konnten wir  "digiCULT" für eine Kooperation gewinnen. Das von der Christian-Albrecht-Universität Kiel in Zusammenarbeit mit dem Museumsverband Schleswig-Holstein e.V. seit 2003 betriebene Projekt "digiCULT" widmet sich der kooperativen digitalen Dokumentation und langfristigen Sicherung des Kulturerbes mit neuen Technologien sowie der zentralen Zugänglichmachung des Kulturgutes für Bildung, Wissenschaft und Tourismus.
 
-Das Bildarchiv von "digiCULT" liefert momentan etwa 5.000 hochwertige Datensätze und Bilder an prometheus. Dabei handelt es sich vorwiegend um Objekte aus Kunstmuseen, z. B. aus dem Gemäldebestand der neuen Lübecker Kunsthalle St. Annen, aber auch um Bühnenbilder und Figurinen aus theaterwissenschaftlichen Sammlungen.
+Das Bildarchiv von "digiCULT" liefert momentan etwa 5.000 hochwertige Datensätze und Bilder an prometheus. Dabei handelt es sich vorwiegend um Objekte aus Kunstmuseen, z.B. aus dem Gemäldebestand der neuen Lübecker Kunsthalle St. Annen, aber auch um Bühnenbilder und Figurinen aus theaterwissenschaftlichen Sammlungen.

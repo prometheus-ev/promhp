@@ -23,7 +23,7 @@ Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anme
     <th>gewünschter ILIAS-Benutzername</th>
     <td>
       <ul style="margin:0">
-        <li>z. B. vorname.nachname</li>
+        <li>z.B. vorname.nachname</li>
         <li>keine Sonderzeichen oder Umlaute verwenden!</li>
         <li>bitte exakt notieren, wird für die Anmeldung benötigt!</li>
       </ul>

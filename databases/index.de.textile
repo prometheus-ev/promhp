@@ -5,7 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=72&L=0&skin=0
 ---
 h2. <%= page_title %>
 
-Dieser Bereich richtet sich an Institutionen oder Personen, die eine bestehende oder geplante Bilddatenbank in  prometheus einbinden wollen.
-Alle Informationen können Sie als PDF herunterladen:
+Dieser Bereich richtet sich an Institutionen oder Personen, die eine bestehende oder geplante Bilddatenbank in prometheus einbinden möchten.
 
-"infos_fuer_dblieferer.pdf":<%=r 'files/text/infos_fuer_dblieferer.pdf' %>
+Alle Informationen können Sie als PDF herunterladen: "Informationen für Datenbankgeber":<%=r 'files/text/infos_fuer_dblieferer.pdf' %>

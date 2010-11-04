@@ -5,28 +5,16 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=71&L=1&skin=&tx_ttnews[
 ---
 h2. <%= page_title %>
 
-*You do not have an own database but would like to make your digital pictures available to all users of prometheus?*
+You do not have an own database but would like to make your digital pictures available to all users of prometheus? Do you have a small supply of digital image files, but the complexity of an image database is too high? Do you lack the technical Knowhow?
 
-Do you have a small supply of digital image files, but the complexity of an image database is too high? Do you lack the technical Knowhow?
+|!<%=r 'files/images/a0a80639ef.jpg' %>!:<%=r 'files/images/f54408615b.jpg' %>|!<%=r 'files/images/62a1d35746.jpg' %>!:<%=r 'files/images/5c060fef62.jpg' %>|!<%=r 'files/images/8c239c26ae.jpg' %>!:<%=r 'files/images/3026bbea05.jpg' %>|
+|Retrieval|Edit|Overview|
 
+New: "DILPS-FAQ":http://wiki.dilps.net/DILPS-FAQ on the DILPS website
 
-
-New:  "DILPS-FAQ":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/DILPS-FAQ on the DILPS website
-
-| !<%=r 'files/images/a0a80639ef.jpg' %>!:<%=r 'files/images/f54408615b.jpg' %> | !<%=r 'files/images/62a1d35746.jpg' %>!:<%=r 'files/images/5c060fef62.jpg' %> | !<%=r 'files/images/8c239c26ae.jpg' %>!:<%=r 'files/images/3026bbea05.jpg' %> |
-| Retrieval | Edit | Overview |
-
-Since 2006, prometheus offers the use of the promDILPS image database free of charge. promDILPS is based on the software DILPS. Images and data record sets can be archived without having to use a server. All you need is a good scanner and a digital camera!
+Since 2006, prometheus offers the use of the promDILPS image database free of charge. promDILPS is based on the software "DILPS":<%=r 'tools/databases/dilps' %>. Images and data record sets can be archived without having to use a server. All you need is a good scanner and a digital camera!
 
 Access to promDILPS is as easy as searching the web.
 
-
-
-For nearer information please click "here":<%=r 'tools/databases/dilps' %>
-
-
 Please contact us for further information if this offer appeals to you!
-
-
-
 "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de

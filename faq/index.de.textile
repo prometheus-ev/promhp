@@ -11,4 +11,4 @@ h3. Themenbereiche
 * "Nutzung einzelner Werkzeuge":<%=r 'faq/tools' %>
 * "Lieferung von Bildmaterial":<%=r 'faq/data-supply' %>
 
-"FAQ":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/DILPS-FAQ der DILPS-Dokumentation
+"FAQ":http://wiki.dilps.net/DILPS-FAQ der DILPS-Dokumentation

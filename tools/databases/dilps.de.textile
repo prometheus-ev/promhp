@@ -27,6 +27,6 @@ DILPS wird demnächst in einer komprimierten Datei zum Download angeboten werden
 
 * Kontakt: "info@dilps.net":mailto:info@dilps.net
 
-* "www.dilps.net":https://cgi.server.uni-frankfurt.de/fb09/kunstgesch/dilps_wiki/index.php/Hauptseite
+* "www.dilps.net":http://www.dilps.net/
 
 Von: Jürgen Enge

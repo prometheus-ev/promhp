@@ -7,15 +7,19 @@ h2. <%= page_title %>
 
 Datenbanken, die in prometheus eingebunden sind bzw. werden, sollten ihre Metadaten möglichst in eine einzige Datei exportieren und diese prometheus zur Verfügung stellen.
 
-*Format*
+h3. Format
+
 Als Metadatenformate werden grundsätzlich alle Textformate (CVS, TAB, XML etc.) entgegen genommen.
 
-*Kodierung*
-Es werden sowohl ASCII- als auch Unicode-Kodierungen unterstützt
+h3. Kodierung
 
-*Struktur*
+Es werden sowohl ASCII- als auch Unicode-Kodierungen unterstützt.
+
+h3. Struktur
+
 Die Struktur der erzeugten Datei muss eindeutig, konsistent und nicht redundant sein. Sie ist aber ansonsten frei wählbar. Die Struktur kann sich an gängigen Datenaustauschformaten orientieren (MAB, MARC etc.) oder selbst erstellt sein. prometheus spricht hier grundsätzlich keine Empfehlung aus.
 Falls der semantische Gehalt der Metadaten nicht direkt aus der Exportdatei abzulesen ist (z.B. "1245=Tizian"), sollte eine Erläuterung der Struktur (z.B. "1245 ist der Name des Künstlers, dabei wird der Nachname vom Vornamen durch Komma und Leerzeichen getrennt") als separate Datei beigefügt werden.
 
-*Hinweis*
-prometheus präferiert als Datenformat XML, kodiert in UTF-8. Als "Tags" könnten die in der Empfehlung zu den Metadateninhalten genannten Bezeichnern zur Anwendung kommen, die Inhalte sollten dann ebenfalls nach den dort gemachten Vorgaben strukturiert sein.
+h3. Hinweis
+
+prometheus präferiert als Datenformat XML, kodiert in UTF-8. Als "Tags" könnten die in der Empfehlung zu den Metadateninhalten genannten Bezeichner zur Anwendung kommen, die Inhalte sollten dann ebenfalls nach den dort gemachten Vorgaben strukturiert sein.
