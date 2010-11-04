@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=0&skin=0&tx_ttnew
 ---
 h2. <%= page_title %>
 
-09.03.07
-
 |!<%=r 'files/images/d1f1cc51bc.jpg' %>!||!<%=r 'files/images/8565b6cfd2.jpg' %>!||!<%=r 'files/images/75dbdbefc3.jpg' %>!|
 
 Flashapplikation zum Thema Forum romanum

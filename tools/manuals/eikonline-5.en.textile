@@ -5,8 +5,6 @@ title: "eikonline_5: prometheus-Bildarchiv (German)"
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-05.03.07
-
 
 !<%=r 'files/images/499b2e2096.jpg' %>!
 

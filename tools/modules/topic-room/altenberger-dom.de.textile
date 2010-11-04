@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=0&skin=0&tx_ttnew
 ---
 h2. <%= page_title %>
 
-09.03.07
-
 |!<%=r 'files/images/3ada502581.jpg' %>!|
 
 Das Altenberg-Multimedia-Projekt ist eine durch den Universitätsverbund Multimedia (UVM) unterstützte Kooperation der Lehrstühle Baugeschichte (Prof. Nußbaum) und Software-Technologie (Prof. Doberkat) an der Universität Dortmund. Ziel des 1997 gestarteten Projektes ist es, eine multimediale, interaktive Lernsoftware zu erstellen, die es der Nutzerin bzw. dem Nutzer ermöglicht, sich ein gotisches Architektursystem unter Ausnutzung multimedialer Techniken zu veranschaulichen und im Detail erklären zu lassen.

@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&tx_ttnews[tt_news]=
 ---
 h2. <%= page_title %>
 
-09.03.07
-
 !<%=r 'files/images/64cd63e389.jpg' %>!
 
 *DILPS ist ein Bilddatenbanksystem zur Verwaltung und Recherche digitaler Bilder.* Es ist eine gemeinsame Entwicklung des Kunstgeschichtlichen Instituts der Universität Frankfurt, der Hochschule für Gestaltung und Kunst, Zürich (HGKZ) und der Staatlichen Hochschule für Gestaltung Karlsruhe.

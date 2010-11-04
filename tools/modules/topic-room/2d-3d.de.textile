@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=0&skin=0&tx_ttnew
 ---
 h2. <%= page_title %>
 
-09.03.07
-
 |!<%=r 'files/images/e2a6a71d68.jpg' %>!||!<%=r 'files/images/e383e757b9.jpg' %>!|
 
 Zum Basisstudium "2D/3D Gestalten" wurde dieser Themenraum von Studierenden der Hochschule Anhalt geplant und in einigen Bereichen auch umgesetzt.

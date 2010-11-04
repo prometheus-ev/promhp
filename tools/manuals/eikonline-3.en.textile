@@ -5,8 +5,6 @@ title: "eikonline_3: Bildpräsentation (German)"
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-05.03.07
-
 !<%=r 'files/images/944a67154a.jpg' %>!
 
 *Dateien zum Herunterladen:*

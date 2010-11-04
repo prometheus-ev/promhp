@@ -6,8 +6,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=351&L=1&skin=0&tx_ttnew
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-30.10.07
-
 |!<%=r 'files/images/e46e9a01ee.jpg' %>!||!<%=r 'files/images/577727a161.jpg' %>!||!<%=r 'files/images/b40366fb5d.jpg' %>!|
 
 Internetseite über den römischen Limes im Bereich der Stadt Pohlheim (bei Gießen)

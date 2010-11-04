@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=281&L=0&skin=0&tx_ttnew
 ---
 h2. <%= page_title %>
 
-05.03.07
-
 |!<%=r 'files/images/bca5e0d8e5.jpg' %>!||!<%=r 'files/images/cbd3990592.jpg' %>!||!<%=r 'files/images/aac2ade95c.jpg' %>!|
 
 Mit diesem Internet-Lernangebot können Geschichtsstudierende praxisnah den Umgang und die Auswertung von handschriftlichem Quellenmaterial lernen. An Beispielen aus dem Stiftsarchiv Einsiedeln kann das Lesen und Datieren sowie das Erschliessen und Auswerten von Archivquellen interaktiv geübt werden.

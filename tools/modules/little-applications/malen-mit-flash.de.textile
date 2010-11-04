@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=284&L=0&skin=0&tx_ttnew
 ---
 h2. <%= page_title %>
 
-05.03.07
-
 |!<%=r 'files/images/4c78bb2698.jpg' %>!|
 
 Interaktive Flash-Applikation über die Wirkung von Komplementärkontrasten. Die interaktive Flashapplikation erlaubt das Färben von Flächen eines Landschaftsbildes und macht so die Wirkung von Komplementärkontrasten, wie sie z.B. im Expressionismus verwendet wurden, deutlich.

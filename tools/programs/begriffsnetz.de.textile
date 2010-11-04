@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=277&tx_ttnews[tt_news]=
 ---
 h2. <%= page_title %>
 
-09.03.07
-
 |!<%=r 'files/images/1ab8a38f99.jpg' %>!||!<%=r 'files/images/69764109f9.jpg' %>!|
 
 Das _begriffsnetz_ ist ein Funktionsmodell für den Terminologie-Trainer von prometheus. Es geht davon aus, dass die inhaltliche Aussage von Begriffen unabhängig von ihrem Namen ist. Die Eingabe erfolgt über ein Autoren-Formular.

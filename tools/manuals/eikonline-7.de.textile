@@ -4,8 +4,6 @@ title: "eikonline_7: ILIAS 3 Nutzung"
 ---
 h2. <%= page_title %>
 
-05.03.07
-
 !<%=r 'files/images/94ae6f2b7a.jpg' %>!
 
 *Dateien zum Herunterladen:*

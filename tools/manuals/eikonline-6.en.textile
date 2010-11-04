@@ -5,8 +5,6 @@ title: "eikonline_6: ILIAS 2 Nutzung (German)"
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-05.03.07
-
 !<%=r 'files/images/3436e08930.jpg' %>!
 
 *Dateien zum Herunterladen:*

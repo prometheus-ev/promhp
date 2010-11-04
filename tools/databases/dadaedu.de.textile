@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&tx_ttnews[tt_news]=
 ---
 h2. <%= page_title %>
 
-05.03.07
-
 |!<%=r 'files/images/33041039cc.jpg' %>!||!<%=r 'files/images/6f318c06af.jpg' %>!||!<%=r 'files/images/046bd0889f.jpg' %>!|
 
 Die vorliegende Version "DaDaEdu" wurde extra für Studierende entwickelt. Es handelt sich um eine Light-Version der in Museen und bei Sammlern verbreiteten professionellen Dokumentations- und Administrationsdatenbank "DaDa" der Firma Arthist Dokumentation, Zürich.

@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=281&L=0&skin=0&tx_ttnew
 ---
 h2. <%= page_title %>
 
-09.03.07
-
 |!<%=r 'files/images/5256d3576f.jpg' %>!|!<%=r 'files/images/c11b1208a8.jpg' %>!|
 
 Das vorliegende Konzept zum Beschreibungs-Coach bezieht sich auf zwei Beschreibungsseminare, die an der Justus-Liebig-Universität Gießen stattgefunden haben und auf den Themenraum ALTENSTADT.

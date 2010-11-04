@@ -6,8 +6,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=279&L=1&skin=&tx_ttnews
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-05.03.07
-
 !<%=r 'files/images/2c76c52197.jpg' %>!
 
 XML-Format der Normdatei, wie sie zur Normalisierung der Künstlernamen in prometheus zum Einsatz kommt. In der Datei finden sich nur die Künstler, von denen verschiedene Ansetzungen ihres Namens bekannt sind.

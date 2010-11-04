@@ -6,8 +6,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=1&skin=0&tx_ttnew
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-09.03.07
-
 |!<%=r 'files/images/e138123eaa.jpg' %>!||!<%=r 'files/images/b538f8d45f.jpg' %>!||!<%=r 'files/images/b538f8d45f.jpg' %>!|
 
 *mauer_reste wurde mit dem esPrix 2005 ausgezeichnet!*

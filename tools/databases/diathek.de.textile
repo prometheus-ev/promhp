@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=278&tx_ttnews[tt_news]=
 ---
 h2. <%= page_title %>
 
-09.03.07
-
 |!<%=r 'files/images/5a70813b74.jpg' %>!||!<%=r 'files/images/b2d7ad9b66.jpg' %>!||!<%=r 'files/images/6813629bde.jpg' %>!|
 
 *Die diathek wurde während der Projektzeit von prometheus an der Justus-Liebig-Universität Gießen entwickelt. Sie ist eine relationale Bilddatenbank für den lokalen Einsatz.* Sie bildet die Funktionen einer analogen Diathek nach und erweitert sie: Archivierung, Beschriftung, Datenpflege, Recherche, Leuchtpult, Vortragserstellung.

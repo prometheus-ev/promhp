@@ -6,8 +6,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=280&L=1&skin=0&tx_ttnew
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-05.03.07
-
 |!<%=r 'files/images/033c234766.jpg' %>!||!<%=r 'files/images/f705068cf0.jpg' %>!||!<%=r 'files/images/0be9347d60.jpg' %>!|
 
 Um Neugier und Forschergeist zu wecken, wurde das Thema "Entdeckung einer Wandmalerei" ausgesucht. Der Einstieg sollte der Wirklichkeit entnommen, interessant, vielseitig und erweiterbar, qualitätvoll, aber nicht "zu bekannt" sein.

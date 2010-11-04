@@ -6,8 +6,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=277&L=1&tx_ttnews[tt_ne
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-05.03.07
-
 |!<%=r 'files/images/515d3ca280.jpg' %>!||!<%=r 'files/images/e1cb78a5bb.jpg' %>!||!<%=r 'files/images/3eca1fb17c.jpg' %>!|
 
 Im *editor* stellen Sie Ihre Einzelbilder (jpg) oder Flashfilme (swf) tabellarisch zu einem Vortrag zusammen: bis zu drei parallele Bilder, Eingabe von Einblendtexten, Hilfefunktion, Ausdruck. Aktuelle Version (14.02.2006): 5.0

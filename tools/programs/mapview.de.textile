@@ -5,8 +5,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=277&tx_ttnews[tt_news]=
 ---
 h2. <%= page_title %>
 
-09.03.07
-
 |!<%=r 'files/images/b656a9e14d.jpg' %>!||!<%=r 'files/images/c7f9ddbf86.jpg' %>!|
 
 Offline-Arbeitsmappe und Präsentation für prometheus.

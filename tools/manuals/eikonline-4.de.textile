@@ -4,8 +4,6 @@ title: "eikonline_4: DigiDiathek Nutzung"
 ---
 h2. <%= page_title %>
 
-05.03.07
-
 !<%=r 'files/images/13e3c71195.jpg' %>!
 
 *Dateien zum Herunterladen:*

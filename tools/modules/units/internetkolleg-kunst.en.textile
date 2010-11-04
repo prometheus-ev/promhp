@@ -6,8 +6,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=283&L=1&skin=&tx_ttnews
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-05.03.07
-
 |!<%=r 'files/images/3ba062b1cd.jpg' %>!|
 
 Die Funktionen von Kunst und deren Wandel im Laufe der Geschichte bilden den Kern dieses Lernprogramms. Im Zentrum steht dabei die Frage, welche unterschiedlichen Aufgaben die Kunst zu den verschiedenen Zeiten übernommen hat. Kunstgeschichte kann so als lebendiger Prozess begriffen werden, in dem die verschiedensten Einflüsse bestimmend auf das jeweilige Kunstwerk einwirken. Dieses Internetangebot basiert auf dem 1985 entwickelten "Funkkolleg Kunst", dessen Texte komplett überarbeitet wurden. Die Inhalte erscheinen nun in einer neuen mediengerechten Präsentation, sie wurden didaktisch aufbereitet und reichhaltig mit neuem Material erweitert. (s. Ankündigung im Projekt "Schule des Sehens")
