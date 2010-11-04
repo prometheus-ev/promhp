@@ -291,6 +291,14 @@ body.js input[type=text].prompt, body.js input[type=password].prompt {
   max-width:         none;
 }
 
+body.account-controller.settings-action .edit-form input[type=text] {
+  width:             240px;
+}
+
+body.account-controller.settings-action .edit-form select {
+  width:             242px;
+}
+
 .edit-form .date_select select {
   width:             inherit;
   max-width:         inherit;
@@ -842,6 +850,10 @@ table.resourceful-list th {
   width:             120px;
 }
 
+body.account-controller.settings-action .edit-form table th {
+  width:             200px;
+}
+
 div.metadata th {
   padding-left:      1em;
   width:             9em;
@@ -1153,12 +1165,13 @@ div.slide input[type=radio] {
   white-space:       nowrap;
 }
 
-#header-section              div.section,
-#details-section             div.section,
-#links-section               div.section,
-#references-section          div.section,
-#comments-section            div.section,
-#user_administrators-section div.section {
+#header-section                         div.section,
+#details-section                        div.section,
+#links-section                          div.section,
+#references-section                     div.section,
+#comments-section                       div.section,
+#user_administrators-section            div.section,
+body.account-controller.settings-action div.section {
   width:             650px;
   margin:            10px;
 }
@@ -1516,10 +1529,13 @@ div.submit_button:focus .button_right, div.submit_button:active .button_right {
   max-height:        64px;
 }
 
-div.image, td.image, td.thumbnail {
-  display:           table-cell;
+div.image, td.image, td.thumbnail, td.present_image {
   vertical-align:    middle;
   text-align:        center;
+}
+
+div.image, td.image, td.thumbnail {
+  display:           table-cell;
   border:            1px solid rgb(76,76,76);
   background-color:  rgb(27,27,27);
 }
@@ -1533,6 +1549,28 @@ table.resourceful-list td.thumbnail {
   background-color:  transparent;
   padding-right:     22px;
   padding-bottom:    19px;
+}
+
+body.js td.present_image img:hover {
+  cursor:            crosshair;
+}
+
+body.presentation-controller.run-action table {
+  margin:            0;
+  padding:           0;
+  height:            98%;
+  width:             100%;
+}
+
+body.presentation-controller.run-action #footer {
+  background-image:  none;
+  text-align:        center;
+  margin:            0;
+  height:            32px;
+  width:             100%;
+  position:          fixed;
+  bottom:            0;
+  z-index:           1;
 }
 
 table.list .metadata .summary-line {
@@ -1872,11 +1910,6 @@ div.icons {
   background-repeat: repeat-x;
   height:            40px;
   color:             rgb(104,104,104);
-}
-
-body.presentation-controller.run-action #footer {
-  background-image:  none;
-  text-align:        center;
 }
 
 #footer > span {
