@@ -11,7 +11,9 @@ Humboldt-Universität zu Berlin ("www.hu-berlin.de":http://www.hu-berlin.de/)
 Universität Lüneburg ("www.uni-lueneburg.de":http://www.uni-lueneburg.de/uni/index.php?id=kulturinformatik)
 zweitwerk - software engineering GmbH ("www.zweitwerk.com":http://www.zweitwerk.com/)
 
-*Projektlaufzeit:* 01.06.2006 - 31.05.2009
+h4. Projektlaufzeit:
+
+01.06.2006 - 31.05.2009
 
 h3. Projektbeschreibung
 
@@ -19,11 +21,14 @@ Ziel des Projektes ist es, innovative Wege zur kollaborativen Zusammenstellung u
 
 Im Rahmen der Kooperation zwischen prometheus und HyperImage werden die HyperImage-Nutzer (bei Vorliegen einer entsprechenden prometheus-Lizenz) für ihre Arbeit auf Datenmaterial von prometheus zugreifen und im HyperImage-Editor verwenden können.
 
-*Finanzierung:* BMBF
+h4. Finanzierung:
+
+BMBF
 
 h3. Ansprechpartner
 
-*Projektleitung HUB:*
+h4. Projektleitung HUB:
+
 Prof. Dr. Peter Schirmbacher
 Tel.: 030 2093-7010
 E-Mail: "schirmbacher@cms.hu-berlin.de":mailto:schirmbacher@cms.hu-berlin.de

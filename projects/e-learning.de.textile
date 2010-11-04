@@ -10,7 +10,11 @@ h3. Projektpartner
 prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de)
 Fachbereich Geschichts- und Kulturwissenschaften der Justus-Liebig-Universität Giessen ("www.uni-giessen.de/cms/fbz/fb04":http://www.uni-giessen.de/cms/fbz/fb04)
 
-*Projektlaufzeit:* 01.10.2003 - 31.10.2004
+h4. Projektlaufzeit:
+
+01.10.2003 - 31.10.2004
+
+h4. Link:
 
 *"www.uni-giessen.de/archaeologie/public/foefo/foefo01.html":http://www.uni-giessen.de/archaeologie/public/foefo/foefo01.html*
 

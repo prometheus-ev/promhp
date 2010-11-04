@@ -7,11 +7,15 @@ h2. <%= page_title %>
 
 h3. Project partners
 
-Humboldt-Universität zu Berlin ("www.hu-berlin.de":http://www.hu-berlin.de/)
-Leuphana Universität Lüneburg ("www.leuphana.de":http://www.leuphana.de/)
-prometheus-Bildarchiv, Köln ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de/)
+Computer- und Medienservice, Humboldt-Universität zu Berlin ("www.hu-berlin.de":http://www.hu-berlin.de/)
+Rechen- und Medienzentrum, Leuphana Universität Lüneburg ("www.leuphana.de":http://www.leuphana.de/)
+prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de/)
 
-*Duration of the project:* 01.12.2009 - 30.11.2011
+h4. Duration of the project:
+
+01.12.2009 - 30.11.2011
+
+h4. Link:
 
 *"www.meta-image.de":http://www.meta-image.de*
 
@@ -20,7 +24,9 @@ h3. Project description
 Aim of the project is to develop a "distributed virtual environment for research and communication for the discourse of images in art history". The project is planned for two years and settled in the area of support "Scientific Library Services and Information Systems (LIS)" of the Deutsche Forschungsgemeinschaft.
 For prometheus the primarily point is to expand the possibilities of digital image interpretation 'and the collaborative work within the image archive. By the integration of the genuinely Image-oriented tool "Hyper Image" it will be possible to work together or individually to any of the illustrations to highlight image details accurately, describing and linking them to each other. The released meta-information will later be returned to the archive, available for the entire research community.
 
-*Financing:* DFG - Deutsche Forschungsgemeinschaft
+h4. Financing:
+
+DFG - Deutsche Forschungsgemeinschaft
 
 h3. Enrolees
 
@@ -42,7 +48,8 @@ Computer- und Medienservice
 Unter den Linden 6
 10117 Berlin
 
-*Project management Leuphana Universität Lüneburg:*
+h4. Project management Leuphana Universität Lüneburg:
+
 PD Dr. Martin Warnke
 Tel.: 04131 677 1202
 E-Mail: "warnke@leuphana.de":mailto:warnke@leuphana.de

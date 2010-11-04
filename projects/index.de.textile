@@ -7,9 +7,9 @@ h2. <%= page_title %>
 
 h3. Meta-Image: Aufbau einer verteilten, virtuellen Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln
 Computer- und Medienservice, Humboldt-Universität zu Berlin
 Rechen- und Medienzentrum, Leuphana Universität Lüneburg
+prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln
 *01.12.2009 - 30.11.2011*
 
 "» Projektbeschreibung":<%=r 'projects/meta-image' %>

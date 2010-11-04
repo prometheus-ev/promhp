@@ -9,7 +9,11 @@ h3. Projektpartner
 
 Kunsthistorisches Institut der Universität zu Köln ("www.uni-koeln.de/phil-fak/khi":http://www.uni-koeln.de/phil-fak/khi/)
 
-*Projektlaufzeit:* 01.08.2002 - 15.07.2003
+h4. Projektlaufzeit:
+
+01.08.2002 - 15.07.2003
+
+h4. Link:
 
 *"www.uni-koeln.de/phil-fak/khi/NotebookBib/index.html":http://www.uni-koeln.de/phil-fak/khi/NotebookBib/index.html*
 

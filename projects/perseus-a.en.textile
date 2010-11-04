@@ -11,7 +11,9 @@ h3. Projektpartner
 Kunsthistorisches Institut, Universität zu Köln ("www.uni-koeln.de/phil-fak/khi":http://www.uni-koeln.de/phil-fak/khi/)
 Institut für Informationswissenschaft, Fachhochschule Köln ("www.fbi.fh-koeln.de":http://www.fbi.fh-koeln.de/)
 
-*Projektlaufzeit:* 02.04.2007 - 31.03.2009
+h4. Projektlaufzeit:
+
+02.04.2007 - 31.03.2009
 
 h3. Projektbeschreibung
 
@@ -19,15 +21,18 @@ Ziel des Projekts ist es, für die Bildkollektion des prometheus Bildarchivs ein
 
 Dafür werden zunächst Terminologieressourcen für Werktitel und Künstlernamen erstellt, die für eine *automatische Indexierung* der Bildbeschreibungen der prometheus Bildkollektion herangezogen werden.
 
-In einem nächsten Schritt sollen mit der Realisierung eines *automatischen Erschließungsverfahren* für Bildbeschreibungen die in einer Bildkollektion vorhandenen charakteristischen Relationen identifiziert und zugeordnet werden (bspw. zwischen Werktitel <-> Künstler und Bauwerk <-> Geographikum).
+In einem nächsten Schritt sollen mit der Realisierung eines *automatischen Erschließungsverfahren* für Bildbeschreibungen die in einer Bildkollektion vorhandenen charakteristischen Relationen identifiziert und zugeordnet werden (bspw. zwischen Werktitel &harr; Künstler und Bauwerk &harr; Geographikum).
 
 Zusätzlich wird in einem völlig neuen Ansatz versucht, die Bilder in prometheus mit kunstgeschichtlichen *Fachtexten* zu *verknüpfen*.
 
-*Finanzierung:* "GEW Stiftung Köln":http://www.gew-stiftung.de/
+h4. Finanzierung:
+
+"GEW Stiftung Köln":http://www.gew-stiftung.de/
 
 h3. Ansprechpartner
 
-Projektleitung:
+h4. Projektleitung:
+
 PD Dr. Holger Simon
 Tel.: 0221 470-3509
 E-Mail: "holger.simon@uni-koeln.de":mailto:holger.simon@uni-koeln.de
