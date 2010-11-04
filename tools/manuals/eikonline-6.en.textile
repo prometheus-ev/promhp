@@ -5,14 +5,14 @@ title: "eikonline_6: ILIAS 2 Nutzung (German)"
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-!<%=r 'files/images/3436e08930.jpg' %>!
-
-*Dateien zum Herunterladen:*
-"eikonline_06_ilias2_11.pdf":<%=r 'files/text/eikonline_06_ilias2_11.pdf' %>
+|!<%=r 'files/images/3436e08930.jpg' %>!|
 
 *Leitfaden für die Nutzung der Lernplattform ILIAS Version 2*
 
 Die wichtigsten Funktionen einer ILIAS-Plattform der Version 2 aus Nutzersicht.
+
+Themen:
+
 * Hauptmenü
 * Nachrichtenverwaltung
 * Gruppenverwaltung
@@ -21,4 +21,10 @@ Die wichtigsten Funktionen einer ILIAS-Plattform der Version 2 aus Nutzersicht.
 
 Version 1.1 (04.05.2006)
 
-Von: Annette Mag
+h3. Autorenschaft
+
+Annette Mag
+
+h3. Dateien zum Herunterladen
+
+"eikonline_06_ilias2_11.pdf":<%=r 'files/text/eikonline_06_ilias2_11.pdf' %>
