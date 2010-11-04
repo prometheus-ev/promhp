@@ -7,7 +7,7 @@ tags:
 ---
 !(bordered-image)<%=r 'files/blog/screenshot_settings_cut_2010-11-03.png' %>(Screenshot Settings)!:<%=r 'files/blog/screenshot_settings_2010-11-03.png' %>
 Ich habe zwar keine genauen Zahlen, doch gefühlt ist das wohl meist gewünschte Feature bei uns das Speichern des persönlichen Lieblingsverhaltens von "pandora":<%=p 'about' %>.
-Wie viele Treffer pro Seite in den Suchergebnissen? Lieber Listenansicht oder doch Galerie? Soll der automatische Zoom eingeschaltet werde oder nicht? Alles Entscheidungen, die sich bisher nur für kurze Zeit auf pandoras Verhalten ausgewirkt haben und gleich danach schon wieder im digitalen Äther verpufften. So was kann ja ganz angenehm sein, wenn einem das Standard-Verhalten gut zu Pass kommt. Viele Benutzer wollen alledings einfach eine andere Anzahl an Datensätzen pro Ergebnisseite und das bei jeder Suche.
+Wie viele Treffer pro Seite in den Suchergebnissen? Lieber Listenansicht oder doch Galerie? Soll der automatische Zoom eingeschaltet werden oder nicht? Alles Entscheidungen, die sich bisher nur für kurze Zeit auf pandoras Verhalten ausgewirkt haben und gleich danach schon wieder im digitalen Äther verpufften. So was kann ja ganz angenehm sein, wenn einem das Standard-Verhalten gut zu Pass kommt. Viele Benutzer wollen allerdings einfach eine andere Anzahl an Datensätzen pro Ergebnisseite und das bei jeder Suche.
 
 Dies und noch vieles mehr lässt sich nun ganz bequem über die "Einstellungen für Ihren Zugang":<%=p 'account/settings' %> dauerhaft und an einem Ort festlegen.
 
