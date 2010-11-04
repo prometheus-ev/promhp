@@ -5,17 +5,14 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=58&L=1
 ---
 h2. <%= page_title %>
 
+h3. Begriffsnetz
 
-*Begriffsnetz*
+|!<%=r 'files/images/9dba586288.jpg' %>!:<%=r 'tools/programs/begriffsnetz' %>||Funktionsmodell für den Terminologie-Trainer von prometheus. "» mehr":<%=r 'tools/programs/begriffsnetz' %>|
 
-| !<%=r 'files/images/b656a9e14d.jpg' %>! | Funktionsmodell für den Terminologie-Trainer von prometheus. "» more":<%=r 'tools/programs/begriffsnetz' %> |
+h3. MapView (Offline-Mappe)
 
+|!<%=r 'files/images/b656a9e14d.jpg' %>!:<%=r 'tools/programs/mapview' %>||Offline-Arbeitsmappe und Präsentation für prometheus. "» mehr":<%=r 'tools/programs/mapview' %>|
 
-*MapView (Offline-Mappe)*
+h3. projektor + editor
 
-| !<%=r 'files/images/9dba586288.jpg' %>! | Offline-Arbeitsmappe und Präsentation für prometheus "» more":<%=r 'tools/programs/mapview' %> |
-
-
-*projektor + editor*
-
-| !<%=r 'files/images/515d3ca280.jpg' %>! | Im editor stellen Sie Ihre Einzelbilder (jpg) oder Flashfilme (swf) tabellarisch zu einem Vortrag zusammen: bis zu drei parallele Bilder, Eingabe von Einblendtexten, Hilfefunktion, Ausdruck. "» more":<%=r 'tools/programs/projektor-editor' %> |
+|!<%=r 'files/images/515d3ca280.jpg' %>!:<%=r 'tools/programs/projektor-editor' %>||Tool zum Erstellen und Vorführen von Bildpräsentationen. "» mehr":<%=r 'tools/programs/projektor-editor' %>|

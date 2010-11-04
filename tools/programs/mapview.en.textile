@@ -8,15 +8,27 @@ h2. <%= page_title %>
 
 09.03.07
 
-| !<%=r 'files/images/b656a9e14d.jpg' %>! | !<%=r 'files/images/c7f9ddbf86.jpg' %>! |
+|!<%=r 'files/images/b656a9e14d.jpg' %>!||!<%=r 'files/images/c7f9ddbf86.jpg' %>!|
 
-*Offline-Arbeitsmappe und Präsentation für prometheus*
-*Anwendungsbereich:* prometheus
-*Technische Voraussetzungen:* Java 1.4.2 oder höher
-*Lizenz:* GNU public license
+Offline-Arbeitsmappe und Präsentation für prometheus.
+*Zur Zeit nicht kompatibel mit der aktuellen Version von prometheus!*
 
-*Link:* "dda3.design.hs-anhalt.de/~greulich/download.htm":http://dda3.design.hs-anhalt.de/~greulich/download.htm
+h3. Autorenschaft
 
-*zur Zeit leider nicht verfügbar!*
+Reinhard Greulich
 
-Von: Reinhard Greulich
+h3. Anwendungsbereich
+
+prometheus
+
+h3. Technische Voraussetzungen
+
+Java 1.4.2 oder höher
+
+h3. Nutzungsbedingungen
+
+Die Software unterliegt der "GNU General Public License":http://www.gnu.org/licenses/gpl.html.
+
+h3. Link
+
+"dda3.design.hs-anhalt.de/~greulich/download.htm":http://dda3.design.hs-anhalt.de/~greulich/download.htm
