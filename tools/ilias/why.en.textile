@@ -6,16 +6,18 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=207&L=1&skin=0&tx_ttnew
 <%# TODO: translate %>
 h2. <%= page_title %>
 
-*Was ist ILIAS?*
-ILIAS ist eine Open-Source-Software für ein Learning Management System. Damit können einerseits internet-basierte Lehr- und Lernmaterialien (für E-Learning) erstellt und verfügbar gemacht werden. Andererseits unterstützt ILIAS die Kommunikation und Zusammenarbeit von Lehrenden und Lernenden. Schließlich können didaktische Strukturen für komplette Kurse, Prüfungen und Evaluationen verwirklicht werden. Gegenwärtig besteht bereits das Release 3.7.4. [Quelle: "wikipedia":http://www.wikipedia.de/]
+h3. Was ist ILIAS?
+
+ILIAS ist eine freie Lernplattform, mit deren Hilfe sowohl Internet-basierte Lehr- und Lernmaterialien (für E-Learning) erstellt und verfügbar gemacht, als auch Kommunikation und Kooperation unter Lehrenden und Lernenden, Prüfungen und Evaluation, sowie didaktische Strukturen für komplette Kurse verwirklicht werden können. [Quelle: "wikipedia":http://de.wikipedia.org/wiki/ILIAS_%28Software%29]
 
 Zur Projektwebsite:
-"http://www.ilias.de":http://www.ilias.de/docu/
+*"http://www.ilias.de":http://www.ilias.de/*
 
-*ILIAS als exemplarische Lernplattform*
-prometheus bietet ILIAS und seinen Editor als exemplarische Lernplattform an. Beispiele von Lerneinheiten zeigen, wie die von
-prometheus entwickelten Werkzeuge und Lernelemente in die Lehre eingebunden werden können.
+h3. ILIAS als exemplarische Lernplattform
 
-*Neue Lernformen in der Präsenzlehre*
+prometheus bietet ILIAS und seinen Editor als exemplarische Lernplattform an. Beispiele von Lerneinheiten zeigen, wie die von prometheus entwickelten Werkzeuge und Lernelemente in die Lehre eingebunden werden können.
+
+h3. Neue Lernformen in der Präsenzlehre
+
 Die Lehrenden haben hier die Möglichkeit, eigene Lerneinheiten zu erstellen und die Kommunikations- und Organisationsmöglichkeiten der Plattform zu nutzen, um beispielsweise Gruppenarbeit in den Seminaren, (Online)-Tutoring von Studierenden für Studierende zu organisieren und studentische Arbeiten in Lernelemente und Lerneinheiten zu integrieren.
 Diese Lernplattform versteht sich als ein kostenloses Angebot an Lehrende und Studierende, um die neuen Lernformen der digitalen Medien in der Präsenzlehre erproben zu können.

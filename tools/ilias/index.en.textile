@@ -5,7 +5,7 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=38&L=1
 ---
 h2. <%= page_title %>
 
-*Use our ILIAS installation as platform for your courses!*
+*Use our ILIAS installation as a platform for your courses!*
 "» ILIAS-Login":http://prometheus-app.uni-koeln.de/ilias/
 
 You have no access for ILIAS? Please click here:

@@ -5,29 +5,24 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=7&L=1&skin=&tx_ttnews[t
 ---
 h2. <%= page_title %>
 
-*In this column you find different aids which facilitate the handling of digital pictures and teaching contents for you.*
-
-These can be texts or Internet addresses, however also practical aid programs up to data bases for the administration of pictures or for the preparation of own contents.
-
+*In this column you find different aids which facilitate the handling of digital pictures and teaching contents for you.* These can be texts or Internet addresses, however also practical aid programs up to databases for the administration of pictures or for the preparation of own contents.
 
 *The entries are sorted according to these categories:*
 
+"» Learning platform ILIAS":<%=r 'tools/ilias' %>
+Information about the learning platform ILIAS.
 
+"» Study modules":<%=r 'tools/modules' %>
+Digital study contents to support both the present teaching and the self study.
 
-"» Reference manuals":<%=r 'tools/manuals' %>
-Here you find handouts and materials intended for your own use or to be used with training courses.
-
-
+"» Databases":<%=r 'tools/databases' %>
+Image database applications.
 
 "» Programs":<%=r 'tools/programs' %>
-Here you find practical tools for the use in lessons or in private study.
+Practical tools for use in lessons or private study.
 
+"» Reference manuals":<%=r 'tools/manuals' %>
+Handouts and materials intended for your own use or to be used with training courses.
 
-
-"» Data bases":<%=r 'tools/databases' %>
-Image data base applications
-
-
-
-"» Standard data - norm data":<%=r 'tools/pknd' %>
-Wordlists and thesauruses for the standardization of the metadata acquisition and/or output.
+"» PKND":<%=r 'tools/pknd' %>
+The prometheus KünstlerNamensansetzungsDatei (German).

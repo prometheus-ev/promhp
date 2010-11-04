@@ -44,11 +44,11 @@ Most images in google have a bad quality or the legend with the images is not co
 
 h3(#domains). Why is it that in some domains many images can be found in prometheus, but not in others?
 
-prometheus itself does not have any images, it is dependent on the image data bases that supply the images. In spite of the existing variety there are still many gaps. If you have relevant images or know an important image data base, please inform our "office":mailto:info@prometheus-bildarchiv.de! We will be glad to include them.
+prometheus itself does not have any images, it is dependent on the image databases that supply the images. In spite of the existing variety there are still many gaps. If you have relevant images or know an important image database, please inform our "office":mailto:info@prometheus-bildarchiv.de! We will be glad to include them.
 
 h3(#quality). Why is the quality of the images so different?
 
-The quality of the images is only as good as they come from the image data bases from the institutes, research projects, museums and archives. If you come across a very bad image please inform the responsible project person by mail.
+The quality of the images is only as good as they come from the image databases from the institutes, research projects, museums and archives. If you come across a very bad image please inform the responsible project person by mail.
 
 h3(#collection). What is an image collection?
 

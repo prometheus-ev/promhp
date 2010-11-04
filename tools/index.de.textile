@@ -5,23 +5,24 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=7
 ---
 h2. <%= page_title %>
 
-*In dieser Rubrik finden Sie verschiedene Hilfsmittel, die Ihnen den Umgang mit digitalen Bildern und Lehrinhalten erleichtern.*
-Das können Texte oder Internet-Adressen sein, aber auch praktische Hilfsprogramme bis hin zu Datenbanken für die Verwaltung von Bildern oder für die Aufbereitung eigener Inhalte.
-
+*In dieser Rubrik finden Sie verschiedene Hilfsmittel, die Ihnen den Umgang mit digitalen Bildern und Lehrinhalten erleichtern.* Das können Texte oder Internet-Adressen sein, aber auch praktische Hilfsprogramme bis hin zu Datenbanken für die Verwaltung von Bildern oder für die Aufbereitung eigener Inhalte.
 
 *Die Einträge sind nach Kategorien sortiert:*
 
-"» Leitfaden":<%=r 'tools/manuals' %>
-Hier finden Sie Informationsblätter und Materialien für den Selbstgebrauch oder zum Einsatz bei Schulungen.
+"» Lernplattform ILIAS":<%=r 'tools/ilias' %>
+Informationen zur Lernplattform ILIAS.
 
-
-"» Programme":<%=r 'tools/programs' %>
-Hier finden Sie praktische Hilfsprogramme für den Einsatz in der Lehre oder im Selbststudium.
-
+"» Lernmodule":<%=r 'tools/modules' %>
+Digitale Lerninhalte zur Unterstützung der Präsenzlehre und des Selbststudiums.
 
 "» Datenbanken":<%=r 'tools/databases' %>
-Bilddatenbank-Lösungen
+Bilddatenbank-Lösungen.
 
+"» Programme":<%=r 'tools/programs' %>
+Praktische Hilfsprogramme für den Einsatz in der Lehre oder im Selbststudium.
 
-"» Normdaten":<%=r 'tools/pknd' %>
-Wortlisten und Thesauri zur Normierung der Metadatenerfassung bzw. -ausgabe
+"» Leitfaden":<%=r 'tools/manuals' %>
+Informationsblätter und Materialien für den Selbstgebrauch oder zum Einsatz bei Schulungen.
+
+"» PKND":<%=r 'tools/pknd' %>
+Die prometheus KünstlerNamensansetzungsDatei.

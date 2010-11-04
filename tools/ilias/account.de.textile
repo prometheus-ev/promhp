@@ -9,11 +9,13 @@ Derzeit sind aus technischen Gründen getrennte Anmeldungen für das Bildarchiv 
 
 h3. In zwei Schritten zu einem Benutzerkonto auf ILIAS:
 
-*1. Schritt*
+h4. 1. Schritt
+
 Bitte klicken Sie auf diesen Link:
 "» Zur Registrierung auf ILIAS":http://prometheus-app.uni-koeln.de/ilias/
 
-*2. Schritt*
+h4. 2. Schritt
+
 Klicken Sie auf "Neues Benutzerkonto registrieren" und füllen Sie das Anmeldeformular anhand der nachfolgenden Vorlage vollständig aus. Bestätigen Sie am Ende der Seite, dass Sie die Nutzungsbedingungen anerkennen.
 Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anmelden.
 
@@ -26,6 +28,7 @@ Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anme
         <li>keine Sonderzeichen oder Umlaute verwenden!</li>
         <li>bitte exakt notieren, wird für die Anmeldung benötigt!</li>
       </ul>
+      <br class="vspace1" />
     </td>
   </tr>
   <tr>
@@ -36,6 +39,7 @@ Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anme
         <li>keine Sonderzeichen oder Umlaute verwenden!</li>
         <li>bitte exakt notieren, wird für die Anmeldung benötigt!</li>
       </ul>
+      <br class="vspace1" />
     </td>
   </tr>
   <tr>
@@ -44,6 +48,7 @@ Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anme
       <ul style="margin:0">
         <li>anklicken</li>
       </ul>
+      <br class="vspace1" />
     </td>
   </tr>
   <tr>
@@ -52,6 +57,7 @@ Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anme
       <ul style="margin:0">
         <li>unbedingt angeben!</li>
       </ul>
+      <br class="vspace1" />
     </td>
   </tr>
   <tr>
@@ -60,6 +66,7 @@ Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anme
       <ul style="margin:0">
         <li>unbedingt angeben!</li>
       </ul>
+      <br class="vspace1" />
     </td>
   </tr>
   <tr>
@@ -68,6 +75,7 @@ Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anme
       <ul style="margin:0">
         <li>unbedingt angeben!</li>
       </ul>
+      <br class="vspace1" />
     </td>
   </tr>
   <tr>
@@ -76,6 +84,7 @@ Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anme
       <ul style="margin:0">
         <li>anklicken</li>
       </ul>
+      <br class="vspace1" />
     </td>
   </tr>
 </table>

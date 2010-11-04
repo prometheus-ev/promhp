@@ -44,5 +44,5 @@ h3. Individual databases can be connected to prometheus
 
 To connect an individual database and to use the advantages of prometheus, find additional information on "» Information for database providers":<%=r 'databases' %>.
 
-For smaller image collections we offer the image data base DILPS.
+For smaller image collections we offer the image database DILPS.
 Additional information about "» DILPS":<%=r 'databases/promdilps' %>.
