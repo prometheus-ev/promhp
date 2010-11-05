@@ -17,9 +17,7 @@ Dann gibt es mehrere Möglichkeiten, wie Ihre Datenbank eingebunden werden kann.
 1. Sie schicken uns einen XML-Dump mit dem Inhalt und den Bilddateien und wir halten die Daten auf dem prometheus-Server für Sie vor.
 2. Sie liefern uns nur einen XML-Dump mit dem Inhalt und halten die Bilddateien auf Ihrem Server selber vor. Sie sind dann für den Zugriff auf Ihren Server selber verantwortlich.
 
-Weitere Möglichkeiten und Varianten erfragen Sie bitte bei der Geschäftsstelle.
-
-"Informationen für Datenbanklieferer":<%=r 'databases' %>
+Weitere Möglichkeiten und Varianten erfragen Sie bitte bei der Geschäftsstelle (s.a. "Informationen für Datenbanklieferer":<%=r 'databases' %>).
 
 h3(#digitalize). Wir planen unsere Instituts-Diathek zu digitalisieren. Ist das sinnvoll?
 

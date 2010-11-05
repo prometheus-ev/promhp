@@ -44,7 +44,7 @@ Sie finden dort zumeist schlechtere Bildqualität oder schlechtere Bildbeischrif
 
 h3(#domains). Warum gibt es in prometheus zu manchen Gebieten sehr viele, zu anderen aber fast keine Bilder?
 
-prometheus selber besitzt keine Bilder, sondern ist abhängig von den Bilddatenbanken, die die Bilder liefern. Hier gibt es trotz der bestehenden Vielfalt noch viele Lücken. Wenn Sie wichtige Bilder haben oder eine wichtige Bilddatenbank kennen, dann wenden Sie sich an die "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de <info@prometheus-bildarchiv.de>. Wir binden diese Bilddatenbanken gerne ein.
+prometheus selber besitzt keine Bilder, sondern ist abhängig von den Bilddatenbanken, die die Bilder liefern. Hier gibt es trotz der bestehenden Vielfalt noch viele Lücken. Wenn Sie wichtige Bilder haben oder eine wichtige Bilddatenbank kennen, dann wenden Sie sich an die "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de. Wir binden diese Bilddatenbanken gerne ein.
 
 h3(#quality). Warum ist die Qualität der Bilder so unterschiedlich?
 
@@ -74,4 +74,4 @@ Sie können auch mit Power-Point oder anderen Präsentationsprogrammen offline e
 
 h3(#ilias). Was ist ILIAS?
 
-ILIAS ist eine Online-Lern- und Lehrplattform. Mit ILIAS können Lehrende E-Learning-Kursmaterialien erstellen, Online-Tests zu Wissensprüfungen einrichten und virtuelle Seminare oder Vorlesungen durchführen. Der Zugriff ist von jedem internetfähigen Computer aus möglich. Die Anmeldung mit Gastrechten erfolgt online. Wenn Sie weitere Rechte benötigen, wenden Sie sich bitte an die "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de <info@prometheus-bildarchiv.de>.
+ILIAS ist eine Online-Lern- und Lehrplattform. Mit ILIAS können Lehrende E-Learning-Kursmaterialien erstellen, Online-Tests zu Wissensprüfungen einrichten und virtuelle Seminare oder Vorlesungen durchführen. Der Zugriff ist von jedem internetfähigen Computer aus möglich. Die Anmeldung mit Gastrechten erfolgt online. Wenn Sie weitere Rechte benötigen, wenden Sie sich bitte an die "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de.
