@@ -46,7 +46,8 @@
       <div id="series">
         <!--#config timefmt="%Y/%W" -->
         <!--#set var="series" value="<%=r 'series' %>/${DATE_LOCAL}" -->
-        <a href="<!--#echo var="series" -->" title="<!--#include virtual="${series}/title.<%= page.lang %>" -->">
+        <a href="<!--#echo var="series" -->"
+           title="<%=t 'Current image series', 'Aktuelle Bildserie' %>: <!--#include virtual="${series}/title.<%= page.lang %>" -->">
         <% for i in 1..8 %>
           <img src="<!--#echo var="series" -->/<%= n = '%02d' % i %>.jpg" alt="<%= n %>" />
         <% end %>
