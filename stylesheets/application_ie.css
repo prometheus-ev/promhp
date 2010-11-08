@@ -1,10 +1,6 @@
-#sidebar, #main {
+#workspace, #sidebar, #main {
   display:           block;
   float:             left;
-}
-
-#workspace {
-  background-image:  none;
 }
 
 table.resourceful-list td.thumbnail {

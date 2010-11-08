@@ -46,9 +46,8 @@ body {
 #workspace {
   width:             1024px;
   min-height:        600px;
-  background-color:  rgb(27,27,27);
-  background-image:  url(../images/misc/sidebar_shadow.gif);
-  background-position: 260px 34px;
+  background-color:  rgb(38,38,38);
+  background-image:  url(../images/misc/sidebar.gif);
   background-repeat: repeat-y;
 }
 

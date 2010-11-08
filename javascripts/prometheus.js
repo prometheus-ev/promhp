@@ -22,14 +22,3 @@ Prometheus.nopandora = function() {
     i.update(text).removeClassName('hidden');
   });
 };
-
-Prometheus.stretch_main = function() {
-  var height = $('workspace').getHeight();
-
-  var main = $('main');
-  if (main.getHeight() < height) {
-    main.setStyle({ height: height + 'px' });
-  }
-};
-
-document.observe('dom:loaded', Prometheus.stretch_main.bindAsEventListener(document));
