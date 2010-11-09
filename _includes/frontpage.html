@@ -39,11 +39,11 @@
   <h3 class="section-title"><%=t 'Current image series', 'Aktuelle Bildserie' %></h3>
 
   <div class="section-item">
-    <a href="<!--#echo var="series" -->" title="<!--#include virtual="${series}/title.<%= page.lang %>" -->">
+    <a href="<!--#echo var="series" -->" title="<!--#include virtual="${series}/title.html.<%= page.lang %>" -->">
       <img src="<!--#echo var="series" -->/start.jpg" alt="Start" />
     </a>
 
-    <h4 class="section-heading"><!--#include virtual="${series}/title.<%= page.lang %>" --></h4>
+    <h4 class="section-heading"><!--#include virtual="${series}/title.html.<%= page.lang %>" --></h4>
 
     <!--#include virtual="${series}/teaser.html.<%= page.lang %>" -->
 

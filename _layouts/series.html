@@ -12,7 +12,7 @@ layout: default
 <% for i in 1..8 %>
   <div>
     <img src="<%= n = '%02d' % i %>.jpg" alt="<%= n %>" />
-    <!--#include virtual="<%= "#{n}.html" %>" -->
+    <!--#include virtual="<%= "#{n}.html.#{@page.lang}" %>" -->
   </div>
 <% end %>
 </div>
