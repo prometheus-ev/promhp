@@ -4,6 +4,16 @@ title: Kubofuturismus und Suprematismus
 subtitle: Zwei Ausstellungen zur Russischen Avantgarde
 author: Hendrikje Hüneke
 date: 2010/11/04
+teaser: '*Zwei Ausstellungen zur Russischen Avantgarde* - Das Museum Ludwig verwaltet mit über 800 Werken eine der weltweit größten Sammlungen zur Russischen Avantgarde, die nun mit zwei Ausstellungen gewürdigt werden konnte'
+descriptions:
+- 'Malewitsch, Kasimir: Suprematistische Komposition / ML 1620 (Ausschnitt), 1915, Öl auf Leinwand, 70 x 60 cm, Museum Ludwig, Köln; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen'
+- 'Malewitsch, Kasimir: Dynamischer Suprematismus / ML 1294 (Ausschnitt), 1916, Öl auf Leinwand, 102,4 x 66,9 cm, Museum Ludwig, Köln; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen'
+- 'Senkin, Sergej: Gegenstandslose Komposition (Ausschnitt), Öl auf Pappe, 100 x 81 cm, Swerdlowsk; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- 'Kagan, Chaia (Anna): Suprematismus / Komposition (Ausschnitt), 1928, Öl auf Leinwand, 88 x 66 cm Museum Ludwig, Köln; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- 'Rozanowa, Olga: Nähtisch (Ausschnitt), 1915, Öl auf Leinwand, ohne Maßangabe, Tretjakow-Galerie, Moskau; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Popowa, Ljubow: Kubofuturismus-Bild (Ausschnitt), 1914, Tafelmalerei, ohne Maßangaben, Thessaloniki; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- 'Exter, Alexandra: o.T. (Ausschnitt), 1912-14, Öl auf Leinwand, ohne Maßangaben, Museum Ludwig, Köln; Datenbank EasyDB, Universität Bern, Institut für Kunstgeschichte, Bern'
+- 'Lissitzky, El: Sowjet-Pressa, Entwurf für die "Pressa" (Ausschnitt), 1927, Collage/Gouache/Bleistift, 52 x 69cm, Sammlung Ludwig, Köln; Mediathek, Heinrich-Heine-Universität, Institut für Kunstgeschichte, Düsseldorf'
 ---
 Das Museum Ludwig verwaltet mit über 800 Werken eine der weltweit größten Sammlungen zur Russischen Avantgarde, die nun mit zwei Ausstellungen gewürdigt werden konnte. Im letzten Jahr konzentrierte sich die Darstellung auf den Beginn der Moderne in Russland und die Zusammenhänge der künstlerischen Entwicklungen in Russland, Italien und Frankreich ("Eine Ohrfeige dem öffentlichen Geschmack." Der Kubofuturismus und der Aufbruch der Moderne in Russland). Die diesjährige Ausstellung stellt das Werk Malewitschs in den Mittelpunkt und präsentiert zum ersten Mal seit zwanzig Jahren das gesamte Malewitsch-Konvolut der Sammlung.
 

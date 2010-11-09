@@ -4,6 +4,16 @@ title: Klimt, Schiele and their time
 subtitle: Vienna around 1900
 author: Hendrikje Hüneke
 date: 2010/11/04
+teaser: '*Vienna around 1900* - The "Wiener Secession" and the "Wiener Werkstätte" were part of a revolutionary development in arts. Gustav Klimt and Egon Schiele are in focus of an exhibition by the Beyeler Fondation...'
+descriptions:
+- 'Arnold Schönberg, Blick (Ausschnitt), 1910, Öl auf Karton, 32,2 x 24,6 cm, Arnold Schönberg Center, Wien; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Egon Schiele, Selbstbildnis mit gesenktem Kopf (Ausschnitt), 1912, Öl auf Holz, 42,2 x 33,7 cm, Leopold Museum, Wien; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin'
+- 'Oskar Kokoschka, Selbstbildnis (Ausschnitt), 1917, Öl auf Leinwand, 79 x 63 cm, Von der Heydt-Museum Wuppertal; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin'
+- 'Richard Gerstl, Selbstbildnis als Halbakt (Ausschnitt), 1904/05, Öl auf Leinwand, 159 x 109 cm, Leopold Museum, Wien; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- 'Egon Schiele, Kardinal und Nonne / Liebkosung (Ausschnitt), 1912, Öl auf Leinwand, 70 x 80,5 cm, Leopold Museum, Wien; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin'
+- 'Egon Schiele, Mutter und Kind (Ausschnitt), 1910, Bleistift / Aquarell / Gouache / Deckweiss, 55,7 x 36,7 cm, Privatsammlung, Courtesy Richard Nagy Ltd., London; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin'
+- 'Gustav Klimt, Goldfische (Ausschnitt), 1901/1902, Öl auf Leinwand, 181 x 67 cm, Kunstmuseum Solothurn; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- "Gustav Klimt, Judith II / Salome (Ausschnitt), 1909, Öl auf Leinwand, 176 x 46 cm, Galleria Internazionale d\'Arte Moderna di Ca\' Pesaro, Venezia; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München"
 ---
 The "Wiener Secession" and the "Wiener Werkstätte" were part of a revolutionary development in arts. Gustav Klimt and Egon Schiele are in focus of an exhibition by the Beyeler Fondation, which presents Vienna as a birthplace of modern art. There are shown works of art by architects, furniture designer and craftsmen of the "Wiener Secession" and the "Wiener Werkstätte" as well.
 

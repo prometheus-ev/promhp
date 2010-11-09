@@ -4,6 +4,16 @@ title: Johannes Vermeer van Delft
 subtitle: Vermeer und die "Schilderkunst"
 author: Hendrikje Hüneke
 date: 2010/10/15
+teaser: "*Vermeer und die \"Schilderkunst\"* - Im Mittelpunkt der Dresdner Ausstellung steht die Erkundung des Malprozesses bei Vermeer. Um die Stilfindung des Malers zu verdeutlichen, werden frühe Werke Gemälden anderer Künstler gegenübergestellt."
+descriptions:
+- "Vermeer, Johannes: Brieflesendes Mädchen am Fenster (Ausschnitt), 1659, Öl auf Leinwand, 83 x 64,5 cm, Gemäldegalerie Alte Meister, Dresden; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Vermeer, Johannes: Diana mit ihren Gefährtinnen (Ausschnitt), um 1653/56, Öl auf Leinwand, 143 x 130 cm, Koninklijk Kabinet van Schilderijen Mauritshuis, Den Haag; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
+- "Vermeer, Johannes: Die Kupplerin (Ausschnitt), 1656, Öl auf Leinwand, 143 x 130 cm, Gemäldegalerie Alte Meister, Dresden; DiDi - Digitale Diathek, Technische Universität Berlin, Institut für Kunstgeschichte, Berlin"
+- "Loo, Jacob van: Diana mit ihren Nymphen (Ausschnitt), 1648, Öl auf Leinwand, ohne Maßangabe, Gemäldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur für Kunst, Kultur und Geschichte, Stiftung Preußischer Kulturbesitz, Berlin"
+- "Loo, Jacob van: Musizierende Gesellschaft (Ausschnitt), 1650-1655, Öl auf Leinwand, 73 x 65,5 cm, Sammlung Thyssen-Bornemisza, Lugano-Castagnola; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
+- "Rosselli, Matteo: Semiramis (Ausschnitt), 1623-25, Öl auf Leinwand, 175 x 219 cm, Galleria degli Uffizi, Florenz; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
+- "Bijlert, Jan van: Das Gastmahl von Alexander und Kleitos (Ausschnitt), 1635, Öl auf Leinwand, ohne Maßangabe, Gemäldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur für Kunst, Kultur und Geschichte, Stiftung Preußischer Kulturbesitz, Berlin"
+- "Vermeer, Johannes: De Schilderkunst/Die Malkunst (Ausschnitt), um 1666/67, Öl auf Leinwand, 120 x 100 cm, Kunsthistorisches Museum, Wien; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
 ---
 Im Mittelpunkt der Dresdner Ausstellung steht die Erkundung des Malprozesses bei Vermeer. Um die Stilfindung des Malers zu verdeutlichen, werden frühe Werke ("Diana und ihre Gefährtinnen", "Christus bei Maria und Martha" sowie das Bild "Bei der Kupplerin") Gemälden anderer Künstler gegenübergestellt, die als Vermeers Vorbilder erkannt werden oder die Eigenheiten Vermeers aufzeigen können. Höhepunkt der Ausstellung mag jedoch "Das Brieflesende Mädchen am offenen Fenster" sein, das in einem umfassenden Projekt untersucht worden ist. Durch ein begehbares Modell des Bildraumes, sollen die Komposition, die Raum-, und Beleuchtungskonzepte experimentell nachvollziehbar gemacht werden.
 

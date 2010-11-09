@@ -4,6 +4,16 @@ title: Pablo Picasso
 subtitle: In the studio of the artist
 author: Hendrikje Hüneke
 date: 2010/09/13
+teaser: "*In the studio of the artist* - The main focus of an exhibition in Münster is the studio as a working space."
+descriptions:
+- "Assemblage in Picassos Atelier am Boulevard Raspail 242 (Ausschnitt einer Fotografie des Künstlers), 1913,  Konstruktion nicht erhalten; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
+- "Konstruktion in Picassos Atelier am Boulevard Raspail 242 (Ausschnitt einer Fotografie des Künstlers), 1913, Maquette der Gitarre im Museum of Modern Art, New York; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
+- "Der Maler und sein Modell (Ausschnitt), 1928, Öl auf Leinwand, 129,8 x 163 cm, Museum of Modern Art, New York;  Datenbank Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
+- "Das Atelier (Ausschnitt), 1928, Öl auf Leinwand, 162 x 130 cm, Musée National Picasso, Paris; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
+- "Der Maler und sein Modell (Ausschnitt), 1926, Öl auf Leinwand, 172 x 256 cm, Musée National Picasso, Paris; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
+- "Der Maler und sein Modell (Ausschnitt), 1971, Tusche/Aquarell/Pastell auf Papier, National- galerie, Museum Berggruen, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur für Kunst, Kultur und Geschichte, Stiftung Preußischer Kulturbesitz, Berlin"
+- "Jacqueline im Atelier (Ausschnitt), 1957, Öl auf Leinwand, 63,5 x 80,8 cm, Standort, Musée National Picasso, Paris; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
+- "Maler mit Palette und Staffelei (Ausschnitt), 1928, Öl auf Leinwand, 130 x 97 cm, Musée National Picasso, Paris; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
 ---
 The main focus of an exhibition in Münster is the studio as a working space. Around 160 exhibits, including canvas, drawings, prints and sculptures, are showen. On one hand You'll find pictures of Picasso, reflecting the work as an artist, showing a studio, an artist and his muse. On the other hand there are objects like trial proofs or original pallets showing parts of the working process. The exhibition is completed with a series of photos by David Douglas Duncan (they show Picasso painting), and the movie "Le Mystére Picasso" by Henri-Georges Clouzot.
 

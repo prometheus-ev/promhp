@@ -4,6 +4,16 @@ title: Masken
 subtitle: Masken der Vorzeit in Europa
 author: Hendrikje Hüneke
 date: 2010/10/28
+teaser: '*Masken der Vorzeit in Europa* - Masken sind uns aus den verschiedensten Zeiten und Kulturen überliefert. Bei rituellen und theatralen Zusammenhängen dienen sie zum Verstecken und Verwandeln.'
+descriptions:
+- 'Mbuya-(Kranken-)Maske des Pende-Stammes, bemaltes Holz/Stoff, Standort: Königliches Museum für Zentralafrika, Tervuren; HeidICON - Europäische Kunstgeschichte, Ruprecht-Karls-Universität, Universitätsbibliothek, Heidelberg'
+- 'Maske des Parasiten, Ton, Fundort: Brandgrab in der via Regina, Tarent, Standort: Museo Archeologico Nationale, Tarent; EikOnline, Justus-Liebig-Universität, Institut für Altertumswissenschaften, Gießen'
+- 'Helm und Maske, illyrisch, 530-510 v. Chr., Gold, Fundort: Sindos; HeidICON - Klassische Archäologie, Ruprecht-Karls-Universität, Universitätsbibliothek, Heidelberg'
+- 'Sklavenmaske, Neue Komödie, Terrakotta-Abguß, Fundort: Tarent, Standort: Martin-Wagner-Museum, Würzburg; EikOnline, Justus-Liebig-Universität, Institut für Altertumswissenschaften, Gießen'
+- 'Gigaku Maske, 8.Jh., Holz, Nara/Shosoin, Japan; HeidICON - Ostasienwissenschaften, Ruprecht-Karls-Universität, Universitätsbibliothek, Heidelberg'
+- 'Totenmaske, sog. "Maske des Agamemnon", 16. Jh. v. Chr., Standort: National Museum; GAUDI, Georg-August-Universität, Archäologisches Institut, Göttingen'
+- 'Maske des Flußgottes Acheloos, 470 v. Chr., Marmor, Standort: Antikensammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur für Kunst, Kultur und Geschichte, Stiftung Preußischer Kulturbesitz, Berlin'
+- 'Ngil-Maske, Kamerun, 1801-1900, Holz/Kalkfarbe, Standort: Ethnologisches Museum, Staatliche Museen zu Berlin, Gabun; bpk - Bildportal der Kunstmuseen, Bildagentur für Kunst, Kultur und Geschichte, Stiftung Preußischer Kulturbesitz, Berlin'
 ---
 Masken sind uns aus den verschiedensten Zeiten und Kulturen überliefert. Bei rituellen und theatralen Zusammenhängen dienen sie zum Verstecken und Verwandeln. Zu den berühmtesten Stücken gehört die von Heinrich Schliemann in einem Grab entdeckte sogenannte "Maske des Agamemnon". Eindrucksvoll erscheinen aber zum Beispiel auch die Theatermasken aus dem asiatischen Raum. Eine Tagung in Halle konzentriert sich nun auf die Beschäftigung mit vor- und frühgeschichtlichen Masken, nachdem in einer vorangegangenen Tagung bereits Masken aus der Stein-, Bronze- und Eisenzeit Gegenstand von Vorträgen und Diskussionen waren. Für 2013/14 ist sogar eine entsprechende Ausstellung geplant.
 

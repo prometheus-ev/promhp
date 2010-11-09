@@ -4,6 +4,16 @@ title: Andreas Feininger
 subtitle: '"Photography is a picture-language;'
 author: Hendrikje Hüneke
 date: 2010/09/20
+teaser: "*\"Photography is a picture-language; the only language that can be understood anywhere in the world.\"* - Andreas Feininger (1906-1999) discovered this language and became a famous photographer with his pictures of architecture and detailed nature studies."
+descriptions:
+- "Der Fotojournalist, New York City (Ausschnitt), 1955, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Verdrehter Bogen, trisidos tortuosa Linné (Ausschnitt), 1970, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "George Washington Brücke, New York City (Ausschnitt), 1948, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Das Gebäude der Stadtverwaltung, Feuerleitern und die Hochbahn (Ausschnitt), 1940, Fotografie, New York; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München"
+- "Feder (Ausschnitt), 1965, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Fifth Avenue, New York City (Ausschnitt), 1940, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Samen II (Ausschnitt), 1935/36, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "New York, Lower Manhattan, von Brooklyn aus gesehen (Ausschnitt), 1940, Fotografie, (Standort nicht angegeben); ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München"
 ---
 *the only language that can be understood anywhere in the world."* Andreas Feininger (1906-1999) discovered this language and became a famous photographer with his pictures of architecture and detailed nature studies. An exhibition in Friedrichshafen is showing almost 300 photos as an overview of his lifework.
 

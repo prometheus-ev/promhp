@@ -4,6 +4,16 @@ title: Pablo Picasso
 subtitle: Im Atelier des Künstlers
 author: Hendrikje Hüneke
 date: 2010/09/13
+teaser: "*Im Atelier des Künstlers* - Das Atelier des Künstlers selbst ist Schwerpunkt einer Ausstellung, die 160 Stücke umfasst, darunter Zeichnungen, Druckgrafiken und Skulpturen."
+descriptions:
+- "Assemblage in Picassos Atelier am Boulevard Raspail 242 (Ausschnitt einer Fotografie des Künstlers), 1913,  Konstruktion nicht erhalten; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
+- "Konstruktion in Picassos Atelier am Boulevard Raspail 242 (Ausschnitt einer Fotografie des Künstlers), 1913, Maquette der Gitarre im Museum of Modern Art, New York; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
+- "Der Maler und sein Modell (Ausschnitt), 1928, Öl auf Leinwand, 129,8 x 163 cm, Museum of Modern Art, New York;  Datenbank Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
+- "Das Atelier (Ausschnitt), 1928, Öl auf Leinwand, 162 x 130 cm, Musée National Picasso, Paris; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
+- "Der Maler und sein Modell (Ausschnitt), 1926, Öl auf Leinwand, 172 x 256 cm, Musée National Picasso, Paris; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
+- "Der Maler und sein Modell (Ausschnitt), 1971, Tusche/Aquarell/Pastell auf Papier, National- galerie, Museum Berggruen, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur für Kunst, Kultur und Geschichte, Stiftung Preußischer Kulturbesitz, Berlin"
+- "Jacqueline im Atelier (Ausschnitt), 1957, Öl auf Leinwand, 63,5 x 80,8 cm, Standort, Musée National Picasso, Paris; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
+- "Maler mit Palette und Staffelei (Ausschnitt), 1928, Öl auf Leinwand, 130 x 97 cm, Musée National Picasso, Paris; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin"
 ---
 Das Atelier des Künstlers selbst ist Schwerpunkt einer Ausstellung, die 160 Stücke umfasst, darunter Zeichnungen, Druckgrafiken und Skulpturen. Das Graphikmuseum Pablo Picasso zeigt Atelierbilder, wie sie sich durch das ganze Werk Picassos nachweisen lassen. Unterschiedliche Bereiche sind den wechselnden Ateliers des Künstlers, seinen Musen und dem Werkprozess gewidmet. Seltene Zustands- und Probedrucke, sowie 11 Originalpaletten ermöglichen einen Einblick in die Arbeit Picassos. Eine Fotografie-Serie von David Douglas Duncan, die Picasso bei der Fertigung eines Ölgemäldes zeigt, und der Film "Le Mystére Picasso" von Henri-Georges Clouzot vervollständigen das Bild des arbeitenden Künstlers in seinem Atelier.
 

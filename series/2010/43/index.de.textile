@@ -4,6 +4,16 @@ title: Fränzi und Marcella
 subtitle: Die Modelle der Brücke-Künstler
 author: Hendrikje Hüneke
 date: 2010/10/20
+teaser: "*Die Modelle der Brücke-Künstler* - Die Künstlergruppe Brücke vertrat das Ideal einer \"unverfälschten\" Kunst, was sich zum Beispiel in dem Bemühen zeigt, die Natürlichkeit eines Aktes in einer Zeichnung umzusetzen."
+descriptions:
+- "Kirchner, Ernst Ludwig: Artistin Marcella (Ausschnitt), 1910, Öl und Leinwand, Brücke-Museum, Berlin; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Kirchner, Ernst Ludwig: Fränzi (Ausschnitt), 1911, Öl auf Leinwand, Kunsthalle, Kiel; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Kirchner, Ernst Ludwig (Ausschnitt): Fränzi mit Pfeilbogen, 1909-1911, Öl auf Leinwand, o.O.; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Kirchner, Ernst Ludwig: Sitzendes Mädchen, Fränzi (Ausschnitt), 1910-1920, Öl auf Leinwand, The Institute of Arts, Minneapolis; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
+- "Kirchner, Ernst Ludwig: Zwei Akte mit Badetub und Ofen (Ausschnitt), 1911, Öl auf Leinwand, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München"
+- "Heckel, Erich: Stehende Fränzi (Ausschnitt), 1910, Holzschnitt, o.O.; RUDI, Friedrich-Alexander-Universität, Kunsthistorisches Institut, Erlangen"
+- "Heckel, Erich: Fränzi liegend (Ausschnitt), 1910, Holzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur für Kunst, Kultur und Geschichte, Stiftung Preußischer Kulturbesitz, Berlin"
+- "Heckel, Erich: Fränzi mit Puppe (Ausschnitt), 1910, Öl auf Leinwand, Privatsammlung; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universität Paderborn, Paderborn"
 ---
 Die Künstlergruppe Brücke vertrat das Ideal einer "unverfälschten" Kunst, was sich zum Beispiel in dem Bemühen zeigt, die Natürlichkeit eines Aktes in einer Zeichnung umzusetzen. Dazu gehörte, dass die Brücke-Künstler den "Viertelstundenakt" entwickelten, eine Arbeitsmethode, die den Künstler zwang, in kurzer Zeit das Wesentliche einer Haltung zu erfassen. Sie waren außerdem darauf bedacht ungeübte und natürlich agierende Modelle zu finden, zum Beispiel Kinder wie Fränzi und Marcella. Beide Mädchen standen den Künstlern zwischen 1909 und 1912 häufig Modell. In der Ausstellung wird unter anderem der Einfluss beleuchtet, "den die Persönlichkeit der Modelle, ihre [...] Unbekümmertheit, ihre Lebendigkeit und ihre auffallende Präsenz in Atelier und freier Natur auf den Stil und die Kunst der Maler hatten", heißt es im Internetauftritt des Museums.
 

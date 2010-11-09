@@ -4,6 +4,16 @@ title: Andreas Feininger
 subtitle: '"Fotografie ist eine Bildsprache;'
 author: Hendrikje Hüneke
 date: 2010/09/20
+teaser: "*\"Fotografie ist eine Bildsprache; die einzige Sprache, die überall in der Welt verstanden werden kann.\"* - Andreas Feininger (1906-1999) hatte diese Sprache für sich entdeckt."
+descriptions:
+- "Der Fotojournalist, New York City (Ausschnitt), 1955, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Verdrehter Bogen, trisidos tortuosa Linné (Ausschnitt), 1970, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "George Washington Brücke, New York City (Ausschnitt), 1948, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Das Gebäude der Stadtverwaltung, Feuerleitern und die Hochbahn (Ausschnitt), 1940, Fotografie, New York; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München"
+- "Feder (Ausschnitt), 1965, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Fifth Avenue, New York City (Ausschnitt), 1940, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Samen II (Ausschnitt), 1935/36, Fotografie, Museum für Kunst und Gewerbe, Hamburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "New York, Lower Manhattan, von Brooklyn aus gesehen (Ausschnitt), 1940, Fotografie, (Standort nicht angegeben); ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München"
 ---
 *die einzige Sprache, die überall in der Welt verstanden werden kann."* Andreas Feininger (1906-1999) hatte diese Sprache für sich entdeckt. Berühmt geworden ist er besonders für seine Stadtansichten, vor allem von New York, wo er seit 1939 lebte. Während die Wolkenkratzer, Brücken und Straßenschluchten einen Blick aus der Ferne einnehmen, beeindrucken die Naturstudien mit dem Blick aufs Detail. Die Ausstellung in Friedrichshafen bietet mit fast 300 Fotografien aus unterschiedlichsten Bereichen, darunter auch Bilder aus seiner Zeit als LIFE-Bildjournalist, einen umfassenden Einblick in das Werk Feiningers.
 

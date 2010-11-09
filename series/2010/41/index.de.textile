@@ -4,6 +4,16 @@ title: Spielzeug
 subtitle: Von Künstlern der Avantgarde
 author: Hendrikje Hüneke
 date: 2010/10/04
+teaser: "*Von Künstlern der Avantgarde* - Eine Ausstellung im spanischen Málaga zeigt eine hinreißende Zusammenstellung von Objekten, die von Künstlern, Schriftstellern und Architekten für ihre Kinder entworfen und gebaut worden sind."
+descriptions:
+- "Hirschfeld-Mack, Ludwig: Kreisel nach Goethes Farblehre, um 1925, o.O., Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
+- "Lissitzky, El: aus dem Kinderbuch \"Von zwei Quadraten\" / ... fliegen auf die Erde von weit her, 1922, Sprengel Museum, Hannover; Datenbank Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Höch, Hannah: Dada-Puppen, 1916, Textilien/Pappe/Perlen, Berlinische Galerie, Berlin; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Rietveld, Gerrit Thomas: Kinderschubkarre, 1923, Holz/farbig gefaßt, o.O.; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau"
+- "Rodtschenko, Alexander: Ausschnitt einer Fotoillustration zu Tretjakows Kinderbuch \"Samoswer\", 1926, o.O.; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Feininger, Lyonel: Spielzeug, 1922-23, Holz/farbig gefaßt, Bauhausarchiv, Berlin; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Weidanz, Gustav: Kopf eines Teufels, 1918, Lindenholz/farbig gefaßt, Moritzburg, Halle; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
+- "Breuer, Marcel Lajos: Kinderstuhl ti3a, 1923, Holz/weiß lackiert, Weimar (im Besitz des Bauhaus Archivs Berlin); dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau"
 ---
 Eine Ausstellung im spanischen Málaga zeigt eine hinreißende Zusammenstellung von Objekten, die von Künstlern, Schriftstellern und Architekten für ihre Kinder entworfen und gebaut worden sind, darunter Bauklötze, Puppen, Möbel und Bücher - sowie der Hampelmann von Oscar Schlemmer. Es handelt sich um Objekte, die nicht vordergründig als Kunstwerke, aber doch mit künstlerischem Anspruch gefertigt worden sind. Das Interesse, Kinder durch Spielzeug früh mit Formen und Konzepten der Kunst der Moderne in Kontakt zu bringen, gründet sich auf der Idee, ästhetische Prinzipien in der Gesellschaft verankern zu wollen.
 
