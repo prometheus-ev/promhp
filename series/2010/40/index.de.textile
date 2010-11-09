@@ -4,7 +4,6 @@ title: Pablo Picasso
 subtitle: Im Atelier des Künstlers
 author: Hendrikje Hüneke
 date: 2010/09/13
-teaser: "*Im Atelier des Künstlers* - Das Atelier des Künstlers selbst ist Schwerpunkt einer Ausstellung, die 160 Stücke umfasst, darunter Zeichnungen, Druckgrafiken und Skulpturen."
 descriptions:
 - "Assemblage in Picassos Atelier am Boulevard Raspail 242 (Ausschnitt einer Fotografie des Künstlers), 1913,  Konstruktion nicht erhalten; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
 - "Konstruktion in Picassos Atelier am Boulevard Raspail 242 (Ausschnitt einer Fotografie des Künstlers), 1913, Maquette der Gitarre im Museum of Modern Art, New York; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"

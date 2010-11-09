@@ -4,7 +4,7 @@ title: Klimt, Schiele and their time
 subtitle: Vienna around 1900
 author: Hendrikje Hüneke
 date: 2010/11/04
-teaser: '*Vienna around 1900* - The "Wiener Secession" and the "Wiener Werkstätte" were part of a revolutionary development in arts. Gustav Klimt and Egon Schiele are in focus of an exhibition by the Beyeler Fondation...'
+teaser: 'The "Wiener Secession" and the "Wiener Werkstätte" were part of a revolutionary development in arts. Gustav Klimt and Egon Schiele are in focus of an exhibition by the Beyeler Fondation...'
 descriptions:
 - 'Arnold Schönberg, Blick (Ausschnitt), 1910, Öl auf Karton, 32,2 x 24,6 cm, Arnold Schönberg Center, Wien; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
 - 'Egon Schiele, Selbstbildnis mit gesenktem Kopf (Ausschnitt), 1912, Öl auf Holz, 42,2 x 33,7 cm, Leopold Museum, Wien; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin'

@@ -4,7 +4,6 @@ title: Klimt, Schiele und ihre Zeit
 subtitle: Wien um 1900
 author: Hendrikje Hüneke
 date: 2010/11/04
-teaser: '*Wien um 1900* - Die Skandale der Wiener Secession, die Arbeit der Wiener Werkstätte und die Kaffeehauskultur sind Elemente einer künstlerisch revolutionären und produktiven Zeit.'
 descriptions:
 - 'Arnold Schönberg, Blick (Ausschnitt), 1910, Öl auf Karton, 32,2 x 24,6 cm, Arnold Schönberg Center, Wien; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
 - 'Egon Schiele, Selbstbildnis mit gesenktem Kopf (Ausschnitt), 1912, Öl auf Holz, 42,2 x 33,7 cm, Leopold Museum, Wien; Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin'

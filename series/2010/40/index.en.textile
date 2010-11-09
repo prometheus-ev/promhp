@@ -4,7 +4,6 @@ title: Pablo Picasso
 subtitle: In the studio of the artist
 author: Hendrikje Hüneke
 date: 2010/09/13
-teaser: "*In the studio of the artist* - The main focus of an exhibition in Münster is the studio as a working space."
 descriptions:
 - "Assemblage in Picassos Atelier am Boulevard Raspail 242 (Ausschnitt einer Fotografie des Künstlers), 1913,  Konstruktion nicht erhalten; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
 - "Konstruktion in Picassos Atelier am Boulevard Raspail 242 (Ausschnitt einer Fotografie des Künstlers), 1913, Maquette der Gitarre im Museum of Modern Art, New York; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"

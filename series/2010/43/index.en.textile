@@ -4,7 +4,6 @@ title: Fränzi and Marcella
 subtitle: Two models of the group "Brücke"
 author: Hendrikje Hüneke
 date: 2010/10/20
-teaser: "*Two models of the group \"Brücke\"* - The ideal of a pure and unsophisticated art connected Ernst Ludwig Kirchner, Erich Heckel and Max Pechstein."
 descriptions:
 - "Kirchner, Ernst Ludwig: Artistin Marcella (Ausschnitt), 1910, Öl und Leinwand, Brücke-Museum, Berlin; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
 - "Kirchner, Ernst Ludwig: Fränzi (Ausschnitt), 1911, Öl auf Leinwand, Kunsthalle, Kiel; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"

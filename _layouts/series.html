@@ -9,9 +9,9 @@ layout: default
 <p>(<%= @page.author %>, <%= Date.parse(@page.date).strftime(t('%d/%m/%Y', '%d.%m.%Y')) %>)</p>
 
 <div class="series-items">
-<% for i in 1..8 %>
+<% for n in ImageSeries::NAMES %>
   <div>
-    <img src="<%= n = '%02d' % i %>.jpg" alt="<%= n %>" />
+    <img src="<%= n %>.jpg" alt="<%= n %>" />
     <!--#include virtual="<%= "#{n}.html.#{@page.lang}" %>" -->
   </div>
 <% end %>

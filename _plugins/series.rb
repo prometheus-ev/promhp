@@ -1,66 +1,74 @@
 module Jekyll
 
-  class ImageSerializer < Generator
+  module ImageSeries
 
-    def generate(site)
-      series = site.pages.map { |p| p if p.data['layout'] == 'series' }.compact
-      series.each { |p|
-        ImageSeris.parts.each { |part|
-          site.pages << ImageSeris.new(
-            site,
-            p.instance_variable_get(:@base),
-            p.instance_variable_get(:@dir),
-            p.name, part
-          )
+    COUNT = 8  # TODO: make it dynamic (= number of 'descriptions')
+
+    NAMES = Array.new(COUNT) { |i| '%02d' % i.succ }
+
+    PARTS = Array.new(COUNT) { |i| i.succ.to_s }.concat(%w[title teaser])
+
+    TEASER_RE = %r{(.*?[.?!])}
+
+    class Generator < Jekyll::Generator
+
+      def generate(site)
+        site.pages.select { |page|
+          page.data['layout'] == 'series'
+        }.each { |page|
+          Part.create(site, page)
         }
-      }
-    end
-
-  end
-
-  class ImageSeris < Page
-
-    ImageSerisParts = %w{title teaser} + (1..8).map { |i| "description_#{i}" }
-
-    def initialize(site, base, dir, name, part)
-      @part = part
-      super(site, base, dir, name)
-      self.data['layout'] = 'none'
-      self.basename = part_name
-      self.content = part_content
-    end
-
-    def self.parts
-      ImageSerisParts
-    end
-
-    def part_name
-      if nr = description_nr
-        "0#{nr}"
-      else
-        @part
       end
+
     end
 
-    def description_nr
-      @part =~ /\Adescription_(\d)\z/
-      return $1 ? $1.to_i : $1
-    end
+    class Part < Page
 
-    def part_content
-      if nr = description_nr
-        self.data['descriptions'][nr - 1]
-      elsif @part == 'title'
-        "<notextile>#{self.data[@part]}</notextile>"
-      elsif @part == 'teaser'
-        teaser
-      else
-        self.data[@part]
+      def self.create(site, page)
+        PARTS.each { |part|
+          site.pages << new(site, page, part)
+        }
       end
-    end
 
-    def teaser
-      self.data['teaser'] || @content.match(/([^!?.]*[.?!])/)[1]
+      def initialize(site, page, part)
+        super(
+          site,
+          page.instance_variable_get(:@base),
+          page.instance_variable_get(:@dir),
+          page.name
+        )
+
+        @part = part
+        data['layout'] = 'none'
+
+        self.basename = part_name
+        self.content  = part_content
+      end
+
+      private
+
+      def part_name
+        i = description_no
+        i ? NAMES[i - 1] : @part
+      end
+
+      def part_content
+        if i = description_no
+          data['descriptions'][i - 1]
+        elsif @part == 'title'
+          "<notextile>#{data[@part]}</notextile>"
+        elsif @part == 'teaser'
+          "*#{data['subtitle']}* - #{data[@part] || content[TEASER_RE, 1]}"
+        else
+          data[@part]
+        end
+      end
+
+      def description_no
+        @part =~ /\A(\d+)\z/
+        $1.to_i if $1
+      end
+
     end
 
   end

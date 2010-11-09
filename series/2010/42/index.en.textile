@@ -4,7 +4,6 @@ title: Johannes Vermeer van Delft
 subtitle: Vermeer and the "Schilderkunst"
 author: Hendrikje Hüneke
 date: 2010/10/15
-teaser: "*Vermeer and the \"Schilderkunst\"* - The \"Girl reading a letter at an open window\" might be the highlight of an exhibition in Dresden, which deals with Vermeers method of painting."
 descriptions:
 - "Vermeer, Johannes: Brieflesendes Mädchen am Fenster (Ausschnitt), 1659, Öl auf Leinwand, 83 x 64,5 cm, Gemäldegalerie Alte Meister, Dresden; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
 - "Vermeer, Johannes: Diana mit ihren Gefährtinnen (Ausschnitt), um 1653/56, Öl auf Leinwand, 143 x 130 cm, Koninklijk Kabinet van Schilderijen Mauritshuis, Den Haag; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"

@@ -48,8 +48,8 @@
         <!--#set var="series" value="<%=r 'series' %>/${DATE_LOCAL}" -->
         <a href="<!--#echo var="series" -->"
            title="<%=t 'Current image series', 'Aktuelle Bildserie' %>: <!--#include virtual="${series}/title.<%= page.lang %>" -->">
-        <% for i in 1..8 %>
-          <img src="<!--#echo var="series" -->/<%= n = '%02d' % i %>.jpg" alt="<%= n %>" />
+        <% for n in ImageSeries::NAMES %>
+          <img src="<!--#echo var="series" -->/<%= n %>.jpg" alt="<%= n %>" />
         <% end %>
         </a>
       </div>

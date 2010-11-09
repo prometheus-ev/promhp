@@ -4,7 +4,6 @@ title: Masks
 subtitle: Masks of prehistoric times in Europe
 author: Hendrikje Hüneke
 date: 2010/10/28
-teaser: '*Masks of prehistoric times in Europe* - We know masks from all times and cultures in connection with rituals or plays.'
 descriptions:
 - 'Mbuya-(Kranken-)Maske des Pende-Stammes, bemaltes Holz/Stoff, Standort: Königliches Museum für Zentralafrika, Tervuren; HeidICON - Europäische Kunstgeschichte, Ruprecht-Karls-Universität, Universitätsbibliothek, Heidelberg'
 - 'Maske des Parasiten, Ton, Fundort: Brandgrab in der via Regina, Tarent, Standort: Museo Archeologico Nationale, Tarent; EikOnline, Justus-Liebig-Universität, Institut für Altertumswissenschaften, Gießen'

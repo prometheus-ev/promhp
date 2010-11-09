@@ -4,7 +4,7 @@ title: Toys
 subtitle: Made by artists of the Avant-Garde
 author: Hendrikje Hüneke
 date: 2010/10/04
-teaser: "*Made by artists of the Avant-Garde* - An exhibition in Málaga is presenting a wonderful collection of objects, which are designed and produced by artists, authors and architects for their children."
+teaser: "An exhibition in Málaga is presenting a wonderful collection of objects, which are designed and produced by artists, authors and architects for their children."
 descriptions:
 - "Hirschfeld-Mack, Ludwig: Kreisel nach Goethes Farblehre, um 1925, o.O., Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
 - "Lissitzky, El: aus dem Kinderbuch \"Von zwei Quadraten\" / ... fliegen auf die Erde von weit her, 1922, Sprengel Museum, Hannover; Datenbank Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"

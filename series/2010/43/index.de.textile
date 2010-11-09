@@ -4,7 +4,6 @@ title: Fränzi und Marcella
 subtitle: Die Modelle der Brücke-Künstler
 author: Hendrikje Hüneke
 date: 2010/10/20
-teaser: "*Die Modelle der Brücke-Künstler* - Die Künstlergruppe Brücke vertrat das Ideal einer \"unverfälschten\" Kunst, was sich zum Beispiel in dem Bemühen zeigt, die Natürlichkeit eines Aktes in einer Zeichnung umzusetzen."
 descriptions:
 - "Kirchner, Ernst Ludwig: Artistin Marcella (Ausschnitt), 1910, Öl und Leinwand, Brücke-Museum, Berlin; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
 - "Kirchner, Ernst Ludwig: Fränzi (Ausschnitt), 1911, Öl auf Leinwand, Kunsthalle, Kiel; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"

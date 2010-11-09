@@ -4,7 +4,7 @@ title: Spielzeug
 subtitle: Von Künstlern der Avantgarde
 author: Hendrikje Hüneke
 date: 2010/10/04
-teaser: "*Von Künstlern der Avantgarde* - Eine Ausstellung im spanischen Málaga zeigt eine hinreißende Zusammenstellung von Objekten, die von Künstlern, Schriftstellern und Architekten für ihre Kinder entworfen und gebaut worden sind."
+teaser: "Eine Ausstellung im spanischen Málaga zeigt eine hinreißende Zusammenstellung von Objekten, die von Künstlern, Schriftstellern und Architekten für ihre Kinder entworfen und gebaut worden sind."
 descriptions:
 - "Hirschfeld-Mack, Ludwig: Kreisel nach Goethes Farblehre, um 1925, o.O., Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen"
 - "Lissitzky, El: aus dem Kinderbuch \"Von zwei Quadraten\" / ... fliegen auf die Erde von weit her, 1922, Sprengel Museum, Hannover; Datenbank Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden"
