@@ -1,5 +1,6 @@
---- 
+---
 layout: post
 typo_id: 12
 title: "603.875"
+author: Arne
 ---

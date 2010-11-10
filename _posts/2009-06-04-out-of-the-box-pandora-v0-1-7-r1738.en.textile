@@ -1,5 +1,6 @@
---- 
+---
 layout: post
 typo_id: 11
 title: "Out of the box: pandora v0.1.7 (r1738)"
+author: Arne
 ---

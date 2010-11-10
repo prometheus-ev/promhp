@@ -1,5 +1,6 @@
---- 
+---
 layout: post
 typo_id: 22
 title: Sebastian
+author: Arne
 ---

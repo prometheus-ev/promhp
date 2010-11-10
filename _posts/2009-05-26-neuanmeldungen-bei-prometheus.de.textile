@@ -2,6 +2,7 @@
 layout: post
 typo_id: 10
 title: Neuanmeldungen bei prometheus
+author: Arne
 tags:
 - facts
 - benutzer

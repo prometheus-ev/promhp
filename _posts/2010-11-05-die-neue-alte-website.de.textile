@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Die neue alte Website
-author: arne
+author: Arne
 tags:
 - website
 - relaunch

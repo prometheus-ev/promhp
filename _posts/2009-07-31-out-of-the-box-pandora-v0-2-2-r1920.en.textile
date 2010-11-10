@@ -1,5 +1,6 @@
---- 
+---
 layout: post
 typo_id: 23
+author: Jens
 title: "Out of the box: pandora v0.2.2 (r1920)"
 ---

@@ -1,5 +1,6 @@
---- 
+---
 layout: post
 typo_id: 8
 title: "Tipp: Farbschema ändern"
+author: Arne
 ---

@@ -2,6 +2,7 @@
 layout: post
 typo_id: 40
 title: Vier neue Open-Access-Datenbanken
+author: Lisa
 tags:
 - open-access
 - datenbanken

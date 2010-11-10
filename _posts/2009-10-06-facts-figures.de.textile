@@ -2,6 +2,7 @@
 layout: post
 typo_id: 32
 title: facts & figures 10/2009
+author: Silvia
 tags:
 - facts
 ---

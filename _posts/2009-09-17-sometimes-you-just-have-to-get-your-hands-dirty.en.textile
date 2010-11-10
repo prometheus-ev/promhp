@@ -1,6 +1,7 @@
 ---
 layout: post
 typo_id: 29
+author: Jens
 title: Sometimes you just have to get your hands dirty
 tags:
 - sql

@@ -2,6 +2,7 @@
 layout: post
 typo_id: 3
 title: Immer in Bewegung bleiben
+author: Arne
 tags:
 - blog
 ---

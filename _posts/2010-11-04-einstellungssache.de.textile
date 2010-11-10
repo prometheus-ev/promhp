@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Einstellungssache
-author: arne
+author: Arne
 tags:
 - einstellungen
 ---

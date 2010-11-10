@@ -2,6 +2,7 @@
 layout: post
 typo_id: 7
 title: "Wir suchen Verstärkung"
+author: Arne
 tags:
 - job
 - team

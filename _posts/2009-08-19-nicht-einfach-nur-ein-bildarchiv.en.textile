@@ -1,5 +1,6 @@
---- 
+---
 layout: post
 typo_id: 25
 title: Nicht einfach nur ein Bildarchiv
+author: Arne
 ---

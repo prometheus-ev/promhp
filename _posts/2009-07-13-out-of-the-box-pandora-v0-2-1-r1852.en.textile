@@ -1,5 +1,6 @@
---- 
+---
 layout: post
 typo_id: 21
 title: "Out of the box: pandora v0.2.1 (r1852)"
+author: Arne
 ---

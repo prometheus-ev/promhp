@@ -2,6 +2,7 @@
 layout: post
 typo_id: 27
 title: "Out of the box: pandora v0.3.1 (r2063)"
+author: Arne
 tags:
 - update
 - pandora
