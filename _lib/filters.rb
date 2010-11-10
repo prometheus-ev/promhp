@@ -79,6 +79,15 @@ module Jekyll
       _prometheus_original_tags(obj)
     end
 
+    def author(post)
+      author = post.is_a?(Jekyll::Post) ? post.data['author'] : post.author
+      if url = @site.authors[author]
+        %Q{<a href="#{url}">#{author}</a>}
+      else
+        author
+      end
+    end
+
   end
 
 end
