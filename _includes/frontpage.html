@@ -36,22 +36,7 @@
 <br class="clear-float" />
 
 <div id="series-front">
-  <h3 class="section-title"><%=t 'Current image series', 'Aktuelle Bildserie' %></h3>
-
-  <div class="section-item">
-    <a href="<!--#echo var="series" -->" title="<!--#include virtual="${series}/title.html.<%= page.lang %>" -->">
-      <img src="<!--#echo var="series" -->/start.jpg" alt="Start" />
-    </a>
-
-    <h4 class="section-heading"><!--#include virtual="${series}/title.html.<%= page.lang %>" --></h4>
-
-    <!--#include virtual="${series}/teaser.html.<%= page.lang %>" -->
-
-    <span>
-      <span class="pale">|</span>
-      <a href="<!--#echo var="series" -->"><%=t 'more...', 'mehr...' %></a>
-    </span>
-  </div>
+  <!--#include virtual="${current_series}/teaser.html.<%= page.lang %>" -->
 </div>
 
 <br class="clear-float" />

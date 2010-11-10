@@ -1,0 +1,5 @@
+<notextile>
+<a href="<%= url %>" title="<%=t 'Current image series', 'Aktuelle Bildserie' %>: <%= title %>">
+  <% for item in row %><img src="<%= url %>/<%= item %>.jpg" alt="<%= item %>" /><% end %>
+</a>
+</notextile>

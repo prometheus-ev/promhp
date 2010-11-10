@@ -2,17 +2,17 @@
 layout: default
 ---
 <h2><%= page_title %></h2>
-<h3><%= @page.subtitle %></h3>
+<h3><%= page.subtitle %></h3>
 
 <%= @content %>
 
-<p>(<%= @page.author %>, <%= Date.parse(@page.date).strftime(t('%d/%m/%Y', '%d.%m.%Y')) %>)</p>
+<p>(<%= page.author %>, <%= Date.parse(page.date).strftime(t('%d/%m/%Y', '%d.%m.%Y')) %>)</p>
 
 <div class="series-items">
-<% for n in ImageSeries::NAMES %>
+<% for item in ImageSeries.items(page) %>
   <div>
-    <img src="<%= n %>.jpg" alt="<%= n %>" />
-    <!--#include virtual="<%= "#{n}.html.#{@page.lang}" %>" -->
+    <img src="<%= item %>.jpg" alt="<%= item %>" />
+    <!--#include virtual="<%= "#{item}.html.#{page.lang}" %>" -->
   </div>
 <% end %>
 </div>

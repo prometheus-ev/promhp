@@ -2,13 +2,34 @@ module Jekyll
 
   module ImageSeries
 
-    COUNT = 8  # TODO: make it dynamic (= number of 'descriptions')
-
-    NAMES = Array.new(COUNT) { |i| '%02d' % i.succ }
-
-    PARTS = Array.new(COUNT) { |i| i.succ.to_s }.concat(%w[title teaser])
+    extend self
 
     TEASER_RE = %r{(.*?[.?!])}
+
+    def parts(page)
+      items(page).concat(%w[row teaser])
+    end
+
+    def items(page)
+      Array.new(item_count(page)) { |i| item_name(i.succ) }
+    end
+
+    def item_count(page)
+      items = page.respond_to?(:data) ? page.data['descriptions'] : page.descriptions
+      items ? items.size : 0
+    end
+
+    ###
+    #
+    def item_name(i)
+      '%02d' % i
+    end
+
+    def item_num(part)
+      $1.to_i if part =~ /\A(\d+)\z/
+    end
+    #
+    ###
 
     class Generator < Generator
 
@@ -17,7 +38,7 @@ module Jekyll
           page.data['layout'] == 'series'
         }
 
-        Pager.generate(pages)
+        Pager.process(pages)
         Part.generate(site, pages)
       end
 
@@ -25,14 +46,14 @@ module Jekyll
 
     class Pager < Pager
 
-      def self.generate(pages)
+      def self.process(pages)
         pages.group_by { |page| page.lang }.each_value { |pages_by_lang|
           sorted_pages = pages_by_lang.sort_by { |page|
             page.instance_variable_get(:@dir)
           }
 
           sorted_pages.each_with_index { |page, index|
-            page.pager = Pager.new(index + 1, sorted_pages)
+            page.pager = new(index + 1, sorted_pages)
           }
         }
       end
@@ -52,7 +73,9 @@ module Jekyll
 
       def self.generate(site, pages)
         pages.each { |page|
-          PARTS.each { |part| site.pages << new(site, page, part) }
+          ImageSeries.parts(page).each { |part|
+            site.pages << new(site, page, part)
+          }
         }
       end
 
@@ -64,35 +87,27 @@ module Jekyll
           page.name
         )
 
-        @part = part
         data['layout'] = 'none'
 
-        self.basename = part_name
-        self.content  = part_content
-      end
+        item_num = ImageSeries.item_num(part)
+        self.basename = item_num ? ImageSeries.item_name(item_num) : part
 
-      private
-
-      def part_name
-        i = description_no
-        i ? NAMES[i - 1] : @part
-      end
-
-      def part_content
-        if i = description_no
-          data['descriptions'][i - 1]
-        elsif @part == 'title'
-          "<notextile>#{data[@part]}</notextile>"
-        elsif @part == 'teaser'
-          "*#{data['subtitle']}* - #{data[@part] || content[TEASER_RE, 1]}"
+        self.content = if item_num
+          data['descriptions'][item_num - 1]
         else
-          data[@part]
-        end
-      end
+          locals = {
+            :url        => File.join('<!--#echo var="url_root" -->', @dir),
+            :title      => data['title'],
+            part.to_sym => case part
+              when 'row'
+                ImageSeries.items(self)
+              when 'teaser'
+                "*#{data['subtitle']}* - #{data[part] || content[TEASER_RE, 1]}"
+            end
+          }
 
-      def description_no
-        @part =~ /\A(\d+)\z/
-        $1.to_i if $1
+          %Q{<%= include_file('series/#{part}.html', #{locals.inspect}) %>}
+        end
       end
 
     end
