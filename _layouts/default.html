@@ -47,7 +47,7 @@
         <!--#config timefmt="%Y/%W" -->
         <!--#set var="series" value="<%=r 'series' %>/${DATE_LOCAL}" -->
         <a href="<!--#echo var="series" -->"
-           title="<%=t 'Current image series', 'Aktuelle Bildserie' %>: <!--#include virtual="${series}/title.<%= page.lang %>" -->">
+           title="<%=t 'Current image series', 'Aktuelle Bildserie' %>: <!--#include virtual="${series}/title.html.<%= page.lang %>" -->">
         <% for n in ImageSeries::NAMES %>
           <img src="<!--#echo var="series" -->/<%= n %>.jpg" alt="<%= n %>" />
         <% end %>
