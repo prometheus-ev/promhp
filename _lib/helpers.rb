@@ -17,8 +17,7 @@ module Jekyll
       else
         [site.tag_page_dir, site.permalink]
       end
-
-      url =~ %r{\A/?(?:#{Regexp.union(d[0], d[1][%r{\A/:?(\w+)}, 1])})(?:/|\z)}
+      url =~ %r{\A/?(?:#{Regexp.union(/page\d+/, d[0], d[1][%r{\A/:?(\w+)}, 1])})(?:/|\z)}
     end
 
   end
