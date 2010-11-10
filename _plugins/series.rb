@@ -10,23 +10,49 @@ module Jekyll
 
     TEASER_RE = %r{(.*?[.?!])}
 
-    class Generator < Jekyll::Generator
+    class Generator < Generator
 
       def generate(site)
-        site.pages.select { |page|
+        pages = site.pages.select { |page|
           page.data['layout'] == 'series'
-        }.each { |page|
-          Part.create(site, page)
         }
+
+        Pager.generate(pages)
+        Part.generate(site, pages)
+      end
+
+    end
+
+    class Pager < Pager
+
+      def self.generate(pages)
+        pages.group_by { |page| page.lang }.each_value { |pages_by_lang|
+          sorted_pages = pages_by_lang.sort_by { |page|
+            page.instance_variable_get(:@dir)
+          }
+
+          sorted_pages.each_with_index { |page, index|
+            page.pager = Pager.new(index + 1, sorted_pages)
+          }
+        }
+      end
+
+      def initialize(page, all_pages)
+        super({ 'paginate' => 1 }, page, all_pages, all_pages.size)
+        @all_pages = all_pages
+      end
+
+      def link_at(pos)
+        @all_pages[pos - 1].instance_variable_get(:@dir)
       end
 
     end
 
     class Part < Page
 
-      def self.create(site, page)
-        PARTS.each { |part|
-          site.pages << new(site, page, part)
+      def self.generate(site, pages)
+        pages.each { |page|
+          PARTS.each { |part| site.pages << new(site, page, part) }
         }
       end
 

@@ -153,6 +153,41 @@ module Jekyll
 
   end
 
+  class Pager
+
+    def link_at(pos)
+      pos == 1 ? 'blog' : "page#{pos}"  # TODO: Make these dynamic.
+    end
+
+    def first_link
+      link_at(1) if page > 1
+    end
+
+    def last_link
+      link_at(total_pages) if page < total_pages
+    end
+
+    def previous_link
+      link_at(previous_page) if previous_page
+    end
+
+    def next_link
+      link_at(next_page) if next_page
+    end
+
+    alias_method :_prometheus_original_to_liquid, :to_liquid
+
+    def to_liquid
+      _prometheus_original_to_liquid.merge(
+        :first_link    => first_link,
+        :last_link     => last_link,
+        :previous_link => previous_link,
+        :next_link     => next_link
+      )
+    end
+
+  end
+
   module Filters
 
     include Helpers
@@ -181,43 +216,41 @@ module Jekyll
     end
 
     def paginator_first_link
-      if @paginator.page < 2
-        '<div class="icon_first inactive"></div>'
+      if href = @paginator.first_link
+        %Q{<a href="#{r(href)}"><div class="icon_first"></div></a>}
       else
-        %Q{<a href="#{r('blog')}"><div class="icon_first"></div></a>} # TODO: Make this dynamic.
+        '<div class="icon_first inactive"></div>'
       end
     end
 
     def paginator_last_link
-      if @paginator.page >= @paginator.total_pages
-        '<div class="icon_last inactive"></div>'
+      if href = @paginator.last_link
+        %Q{<a href="#{r(href)}"><div class="icon_last"></div></a>}
       else
-        %Q{<a href="#{r("page#{@paginator.total_pages}")}"><div class="icon_last"></div></a>}
+        '<div class="icon_last inactive"></div>'
       end
     end
 
     def paginator_previous_link
-      case @paginator.page
-        when 1 then return '<div class="icon_prev inactive"></div>'
-        when 2 then href = 'blog' # TODO: Make this dynamic.
-        else        href = "page#{@paginator.previous_page}"
+      if href = @paginator.previous_link
+        %Q{<a href="#{r(href)}"><div class="icon_prev"></div></a>}
+      else
+        '<div class="icon_prev inactive"></div>'
       end
-
-      %Q{<a href="#{r(href)}"><div class="icon_prev"></div></a>}
     end
 
     def paginator_next_link
-      if @paginator.page == @paginator.total_pages
-        '<div class="icon_next inactive"></div>'
+      if href = @paginator.next_link
+        %Q{<a href="#{r(href)}"><div class="icon_next"></div></a>}
       else
-        %Q{<a href="#{r("page#{@paginator.next_page}")}"><div class="icon_next"></div></a>}
+        '<div class="icon_next inactive"></div>'
       end
     end
 
     def paginator_navigation
       [
         paginator_first_link, paginator_previous_link,
-        t('Page', 'Seite'),  @paginator.page,
+        t('Page', 'Seite'),  @paginator.page,  # TODO: Make this dynamic?
         t('of',   'von'),    @paginator.total_pages,
         paginator_next_link,  paginator_last_link
       ].join(' ')
