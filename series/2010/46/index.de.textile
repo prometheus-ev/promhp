@@ -3,7 +3,7 @@ layout: series
 title: Entartete Kunst im Bombenschutt
 subtitle: Überraschende Funde einer archäologischen Ausgrabung
 author: Hendrikje Hüneke
-date: 2010/11/12
+date: 2010/11/11
 descriptions:
 - 'Dritter Raum der Ausstellung "Entartete Kunst" im Galeriegebäude am Münchener Hofgarten (Eröffnung am 19. Juli 1937), Zentralarchiv, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur für Kunst, Kultur und Geschichte, Stiftung Preußischer Kulturbesitz, Berlin'
 - 'Titelblatt des Führers zur Ausstellung "Entartete Kunst" mit der Skulptur "Der neue Mensch" von Otto Freundlich, 1937; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen '
