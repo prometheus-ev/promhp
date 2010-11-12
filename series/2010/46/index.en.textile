@@ -1,0 +1,19 @@
+---
+layout: series
+title: "\"Entartete Kunst im Bombenschutt\""
+subtitle: A surprising corpus of finds
+author: Hendrikje Hüneke
+date: 2010/11/12
+descriptions:
+- 'Dritter Raum der Ausstellung "Entartete Kunst" im Galeriegebäude am Münchener Hofgarten (Eröffnung am 19. Juli 1937), Zentralarchiv, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur für Kunst, Kultur und Geschichte, Stiftung Preußischer Kulturbesitz, Berlin'
+- 'Titelblatt des Führers zur Ausstellung "Entartete Kunst" mit der Skulptur "Der neue Mensch" von Otto Freundlich, 1937; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen '
+- 'Slutzky, Naum: Frauenbüste (Detail), 1931, Gelbguß; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden '
+- 'Roeder, Emy: Schwangere (Detail), 1920, Variante aus Nussbaumholz, Städtische Galerie, Würzburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Moll, Marg: Schwarzer Torso (Detail), 1930, Bronze, Ostdeutsche Galerie, Regensburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Knappe, Karl: Max Liebermann (Detail), 1925, Bronze, Privatsammlung; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden '
+- 'Scharff, Edwin: Helene Ritscher (Detail), 1920, Bronze, o.O.; Datenbank Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Freundlich, Otto: Kopf  (Detail), 1912, Gips, verschollen; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+---
+The news reported on the detected sculptures, which were refered to as "degenerate art” during the national sozialism and were lost for a long time.
+Unfortunately the sculptures are partly damaged. The female bust by Naum Slutzky, here to see in an old photo, lost her glossy surface and got a quite different expression.
+The other pictured sculptures are shown exemplary in place of the found artworks by Otto Freundlich, Karl Knappe, Marg Moll, Emy Roeder and Edwin Scharff, which are presented in an exhibition in Berlin.
