@@ -1,0 +1,19 @@
+---
+layout: series
+title: Farben
+subtitle: Zwischen Systematik und sinnlichem Erlebnis
+author: Hendrikje Hüneke
+date: 2010/11/17
+descriptions:
+- 'Itten, Johannes: Übung: Farbe-an-sich-Kontrast, o.O.; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Hirschfeld-Mack, Ludwig: Farben-Dreieck, 1822/23, Collage aus Buntpapier auf Neuruppiner Bilderbogen, Bauhaus-Archiv, Berlin; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Runge, Philipp Otto: Farbenkugel, 1809, Kupferstich/Aquatinta/Aquarell, 22,5 x 18,9 cm, o.O.; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen'
+- 'Goethe, Johann Wolfgang: Zur Farbenlehre, Bd. 10, Tafel V (Ausschnitt), 1810; Datenbank EasyDB, Universität Bern, Institut für Kunstgeschichte, Bern'
+- 'Goethe, Johann Wolfgang: Zur Farbenlehre, Bd. 10, Tafel II (Ausschnitt), 1810; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen'
+- 'Goethe, Johann Wolfgang: Farbenkreis zur Symbolisierung des "menschlichen Geistes- und Seelenlebens", 1809, aquarellierte Tuschezeichnung, o.O.; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- 'Hayet, Louis: Farbenkreis, 1885, bemaltes Papier auf Karton, Ashmolean Museum, Oxford; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Runge, Philipp Otto: Harmonietafel (Ausschnitt), o.O.; EasyDB, Universität Bern, Institut für Kunstgeschichte, Bern'
+---
+Die Darstellungen von Farbsystemen durch Künstler, Geisteswissenschaftler und Naturwissenschaftler rücken anlässlich des 200. Jahrestages der Goethschen Farbenlehre in diesem Jahr in den Fokus mehrerer großer und kleiner Ausstellungen. Eine Ausstellung, die noch bis Anfang des nächsten Jahres im Gewerbemuseum Winterthur zu sehen ist, widmet sich dem Ursprung und der Herstellung von Farbpigmenten. Die zugehörige Publikation ist ein sinnliches Erlebnis!
+
+*Farbpigmente, Farbstoffe, Farbgeschichten, 12. Sept. 2010 – 2. Jan. 2011, Gewerbemuseum Winterthur*
