@@ -1,0 +1,21 @@
+---
+layout: series
+title: Microphotography
+subtitle: Between science and art
+author: Hendrikje Hüneke
+date: 2010/11/17
+descriptions:
+- 'Talbot, William Henry Fox: Mikrofotografie eines Nachtfalterflügels (Ausschnitt), 1839-1841, Talbot Museum, Lacock Abbey; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Ettinghausen, Constantin von: Die Blatt-Skelette der zweikeimblättrigen Pflanzen (Ausschnitt), 1861, Universitätsbibliothek Johann Christian Senckenberg, Frankfurt am Main; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen'
+- 'Heackel, Ernst: Messina-Dauerpräparat (Ausschnitt), um 1860, Mikrofotografie, Ernst- Haeckel-Haus, Archiv, Jena; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Heackel, Ernst: Messina-Dauerpräparat (Ausschnitt), um 1860, Mikrofotografie, Ernst- Haeckel-Haus, Archiv, Jena; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Heackel, Ernst: Messina-Dauerpräparat (Ausschnitt), um 1860, Mikrofotografie, Ernst- Haeckel-Haus, Archiv, Jena; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Talbot, William Henry Fox: Mikrophotographie (Ausschnitt), 1841, Kalotypie / aufgenommen mit einem Sonnenmikroskop,  o.O.; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- 'Benecke, E.: Mikrofotografie (Ausschnitt), 1868, Albuminabzug, Leverkusen; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- 'Föhrenspinne (Ausschnitt), 1865, 3000fach vergrößert / Albuminabzug, Leverkusen; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+---
+The history of microphotography is presented in two exhibitions in Berlin: One quotes a wide a range of examples - from the middle of the 19th century to the present. The other one deals with the work of Manfred Kage (born in 1935). Walking on the borderline between science and art he might be Germany's most important microphotographer.
+
+*Mikrofotografie. Schönheit jenseits des Sichtbaren, 1.Okt. 2010 – 9. Jan. 2011, Neuer Kaisersaal des Museums für Fotografie, Berlin*
+
+*Retrospektive von Manfred P. Kage, 1. Okt 2010 – 9. Jan. 2012, Alfred Ehrhardt Stiftung, Berlin*
