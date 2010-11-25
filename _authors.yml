@@ -1,5 +1,11 @@
 ---
-Lisa:   http://prometheus.uni-koeln.de/pandora/account/show/dieckmann
-Arne:   http://prometheus.uni-koeln.de/pandora/account/show/arne.eilermann
-Jens:   http://prometheus.uni-koeln.de/pandora/account/show/j.wille
-Silvia: http://prometheus.uni-koeln.de/pandora/account/show/s.stark
+Lisa:
+  pandora: dieckmann
+Jens:
+  pandora: j.wille
+  website: http://blackwinter.de
+Silvia:
+  pandora: s.stark
+Arne:
+  pandora: arne.eilermann
+  website: http://kleinerdrei.net

@@ -14,7 +14,7 @@ LIBDIR = File.expand_path('../../_lib', __FILE__)
   helpers navigation
   page post pagination
   series tagger filters
-  initializer
+  initializer authors
 ].each { |lib|
   require File.join(LIBDIR, lib)
 }

@@ -82,7 +82,7 @@ module Jekyll
     def author(post)
       author = post.is_a?(Jekyll::Post) ? post.data['author'] : post.author
       if url = @site.authors[author]
-        %Q{<a href="#{url}">#{author}</a>}
+        %Q{<a href="#{r('blog/author/' + author.downcase)}">#{author}</a>}
       else
         author
       end
