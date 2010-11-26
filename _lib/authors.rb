@@ -10,7 +10,7 @@ module Jekyll
 
     def get_posts(site, author, lang)
       site.posts.select { |p|
-        p if p.data['author'] == author && p.lang == lang
+        p.data['author'] == author && p.lang == lang
       }.sort.reverse
     end
 
