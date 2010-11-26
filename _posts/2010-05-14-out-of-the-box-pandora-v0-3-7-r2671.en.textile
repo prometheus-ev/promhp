@@ -1,4 +1,5 @@
 ---
 layout: post
+author: Arne
 title: "Out of the box: pandora v0.3.7 (r2671)"
 ---
