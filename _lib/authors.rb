@@ -9,9 +9,9 @@ module Jekyll
     end
 
     def get_posts(site, author, lang)
-      site.posts.map { |p|
+      site.posts.select { |p|
         p if p.data['author'] == author && p.lang == lang
-      }.compact.sort.reverse
+      }.sort.reverse
     end
 
     def generate_author_pages(site)
