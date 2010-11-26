@@ -5,6 +5,7 @@ module Jekyll
     def generate(site)
       @authors = site.config['authors'] = YAML.load_file(File.join(site.source, '_authors.yml'))
       generate_author_pages(site)
+      generate_author_index(site)
     end
 
     def get_posts(site, author, lang)
@@ -16,16 +17,29 @@ module Jekyll
     def generate_author_pages(site)
       return unless @authors
       Localization::LANGUAGES.each { |lang|
-        @authors.each { |a|
-          a[1]['posts'] = get_posts(site, a[0], lang)
-          site.pages << AuthorPage.new(site, site.source, '/blog/author/', "#{a[0].downcase}.#{lang}.html",
+        @authors.each { |author, data|
+          data['posts'] = get_posts(site, author, lang)
+          site.pages << AuthorPage.new(site, site.source, '/blog/author/', "#{author.downcase}.#{lang}.html",
             {
-              'content' => a[1],
-              'author'  => a[0],
+              'content' => data,
+              'author'  => author,
               'layout'  => 'author'
             }
           )
         }
+      }
+    end
+
+    def generate_author_index(site)
+      Localization::LANGUAGES.each { |lang|
+        @authors.each { |author, data| data['post_count'] = get_posts(site, author, lang).size }
+
+        site.pages << AuthorPage.new(site, site.source, '/blog/author/', "index.#{lang}.html",
+          {
+            'content' => @authors,
+            'layout'  => 'author_index'
+          }
+        )
       }
     end
 

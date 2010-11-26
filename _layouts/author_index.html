@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<h2><%=t 'prometheus bloggers', 'prometheus Blogger' %></h2>
+
+<table>
+<% for author in @page.content.keys.sort %>
+  <% data = @page.content[author] %>
+  <tr>
+    <td><strong><%= author %></strong> (<a href="<%=r "blog/author/#{author.downcase}" %>">Posts: <%= data['post_count'] %></a>)</td>
+    <td>
+      <% if data['pandora'] %>
+        <a href="<%=p "account/show/#{data['pandora']}" %>"><%=t 'Profile', 'Profil' %></a>
+      <% end %>
+      <% if data['website'] %>
+        <span class="pale">|</span>
+        <a href="<%= data['website'] %>">Website</a>
+      <% end %>
+    </td>
+  </tr>
+<% end %>
+</table>
