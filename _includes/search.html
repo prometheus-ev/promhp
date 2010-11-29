@@ -1,6 +1,5 @@
-<div class="nopandora hidden warning_icon"></div>
-<form action="<%=p 'search' %>" class="search_form search_query pandoraonly" id="query_form" method="get">
-<noscript>
+<!--NOPANDORA#include virtual="<%=r "inc/nopandora.html.#{page.lang}" %>" -->
+<form action="<%=p 'search' %>" class="search_form search_query" id="query_form" method="get">
   <table>
     <tr>
       <td><input id="v[]" name="v[]" size="30" type="text" /></td>
@@ -8,5 +7,4 @@
     </tr>
   </table>
   <div class="clear-float"></div>
-</noscript>
 </form>
