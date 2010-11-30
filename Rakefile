@@ -32,6 +32,15 @@ task :tag do
   sh 'git', 'tag', "cl-#{Time.now.to_f}"
 end
 
+Dir['_config/*.yml'].each { |file|
+  env = File.basename(file, '.yml')
+
+  desc "Run following tasks in #{env} environment"
+  task env do
+    ENV['JEKYLL_ENV'] = env
+  end
+}
+
 def site_paths
   site = File.expand_path('../_site', __FILE__)
   [site, "#{site}.tmp", "#{site}.old"]

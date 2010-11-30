@@ -12,7 +12,7 @@ LIBDIR = File.expand_path('../../_lib', __FILE__)
 %w[
   core_ext localization
   helpers navigation
-  page post pagination
+  site page post pagination
   series tagger filters
   initializer authors
 ].each { |lib|

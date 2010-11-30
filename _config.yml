@@ -1,16 +1,20 @@
-url: http://prometheus-bildarchiv.de
-author: prometheus
-email: info@prometheus-bildarchiv.de
-title: The prometheus Image Archive
+---
+title:    The prometheus Image Archive
 title_de: Das prometheus-Bildarchiv
-pandora_url: http://prometheus.uni-koeln.de/pandora
-engine: erb
+
+author:   prometheus
+email:    info@prometheus-bildarchiv.de
+
+engine:   erb
+pygments: true
+
 paginate: 10
 paginate_files:
 - blog/index.de.html
 - blog/index.en.html
-pygments: true
-exclude: [Rakefile]
+
+exclude:   [Rakefile]
 permalink: /blog/:title
+
+tag_page_dir:    tag
 tag_page_layout: tag_page
-tag_page_dir: tag
