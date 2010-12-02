@@ -2,6 +2,7 @@
 layout: series
 title: Farben
 subtitle: Zwischen Systematik und sinnlichem Erlebnis
+teaser: Die Darstellungen von Farbsystemen durch Künstler, Geisteswissenschaftler und Naturwissenschaftler rücken anlässlich des 200. Jahrestages der Goethschen Farbenlehre in diesem Jahr in den Fokus mehrerer großer und kleiner Ausstellungen.
 author: Hendrikje Hüneke
 date: 2010/11/17
 descriptions:
