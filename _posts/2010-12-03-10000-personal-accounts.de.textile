@@ -7,9 +7,9 @@ tags:
 - zugang
 ---
 !(bordered-image)<%=r 'files/blog/screenshot_personal_accounts_2010-12-03.png' %>(Screenshot: Persönliche Zugänge)!
-Täglich erstellen BenutzerInnen neue persönliche Zugänge und Alte laufen aus. Die Anzahl der aktiven Zugänge (auf unserer Website oben rechts abzulesen) schwankt also immer ein wenig. Doch sie schwankt kontinuierlich nach oben.
+Täglich erstellen BenutzerInnen neue persönliche Zugänge und alte laufen aus. Die Anzahl der aktiven Zugänge (auf unserer Website oben rechts abzulesen) schwankt also immer ein wenig. Doch sie schwankt kontinuierlich nach oben.
 Heute hat sie die Marke der 10.000 überschritten. Um genau zu sein sogar mindestens zwei mal, denn zunächst wollte sie gleich wieder sinken.
 
-Uns freut das natürlich sehr. Immerhin stellt diese Zahl für uns, in der esoterisch anmutenden Welt statistischen Auwertungen, doch noch mit den verlässlichsten Wert für den Erfolg von prometheus dar.
+Uns freut das natürlich sehr. Immerhin stellt diese Zahl für uns, in der esoterisch anmutenden Welt der statistischen Auwertungen, doch noch mit den verlässlichsten Wert für den Erfolg von prometheus dar.
 
 Vielen Dank an alle NutzerInnen für diese kleine Adventsfreude und möge es bald soweit sein, dass ich hier Zugang Nummer 20.000 verkünden kann.
