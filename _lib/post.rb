@@ -10,6 +10,7 @@ module Jekyll
     def initialize(site, source, dir, name)
       _prometheus_original_initialize(site, source, dir, name)
 
+      self.tags.flatten!
       @dir = self.dir
       data['navigation'] = load_navigaion
     end
