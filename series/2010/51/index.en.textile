@@ -1,0 +1,18 @@
+---
+layout: series
+title: Andy Goldsworthy
+subtitle: Homage to the snow
+author: Hendrikje Hüneke
+date: 2010/12/17
+descriptions:
+- 'Andy Goldsworthy: 30. März, 1989, Grise Fiord; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Andy Goldsworthy: o. T., 1989, Grise Fiord; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Andy Goldsworthy: 23. März, 1989, Grise Fiord; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Andy Goldsworthy: 24.+ 25. März, 1989, Grise Fiord; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Andy Goldsworthy: 29. März, 1989, Grise Fiord; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Andy Goldsworthy: 12. April, 1989, Grise Fiord; Datenbank Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Andy Goldsworthy: 14. April, 1989, Grise Fiord; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+- 'Andy Goldsworthy: 13. April, 1989, Grise Fiord; Diathek online, Universität Trier, Fach Kunstgeschichte, Trier'
+---
+Seeing the snow-sculptures by Andy Goldsworthy, You can imagine how big his patience with the nature and his veneration for the nature are. The sculptures are made in the nature, far away from civilisation and its not possible to move them in a museum. They change their optical effect in the change of the weather, and once they will be destroyed by wind and sun.
+This sculptures argue for a point of view, which is not limited on anger at frozen windscreens or delayed trains.
