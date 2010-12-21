@@ -8,7 +8,10 @@ module Jekyll
       tags, original_tags = [], site.tags.dup
 
       Localization::LANGUAGES.each { |lang|
-        original_tags.each { |tag, posts| tags << ["#{tag}.#{lang}", posts] }
+        original_tags.each { |tag, posts|
+          posts = posts.select { |p| p.lang == lang }
+          tags << ["#{tag}.#{lang}", posts]
+        }
       }
 
       site.tags = tags
