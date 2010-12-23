@@ -5,6 +5,10 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=292&no_cache=1&L=0&skin
 ---
 h2. <%= page_title %>
 
+* Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
+Meta-Image - a collaborative environment for image discourse
+in: The International Journal of Computing, 2010, Vol. 9, Issue 3.
+
 * Dieckmann, Lisa 
 prometheus : the distributed digital image archive for research and education.
 In: L’Art et la Mesure : Histoire de l’art et méthodes quantitatives, sous la direction de Béatrice Joyeux-Prunel, avec la collaboration de Luc Sigalo Santos,
