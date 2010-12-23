@@ -1,9 +1,16 @@
----
+--- 
 layout: default
-title: Wissenschaftliche Beiträge
+title: "Wissenschaftliche Beitr\xC3\xA4ge"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=292&no_cache=1&L=0&skin=
 ---
 h2. <%= page_title %>
+
+* Dieckmann, Lisa 
+prometheus : the distributed digital image archive for research and education.
+In: L’Art et la Mesure : Histoire de l’art et méthodes quantitatives, sous la direction de Béatrice Joyeux-Prunel, avec la collaboration de Luc Sigalo Santos,
+Paris, Editions Rue d’Ulm, 2010, S. 141-151.
+"http://www.dhta.ens.fr/enseignants/beatrice-joyeux-prunel-4/seminaires-de-recherche/Art-et-mesure/article/parution-electronique-l-art-et-la?lang=fr":http://www.dhta.ens.fr/enseignants/beatrice-joyeux-prunel-4/seminaires-de-recherche/Art-et-mesure/article/parution-electronique-l-art-et-la?lang=fr
+"http://dhta.ens.fr/IMG/jpg/L'Art-et-la-Mesure.pdf":http://dhta.ens.fr/IMG/jpg/L'Art-et-la-Mesure.pdf
 
 * Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
 Meta-Image - Forschungsumgebung für den Bilddiskurs in der Kunstgeschichte
