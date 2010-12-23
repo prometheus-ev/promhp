@@ -1,0 +1,22 @@
+---
+layout: series
+title: Alberto Giacometti
+subtitle: The Origin of Space
+teaser: '"Space does not exist, it has to be created." (Giacometti, Notes, 1949) The space around sculptures by Alberto Giacometti is notably palpable.'
+author: Hendrikje Hüneke
+date: 2010/12/23
+descriptions:
+- 'Giacometti, Alberto: Le nez / Die Nase, 1947, Bronze, 82 x 73 x 37 cm, Museum Ludwig, Köln; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Giacometti, Alberto: Caroline avec une robe rouge / Caroline mit rotem Kleid, 1964/65, Öl auf Leinwand, 92,3 x 65,4 cm, Fondation Alberto et Annette Giacometti, Paris; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- 'Giacometti, Alberto: La cage (Femme et tête) / Der Käfig (Frau und Kopf), 1950, Bronze, rötlich-braun patiniert, Figuren bemalt,  178 x 39,5 x 38,5 cm, Alberti Giacometti - Stiftung Zürich; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen'
+- 'Giacometti, Alberto: Kopf eines Mannes (Diego Giacometti), 1951, Öl auf Leinwand, Privatbesitz; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Giacometti, Alberto: Figuren auf Sockeln, um 1945, Gips, Privatbesitz; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen'
+- 'Giacometti, Alberto: Trois hommes qui marchent / Drei schreitende Menschen, 1948, Bronze, 64,2 x 39,3 x 39,3 cm, Fontation Maeght, Saint-Paul; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Giacometti, Alberto: Silvio, 1941/42, Bronze, Privatbesitz; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Giacometti, Alberto: Homme qui marche sous la pluie / Schreitender Mann im Regen, 1948, Bronze, 45 x 77 x 15 cm, Giacometti-Stiftung, Zürich; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+---
+"Space does not exist, it has to be created." (Giacometti, Notes, 1949) The space around sculptures by Alberto Giacometti is notably palpable. It is space defined by the posture of the sculptures and their relations to a base, to framework ore to other figures. Some sculptures seem to have a clear bordered space around. But the apparent frame does not necessarily accord with the space of a  figure, humorously demonstrated for example with the sculpture "The nose".
+
+The photograph by Henri Cartier-Bresson (1961, a detail) is tellingly illustrating the main aspects of the exhibition in Wolfsburg.
+
+Alberto Giacometti. The Origin of Space. Retrospective of the mature work, 20. Nov. 2010 – 6. März 2011, Kunstmuseum Wolfsburg; between the 12th of December and the 30th of January broadend with contemporary art (since 1968), which is dealing with space and figure

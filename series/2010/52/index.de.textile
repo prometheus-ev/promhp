@@ -1,0 +1,22 @@
+---
+layout: series
+title: Alberto Giacometti
+subtitle: Der Ursprung des Raumes
+teaser: '"Der Raum existiert nicht, man muss ihn schaffen." (Giacometti, Notizen, um 1949) Der Raum um die reduzierten Formen der Figuren von Giacometti scheint in besonderem Maße greifbar.'
+author: Hendrikje Hüneke
+date: 2010/12/23
+descriptions:
+- 'Giacometti, Alberto: Le nez / Die Nase, 1947, Bronze, 82 x 73 x 37 cm, Museum Ludwig, Köln; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Giacometti, Alberto: Caroline avec une robe rouge / Caroline mit rotem Kleid, 1964/65, Öl auf Leinwand, 92,3 x 65,4 cm, Fondation Alberto et Annette Giacometti, Paris; ArteMIS, Ludwig-Maximilians-Universität, Kunsthistorisches Institut, München'
+- 'Giacometti, Alberto: La cage (Femme et tête) / Der Käfig (Frau und Kopf), 1950, Bronze, rötlich-braun patiniert, Figuren bemalt,  178 x 39,5 x 38,5 cm, Alberti Giacometti - Stiftung Zürich; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen'
+- 'Giacometti, Alberto: Kopf eines Mannes (Diego Giacometti), 1951, Öl auf Leinwand, Privatbesitz; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Giacometti, Alberto: Figuren auf Sockeln, um 1945, Gips, Privatbesitz; Digitale Diathek, Justus-Liebig-Universität, Institut für Kunstgeschichte, Gießen'
+- 'Giacometti, Alberto: Trois hommes qui marchent / Drei schreitende Menschen, 1948, Bronze, 64,2 x 39,3 x 39,3 cm, Fontation Maeght, Saint-Paul; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Giacometti, Alberto: Silvio, 1941/42, Bronze, Privatbesitz; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Giacometti, Alberto: Homme qui marche sous la pluie / Schreitender Mann im Regen, 1948, Bronze, 45 x 77 x 15 cm, Giacometti-Stiftung, Zürich; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+---
+"Der Raum existiert nicht, man muss ihn schaffen." (Giacometti, Notizen, um 1949) Der Raum um die reduzierten Formen der Figuren von Giacometti scheint in besonderem Maße greifbar. Es ist Raum, der durch die Haltung der Figuren und ihre Beziehung zu einem Sockel, einem Rahmen oder zu weiteren Figuren definiert ist. Bei einigen Plastiken scheint der sie umgebende Raum ausgesprochen klar begrenzt. Ein Rahmen muss dabei jedoch nicht zwangsläufig dem Raum einer Figur entsprechen, wie Giacometti zum Beispiel mit der Plastik "Die Nase" humorvoll unter Beweis stellt.
+
+Das Foto von Henri Cartier-Bresson (1961, ein Ausschnitt) illustriert treffend die in der Wolfsburger Ausstellung fokussierten Aspekte in Giacomettis Werk.
+
+*Alberto Giacometti. Der Ursprung des Raumes. Retrospektive des reifen Werkes, 20. November 2010 – 6. März 2011, Kunstmuseum Wolfsburg; zwischen 12. Dezember und 30. Januar erweitert durch zeitgenössische Kunst (ab 1968), die sich mit Raum und Figur auseinandersetzt*
