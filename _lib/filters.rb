@@ -20,7 +20,7 @@ module Jekyll
           pre = "#{t('prometheus Blog', 'prometheus-Blog')} - " if head
           "#{pre}#{title}"
         when 'series'
-          num = parts.values_at(-2, -3).join(' / ')
+          num = parts.values_at(-2, -3).map { |i| i.to_i }.join(' / ')
           "#{t('Image series', 'Bildserie')} #{num}: #{title}"
         else
           title
