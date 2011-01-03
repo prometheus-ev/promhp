@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Contact information
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=43&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
@@ -6,7 +6,7 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=43&L=1&skin=0&tx_ttnews
 h2. <%= page_title %>
 
 Phone: ++49 (0) 221 470 4476
-Mo - Fr 10 a.m. -  4 p.m.
+Mo - Fr 10 a.m. -  6 p.m.
 
 Fax ++49 (0) 221 470 6773
 

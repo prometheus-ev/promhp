@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Kontakt
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=43
@@ -6,7 +6,7 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=43
 h2. <%= page_title %>
 
 Tel. (0221) 470 4476
-Mo -  Fr von 10 - 16 Uhr
+Mo -  Fr von 10 - 18 Uhr
 
 Fax (0221) 470 6773
 
