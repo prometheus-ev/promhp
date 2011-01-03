@@ -1,0 +1,20 @@
+---
+layout: series
+title: Body and Soul
+subtitle: Menschenbilder
+author: Hendrikje Hüneke
+date: 2011/01/01
+descriptions:
+- 'Antike römische Kopie der Eirene mit dem Plutosknaben von Kephisodot, Marmor, 1,99m, Glyptothek, München'
+- 'Schadow, Johann Gottfried: Doppelstandbild der Prinzessinnen Luise und Friederike von Preussen, 1795, Marmor, 1,72m, National Galerie, Berlin'
+- "Rodin, Auguste: L'Age d'airain / Das eherne Zeitalter, 1875/76, Bronze, 1,81m, Musée Rodin, Paris"
+- 'Brancusi, Constantin: Der Kuss, 1907,  Stein, 28cm, Muzeul de Arta, Craiova (RO); Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin'
+- 'Roeder, Emy: Schwangere, 1920, Nussbaumholz, Städtische Galerie, Würzburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Breker, Arno: Der verwundete Krieger, um 1940, Marmor, Standort unbekannt; Imago, Humboldt-Universität, Berlin'
+- 'Giacometti, Alberto: Homme qui marche sous la pluie / Schreitender Mann im Regen, 1948, Bronze, 77cm, Giacometti-Stiftung, Zürich; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Hanson, Duane: Frau mit Einkaufswagen, 1970, Fiberglas / Polyester / bemalt / Kleider, Sammlung Ludwig, Aachen; Datenbank Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+---
+Eine Ausstellung im Museum für Kunst und Gewerbe in Hamburg präsentiert eine Auswahl des eigenen Sammlungsbestandes zu einem weitgreifenden Thema: Menschendarstellungen verschiedenster Zeiten und Kulturkreise werden einander gegenüber gestellt.
+Die hier gezeigten Beispiele stammen aus den Bilderserien des letzten Jahres und sind mit zwei Ausnahmen dem europäischen Kulturkreis des 18. bis 20. Jahrhunderts zuzuordnen, bieten also nur einen kleinen Ausschnitt zu dieser Thematik. In der Hamburger Ausstellung sind über 100 Exponate zu sehen, die neben der Skulptur und Plastik auch anderen Gattungen, wie Kunsthandwerk oder  Grafik umfassen.
+
+*Body and Soul. Menschenbilder aus vier Jahrtausenden, bis 13.03.2011, Museum für Kunst und Gewerbe, Hamburg*

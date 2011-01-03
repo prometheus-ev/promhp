@@ -1,0 +1,20 @@
+---
+layout: series
+title: Body and Soul
+subtitle: Images of human beings
+author: Hendrikje Hüneke
+date: 2011/01/01
+descriptions:
+- 'Antike römische Kopie der Eirene mit dem Plutosknaben von Kephisodot, Marmor, 1,99m, Glyptothek, München'
+- 'Schadow, Johann Gottfried: Doppelstandbild der Prinzessinnen Luise und Friederike von Preussen, 1795, Marmor, 1,72m, National Galerie, Berlin'
+- "Rodin, Auguste: L'Age d'airain / Das eherne Zeitalter, 1875/76, Bronze, 1,81m, Musée Rodin, Paris"
+- 'Brancusi, Constantin: Der Kuss, 1907,  Stein, 28cm, Muzeul de Arta, Craiova (RO); Imago, Humboldt-Universität, Kunstgeschichtliches Seminar, Berlin'
+- 'Roeder, Emy: Schwangere, 1920, Nussbaumholz, Städtische Galerie, Würzburg; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Breker, Arno: Der verwundete Krieger, um 1940, Marmor, Standort unbekannt; Imago, Humboldt-Universität, Berlin'
+- 'Giacometti, Alberto: Homme qui marche sous la pluie / Schreitender Mann im Regen, 1948, Bronze, 77cm, Giacometti-Stiftung, Zürich; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+- 'Hanson, Duane: Frau mit Einkaufswagen, 1970, Fiberglas / Polyester / bemalt / Kleider, Sammlung Ludwig, Aachen; Datenbank Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+---
+An exhibition in Hamburg is presenting images of human beings from different times and culture areas.  With more than 100 exhibits from the departments of Antiquity, China, Japan, Islam, European arts and crafts, graphic art, photography, fashion and furniture design they afford an overview of the collection.
+The shown examples in this image series contain (with two exceptions) just European sculptures from the 18th to the 20th century.
+
+*Body and Soul. Menschenbilder aus vier Jahrtausenden, bis 13.03.2011, Museum für Kunst und Gewerbe, Hamburg*
