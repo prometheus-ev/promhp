@@ -30,17 +30,13 @@ module Jekyll
       _prometheus_original_url.sub(/#{Localization::LANG_EXT_RE}\z/, '')
     end
 
-    alias_method :_prometheus_original_write, :write
+    alias_method :_prometheus_original_destination, :destination
 
     # Overwrites the original method to not put our output files as
     # 'index.html' in a directory called by their slug.
-    def write(dest)
-      FileUtils.mkdir_p(File.join(dest, dir))
-
+    def destination(dest)
       # The url needs to be unescaped in order to preserve the correct filename
-      path = File.join(dest, CGI.unescape("#{url}.html#{@lang_ext}"))
-
-      File.open(path, 'w') { |f| f.write(output) }
+      File.join(dest, CGI.unescape("#{url}.html#{@lang_ext}"))
     end
 
   end
