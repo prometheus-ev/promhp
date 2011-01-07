@@ -2,7 +2,7 @@
   height:            108px;
 }
 
-#logo, #tags-map, #greeting {
+#logo, #tags-map, #greeting, #greeting #links, #sticker {
   float:             left;
 }
 
@@ -150,6 +150,14 @@
   width:             450px;
 }
 
+#greeting #links {
+  width:             290px;
+}
+
+#sticker {
+  width:             110px;
+}
+
 #greeting p {
   margin-bottom:     1.5em;
 }
@@ -158,12 +166,12 @@
   font-weight:       bold;
 }
 
-#greeting ul {
+#greeting #links ul {
   list-style-type:   none;
   padding-left:      0;
 }
 
-#greeting ul a + a {
+#greeting #links ul a + a {
   padding-left:      0.75em;
 }
 
@@ -172,7 +180,7 @@
   padding-bottom:    2px;
   border-bottom:     1px solid rgb(80,80,80);
   margin-bottom:     -13px;
-  margin-top:        2.5em;
+  margin-top:        1em;
 }
 
 .section-heading {
@@ -264,4 +272,22 @@ div.highlight pre code:after {
 #tag-cloud .set-1 {
   font-size:        100%;
   color:            rgb(130, 130, 130)
+}
+
+.text_bottom {
+  text-align:      right;
+  vertical-align:  bottom;
+  padding-right:  10px;
+}
+
+.text_middle {
+  text-align:      right;
+  vertical-align:  middle;
+  padding-right:  10px;
+}
+
+.text_top {
+  text-align:      right;
+  vertical-align:  top;
+  padding-right:  10px;
 }

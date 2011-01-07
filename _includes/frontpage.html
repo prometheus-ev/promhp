@@ -14,7 +14,7 @@
 
 <div id="greeting">
   <%= include_file "greeting.#{page.lang}.html" %>
-
+<div id="links">
   <ul>
     <li>
       <% link = %Q{<a href="#{r 'prometheus'}">%s</a>} %><%=
@@ -31,6 +31,10 @@
       %>
     </li>
   </ul>
+</div>
+<div id="sticker">
+<a href="<%=p "signup?type=free"%>"><img src="<%=r "files/icons/sticker_1week.#{page.lang}.png"%>" /></a>
+</div>
 </div>
 
 <br class="clear-float" />
