@@ -6,9 +6,14 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=296&L=1&skin=&tx_ttnews
 <%# TODO: translate %>
 h2. <%= page_title %>
 
+* Lisa Dieckmann; Claus Kalle
+Kooperation von der Datenhaltung im AFS bis zur private Cloud - prometheus Bilddatenbank im zeitlichen Wandel.
+in: Kölner Universitätszeitung, 5, 2010, IT-Beilage, S. 2.
+"» zur Publikation":http://www.portal.uni-koeln.de/fileadmin/templates/uni/images/IT-Beilage/3_2010/KUZ%20Beilage%20IT%203%202010%20.pdf
+
 * Dieckmann, Lisa 
 prometheus : the distributed digital image archive for research and education.
-In: L’Art et la Mesure : Histoire de l’art et méthodes quantitatives, sous la direction de Béatrice Joyeux-Prunel, avec la collaboration de Luc Sigalo Santos,
+in: L’Art et la Mesure : Histoire de l’art et méthodes quantitatives, sous la direction de Béatrice Joyeux-Prunel, avec la collaboration de Luc Sigalo Santos,
 Paris, Editions Rue d’Ulm, 2010, S. 141-151.
 "» information about the publication":http://www.dhta.ens.fr/enseignants/beatrice-joyeux-prunel-4/seminaires-de-recherche/Art-et-mesure/article/parution-electronique-l-art-et-la?lang=fr
 "» publication":http://dhta.ens.fr/IMG/jpg/L'Art-et-la-Mesure.pdf
@@ -16,35 +21,6 @@ Paris, Editions Rue d’Ulm, 2010, S. 141-151.
 * Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
 Meta-Image - a collaborative environment for image discourse
 in: The International Journal of Computing, 2010, Vol. 9, Issue 3.
-
-* Dieckmann, Lisa 
-prometheus : the distributed digital image archive for research and education.
-In: L’Art et la Mesure : Histoire de l’art et méthodes quantitatives, sous la direction de Béatrice Joyeux-Prunel, avec la collaboration de Luc Sigalo Santos,
-Paris, Editions Rue d’Ulm, 2010, S. 141-151.
-"» information about the publication":http://www.dhta.ens.fr/enseignants/beatrice-joyeux-prunel-4/seminaires-de-recherche/Art-et-mesure/article/parution-electronique-l-art-et-la?lang=fr
-"» publication":http://dhta.ens.fr/IMG/jpg/L'Art-et-la-Mesure.pdf
-
-* Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
-Meta-Image - a collaborative environment for image discourse
-in: The International Journal of Computing, 2010, Vol. 9, Issue 3.
-
-* Dieckmann, Lisa 
-prometheus : the distributed digital image archive for research and education.
-In: L’Art et la Mesure : Histoire de l’art et méthodes quantitatives, sous la direction de Béatrice Joyeux-Prunel, avec la collaboration de Luc Sigalo Santos,
-Paris, Editions Rue d’Ulm, 2010, S. 141-151.
-"» information about the publication":http://www.dhta.ens.fr/enseignants/beatrice-joyeux-prunel-4/seminaires-de-recherche/Art-et-mesure/article/parution-electronique-l-art-et-la?lang=fr
-"» publication":http://dhta.ens.fr/IMG/jpg/L'Art-et-la-Mesure.pdf
-
-* Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
-Meta-Image - a collaborative environment for image discourse
-in: The International Journal of Computing, 2010, Vol. 9, Issue 3.
-
-* Dieckmann, Lisa 
-prometheus : the distributed digital image archive for research and education.
-In: L’Art et la Mesure : Histoire de l’art et méthodes quantitatives, sous la direction de Béatrice Joyeux-Prunel, avec la collaboration de Luc Sigalo Santos,
-Paris, Editions Rue d’Ulm, 2010, S. 141-151.
-"» information about the publication":http://www.dhta.ens.fr/enseignants/beatrice-joyeux-prunel-4/seminaires-de-recherche/Art-et-mesure/article/parution-electronique-l-art-et-la?lang=fr
-"» publication":http://dhta.ens.fr/IMG/jpg/L'Art-et-la-Mesure.pdf
 
 * Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
 Meta-Image - Forschungsumgebung für den Bilddiskurs in der Kunstgeschichte
