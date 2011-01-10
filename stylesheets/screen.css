@@ -6,8 +6,14 @@
   float:             left;
 }
 
+#logo_10years {
+  float:             right;
+  padding-top:   5px;
+}
+
 #series {
-  padding-top:       14px;
+  float:             left;
+  padding-top:   14px;
 }
 
 #series a, #series-front .section-item > a {
@@ -180,7 +186,7 @@
   padding-bottom:    2px;
   border-bottom:     1px solid rgb(80,80,80);
   margin-bottom:     -13px;
-  margin-top:        1em;
+  margin-top:        0.5em;
 }
 
 .section-heading {
@@ -201,6 +207,10 @@
 
 #series-front .section-item {
   min-height:        120px;
+}
+
+#section-10years .section-item {
+    min-height: 180px;
 }
 
 .section-item > a {
@@ -274,20 +284,12 @@ div.highlight pre code:after {
   color:            rgb(130, 130, 130)
 }
 
-.text_bottom {
-  text-align:      right;
-  vertical-align:  bottom;
-  padding-right:  10px;
-}
-
-.text_middle {
+.text_10years {
   text-align:      right;
   vertical-align:  middle;
   padding-right:  10px;
 }
 
-.text_top {
-  text-align:      right;
-  vertical-align:  top;
-  padding-right:  10px;
+.dimmed {
+  opacity:         0.5;
 }

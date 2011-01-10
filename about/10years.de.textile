@@ -1,0 +1,40 @@
+--- 
+layout: default
+title: 10years
+---
+<table>
+<tr><td class="text_10years">Als Verbundprojekt der Universität zu Köln, der Humboldt-Universität zu Berlin, Justus-Liebig-Universität Gießen und Hochschule Anhalt - gefördert vom Bundesministerium für Bildung und Forschung (bmb+f) - ging prometheus - das verteilte digitale Bildarchiv für Forschung und Lehre am 01. April 2001 an den Start. <span class="pale">|</span> "»Über prometheus":<%=r 'index' %> </td>
+<td><img src="<%=r 'files/images/timeline_10years/2001.png' %>"></td>
+</tr>
+<tr><td class="text_10years">Ziel war die Zusammenführung von Bilddatenbanken, die interdispliplinäre Vernetzung und die Nutzung des digitalen Mediums für Forschung und Lehre. Schon während der Projektlaufzeit wurden 20 Datenbanken und mehr als 150.000 Bilder eingebunden. Über 60 Institutionen wurden assoziierte Partner. <span class="pale">|</span> "»Zur Projektgeschichte":<%=r 'about/index' %></td>
+<td><img src="<%=r 'files/images/timeline_10years/2002.png' %>" class="dimmed"></td>
+</tr>
+<tr><td class="text_10years">Zur Verstetigung des Projekt wurde schon 2003 der Verein 'prometheus - das verteilte digitale Bildarchiv für Forschung und Lehre e.V.' gegründet. Der von prometheus initierte Workshop "Perspektiven" zeigte Verstetigungsmodelle auf und diente zum Erfahrungsaustausch. <span class="pale">|</span> "»Zur Vereinsgeschichte":<%=r 'about/association' %>
+</td>
+<td><img src="<%=r 'files/images/timeline_10years/2003.png' %>" class="dimmed"></td>
+</tr>
+<tr><td class="text_10years">2004 trat der Verein die Rechtsnachfolge des Projekts an, um neben den angestrebten globalen Zielen zur Förderung der digitalen Medien in den Kunst- und Kulturwissenschaften, vor allem die Finanzierung und technische Struktur von prometheus sicherzustellen und weiter zu entwickeln. <span class="pale">|</span> "» Zur Satzung":<%=r 'about/association/' %></td>
+<td><img src="<%=r 'files/images/timeline_10years/2004.png' %>" class="dimmed"></td>
+</tr>
+<tr><td class="text_10years">2005 startete die Umstellung auf Lizenzen und die dreijährige Übergangsfinanzierung durch die Universität zu Köln und die Oppenheim-Stiftung. Zum ersten Mal vergab prometheus den esPrix - einen Preis für die mediendiaktische Anwendung. Während der Projektzeit wurden in prometheus selbst zahlreiche Lernmodule entwickelt.<span class="pale">|</span> "» Zu den Lernmodulen":<%=r 'tools/modules/' %></td>
+<td><img src="<%=r 'files/images/timeline_10years/2005.png' %>" class="dimmed"></td>
+</tr>
+<tr><td class="text_10years">Für die Rechtsicherheit des Verbundes wurde 2006 eine vertragliche Übereinkunft mit der "Verwertungsgesellschaft BILD-KUNST":http://www.bildkunst.de/ geschlossen. Zudem brachte prometheus die Kooperation mit dem "Bildportal der Kunstmuseen":http://www.bpk-images.de zur unkomplizierten Einholung der Publikationsgenehmigung auf den Weg. <span class="pale">|</span> "»Zu den Kooperationen und zum Bildrecht":<%=r 'copyright' %></td>
+<td><img src="<%=r 'files/images/timeline_10years/2006.png' %>" class="dimmed"></td>
+</tr>
+<tr><td class="text_10years">Zur Tagung "Bilder - Daten - Metadaten - so kann's gehen" und zum Erfahrungsaustausch lud prometheus 2007 nach Köln ein. Außerdem ging perseus-A - ein von der Rheinenergie gefördertes Projekt - zur automatischen Erschließung von prometheus und der Optimierung der Suchfunktionen des Bildarchivs an den Start. "» Zum Projekt":<%=r 'projects/perseus-a' %></td>
+<td><img src="<%=r 'files/images/timeline_10years/2007.png' %>" class="dimmed"></td>
+</tr>
+<tr><td class="text_10years">prometheus bekam eine neue Grundlage: als Nachfolgerin von kleio ist pandora (Ruby on Rails) seither die treibende Kraft des Bildarchivs und steht als Freie Software zur Verfügung. Seit 2008 kann sich prometheus zudem eigenständig finanzieren und die Betriebskosten mithilfe der Umstellung auf Lizenzen decken. <span class="pale">|</span> "» Zu pandora":<%=p 'about' %></td>
+<td><img src="<%=r 'files/images/timeline_10years/2008.png' %>" class="dimmed"></td>
+</tr>
+<tr><td class="text_10years">prometheus initiierte das digitale Historische Archiv Köln. Nach dem Einsturz des Kölner Stadtarchivs leistete prometheus mit zahlreichen UnterstützerInnen einen Beitrag zur Rekonstruktion und Sicherung der kulturellen Erinnerung der Stadt Köln. "» Zum Projekt":<%=r 'projects/dhastk' %></td>
+<td><img src="<%=r 'files/images/timeline_10years/2009.png' %>" class="dimmed"></td>
+</tr>
+<tr><td class="text_10years">Im letzten Jahr ging das DFG-geförderte Verbundprojekt "Meta-Image" Universitäten Berlin, Lüneburg und Köln zur Entwicklung einer verteilten virtuellen Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte und anderen bildbasierten Wissenschaften  an den Start . <span class="pale">|</span> "» Zum Projekt":<%=r 'projects/meta-image' %> </td>
+<td><img src="<%=r 'files/images/timeline_10years/2010.png' %>" class="dimmed"></td>
+</tr>
+<tr><td class="text_10years">10 Jahre prometheus - und inzwischen <span id="source_count">knapp 60</span> Datenbanken, <span id="records_count">743.297 </span> Bilder, <span id="accounts_count">10.171</span> personalisierte Zugänge und <span id="institutions_count">119</span> Institutionen - das möchten wir gerne mit Ihnen feiern. Im Herbst 2011 wird prometheus deshalb eine Tagung ausrichten, zu der wir Sie jetzt schon recht herzlich einladen. Über das Tagungsprogramm werden wir Sie rechtzeitig informieren.</td>
+<td><img src="<%=r 'files/images/timeline_10years/2011.png' %>"></td>
+</tr>
+</table>
