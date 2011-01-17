@@ -8,7 +8,6 @@
 
 #logo_10years {
   float:             right;
-  padding-top:   5px;
 }
 
 #series {
@@ -192,12 +191,8 @@
 .section-heading {
   font-size:         14px;
   color:             rgb(255,255,255);
-  padding-top:       1em;
-  margin-bottom:     0.5em;
-}
-
-#series-front .section-heading {
   padding-top:       1.5em;
+  margin-bottom:     0.5em;
 }
 
 .section-item {
@@ -216,6 +211,10 @@
 .section-item > a {
   float:             left;
   margin-right:      2em;
+}
+
+#section-10years .section-item > a {
+  margin-right:      1em;
 }
 
 #series-front .section-item > a img {
@@ -285,9 +284,10 @@ div.highlight pre code:after {
 }
 
 .text_10years {
-  text-align:      right;
+  text-align:      justify;
   vertical-align:  middle;
-  padding-right:  10px;
+  padding-right: 10px;
+  color:             inherit;
 }
 
 .dimmed {

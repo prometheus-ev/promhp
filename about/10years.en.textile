@@ -1,5 +1,42 @@
 --- 
 layout: default
-title: 10years
+title: Milestones 2001 - 2011
 ---
-h3. 10 years prometheus
+h2. <%= page_title %>
+
+<table>
+<tr><td class="text_10years">A cooperative project of the University of Cologne, the Humboldt University of Berlin, the University of Giessen and the Anhalt University of Applied Sciences, prometheus is launched on April 1. The project is scheduled for three years and funded by the Federal Ministry of Education and Research (BMBF) with 1.8 millions of Euros. <span class="pale">|</span> "» About prometheus":<%=r 'index' %></td>
+ <td><img src="<%=r 'files/images/timeline_10years/2001.png' %>"></td>
+ </tr>
+<tr><td class="text_10years">The objectives of the project are to merge heterogeneous image databases into one image archive, to create an interdisciplinary network and to promote the digital media in research and education. 20 databases and more than 150.000 images get integrated, and more than 60 institutions become associated partners of prometheus. <span class="pale">|</span> "» Project history":<%=r 'about/index' %></td>
+ <td><img src="<%=r 'files/images/timeline_10years/2002.png' %>" class="dimmed"></td>
+ </tr>
+<tr><td class="text_10years">The association “prometheus – Das verteilte digitale Bildarchiv für Forschung und Lehre e.V” is founded to steady prometheus and to secure its existence beyond project duration. The workshop “Perspektiven”, initiated by prometheus, points out different models of sustainability and serves the exchange of opinions. <span class="pale">|</span> "» History of the association":<%=r 'about/association' %>
+ </td>
+ <td><img src="<%=r 'files/images/timeline_10years/2003.png' %>" class="dimmed"></td>
+ </tr>
+<tr><td class="text_10years"> The association assumes the project’s legal succession. In addition to promoting the use of digital media in academic disciplines such as fine arts, archaeology and cultural studies, it ensures and develops the financing as well as the technical structure of prometheus and sets to further develop the image archive. <span class="pale">|</span> "» Articles":<%=r 'about/association' %></td>
+ <td><img src="<%=r 'files/images/timeline_10years/2004.png' %>" class="dimmed"></td>
+ </tr>
+<tr><td class="text_10years">The license model is installed and prometheus obtains transitional funding from the University of Cologne and the Sal. Oppenheim Foundation. For the first time, “esPrix” is awarded by Prometheus. The prize honors students for their development of outstanding media-didactic applications of digital information. <span class="pale">|</span> "» Study modules":<%=r 'tools/modules/' %></td>
+ <td><img src="<%=r 'files/images/timeline_10years/2005.png' %>" class="dimmed"></td>
+ </tr>
+<tr><td class="text_10years">A contractual agreement with the collecting society “BILD-KUNST” guarantees legal security to prometheus and its users. Furthermore, prometheus cooperates with the “Bildportal der Kunstmuseen (formerly "Bildarchiv Preußischer Kulturbesitz") to offer its users an uncomplicated way to obtain copyrights. <span class="pale">|</span> "» Copyright and Usage":<%=r 'copyright' %></td>
+ <td><img src="<%=r 'files/images/timeline_10years/2006.png' %>" class="dimmed"></td>
+ </tr>
+<tr><td class="text_10years">prometheus organizes and hosts the congress „Bilder – Daten – Datenbanken: so kann’s gehen“ in Cologne. Moreover, “perseus-a” starts. Funded by the Rheinenergie Foundation, this project seeks to develop automatic indexing and further improvements of the research tools provided by the image archive. <span class="pale">|</span> "» Project description":<%=r 'projects/perseus-a' %></td>
+ <td><img src="<%=r 'files/images/timeline_10years/2007.png' %>" class="dimmed"></td>
+ </tr>
+<tr><td class="text_10years">prometheus is self-supporting and able to cover operating costs via license revenues. As to technical innovations: pandora (Ruby on Rails) supersedes kleio as the driving force and vital core of the prometheus image archive. pandora is available as Free Software, released under the terms of the GNU General Public License. <span class="pale">|</span> "» pandora":<%=p 'about' %></td>
+ <td><img src="<%=r 'files/images/timeline_10years/2008.png' %>" class="dimmed"></td>
+ </tr>
+<tr><td class="text_10years">prometheus initiates “Das digitale Historische Archiv Köln”. After the collapse of the municipal archive of Cologne – one of the largest and oldest archives worldwide – prometheus, along with several supporters, contributes essentially to the reconstruction and safeguarding of the cultural memory of the city. <span class="pale">|</span> "» Project description":<%=r 'projects/dhastk' %></td>
+ <td><img src="<%=r 'files/images/timeline_10years/2009.png' %>" class="dimmed"></td>
+ </tr>
+<tr><td class="text_10years">The cooperative project „Meta-Image“ – funded by the DFG – is launched. It aims at developing a virtual environment that supports visual discourse in image-based sciences. With “Meta-Image” the possibilities of image annotation and collaborative work with digital images in prometheus are tested and extended. <span class="pale">|</span> "» Project description":<%=r 'projects/meta-image' %></td>
+ <td><img src="<%=r 'files/images/timeline_10years/2010.png' %>" class="dimmed"></td>
+ </tr>
+<tr><td class="text_10years">10 years prometheus. That means <span id="source_count">59</span> integrated databases, <span id="records_count">nearly 750.000</span> images, <span id="account_count">over 10.000</span> personal accounts and <span id="institution_count">119</span> licensed institutions. Quite a success! And we want to share it with you. To celebrate its anniversary, prometheus will arrange a ceremonial act and a major congress on November 4-5. You are cordially invited!</td>
+ <td><img src="<%=r 'files/images/timeline_10years/2011.png' %>"></td>
+ </tr>
+ </table>
