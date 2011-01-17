@@ -1,0 +1,20 @@
+--- 
+descriptions: 
+- "Cassatt, Mary: Cup of tea (Ausschnitt), 1880, \xC3\x96l auf Leinwand, Museum of Fine Arts, Boston; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Loo, Carle Van: Einer Sultanin wird eine Tasse Kaffee von einer Sklavin \xC3\xBCberreicht (Ausschnitt), um 1747, \xC3\x96l auf Leinwand, Mus\xC3\xA9e des Arts D\xC3\xA9coratifs, Paris; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "G\xC3\xA4rtner, Friedrich von: Teeservice (Detail), 1839/41, Porzellan, Bayerische Verwaltung der staatlichen Schl\xC3\xB6sser, G\xC3\xA4rten und Seen, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Eisenloeffel, Jan Johannes Wigbold: achtteiliges Kaffee- und Teeservice (Detail), 1902, Zinn/Messing,Werkstatt Eisenloeffel, Overveen bei Haarlem; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau "
+- "Engelbrecht, Johann: Teeservice (Detail), 1732-33, Silber, Residenz, M\xC3\xBCnchen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Bernhard, Lucian: Kaffee Hag, coffeinfrei (Ausschnitt), 1909, Plakat, Folkwang-Museum, Essen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Christiansen, Hans: Thee-Fabrik soundso & Co (Ausschnitt),1899, Bleistift/Aquarell, St\xC3\xA4dtische Museen und Sammlungen f\xC3\xBCr den Landesteil Schleswig, Museumsberg Flensburg; digiCULT Museen, digiCULT, Kiel"
+- "\"Rajah\"-Kaffee, 1890-1910, Werbeplakat (Ausschnitt), Kunstbibliothek, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: "Die Ern\xC3\xBCchterung des Abendlandes"
+subtitle: Kaffee und Tee in Europa
+date: 2011/01/14
+---
+Die Pariser Künstler-Cafés, die Wiener Café-Häuser oder die tea-time der Engländer sind Phänomene, die wir inzwischen wie selbstverständlich der europäischen Kultur zurechnen. Im 17. Jahrhundert gelangten Tee und Kaffee aus arabischen und asiatischen Ländern nach Europa. Vorerst nur in vermögenden Gesellschaftsschichten bekannt, etablierten sich die Getränke bald auch im Bürgertum und wurden als „Ernüchterer“ gepriesen, da sie Wein und Bier in gewissem Maße ablösten.
+Eine Ausstellung in Aachen widmet sich der Entstehung der Kaffee- und Teekultur in Europa in ihrem, wie das Museum ankündigt, „Facettenreichtum“.
+
+*"Die Ernüchterung des Abendlandes":http://www.couven-museum.de/ausstellungen/kaffee_tee/index.html, Couven Museum, Aachen, 04.12. 2010 – 20.03.2011*
