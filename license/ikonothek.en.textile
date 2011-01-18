@@ -4,11 +4,13 @@ title: ikonothek
 ---
 h3. Sehr geehrte<notextile>(r)</notextile> NutzerIn der Ikonothek,
 
-leider müssen wir Ihnen mitteilen, dass die fünfjährige Lizenz Ende 2010 ausgelaufen ist und Sie prometheus nun nicht mehr über die Ikonothek nutzen können. Sollte weiterhin Interesse an einer Nutzung bestehen, bieten wir Ihnen verschiedene Möglichkeiten, weiterhin auf das Bildarchiv zuzugreifen:
+leider müssen wir Ihnen mitteilen, dass die fünfjährige Lizenz Ende 2010 ausgelaufen ist und Sie prometheus nun nicht mehr über die Ikonothek nutzen können. Sollte weiterhin Interesse an einer Nutzung bestehen, bieten wir Ihnen verschiedene Möglichkeiten, weiterhin auf das Bildarchiv zuzugreifen.
+
+*Erfragen Sie Sonderkonditionen für NutzerInnen der Ikonothek in der "»prometheus-Geschäftsstelle":<%=r 'contact' %>!*
 
 h3. Schullizenz
 
-Erwerben Sie eine Schullizenz für Ihre gesamte Schule für 200,- €/Jahr. Hiermit können alle SchülerInnen und KollegInnen von allen Computern an Ihrer Schule sowie mit einem persönlichen Zugang (Nutzername, Passwort) von zu Hause mit prometheus arbeiten. Für weitere Informationen wenden Sie sich direkt an die "»prometheus-Geschäftsstelle":<%=r 'contact' %>.
+Erwerben Sie eine Schullizenz für Ihre gesamte Schule. Hiermit können alle SchülerInnen und KollegInnen von allen Computern an Ihrer Schule sowie mit einem persönlichen Zugang (Nutzername, Passwort) von zu Hause mit prometheus arbeiten. Für weitere Informationen wenden Sie sich direkt an die "»prometheus-Geschäftsstelle":<%=r 'contact' %>.
 
 h3. Institutionslizenz
 
@@ -16,7 +18,7 @@ Falls Sie zu einer Institution gehören, die in dieser "»Liste":<%=p 'instituti
 
 h3. Einzellizenz
 
-Sie haben aber auch die Möglichkeit eine Einzellizenz für 20,- €/Jahr zu erwerben. Sie können sich hier direkt "»anmelden":<%=p 'signup?type=paid' %> oder "»eine Woche kostenlos testen":<%=p 'signup?type=free' %>, um den persönlichen Zugang (Nutzername, Passwort) kennenzulernen.
+Sie haben aber auch die Möglichkeit eine Einzellizenz zu erwerben. Sie können sich hier direkt "»anmelden":<%=p 'signup?type=paid' %> oder "»eine Woche kostenlos testen":<%=p 'signup?type=free' %>, um den persönlichen Zugang (Nutzername, Passwort) kennenzulernen.
 
 Alle Lizenzformen beinhalten - abweichend von Ihrer jetzigen Nutzung - einen persönlichen Zugang (Nutzername, Passwort), der weitere Funktionalitäten bereithält. Neben den vielfältigen Recherchemöglichkeiten können Bildsammlungen und Präsentationen aus dem Bilderpool zusammengestellt werden, an denen auch mit mehreren Nutzern gearbeitet werden kann. So könnten Sie zum Beispiel mit der gesamten Klasse ein Projekt erstellen oder mit anderen Lehrern aus dem Fachbereich gemeinsames Material sammeln. Zudem bietet Ihnen prometheus einige spezielle Themenmappen, die auf inhaltliche Schwerpunkte im Lehrplan Kunst abgestimmt sind. Neben den entsprechenden Bildbeispielen finden Sie hier auch hilfreiche Links oder weiterführende Literaturhinweise. Diese Themenmappen werden stetig erweitert.
 
