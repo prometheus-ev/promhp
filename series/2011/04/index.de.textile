@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+layout: series
+title: Penck
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "\xE2\x80\x9EIch in Deutschland (West)\xE2\x80\x9C"
+date: 2011/01/21
+---
+Ralf Winkler, der unter dem Pseudonym A. R. Penck bekannt ist, malte 1984 ein monumentales Bild mit dem Titel „Ich in Deutschland (West)“. In der DDR hatte der Künstler mit der Staatssicherheit zu kämpfen und siedelte 1980 in die BRD über. Das Gemälde ist Ausdruck einer Beschäftigung mit diesem neuen Lebensumfeld und bringt grundlegende Themenbereiche wie Leben, Tod, Sexualität, Kirche und Macht zur Darstellung.
+Aufgrund der Größe war das Bild selten zu sehen und ist nun Anlass für eine Ausstellung mit vier weiteren großformatigen Gemälden. 
+
+*A. R. Penck. Vergangenheit – Gegenwart – Zukunft, bis 20.03.2011, Museum Ludwig, Köln*
+"http://www.museum-ludwig.de":http://www.museum-ludwig.de

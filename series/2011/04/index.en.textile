@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "A. R. Penck: Ich in Deutschland (West) [Detail], 1984, Dispersionsfarbe/Nessel, 6 x 12 m, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+layout: series
+title: Penck
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "\xE2\x80\x9EIch in Deutschland (West)\xE2\x80\x9C \xE2\x80\x93 Me in Germany (west)"
+date: 2011/01/21
+---
+Ralf Winkler, known as A. R. Penck, painted in 1984 a monumental canvas entitled “Me in Germany (west)”. Living in the DDR the artist got in trouble with the secret police and moved to West-Germany in 1980. The canvas deals with this new environment and uses symbols concerning basic subject areas like life, death, sexuality, clergy and power.
+Because of the dimension the picture was exposed rarely and gives now reason to the exhibition in Cologne.
+
+*A. R. Penck. Vergangenheit – Gegenwart – Zukunft, bis 20.03.2011, Museum Ludwig, Cologne*
+"http://www.museum-ludwig.de":http://www.museum-ludwig.de
