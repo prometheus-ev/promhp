@@ -1,0 +1,19 @@
+--- 
+layout: series
+descriptions: 
+- "Lehmbruck, Wilhelm: Badende, 1902, Bronze, Wilhelm-Lehmbruck-Museum, Duisburg; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Klinger, Max: Badende, die sich im Wasser spiegelt, 1896/97, Marmor, Museum der bildenden K\xC3\xBCnste, Leipzig; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Lehmbruck, Wilhelm: M\xC3\xA4dchentorso, sich umwendend, 1913/14, Steingu\xC3\x9F, Staatsgalerie, Stuttgart; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Klinger, Max: Weibliche Halbfigur, 1915, Marmor, Museum der bildenden K\xC3\xBCnste, Leipzig; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Lehmbruck, Wilhelm: Trauernde, 1909, Bronze, o.O.; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Klinger, Max: Schlafende, 1900, Marmor, Skulpturensammlung, Dresden; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Lehmbruck, Wilhelm: Die Gro\xC3\x9Fe Kniende, 1902, Steingu\xC3\x9F, Skulpturensammlung, Dresden; RUDI, Friedrich-Alexander-Universit\xC3\xA4t, Kunsthistorisches Institut, Erlangen"
+- "Klinger, Max: Kniende, 1900, Privatbesitz, Wien; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+title: Max Klinger und Wilhelm Lehmbruck
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Eine Gegen\xC3\xBCberstellung"
+date: 2011/01/26
+---
+Die bereits in Apolda gezeigte Retrospektive zum Werk Max Klinkers erhält im Lehmbruck-Museum eine inhaltliche Erweiterung mit großem Reiz. Aus dem Bestand des Museums sind Werke von Wilhelm Lehmbruck ausgewählt und mit den Werken Klingers in Beziehung gesetzt worden. Klinger wird ein starker Einfluss auf die Kunst von Giorgio De Chirico, Käthe Kollwitz, Alfred Kubin, Max Bekmann und auch auf das Frühwerk von Lehmbruck zugeschrieben. Letzteres kann nun in der laufenden Ausstellung nachempfunden werden. 
+
+*"Max Klinger – Von der herben Zartheit schöner Formen":http://www.duisburg.de/micro2/lehmbruck/, 20. Januar – 24. April, Lehmbruck-Museum Duisburg*

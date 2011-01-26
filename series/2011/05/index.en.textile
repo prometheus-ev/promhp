@@ -1,0 +1,19 @@
+--- 
+layout: series
+descriptions: 
+- "Lehmbruck, Wilhelm: Badende, 1902, Bronze, Wilhelm-Lehmbruck-Museum, Duisburg; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Klinger, Max: Badende, die sich im Wasser spiegelt, 1896/97, Marmor, Museum der bildenden K\xC3\xBCnste, Leipzig; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Lehmbruck, Wilhelm: M\xC3\xA4dchentorso, sich umwendend, 1913/14, Steingu\xC3\x9F, Staatsgalerie, Stuttgart; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Klinger, Max: Weibliche Halbfigur, 1915, Marmor, Museum der bildenden K\xC3\xBCnste, Leipzig; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Lehmbruck, Wilhelm: Trauernde, 1909, Bronze, o.O.; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Klinger, Max: Schlafende, 1900, Marmor, Skulpturensammlung, Dresden; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Lehmbruck, Wilhelm: Die Gro\xC3\x9Fe Kniende, 1902, Steingu\xC3\x9F, Skulpturensammlung, Dresden; RUDI, Friedrich-Alexander-Universit\xC3\xA4t, Kunsthistorisches Institut, Erlangen"
+- "Klinger, Max: Kniende, 1900, Privatbesitz, Wien; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+title: Max Klinger and Wilhelm Lehmbruck
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: A confrontation
+date: 2011/01/26
+---
+A retrospective of Max Klingers artworks, alreday seen in Apolda, is now widend by the interesting confrontation with selected artworks by Wilhelm Lehmbruck. Klinger is accredited with an influence on Giorgio De Chirico, Käthe Kollwitz, Alfred Kubin, Max Bekmann and on the early work of Lehmbruck. The letter will be more understandable with the exhibition in Diusburg.
+
+*"Max Klinger – Von der herben Zartheit schöner Formen":http://www.duisburg.de/micro2/lehmbruck/, 20. Januar – 24. April, Lehmbruck-Museum Duisburg*
