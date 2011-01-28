@@ -4,7 +4,7 @@ title: ikonothek
 ---
 h3. Sehr geehrte<notextile>(r)</notextile> NutzerIn der Ikonothek,
 
-leider müssen wir Ihnen mitteilen, dass die fünfjährige Lizenz Ende 2010 ausgelaufen ist und Sie prometheus nun nicht mehr über die Ikonothek nutzen können. Sollte weiterhin Interesse an einer Nutzung bestehen, bieten wir Ihnen verschiedene Möglichkeiten, weiterhin auf das Bildarchiv zuzugreifen.
+leider müssen wir Ihnen mitteilen, dass die Lizenz Ende 2010 ausgelaufen ist und Sie prometheus nun nicht mehr über die Ikonothek nutzen können. Sollte weiterhin Interesse an einer Nutzung bestehen, bieten wir Ihnen verschiedene Möglichkeiten, weiterhin auf das Bildarchiv zuzugreifen.
 
 *Erfragen Sie Sonderkonditionen für NutzerInnen der Ikonothek in der "»prometheus-Geschäftsstelle":<%=r 'contact' %>!*
 
