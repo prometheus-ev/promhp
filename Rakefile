@@ -1,25 +1,55 @@
 GEM_NAME = 'jekyll'
+gem GEM_NAME  # fail early
+
+BASE = File.expand_path('..', __FILE__)
+SITE = File.join(BASE, '_site')
 
 task :default => :build
 
 desc "Build the site"
-task :build do
-  gem GEM_NAME  # fail early
+task :build do build end
 
-  site, tmp, old = site_paths
-
-  begin
-    argv = ARGV.dup
-    ARGV.replace([tmp])
-
-    load Gem.bin_path(GEM_NAME)
-
-    mv site, old if File.exist?(site)
-    mv tmp, site
-  ensure
-    rm_rf old if old
-    ARGV.replace(argv)
+desc "Build preview for start page with NUM's (yyyy/ww) image series"
+task :series_preview do
+  case num = ENV['NUM'] || Date.today.strftime('%G/%V')
+    when /\A\d{4}\/\d{2}\z/
+      # ok
+    when /\A(\d{2})\/(\d{4})\z/
+      num = "#{$2}/#{$1}"
+    else
+      abort "illegal value: #{num}"
   end
+
+  abort "image series not found: #{num}" if Dir[File.join(BASE, 'series', num, 'index.*')].empty?
+
+  mkdir_p src = site_path('src')
+
+  inc, exc = %w[_* index.* .htaccess images inc javascripts stylesheets],
+             %w[_posts _site*]
+
+  # copy required files to temp location
+  Dir.chdir(BASE) {
+    cp_r FileList.new(*inc) { |fl| fl.exclude(*exc) }, src
+
+    %W[files/images series/#{num}].each { |path|
+      mkdir_p target = File.join(src, File.dirname(path))
+      cp_r path, target
+    }
+  }
+
+  # replace ${DATE_LOCAL} in 'set var="current_series"'
+  # (in _layouts/default.html) with supplied YEAR/WEEK
+  File.open(File.join(src, '_layouts', 'default.html'), 'r+') { |f|
+    content = f.read.sub('${DATE_LOCAL}', num)
+
+    f.truncate(0)
+    f.rewind
+
+    f.print content
+  }
+
+  # run jekyll with <temp location> <dest location>
+  build(src)
 end
 
 desc "Remove current site"
@@ -42,6 +72,26 @@ Dir['_config/*.yml'].each { |file|
 }
 
 def site_paths
-  site = File.expand_path('../_site', __FILE__)
-  [site, "#{site}.tmp", "#{site}.old"]
+  [nil, 'tmp', 'old'].map { |ext| site_path(ext) }
+end
+
+def site_path(ext = nil)
+  "#{SITE}#{'.' if ext}#{ext}"
+end
+
+def build(src = nil)
+  site, tmp, old = site_paths
+
+  argv, args = ARGV.dup, [tmp]
+  args.unshift(src) if src
+
+  ARGV.replace(args)
+
+  load Gem.bin_path(GEM_NAME)
+
+  mv site, old if File.exist?(site)
+  mv tmp, site
+ensure
+  [old, src].each { |dir| rm_rf dir if dir }
+  ARGV.replace(argv)
 end
