@@ -14,6 +14,7 @@ descriptions:
 - 'Giacometti, Alberto: Trois hommes qui marchent / Drei schreitende Menschen, 1948, Bronze, 64,2 x 39,3 x 39,3 cm, Fontation Maeght, Saint-Paul; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
 - 'Giacometti, Alberto: Silvio, 1941/42, Bronze, Privatbesitz; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
 - 'Giacometti, Alberto: Homme qui marche sous la pluie / Schreitender Mann im Regen, 1948, Bronze, 45 x 77 x 15 cm, Giacometti-Stiftung, Zürich; Diathek online, Technische Universität Dresden, Institut für Kunstgeschichte, Dresden'
+collection: 24003
 ---
 "Space does not exist, it has to be created." (Giacometti, Notes, 1949) The space around sculptures by Alberto Giacometti is notably palpable. It is space defined by the posture of the sculptures and their relations to a base, to framework ore to other figures. Some sculptures seem to have a clear bordered space around. But the apparent frame does not necessarily accord with the space of a  figure, humorously demonstrated for example with the sculpture "The nose".
 

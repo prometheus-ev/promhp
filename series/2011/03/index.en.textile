@@ -14,6 +14,7 @@ title: Sobering of the Occident
 subtitle: Coffee and tea in Europe
 teaser: Today tea and coffee are closely connected with European culture. But these hot drinks reached Europe not until the 17th century.
 date: 2011/01/14
+collection: 24510
 ---
 Today tea and coffee are closely connected with European culture. But these hot drinks reached Europe not until the 17th century. They were celebrated as sobering, because they displaced wine and beer to some degree.
 An exhibition in Aachen is attending to the development of a coffee- and tea-culture in Europe, showing exhibits like coffee mills, tea sets and other paraphernalia.

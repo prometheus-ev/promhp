@@ -13,6 +13,7 @@ author: "Hendrikje H\xC3\xBCneke"
 title: "Die Ern\xC3\xBCchterung des Abendlandes"
 subtitle: Kaffee und Tee in Europa
 date: 2011/01/14
+collection: 24510
 ---
 Die Pariser Künstler-Cafés, die Wiener Café-Häuser oder die tea-time der Engländer sind Phänomene, die wir inzwischen wie selbstverständlich der europäischen Kultur zurechnen. Im 17. Jahrhundert gelangten Tee und Kaffee aus arabischen und asiatischen Ländern nach Europa. Vorerst nur in vermögenden Gesellschaftsschichten bekannt, etablierten sich die Getränke bald auch im Bürgertum und wurden als „Ernüchterer“ gepriesen, da sie Wein und Bier in gewissem Maße ablösten.
 Eine Ausstellung in Aachen widmet sich der Entstehung der Kaffee- und Teekultur in Europa in ihrem, wie das Museum ankündigt, „Facettenreichtum“.
