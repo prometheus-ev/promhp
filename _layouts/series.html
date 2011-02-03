@@ -1,12 +1,26 @@
 ---
 layout: default
 ---
-<h2><%= page_title %></h2>
-<h3><%= page.subtitle %></h3>
+<div id="series-header-line">
+  <% if page.collection %>
+  <div id="series-icon-line">
+    <a href="<%=p "collection/edit/#{page.collection}" %>" title="<%=t 'Show collection in the archive', 'Bildsammlung im Archiv anzeigen' %>">
+      <img src="<%=r 'images/icon/collection.png' %>" class="icon" />
+    </a>
+  </div>
+  <% end %>
+
+  <h2><%= page.title %></h2>
+  <h3><%= page.subtitle %></h3>
+</div>
+
+<p class="post-meta">
+  <%= date_to_string(Date.parse(page.date)) %>
+  <span class="pale">|</span>
+  <%=t 'By' , 'Von' %>: <%= page.author %>
+</p>
 
 <%= @content %>
-
-<p>(<%= page.author %>, <%= Date.parse(page.date).strftime(t('%d/%m/%Y', '%d.%m.%Y')) %>)</p>
 
 <div class="series-items">
 <% for item in ImageSeries.items(page) %>

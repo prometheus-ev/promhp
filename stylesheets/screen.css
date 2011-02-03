@@ -284,12 +284,25 @@ div.highlight pre code:after {
 }
 
 .text_10years {
-  text-align:      justify;
-  vertical-align:  middle;
-  padding-right: 10px;
-  color:             inherit;
+  text-align:     justify;
+  vertical-align: middle;
+  padding-right:  10px;
+  color:          inherit;
 }
 
 .dimmed {
   opacity:         0.5;
+}
+
+#series-header-line {
+  width: 450px;
+}
+
+#series-header-line h2 {
+  padding-right: 34px;
+}
+
+#series-icon-line {
+  float:       right;
+  padding-top: 0.3em;
 }
