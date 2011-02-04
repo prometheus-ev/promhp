@@ -31,6 +31,9 @@
       %>
     </li>
   </ul>
+  <strong><%=t 'Currently on the blog', 'Aktuell im Blog' %>:</strong>
+  <% first_post = local_posts.first %>
+  <a href="<%=r(first_post.url)%>" title="<%= "#{date_to_string(first_post.date)}: #{first_post.title}" %>"><%= first_post.title %></a>
 </div>
 <div id="sticker">
 <a href="<%=p "signup?type=free"%>"><img src="<%=r "files/icons/sticker_1week.#{page.lang}.png"%>" /></a>
