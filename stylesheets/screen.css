@@ -161,6 +161,7 @@
 
 #sticker {
   width:             110px;
+  margin-left:       8px;
 }
 
 #greeting p {
