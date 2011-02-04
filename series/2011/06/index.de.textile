@@ -1,0 +1,20 @@
+--- 
+layout: series
+descriptions: 
+- "Marcks, Gerhard: Spanischer Stier (Detail), 1950, Kunsthalle, Bremen; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Feininger, Lyonel: Schiffe am Bollwerk (Ausschnitt), 1933, Kupferstichkabinett, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Marcks, Gerhard: Almtanz (Detail), 1954, Galerie Rudolf Hoffmann, Hamburg; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Feininger, Lyonel: D\xC3\xBCne am Abend (Ausschnitt), 1927, Landesmuseum, M\xC3\xBCnster; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Feininger, Lyonel: Marktkirche bei Nacht (Ausschnitt), 1931, Van der Heydt-Museum, Wuppertal; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Marcks, Gerhard: Strandl\xC3\xA4uferin (Detail), 1953, Gerhard-Marcks-Haus, Bremen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Feininger, Lyonel: Marienkirche I (Ausschnitt), 1929, St\xC3\xA4dtische Kunsthalle, Mannheim; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Marcks, Gerhard: Frauenakt mit Tuch (Detail), 1920, o.O; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+title: Feininger und Marcks
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Tradition aus dem Bauhaus
+date: 2011/02/04
+teaser: ""
+---
+Zwischen 1919 und 1925 waren Gerhard Marcks und Lyonel Feininger am Bauhaus Weimar tätig. Die Künstler hielten Kontakt nachdem Feininger zum Bauhaus Dessau und Marcks nach Halle zur Burg Giebichenstein gegangen war. Nach den Kriegswirren setzte ein Briefwechsel zwischen dem nach New York übergesiedelten Feininger und dem in Köln lebenden Marcks ein. Die gegenseitige Beobachtung und Würdigung der künstlerischen Arbeiten und die langjährig verbindende Freundschaft machen eine Gegenüberstellung der Werke reizvoll. Eine Ausstellung in Bremen will einige Parallelen in der künstlerischen Entwicklung der beiden Künstler aufzeigen und setzt Malerei, Grafik und Plastik in Beziehung. 
+
+*"Feininger & Marcks. Tradition aus dem Bauhaus":http://www.marcks.de/halle.aspx?id=745. 23. Januar – 25 April 2011, Gerhard Marcks Haus, Bremen*
