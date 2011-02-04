@@ -230,7 +230,7 @@
   line-height:       35px;
 }
 
-.post-meta {
+.post-meta, .series-meta {
   font-size:         90%;
   color:             rgb(180,180,180);
 }
@@ -294,15 +294,8 @@ div.highlight pre code:after {
   opacity:         0.5;
 }
 
-#series-header-line {
-  width: 450px;
-}
-
-#series-header-line h2 {
-  padding-right: 34px;
-}
-
-#series-icon-line {
-  float:       right;
-  padding-top: 0.3em;
+.series-meta .icon {
+  margin-top:     0;
+  margin-left:    8px;
+  vertical-align: bottom;
 }
