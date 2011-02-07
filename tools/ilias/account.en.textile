@@ -1,6 +1,6 @@
----
+--- 
 layout: default
-title: Neues Benutzerkonto für ILIAS registrieren (German)
+title: "Neues Benutzerkonto f\xC3\xBCr ILIAS registrieren (German)"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=60&L=1
 ---
 <%# TODO: translate %>
@@ -19,75 +19,5 @@ h4. 2. Schritt
 
 Klicken Sie auf "Neues Benutzerkonto registrieren" und füllen Sie das Anmeldeformular anhand der nachfolgenden Vorlage vollständig aus. Bestätigen Sie am Ende der Seite, dass Sie die Nutzungsbedingungen anerkennen.
 Danach können Sie sich mit den eingegebenen Daten (Benutzername, Passwort) anmelden.
-
-<table>
-  <tr>
-    <th>gewünschter ILIAS-Benutzername</th>
-    <td>
-      <ul style="margin:0">
-        <li>z.B. vorname.nachname</li>
-        <li>keine Sonderzeichen oder Umlaute verwenden!</li>
-        <li>bitte exakt notieren, wird für die Anmeldung benötigt!</li>
-      </ul>
-      <br class="vspace1" />
-    </td>
-  </tr>
-  <tr>
-    <th>gewünschtes ILIAS-Passwort</th>
-    <td>
-      <ul style="margin:0">
-        <li>wenigstens sechs Zeichen</li>
-        <li>keine Sonderzeichen oder Umlaute verwenden!</li>
-        <li>bitte exakt notieren, wird für die Anmeldung benötigt!</li>
-      </ul>
-      <br class="vspace1" />
-    </td>
-  </tr>
-  <tr>
-    <th>Anrede</th>
-    <td>
-      <ul style="margin:0">
-        <li>anklicken</li>
-      </ul>
-      <br class="vspace1" />
-    </td>
-  </tr>
-  <tr>
-    <th>Nachname</th>
-    <td>
-      <ul style="margin:0">
-        <li>unbedingt angeben!</li>
-      </ul>
-      <br class="vspace1" />
-    </td>
-  </tr>
-  <tr>
-    <th>Institution</th>
-    <td>
-      <ul style="margin:0">
-        <li>unbedingt angeben!</li>
-      </ul>
-      <br class="vspace1" />
-    </td>
-  </tr>
-  <tr>
-    <th>E-Mail</th>
-    <td>
-      <ul style="margin:0">
-        <li>unbedingt angeben!</li>
-      </ul>
-      <br class="vspace1" />
-    </td>
-  </tr>
-  <tr>
-    <th>Status</th>
-    <td>
-      <ul style="margin:0">
-        <li>anklicken</li>
-      </ul>
-      <br class="vspace1" />
-    </td>
-  </tr>
-</table>
 
 Der angegebene Status hat keinen Einfluß auf die Bearbeitungsrechte in ILIAS. *Rechte zur Erstellung von Lerneinheiten* auf Anfrage bei "prometheus e.V.":mailto:info@prometheus-bildarchiv.de
