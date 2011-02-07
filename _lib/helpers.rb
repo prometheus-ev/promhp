@@ -2,8 +2,12 @@ module Jekyll
 
   module Helpers
 
+    def external_url?(str)
+      str =~ %r{\A[a-z]+://}
+    end
+
     def relative_url(str, current_page_url)
-      return str if str =~ /\A[a-z]+:\/\//
+      return str if external_url?(str)
       '../' * (current_page_url.count('/') - 1) + str.sub(/\A\//, '')
     end
 

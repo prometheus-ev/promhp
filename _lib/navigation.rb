@@ -7,6 +7,8 @@ module Jekyll
     end
 
     def render_navigation_item(item)
+      return '' if !external_url?(item[:url]) && Dir[File.join(@site.source, "#{item[:url]}*")].empty?
+
       path = File.join(@dir, basename)
 
       name = item["title_#{lang}".to_sym]
