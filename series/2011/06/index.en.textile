@@ -13,7 +13,7 @@ title: Feininger and Marcks
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: Bauhaus-traditions
 date: 2011/02/04
-teaser: ""
+collection: 24979
 ---
 The artists Lyonel Feininger and Gerhard Marcks got to know each other in the artschool „Bauhaus“ in Weimar, where they worked between 1919 and 1925. They kept in touch while working for different institutions - Feininger at the Bauhaus in Dessau and Marcks at the Burg Giebichenstein in Halle. After the chaos of war they startet a correspondence again.
 A comparison of their work is well-grounded with their friendship and their role as critical observers concerning their artworks.
