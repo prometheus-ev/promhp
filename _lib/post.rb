@@ -12,7 +12,7 @@ module Jekyll
 
       self.tags.flatten!
       @dir = self.dir
-      data['navigation'] = load_navigaion
+      data['navigation'] = load_navigation
     end
 
     def basename

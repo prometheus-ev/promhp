@@ -24,7 +24,7 @@ module Jekyll
         (item[:content] || []).any? { |i| active?(i, path) }
     end
 
-    def load_navigaion
+    def load_navigation
       render_navigation_level(
         YAML.load(
           ERB.new(
