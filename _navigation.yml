@@ -163,9 +163,6 @@
       :title_de: Themenraum
       :url: tools/modules/topic-room
       :content:
-      - :title_en: 2D-3D Grundlagen (German)
-        :title_de: 2D-3D Grundlagen
-        :url: tools/modules/topic-room/2d-3d
       - :title_en: Altenberger Dom (German)
         :title_de: Altenberger Dom
         :url: tools/modules/topic-room/altenberger-dom
