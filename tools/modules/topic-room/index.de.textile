@@ -21,10 +21,6 @@ und nicht auf der Basis von automatisch erstellten Benutzerprofilen.
 
 Im Mittelpunkt stehen ein fachspezifischer Inhalt, seine Objekte, komplexe reale Problemsituationen und individuelle Leistungen zu übergreifenden intellektuellen Fragestellungen, wie auch die folgenden Beispiele zeigen:
 
-<!-- h3. 2D-3D Grundlagen
-
-|!<%=r 'files/images/e2a6a71d68.jpg' %>!:<%=r 'tools/modules/topic-room/2d-3d' %>||Zum Basisstudium "2D/3D Gestalten" wurde dieser Themenraum von Studierenden der Hochschule Anhalt geplant und in einigen Bereichen auch umgesetzt. "» mehr":<%=r 'tools/modules/topic-room/2d-3d' %>|-->
-
 h3. Altenberger Dom
 
 |!<%=r 'files/images/3ada502581.jpg' %>!:<%=r 'tools/modules/topic-room/altenberger-dom' %>||Das Altenberg-Multimedia-Projekt ist eine multimediale, interaktive Lernsoftware... "» mehr":<%=r 'tools/modules/topic-room/altenberger-dom' %>|
