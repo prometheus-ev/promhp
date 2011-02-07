@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Notebook-Bibliothek. Digitale und analoge Medien in wissenschaftlichen Bibliotheken (German)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=322&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
@@ -8,7 +8,7 @@ h2. <%= page_title %>
 
 h3. Projektpartner
 
-Kunsthistorisches Institut der Universität zu Köln ("www.uni-koeln.de/phil-fak/khi":http://www.uni-koeln.de/phil-fak/khi/)
+Kunsthistorisches Institut der Universität zu Köln ("» Kunsthistorisches Institut":http://www.uni-koeln.de/phil-fak/khi/)
 
 h4. Projektlaufzeit:
 
@@ -16,7 +16,7 @@ h4. Projektlaufzeit:
 
 h4. Link:
 
-*"www.uni-koeln.de/phil-fak/khi/NotebookBib/index.html":http://www.uni-koeln.de/phil-fak/khi/NotebookBib/index.html*
+*"» notebook library":http://www.uni-koeln.de/phil-fak/khi/NotebookBib.html*
 
 h3. Projektbeschreibung
 

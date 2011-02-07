@@ -9,7 +9,7 @@ h2. <%= page_title %>
 * Lisa Dieckmann; Claus Kalle
 Kooperation von der Datenhaltung im AFS bis zur private Cloud - prometheus Bilddatenbank im zeitlichen Wandel.
 in: Kölner Universitätszeitung, 5, 2010, IT-Beilage, S. 2.
-"» zur Publikation":http://www.portal.uni-koeln.de/fileadmin/templates/uni/images/IT-Beilage/3_2010/KUZ%20Beilage%20IT%203%202010%20.pdf
+"» publication":http://www.portal.uni-koeln.de/fileadmin/templates/uni/images/IT-Beilage/3_2010/KUZ%20Beilage%20IT%203%202010%20.pdf
 
 * Dieckmann, Lisa 
 prometheus : the distributed digital image archive for research and education.

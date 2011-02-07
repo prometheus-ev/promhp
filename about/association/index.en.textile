@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: prometheus - The association
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=11&L=1
@@ -11,7 +11,7 @@ h3. Mission statement
 
 The purpose of the association is the promotion of science and research through the development, appropriation and application of digital media in the arts and the field of the history of culture. The association is committed to further the use of digital media in education, research and teaching, and feels especially obligated to colleges, research facilities, museums, archives, and the preservation of historical monuments.
 
-The association supports open access to scientific knowledge according to the "Berlin Declaration (PDF)":http://www.mpg.de/pdf/openaccess/BerlinDeclaration_en.pdf of October 22, 2003, and has signed the "Göttingen Declaration":http://www.urheberrechtsbuendnis.de/index.html.en on copyright for education and science of July 5, 2004.
+The association supports open access to scientific knowledge according to the "Berlin Declaration (PDF)":http://oa.mpg.de/files/2010/04/Berliner_Erklaerung_dt_Version_07-2006.pdf of October 22, 2003, and has signed the "Göttingen Declaration":http://www.urheberrechtsbuendnis.de/index.html.en on copyright for education and science of July 5, 2004.
 
 h3. Proposition
 

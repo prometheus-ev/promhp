@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: prometheus - Der Verein
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=11
@@ -12,7 +12,7 @@ h3. Das Vereinsziel
 Der Zweck des Vereins ist die Förderung von Wissenschaft und Forschung durch die Entwicklung, Bereitstellung und Anwendung der digitalen Medien im kunst- und kulturhistorischen Bereich.
 Der Verein fördert ihren Einsatz in der Aus- und Weiterbildung, Forschung und Lehre und fühlt sich besonders den Hochschulen, Forschungseinrichtungen, Museen, Archiven und der Denkmalpflege verpflichtet.
 
-Der Verein unterstützt den offenen Zugang zum wissenschaftlichen Wissen gemäß der "Berliner Erklärung (PDF)":http://www.mpg.de/pdf/openaccess/BerlinDeclaration_dt.pdf vom 22. Oktober 2003 und ist Unterzeichner der "Göttinger Erklärung":http://www.urheberrechtsbuendnis.de/ zum Urheberrecht für Bildung und Wissenschaft vom 5. Juli 2004.
+Der Verein unterstützt den offenen Zugang zum wissenschaftlichen Wissen gemäß der "Berliner Erklärung (PDF)":http://oa.mpg.de/files/2010/04/Berliner_Erklaerung_dt_Version_07-2006.pdf vom 22. Oktober 2003 und ist Unterzeichner der "Göttinger Erklärung":http://www.urheberrechtsbuendnis.de/ zum Urheberrecht für Bildung und Wissenschaft vom 5. Juli 2004.
 
 h3. Angebot
 

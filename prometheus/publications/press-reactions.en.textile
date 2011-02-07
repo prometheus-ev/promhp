@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Press reactions
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=306&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
@@ -8,16 +8,16 @@ h2. <%= page_title %>
 
 * prometheus wird drei Jahre alt. Das größte internetbasierte Bildarchiv. Interview mit Projektkoordinatorin Dr. Ute Verstegen
 Deutschlandfunk: 18.3.2004
-"http://www.dradio.de/dlf/sendungen/campus/248763/":http://www.dradio.de/dlf/sendungen/campus/248763/
+"» press reaction":http://www.dradio.de/dlf/sendungen/campus/248763/
 
 * prometheus wird drei Jahre alt. Interview mit Projektleiter Dr. Holger Simon.
 Kölncampus: 19.3.2004
-"Koelncampus.mp3":<%=r 'files/media/Koelncampus.mp3' %>
+"» press reaction":<%=r 'files/media/Koelncampus.mp3' %>
 
 * Rexrodt, Anne
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
 Portal Kunstgeschichte, 3.4.2003
-"http://www.portalkunstgeschichte.de/forschung_lehre/projekte/7.php":http://www.portalkunstgeschichte.de/forschung_lehre/projekte/7.php
+"» press reaction":http://www.portalkunstgeschichte.de/forschung_lehre/projekte/7.php
 
 * Virtueller Museumsbesuch "ein durchschlagender Erfolg". Archäologen und Kunsthistoriker der JLU sind an Aufbau von digitalem Bildarchiv beteiligt
 Giessener Anzeiger: 3.12.2003, S. 31.
@@ -32,7 +32,7 @@ Kunstchronik, 55. Jg., H. 2, Februar 2002, S. 74f.
 * Lozano, Jorge Sebastián
 Imágenes digitales para la enseñanza de historia del arte: ejemplos, modelos, propuestas
 Publikation eines Vortrags, gehalten auf dem Kongress »CULTURTEC2002« an der Universidad Complutense de Madrid, 23.05.2002
-"http://www.uv.es/gdha/publica/culturtec2002":http://www.uv.es/gdha/publica/culturtec2002
+"» press reaction":http://www.uv.es/gdha/publica/culturtec2002
 
 * Ein Lehrbeispiel für die Kunsthistoriker. Gotteshaus per Mausklick aus verschiedenen Perspektiven
 Schongauer Nachrichten, 11.6.2002
@@ -40,7 +40,7 @@ Schongauer Nachrichten, 11.6.2002
 * Lackner, Thomas
 Logistik statt Inhalt. Zu aktuellen Konzepten der Wissensorganisation in der digitalen Kunstgeschichte
 Kritische Berichte. Zeitschrift für Kunst- und Kulturwissenschaften, H. 1, 2002.
-"http://www.kunstgeschichte.de/kgs/publikationen/km1.html":http://www.kunstgeschichte.de/kgs/publikationen/km1.html
+"» press reaction":http://www.kunstgeschichte.de/kgs/publikationen/km1.html
 
 * Klaus Fieberg
 Geschichte im Internet. Webtipp
@@ -53,7 +53,7 @@ Campus & Karriere, 29.7.2002
 * Schomacher, Georg
 Wie viel Kultur (und Geschichte) gehen durch den Draht?
 Nachrichtendienst für Historiker, 17.10.2002
-"http://www.nfhdata.de/premium/newsboard2/dcboard.php?az=show_mesg&forum=109&topic_id=6&mesg_id=6":http://www.nfhdata.de/premium/newsboard2/dcboard.php?az=show_mesg&forum=109&topic_id=6&mesg_id=6
+"» press reaction":http://www.nfhdata.de/premium/newsboard2/dcboard.php?az=show_mesg&forum=109&topic_id=6&mesg_id=6
 
 * Kunstgeschichte raubt das Feuer der Neuen Medien.
 Berliner Zeitung, 25.1.2001
