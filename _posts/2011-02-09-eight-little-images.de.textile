@@ -8,15 +8,15 @@ tags:
 - bildserien
 ---
 !(bordered-image)<%=r 'files/blog/screenshot_image-series_2011-02-07.png' %>(Screenshot: Link zur Bildsammlung)!
-Sie dürften wohl allen BesucherInnen unserer Website schon mal aufgefallen sein: die acht quadratischen Bilder rechts neben unserem Logo. Dabei handelt es sich um unsere Bildserie, die wöchentlich neu von "Hendrikje Hüneke":<%=p 'account/show/h.hueneke' %> zu aktuellen Anlässen, wie beispielsweise interessanten Austellungen, erstellt wird.
+Sie dürften wohl allen BesucherInnen unserer Website schon mal aufgefallen sein: die acht quadratischen Bilder rechts neben unserem Logo. Dabei handelt es sich um unsere Bildserie, die wöchentlich neu von "Hendrikje Hüneke":<%=p 'account/show/h.hueneke' %> zu aktuellen Anlässen, wie beispielsweise interessanten Ausstellungen, erstellt wird.
 Ein Mausklick auf die Bilder bringt Sie zu einer Seite mit weiteren Informationen.
 
 !>(bordered-image)<%=r 'files/blog/screenshot_image-series_navigation_2011-02-09.png' %>(Screenshot: Bildserien Navigation)!
 
 Die Bildserien gibt es zwar nicht erst seit unserem Relaunch, doch in letzter Zeit hat sich ein bisschen getan und darauf möchte ich hier gerne hinweisen.
-Zum Beispiel archivieren wir die Bildserien nun, sodass sich auch noch die Serien vergangener Wochen betrachten lassen. Dies ist möglich, indem Sie einfach mit den Navigations-Pfeilen auf der "Seite einer Bildserie":<%=r 'series' %> zur nächsten navigieren.
+Neben vielen Kleinigkeiten, wie die Naviagation durch die archivierten Bildeserien der vergangenen Wochen, über die Pfeile im unteren Bereich der "Seite einer Serie":<%=r 'series' %>, gibt es nun noch ein bisschen was dazu.
 
-Außerdem werden nun öffentliche Bildsammlungen zur Serie angelegt. Diese enthalten die verwendeten Bilder in voller Größe, teilweise aber auch noch weitere Bilder und Informationen. So müssen Sie sich die Datensätze nicht erst noch mühsam selbst zusammen suchen, sondern können sie auch ganz einfach im Gesamten auf Ihrem Computer speichern.
+Es werden nun nämlich öffentliche Bildsammlungen zur Serie angelegt. Diese enthalten die verwendeten Bilder in voller Größe, teilweise aber auch noch weitere Bilder und Informationen. So müssen Sie sich die Datensätze nicht erst noch mühsam selbst zusammen suchen, sondern können sie auch ganz einfach im Gesamten auf Ihrem Computer speichern.
 Wenn eine Bildsammlung zu einer Serie angelegt wurde, wird auf der Seite der Serie ein kleines Ordner-Symbol angezeigt, das Sie per Mausklick direkt zur Sammlung führt.
 
 Es lohnt sich also, diesen acht kleinen Bildchen da oben ein wenig Aufmerksamkeit zu schenken und sie von Zeit zu Zeit mal an zu klicken.
