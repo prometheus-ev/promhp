@@ -47,6 +47,11 @@
   height:            100px;
 }
 
+.series-start-image {
+  float:            left;
+  margin-top:       0;
+}
+
 #facts {
   text-align:        right;
   margin-right:      10px;
