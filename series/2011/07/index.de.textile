@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Runge, Philipp Otto: Triumph des Amor (Ausschnitt), 1801-02, \xC3\x96l auf Leinwand, 66,7 x 172,5cm, Kunsthalle Hamburg; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Runge, Philipp Otto: Selbstbildnis am Zeichentisch (Ausschnitt), um 1802, Kreide, 55,2 x 43,3cm, Kunsthalle Hamburg; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Runge, Philipp Otto: Selbstbildnis (Ausschnitt), 1802, \xC3\x96l auf Leinwand, 37 x 31.5 cm, Kunsthalle, Hamburg; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Runge, Philipp Otto: Die Lehrstunde der Nachtigall (Zweite Fassung, Ausschnitt), 1804, \xC3\x96l auf Leinwand, 104,7 x 85,5cm, Kunsthalle, Hamburg; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Runge, Philipp Otto: Die Eltern des K\xC3\xBCnstlers (Ausschnitt), 1806, \xC3\x96l auf Leinwand, 196 x 131cm, Kunsthalle Hamburg; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Runge, Philipp Otto: Der kleine Morgen (Ausschnitt), 1808, \xC3\x96l auf Leinwand, 109 cm x 85,5cm; Kunsthalle, Hamburg; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Runge, Philipp Otto: Die Gro\xC3\x9Fe Morgen (Ausschnitt), 1809-10, \xC3\x96l auf Leinwand, 152 x 113cm, Kunsthalle, Hamburg; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Runge, Philipp Otto: Die H\xC3\xBClsenbeckschen Kinder (Ausschnitt), 1805/06, \xC3\x96l auf Leinwand, 130,5 x 140,5cm, Kunsthalle, Hamburg; Datenbank Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Philipp Otto Runge
+subtitle: Eine Retrospektive
+date: 2011/02/10
+teaser: ""
+collection: ""
+---
+Die letzte große Retrospektive zum Werk von Philipp Otto Runge war die Ausstellung „Runge und seine Zeit“ in den Jahren 1977/78. Die am 3. Dezember 2010 anlässlich des 200. Todestages eröffnete Schau in Hamburg hat somit den Anspruch den Forschungsstand der letzten 30 Jahre zu präsentieren. Neben dem wichtige Stücke umfassenden und umfangreichen Bestand der Kunsthalle sind zahlreiche Leihgaben ausgestellt. Zu den Exponaten gehören auch bislang unbekannte und lange verschollene Werke, wie z.B. ein Konvolut mit Pflanzenscherenschnitten, wie wir sie hier im großen Bild zeigen können.
+
+*"Kosmos Runge. Der Morgen der Romantik":http://www.hamburger-kunsthalle.de/start/start.html, bis 13.03.2011, Hamburger Kunsthalle*
+"Philipp Otto Runge Stiftung":http://www.philipp-otto-runge-stiftung.de/html/ausstellung.htm
