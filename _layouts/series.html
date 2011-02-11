@@ -8,7 +8,7 @@ layout: default
   <%= date_to_string(Date.parse(page.date)) %>
   <span class="pale">|</span>
   <%=t 'By' , 'Von' %>: <%= page.author %>
-  <% if page.collection && page.collection.is_a?(Fixnum)%>
+  <% if page.collection && page.collection.is_a?(Integer) %>
     <a href="<%=p "collection/edit/#{page.collection}" %>" title="<%=t 'Show collection in the archive', 'Bildsammlung im Archiv anzeigen' %>">
       <img src="<%=r 'images/icon/collection.png' %>" class="icon" />
     </a>
