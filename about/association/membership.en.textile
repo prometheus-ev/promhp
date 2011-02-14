@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: How to become a member
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=44&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
@@ -19,6 +19,6 @@ h3. Membership fee
 
 h3. Membership Application
 
-"aufnahmeantrag.pdf":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
+"» Application form":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
 
 Download, fill it out, sign it and send it to our administration office!

@@ -1,6 +1,6 @@
----
+--- 
 layout: default
-title: Aufbau und Integration von digitalen Bildressourcen und E-Learning-Komponenten in interdisziplinären Lehrveranstaltungen (German)
+title: "Aufbau und Integration von digitalen Bildressourcen und E-Learning-Komponenten in interdisziplin\xC3\xA4ren Lehrveranstaltungen (German)"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=321&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 <%# TODO: translate %>
@@ -8,8 +8,8 @@ h2. <%= page_title %>
 
 h3. Projektpartner
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de)
-Fachbereich Geschichts- und Kulturwissenschaften der Justus-Liebig-Universität Giessen ("www.uni-giessen.de/cms/fbz/fb04":http://www.uni-giessen.de/cms/fbz/fb04)
+prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("» prometheus-Bildarchiv":http://www.prometheus-bildarchiv.de)
+Fachbereich Geschichts- und Kulturwissenschaften der Justus-Liebig-Universität Giessen ("» Fachbereich für Geschichts- und Kulturwissenschaften":http://www.uni-giessen.de/cms/fbz/fb04)
 
 h4. Projektlaufzeit:
 
@@ -17,7 +17,7 @@ h4. Projektlaufzeit:
 
 h4. Link:
 
-*"www.uni-giessen.de/archaeologie/public/foefo/foefo01.html":http://www.uni-giessen.de/archaeologie/public/foefo/foefo01.html*
+*"» zur Projekt-Homepage":http://www.uni-giessen.de/~g81158/foerderfond_2003/index.html*
 
 h3. Projektbeschreibung
 

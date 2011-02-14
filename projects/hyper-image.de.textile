@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: HyperImage - Bildorientierte e-Science-Netzwerke
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=325
@@ -7,9 +7,9 @@ h2. <%= page_title %>
 
 h3. Projektpartner
 
-Humboldt-Universität zu Berlin ("www.hu-berlin.de":http://www.hu-berlin.de/)
-Universität Lüneburg ("www.uni-lueneburg.de":http://www.uni-lueneburg.de/uni/index.php?id=kulturinformatik)
-zweitwerk - software engineering GmbH ("www.zweitwerk.com":http://www.zweitwerk.com/)
+Humboldt-Universität zu Berlin ("» HU-Berlin":http://www.hu-berlin.de/)
+Universität Lüneburg ("» Leuphana Universität Lüneburg":http://www.leuphana.de/)
+zweitwerk - software engineering GmbH ("» zweitwerk":http://www.zweitwerk.com/)
 
 h4. Projektlaufzeit:
 

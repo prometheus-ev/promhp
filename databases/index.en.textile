@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Information for database suppliers
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=72&L=1
@@ -7,4 +7,4 @@ h2. <%= page_title %>
 
 This area is addressed to institutions and individuals interested in integrating a database in prometheus.
 
-All information can be downloaded as PDF: "Information for database suppliers":<%=r 'files/text/infos_fuer_dblieferer_01.pdf' %> (German)
+All information can be downloaded as PDF: "» Information for database suppliers":<%=r 'files/text/infos_fuer_dblieferer_01.pdf' %> (German)

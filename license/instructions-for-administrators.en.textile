@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Instructions for administrators
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=51&L=1
@@ -14,4 +14,4 @@ The administrative account should be managed - if possible - by a member of staf
 h3. Application form for an administrative account
 
 Please complete and sign the application form ready for download below and send it to the prometheus office:
-"Application form for an administrative account":<%=r 'files/text/administrator_engl_0907.pdf' %>
+"» Application form for an administrative account":<%=r 'files/text/administrator_engl_0907.pdf' %>

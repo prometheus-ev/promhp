@@ -7,7 +7,7 @@ h2. <%= page_title %>
 
 h3. Projektpartner
 
-Kunsthistorisches Institut der Universität zu Köln ("» zum Kunsthistorischen Institut":http://www.uni-koeln.de/phil-fak/khi/)
+Kunsthistorisches Institut der Universität zu Köln ("» Kunsthistorisches Institut":http://www.uni-koeln.de/phil-fak/khi/)
 
 h4. Projektlaufzeit:
 

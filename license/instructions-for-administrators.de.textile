@@ -1,6 +1,6 @@
----
+--- 
 layout: default
-title: Hinweise für AdministratorInnen
+title: "Hinweise f\xC3\xBCr AdministratorInnen"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=51
 ---
 h2. <%= page_title %>
@@ -14,4 +14,4 @@ Der Administrationszugang sollte - wenn möglich - von einem/r Mitarbeiter/in im
 h3. Antrag für den Administrationszugang
 
 Bitte füllen Sie dazu den folgenden Antrag aus und schicken Sie ihn unterschrieben zur  prometheus-Geschäftsstelle:
-"Antrag für den Administrationszugang":<%=r 'files/text/administrator_de_0907_01.pdf' %>
+"» Antrag für den Administratorzugang":<%=r 'files/text/administrator_de_0907_01.pdf' %>

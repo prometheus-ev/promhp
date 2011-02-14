@@ -1,14 +1,14 @@
----
+--- 
 layout: default
-title: Das digitale Historische Archiv Köln
+title: "Das digitale Historische Archiv K\xC3\xB6ln"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=510
 ---
 h2. <%= page_title %>
 
 h3. Projektpartner
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de)
-Abteilung für Rheinische Landesgeschichte, Institut für Geschichtswissenschaft der Universität Bonn ("www.landesgeschichte.uni-bonn.de":http://www.landesgeschichte.uni-bonn.de)
+prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("» prometheus-Bildarchiv":http://www.prometheus-bildarchiv.de)
+Abteilung für Rheinische Landesgeschichte, Institut für Geschichtswissenschaft der Universität Bonn ("» Rheinische Landesgeschichte":http://www.landesgeschichte.uni-bonn.de)
 
 h4. Projektlaufzeit:
 
@@ -16,7 +16,7 @@ seit März 2009
 
 h4. Link:
 
-*"www.historischesarchivkoeln.de":http://www.historischesarchivkoeln.de/*
+*"» zum Digitalen Historischen Archiv der Stadt Köln":http://www.historischesarchivkoeln.de/*
 
 h3. Projektbeschreibung
 

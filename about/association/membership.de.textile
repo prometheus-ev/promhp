@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Mitglied werden
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=44
@@ -19,6 +19,6 @@ h3. Mitgliedsbeitrag
 
 h3. Antrag auf Mitgliedschaft
 
-"aufnahmeantrag.pdf":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
+"» Aufnahmeantrag":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
 
 PDF herunterladen und ausgefüllt und unterschrieben an die Geschäftstelle schicken!

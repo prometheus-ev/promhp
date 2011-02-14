@@ -1,14 +1,14 @@
----
+--- 
 layout: default
-title: Automatische Erschließung des digitalen Bildarchivs prometheus
+title: "Automatische Erschlie\xC3\x9Fung des digitalen Bildarchivs prometheus"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=320
 ---
 h2. <%= page_title %>
 
 h3. Projektpartner
 
-Kunsthistorisches Institut, Universität zu Köln ("www.uni-koeln.de/phil-fak/khi":http://www.uni-koeln.de/phil-fak/khi/)
-Institut für Informationswissenschaft, Fachhochschule Köln ("www.fbi.fh-koeln.de":http://www.fbi.fh-koeln.de/)
+Kunsthistorisches Institut, Universität zu Köln ("» Kunsthistorisches Institut":http://www.uni-koeln.de/phil-fak/khi/)
+Institut für Informationswissenschaft, Fachhochschule Köln ("» Institut für Informationswissenschaft":http://www.fbi.fh-koeln.de/)
 
 h4. Projektlaufzeit:
 
@@ -26,7 +26,7 @@ Zusätzlich wird in einem völlig neuen Ansatz versucht, die Bilder in prometheu
 
 h4. Finanzierung:
 
-"GEW Stiftung Köln":http://www.gew-stiftung.de/
+"» GEW Stiftung Köln":http://www.gew-stiftung.de/
 
 h3. Ansprechpartner
 

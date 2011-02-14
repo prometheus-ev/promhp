@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Warum ILIAS? (German)
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=207&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
@@ -11,7 +11,7 @@ h3. Was ist ILIAS?
 ILIAS ist eine freie Lernplattform, mit deren Hilfe sowohl Internet-basierte Lehr- und Lernmaterialien (für E-Learning) erstellt und verfügbar gemacht, als auch Kommunikation und Kooperation unter Lehrenden und Lernenden, Prüfungen und Evaluation, sowie didaktische Strukturen für komplette Kurse verwirklicht werden können. [Quelle: "wikipedia":http://de.wikipedia.org/wiki/ILIAS_%28Software%29]
 
 Zur Projektwebsite:
-*"http://www.ilias.de":http://www.ilias.de/*
+*"» ILIAS":http://www.ilias.de/*
 
 h3. ILIAS als exemplarische Lernplattform
 
