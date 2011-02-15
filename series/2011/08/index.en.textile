@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Metsu, Gabriel: Briefschreibender Mann (Detail), um 1655/60, \xC3\x96l auf Holz, 28 x 26 cm, Mus\xC3\xA9e Fabre, Montpellier; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Metsu, Gabriel: Malendes M\xC3\xA4dchen (Detail), 1657-59, \xC3\x96l auf Holz, 36,3 x 30,7 cm, o.O.; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Metsu, Gabriel: Geschenk des J\xC3\xA4gers (Detail) , um 1657/61, \xC3\x96l auf Leinwand, 51 x 48 cm, Amsterdam; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Metsu, Gabriel: Das kranke Kind (Detail) um 1660, \xC3\x96l auf Leinwand, 32,2 x 27,2 cm, Rijksmuseum, Amsterdam; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Metsu, Gabriel: Das Katzenfr\xC3\xBChst\xC3\xBCck (Detail), 1661-66, \xC3\x96l auf Holz, 33,5 x 27 cm, Amsterdam; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Metsu, Gabriel: Der Briefschreiber (Detail), um 1665, \xC3\x96l auf Holz, National Gallery of Art, Dublin; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Metsu, Gabriel: Die Briefleserin (Detail), um 1665, \xC3\x96l auf Holz, National Gallery of Art, Dublin; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Metsu, Gabriel: Frau bei ihrer Toilette (Detail), um 1685, \xC3\x96l auf Holz, Norton Simon Museum, Pasadena; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Gabriel Metsu
+subtitle: A master rediscovered
+date: 2011/02/15
+teaser: Today the Dutch artist Gabriel Metsu (1629-1667) is playing a second fiddle to his famous  contemporary Vermeer.
+collection: "25174"
+---
+Today the Dutch artist Gabriel Metsu (1629-1667) is playing a second fiddle to his famous  contemporary Vermeer. In contrast he was one of the foremost genre-painters during the Golden Age. In the 18th and 19th century paintings by Metsu were sold at high prices and were more popular than the works by Vermeer.
+An exhibition in Amsterdam, open until the middle of march, is inviting to rediscover this artist. 
+
+Gabriel Metsu. A master rediscovered, until 21th march 2011, Rijksmuseum Amsterdam
+http://www.rijksmuseum.nl/metsu?lang=en

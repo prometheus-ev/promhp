@@ -1,0 +1,24 @@
+--- 
+descriptions: 
+- "Metsu, Gabriel: Briefschreibender Mann (Detail), um 1655/60, \xC3\x96l auf Holz, 28 x 26 cm, Mus\xC3\xA9e Fabre, Montpellier; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Metsu, Gabriel: Malendes M\xC3\xA4dchen (Detail), 1657-59, \xC3\x96l auf Holz, 36,3 x 30,7 cm, o.O.; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Metsu, Gabriel: Geschenk des J\xC3\xA4gers (Detail) , um 1657/61, \xC3\x96l auf Leinwand, 51 x 48 cm, Amsterdam; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Metsu, Gabriel: Das kranke Kind (Detail) um 1660, \xC3\x96l auf Leinwand, 32,2 x 27,2 cm, Rijksmuseum, Amsterdam; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Metsu, Gabriel: Das Katzenfr\xC3\xBChst\xC3\xBCck (Detail), 1661-66, \xC3\x96l auf Holz, 33,5 x 27 cm, Amsterdam; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Metsu, Gabriel: Der Briefschreiber (Detail), um 1665, \xC3\x96l auf Holz, National Gallery of Art, Dublin; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Metsu, Gabriel: Die Briefleserin (Detail), um 1665, \xC3\x96l auf Holz, National Gallery of Art, Dublin; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Metsu, Gabriel: Frau bei ihrer Toilette (Detail), um 1685, \xC3\x96l auf Holz, Norton Simon Museum, Pasadena; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Gabriel Metsu
+subtitle: Een meester herondtekt
+date: 2011/02/15
+teaser: "Gabriel Metsu (1629-1667) geh\xC3\xB6rte mit seinen Alltags-Darstellungen zu den f\xC3\xBChrenden Genre-Malern des Goldenen Zeitalters."
+collection: "25174"
+---
+Gabriel Metsu (1629-1667) gehörte mit seinen Alltags-Darstellungen zu den führenden Genre-Malern des Goldenen Zeitalters. Seine Berühmtheit stand zu Lebzeiten des Künstlers außer Frage, während er heute im Schatten seines bekannten Zeitgenossen Vermeer steht. Im 18. und 19. Jahrhundert wurden Gemälde von Metsu mit hohen Preisen gehandelt und waren populärer als die Werke Vermeers.
+Eine Ausstellung im Amsterdamer Rijksmuseum, die noch bis Mitte März zu besichtigen ist, lädt ein, den Maler neu wiederzuentdecken.
+
+
+Gabriel Metsu. Een meester herondtekt, bis 21. März 2011, Rijksmuseum Amsterdam
+http://www.rijksmuseum.nl/metsu?lang=en
