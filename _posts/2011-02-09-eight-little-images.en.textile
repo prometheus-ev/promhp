@@ -1,7 +1,7 @@
 --- 
 layout: post
 author: Arne
-title: Acht kleine Bildchen
+title: Neuerungen bei den Bildserien
 tags: []
 
 ---
