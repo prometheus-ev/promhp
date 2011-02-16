@@ -14,7 +14,7 @@ title: Philipp Otto Runge
 subtitle: A retrospective
 date: 2011/02/10
 teaser: ""
-collection: ""
+collection:
 ---
 Over 30 years after the last comprehensive retrospective in 1977/78 (“Runge und seine Zeit”) there is an exhibition in Hamburg presenting an overview of current research status. Adjusted with loan collection there are famous artworks, like “Der große Morgen” and “Der kleine Morgen”, and unknown exhibits, like a corpus of silhuoette-pictures.
  
