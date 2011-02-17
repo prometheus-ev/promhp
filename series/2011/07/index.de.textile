@@ -13,7 +13,7 @@ author: "Hendrikje H\xC3\xBCneke"
 title: Philipp Otto Runge
 subtitle: Eine Retrospektive
 date: 2011/02/10
-teaser: ""
+teaser:
 collection:
 ---
 Die letzte große Retrospektive zum Werk von Philipp Otto Runge war die Ausstellung „Runge und seine Zeit“ in den Jahren 1977/78. Die am 3. Dezember 2010 anlässlich des 200. Todestages eröffnete Schau in Hamburg hat somit den Anspruch den Forschungsstand der letzten 30 Jahre zu präsentieren. Neben dem wichtige Stücke umfassenden und umfangreichen Bestand der Kunsthalle sind zahlreiche Leihgaben ausgestellt. Zu den Exponaten gehören auch bislang unbekannte und lange verschollene Werke, wie z.B. ein Konvolut mit Pflanzenscherenschnitten, wie wir sie hier im großen Bild zeigen können.

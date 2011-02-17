@@ -102,10 +102,7 @@ module Jekyll
               when 'row'
                 ImageSeries.items(self)
               when 'teaser'
-                teaser_text = data[part] && !data[part].empty? ? data[part] :
-                  content[TEASER_RE, 1]
-
-                "*#{data['subtitle']}* - #{teaser_text}"
+                "*#{data['subtitle']}* - #{data[part] || content[TEASER_RE, 1]}"
             end
           }
 
