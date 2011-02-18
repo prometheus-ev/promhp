@@ -19,5 +19,4 @@ collection: "25174"
 Today the Dutch artist Gabriel Metsu (1629-1667) is playing a second fiddle to his famous  contemporary Vermeer. In contrast he was one of the foremost genre-painters during the Golden Age. In the 18th and 19th century paintings by Metsu were sold at high prices and were more popular than the works by Vermeer.
 An exhibition in Amsterdam, open until the middle of march, is inviting to rediscover this artist. 
 
-Gabriel Metsu. A master rediscovered, until 21th march 2011, Rijksmuseum Amsterdam
-http://www.rijksmuseum.nl/metsu?lang=en
+*"Gabriel Metsu. A master rediscovered":http://www.rijksmuseum.nl/metsu?lang=en, until 21th march 2011, Rijksmuseum Amsterdam*
