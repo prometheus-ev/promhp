@@ -1,0 +1,47 @@
+--- 
+layout: default
+title: index
+---
+h2. esPrix 2011
+
+esPrix - der studentische prometheus-Preis
+für deutschsprachige mediendidaktische Anwendungen im Bereich der Kulturwissenschaften.
+
+"Gefragt sind kreative studentische Eigenleistungen,
+die sich durch die Harmonisierung von
+gutem Inhalt, guter Didaktik und gutem Design auszeichnen!"
+
+Der Preis in Höhe von 500 EURO wird ausgeschrieben für mediendidaktische Anwendungen, die inhaltlich und technisch in die Lernwelt von prometheus integrierbar sind.
+
+
+Dieses Jahr - zum 10jährigen Bestehen von prometheus - schreiben wir in der zweiten Kategorie auch für Schüler/-innen aus!
+
+
+h3. Beschreibung
+
+
+Im Mittelpunkt der Einreichung steht die mediengerechte Umsetzung eines Lehrinhaltes, orientiert am Anspruch eines Seminars im Grundstudium oder eines Leistungskurses in der Oberstufe. Es sind wenigstens zwei Medientypen (Audio, Bild, Text, etc.) sinnvoll kombiniert.
+
+
+Auch Gruppenarbeiten können eingereicht oder vorgeschlagen werden.
+
+
+Es wird vorausgesetzt, dass alle Inhalte sachlich richtig sind. Gemäß der "guten wissenschaftlichen Praxis" sind alle verwendeten Mittel und Quellen zitiert. Bei den Medien ist zusätzlich das Copyright angegeben.
+
+
+Einige Beispiele haben wir auf der Lernplattform Ilias für Sie zusammengestellt.
+
+
+h3. Bedingungen
+
+
+Es können alle Studierende und Schüler/-innen - einzeln oder als Gruppe - mit einer deutschsprachigen Einreichung teilnehmen bzw. vorgeschlagen werden. Das Preisgeld wird auf der Basis einer Juryentscheidung vergeben.
+
+
+Einreichung oder Nominierung
+
+
+Die Einreichungsfrist für den esPrix 2011 beginnt am 1. März 2011 und endet am 31. September 2011.
+
+
+Schicken Sie Ihre Vorschläge bitte an esprix[at]prometheus-bildarchiv.de
