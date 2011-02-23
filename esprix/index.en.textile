@@ -11,7 +11,7 @@ esPrix - der studentische prometheus-Preis für deutschsprachige mediendidaktisc
 Der Preis in Höhe von 500 EURO wird ausgeschrieben für mediendidaktische Anwendungen, die inhaltlich und technisch in die Lernwelt von prometheus integrierbar sind.
 
 
-Dieses Jahr - zum 10jährigen Bestehen von prometheus - schreiben wir in der zweiten Kategorie auch für Schüler/-innen aus!
+Dieses Jahr - zum 10jährigen Bestehen von prometheus - schreiben wir in der zweiten Kategorie auch einen Preis für Schüler/-innen aus!
 
 
 h3. Beschreibung
