@@ -44,4 +44,5 @@ Einreichung oder Nominierung
 Die Einreichungsfrist für den esPrix 2011 beginnt am 1. März 2011 und endet am 31. September 2011.
 
 
-Schicken Sie Ihre Vorschläge bitte an esprix[at]prometheus-bildarchiv.de
+
+h4. Schicken Sie Ihre Vorschläge bitte an esprix@prometheus-bildarchiv.de
