@@ -1,21 +1,19 @@
 --- 
 layout: default
-title: index
+title: esPrix 2011
 ---
-h2. esPrix 2011
+h2. <%= page_title %>
 
 esPrix - der studentische prometheus-Preis für deutschsprachige mediendidaktische Anwendungen im Bereich der Kulturwissenschaften.
 
-"Gefragt sind kreative studentische Eigenleistungen, die sich durch die Harmonisierung von gutem Inhalt, guter Didaktik und gutem Design auszeichnen!"
+bq. "Gefragt sind kreative studentische Eigenleistungen, die sich durch die Harmonisierung von gutem Inhalt, guter Didaktik und gutem Design auszeichnen!"
 
 Der Preis in Höhe von 500 EURO wird ausgeschrieben für mediendidaktische Anwendungen, die inhaltlich und technisch in die Lernwelt von prometheus integrierbar sind.
 
-
-Dieses Jahr - zum 10jährigen Bestehen von prometheus - schreiben wir in der zweiten Kategorie auch einen Preis für Schüler/-innen aus!
+*Dieses Jahr - zum 10jährigen Bestehen von prometheus - schreiben wir in einer zweiten Kategorie auch einen Preis für Schüler/-innen aus!*
 
 
 h3. Beschreibung
-
 
 Im Mittelpunkt der Einreichung steht die mediengerechte Umsetzung eines Lehrinhaltes, orientiert am Anspruch eines Seminars im Grundstudium oder eines Leistungskurses in der Oberstufe. Es sind wenigstens zwei Medientypen (Audio, Bild, Text, etc.) sinnvoll kombiniert.
 
@@ -26,13 +24,11 @@ Es wird vorausgesetzt, dass alle Inhalte sachlich richtig sind. Gemäß der "gut
 
 h3. Teilnahmebedingungen
 
-
-Es können alle Studierende und Schüler/-innen - einzeln oder als Gruppe - mit einer deutschsprachigen Einreichung teilnehmen bzw. vorgeschlagen werden. Das Preisgeld wird auf der Basis einer Juryentscheidung vergeben.
+Es können alle Studierenden und Schüler/-innen - einzeln oder als Gruppe - mit einer deutschsprachigen Einreichung teilnehmen bzw. vorgeschlagen werden. Das Preisgeld wird auf der Basis einer Juryentscheidung vergeben.
 
 
 h3. Einreichung
 
+*Die Einreichungsfrist für den esPrix 2011 beginnt am 1. März 2011 und endet am 31. September 2011.*
 
-Die Einreichungsfrist für den esPrix 2011 beginnt am 1. März 2011 und endet am 31. September 2011.
-
-Schicken Sie Ihre Vorschläge bitte an "esprix@prometheus-bildarchiv.de":mailto:esprix@prometheus-bildarchiv.de
+Schicken Sie Ihre Vorschläge bitte an "esprix@prometheus-bildarchiv.de":mailto:esprix@prometheus-bildarchiv.de.
