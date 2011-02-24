@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Archipenko, Alexander: Blaue T\xC3\xA4nzerin, 1913, Bronze, Sammlung Campbell, Toronto; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Kandinsky, Wassily: Tanzkurven zu den T\xC3\xA4nzen der Palucca, 1926, Zeichnung, o.O.; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau"
+- "Nolde, Emil: T\xC3\xA4nzerin, 1913, Lithographie, Kunsthalle, Kiel; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Kolbe, Georg: T\xC3\xA4nzerin, 1905, Bronze, verschollen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Kirchner, Ernst Ludwig: Negertanz, 1911, \xC3\x96l auf Leinwand, Kunstsammlung Nordrhein-Westfalen, D\xC3\xBCsseldorf; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Erfurth, Hugo: Mary Wigman, in: \"Triste\" aus \"Tanzrythmen I\", 1921, Fotografie/Silbergelatine,  Kunsthaus, Z\xC3\xBCrich; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Toulouse-Lautrec, Henri: Troupe de Mademoiselle Eglantine, 1896, Plakat/Lithographie, Victoria and Albert Museum, London; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+- "Schlemmer, Oskar: Spirale, Figurine f\xC3\xBCr das Triadische Ballett, Daisy Spies, 1926; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: "\xE2\x80\x9ENo dancing without ecstasy!\xE2\x80\x9C"
+subtitle: Tanzdarstellungen der Moderne
+date: 2011/02/24
+teaser: "Das titelgebende Zitat stammt von der T\xC3\xA4nzerin Mary Wigman (1886-1973), die mit Lo\xC3\xAFe Fuller (1862-1928) und Gret Palucca (1902-1993) eine bedeutende Rolle in der Entwicklung des Ausdruckstanzes spielte."
+collection: 25293
+---
+Das titelgebende Zitat stammt von der Tänzerin Mary Wigman (1886-1973), die mit Loïe Fuller (1862-1928) und Gret Palucca (1902-1993) eine bedeutende Rolle in der Entwicklung des Ausdruckstanzes spielte. Die Tänze boten vielfach Anregung für Künstler der Moderne, ebenso wie  der populäre Varieté-Tanz oder der aus den USA stammenden Swing. Mit Kunstwerken aus den ersten drei Jahrzehnten des 20. Jahrhunderts beleuchtet das Sprengel Museum eine interessante Wechselbeziehung zwischen bildender und darstellender Kunst.
+
+*"„Ohne Ekstase kein Tanz!“ Tanzdarstellungen der Moderne. Vom Varieté zur Bauhausbühne":http://www.sprengel-museum.de/ausstellungen/ohne-ekstase-kein-tanz-tanzdarstellungen-der-moderne-vom-variete-zur-bauhausbuehne.htm?snr=1, 2. Februar -  1 Mai 2011, Sprengel Museum Hannover*
+
+
