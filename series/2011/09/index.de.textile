@@ -10,7 +10,7 @@ descriptions:
 - "Schlemmer, Oskar: Spirale, Figurine f\xC3\xBCr das Triadische Ballett, Daisy Spies, 1926; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
-title: "\xE2\x80\x9ENo dancing without ecstasy!\xE2\x80\x9C"
+title: "\xE2\x80\x9EOhne Ekstase kein Tanz!\xE2\x80\x9C "
 subtitle: Tanzdarstellungen der Moderne
 date: 2011/02/24
 teaser: "Das titelgebende Zitat stammt von der T\xC3\xA4nzerin Mary Wigman (1886-1973), die mit Lo\xC3\xAFe Fuller (1862-1928) und Gret Palucca (1902-1993) eine bedeutende Rolle in der Entwicklung des Ausdruckstanzes spielte."
