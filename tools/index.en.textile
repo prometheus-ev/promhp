@@ -1,6 +1,6 @@
----
+--- 
 layout: default
-title: Tools
+title: Tools and Learning
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=7&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 h2. <%= page_title %>
@@ -14,6 +14,9 @@ Information about the learning platform ILIAS.
 
 "» Study modules":<%=r 'tools/modules' %>
 Digital study contents to support both the present teaching and the self study.
+
+"» esPrix":<%=r 'tools/esprix' %>
+The collegiate prometheus-award for German-speaking, media-didactical applications in the field of cultural sciences.
 
 "» Databases":<%=r 'tools/databases' %>
 Image database applications.

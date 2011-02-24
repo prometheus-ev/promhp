@@ -1,0 +1,16 @@
+--- 
+layout: default
+title: esPrix
+---
+h2. <%= page_title %>
+
+Der esPrix ist ein mediendidaktischer Preis, der bereits zweimal von prometheus e.V. an studentische Anwendungen verliehen wurde. Hier werden die prämierten Projekte der vergangenen Jahre vorgestellt.
+
+h3. esPrix 2005 
+
+!<%=r "files/images/mauerreste-start-thumb.jpg" %>(screenshot mauer_reste_start)!
+"» mauer_reste von Hans-Stefan Bolz":<%=r "esprix/mauer-reste" %>
+
+h3. esPrix 2007 
+
+"» Präsentationsformen etruskischer Gräber in Museen des 19. und 20. Jahrhunderts unter besonderer Berücksichtigung der Tomba dei Rilievi in Cerveteri von Sarah Scheffler":<%=r "esprix/etruscian-tombs" %>

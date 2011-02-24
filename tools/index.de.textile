@@ -1,6 +1,6 @@
----
+--- 
 layout: default
-title: Werkzeuge
+title: Tools und Lernen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=7
 ---
 h2. <%= page_title %>
@@ -14,6 +14,9 @@ Informationen zur Lernplattform ILIAS.
 
 "» Lernmodule":<%=r 'tools/modules' %>
 Digitale Lerninhalte zur Unterstützung der Präsenzlehre und des Selbststudiums.
+
+"» esPrix":<%=r 'tools/esprix' %>
+Der studentische prometheus-Preis für deutschsprachige mediendidaktische Anwendungen im Bereich der Kulturwissenschaften.
 
 "» Datenbanken":<%=r 'tools/databases' %>
 Bilddatenbank-Lösungen.
