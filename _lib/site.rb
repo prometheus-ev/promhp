@@ -16,6 +16,7 @@ module Jekyll
 
       if File.readable?(file = File.join(source, '_config', "#{env}.yml"))
         config.update(YAML.load_file(file))
+        config[:env] = env
       else
         warn "Config file not found: #{file}"
       end
