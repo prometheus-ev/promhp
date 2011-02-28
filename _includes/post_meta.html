@@ -8,4 +8,6 @@
   <span class="pale">|</span>
   Tags: <%= tags %>
 <% end %>
+  <span class="pale">|</span>
+  <%=t 'Comments', 'Kommentare' %>: <a href="<%=r post.url %>#disqus_thread" data-disqus-identifier="<%= disqus_identifier(post) %>">?</a>
 </p>

@@ -13,6 +13,10 @@ module Jekyll
     end
 
     def page_title(head = false)
+      page_title_for(page, head)
+    end
+
+    def page_title_for(page, head = false)
       parts, title = page.url.sub(/\A\//, '').split('/'), page.title
 
       case parts.first
@@ -86,6 +90,42 @@ module Jekyll
       else
         author
       end
+    end
+
+    def disqus(post)
+      if post.is_a?(Symbol)
+        post, type = page, post
+      else
+        type = 'embed'
+        vars = <<-EOT
+  var disqus_identifier = '#{disqus_identifier(post)}';
+  var disqus_url        = '#{@site.url + post.url}';
+  var disqus_title      = '#{page_title_for(post).gsub(/'/, '&apos;')}';
+        EOT
+      end
+
+      _ = <<-EOT
+<script type="text/javascript">
+  var disqus_shortname  = '#{@site.disqus}';
+  var disqus_developer  = #{@site.env == 'live' ? 0 : 1};
+
+#{vars}
+
+  var disqus_config = function() {
+    this.language = '#{post.lang == 'de' ? 'de_formal' : post.lang}';
+  };
+
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'http://' + disqus_shortname + '.disqus.com/#{type}.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+      EOT
+    end
+
+    def disqus_identifier(post)
+      @site.env + post.id.sub(/\.[a-z]{2}\z/, '')
     end
 
   end

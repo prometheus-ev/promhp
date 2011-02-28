@@ -6,4 +6,10 @@ layout: default
 
 <%= @content %>
 
-<%= include_file 'disqus.html' if @site.disqus %>
+<div id="disqus_thread"></div>
+<%= disqus(page) %>
+<%= disqus(:count) %>
+<noscript>
+  <em><%=t 'JavaScript is not enabled.', 'JavaScript ist nicht aktiviert.' %></em>
+  <a href="http://<%= @site.disqus %>.disqus.com/?url=ref"><%=t 'View comments on Disqus.', 'Kommentare bei Disqus anzeigen.' %></a>
+</noscript>

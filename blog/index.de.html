@@ -1,6 +1,5 @@
 ---
 layout: default
-monolingual: true
 title: prometheus-Blog
 ---
 <% for post in @paginator.posts %>
@@ -14,3 +13,5 @@ title: prometheus-Blog
     <%= paginator_navigation %>
   </div>
 </div>
+
+<%= disqus(:count) %>
