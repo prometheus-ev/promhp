@@ -2,6 +2,8 @@
 layout: default
 ---
 <h2><%= page_title %></h2>
-<%= include_file 'post_meta.html', :post => @page %>
+<%= include_file 'post_meta.html', :post => page %>
 
 <%= @content %>
+
+<%= include_file 'disqus.html' if @site.disqus %>

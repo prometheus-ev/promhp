@@ -1,0 +1,23 @@
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  var disqus_shortname  = '<%= @site.disqus %>';
+  var disqus_developer  = <%= ENV['JEKYLL_ENV'] == 'live' ? 0 : 1 %>;
+
+  var disqus_identifier = '<%= page.id.sub(/\.[a-z]{2}\z/, '') %>';
+  var disqus_url        = '<%= @site.url + page.url %>';
+  var disqus_title      = '<%= page_title.gsub(/'/, '&apos;') %>';
+
+  var disqus_config = function() {
+    this.language = '<%= page.lang == 'de' ? 'de_formal' : page.lang %>';
+  };
+
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>
+  <br /><em><%=t 'JavaScript is not enabled.', 'JavaScript ist nicht aktiviert.' %></em>
+  <a href="http://<%= @site.disqus %>.disqus.com/?url=ref"><%=t 'View comments on Disqus.', 'Kommentare bei Disqus anzeigen.' %></a>
+</noscript>

@@ -305,3 +305,7 @@ div.highlight pre code:after {
   margin-left:    8px;
   vertical-align: bottom;
 }
+
+#dsq-content ul {
+  width:          inherit;
+}
