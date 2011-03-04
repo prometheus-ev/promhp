@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Struth, Thomas: Clinton Road, London, (Ausschnitt) 1977, Fotografie/Silbergelatine, 41 x 58 cm, Privatbesitz;   Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Struth, Thomas: Corso Vittorio Emanuele, Neapel (Ausschnitt), 1989, Fotografie/Silbergelatine, 46 x 57,5 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Struth, Thomas: Crosby Street, New York (Ausschnitt), 1978, Fotografie/Silbergelatine, 44 x 56 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Struth, Thomas: South Lake Street Apartments II, Chicago (Ausschnitt), 1990,  Fotografie/Silbergelatine, 46 x 57 cm, im Besitz des K\xC3\xBCnstlers; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Struth, Thomas: The Smith Family, Fife, Scotland (Ausschnitt), 1989, Fotografie/C-Print, 69,7 x 96,3 cm, Museum Ludwig, K\xC3\xB6ln; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Struth, Thomas: Mus\xC3\xA9e du Louvre IV (Ausschnitt), 1989, Fotografie, 184 x 217 cm, o.O.; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln"
+- "Struth, Thomas: Hermitage 1, Saint Petersburg (Ausschnitt), 2005, o.O.; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin"
+- "Struth, Thomas: Alte Pinakothek, M\xC3\xBCnchen, Selbstportr\xC3\xA4t (Ausschnitt), 2000, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+title: Thomas Struth
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Fotografien
+date: 2011/03/04
+teaser: "Mit zahlreichen Ausstellungen in ganz Europa und den USA hat der 1954 geborene Fotograf Thomas Struth internationale Anerkennung erlangt. "
+collection: 25388
+---
+Mit zahlreichen Ausstellungen in ganz Europa und den USA hat der 1954 geborene Fotograf Thomas Struth internationale Anerkennung erlangt. Einen Überblick über sein Gesamtschaffen hat es bisher jedoch noch nicht gegeben. Neben den frühen Werken, wie der Folge der „Straßen“, den Dschungel-Bildern, genannt „Paradises“, und den berühmten Museumsszenen, den „Audiences“, werden nun von der Kunstsammlung Nordrhein Westfalen auch seine jüngsten Arbeiten gezeigt: Monumentale Bilder aus technischen Großanlagen, wie zum Beispiel Atomkraftwerken, dokumentieren und hinterfragen einen Fortschrittsglauben, der sich allein auf Wissenschaft und Technik stützt. 
+
+* „Thomas Struth – Fotografien 1978 – 2010“: http://www.kunstsammlung.de/, bis 19. Juni 2011, Kunstsammlung Nordrhein Westfalen, K20*
