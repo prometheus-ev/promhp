@@ -26,12 +26,16 @@
   <script type="text/javascript">Prometheus.lang = '<%= page.lang %>';</script>
 
   <link rel="shortcut icon" type="image/x-icon" href="<%=r 'favicon.ico' %>" />
+  <link rel="canonical" href="<%= @site.url + page.url %>" />
 <% for lang in other_langs -%>
   <link rel="alternate" href="<%= @site.url + url_lang(page.url, lang) %>" hreflang="<%= lang %>" title="<%=t 'This page in', 'Diese Seite auf' %> <%= human_lang(lang) %>" />
 <% end -%>
   <link rel="alternate" type="application/atom+xml" href="<%=r "atom.xml.#{@page.lang}" %>" title="<%= title %>" />
 
   <meta name="author" content="<%=h @site.name %>" />
+<% if description = page.description || t(@site.description, @site.description_de) -%>
+  <meta name="description" content="<%=h description %>" />
+<% end -%>
 </head>
 <body>
   <a name="top"></a>
