@@ -4,15 +4,15 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><%= @site.title %></title>
-  <link href="<%= "#{@site.url}/atom.xml.#{@page.lang}" %>" rel="self"/>
-  <link href="<%= @site.url %>"/>
+  <title><%=t @site.title, @site.title_de %></title>
+  <link href="<%= @site.url + page.url %>" rel="self" />
+  <link href="<%= @site.url %>" />
   <updated><%= date_to_xmlschema(@site.time) %></updated>
   <id><%= @site.url %></id>
- <author>
-   <name><%= @site.author %></name>
-   <email><%= @site.email %></email>
- </author>
+  <author>
+    <name><%=h @site.name %></name>
+    <email><%= @site.email %></email>
+  </author>
 
 <% for post in local_posts -%>
   <entry>

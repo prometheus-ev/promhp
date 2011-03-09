@@ -17,18 +17,30 @@ module Jekyll
     end
 
     def page_title_for(page, head = false)
-      parts, title = page.url.sub(/\A\//, '').split('/'), page.title
+      title = page.title.dup if page.title
+      parts = page.url.sub(/\A\//, '').split('/')
 
-      case parts.first
-        when /\A\d+\z/
-          pre = "#{t('prometheus Blog', 'prometheus-Blog')} - " if head
-          "#{pre}#{title}"
-        when 'series'
-          num = parts.values_at(-2, -3).map { |i| i.to_i }.join(' / ')
-          "#{t('Image series', 'Bildserie')} #{num}: #{title}"
+      if blog?(page.url)
+        suffix = t('prometheus Blog', 'prometheus-Blog') if head
+
+        if @paginator
+          title, page = suffix || title, @paginator.page
+          title << " (#{t('Page', 'Seite')} #{page})" if page > 1
         else
-          title
+          title ||= if parts[0] == @site.tag_page_dir
+            page.tag ? %Q{Tag "#{page.tag}"} : 'Tags'
+          elsif parts[1] == 'author'
+            page.author ? %Q{#{t('Author', 'Autor')} "#{page.author}"} : t('Authors', 'Autoren')
+          end
+
+          title << ' - ' << suffix if suffix
+        end
+      elsif parts[0] == 'series'
+        num = parts.values_at(-2, -3).map { |i| i.to_i }.join(' / ')
+        title.insert(0, "#{t('Image series', 'Bildserie')} #{num}: ")
       end
+
+      title
     end
 
     def paginator_first_link

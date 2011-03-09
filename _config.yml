@@ -1,20 +1,19 @@
 ---
-title:    The prometheus Image Archive
-title_de: Das prometheus-Bildarchiv
+name:  'prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre'
+email: info@prometheus-bildarchiv.de
 
-author:   prometheus
-email:    info@prometheus-bildarchiv.de
+title:
+  'The prometheus Image Archive: High-quality images from the fields of arts, culture and history'
+title_de:
+  'Das prometheus-Bildarchiv: Hochwertige Bilder zu Kunst, Kultur und Geschichte'
 
 engine:   erb
+exclude:  [Rakefile]
 pygments: true
 
-paginate: 10
-paginate_files:
-- blog/index.de.html
-- blog/index.en.html
-
-exclude:   [Rakefile]
-permalink: /blog/:title
+paginate:       10
+paginate_files: [blog/index.de.html, blog/index.en.html]
+permalink:      /blog/:title
 
 tag_page_dir:    tag
 tag_page_layout: tag_page
