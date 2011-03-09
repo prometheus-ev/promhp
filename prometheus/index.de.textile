@@ -13,7 +13,7 @@ h3. Begriffe
 
 h4(#searching). Suchen - In vielen Bilddatenbanken unter einer Oberfläche recherchieren
 
-Aktuell können Sie in <span id="source_count">knapp 60</span> Bilddatenbanken der Kunst-, Design- und Architekturgeschichte, Theologie, Geschichte und Archäologie mit insgesamt <span id="record_count">über 730.000</span> Bildern suchen. Ihnen steht eine einfache Suche zur Verfügung, die über alle Felder nach den von Ihnen eingegebenen Begriffen sucht oder die erweiterte Suche, mit der Sie die Suchbegriffe auf unterschiedliche Art kombinieren, eine Datenbankauswahl treffen und somit gezielter suchen können.
+Aktuell können Sie in <%= source_count %> Bilddatenbanken der Kunst-, Design- und Architekturgeschichte, Theologie, Geschichte und Archäologie mit insgesamt <%= record_count %> Bildern suchen. Ihnen steht eine einfache Suche zur Verfügung, die über alle Felder nach den von Ihnen eingegebenen Begriffen sucht oder die erweiterte Suche, mit der Sie die Suchbegriffe auf unterschiedliche Art kombinieren, eine Datenbankauswahl treffen und somit gezielter suchen können.
 
 h4(#collecting). Sammeln - Die gefundenen Bilder an einem Ort zu einem Thema zusammenstellen
 

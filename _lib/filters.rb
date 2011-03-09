@@ -128,6 +128,22 @@ module Jekyll
       @site.env + post.id.sub(/\.[a-z]{2}\z/, '')
     end
 
+    def record_count
+      %Q{<span id="record_count">#{t('more than 750,000', 'mehr als 750.000')}</span>}
+    end
+
+    def source_count
+      %Q{<span id="source_count">#{t('60', '60')}</span>}
+    end
+
+    def license_count
+      %Q{<span id="license_count">#{t('over 120', 'über 120')}</span>}
+    end
+
+    def user_count
+      %Q{<span id="user_count">#{t('over 10,000', 'über 10.000')}</span>}
+    end
+
   end
 
 end

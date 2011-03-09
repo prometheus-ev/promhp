@@ -36,7 +36,7 @@ h2. <%= page_title %>
 <tr><td class="text_10years">The cooperative project „Meta-Image“ – funded by the DFG – is launched. It aims at developing a virtual environment that supports visual discourse in image-based sciences. With “Meta-Image” the possibilities of image annotation and collaborative work with digital images in prometheus are tested and extended. <span class="pale">|</span> "» Project description":<%=r 'projects/meta-image' %></td>
  <td><img src="<%=r 'files/images/timeline_10years/2010.png' %>" class="dimmed"></td>
  </tr>
-<tr><td class="text_10years">10 years prometheus. That means <span id="source_count">59</span> integrated databases, <span id="records_count">nearly 750.000</span> images, <span id="account_count">over 10.000</span> personal accounts and <span id="institution_count">119</span> licensed institutions. Quite a success! And we want to share it with you. To celebrate its anniversary, prometheus will arrange a ceremonial act and a major congress on November 4-5. You are cordially invited!</td>
+<tr><td class="text_10years">10 years prometheus. That means <%= source_count %> integrated databases, <%= record_count %> images, <%= user_count %> personal accounts and <%= license_count %> licensed institutions. Quite a success! And we want to share it with you. To celebrate its anniversary, prometheus will arrange a ceremonial act and a major congress on November 4-5. You are cordially invited!</td>
  <td><img src="<%=r 'files/images/timeline_10years/2011.png' %>"></td>
  </tr>
  </table>

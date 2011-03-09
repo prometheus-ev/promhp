@@ -13,7 +13,7 @@ h3. Tags
 
 h4(#searching). Searching - Search in multiple image databases within one surface
 
-Currently you are able to search in <span id="source_count">nearly 60</span> art historian, design, architectural, theological, historian and archaeological image databases with <span id="record_count">over 730,000</span> images in total. The prometheus archive offers you a simple search that searches in all fields for your query terms or an advanced search that allows you to combine your search criteria in different ways or to pick certain databases for a more selective search.
+Currently you are able to search in <%= source_count %> art historian, design, architectural, theological, historian and archaeological image databases with <%= record_count %> images in total. The prometheus archive offers you a simple search that searches in all fields for your query terms or an advanced search that allows you to combine your search criteria in different ways or to pick certain databases for a more selective search.
 
 h4(#collecting). Collecting - Assemble your topical images in one place
 
