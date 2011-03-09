@@ -125,7 +125,7 @@ module Jekyll
     end
 
     def disqus_identifier(post)
-      @site.env + post.id.sub(/\.[a-z]{2}\z/, '')
+      @site.env + post.id.sub(Localization::LANG_END_RE, '')
     end
 
     def record_count

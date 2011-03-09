@@ -16,7 +16,7 @@ module Jekyll
     end
 
     def basename
-      slug.sub(/\.[a-z]{2}\z/, '')
+      slug.sub(Localization::LANG_END_RE, '')
     end
 
     def title
@@ -27,7 +27,7 @@ module Jekyll
 
     # Overwrites the original method to drop the language extension.
     def url
-      _prometheus_original_url.sub(/#{Localization::LANG_EXT_RE}\z/, '')
+      _prometheus_original_url.sub(Localization::LANG_END_RE, '')
     end
 
     alias_method :_prometheus_original_destination, :destination
