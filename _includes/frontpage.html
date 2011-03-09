@@ -14,33 +14,35 @@
 
 <div id="greeting">
   <%= include_file "greeting.#{page.lang}.html" %>
-<div id="links">
-  <ul>
-    <li>
-      <% link = %Q{<a href="#{r 'prometheus'}">%s</a>} %><%=
-        link % %Q{<img src="#{r 'files/icons/info.gif'}" alt="Info" />}
-      %><%=
-        link % t('Learn more about us', 'Erfahren Sie mehr über uns')
-      %>
-    </li>
-    <li>
-      <% link = %Q{<a href="#{p 'signup'}">%s</a>} %><%=
-        link % %Q{<img src="#{r 'files/icons/signup.gif'}" alt="Signup" />}
-      %><%=
-        link % t('Sign up for prometheus', 'Melden Sie sich bei prometheus an')
-      %>
-    </li>
-  </ul>
-  <% if first_post = local_posts.first %>
+
+  <div id="links">
+    <ul>
+      <li>
+        <% link = %Q{<a href="#{r 'prometheus'}">%s</a>} %><%=
+          link % %Q{<img src="#{r 'files/icons/info.gif'}" alt="Info" />}
+        %><%=
+          link % t('Learn more about us', 'Erfahren Sie mehr über uns')
+        %>
+      </li>
+      <li>
+        <% link = %Q{<a href="#{p 'signup'}">%s</a>} %><%=
+          link % %Q{<img src="#{r 'files/icons/signup.gif'}" alt="Signup" />}
+        %><%=
+          link % t('Sign up for prometheus', 'Melden Sie sich bei prometheus an')
+        %>
+      </li>
+    </ul>
+  <% if first_post = local_posts.first -%>
     <p>
       <strong><%=t 'Currently', 'Aktuell' %>:</strong>
       <a href="<%=r(first_post.url)%>" title="<%= "#{date_to_string(first_post.date)}: #{first_post.title}" %>"><%= first_post.title %></a>
     </p>
-  <% end %>
-</div>
-<div id="sticker">
-<a href="<%=p "signup?type=free"%>"><img src="<%=r "files/icons/sticker_1week.#{page.lang}.png"%>" /></a>
-</div>
+  <% end -%>
+  </div>
+
+  <div id="sticker">
+    <a href="<%=p "signup?type=free"%>"><img src="<%=r "files/icons/sticker_1week.#{page.lang}.png"%>" /></a>
+  </div>
 </div>
 
 <br class="clear-float" />

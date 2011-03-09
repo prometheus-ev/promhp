@@ -8,11 +8,11 @@ layout: default
   <%= date_to_string(Date.parse(page.date)) %>
   <span class="pale">|</span>
   <%=t 'By' , 'Von' %>: <%= page.author %>
-  <% if page.collection %>
-    <a href="<%=p "collection/edit/#{page.collection}" %>" title="<%=t 'Show collection in the archive', 'Bildsammlung im Archiv anzeigen' %>">
-      <img src="<%=r 'images/icon/collection.png' %>" class="icon" />
-    </a>
-  <% end %>
+<% if page.collection -%>
+  <a href="<%=p "collection/edit/#{page.collection}" %>" title="<%=t 'Show collection in the archive', 'Bildsammlung im Archiv anzeigen' %>">
+    <img src="<%=r 'images/icon/collection.png' %>" class="icon" />
+  </a>
+<% end -%>
 </p>
 
 <p class="series-start-image">
@@ -22,12 +22,12 @@ layout: default
 <%= @content %>
 
 <div class="series-items">
-<% for item in ImageSeries.items(page) %>
+<% for item in ImageSeries.items(page) -%>
   <div>
     <img src="<%= item %>.jpg" alt="<%= item %>" />
     <!--#include virtual="<%= "#{item}.html.#{page.lang}" %>" -->
   </div>
-<% end %>
+<% end -%>
 </div>
 
 <div class="list_controls">

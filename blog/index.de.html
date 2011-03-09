@@ -2,11 +2,11 @@
 layout: default
 title: prometheus-Blog
 ---
-<% for post in @paginator.posts %>
+<% for post in @paginator.posts -%>
   <h2><a href="<%=r post.url %>"><%= post.title %></a></h2>
   <%= include_file 'post_meta.html', :post => post %>
   <%= post.content %>
-<% end %>
+<% end -%>
 
 <div class="list_controls">
   <div class="pagination">

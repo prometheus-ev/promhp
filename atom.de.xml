@@ -14,14 +14,14 @@ layout: nil
    <email><%= @site.email %></email>
  </author>
 
- <% for post in local_posts %>
- <entry>
-   <title><%=h post.title %></title>
-   <link href="<%= @site.url + post.url %>"/>
-   <updated><%= date_to_xmlschema(post.date) %></updated>
-   <id><%= @site.url + post.id %></id>
-   <content type="html"><%= xml_escape(post.content) %></content>
- </entry>
- <% end %>
+<% for post in local_posts -%>
+  <entry>
+    <title><%=h post.title %></title>
+    <link href="<%= @site.url + post.url %>" />
+    <updated><%= date_to_xmlschema(post.date) %></updated>
+    <id><%= @site.url + post.id %></id>
+    <content type="html"><%= xml_escape(post.content) %></content>
+  </entry>
+<% end -%>
 
 </feed>

@@ -1,13 +1,13 @@
 <p class="post-meta">
   <%= date_to_string(post.date) %>
-<% unless (author = author(post)).nil? %>
+<% unless (author = author(post)).nil? -%>
   <span class="pale">|</span>
   <%=t 'By' , 'Von' %>: <%= author %>
-<% end %>
-<% unless (tags = tags(post)).empty? %>
+<% end -%>
+<% unless (tags = tags(post)).empty? -%>
   <span class="pale">|</span>
   Tags: <%= tags %>
-<% end %>
+<% end -%>
   <span class="pale">|</span>
   <%=t 'Comments', 'Kommentare' %>: <a href="<%=r post.url %>#disqus_thread" data-disqus-identifier="<%= disqus_identifier(post) %>">?</a>
 </p>
