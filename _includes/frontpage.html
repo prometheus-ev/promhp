@@ -41,27 +41,28 @@
   </div>
 
   <div id="sticker">
-    <a href="<%=p "signup?type=free"%>"><img src="<%=r "files/icons/sticker_1week.#{page.lang}.png"%>" /></a>
+    <a href="<%=p 'signup?type=free' %>" title="<%= title = t('One week free trial!', 'Eine Woche kostenlos testen!') %>"><img src="<%=r "files/icons/sticker_1week.#{page.lang}.png" %>" alt="<%= title %>" /></a>
   </div>
 </div>
 
 <br class="clear-float" />
 
 <div id="section-10years">
-<h3 class="section-title"><%=t 'We are celebrating', 'Wir feiern' %></h3>
-<div class="section-item">
-  <a href="<%=r "about/10years" %>" title="<%= t '10 years prometheus', '10 Jahre prometheus' %>"><img src="<%=r "files/images/logo_10years.#{page.lang}.jpg" %>" alt="<%= t '10 years prometheus', '10 Jahre prometheus' %>" /></a>
+  <h3 class="section-title"><%=t 'We are celebrating', 'Wir feiern' %></h3>
 
-  <h4 class="section-heading"><%=t "It's time to celebrate", "prometheus hat Geburtstag" %></h4>
-  <%= t 'Ten exciting, successful, inspiring and eventful years lie behind us. You contributed essentially with your support. THANK YOU!', 'Zehn aufregende, erfolgreiche, inspirierende und ereignisreiche Jahre liegen hinter uns, zu denen Sie mit Ihrer Unterstützung maßgeblich beigetragen haben. HERZLICHEN DANK!' %>
+  <div class="section-item">
+    <a href="<%=r 'about/10years' %>" title="<%= title = t('10 years prometheus', '10 Jahre prometheus') %>"><img src="<%=r "files/images/logo_10years.#{page.lang}.jpg" %>" alt="<%= title %>" /></a>
 
-<br />
+    <h4 class="section-heading"><%=t "It's time to celebrate", 'prometheus hat Geburtstag' %></h4>
+    <%=t 'Ten exciting, successful, inspiring and eventful years lie behind us. You contributed essentially with your support. THANK YOU!', 'Zehn aufregende, erfolgreiche, inspirierende und ereignisreiche Jahre liegen hinter uns, zu denen Sie mit Ihrer Unterstützung maßgeblich beigetragen haben. HERZLICHEN DANK!' %>
 
-<%=t 'Do you remember? Funded by the BmB+F, prometheus started in 2001. At that time, most of us were using slide projection in the classroom.', 'Erinnern Sie sich noch? prometheus startete 2001 als BmB+F gefördertes Verbundprojekt. Damals wurde in den bildbasierten Fächern noch vorwiegend mit Dias gearbeitet.' %>
+  <br />
+
+  <%=t 'Do you remember? Funded by the BmB+F, prometheus started in 2001. At that time, most of us were using slide projection in the classroom.', 'Erinnern Sie sich noch? prometheus startete 2001 als BmB+F gefördertes Verbundprojekt. Damals wurde in den bildbasierten Fächern noch vorwiegend mit Dias gearbeitet.' %>
 
     <span>
       <span class="pale">|</span>
-      <a href="<%=r "about/10years" %>"><%=t '» milestones', '» Meilensteine' %></a>
+      <a href="<%=r 'about/10years' %>"><%=t '» milestones', '» Meilensteine' %></a>
     </span>
   </div>
 </div>
