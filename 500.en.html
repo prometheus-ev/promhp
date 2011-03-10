@@ -1,0 +1,26 @@
+---
+layout: default
+title: Server error
+---
+<h2>500 - <%= page_title %></h2>
+
+<p>
+  <strong>We're really sorry, but an error has occurred on our server!</strong>
+</p>
+
+<p>
+  Hopefully one of these pages will get you back on track:
+  <ul>
+    <li><a href="<%=r 'index' %>">The prometheus Homepage</a></li>
+    <li><a href="<%=p '' %>">The prometheus Image Archive start page</a></li>
+    <li><a href="<%=p 'sitemap' %>">The prometheus Image Archive sitemap</a></li>
+    <li>
+      <a href="javascript:history.back()">Or try going back to the page you were coming from</a>
+      (<noscript>requires JavaScript to be enabled; </noscript>alternatively, just hit your browser's back-button)
+    </li>
+  </ul>
+</p>
+
+<p>
+  You can contact us at <a href="mailto:<%= site.email %>"><%= site.email %></a>. Thank you very much!
+</p>

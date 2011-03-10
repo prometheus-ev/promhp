@@ -41,6 +41,11 @@ RewriteRule \A(?:t3pro|index\.php\z) /? [L,R=permanent]
 # Code login
 RewriteRule \Acode<%= multiview_ext %>(?:\z|/) <%=p 'code' %> [L,R]
 
+# Error
+<% for code in %w[404 500] -%>
+ErrorDocument <%= code %> <%= File.join(uri.path, code) %>
+<% end -%>
+
 # Deflate
 AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript application/x-javascript
 # ... text/xml application/xml application/xhtml+xml
