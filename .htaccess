@@ -1,12 +1,16 @@
 ---
 ---
-<% lang_ext      = '([a-z]{2})'
-   multiview_ext = "(?:\\.html(?:\\.#{lang_ext.delete('()')})?)?" %>
+<%
+  uri = URI.parse(@site.url)
+
+  lang_ext      = '([a-z]{2})'
+  multiview_ext = "(?:\\.html(?:\\.#{lang_ext.delete('()')})?)?"
+-%>
 RewriteEngine On
 
 # Recognize language code in URL; save to cookie and environment variable
 RewriteCond %{REQUEST_URI} \A/<%= lang_ext %>(\z|/.*)
-RewriteRule .* %2 [CO=language:%1:<%= @site.url[/\/([^\/:]+)/, 1] %>:525600,E=LANG:%1]
+RewriteRule .* %2 [CO=language:%1:<%= uri.host %>:525600,E=LANG:%1]
 
 # Extract preferred language from cookie and environment variable
 SetEnvIf Cookie        language=<%= lang_ext %>\b prefer-language=$1

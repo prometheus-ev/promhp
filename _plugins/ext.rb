@@ -3,6 +3,12 @@ Dir["#{ENV['DEVEL']}/jekyll-*/lib"].each { |d| $:.unshift(d) } if ENV['DEVEL']
 LIBDIR = File.expand_path('../../_lib', __FILE__)
 
 %w[
+  uri
+].each { |lib|
+  require lib
+}
+
+%w[
   rendering
   pagination
   localization
