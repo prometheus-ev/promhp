@@ -38,18 +38,18 @@ RewriteRule \A(?:t3pro|index\.php\z) /? [L,R=permanent]
 RewriteRule \Acode<%= multiview_ext %>(?:\z|/) <%=p 'code' %> [L,R]
 
 # Deflate
-#AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript
+AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript
 # ... text/xml application/xml application/xhtml+xml
-#BrowserMatch ^Mozilla/4 gzip-only-text/html
-#BrowserMatch ^Mozilla/4.0[678] no-gzip
-#BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
 
 # Expire
-#ExpiresActive On
+ExpiresActive On
 
 <% {
   '1 month' => %w[image/*],
   '1 week'  => %w[text/css text/javascript application/javascript]
 }.each { |duration, types| types.each { |type| -%>
-#ExpiresByType <%= type %> "access plus <%= duration %>"
+ExpiresByType <%= type %> "access plus <%= duration %>"
 <% } } -%>
