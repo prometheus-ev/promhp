@@ -4,7 +4,7 @@
 <head>
   <!--#set var="url_root" value="<%=r '.' %>" -->
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title><%= [page_title(true), title = t(@site.title, @site.title_de)].compact.join(' | ') %></title>
+  <title><%= [page_title(true), title = t(site.title, site.title_de)].compact.join(' | ') %></title>
 
   <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/application.css' %>" media="all" />
   <!--[if IE]>
@@ -21,19 +21,19 @@
   <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/syntax.css' %>" media="screen, projection" />
 
   <script src="<%=r 'javascripts/prototype.js' %>" type="text/javascript"></script>
-  <script src="<%= @site.pandora_url %>/javascripts/application.js" type="text/javascript"></script>
+  <script src="<%= site.pandora_url %>/javascripts/application.js" type="text/javascript"></script>
   <script src="<%=r 'javascripts/prometheus.js' %>" type="text/javascript"></script>
   <script type="text/javascript">Prometheus.lang = '<%= page.lang %>';</script>
 
   <link rel="shortcut icon" type="image/x-icon" href="<%=r 'favicon.ico' %>" />
-  <link rel="canonical" href="<%= @site.url + page.url %>" />
+  <link rel="canonical" href="<%= site.url + page.url %>" />
 <% for lang in other_langs -%>
-  <link rel="alternate" href="<%= @site.url + url_lang(page.url, lang) %>" hreflang="<%= lang %>" title="<%=t 'This page in', 'Diese Seite auf' %> <%= human_lang(lang) %>" />
+  <link rel="alternate" href="<%= site.url + url_lang(page.url, lang) %>" hreflang="<%= lang %>" title="<%=t 'This page in', 'Diese Seite auf' %> <%= human_lang(lang) %>" />
 <% end -%>
-  <link rel="alternate" type="application/atom+xml" href="<%=r "atom.xml.#{@page.lang}" %>" title="<%= title %>" />
+  <link rel="alternate" type="application/atom+xml" href="<%=r "atom.xml.#{page.lang}" %>" title="<%= title %>" />
 
-  <meta name="author" content="<%=h @site.name %>" />
-<% if description = page.description || t(@site.description, @site.description_de) -%>
+  <meta name="author" content="<%=h site.name %>" />
+<% if description = page.description || t(site.description, site.description_de) -%>
   <meta name="description" content="<%=h description %>" />
 <% end -%>
 </head>
@@ -49,7 +49,7 @@
 
     <div id="menu">
       <div id="logo">
-        <a href="<%=r 'index' %>"><img alt="<%=h @site.name %>" src="<%=r 'images/misc/logo.gif' %>" title="<%=t 'prometheus Homepage', 'prometheus-Homepage' %>" /></a>
+        <a href="<%=r 'index' %>"><img alt="<%=h site.name %>" src="<%=r 'images/misc/logo.gif' %>" title="<%=t 'prometheus Homepage', 'prometheus-Homepage' %>" /></a>
       </div>
 
       <div id="series">
@@ -73,10 +73,10 @@
       <div id="login_wrap"><%= include_file 'login.html' %></div>
       <div id="campus_login_wrap"><%= include_file 'campus_login.html' %></div>
 
-      <div id="navigation"><%= @page.navigation %></div>
+      <div id="navigation"><%= page.navigation %></div>
 
     <% if blog?(page.url) -%>
-      <div id="tag-cloud"><%= tag_cloud(@site) %></div>
+      <div id="tag-cloud"><%= tag_cloud(site) %></div>
     <% end -%>
 
     </div><div id="main">

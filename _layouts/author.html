@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-<h2><%= @page.author %></h2>
+<h2><%= page.author %></h2>
 <p class="post-meta">
-<% if at_pandora = @page.content['pandora'] -%>
+<% if at_pandora = page.content['pandora'] -%>
   <a href="<%=p "account/show/#{at_pandora}" %>"><%=t 'Profile', 'Profil' %></a>
 <% end -%>
-<% if website = @page.content['website'] -%>
+<% if website = page.content['website'] -%>
   <span class="pale">|</span>
   <a href="<%= website %>">Website</a>
 <% end -%>
 </p>
 <ul>
-<% for post in @page.content['posts'] -%>
+<% for post in page.content['posts'] -%>
   <li><a href="<%=r post.url %>"><%= post.title %></a> <span class="post-meta">(<%= date_to_string(post.date) %>)</span></li>
 <% end -%>
 </ul>

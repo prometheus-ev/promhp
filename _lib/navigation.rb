@@ -7,7 +7,7 @@ module Jekyll
     end
 
     def render_navigation_item(item)
-      return '' if !external_url?(item[:url]) && Dir[File.join(@site.source, "#{item[:url]}*")].empty?
+      return '' if !external_url?(item[:url]) && Dir[File.join(site.source, "#{item[:url]}*")].empty?
 
       path = File.join(@dir, basename)
 
@@ -31,7 +31,7 @@ module Jekyll
         YAML.load(
           ERB.new(
             File.read(
-              File.join(@site.source, '_navigation.yml')
+              File.join(site.source, '_navigation.yml')
             )
           ).result(binding)
         )

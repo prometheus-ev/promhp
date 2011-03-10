@@ -1,7 +1,7 @@
 ---
 ---
 <%
-  uri = URI.parse(@site.url)
+  uri = URI.parse(site.url)
 
   lang_ext      = '([a-z]{2})'
   multiview_ext = "(?:\\.html(?:\\.#{lang_ext.delete('()')})?)?"

@@ -27,7 +27,7 @@ module Jekyll
           title, page = suffix || title, @paginator.page
           title << " (#{t('Page', 'Seite')} #{page})" if page > 1
         else
-          title ||= if parts[0] == @site.tag_page_dir
+          title ||= if parts[0] == site.tag_page_dir
             page.tag ? %Q{Tag "#{page.tag}"} : 'Tags'
           elsif parts[1] == 'author'
             page.author ? %Q{#{t('Author', 'Autor')} "#{page.author}"} : t('Authors', 'Autoren')
@@ -97,7 +97,7 @@ module Jekyll
 
     def author(post)
       author = post.is_a?(Jekyll::Post) ? post.data['author'] : post.author
-      if url = @site.authors[author]
+      if url = site.authors[author]
         %Q{<a href="#{r('blog/author/' + author.downcase)}">#{author}</a>}
       else
         author
@@ -111,15 +111,15 @@ module Jekyll
         type = 'embed'
         vars = <<-EOT
   var disqus_identifier = '#{disqus_identifier(post)}';
-  var disqus_url        = '#{@site.url + post.url}';
+  var disqus_url        = '#{site.url + post.url}';
   var disqus_title      = '#{page_title_for(post).gsub(/'/, '&apos;')}';
         EOT
       end
 
       _ = <<-EOT
 <script type="text/javascript">
-  var disqus_shortname  = '#{@site.disqus}';
-  var disqus_developer  = #{@site.env == 'live' ? 0 : 1};
+  var disqus_shortname  = '#{site.disqus}';
+  var disqus_developer  = #{site.env == 'live' ? 0 : 1};
 
 #{vars}
 
@@ -137,7 +137,7 @@ module Jekyll
     end
 
     def disqus_identifier(post)
-      @site.env + post.id.sub(Localization::LANG_END_RE, '')
+      site.env + post.id.sub(Localization::LANG_END_RE, '')
     end
 
     def record_count

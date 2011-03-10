@@ -80,7 +80,7 @@ Aktuell können knapp 600.000 Bilder aus 49 Datenbanken über prometheus recherc
 
 *8.) prometheus -- Kontakt*
 
-Wenn Sie an dem Erwerb einer Lizenz interessiert sind, besuchen Sie unsere Website unter "&lt;<%= @site.url %>/license/fees&gt;":<%=r 'license/fees' %> oder wenden Sie sich als VertreterIn einer Hochschule oder Institution direkt an das HBZ in Köln, Dr. Jochen Johannsen, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de
+Wenn Sie an dem Erwerb einer Lizenz interessiert sind, besuchen Sie unsere Website unter "&lt;<%= site.url %>/license/fees&gt;":<%=r 'license/fees' %> oder wenden Sie sich als VertreterIn einer Hochschule oder Institution direkt an das HBZ in Köln, Dr. Jochen Johannsen, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de
 
 Eine Liste aller Institutionen, die bereits eine Lizenz halten, finden Sie auf der prometheus-Website unter "&lt;<%=p 'institution/licensed' %>&gt;":<%=p 'institution/licensed' %>
 Für Ihre Fragen und Anregungen ist selbstverständlich auch unsere prometheus-Geschäftsstelle für Sie da.

@@ -4,7 +4,7 @@ layout: default
 <h2><%=t 'prometheus bloggers', 'prometheus Blogger' %></h2>
 
 <table>
-<% for author, data in @page.content.sort -%>
+<% for author, data in page.content.sort -%>
   <tr>
     <td><strong><%= author %></strong> (<a href="<%=r "blog/author/#{author.downcase}" %>">Posts: <%= data['post_count'] %></a>)</td>
     <td>

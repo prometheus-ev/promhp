@@ -25,7 +25,7 @@ module Jekyll
 
     def index? # TODO: Puzzle the whole "pagination index in a subdir" stuff in jekyll-pagination gem.
       file = File.join(@dir, name)[1..-1]
-      Pager.paginate_files(@site.config).include?(file)
+      Pager.paginate_files(site.config).include?(file)
     end
 
     alias_method :_prometheus_original_dir=, :dir=
