@@ -100,7 +100,9 @@ body {
   line-height:       2em;
 }
 
-#content > *, #institution_license_renew_form > .list_controls {
+#content > *,
+.section > .list_controls,
+#institution_license_renew_form > .list_controls {
   padding-left:      10px;
   padding-right:     10px;
 }
@@ -632,6 +634,7 @@ body.administration-controller.index-action .gap {
   display:           inline;
   height:            100px;
   width:             260px;
+  font-size:         inherit;
 }
 
 #statusbar {
@@ -1170,7 +1173,8 @@ div.slide input[type=radio] {
 #references-section                     div.section,
 #comments-section                       div.section,
 #user_administrators-section            div.section,
-body.account-controller.settings-action div.section {
+body.account-controller.settings-action div.section,
+div.section div.none {
   width:             650px;
   margin:            10px;
 }
@@ -2194,4 +2198,12 @@ body.source-controller.validate-action #errors {
 
 body.source-controller.validate-action #errors.invalid {
   border-color:      rgb(201,0,0);
+}
+
+pre.bounce_error {
+  white-space:       normal;
+  padding:           10px;
+  margin:            0 10px;
+  color:             rgb(0,0,0);
+  background-color:  rgb(180,180,180);
 }

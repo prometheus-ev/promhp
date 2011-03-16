@@ -2,7 +2,11 @@
   height:            108px;
 }
 
-#logo, #tags-map, #greeting, #greeting #links, #sticker {
+#logo {
+  margin:            0;
+}
+
+#logo, #series, #tags-map, #greeting, #greeting #links, #sticker {
   float:             left;
 }
 
@@ -11,7 +15,6 @@
 }
 
 #series {
-  float:             left;
   padding-top:       14px;
 }
 
