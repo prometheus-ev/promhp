@@ -1,0 +1,10 @@
+--- 
+layout: default
+title: Information for data suppliers
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=72&L=1
+---
+h2. <%= page_title %>
+
+This area is addressed to institutions and individuals interested in integrating a data in prometheus.
+
+All information can also be downloaded as PDF: "» Information for data suppliers":<%=r 'files/text/infos_fuer_dblieferer_01.pdf' %> (German).

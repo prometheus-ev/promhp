@@ -1,10 +1,14 @@
 --- 
 layout: default
-title: "Informationen f\xC3\xBCr Datenbankgeber"
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=72&L=0&skin=0
+title: Datenbanken
 ---
 h2. <%= page_title %>
 
-Dieser Bereich richtet sich an Institutionen oder Personen, die eine bestehende oder geplante Bilddatenbank in prometheus einbinden möchten.
+"» Liste der eingebundenen Datenbanken":<%=p 'source' %>
+Eine Auflistung aller in prometheus eingebundenen Datenbanken.
 
-Alle Informationen können Sie als PDF herunterladen: "» Informationen für Datenbankgeber":<%=r 'files/text/infos_fuer_dblieferer.pdf' %>
+"» Liste der Open-Access-Datenbanken":<%=p 'open_access' %>
+Eine Auflistung derjenigen Datenbanken, die ohne Login zugänglich sind.
+
+"» Informationen für Bildgeber":<%=r 'databases/suppliers' %>
+Informationen zum Einbinden Ihrer Datenbank in prometheus.

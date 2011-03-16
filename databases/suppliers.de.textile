@@ -1,0 +1,10 @@
+--- 
+layout: default
+title: "Informationen f\xC3\xBCr Bildgeber"
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=72&L=0&skin=0
+---
+h2. <%= page_title %>
+
+Dieser Bereich richtet sich an Institutionen oder Personen, die eine bestehende oder geplante Bilddatenbank in prometheus einbinden möchten.
+
+Alle diese Informationen können Sie auch als PDF herunterladen: "» Informationen für Bildgeber":<%=r 'files/text/infos_fuer_dblieferer.pdf' %>.

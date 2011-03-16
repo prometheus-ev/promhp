@@ -87,9 +87,15 @@
   :title_de: Datenbanken
   :url: databases/index
   :content:
+  - :title_en: List of Databases
+    :title_de: Liste der Datenbanken
+    :url: <%= pandora_url 'source' %>
+  - :title_en: List of Open Access Databases
+    :title_de: Liste der Open-Access-Datenbanken
+    :url: <%= pandora_url 'open_access' %>
   - :title_en: Information for Data Suppliers
     :title_de: Informationen für Bildgeber
-    :url: databases/index
+    :url: databases/suppliers
     :content:
     - :title_en: Supplying Data (German)
       :title_de: Bereitstellung der Daten
@@ -106,12 +112,6 @@
     - :title_en: promDILPS
       :title_de: promDILPS
       :url: databases/promdilps
-  - :title_en: List of Databases
-    :title_de: Liste der Datenbanken
-    :url: <%= pandora_url 'source' %>
-  - :title_en: List of Open Access Databases
-    :title_de: Liste der Open Access-Datenbanken
-    :url: <%= pandora_url 'open_access' %>
 - :title_en: Projects
   :title_de: Projekte
   :url: projects
