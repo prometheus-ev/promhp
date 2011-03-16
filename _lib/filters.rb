@@ -4,8 +4,8 @@ module Jekyll
 
     include Helpers
 
-    def r(str)
-      relative_url(str, page.url)
+    def r(str, absolute = page.make_absolute_urls)
+      relative_url(str, page.url, absolute)
     end
 
     def p(*path)

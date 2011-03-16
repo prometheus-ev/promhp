@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<h2><%= page.error %> - <%= page_title %></h2>
+
+<p><strong><%= page.explanation %></strong></p>
+
+<%= @content %>
+
+<p>
+  <%=t 'Hopefully one of these pages will get you back on track',
+       'Hoffentlich wird Sie eine dieser Seiten wieder auf den richtigen Weg bringen' %>:
+  <ul>
+    <li><a href="<%= site.url %>"><%=t(
+      'The prometheus Homepage',
+      'prometheus-Homepage'
+    )%></a></li>
+    <li><a href="<%=p '' %>"><%=t(
+      'The prometheus Image Archive start page',
+      'prometheus-Bildarchiv Startseite'
+    )%></a></li>
+    <li><a href="<%=p 'sitemap' %>"><%=t(
+      'The prometheus Image Archive sitemap',
+      'prometheus-Bildarchiv Sitemap'
+    )%></a></li>
+    <li>
+      <a href="javascript:history.back()"><%=t(
+        'Or try going back to the page you were coming from',
+        'Oder gehen Sie zurück zu der Seite, von der Sie kamen'
+      )%></a> (<noscript><%=t(
+        'requires JavaScript to be enabled',
+        'erfordert, dass JavaScript aktiviert ist'
+      )%>; </noscript><%=t(
+        "alternatively, just hit your browser's back-button",
+        'alternativ betätigen Sie den Zurück-Button Ihres Browsers'
+      )%>)
+    </li>
+  </ul>
+</p>
+
+<p>
+  <%=t 'You can contact us at', 'Unsere Kontaktadresse:' %>
+  <a href="mailto:<%= site.email %>"><%= site.email %></a>.
+</p>

@@ -1,8 +1,6 @@
 ---
 ---
 <%
-  uri = URI.parse(site.url)
-
   lang_ext      = '([a-z]{2})'
   multiview_ext = "(?:\\.html(?:\\.#{lang_ext.delete('()')})?)?"
 -%>
@@ -10,7 +8,7 @@ RewriteEngine On
 
 # Recognize language code in URL; save to cookie and environment variable
 RewriteCond %{REQUEST_URI} \A/<%= lang_ext %>(\z|/.*)
-RewriteRule .* %2 [CO=language:%1:<%= uri.host %>:525600,E=LANG:%1]
+RewriteRule .* %2 [CO=language:%1:<%= site.uri.host %>:525600,E=LANG:%1]
 
 # Extract preferred language from cookie and environment variable
 SetEnvIf Cookie        language=<%= lang_ext %>\b prefer-language=$1
@@ -42,11 +40,11 @@ RewriteRule \A(?:t3pro|index\.php\z) /? [L,R=permanent]
 RewriteRule \Acode<%= multiview_ext %>(?:\z|/) <%=p 'code' %> [L,R]
 
 # esPrix
-RewriteRule \Aesprix<%= multiview_ext %>(?:\z|/) <%= File.join(uri.path, 'tools/esprix/2011') %> [L,R]
+RewriteRule \Aesprix<%= multiview_ext %>(?:\z|/) <%= File.join(site.uri.path, 'tools/esprix/2011') %> [L,R]
 
 # Error
 <% for code in %w[404 500] -%>
-ErrorDocument <%= code %> <%= File.join(uri.path, code) %>
+ErrorDocument <%= code %> <%= File.join(site.uri.path, code) %>
 <% end -%>
 
 # Deflate

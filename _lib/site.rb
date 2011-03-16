@@ -6,6 +6,7 @@ module Jekyll
 
     def process
       load_environment(ENV['JEKYLL_ENV'] ||= 'local')
+      config['uri'] = URI.parse(config['url'])
       _prometheus_original_process
     end
 
@@ -16,7 +17,7 @@ module Jekyll
 
       if File.readable?(file = File.join(source, '_config', "#{env}.yml"))
         config.update(YAML.load_file(file))
-        config[:env] = env
+        config['env'] = env
       else
         warn "Config file not found: #{file}"
       end

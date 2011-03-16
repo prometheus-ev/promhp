@@ -1,26 +1,7 @@
 ---
-layout: default
+layout: error
 title: Serverfehler
+error: 500
+explanation: Es tut uns leid, aber auf unserem Server ist ein Fehler aufgetreten!
+make_absolute_urls: true
 ---
-<h2>500 - <%= page_title %></h2>
-
-<p>
-  <strong>Es tut uns leid, aber auf unserem Server ist ein Fehler aufgetreten!</strong>
-</p>
-
-<p>
-  Hoffentlich wird Sie eine dieser Seiten wieder auf den richtigen Weg bringen:
-  <ul>
-    <li><a href="<%=r 'index' %>">prometheus-Homepage</a></li>
-    <li><a href="<%=p '' %>">prometheus-Bildarchiv Startseite</a></li>
-    <li><a href="<%=p 'sitemap' %>">prometheus-Bildarchiv Sitemap</a></li>
-    <li>
-      <a href="javascript:history.back()">Oder gehen Sie zurück zu der Seite, von der Sie kamen</a>
-      (<noscript>erfordert, dass JavaScript aktiviert ist; </noscript>alternativ betätigen Sie den Zurück-Button Ihres Browsers)
-    </li>
-  </ul>
-</p>
-
-<p>
-  Unsere Kontaktadresse: <a href="mailto:<%= site.email %>"><%= site.email %></a>. Vielen Dank!
-</p>

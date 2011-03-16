@@ -9,10 +9,10 @@ module Jekyll
     def render_navigation_item(item)
       return '' if !external_url?(item[:url]) && Dir[File.join(site.source, "#{item[:url]}*")].empty?
 
-      path = File.join(@dir, basename)
+      path, absolute = File.join(@dir, basename), data['make_absolute_urls']
 
       name = item["title_#{lang}".to_sym]
-      name = "<a href=\"#{relative_url(item[:url], path)}\">#{name}</a>" if item[:url]
+      name = "<a href=\"#{relative_url(item[:url], path, absolute)}\">#{name}</a>" if item[:url]
 
       active = active?(item, path[1..-1])
       content = "\n#{render_navigation_level(item[:content])}\n" if item[:content] && active

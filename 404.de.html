@@ -1,27 +1,7 @@
 ---
-layout: default
+layout: error
 title: Datei nicht gefunden
+error: 404
+explanation: Es tut uns leid, aber die Seite, die Sie aufrufen wollten, konnte nicht gefunden werden!
+make_absolute_urls: true
 ---
-<h2>404 - <%= page_title %></h2>
-
-<p>
-  Es tut uns leid, aber die Seite, die Sie aufrufen wollten, konnte nicht
-  gefunden werden!
-</p>
-
-<p>
-  Hoffentlich wird Sie eine dieser Seiten wieder auf den richtigen Weg bringen:
-  <ul>
-    <li><a href="<%=r 'index' %>">prometheus-Homepage</a></li>
-    <li><a href="<%=p '' %>">prometheus-Bildarchiv Startseite</a></li>
-    <li><a href="<%=p 'sitemap' %>">prometheus-Bildarchiv Sitemap</a></li>
-    <li>
-      <a href="javascript:history.back()">Oder gehen Sie zurück zu der Seite, von der Sie kamen</a>
-      (<noscript>erfordert, dass JavaScript aktiviert ist; </noscript>alternativ betätigen Sie den Zurück-Button Ihres Browsers)
-    </li>
-  </ul>
-</p>
-
-<p>
-  Jedenfalls wären wir Ihnen für eine kurze Mitteilung dankbar: <a href="mailto:<%= site.email %>"><%= site.email %></a>.
-</p>

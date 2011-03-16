@@ -6,9 +6,16 @@ module Jekyll
       str =~ %r{\A[a-z]+://}
     end
 
-    def relative_url(str, current_page_url)
-      return str if external_url?(str)
-      '../' * (current_page_url.count('/') - 1) + str.sub(/\A\//, '')
+    def relative_url(str, current_page_url, absolute = false)
+      if external_url?(str)
+        str
+      elsif absolute
+        uri = site.respond_to?(:uri) ? site.uri : site.config['uri']
+        File.join(uri.path, str)
+      else
+        count = current_page_url.count('/').pred
+        count.zero? ? str.sub(/\A\//, '') : File.join(%w[..] * count, str)
+      end
     end
 
     def pandora_url(path, site = OpenStruct.new(site.config), page = self)
