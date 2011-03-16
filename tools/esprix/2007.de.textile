@@ -1,0 +1,60 @@
+--- 
+layout: default
+title: esPrix 2007 - Präsentationsformen etruskischer Gräber in Museen des 19. und 20. Jahrhunderts unter besonderer Berücksichtigung der Tomba dei Rilievi in Cerveteri
+---
+h2. <%= page_title %>
+
+h3. Die Preisträgerin
+
+*Sarah Scheffler*, Eberhard-Karls-Universität Tübingen
+CD-ROM
+
+Teil der Magisterarbeit "Präsentationsformen etruskischer Gräber in Museen des 19. und 20. Jahrhunderts unter besonderer Berücksichtigung der Tomba dei Rilievi in Cerveteri".
+
+h3. Beurteilung der Jury
+
+h4. Zusammenfassung
+
+Die Präsentation zur Tomba die Rilievi in Cerveteri wurde im Rahmen einer Magisterarbeit erstellt und als selbständige Informationseinheit zu einer Ausstellung konzipiert. Sie wurde mit dem Programm "Mediator" erstellt und als CD-ROM eingereicht. Der Gesamteindruck ist ansprechend, die tief gestaffelte Information aus Text und Bild gut erschlossen, teilweise über Imagemaps und Glossareinblendungen mit Hotspots.
+
+Besonders positiv ist der reflektierte Umgang mit den methodischen, didaktischen und technischen Aspekten in einem 23 Seiten umfassenden Kapitel der Magisterarbeit zu bewerten.
+
+Die Ausstattung ist für die lokale Anwendung in einer Ausstellung ausreichend. Sollte man die CD-ROM zur Nachbereitung mit nach Hause nehmen können, würde man sich eine Ergänzung durch Belege und Anregungen in Anmerkungsform sowie Links zu Internetangeboten wünschen. Die Präsentation ist in Inhalt und Konzeption so lehrreich und überzeugend, dass eine weiterführende Ergänzung und eine navigationsfreundlichere Programmierung auf einer anderen Basis wünschenswert ist!
+
+h4. Inhalt
+
+Der sehr umfangreiche Inhalt ist fundiert, gut recherchiert und belegt, die Auseinandersetzung mit aktuellen Forschungsergebnissen ist Bestandteil der Darlegung. Das Objekt ist umfassend dokumentiert und durch weiterführende und Hintergrundinformationen ergänzt.
+
+Die Texte sind publikumsfreundlich formuliert, ohne sich anzubiedern, Fachausdrücke werden nicht vermieden, sondern erläutert. Kleine grammatische Fehler fallen nicht ins Gewicht.
+
+Der Literaturliste würden Kommentare gut tun, das Abbildungsverzeichnis ist summarisch und nicht mit den einzelnen Abbildungen verknüpft.
+
+h4. Medien
+
+Gemäß der Vorgabe (Präsentation in einem Museumsraum auf einem offline-Rechner) wurden keine Internetangebote berücksichtig oder Links eingefügt, doch wäre das im Rahmen der Literaturliste eine sinnvolle Ergänzung. Bewegte Bilder drängen sich beim Objekt nicht auf, aber als eye-catcher auf der Startseite ist das Betreten des Grabs durch eine handycam-Sequenz am Modell mit einfachsten Mitteln, aber sehr überzeugend umgesetzt. Ton war in der Ausstellung offensichtlich ebenfalls nicht erwünscht, wäre aber als Ergänzung bei manchen Beschreibungen in einer erweiterten Version sinnvoll. Die größere Darstellung einzelner Objekte erfolgt auf den vertiefenden Seiten. Bei manchen Abbildungen allerdings, etwa differenzierten Modellen und Aquarellen, wären Vergrößerungen aus dem Bild heraus erforderlich.
+
+Die Interaktivität konzentriert sich auf die Vertiefung über Imagemaps. Bei der Verknüpfung von Stammbaum und Grabstellen (gens Matuna) wäre eine Anzeige auch von der Grafik zum Stammbaum wünschenswert, der interaktive Plan der Nekropole (Einleitung > Banditaccia-Nekropole) funktioniert in der vorliegenden Version nicht. Sinnvoll wäre auch eine stärkere Verknüpfung zwischen Überblicksbild und beschreibendem Text, wenn auf Objekte hingewiesen wird (prygischer Helm, ...), etwa durch Hervorhebung bei mouseover.
+
+h4. Design
+
+Der Seitenaufbau folgt weitgehend einem einheitlichen, klassischen Schema von Bild und Beischrift und ist vor allem dem Design von Informationstafeln im Museum verpflichtet.
+
+Die Schrift ist sehr leserlich, die Hintergrundfarbe kräftig, aber seriös, Zweck und Thema angepasst, auch die Farbbilder benötigen keinen Rand.
+
+Die Gliederung vieler Textpassagen (gens Matuna > "welche Aussagen ...") könnte klarer strukturiert sein, erforderliche Abstände zwischen Bild und Text oder Text und Rahmen (Glossareinträge) wurden gelegentlich nicht beachtet. Nicht alle Seiten sind durchdacht gegliedert und aufgebaut (Objekte des zivilen Lebens; Tiere) unterstrichene Überschriften und stichwortartige Auflistung (Cerveri) gehören eher auf ein Handout und sollten dem Bildschirmdesign angepasst werden.
+
+h4. Benutzerfreundlichkeit/Usability
+
+Die hierarchische Gliederung ist einleuchtend, Querverbindungen erfolgen über interne Links.
+
+Die Navigation ist weitgehend durch das Programm vorgegeben. Die Hauptpunkte sind durch - im Inhaltsverzeichnis allerdings partiell deaktivierte - Pfeilbuttons mit mouseover-Bezeichnung verfügbar, innerhalb der Kapitel erfolgt die Orientierung in einer breadcrump-Leiste am unteren Bildrand. Das Inhaltsverzeichnis entspricht einer sitemap; wenn technisch möglich, wäre es aufwendig aber wünschenswert, sie zu verlinken und damit die umständliche Navigation zu erleichtern.
+
+Die verschiedenen Möglichkeiten der Verlinkung: Navigation, Info-Buttons zu weiterführenden Seiten, Hervorhebung von Begriffen mit Glossareinblendung, Hotspots in Imagemaps sind vielfältig, aber einleuchtend, und in der Regel durch klare Textanweisungen erläutert.
+
+h4. Technik
+
+Systemvoraussetzungen und erforderliche Bildschirmauflösung sind auf den ursprünglichen Zweck (feste Vorinstallation) ausgerichtet. Einige bugs (im Inhaltsverzeichnis blendet die eigentlich inaktive Hauptnavigation den Film ein und nur durch einen anderen Navigationsbutton wieder aus, in "Stuckobjekte" blendet sich die Überschriftenbezeichnung nach nochmaligem Klick nicht mehr aus) können programmbedingt sein.
+
+Den Ansprüchen der Konzeption ist "Mediator" nur bedingt gewachsen, ein Programmwechsel könnte Abhilfe schaffen.
+
+(Dr. Stefan Brenne, Dr. Bettina Pfleging)

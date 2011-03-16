@@ -56,7 +56,7 @@
     :url: about/staff
 - :title_en: esPrix 2011
   :title_de: esPrix 2011
-  :url: esprix/index
+  :url: tools/esprix/2011
 - :title_en: Licenses
   :title_de: Lizenzen
   :url: license/index
@@ -212,6 +212,19 @@
       - :title_en: Malen mit Flash (German)
         :title_de: Malen mit Flash
         :url: tools/modules/little-applications/malen-mit-flash
+  - :title_en: esPrix (German)
+    :title_de: esPrix
+    :url: tools/esprix
+    :content:
+    - :title_en: 2011 (German)
+      :title_de: 2011
+      :url: tools/esprix/2011
+    - :title_en: 2007 (German)
+      :title_de: 2007
+      :url: tools/esprix/2007
+    - :title_en: 2005 (German)
+      :title_de: 2005
+      :url: tools/esprix/2005
   - :title_en: Databases (German)
     :title_de: Datenbanken
     :url: tools/databases
