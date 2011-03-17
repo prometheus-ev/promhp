@@ -9,8 +9,7 @@ module Jekyll
 
     def initialize(site, base, dir, name)
       _prometheus_original_initialize(site, base, dir, name)
-
-      data['navigation'] = load_navigation
+      load_navigation
     end
 
     alias_method :_prometheus_original_process, :process

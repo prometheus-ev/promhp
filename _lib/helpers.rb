@@ -6,19 +6,18 @@ module Jekyll
       str =~ %r{\A[a-z]+://}
     end
 
-    def relative_url(str, current_page_url, absolute = false)
+    def relative_url(str, url)
       if external_url?(str)
         str
-      elsif absolute
-        uri = site.respond_to?(:uri) ? site.uri : site.config['uri']
-        File.join(uri.path, str)
+      elsif url.is_a?(URI)
+        File.join(url.path, str)
       else
-        count = current_page_url.count('/').pred
+        count = url.count('/').pred
         count.zero? ? str.sub(/\A\//, '') : File.join(%w[..] * count, str)
       end
     end
 
-    def pandora_url(path, site = OpenStruct.new(site.config), page = self)
+    def pandora_url(path, page = self, site = OpenStruct.new(site.config))
       [site.pandora_url, page.lang, *path].compact.join('/')
     end
 
@@ -28,6 +27,7 @@ module Jekyll
       else
         [site.tag_page_dir, site.permalink]
       end
+
       url =~ %r{\A/?(?:#{Regexp.union(/page\d+/, d[0], d[1][%r{\A/:?(\w+)}, 1])})(?:/|\z)}
     end
 

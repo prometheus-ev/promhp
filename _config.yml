@@ -7,9 +7,10 @@ title:
 title_de:
   'Das prometheus-Bildarchiv: Hochwertige Bilder zu Kunst, Kultur und Geschichte'
 
-engine:   erb
-exclude:  [Rakefile]
-pygments: true
+engine:      erb
+exclude:     [Rakefile]
+pygments:    true
+prefix_lang: true
 
 paginate:       10
 paginate_files: [blog/index.de.html, blog/index.en.html]

@@ -5,11 +5,16 @@ module Jekyll
     include Helpers
 
     def r(str, absolute = page.make_absolute_urls)
-      relative_url(str, page.url, absolute)
+      relative_url(str, absolute ? site.uri : page.url)
     end
 
     def p(*path)
-      pandora_url(path, site, page)
+      pandora_url(path, page, site)
+    end
+
+    def canonical_url(lang = page.lang)
+      File.join(site.url, !site.prefix_lang ? url_lang(page.url, lang) :
+        [lang, page.url.sub(/(?:\.html)?#{Localization::LANG_END_RE}/, '')])
     end
 
     def page_title(head = false)
