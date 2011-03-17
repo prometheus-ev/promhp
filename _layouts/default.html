@@ -48,9 +48,7 @@
     <div id="statusbar"><%= include_file 'statusbar.html' %></div>
 
     <div id="menu">
-      <div id="logo">
-        <h1><a href="<%=r 'index' %>"><img alt="<%=h site.name %>" src="<%=r 'images/misc/logo.gif' %>" title="<%=t 'prometheus Homepage', 'prometheus-Homepage' %>" /></a></h1>
-      </div>
+      <h1 id="logo"><a href="<%=r 'index' %>"><img alt="<%=h site.name %>" src="<%=r 'images/misc/logo.gif' %>" title="<%=t 'prometheus Homepage', 'prometheus-Homepage' %>" /></a></h1>
 
       <div id="series">
         <!--#config timefmt="%G/%V" -->
