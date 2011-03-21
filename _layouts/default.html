@@ -73,6 +73,12 @@
 
       <div id="navigation"><%= page.navigation %></div>
 
+      <div id="social_links">
+        <a href="http://facebook.com/pages/prometheus-das-verteilte-digitale-Bildarchiv-für-Forschung-und-Lehre/196945086992289" title="<%=t 'Visit us on Facebook', 'Besuchen Sie uns bei Facebook' %>"><img src="<%=r 'files/icons/facebook.png' %>" alt="facebook" /></a>
+        <a href="http://twitter.com/prometheus_eV" title="<%=t 'Follow us on Twitter', 'Folgen Sie uns bei Twitter' %>"><img src="<%=r 'files/icons/twitter.png' %>" alt="twitter" /></a>
+        <a href="<%=r "atom.xml.#{page.lang}" %>" title="<%=t 'Subscribe to our Blog', 'Abonnieren Sie unser Blog' %>"><img src="<%=r 'files/icons/rss.png' %>" alt="rss" /></a>
+      </div>
+
     <% if blog?(page.url) -%>
       <div id="tag-cloud"><%= tag_cloud(site) %></div>
     <% end -%>

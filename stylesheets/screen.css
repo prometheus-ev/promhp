@@ -140,6 +140,14 @@
   padding-top:       5px;
 }
 
+#social_links {
+  padding:           6px 15px;
+}
+
+#social_links a {
+  margin-right:      4px;
+}
+
 #content {
   margin-top:        0;
 }
