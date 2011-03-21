@@ -315,8 +315,12 @@ body.account-controller.settings-action .edit-form select {
   margin-top:        20px;
 }
 
-#login_wrap .submit_button_wrap {
-  margin-top:        7px;
+.login_form input[type=checkbox] + label {
+  font-size:         smaller;
+}
+
+.login_form .submit_button_wrap {
+  margin-top:        0.5em;
 }
 
 #campus_login_wrap .campus_title {
