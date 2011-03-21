@@ -18,4 +18,4 @@ In den letzten Jahren haben wir Einiges getan, um dies zu ermöglichen. Dieses B
 Jetzt kommt der nächste Schritt: Wir gehen dorthin, wo Kommunikation heute wohl am stärksten stattfindet. Und das sind die sozialen Netzwerke, die das Web in den letzten Jahren hervorgebracht hat.
 
 Allen voran "Facebook":http://facebook.com/pages/prometheus-das-verteilte-digitale-Bildarchiv-für-Forschung-und-Lehre/196945086992289 mit seiner gewaltigen Mitgliederzahl und "Twitter":http://twitter.com/prometheus_ev, das für seine kritische Diskussionskultur bekannt ist.
-Wir hoffen, dort natürlich Personen auf uns aufmerksam zu machen, die bisher noch nichts von prometheus wussten. Es handelt sich dabei aber trotzdem nicht um eine reine Werbeveranstaltung. Wir hoffen das lebhaft mit und über prometheus diskutiert wird und sich ein reger Austausch einstellt.
+Wir hoffen, dort natürlich Personen auf uns aufmerksam zu machen, die bisher noch nichts von prometheus wussten. Es handelt sich dabei aber trotzdem nicht um eine reine Werbeveranstaltung. Wir hoffen, dass lebhaft mit und über prometheus diskutiert wird und sich ein reger Austausch einstellt.
