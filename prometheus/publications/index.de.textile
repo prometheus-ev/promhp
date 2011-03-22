@@ -6,6 +6,6 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=10
 h2. <%= page_title %>
 
 * "Wissenschaftliche Beiträge":<%=r 'prometheus/publications/scientific-articles' %>
-* "Presseeklärungen":<%=r 'prometheus/publications/press-releases' %>
+* "Presseerklärungen":<%=r 'prometheus/publications/press-releases' %>
 * "Pressereaktionen":<%=r 'prometheus/publications/press-reactions' %>
 * "Diplomarbeiten":<%=r 'prometheus/publications/theses' %>
