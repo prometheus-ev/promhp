@@ -8,10 +8,12 @@ Der esPrix ist ein mediendidaktischer Preis, der bereits zweimal von prometheus 
 
 h3. 2011
 
+!<%=r "files/images/esPrix_vorderseite-klein.jpg" %>(postkarte esprix 2011)!:<%=r "tools/esprix/2011" %>
 "» *Ausschreibung zum esPrix 2011*":<%=r "tools/esprix/2011" %>
 
 h3. 2007
 
+!<%=r "files/images/screen_hund.jpg" %>(screenshot etruskische gräber)!:<%=r "tools/esprix/2007" %>
 "» Präsentationsformen etruskischer Gräber in Museen des 19. und 20. Jahrhunderts unter besonderer Berücksichtigung der Tomba dei Rilievi in Cerveteri":<%=r "tools/esprix/2007" %> von Sarah Scheffler
 
 h3. 2005
