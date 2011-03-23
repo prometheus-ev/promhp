@@ -6,5 +6,38 @@ title: index
 
 <h3 style="margin-top:0px;">verbinden - verorten - verwandeln - verankern</h3>
 
-4./5. November 2011
+h3. CALL FOR PAPERS
+
+Deadline: 8. Mai 2011
+
 Universität zu Köln
+4./5. November 2011
+
+prometheus - das verteilte digitale Bildarchiv für Forschung und Lehre feiert runden Geburtstag – 10 Jahre, in denen sich die „Netzwerkgesellschaft“ etabliert hat und die digitalen Bildwissenschaften eine rasante Entwicklung genommen haben – die  Jubiläumstagung möchte weniger auf das Vergangene zurückblicken als vielmehr eine kritische Standortbestimmung liefern und nach zukünftigen Entwicklungen und Visionen für Archäologie, Kunstgeschichte und Bildwissenschaften in den Bereichen der Zusammenführung von Bild und Text, der standortbezogenen Dienste und der 3D-Technologien fragen, diese kritisch beleuchten und methodisch verankern. 
+
+h4. VERBINDEN
+
+10 Jahre prometheus bedeuten auch 10 Jahre Verknüpfung heterogener Datenbestände aus kulturhistorischen Wissensdomänen. Das „Hyperlink-Paradigma“ der Vernetzung ist ‚in die Jahre gekommen‘, Semantic Web-Technologien und ontologiebasierte Wissensrepräsentationen bieten immer ausgereiftere Möglichkeiten zur Kombination und automatisierten Abfrage von Datenbeständen. Mittels „crowdsourcing“ greift die Fachcommunity auf das kollektive Wissen sogenannter ‚Laien‘ zu. Welche innovativen technischen Lösungen sind heute zur Verknüpfung textlicher und visueller Repräsentationen kulturhistorischer Forschungsgegenstände nutzbar? Vor welche Herausforderungen stellen sie die Fachgemeinschaft?
+
+h4. VERORTEN
+
+Mit der technischen Entwicklung der Mobiltelefone zu Multifunktionsgeräten (Smartphones) entstehen gänzlich neue Formen der Verortung für den Kunst- und Museumsbereich. Eingebaute Positionsbestimmung (GPS) und Bewegungssensoren ermöglichen topographisch genaue Führungen. Eine Kamera, kombiniert mit Funktionen wie Kompass und Objekterkennung, fügt visuelle Oberflächen virtuell hinzu und legt dem Besucher/der Besucherin zusätzliche Informationen über die reale Umwelt auf (Augmented Reality). 
+Archäologische Funde, Architekturen und Objekte der bildenden Kunst haben stets ihren Ort, der sich allerdings auch wandeln bzw. verändern kann. Mit den neuen Technologien ergeben sich hier Anknüpfungspunkte für kunst- und kulturhistorische Informationen. Wir fragen nach neuen Modellen und Visionen, die Lokalität und Information aufeinander beziehen. Welcher Mehrwert eröffnet mögliche neue Forschungs- und auch Geschäftsfelder? Welche neuen Rezeptionsformen entstehen? Und welche Vermittlungs- und Vertriebsformen sind dafür notwendig?
+
+h4. VERWANDELN
+
+Die Einschätzung der diesjährigen CeBIT, dass die nächste Generation des Internets dreidimensional und unsere Realität durchdringen werde, hat mit der Verbreitung von 3D-Technologien bereits ihre ersten Umsetzungen im Kunst- und Museumsbereich erfahren: Virtuelle Räume (Photosynth, Google Street View) und Museumsrundgänge, 3D-Animationen und hochaufgelöste Bilder von Kunstwerken im Giga-Pixel-Bereich (Google Art Project) sowie 3D-Dokumentationsfilme scheinen die Erfahrung des Originals obsolet zu machen. Mit der hohen Auflösung und Grafikqualität können der räumliche Kontext und die materiale Beschaffenheit des Objekts zudem in einer Qualität simuliert werden, die teilweise in der unvermittelten Konfrontation des Originals nicht erreicht werden kann.
+Welche Entwicklungen und Anwendungsszenarien sind denkbar - für Lehre und Forschung in der Hochschule oder für die Vermittlung im Museum? Welche Herausforderungen sind damit verbunden? Kritisch hinterfragt werden soll zudem, wie sich der Blick auf die Kunstwerke verändert, wenn wir auf dem Bildschirm mehr Informationen erhalten als vor dem Original - die virtuelle Realität die tatsächliche also übersteigt. 
+
+h4. VERANKERN
+
+Das Aufkommen digitaler Bildarchive und die Produktion digitaler Werkzeuge für den Umgang mit Bildern geht mit der Entwicklung der akademischen Kunstgeschichte und Archäologie zu einer zunehmend sich ausdifferenzierenden Bildwissenschaft einher. Zu fragen ist nach den Gewinnen und Verlusten sowohl in methodischer als auch in ästhetischer, didaktischer und konservatorischer Hinsicht. Welche Konsequenzen hat es, wenn wir des unvermittelten Kontakts mit dem Original, mit seiner Materialität, räumlichen Umgebung etc.  immer weniger zu bedürfen scheinen? Was genau vermögen technische Innovationen (z.B. die automatisierte Zusammenführung von Bild und (wissenschaftlichem) Text (VERBINDEN) die Verknüpfung mit standortbezogenen Diensten (VERORTEN), oder virtuelle Museumsrundgänge (VERWANDELN)) hier zu kompensieren – und zu wessen Vor- oder Nachteil? Inwiefern können neue Technologien herkömmliche Weisen wissenschaftlicher Auseinandersetzung mit Kunstwerken bestätigen und intensivieren, sie beeinflussen und verändern – oder auch behindern und stören? Sind sie tatsächlich in der Lage, den (professionellen und/oder laienhaften) Kontakt mit dem Artefakt auf eine neue Erfahrungs- und auch Reflexionsebene zu heben? Welche Erwartungen dürfen wir an eine Technik
+haben, die sich auch (oder gar primär?) nach Maßgabe des technisch
+Machbaren weiterentwickelt? Gibt es Möglichkeiten der Verweigerung, und kann Verweigerung sinnvoll sein? Ist Fortschrittseuphorie überhaupt noch zeitgemäß?
+
+Bitte reichen Sie ihre Abstracts (max. 2 Seiten, max. 4.000 Zeichen) elektronisch  über easychair bis zum 8. Mai 2011 ein: "Link zum Konferenzsystem(https://www.easychair.org/conferences/?conf=prometheus20110)":https://www.easychair.org/conferences/?conf=prometheus20110
+
+Ansprechpartner:
+Lisa Dieckmann (Kunsthistorisches Institut, Universität zu Köln)
+"lisa.dieckmann@uni-koeln.de":mailto:lisa.dieckmann@uni-koeln.de
+
