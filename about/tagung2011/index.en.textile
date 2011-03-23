@@ -2,9 +2,9 @@
 layout: default
 title: index
 ---
-h2. Digitale Perspektiven - eine schöne Aussicht?
+<h2 style="margin-bottom:5px;">Die digitale Perspektive - eine schöne Aussicht?</h2>
 
-h4. verbinden - verorten - verwandeln - verankern
+<h3 style="margin-top:0px;">verbinden - verorten - verwandeln - verankern</h3>
 
 4./5. November 2011
 Universität zu Köln
