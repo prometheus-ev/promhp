@@ -42,6 +42,9 @@ RewriteRule \Acode<%= multiview_ext %>(?:\z|/) <%=p 'code' %> [L,R]
 # esPrix
 RewriteRule \Aesprix<%= multiview_ext %>(?:\z|/) <%= File.join(site.uri.path, 'tools/esprix/2011') %> [L,R]
 
+# Conference
+RewriteRule \Atagung2011<%= multiview_ext %>(?:\z|/) <%= File.join(site.uri.path, 'about/tagung2011') %> [L,R]
+
 # Error
 <% for code in %w[404 500] -%>
 ErrorDocument <%= code %> <%= File.join(site.uri.path, code) %>
