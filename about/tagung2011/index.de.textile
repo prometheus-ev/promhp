@@ -1,0 +1,11 @@
+--- 
+layout: default
+title: index
+---
+h2. Digitale Perspektiven - eine schöne Aussicht?
+
+h4. verbinden - verorten - verwandeln - verankern
+
+4./5. November 2011
+Universität zu Köln
+
