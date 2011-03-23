@@ -1,6 +1,6 @@
 --- 
 layout: default
-title: esPrix 2007 - Präsentationsformen etruskischer Gräber in Museen des 19. und 20. Jahrhunderts unter besonderer Berücksichtigung der Tomba dei Rilievi in Cerveteri
+title: "esPrix 2007 - Pr\xC3\xA4sentationsformen etruskischer Gr\xC3\xA4ber in Museen des 19. und 20. Jahrhunderts unter besonderer Ber\xC3\xBCcksichtigung der Tomba dei Rilievi in Cerveteri"
 ---
 h2. <%= page_title %>
 
@@ -10,6 +10,8 @@ h3. Die Preisträgerin
 CD-ROM
 
 Teil der Magisterarbeit "Präsentationsformen etruskischer Gräber in Museen des 19. und 20. Jahrhunderts unter besonderer Berücksichtigung der Tomba dei Rilievi in Cerveteri".
+
+!<%=r "files/images/screen_architektur-klein.jpg" %>(screen architektur)!:<%=r "files/images/screen_architektur.jpg" %> !<%=r "files/images/screen_gens-klein.jpg" %>(screen gens)!:<%=r "files/images/screen_gens.jpg" %> !<%=r "files/images/screen_skylla-klein.jpg" %>(screen skylla)!:<%=r "files/images/screen_skylla.jpg" %>
 
 h3. Beurteilung der Jury
 

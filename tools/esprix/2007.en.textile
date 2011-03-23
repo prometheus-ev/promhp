@@ -1,4 +1,4 @@
 --- 
 layout: default
-title: esPrix 2007 - Präsentationsformen etruskischer Gräber in Museen des 19. und 20. Jahrhunderts unter besonderer Berücksichtigung der Tomba dei Rilievi in Cerveteri (German)
+title: "esPrix 2007 - Pr\xC3\xA4sentationsformen etruskischer Gr\xC3\xA4ber in Museen des 19. und 20. Jahrhunderts unter besonderer Ber\xC3\xBCcksichtigung der Tomba dei Rilievi in Cerveteri (German)"
 ---

@@ -4,6 +4,8 @@ title: esPrix 2011
 ---
 h2. <%= page_title %>
 
+!<%=r "files/images/esPrix_vorderseite-klein.jpg" %>(postkarte esprix 2011)!:<%=r "files/images/esPrix_vorderseite.jpg" %>
+
 esPrix - der studentische prometheus-Preis für deutschsprachige mediendidaktische Anwendungen im Bereich der Kulturwissenschaften.
 
 bq. "Gefragt sind kreative studentische Eigenleistungen, die sich durch die Harmonisierung von gutem Inhalt, guter Didaktik und gutem Design auszeichnen!"
