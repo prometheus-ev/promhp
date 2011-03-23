@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Modersohn, Otto: M\xC3\xA4dchen am Birkenstamm (Detail), 1901, \xC3\x96l auf Leinwand, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Modersohn-Becker, Paula: M\xC3\xA4dchen zwischen Birken (Detail), 1890/1910, \xC3\x96l auf Pappe, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Modersohn, Otto: Sommertag (Detail),1894, \xC3\x96l auf Leinwand, o.O.; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Modersohn-Becker, Paula: Birkenallee (Detail), 1900, \xC3\x96l auf Leinwand, 37 x 46, 6 cm, Paula Modersohn-Becker-Stiftung, Bremen; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Modersohn, Otto: Fritz Overbeck beim Malen (Detail), 1900, \xC3\x96l auf Leinwand, Otto-Modersohn-Museum, Fischerhude; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Modersohn-Becker, Paula: Otto Modersohn (Detail), undatiert, Gouache, Otto-Modersohn-Museum, Fischerhude; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Modersohn, Otto: Wertheim. Friedleinsgasse Richtung Engelsbrunnen (Detail), 1922-24, \xC3\x96l auf Nessel, Otto-Modersohn-Museum, Fischerhude; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Modersohn-Becker, Paula: Blick aus dem Atelierfenster der K\xC3\xBCnstlerin in Paris (Detail), 1900, \xC3\x96l / Tempera auf Pappe, 48,7 x 37 cm, Kunsthalle, Bremen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: An artist couple
+subtitle: Paula Modersohn-Becker and Otto Modersohn
+date: 2011/03/23
+teaser: "A donation, containing five canvas and one drawing by Paula Modersohn-Becker as well as three canvas by Otto Modersohn, gives reason to an exhibition in the Albertinum in Dresden. "
+collection: 25635
+---
+A donation, containing five canvas and one drawing by Paula Modersohn-Becker as well as three canvas by Otto Modersohn, gives reason to an exhibition in the Albertinum in Dresden. The museum is presenting the new art works, among the still life showing here in the big picture, together with others hailing from private collections and from the museum inventory.
+
+*"Paula Modersohn-Becker und Otto Modersohn":http://www.skd.museum/en/special-exhibitions/paula-modersohn-becker-otto-modersohn/index.html, „Schaukabinett“, bis 27. März 2011, Staatliche Kunstsammlungen Dresden, Galerie Neue Meister*
