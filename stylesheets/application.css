@@ -215,6 +215,10 @@ input, .search_form select, .input-left-right {
   float:             left;
 }
 
+.search_form img.go_icon {
+  float:             none;
+}
+
 .search_form select {
   margin-right:      3px;
 }
@@ -639,6 +643,10 @@ body.administration-controller.index-action .gap {
   height:            100px;
   width:             260px;
   font-size:         inherit;
+}
+
+#logo_10years {
+  float:             right;
 }
 
 #statusbar {
@@ -2183,7 +2191,8 @@ body.help-controller img.screenshot {
   margin-top:        5px;
 }
 
-body.source-controller.open_access-action .list_row .sample,
+table.source-list .sample,
+#databases-section .list_row .sample,
 body.source-controller.show-action .sample {
   width:             720px;
   white-space:       nowrap;
