@@ -36,7 +36,7 @@ h2. <%= page_title %>
 <tr><td class="text_10years">Das von der DFG geförderte Verbundprojekt “Meta-Image” geht an den Start. Ziel ist der Aufbau einer virtuellen Forschungsumgebung für den Bilddiskurs in den bildbasierten Wissenschaften. Mit dem Projekt werden die Möglichkeiten der digitalen Bildinterpretation und des kollaborativen Arbeitens in prometheus ausgebaut. <span class="pale">|</span> "» Zum Projekt":<%=r 'projects/meta-image' %></td>
  <td><img src="<%=r 'files/images/timeline_10years/2010.png' %>" class="dimmed"></td>
  </tr>
-<tr><td class="text_10years">10 Jahre prometheus, das sind <%= source_count %> integrierte Datenbanken, <%= record_count %> Bilder, <%= user_count %> personalisierte Zugänge und <%= license_count %> lizenznehmende Institutionen – das möchten wir mit Ihnen feiern. Am 4. und 5. November wird prometheus eine Tagung mit Festakt ausrichten, zu der wir Sie schon jetzt herzlich einladen.</td>
+<tr><td class="text_10years">10 Jahre prometheus, das sind <%= source_count %> integrierte Datenbanken, <%= record_count %> Bilder, <%= user_count %> personalisierte Zugänge und <%= license_count %> lizenznehmende Institutionen – das möchten wir mit Ihnen feiern. Am 4. und 5. November wird prometheus eine Tagung mit Festakt ausrichten, zu der wir Sie schon jetzt herzlich einladen. <span class="pale">|</span> "» Zum Call for Papers":<%=r 'about/tagung2011' %></td>
  <td><img src="<%=r 'files/images/timeline_10years/2011.png' %>"></td>
  </tr>
  </table>
