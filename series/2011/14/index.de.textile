@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Arkesilas-Maler: Atlas und der gefesselte Prometheus, Kylix, lakonisch schwarzfigurig, Fundort: Caere (Cerveteri), Standort: Vatikan, Museo Etrusco Gregoriano, Rom; EikOnline, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Altertumswissenschaften, Gie\xC3\x9Fen"
+- "Rubens, Peter Paul: Gefesselter Prometheus (Detail), 1611-12, \xC3\x96l auf Leinwand, 243,5 x 209,5 cm, Museum of Art, Philadelphia; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Brancusi, Constantin: Prometheus, 1911, Marmor, 5cm; Museum of Art, Philadelphia; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln"
+- "Savaiano, Alberto: Prometheus (Detail), 1929, \xC3\x96l auf Leinwand, 79.5 x 65 cm, Privatsammlung; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Breker, Arno: Prometheus (Detail), 1934, Marmor, \xC3\xBCberlebensgro\xC3\x9F, (Bronze-Version im Arno Breker-Museum, Schloss N\xC3\xB6verich); Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Nay, Ernst Wilhelm: Prometheus I (Detail), 1948, \xC3\x96l auf Leinwand, 100,7 x 126 cm, Sprengel Museum, Hannover; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen"
+- "Marcks, Gerhard: Gefesselter Prometheus II (Detail), 1948, Bronze, 79cm; Gerhard-Marcks-Stiftung, Bremen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Masereel, Frans: Prometheus (Detail), 1954, Holzschnitt, 54,5 x 40,2 cm, verschiedene Standorte; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Prometheus
+subtitle: "Zum 10-j\xC3\xA4hrigen Jubil\xC3\xA4um des digitalen Bildarchivs! "
+date: 2011/03/30
+teaser: "Die mythologische Figur des Prometheus, die sich gegen die Titanen auflehnte, den Menschen aus Ton erschuf, ihnen das Feuer brachte und an einen Fels gekettet den Zorn von Zeus ertrug, hat in der Geschichte viele Deutungen erfahren: "
+collection: 24688
+---
+Die mythologische Figur des Prometheus, die sich gegen die Titanen auflehnte, den Menschen aus Ton erschuf, ihnen das Feuer brachte und an einen Fels gekettet den Zorn von Zeus ertrug, hat in der Geschichte viele Deutungen erfahren: Vom Revolutionär, schöpferischen Genie und Gegenbild des christlichen Schöpfergottes, bis zum erduldenden Helden wurde Prometheus von Künstlern, Denkern, Unterdrückten, aber auch Unterdrückern unterschiedlich gesehen und dargestellt.
+
+Der Name des vor genau 10 Jahren gestarteten Projekts, verweist auf die Interpretation von Prometheus als Schöpfer der menschlichen Kultur, deren Bildzeugnisse hier gesammelt und für Forschung und Lehre zur Verfügung gestellt werden. 
+ 
+*Alles Gute zum 10-jährigen!*
