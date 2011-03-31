@@ -31,7 +31,7 @@ task :series_preview do
   Dir.chdir(BASE) {
     cp_r FileList.new(*inc) { |fl| fl.exclude(*exc) }, src
 
-    %W[files/images series/#{num}].each { |path|
+    %W[files/images files/icons series/#{num}].each { |path|
       mkdir_p target = File.join(src, File.dirname(path))
       cp_r path, target
     }
