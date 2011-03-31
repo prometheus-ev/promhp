@@ -11,9 +11,9 @@ descriptions:
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Prometheus
-subtitle: "Zum 10-j\xC3\xA4hrigen Jubil\xC3\xA4um des digitalen Bildarchivs! "
+subtitle: "Zum 10-j\xC3\xA4hrigen Jubil\xC3\xA4um des digitalen Bildarchivs!"
 date: 2011/03/30
-teaser: "Die mythologische Figur des Prometheus, der sich gegen die Titanen auflehnte, den Menschen aus Ton erschuf, ihnen das Feuer brachte und an einen Fels gekettet den Zorn von Zeus ertrug, hat in der Geschichte viele Deutungen erfahren: "
+teaser: Die mythologische Figur des Prometheus, der sich gegen die Titanen auflehnte, den Menschen aus Ton erschuf, ihnen das Feuer brachte und an einen Fels gekettet den Zorn von Zeus ertrug, hat in der Geschichte viele Deutungen erfahren.
 collection: 24688
 ---
 Die mythologische Figur des Prometheus, der sich gegen die Titanen auflehnte, den Menschen aus Ton erschuf, ihnen das Feuer brachte und an einen Fels gekettet den Zorn von Zeus ertrug, hat in der Geschichte viele Deutungen erfahren: Vom Revolutionär, schöpferischen Genie und Gegenbild des christlichen Schöpfergottes, bis zum erduldenden Helden wurde Prometheus von Künstlern, Denkern, Unterdrückten, aber auch Unterdrückern unterschiedlich gesehen und dargestellt.
