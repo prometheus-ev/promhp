@@ -9,7 +9,7 @@ tags:
 - interaktion
 - kontakt
 ---
-!<%=r 'files/icons/facebook.png' %>!:http://facebook.com/pages/prometheus-das-verteilte-digitale-Bildarchiv-für-Forschung-und-Lehre/196945086992289 !<%=r 'files/icons/twitter.png' %>!:http://twitter.com/prometheus_ev
+!<%=r 'files/icons/facebook.png' %>!:http://facebook.com/prometheus.bildarchiv !<%=r 'files/icons/twitter.png' %>!:http://twitter.com/prometheus_ev
 
 Es ist uns ein wichtiges Anliegen, die Kommunikation zwischen allen an prometheus beteiligten Personen, so gut es geht, zu fördern. Wir möchten gerne einen guten Draht zu unseren BenutzerInnen haben, wollen aber auch, dass sie sich untereinander möglichst einfach austauschen können.
 
@@ -17,5 +17,5 @@ In den letzten Jahren haben wir Einiges getan, um dies zu ermöglichen. Dieses B
 
 Jetzt kommt der nächste Schritt: Wir gehen dorthin, wo Kommunikation heute wohl am stärksten stattfindet. Und das sind die sozialen Netzwerke, die das Web in den letzten Jahren hervorgebracht hat.
 
-Allen voran "Facebook":http://facebook.com/pages/prometheus-das-verteilte-digitale-Bildarchiv-für-Forschung-und-Lehre/196945086992289 mit seiner gewaltigen Mitgliederzahl und "Twitter":http://twitter.com/prometheus_ev, das für seine kritische Diskussionskultur bekannt ist.
+Allen voran "Facebook":http://facebook.com/prometheus.bildarchiv mit seiner gewaltigen Mitgliederzahl und "Twitter":http://twitter.com/prometheus_ev, das für seine kritische Diskussionskultur bekannt ist.
 Wir hoffen, dort natürlich Personen auf uns aufmerksam zu machen, die bisher noch nichts von prometheus wussten. Es handelt sich dabei aber trotzdem nicht um eine reine Werbeveranstaltung. Wir hoffen, dass lebhaft mit und über prometheus diskutiert wird und sich ein reger Austausch einstellt.
