@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: MitarbeiterInnen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=509
@@ -10,25 +10,30 @@ h3. Aktuell
 * Lisa Dieckmann M.A. (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Informatik)
 * Arne Eilermann (Köln, Informatik)
 * Hendrikje Hüneke (Giessen, Bildserie)
-* Theresa Nisters (Köln/Rom, Geschäftsstelle)
+* Theresa Nisters (Köln, Geschäftsstelle)
 * Silvia Stark M.A. (Köln, Geschäftsstelle)
 * Katja Vierk (Köln, Geschäftsstelle)
 * Dipl.-Bibl. Jens Wille (Köln, Informatik)
 
 h3. Ehemalige
 
+* Kerstin Albrecht M.A. (Dessau, Design)
 * Sebastian Beßler (Köln, Informatik)
 * Thomas Bodo Block (Köln, Informatik)
 * Ben Burkhard (Köln, Informatik)
 * Rebeca Ehses (Köln, Geschäftsstelle)
 * Dr. Meta Friese (Köln, Geschäftsstelle)
+* Dr. Reinhard Greulich (Köthen, Informatik)
+* Prof. Rochus Hartmann (Köthen, Informatik)
 * Georg Hohmann (Köln, Projektkoordination)
 * Julia Iwanowa M.A. (Berlin, Informatik)
+* Prof. Tina Kindel (Dessau, Design)
 * Ansgar Lorenz (Köln, Geschäftsstelle)
 * Gerd Mörsch M.A. (Köln, Geschäftsstelle)
-* Astrid Puckett (Giessen, Bildserie)
-* Sabine Scheele M.A. (Giessen, Webdesign)
 * Dipl.-Bibl. Thomas Müller (Köln, Informatik)
 * Dr. Jürgen Nemitz (Köln/Marburg, Informatik)
 * Johanna Neumann (Köln, Informatik)
+* Astrid Puckett (Giessen, Bildserie)
+* Claudia Rust M.A. (Giessen, Geschäftsstelle)
+* Sabine Scheele M.A. (Giessen, Webdesign)
 * Dipl. Des. Dirk Schuster (Dessau, Design)

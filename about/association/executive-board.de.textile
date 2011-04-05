@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Vorstand
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=68
@@ -11,6 +11,6 @@ h2. <%= page_title %>
 * "PD Dr. Norbert Eschbach":mailto:norbert.eschbach@geschichte.uni-giessen.de (stellv. Schatzmeister)
 * "Lisa Dieckmann M.A.":mailto:lisa.dieckmann@uni-koeln.de (Schriftführerin)
 * "Dr. Ute Verstegen":mailto:ute.verstegen@theologie.uni-erlangen.de (Beisitzerin)
-* "Dr. Bettina Pfleging":mailto:bettina.pfleging@uni-koeln.de (Beisitzerin)
+* "Dr. Bettina Pfleging":mailto:bettina.pfleging@yahoo.de (Beisitzerin)
 * "PD Dr. Sigrid Ruby":mailto:sigrid.ruby@geschichte.uni-giessen.de (Beisitzerin)
 * "Sabine Scheele M.A.":mailto:sabine.scheele@s2w3.com (Beisitzerin)

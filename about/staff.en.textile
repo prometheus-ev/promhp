@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Members of staff
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=509&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
@@ -17,18 +17,23 @@ h3. Current
 
 h3. Former
 
+* Kerstin Albrecht M.A. (Dessau, Design)
 * Sebastian Beßler (Cologne, Informatics)
 * Thomas Bodo Block (Cologne, Informatics)
 * Ben Burkhard (Cologne, Informatics)
 * Rebeca Ehses (Cologne, Office)
 * Dr. Meta Friese (Cologne, Office)
+* Dr. Reinahrd Greulich (Köthen, Informatics)
+* Prof. Rochus Hartmann (Köthen, Informatics) 
 * Georg Hohmann (Cologne, Project coordination)
 * Julia Iwanowa M.A. (Berlin, Informatics)
+* Prof. Tina Kindel (Dessau, Design)
 * Ansgar Lorenz (Cologne, Office)
 * Gerd Mörsch M.A. (Cologne, Office)
-* Astrid Puckett (Giessen, Image series)
-* Sabine Scheele M.A. (Giessen, Webdesign)
 * Dipl.-Bibl. Thomas Müller (Cologne, Informatics)
 * Dr. Jürgen Nemitz (Cologne/Marburg, Informatics)
 * Johanna Neumann (Cologne, Informatics)
+* Astrid Puckett (Giessen, Image series)
+* Claudia Rust M.A. (Giessen, Office)
+* Sabine Scheele M.A. (Giessen, Webdesign)
 * Dipl. Des. Dirk Schuster (Dessau, Design)
