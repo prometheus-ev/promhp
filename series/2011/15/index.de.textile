@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Richard Long: A Line in the Himalaya, 1975; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Richard Long: A Line in Australia, 1977; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Richard Long: Piemonte Stone Ring, 1984, Sammlung Castello di Rivoli, Turin; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Richard Long: River Avon Mud Hand Circles, 1984, Dublin; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+- "Richard Long: Red Mud Hand Circle, 1987, Athen; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+- "Richard Long: Ocean Stone Circle, 1990, Los Angeles; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Richard Long: Garonne Mud Black Circle, 1990, Bordeaux; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+- "Richard Long: Muddy Feet Line, 1990, Bordeaux; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Richard Long
+subtitle: Land Art im Innenraum
+date: 2011/04/05
+teaser: "Ausgehend von den Arbeiten die Richard Long auf seinen Wanderungen aus vorgefundenen Materialien fertigt, entwickelt der K\xC3\xBCnstler auch Gestaltungen f\xC3\xBCr Museumsr\xC3\xA4ume."
+collection: 25906
+---
+Ausgehend von den Arbeiten die Richard Long auf seinen Wanderungen aus vorgefundenen Materialien fertigt, entwickelt der Künstler auch Gestaltungen für Museumsräume. Hier wie dort spielen Grundformen, wie Kreis und Rechteck, eine dominierende Rolle. In der Natur, wie auch im Museum sind das Wandern und der Prozess des Auffindens und Installierens der Materialien Teile der Arbeit. 
+Neben dem 1996 entstandenen „Berlin Circle“ sind derzeit im Hamburger Bahnhof in Berlin weitere Bodenarbeiten Richard Longs, sowie der vor Ort entstandene „River Avon Mud Circle“ an der Rückwand der ehemaligen Bahnhofshalle ausgestellt.
+
+*"Richard Long. Berlin Circle":http://www.hamburgerbahnhof.de/exhibition.php?id=29822&lang=de, 26. März – 31. Juli 2011, Hamburger Bahnhof – Museum der Gegenwart, Berlin* 

@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Richard Long: A Line in the Himalaya, 1975; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Richard Long: A Line in Australia, 1977; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Richard Long: Piemonte Stone Ring, 1984, Sammlung Castello di Rivoli, Turin; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Richard Long: River Avon Mud Hand Circles, 1984, Dublin; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+- "Richard Long: Red Mud Hand Circle, 1987, Athen; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+- "Richard Long: Ocean Stone Circle, 1990, Los Angeles; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+- "Richard Long: Garonne Mud Black Circle, 1990, Bordeaux; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Richard Long: Muddy Feet Line, 1990, Bordeaux; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Richard Long
+subtitle: Interior Land Art
+date: 2011/04/05
+teaser: Richard Long creates sculptures from collected natural materials
+collection: 25906
+---
+Richard Long creates sculptures from collected natural materials - in the nature as well as in the museum. Simple forms like circle and rectangle play a dominant role.
+Besides the „Berlin Circle“ from 1996 an exhibition in Berlin is presenting some other works arranged on the ground and the „River Avon Mud Circle“ in situ on the wall.   
+
+*"Richard Long. Berlin Circle":http://www.hamburgerbahnhof.de/exhibition.php?id=29822&lang=en, 26.03. – 31.07.2011, Hamburger Bahnhof – Museum der Gegenwart, Berlin* 
