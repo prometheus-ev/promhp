@@ -87,7 +87,7 @@ def build(src = nil)
 
   ARGV.replace(args)
 
-  load Gem.bin_path(GEM_NAME)
+  load Gem.bin_path(GEM_NAME, GEM_NAME)
 
   mv site, old if File.exist?(site)
   mv tmp, site
