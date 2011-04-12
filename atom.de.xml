@@ -4,23 +4,23 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><%=t site.title, site.title_de %></title>
-  <link href="<%= site.url + page.url %>" rel="self" />
-  <link href="<%= site.url %>" />
+  <title><%=h t(site.title, site.title_de) %></title>
+  <link href="<%=h site.url + page.url %>" rel="self" />
+  <link href="<%=h site.url %>" />
   <updated><%= date_to_xmlschema(site.time) %></updated>
-  <id><%= site.url %></id>
+  <id><%=h site.url %></id>
   <author>
     <name><%=h site.name %></name>
-    <email><%= site.email %></email>
+    <email><%=h site.email %></email>
   </author>
 
 <% for post in local_posts -%>
   <entry>
     <title><%=h post.title %></title>
-    <link href="<%= site.url + post.url %>" />
+    <link href="<%=h site.url + post.url %>" />
     <updated><%= date_to_xmlschema(post.date) %></updated>
-    <id><%= site.url + post.id %></id>
-    <content type="html"><%= xml_escape(post.content) %></content>
+    <id><%=h site.url + post.id %></id>
+    <content type="html"><%=h post.content %></content>
   </entry>
 <% end -%>
 
