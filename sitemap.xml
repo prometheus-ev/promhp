@@ -1,0 +1,22 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<% for items, changefreq, priority in [[site.pages, *%w[weekly 0.6]], [site.posts, *%w[monthly 0.4]]] -%>
+<% for item in items; data, name = item.data, item.basename -%>
+<% next if !item.html? || data['nositemap'] || name =~ /\A\d{2,3}\z/ || %w[row teaser].include?(name) -%>
+<% mtime, exists = begin; [File.mtime(item.source), true]; rescue; [Time.now, false]; end -%>
+  <url>
+    <loc><%=h uri_escape(canonical_url_for(item.full_url, item.lang)) %></loc>
+    <lastmod><%= date_to_xmlschema(mtime) %></lastmod>
+    <changefreq><%= data['changefreq'] || changefreq %></changefreq>
+    <priority><%= data['priority'] || (exists ? priority : '0.2') %></priority>
+  </url>
+<% end -%>
+<% end -%>
+
+</urlset>

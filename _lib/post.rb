@@ -36,7 +36,19 @@ module Jekyll
     # 'index.html' in a directory called by their slug.
     def destination(dest)
       # The url needs to be unescaped in order to preserve the correct filename
-      File.join(dest, CGI.unescape("#{url}.html#{@lang_ext}"))
+      File.join(dest, CGI.unescape(full_url))
+    end
+
+    def source
+      File.join(@base, @name)
+    end
+
+    def full_url
+      "#{url}.html#{@lang_ext}"
+    end
+
+    def html?
+      true
     end
 
   end

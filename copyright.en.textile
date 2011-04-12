@@ -2,6 +2,7 @@
 layout: default
 title: Information about copyrights of images when using prometheus
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=363&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
+priority: 0.8
 ---
 h2. <%= page_title %>
 

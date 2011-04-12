@@ -23,8 +23,7 @@ module Jekyll
     alias_method :_prometheus_original_index?, :index?
 
     def index? # TODO: Puzzle the whole "pagination index in a subdir" stuff in jekyll-pagination gem.
-      file = File.join(@dir, name)[1..-1]
-      Pager.paginate_files(site.config).include?(file)
+      Pager.paginate_files(site.config).include?(File.join(@dir, name)[1..-1])
     end
 
     alias_method :_prometheus_original_dir=, :dir=
@@ -32,6 +31,14 @@ module Jekyll
     def _prometheus_paginate_dir=(dir)
       base, name = File.split(dir)
       @dir = File.join(File.dirname(base), name)
+    end
+
+    def source
+      File.join(@base, @dir, @name)
+    end
+
+    def full_url
+      to_hash['url']
     end
 
   end

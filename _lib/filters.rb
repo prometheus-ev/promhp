@@ -13,8 +13,12 @@ module Jekyll
     end
 
     def canonical_url(lang = page.lang)
-      File.join(site.url, !site.prefix_lang ? url_lang(page.url, lang) :
-        [lang, page.url.sub(/(?:\.html)?#{Localization::LANG_END_RE}/, '')])
+      canonical_url_for(page.url, lang)
+    end
+
+    def canonical_url_for(url, lang = nil)
+      File.join(site.url, !site.prefix_lang ? url_lang(url, lang) :
+        [lang, url.sub(/(?:\.html)?#{Localization::LANG_END_RE}/, '')].compact)
     end
 
     def page_title(head = false)

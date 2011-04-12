@@ -2,6 +2,7 @@
 layout: default
 title: Imprint
 legacy_url: http://www.prometheus-bildarchiv.de/index.php?id=18&L=1
+priority: 0.5
 ---
 h2. <%= page_title %>
 
