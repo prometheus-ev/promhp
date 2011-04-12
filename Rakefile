@@ -1,3 +1,5 @@
+require 'benchmark'
+
 GEM_NAME = 'jekyll'
 gem GEM_NAME  # fail early
 
@@ -7,7 +9,9 @@ SITE = File.join(BASE, '_site')
 task :default => :build
 
 desc "Build the site"
-task :build do build end
+task :build do
+  warn 'Elapsed: %dm%.2fs' % Benchmark.realtime { build }.divmod(60)
+end
 
 desc "Build preview for start page with NUM's (yyyy/ww) image series"
 task :series_preview do
