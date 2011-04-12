@@ -51,8 +51,7 @@ ErrorDocument <%= code %> <%= File.join(site.uri.path, code) %>
 <% end -%>
 
 # Deflate
-AddOutputFilterByType DEFLATE text/html text/plain text/css text/javascript application/javascript application/x-javascript
-# ... text/xml application/xml application/xhtml+xml
+AddOutputFilterByType DEFLATE text/html text/xml application/xml application/xhtml+xml text/plain text/css text/javascript application/javascript application/x-javascript
 BrowserMatch ^Mozilla/4 gzip-only-text/html
 BrowserMatch ^Mozilla/4.0[678] no-gzip
 BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
