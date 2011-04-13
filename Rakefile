@@ -4,6 +4,7 @@ GEM_NAME = 'jekyll'
 gem GEM_NAME  # fail early
 
 BASE = File.expand_path('..', __FILE__)
+CONF = File.join(BASE, '_config')
 SITE = File.join(BASE, '_site')
 
 task :default => :build
@@ -66,7 +67,10 @@ task :tag do
   sh 'git', 'tag', "cl-#{Time.now.to_f}"
 end
 
-Dir['_config/*.yml'].each { |file|
+local = File.join(CONF, 'local.yml')
+cp local + '.sample', local unless File.exist?(local)
+
+Dir[File.join(CONF, '*.yml')].each { |file|
   env = File.basename(file, '.yml')
 
   desc "Run following tasks in #{env} environment"
