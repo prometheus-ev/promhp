@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Lichtenstein, Roy: Man with coat (Detail), 1961, Tinte auf Papier,  20,5 x 19,75  inch, Sonnabend Collection, Paris; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "Lichtenstein, Roy: Step on can with leg (Detail), 1961, Tinte auf Papier, 23,25 x 19,95 inch, Sonnabend Collection, Paris; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "Lichtenstein, Roy: Black Flowers (Detail), 1961, \xC3\x96l auf Leinwand, oO.; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Lichtenstein, Roy: Golf Ball, 1962, \xC3\x96l auf Leinwand, 81,3 x 81,3 cm, Privatsammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Lichtenstein, Roy: Portrait der Madame C\xC3\xA9zanne (Detail), 1962, Magna auf Leinwand, Privatbesitz; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Lichtenstein, Roy: Okay, Hot-Shot (Detail), 1963, \xC3\x96l auf Leinwand, 203,2 x 172,7 cm, Turin; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Lichtenstein, Roy: Magnifying Glass, 1963, \xC3\x96l auf Leinwand, 40,6 x 40,6 cm, Privatsammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Lichtenstein, Roy: Him (Detail), 1964, Graphit und Tusche auf Papier, The Saint Louis Art Museum; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Roy Lichtenstein
+subtitle: "Die schwarz-wei\xC3\x9Fen Arbeiten der 1960er "
+date: 2011/04/17
+teaser: "Weniger bekannt, als die bunten Gem\xC3\xA4lde des K\xC3\xBCnstlers, sind die schwarz-wei\xC3\x9F-Arbeiten."
+collection: 26209
+---
+Weniger bekannt als die bunten Gemälde des Künstlers, sind die schwarz-weiß-Arbeiten. Zwischen 1961 und 1968 schuf Roy Lichtenstein Schwarz-weiß-Zeichnungen, die nicht als Vorzeichnungen für die gleichzeitig entstandenen Schwarz-weiß-Gemälde, sondern als eigenständige Werkgruppe anzusehen sind. Sie werden  - ergänzt durch einzelne dieser Gemälde - noch bis 15. Mai in der Albertina Wien zu sehen sein.
+
+*"Roy Lichtenstein. Black & White":http://www.albertina.at/jart/prj3/albertina/main.jart?rel=de&content-id=1202307119317&reserve-mode=active&ausstellungen_id=1287026237355, bis 15. Mai 2011, Albertina, Wien*

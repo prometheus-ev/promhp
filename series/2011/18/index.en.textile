@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Lichtenstein, Roy: Man with coat (Detail), 1961, Tinte auf Papier,  20,5 x 19,75  inch, Sonnabend Collection, Paris; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "Lichtenstein, Roy: Step on can with leg (Detail), 1961, Tinte auf Papier, 23,25 x 19,95 inch, Sonnabend Collection, Paris; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "Lichtenstein, Roy: Black Flowers (Detail), 1961, \xC3\x96l auf Leinwand, oO.; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Lichtenstein, Roy: Golf Ball, 1962, \xC3\x96l auf Leinwand, 81,3 x 81,3 cm, Privatsammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Lichtenstein, Roy: Portrait der Madame C\xC3\xA9zanne (Detail), 1962, Magna auf Leinwand, Privatbesitz; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Lichtenstein, Roy: Okay, Hot-Shot (Detail), 1963, \xC3\x96l auf Leinwand, 203,2 x 172,7 cm, Turin; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Lichtenstein, Roy: Magnifying Glass, 1963, \xC3\x96l auf Leinwand, 40,6 x 40,6 cm, Privatsammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Lichtenstein, Roy: Him (Detail), 1964, Graphit und Tusche auf Papier, The Saint Louis Art Museum; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Roy Lichtenstein
+subtitle: The black-and-white paintings of the 1960th
+date: 2011/04/17
+teaser: Less famous than the colourful paintings are the black-and-white works of art by Roy Lichtenstein.
+collection: 26209
+---
+Less famous than the colourful paintings are the black-and-white works of art by Roy Lichtenstein. Between 1961 and 1968 the artist created black-and-white drawings, which aren't understood to be preparatory drawings to the black-and-white canvas being produced at the same time. In fact they are seen as an independent group of work. In the Albertina in Vienna the drawings are shown until the 15th of may, complemented by some of the black-and-white canvas.
+
+*"Roy Lichtenstein. Black & White":http://www.albertina.at/jart/prj3/albertina/main.jart?rel=en&content-id=1202307119260&reserve-mode=reserve&ausstellungen_id=1287026237355,  until 15th  May 2011, Albertina, Wien*
