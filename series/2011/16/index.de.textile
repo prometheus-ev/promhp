@@ -1,19 +1,19 @@
 --- 
 descriptions: 
-- "Kirchner, Ernst Ludwig: Zwei Akte mit Badetub und Ofen (Detail), 1911, \xC3\x96l auf Leinwand, 89 x 80 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Beckmann, Max: Akademie II (Detail), 1944, \xC3\x96l auf Leinwand, 79,5 x 64 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Picasso, Pablo: Personnage (enfant), 1960, Bronze, 111,5 x 98 x 24 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Still, Clyfford: o. T. (Detail), 1964, \xC3\x96l auf Leinwand, 289,6 x 190,3 cm, Sammlung Frieder Burda, Baden-Baden; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
+- "Kirchner, Ernst Ludwig: Zwei Akte mit Badetub und Ofen (Detail), 1911, \xC3\x96l auf Leinwand, 89 x 80 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Beckmann, Max: Akademie II (Detail), 1944, \xC3\x96l auf Leinwand, 79,5 x 64 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Picasso, Pablo: Personnage (enfant), 1960, Bronze, 111,5 x 98 x 24 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Still, Clyfford: o. T. (Detail), 1964, \xC3\x96l auf Leinwand, 289,6 x 190,3 cm, Sammlung Frieder Burda, Baden-Baden; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen"
 - "Richter, Gerhard: Alfa Romeo (mit Text), 1965, \xC3\x96l auf Leinwand, 150 x 155 x cm, Sammlung Frieder Burda, Baden-Baden; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln"
-- "Polke, Sigmar: D\xC3\xBCrer-Hase (Detail), 1968, Dispersion/Plakasilber auf Stoff, 80 x 60 cm, Sammlung Frieder Burda, Baden-Baden; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
-- "De Kooning, Willem: Large Torso, 1974, Bronze,  93 x 91 x 70 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Penck, A.R.: Standart III T. M (Detail), 1974, \xC3\x96l auf Leinwand, 150 x 150 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Polke, Sigmar: D\xC3\xBCrer-Hase (Detail), 1968, Dispersion/Plakasilber auf Stoff, 80 x 60 cm, Sammlung Frieder Burda, Baden-Baden; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "De Kooning, Willem: Large Torso, 1974, Bronze,  93 x 91 x 70 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Penck, A.R.: Standart III T. M (Detail), 1974, \xC3\x96l auf Leinwand, 150 x 150 cm, Sammlung Frieder Burda, Baden-Baden; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Frieder Burda
-subtitle: "Geschichte einer Sammlung "
+subtitle: "Geschichte einer Sammlung"
 date: 2011/04/15
-teaser: "Im Frieder Burda Museum findet aus Anlass des 75. Geburtstages des Sammlers eine Ausstellung zur Sammlungsgeschichte statt. "
+teaser: "Im Frieder Burda Museum findet aus Anlass des 75. Geburtstages des Sammlers eine Ausstellung zur Sammlungsgeschichte statt."
 collection: 26070
 ---
 Im Frieder Burda Museum findet aus Anlass des 75. Geburtstages des Sammlers eine Ausstellung zur Sammlungsgeschichte statt. Die Auswahl traf Frieder Burda selbst und bietet so einen sehr persönlich geprägten Blick auf die Sammlung.

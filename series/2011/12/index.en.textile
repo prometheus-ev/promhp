@@ -1,19 +1,19 @@
 --- 
 descriptions: 
-- "Bellmer, Hans: Mitrailleuse en \xC3\xA9tat de gr\xC3\xA2ce, 1937, Metall/Holz, 78,5 x 75,5 x 34,5 cm, Museum of Modern Art, New York; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Dal\xC3\xAC, Salvador: Buste de femme r\xC3\xA9trospectif, 1933, Porzellan / Maiskolben / Zootrop-Bildstreifen aus Karton, 49 cm, Sammlung Nellens, Knokke-le-Zoute; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
-- "Dal\xC3\xAC, Salvador: T\xC3\xA9l\xC3\xA9phone-homard ou T\xC3\xA9l\xC3\xA9phone aphrodisiaque, 1936, Gips/bemalt, 18 x 12,5 x 30,5 cm, Deutsches Postmuseum, Frankfurt  am Main; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
-- "Duchamp, Marcel: Pri\xC3\xA8re de Toucher, Le surr\xC3\xA9alisme en 1947, 1947, Buchdeckelgestaltung; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
-- "Ray, Man: Cadeau, 1920/61, B\xC3\xBCgeleisen/N\xC3\xA4gel, 15,3 x 9 x 11,4 cm, Museum of Modern Art, New York; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
-- "Ray, Man: indestructible object, 1936-71, Metronom / Fotografie, 22,0 x 11,0 x 10,7 cm, Galleria Marconi; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
-- "Mir\xC3\xB3, Jean: Jeune fille s'\xC3\xA9vadant, 1967, Bronze/bemalt, 216 x 50 x 56 cm,  Fundaci\xC3\xB3 Joan Mir\xC3\xB3, Barcelona; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Oppenheim, Meret:  Ma gouvernante, 1936, weisse Damenschuhe mit Papiermanschette auf ovaler Metallplatte, 20 x 30 x 15 cm, Moderna Museet, Stockholm; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Bellmer, Hans: Mitrailleuse en \xC3\xA9tat de gr\xC3\xA2ce, 1937, Metall/Holz, 78,5 x 75,5 x 34,5 cm, Museum of Modern Art, New York; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Dal\xC3\xAC, Salvador: Buste de femme r\xC3\xA9trospectif, 1933, Porzellan / Maiskolben / Zootrop-Bildstreifen aus Karton, 49 cm, Sammlung Nellens, Knokke-le-Zoute; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen"
+- "Dal\xC3\xAC, Salvador: T\xC3\xA9l\xC3\xA9phone-homard ou T\xC3\xA9l\xC3\xA9phone aphrodisiaque, 1936, Gips/bemalt, 18 x 12,5 x 30,5 cm, Deutsches Postmuseum, Frankfurt  am Main; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen"
+- "Duchamp, Marcel: Pri\xC3\xA8re de Toucher, Le surr\xC3\xA9alisme en 1947, 1947, Buchdeckelgestaltung; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln"
+- "Ray, Man: Cadeau, 1920/61, B\xC3\xBCgeleisen/N\xC3\xA4gel, 15,3 x 9 x 11,4 cm, Museum of Modern Art, New York; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Ray, Man: indestructible object, 1936-71, Metronom / Fotografie, 22,0 x 11,0 x 10,7 cm, Galleria Marconi; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Mir\xC3\xB3, Jean: Jeune fille s'\xC3\xA9vadant, 1967, Bronze/bemalt, 216 x 50 x 56 cm,  Fundaci\xC3\xB3 Joan Mir\xC3\xB3, Barcelona; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Oppenheim, Meret:  Ma gouvernante, 1936, weisse Damenschuhe mit Papiermanschette auf ovaler Metallplatte, 20 x 30 x 15 cm, Moderna Museet, Stockholm; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Surreal Objects
 subtitle: "From Dal\xC3\xAD to Man Ray"
 date: 2011/03/18
-teaser: "If you visit the Internet presence of the Schirn Kunsthalle these days, a black space will open, in which the animated lobster-telephone by Salvador Dal\xC3\xAC makes trouble. "
+teaser: "If you visit the Internet presence of the Schirn Kunsthalle these days, a black space will open, in which the animated lobster-telephone by Salvador Dal\xC3\xAC makes trouble."
 collection: 25590
 ---
 If you visit the Internet presence of the Schirn Kunsthalle these days, a black space will open, in which the animated lobster-telephone by Salvador Dalì makes trouble. Clicking the button “Zurück zur Realität” the user will get back to the front internet page. - It's a joke leading to the topic: surreal objects.

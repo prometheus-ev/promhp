@@ -1,19 +1,19 @@
 --- 
 layout: series
 descriptions: 
-- "Struth, Thomas: Clinton Road, London, (Detail) 1977, Fotografie/Silbergelatine, 41 x 58 cm, Privatbesitz;   Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
-- "Struth, Thomas: Corso Vittorio Emanuele, Neapel (Detail), 1989, Fotografie/Silbergelatine, 46 x 57,5 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin  "
-- "Struth, Thomas: Crosby Street, New York (Detail), 1978, Fotografie/Silbergelatine, 44 x 56 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
-- "Struth, Thomas: South Lake Street Apartments II, Chicago (Detail), 1990,  Fotografie/Silbergelatine, 46 x 57 cm, im Besitz des K\xC3\xBCnstlers; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
-- "Struth, Thomas: The Smith Family, Fife, Scotland (Detail), 1989, Fotografie/C-Print, 69,7 x 96,3 cm, Museum Ludwig, K\xC3\xB6ln; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
-- "Struth, Thomas: Mus\xC3\xA9e du Louvre IV (Detail), 1989, Fotografie, 184 x 217 cm, o.O.; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
-- "Struth, Thomas: Hermitage 1, Saint Petersburg (Detail), 2005, o.O.; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
-- "Struth, Thomas: Alte Pinakothek, M\xC3\xBCnchen, Selbstportr\xC3\xA4t (Detail), 2000, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Struth, Thomas: Clinton Road, London, (Detail) 1977, Fotografie/Silbergelatine, 41 x 58 cm, Privatbesitz;   Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Struth, Thomas: Corso Vittorio Emanuele, Neapel (Detail), 1989, Fotografie/Silbergelatine, 46 x 57,5 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Struth, Thomas: Crosby Street, New York (Detail), 1978, Fotografie/Silbergelatine, 44 x 56 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Struth, Thomas: South Lake Street Apartments II, Chicago (Detail), 1990,  Fotografie/Silbergelatine, 46 x 57 cm, im Besitz des K\xC3\xBCnstlers; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Struth, Thomas: The Smith Family, Fife, Scotland (Detail), 1989, Fotografie/C-Print, 69,7 x 96,3 cm, Museum Ludwig, K\xC3\xB6ln; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Struth, Thomas: Mus\xC3\xA9e du Louvre IV (Detail), 1989, Fotografie, 184 x 217 cm, o.O.; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln"
+- "Struth, Thomas: Hermitage 1, Saint Petersburg (Detail), 2005, o.O.; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin"
+- "Struth, Thomas: Alte Pinakothek, M\xC3\xBCnchen, Selbstportr\xC3\xA4t (Detail), 2000, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
 title: Thomas Struth
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: Photographs
 date: 2011/03/04
-teaser: "The photographer Thomas Struth (born in 1954) obtained international acceptance with numerous exhibitions in Europe and in the USA. "
+teaser: "The photographer Thomas Struth (born in 1954) obtained international acceptance with numerous exhibitions in Europe and in the USA."
 collection: 25388
 ---
 The photographer Thomas Struth (born in 1954) obtained international acceptance with numerous exhibitions in Europe and in the USA. Now the “Kunstsammlung Nordrhein Westfalen” is presenting the first retrospective of his work. Next to early works, like street-scenes and jungle-pictures („Paradises“) there are the famous museum-scenes („Audiences“) and a series of his new works:  Monumental photographs showing technical large-scale plants, like nuclear power stations, document and challenge a belief in progress, which is based only on technology and science. 

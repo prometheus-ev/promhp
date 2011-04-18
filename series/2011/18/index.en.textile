@@ -1,13 +1,13 @@
 --- 
 descriptions: 
-- "Lichtenstein, Roy: Man with coat (Detail), 1961, Tinte auf Papier,  20,5 x 19,75  inch, Sonnabend Collection, Paris; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
-- "Lichtenstein, Roy: Step on can with leg (Detail), 1961, Tinte auf Papier, 23,25 x 19,95 inch, Sonnabend Collection, Paris; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
-- "Lichtenstein, Roy: Black Flowers (Detail), 1961, \xC3\x96l auf Leinwand, oO.; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Lichtenstein, Roy: Man with coat (Detail), 1961, Tinte auf Papier,  20,5 x 19,75  inch, Sonnabend Collection, Paris; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln"
+- "Lichtenstein, Roy: Step on can with leg (Detail), 1961, Tinte auf Papier, 23,25 x 19,95 inch, Sonnabend Collection, Paris; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln"
+- "Lichtenstein, Roy: Black Flowers (Detail), 1961, \xC3\x96l auf Leinwand, oO.; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
 - "Lichtenstein, Roy: Golf Ball, 1962, \xC3\x96l auf Leinwand, 81,3 x 81,3 cm, Privatsammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
-- "Lichtenstein, Roy: Portrait der Madame C\xC3\xA9zanne (Detail), 1962, Magna auf Leinwand, Privatbesitz; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
-- "Lichtenstein, Roy: Okay, Hot-Shot (Detail), 1963, \xC3\x96l auf Leinwand, 203,2 x 172,7 cm, Turin; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Lichtenstein, Roy: Magnifying Glass, 1963, \xC3\x96l auf Leinwand, 40,6 x 40,6 cm, Privatsammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
-- "Lichtenstein, Roy: Him (Detail), 1964, Graphit und Tusche auf Papier, The Saint Louis Art Museum; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Lichtenstein, Roy: Portrait der Madame C\xC3\xA9zanne (Detail), 1962, Magna auf Leinwand, Privatbesitz; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Lichtenstein, Roy: Okay, Hot-Shot (Detail), 1963, \xC3\x96l auf Leinwand, 203,2 x 172,7 cm, Turin; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Lichtenstein, Roy: Magnifying Glass, 1963, \xC3\x96l auf Leinwand, 40,6 x 40,6 cm, Privatsammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Lichtenstein, Roy: Him (Detail), 1964, Graphit und Tusche auf Papier, The Saint Louis Art Museum; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Roy Lichtenstein

@@ -1,19 +1,19 @@
 --- 
 descriptions: 
 - "Modersohn, Otto: M\xC3\xA4dchen am Birkenstamm (Detail), 1901, \xC3\x96l auf Leinwand, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
-- "Modersohn-Becker, Paula: M\xC3\xA4dchen zwischen Birken (Detail), 1890/1910, \xC3\x96l auf Pappe, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
-- "Modersohn, Otto: Sommertag (Detail),1894, \xC3\x96l auf Leinwand, o.O.; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
-- "Modersohn-Becker, Paula: Birkenallee (Detail), 1900, \xC3\x96l auf Leinwand, 37 x 46, 6 cm, Paula Modersohn-Becker-Stiftung, Bremen; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
-- "Modersohn, Otto: Fritz Overbeck beim Malen (Detail), 1900, \xC3\x96l auf Leinwand, Otto-Modersohn-Museum, Fischerhude; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
-- "Modersohn-Becker, Paula: Otto Modersohn (Detail), undatiert, Gouache, Otto-Modersohn-Museum, Fischerhude; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
-- "Modersohn, Otto: Wertheim. Friedleinsgasse Richtung Engelsbrunnen (Detail), 1922-24, \xC3\x96l auf Nessel, Otto-Modersohn-Museum, Fischerhude; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
-- "Modersohn-Becker, Paula: Blick aus dem Atelierfenster der K\xC3\xBCnstlerin in Paris (Detail), 1900, \xC3\x96l / Tempera auf Pappe, Kunsthalle, Bremen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Modersohn-Becker, Paula: M\xC3\xA4dchen zwischen Birken (Detail), 1890/1910, \xC3\x96l auf Pappe, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Modersohn, Otto: Sommertag (Detail),1894, \xC3\x96l auf Leinwand, o.O.; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Modersohn-Becker, Paula: Birkenallee (Detail), 1900, \xC3\x96l auf Leinwand, 37 x 46, 6 cm, Paula Modersohn-Becker-Stiftung, Bremen; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin"
+- "Modersohn, Otto: Fritz Overbeck beim Malen (Detail), 1900, \xC3\x96l auf Leinwand, Otto-Modersohn-Museum, Fischerhude; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Modersohn-Becker, Paula: Otto Modersohn (Detail), undatiert, Gouache, Otto-Modersohn-Museum, Fischerhude; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Modersohn, Otto: Wertheim. Friedleinsgasse Richtung Engelsbrunnen (Detail), 1922-24, \xC3\x96l auf Nessel, Otto-Modersohn-Museum, Fischerhude; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Modersohn-Becker, Paula: Blick aus dem Atelierfenster der K\xC3\xBCnstlerin in Paris (Detail), 1900, \xC3\x96l / Tempera auf Pappe, Kunsthalle, Bremen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: "Ein K\xC3\xBCnstlerehepaar"
 subtitle: Paula Modersohn-Becker und Otto Modersohn
 date: 2011/03/23
-teaser: "Aus Anlass einer Schenkung widmet sich eine Ausstellung im Albertinum in Dresden den Werken des K\xC3\xBCnstlerpaares Paula Modersohn-Becker und Otto Modersohn. "
+teaser: "Aus Anlass einer Schenkung widmet sich eine Ausstellung im Albertinum in Dresden den Werken des K\xC3\xBCnstlerpaares Paula Modersohn-Becker und Otto Modersohn."
 collection: 25635
 ---
 Aus Anlass einer Schenkung widmet sich eine Ausstellung im Albertinum in Dresden den Werken des Künstlerpaares Paula Modersohn-Becker und Otto Modersohn. Die Schenkung aus der Verwandtschaft Modersohn-Beckers umfasst fünf Gemälde und eine Zeichnung von Paula, darunter das hier im großen Bild gezeigte Stilleben von 1907, sowie drei Gemälde von Otto Modersohn. Bereichert durch Werke aus Privatbesitz und aus dem Museumsbestand präsentiert sich die Ausstellung noch bis Ende März.

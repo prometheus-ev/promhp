@@ -1,19 +1,19 @@
 --- 
 descriptions: 
-- "Witz, Konrad: Die K\xC3\xB6nigin von Saba vor Salomo (Detail), zw. 1425 und 1447, \xC3\x96l auf Eichenholz, 84,5 x 79 cm, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
-- "Witz, Konrad: Christus am Kreuz (Detail), 1444, \xC3\x96l auf Nussbaumholz/\xC3\xBCbertragen auf Leinwand, 34 x 26 cm,  Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
-- "Witz, Konrad: Der Ratschluss der Erl\xC3\xB6sung (Detail), zw. 1444 und 1454, \xC3\x96l auf Tannenholz, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
-- "Witz, Konrad: Der wunderbare Fischzug Petri (Detail), 1444, Tempera auf Holz, 132 x 154 cm, Mus\xC3\xA9e d'Art et d'Histoire, Genf; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
-- "Witz, Konrad: Kardinal Francois de Mies, empfohlen durch den Hl. Petrus, vor der thronenden Madonna mit Kind (Detail), 1444, Tempera auf Holz, 132 x 154 cm, Mus\xC3\xA9e d'Art et d'Histoire, Genf; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Witz, Konrad: Die K\xC3\xB6nigin von Saba vor Salomo (Detail), zw. 1425 und 1447, \xC3\x96l auf Eichenholz, 84,5 x 79 cm, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Witz, Konrad: Christus am Kreuz (Detail), 1444, \xC3\x96l auf Nussbaumholz/\xC3\xBCbertragen auf Leinwand, 34 x 26 cm,  Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Witz, Konrad: Der Ratschluss der Erl\xC3\xB6sung (Detail), zw. 1444 und 1454, \xC3\x96l auf Tannenholz, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Witz, Konrad: Der wunderbare Fischzug Petri (Detail), 1444, Tempera auf Holz, 132 x 154 cm, Mus\xC3\xA9e d'Art et d'Histoire, Genf; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Witz, Konrad: Kardinal Francois de Mies, empfohlen durch den Hl. Petrus, vor der thronenden Madonna mit Kind (Detail), 1444, Tempera auf Holz, 132 x 154 cm, Mus\xC3\xA9e d'Art et d'Histoire, Genf; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
 - "Witz, Konrad: Sabothai und Benaja (Detail), um 1435, Tempera auf Holz, 102 x 78 cm, \xC3\x96ffentliche Kunstsammlung, Basel;  Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
-- "Witz, Konrad: Synagoga (Detail), 1435, keine Angaben zu Material und Gr\xC3\xB6\xC3\x9Fe, \xC3\x96ffentliche Kunstsammlung, Basel; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
-- "Witz, Konrad: Verk\xC3\xBCndigung (Detail), 1440, Tempera auf Tannenholz, 157 x 120 cm,  Germanisches Nationalmuseum, N\xC3\xBCrnberg; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Witz, Konrad: Synagoga (Detail), 1435, keine Angaben zu Material und Gr\xC3\xB6\xC3\x9Fe, \xC3\x96ffentliche Kunstsammlung, Basel; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Witz, Konrad: Verk\xC3\xBCndigung (Detail), 1440, Tempera auf Tannenholz, 157 x 120 cm,  Germanisches Nationalmuseum, N\xC3\xBCrnberg; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Konrad Witz
 subtitle: "Ein K\xC3\xBCnstler des 15. Jahrhunderts"
 date: 2011/04/15
-teaser: "Der erst nach 1900 wiederentdeckte Maler Konrad Witz wird als einer der radikalsten Erneuerer der Malerei der ersten H\xC3\xA4lfte des 15. Jahrhunderts beschrieben. "
+teaser: "Der erst nach 1900 wiederentdeckte Maler Konrad Witz wird als einer der radikalsten Erneuerer der Malerei der ersten H\xC3\xA4lfte des 15. Jahrhunderts beschrieben."
 collection: 26109
 ---
 Der erst nach 1900 wiederentdeckte Maler Konrad Witz wird als einer der radikalsten Erneuerer der Malerei der ersten Hälfte des 15. Jahrhunderts beschrieben. Eine Ausstellung in Basel stellt das Schaffen des Künstlers in den Kontext seiner Zeit und versucht sowohl die künstlerische Herkunft, als auch die Wirkung seiner Kunst auf Zeitgenossen zu ergründen. Altarbilder und Wandmalereien aus dem relativ kurzen Zeitraum zwischen 1434 und 1447 sind oft nur fragmentarisch erhalten, lassen aber die Beschäftigung mit räumlicher Tiefe, sowie Licht, Schatten und Spiegelungen – vergleichbar mit der niederländischen Malerei – erkennen.

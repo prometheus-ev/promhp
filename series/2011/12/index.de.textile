@@ -1,19 +1,19 @@
 --- 
 descriptions: 
 - "Bellmer, Hans: Mitrailleuse en \xC3\xA9tat de gr\xC3\xA2ce / Maschinengewehr im Zustand der Gnade, 1937, Metall/Holz,  78,5 x 75,5 x 34,5 cm, Museum of Modern Art, New York; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
-- "Dal\xC3\xAC, Salvador: Buste de femme r\xC3\xA9trospectif / Retrospektive Frauenb\xC3\xBCste, 1933, Porzellan / Maiskolben / Zootrop-Bildstreifen aus Karton, 49 cm, Sammlung Nellens, Knokke-le-Zoute; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
-- "Dal\xC3\xAC, Salvador: T\xC3\xA9l\xC3\xA9phone-homard ou T\xC3\xA9l\xC3\xA9phone aphrodisiaque / Hummer-Telephon oder Aphrodisisches Telefon, 1936, Gips/bemalt, 18 x 12,5 x 30,5 cm, Deutsches Postmuseum, Frankfurt  am Main; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
-- "Duchamp, Marcel: Pri\xC3\xA8re de Toucher, Le surr\xC3\xA9alisme en 1947, 1947, Buchdeckelgestaltung; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
-- "Ray, Man: Cadeau / Geschenk, 1920/61, B\xC3\xBCgeleisen/N\xC3\xA4gel, 15,3 x 9 x 11,4 cm, Museum of Modern Art, New York; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
-- "Ray, Man: indestructible object / Unzerst\xC3\xB6rbares Objekt, 1936-71, Metronom / Fotografie, 22,0 x 11,0 x 10,7 cm, Galleria Marconi; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
-- "Mir\xC3\xB3, Jean: Jeune fille s'\xC3\xA9vadant / Fliehendes M\xC3\xA4dchen, 1967, Bronze/bemalt, 216 x 50 x 56 cm,  Fundaci\xC3\xB3 Joan Mir\xC3\xB3, Barcelona; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Oppenheim, Meret:  Ma gouvernante / Mein Kinderm\xC3\xA4dchen, 1936, weisse Damenschuhe mit Papiermanschette auf ovaler Metallplatte, 20 x 30 x 15 cm, Moderna Museet, Stockholm; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Dal\xC3\xAC, Salvador: Buste de femme r\xC3\xA9trospectif / Retrospektive Frauenb\xC3\xBCste, 1933, Porzellan / Maiskolben / Zootrop-Bildstreifen aus Karton, 49 cm, Sammlung Nellens, Knokke-le-Zoute; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen"
+- "Dal\xC3\xAC, Salvador: T\xC3\xA9l\xC3\xA9phone-homard ou T\xC3\xA9l\xC3\xA9phone aphrodisiaque / Hummer-Telephon oder Aphrodisisches Telefon, 1936, Gips/bemalt, 18 x 12,5 x 30,5 cm, Deutsches Postmuseum, Frankfurt  am Main; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen"
+- "Duchamp, Marcel: Pri\xC3\xA8re de Toucher, Le surr\xC3\xA9alisme en 1947, 1947, Buchdeckelgestaltung; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln"
+- "Ray, Man: Cadeau / Geschenk, 1920/61, B\xC3\xBCgeleisen/N\xC3\xA4gel, 15,3 x 9 x 11,4 cm, Museum of Modern Art, New York; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Ray, Man: indestructible object / Unzerst\xC3\xB6rbares Objekt, 1936-71, Metronom / Fotografie, 22,0 x 11,0 x 10,7 cm, Galleria Marconi; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Mir\xC3\xB3, Jean: Jeune fille s'\xC3\xA9vadant / Fliehendes M\xC3\xA4dchen, 1967, Bronze/bemalt, 216 x 50 x 56 cm,  Fundaci\xC3\xB3 Joan Mir\xC3\xB3, Barcelona; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Oppenheim, Meret:  Ma gouvernante / Mein Kinderm\xC3\xA4dchen, 1936, weisse Damenschuhe mit Papiermanschette auf ovaler Metallplatte, 20 x 30 x 15 cm, Moderna Museet, Stockholm; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Surreale Objekte
 subtitle: "Von Dal\xC3\xAD bis Man Ray"
 date: 2011/03/18
-teaser: "Wenn man in diesen Monaten den Internetauftritt der Schirn Kunsthalle besucht, klappt eine flache Seite Internet-Realit\xC3\xA4t zur\xC3\xBCck und gibt einen schwarzen Raum frei, in dem das verlebendigte Hummer-Telefon von Salvador Dal\xC3\xAD sein Unwesen treibt. "
+teaser: "Wenn man in diesen Monaten den Internetauftritt der Schirn Kunsthalle besucht, klappt eine flache Seite Internet-Realit\xC3\xA4t zur\xC3\xBCck und gibt einen schwarzen Raum frei, in dem das verlebendigte Hummer-Telefon von Salvador Dal\xC3\xAD sein Unwesen treibt."
 collection: 25590
 ---
 Wenn man in diesen Monaten den Internetauftritt der Schirn Kunsthalle besucht, klappt eine flache Seite Internet-Realität zurück und gibt einen schwarzen Raum frei, in dem das verlebendigte Hummer-Telefon von Salvador Dalí sein Unwesen treibt. Mit einem Klick auf den Button „Zurück zur Realität“ ist es möglich, zurück zur Eröffnungsseite des Museums zu gelangen – ein Gag zur Einstimmung in das Thema Surrealismus. 

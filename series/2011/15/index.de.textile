@@ -1,13 +1,13 @@
 --- 
 descriptions: 
 - "Richard Long: A Line in the Himalaya, 1975; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
-- "Richard Long: A Line in Australia, 1977; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
-- "Richard Long: Piemonte Stone Ring, 1984, Sammlung Castello di Rivoli, Turin; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Richard Long: A Line in Australia, 1977; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Richard Long: Piemonte Stone Ring, 1984, Sammlung Castello di Rivoli, Turin; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin"
 - "Richard Long: River Avon Mud Hand Circles, 1984, Dublin; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
 - "Richard Long: Red Mud Hand Circle, 1987, Athen; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
-- "Richard Long: Ocean Stone Circle, 1990, Los Angeles; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Richard Long: Ocean Stone Circle, 1990, Los Angeles; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
 - "Richard Long: Garonne Mud Black Circle, 1990, Bordeaux; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
-- "Richard Long: Muddy Feet Line, 1990, Bordeaux; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Richard Long: Muddy Feet Line, 1990, Bordeaux; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Richard Long

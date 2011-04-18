@@ -2,18 +2,18 @@
 layout: series
 descriptions: 
 - "Nolde, Emil: Gesellschaft (Detail), 1911, \xC3\x96l auf Leinwand, 91,5 x 106 cm, Nolde Stiftung Seeb\xC3\xBCll; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
-- "Nolde, Emil: Das Leben Christi, Mitteltafel: Kreuzigung (Detail), 1912, \xC3\x96l auf Leinwand, 100,5 x 86,5 cm, Nolde Stiftung Seeb\xC3\xBCll; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Nolde, Emil: Das Leben Christi, Mitteltafel: Kreuzigung (Detail), 1912, \xC3\x96l auf Leinwand, 100,5 x 86,5 cm, Nolde Stiftung Seeb\xC3\xBCll; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
 - "Nolde, Emil: Zwei Frauen, Japan (Detail), 1913, Aquarell, 20,8 x 16,9 cm, Nolde Stiftung Seeb\xC3\xBCll;  Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
-- "Nolde, Emil: Dschunke mit vollen Segeln (Detail), 1913, Aquarell, 28,9 x 32,1 cm, Nolde Stiftung Seeb\xC3\xBCll; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Nolde, Emil: Dschunke mit vollen Segeln (Detail), 1913, Aquarell, 28,9 x 32,1 cm, Nolde Stiftung Seeb\xC3\xBCll; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
 - "Nolde, Emil: Gertrud Arnthal (Detail), 1913, aquarellierte Federzeichnung, 26,8 x 19,9 cm, Nolde Stiftung Seeb\xC3\xBCll; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
 - "Nolde, Emil: Tropensonne (Detail), 1914, \xC3\x96l auf Leinwand, 71 x 104,5 cm; Nolde Stiftung Seeb\xC3\xBCll; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
-- "Nolde, Emil: Zwei Frauen, Akte (Detail), 1916, \xC3\x96l auf Leinwand, 88,5 x 73 cm, Nolde Stiftung Seeb\xC3\xBCll ; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Nolde, Emil: Zwei Frauen, Akte (Detail), 1916, \xC3\x96l auf Leinwand, 88,5 x 73 cm, Nolde Stiftung Seeb\xC3\xBCll ; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
 - "Nolde, Emil: Unter Palmen (Detail), 1919, \xC3\x96l auf Leinwand, 105,5 x 73 cm, Nolde Stiftung Seeb\xC3\xBCll; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
 author: "Hendrikje H\xC3\xBCneke"
 title: Emil Nolde
 subtitle: ...under full sail...
 date: 2011/03/09
-teaser: "The \xE2\x80\x9ENolde Stiftung Seeb\xC3\xBCll\xE2\x80\x9C is providing an insight into different periods and topics of Noldes work of art. "
+teaser: "The \xE2\x80\x9ENolde Stiftung Seeb\xC3\xBCll\xE2\x80\x9C is providing an insight into different periods and topics of Noldes work of art."
 collection: 25459
 ---
 The „Nolde Stiftung Seebüll“ is providing an insight into different periods and topics of Noldes work of art. 

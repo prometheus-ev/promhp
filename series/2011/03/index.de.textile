@@ -1,9 +1,9 @@
 --- 
 descriptions: 
 - "Cassatt, Mary: Cup of tea (Ausschnitt), 1880, \xC3\x96l auf Leinwand, Museum of Fine Arts, Boston; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
-- "Loo, Carle Van: Einer Sultanin wird eine Tasse Kaffee von einer Sklavin \xC3\xBCberreicht (Ausschnitt), um 1747, \xC3\x96l auf Leinwand, Mus\xC3\xA9e des Arts D\xC3\xA9coratifs, Paris; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
-- "G\xC3\xA4rtner, Friedrich von: Teeservice (Detail), 1839/41, Porzellan, Bayerische Verwaltung der staatlichen Schl\xC3\xB6sser, G\xC3\xA4rten und Seen, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Eisenloeffel, Jan Johannes Wigbold: achtteiliges Kaffee- und Teeservice (Detail), 1902, Zinn/Messing,Werkstatt Eisenloeffel, Overveen bei Haarlem; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau "
+- "Loo, Carle Van: Einer Sultanin wird eine Tasse Kaffee von einer Sklavin \xC3\xBCberreicht (Ausschnitt), um 1747, \xC3\x96l auf Leinwand, Mus\xC3\xA9e des Arts D\xC3\xA9coratifs, Paris; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "G\xC3\xA4rtner, Friedrich von: Teeservice (Detail), 1839/41, Porzellan, Bayerische Verwaltung der staatlichen Schl\xC3\xB6sser, G\xC3\xA4rten und Seen, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Eisenloeffel, Jan Johannes Wigbold: achtteiliges Kaffee- und Teeservice (Detail), 1902, Zinn/Messing,Werkstatt Eisenloeffel, Overveen bei Haarlem; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau"
 - "Engelbrecht, Johann: Teeservice (Detail), 1732-33, Silber, Residenz, M\xC3\xBCnchen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
 - "Bernhard, Lucian: Kaffee Hag, coffeinfrei (Ausschnitt), 1909, Plakat, Folkwang-Museum, Essen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
 - "Christiansen, Hans: Thee-Fabrik soundso & Co (Ausschnitt),1899, Bleistift/Aquarell, St\xC3\xA4dtische Museen und Sammlungen f\xC3\xBCr den Landesteil Schleswig, Museumsberg Flensburg; digiCULT Museen, digiCULT, Kiel"
