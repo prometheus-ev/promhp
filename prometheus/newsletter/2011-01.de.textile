@@ -1,0 +1,152 @@
+--- 
+layout: default
+title: Newsletter 2011 / 01
+---
+h2. <%= page_title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de
+
+
+
+
+Liebe Abonnentin, lieber Abonnent,
+
+auf den Tag genau zehn Jahre ist es nun her, dass prometheus das Feuer  
+entfachte und die digitale Welt eroberte. Seither ist viel passiert:  
+Zeit für eine Rückschau auf die vergangene Dekade! Aber wir wollen den  
+Blick auch nach vorne richten: Auf unserer Jubiläumstagung »Die  
+digitale Perspektive - eine schöne Aussicht?« möchten wir mit Ihnen  
+über die digitale Zukunft der Kunst- und Kulturwissenschaften  
+diskutieren und laden Sie herzlich auch zum anschließenden Festakt  
+ein. Die studentischen Leserinnen und Leser, die sich mit  
+mediendidaktischen Anwendungen beschäftigen, sind nachdrücklich  
+aufgefordert, Bewerbungen für unseren Preis, den »esPrix«,  
+einzuschicken. Aufmerksam machen wir außerdem auf unseren Auftritt bei  
+Facebook und unseren Twitter-Account.
+
+In erster Linie aber möchten wir uns mit diesem Newsletter bei Ihnen  
+bedanken. Vielen Dank, dass Sie uns 10 Jahre lang die Treue gehalten  
+haben. Wir wünschen Ihnen allen einen schönen Frühlingsanfang und -  
+wen es betrifft - einen guten Start ins Sommersemester.
+
+Mit herzlichen Grüßen,
+für prometheus e.V.
+Sigrid Ruby und Lisa Dieckmann
+
+
+****************************************************************************
+
+
+*10 JAHRE PROMETHEUS*
+
+Zehn aufregende, erfolgreiche, inspirierende und ereignisreiche Jahre  
+liegen hinter uns. Den Erfolg verdanken wir in erster Linie Ihnen: den  
+zahlreichen Nutzerinnen und Nutzer, die Sie täglich auf das Bildarchiv  
+zugreifen, und den Kooperationspartnern von Museen,  
+Hochschulinstituten und Forschungseinrichtungen, die dem Verbund die  
+insgesamt 61 Datenbanken aus den Bereichen Kunstgeschichte,  
+Archäologie, Didaktik, Architekturgeschichte, Videokunst,  
+Designgeschichte, Fotografie, Ägyptologie, Theologie und Geschichte  
+und damit inzwischen 758.921 Bilder zur Verfügung stellen. Doch fangen  
+wir vorne an ...
+
+*DER START*
+Gefördert vom Bundesministerium für Bildung und Forschung mit einer  
+Gesamtsumme von 1,8 Mio. Euro ging das bundesweite Verbundprojekt am  
+1. April 2001 an den Start. Mit der Zusammenführung von  
+Bilddatenbanken an einem virtuellen Ort, der interdisziplinären  
+Vernetzung und der Entwicklung von E-Learning-Werkzeugen wurden die  
+Kunstgeschichte, die Klassische Archäologie und andere bildbasierte  
+Wissenschaften allmählich »digital« und verdrängten das Dia zusehends.  
+In den ersten drei Projektjahren konnten bereits 20 Datenbanken und  
+mehr als 150.000 Bilder eingebunden werden. 60 wissenschaftliche  
+Einrichtungen schlossen sich an.
+
+*VERSTETIGUNG*
+Nach der Projektzeit stand die Verstetigung an erster Stelle. Der  
+während der Projektlaufzeit gegründete gemeinnützige Verein trat die  
+Rechtsnachfolge des Projekts an, um die Finanzierung und technische  
+Struktur von prometheus sicherzustellen. Das 2005 eingeführte  
+Lizenzmodell und eine dreijährige gestaffelte Übergangsfinanzierung  
+durch die Universität zu Köln und die Sal. Oppenheim-Stiftung sicherte  
+zunächst die Existenz, die 2008 in eine eigenständige Finanzierung  
+über Lizenzgebühren mündete.
+
+*KOOPERATIONEN*
+Wichtige Kooperationen und Vertragsabschlüsse wurden auf den Weg  
+gebracht, von denen wir zwei noch einmal herausheben wollen: Für die  
+Rechtssicherheit des Verbundes wurde 2006 eine vertragliche  
+Übereinkunft mit der Verwertungsgesellschaft BILD-KUNST geschlossen.  
+Zudem brachte prometheus die Kooperation mit dem Bildportal der  
+Kunstmuseen (bpk) zur unkomplizierten Einholung von  
+Publikationsgenehmigungen auf den Weg.
+
+*PROJEKTE*
+In der letzten Dekade wurden in Kooperation mit prometheus auch  
+weitere Projekte in Angriff genommen: Das Projekt »perseus-a« zur  
+automatischen Erschließung des Bildarchivs und der Optimierung der  
+Suchfunktionen ging 2007 an den Start. Nach dem Einsturz des Kölner  
+Stadtarchivs wurde »Das digitale Historische Archiv Köln« gegründet,  
+das dem Archivwesen als Forschungs- und Informationsplattform dient  
+und als Digitaler Lesesaal fungiert. Aktuell wird mit dem  
+DFG-geförderten Projekt »Meta-Image« am Aufbau einer virtuellen  
+Forschungsumgebung für den Bilddiskurs in den Kunst- und  
+Kulturwissenschaften gearbeitet.
+
+*AKTUELLES*
+In den letzten Jahren haben wir einige Energie in den Ausbau des  
+prometheus-2.0-Bereichs gesteckt, um die Kommunikation und  
+kollaboratives Arbeiten zu fördern. Dazu gehörten die Integration des  
+Blogs und der Kommentarfunktion an Bildsammlungen, die Einrichtung der  
+prometheus-users-Mailingliste und die Möglichkeit, anderen Nutzerinnen  
+und Nutzern Nachrichten über das eigene prometheus-Profil zu  
+schreiben. Da lag es auf der Hand, prometheus auch innerhalb der  
+sozialen Netzwerke zu positionieren! Wir hoffen, dass bei Facebook und  
+Twitter lebhaft mit und über prometheus diskutiert wird und sich ein  
+reger Austausch einstellt. Werden Sie »Fan« von prometheus auf  
+Facebook und klicken Sie den »Gefällt-mir-Button« auf  
+"Facebook":http://www.facebook.com/pages/prometheus-das-verteilte-digitale-Bildarchiv-f%C3%BCr-Forschung-und-Lehre/196945086992289. Folgen Sie auch den Tweets von prometheus e.V. auf "Twitter":http://twitter.com/prometheus_eV.
+
+*TAGUNG - DIE DIGITALE PERSPEKTIVE*
+Am 4./5. November laden wir Sie herzlich nach Köln zur Tagung »Die  
+digitale Perspektive - eine schöne Aussicht? verbinden - verorten -  
+verwandeln - verankern« ein.
+
+In den letzten 10 Jahren hat sich die »Netzwerkgesellschaft«  
+etabliert, die digitalen Bildwissenschaften haben eine rasante  
+Entwicklung genommen. Die Jubiläumstagung möchte weniger auf das  
+Vergangene zurückblicken als vielmehr eine kritische  
+Standortbestimmung liefern und nach künftigen Entwicklungen und  
+Visionen für Archäologie, Kunstgeschichte und Bildwissenschaften in  
+den Bereichen der Zusammenführung von Bild und Text (VERBINDEN), der  
+standortbezogenen Dienste (VERORTEN) und der 3D-Technologien  
+(VERWANDELN) fragen, diese kritisch beleuchten und methodisch VERANKERN.
+
+Wir laden Interessierte aller Disziplinen und Sparten herzlich ein,  
+auf den Call for Papers zu reagieren. Nähere Informationen finden Sie  
+unter "http://prometheus-bildarchiv.de/tagung2011":http://prometheus-bildarchiv.de/tagung2011.
+Reichen Sie Ihr Abstract (max. 2 Seiten, max. 4.000 Zeichen)  
+elektronisch über EasyChair bis zum 8. Mai 2011 ein:  
+"https://www.easychair.org/conferences/?conf=prometheus20110":https://www.easychair.org/conferences/?conf=prometheus20110 oder  
+schicken Sie es an "lisa.dieckmann@uni-koeln.de":mailto:lisa.dieckmann@uni-koeln.de
+
+*ESPRIX*
+Im Sinne des Vereinszwecks fördert prometheus e.V. junge  
+Wissenschaftler und Wissenschaftlerinnen mit der Vergabe des »esPrix«,  
+einem Preis für die mediendidaktische Aufbereitung digitaler  
+Information.
+
+Ausgeschrieben werden zwei Preise (ein studentischer und ein  
+schulischer) für herausragende mediendidaktische Anwendungen im  
+Bereich der Kunst- und Kulturwissenschaften! Bis zum 30. September  
+können die selbst erstellten Lernmaterialien, die in die Lernwelt von  
+prometheus integrierbar sind, über esprix@prometheus-bildarchiv.de  
+eingereicht werden. Den Gewinnern winken jeweils 500 Euro! Die  
+feierliche Preisverleihung findet auf der Tagung »Die digitale  
+Perspektive - eine schöne Aussicht?« am Freitagabend beim Festakt statt.
+
+
+
+Redaktion: PD Dr. Sigrid Ruby ("sigrid.ruby@geschichte.uni-giessen.de":mailto:sigrid.ruby@geschichte.uni-giessen.de)  
+und Lisa Dieckmann M.A. ("lisa.dieckmann@uni-koeln.de":mailto:lisa.dieckmann@uni-koeln.de)
+

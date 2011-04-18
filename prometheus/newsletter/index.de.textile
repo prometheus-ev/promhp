@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Newsletter-Archiv
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=384
@@ -6,6 +6,15 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=384
 h2. <%= page_title %>
 
 <%# TODO: current + info %>
+
+h3. 2011
+
+* "Newsletter 2011/01":<%=r 'prometheus/newsletter/2011-01' %>
+
+h3. 2010
+
+* "Newsletter 2010/02":<%=r 'prometheus/newsletter/2010-02' %>
+* "Newsletter 2010/01":<%=r 'prometheus/newsletter/2010-01' %>
 
 h3. 2009
 

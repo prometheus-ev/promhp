@@ -1,0 +1,106 @@
+--- 
+layout: default
+title: Newsletter 2010 / 01
+---
+h2. <%= page_title %>
+*prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre e.V.*
+"www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de
+
+
+Liebe Abonnentin, lieber Abonnent,
+
+verbunden mit guten Wünschen für das neue Jahr blicken wir im heutigen Newsletter kurz zurück auf 2009 und liefern Ihnen ein paar interessante Zahlen und Daten zum Bildarchiv. Darüber hinaus möchten wir Sie über neu eingebundene Datenbanken und weitere Entwicklungen informieren und zudem einen kleinen Ausblick auf 2010 geben.
+
+Mit besten Grüßen
+für prometheus e.V.,
+Lisa Dieckmann
+
+--------------------------------------------------------------
+
+*INHALT*
+
+1) Zwei neue Datenbanken integriert
+2) RSS-Feeds für Bildsammlungen
+3) Neue prometheus-Server
+4) Restaurierungspatenschaften - Historisches Archiv der Stadt Köln
+5) Facts&Figures 2009
+6) prometheus 2010 - Ausblick
+7) prometheus - Kontakt
+
+
+
+*1) Zwei neue Datenbanken integriert*
+
+Das Projekt Lichtbildarchiv älterer Originalurkunden online (LBA online) der Philipps-Universität Marburg hat im Rahmen einer Kooperation einen Bestand von vorerst ca. 1.300 hochauflösenden fotografischen Abbildungen früh- und hochmittelalterlicher Urkundensiegel in prometheus eingestellt. Zukünftig werden alle knapp 5.000 Siegelabbildungen in prometheus recherchierbar sein. Zudem besteht die Möglichkeit über einen Link am Bild in die Urspungsdatenbank zu gelangen und somit den Kontext - die dazugehörige Urkunde - hochauflösend zu betrachten. Die Siegelabbildungen sind als Open-Access-Datenbank in prometheus eingebunden und stehen unter "http://prometheus.uni-koeln.de/pandora/open_access":http://prometheus.uni-koeln.de/pandora/open_access auch öffentlich allen Besuchern frei zur Verfügung.
+
+Außerdem konnte die Datenbank des Instituts für Kunstpädagogik an der Universität Gießen für eine Einbindung gewonnen werden. Schwerpunkte sind: Moderne und Postmoderne, Populärkultur, Trivialkunst, Werbung, Massenmedien.
+
+
+*2) RSS-Feeds für Bildsammlungen*
+
+Sie können sich ab sofort selbst über alle Änderungen in einzelnen Bildsammlungen oder in den Listen der Bildsammlungen (Eigene, Öffentliche, Freigegebene) informieren. Wir stellen für Sie nun RSS-Feeds zur Verfügung.
+Bisher mussten Sie jeden Tag nachsehen, ob die BenutzerInnen in den freigegebenen Bildsammlungen Änderungen vorgenommen hatten und ob neue Sammlungen von anderen BenutzerInnen freigegeben wurden. Das gehört nun der Vergangenheit an. Neben der einzelnen Bildsammlung und den Listen finden Sie einen RSS-Feed-Button, mit dem Sie mit einem Klick das dynamische Lesezeichen für den entsprechenden Bereich generieren können.
+
+
+
+*3) Neue prometheus-Server*
+
+Wir haben investiert und auf ein neues Serversystem umgestellt. Damit können wir einen Dienst anbieten, der noch zuverlässiger und sicherer ist als bisher.
+Das neue Serversystem kann man als Virtualisierung beschreiben. Konkret heißt das, dass die diversen Hardwaresysteme in mehrere Instanzen einer virtuellen Umgebung überführt werden. Dies bringt eine Reihe von Vorteilen, die vornehmlich die Serveradministration und die Datenhaltung betreffen. Allem voran steht eine verbesserte Ressourcenausnutzung, die zu Kostensenkung und Energieersparnis führt und es erlaubt, flexibel auf künftige Anforderungen zu reagieren. Darüber hinaus bietet die relative Unabhängigkeit von der Hardware eine höhere Ausfallsicherheit: Fällt ein Hostsystem aus oder muss zu Wartungszwecken heruntergefahren werden, können die virtuellen Maschinen auf andere Hosts transferiert werden und dort ihren Dienst fortsetzen. Außerdem erlaubt die anwendungsspezifische Zuweisung von Ressourcen eine optimale Verteilung und verringert Redundanzen in der Datenhaltung. Zudem wird die gegenseitige Beeinflussung der einzelnen Systeme in Lastsituationen vermieden.
+Mit diesem neuen Serversystem kann prometheus getrost weiter wachsen und sich den Herausforderungen durch neue Funktionen für die Benutzer stellen.
+
+
+*4) Restaurierungspatenschaften - Historisches Archiv der Stadt Köln*
+
+prometheus baut das Digitale Historische Archiv (http://www.historischesarchivkoeln.de) zusammen mit der Abteilung für Rheinische Landesgeschichte der Universität Bonn und dem Historischen Archiv der Stadt Köln (HAStK) weiter aus.
+Unter der Rubrik "Restaurierungspatenschaften" stellen wir nun Archivalien vor, die zwar geborgen werden konnten, jedoch einer umfassenden Restaurierung bedürfen. Betonteilchen und -staub haben jedes einzelne Blatt verschmutzt, viele Stücke sind schwer beschädigt. Für die fachgerechte Reinigung und Wiederherstellung aller Bestände benötigt das Archiv mehrere hundert Millionen Euro, auf die Restauratoren warten mehrere Jahrzehnte Arbeit.
+Wollen Sie auch Restaurierungspate werden? Nähere Informationen finden Sie unter "http://www.historischesarchivkoeln.de/paten_einleitung.php":http://www.historischesarchivkoeln.de/paten_einleitung.php.
+
+
+*5) Facts&Figures 2009*
+
+- Die Einzelzugänge wurden um 4.171 auf insgesamt 9.115 verdoppelt.
+- 93.623 Bilder und 7 Datenbanken sind hinzugekommen und haben den Bilderpool auf aktuell 659.496 Bilder aus 54 Datenbanken erhöht.
+- Weitere 19 Institutionen haben eine Lizenz erworben (insgesamt gibt es aktuell 104 lizenzierte Institutionen).
+- 303.842 Sessions sind zu verzeichnen (d.h. es gibt durchschnittlich 832 Log-ins am Tag, wobei in Vorlesungszeiten Spitzenwerte bis zu 1400 Log-ins am Tag erreicht wurden).
+- Die Anzahl der öffentlichen Bildsammlungen ist seit der Implementierung im August 2009 auf 71 angestiegen.
+- 1.934.960 Seiten wurden 2009 aufgerufen (durchschnittlich 5.300 Seitenaufrufe am Tag)
+- Insgesamt wurden 823.813 Suchanfragen gestellt (durchschnittlich 2.257 Suchanfragen am Tag), wobei die 10 beliebtesten Suchterme waren:
+  1.  Rom
+  2.  Dürer
+  3.  Picasso
+  4.  Michelangelo
+  5.  Rubens
+  6.  Florenz
+  7.  Rembrandt
+  8.  Dom
+  9.  Berlin
+  10. Tizian
+
+
+
+*6) prometheus 2010 - Ausblick*
+
+Wir haben uns viel vorgenommen für 2010! Ganz oben steht die Verbesserung der Usability und das Redesign der Oberfläche. Insgesamt sollen die einzelnen Bereiche besser auf einander abgestimmt, die einzelnen Elemente verständlicher und die Arbeit in prometheus damit angenehmer werden. Wir werden Sie über den Fortgang regelmäßig informieren.
+
+Auf Ihre Anregungen hin werden wir Ihnen in diesem Jahr auch die Möglichkeit bieten, Voreinstellungen zu Ihrem Zugang vorzunehmen, so dass Sie z.B. die Suchparameter oder die Anzeigeoptionen nach Ihren Wünschen standardmäßig einstellen können. Außerdem soll auch eine persönliche Oberfläche für Sie eingerichtet werden, die nach Ihren Bedürfnissen gestaltet werden kann, um z.B. einen Schnellzugriff auf einzelne Bereiche zu ermöglichen.
+
+Daneben werden wir auch weiterhin Arbeit in die Bildsammlungen stecken, die von Ihnen fleißig genutzt werden. Mit der Integration des bildorientierten Werkzeugs 'HyperImage' in prometheus ("http://www.meta-image.de":http://www.meta-image.de) wird es möglich sein, an beliebigen Bildausschnitten zu arbeiten, Bilddetails präzise zu markieren, zu beschreiben und miteinander zu verknüpfen.
+
+Außerdem werden wir natürlich immer weiter daran arbeiten, die Performance zu verbessern, die Suche zu optimieren und den Bilderpool um interessante und qualitativ hochwertige Daten zu erweitern.
+
+Bei allen Entwicklungen sind wir natürlich auf Ihre Meinung angewiesen. Teilen Sie uns Ihre Wünsche, Bedenken und Anregungen unter "http://prometheus.uni-koeln.de/pandora/feedback":http://prometheus.uni-koeln.de/pandora/feedback mit oder wenden Sie sich direkt an die prometheus-Geschäftsstelle.
+
+
+*7) prometheus - Kontakt*
+
+Wenn Sie an dem Erwerb einer Lizenz interessiert sind, besuchen Sie unsere Webseite unter "http://www.prometheus-bildarchiv.de/index.php?id=55":http://www.prometheus-bildarchiv.de/index.php?id=55 oder wenden Sie sich als VertreterIn einer Hochschule oder Institution direkt an das HBZ in Köln, Dr. Jochen Johannsen, Jülicher Straße 6, 50674 Köln, "inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de
+
+Eine Liste aller Institutionen, die bereits eine Lizenz halten, finden Sie auf der prometheus-Webseite unter "http://www.prometheus-bildarchiv.de/?id=52":http://www.prometheus-bildarchiv.de/?id=52
+
+Bei Fragen und Anregungen ist selbstverständlich auch unsere prometheus-Geschäftsstelle in Köln für Sie da: Mo-Fr, jeweils 10-18 Uhr, Telefon: 0221-470 4476, Telefax: 0221-470 6773, "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
+
+
+
+Redaktion: Lisa Dieckmann M.A. ("lisa.dieckmann@uni-koeln.de":mailto:lisa.dieckmann@uni-koeln.de)
+
