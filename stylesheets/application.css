@@ -653,31 +653,37 @@ body.administration-controller.index-action .gap {
   background-image:  url(../images/misc/statusbar.gif);
   min-height:        22px;
   max-height:        22px;
-  line-height:       16px;
+  line-height:       20px;
+  font-size:         9px;
   text-align:        right;
+}
+
+#statusbar > span {
+  border-left:       1px solid rgb(104,104,104);
+  padding-left:      13px;
+  padding-right:     10px;
+}
+
+#statusbar img {
+  vertical-align:    text-top;
+  padding-top:       1px;
+}
+
+span#loginfo, span#locale_switcher {
+  border:            none;
 }
 
 #statusbar a {
   color:             rgb(204,204,204);
 }
 
-.statusbar_link {
-  color:             rgb(204,204,204);
-  border-left:       1px solid rgb(104,104,104);
-  padding-left:      13px;
-  padding-right:     10px;
-  font-size:         9px;
-  vertical-align:    middle;
-}
-
-#loginfo {
-  margin-right:      20px;
-}
-
 #loginfo a {
   color:             rgb(255,255,255);
-  font-size:         9px;
-  vertical-align:    middle;
+}
+
+#locale_switcher .pale {
+  margin-left:       4px;
+  margin-right:      4px;
 }
 
 #menu {
@@ -1152,7 +1158,8 @@ div.slide input[type=radio] {
   margin:            3px 0;
 }
 
-.header-line .title-line {
+.header-line .title-line,
+.header-line .page_title {
   float:             left;
   display:           inline-block;
   vertical-align:    top;
@@ -2174,6 +2181,10 @@ body.help-controller img.screenshot {
   margin-top:        0.5em;
 }
 
+body.help-controller h3 a {
+  color:             inherit;
+}
+
 #help-header {
   border-bottom:     1px solid rgb(80,80,80);
 }
@@ -2213,10 +2224,49 @@ body.source-controller.validate-action #errors.invalid {
   border-color:      rgb(201,0,0);
 }
 
-pre.bounce_error {
+pre.bounce_error,
+body.pandora-controller.api-action pre {
   white-space:       normal;
   padding:           10px;
   margin:            0 10px;
   color:             rgb(0,0,0);
   background-color:  rgb(180,180,180);
+}
+
+body.pandora-controller.api-action pre a {
+  color:             inherit;
+}
+
+body.pandora-controller.api-action h3 {
+  margin-bottom:     0.8em;
+}
+
+body.pandora-controller.api-action h5 {
+  margin-bottom:     0.4em;
+}
+
+body.pandora-controller.api-action h3 + p,
+body.pandora-controller.api-action h5 + p {
+  margin-top:        0;
+}
+
+body.pandora-controller.api-action dt {
+  font-style:       italic;
+}
+
+body.pandora-controller.api-action div.api-details {
+  margin-left:       20px;
+}
+
+body.pandora-controller.api-action div.api-details dd {
+  font-family:      Typewriter, monospace;
+}
+
+body.pandora-controller.api-action div.api-details h4 {
+  margin-left:       -20px;
+}
+
+body.pandora-controller.api-action.js h3.api-method:hover {
+  cursor:            pointer;
+  color:             rgb(255,255,255);
 }
