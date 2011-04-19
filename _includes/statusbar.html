@@ -2,10 +2,18 @@
   <a href="<%=p 'signup' %>"><%=t 'Sign up!', 'Neu anmelden!' %></a>
 </span>
 
-<span class="statusbar_link">
+<span>
   <a href="<%=p 'help' %>"><%=t 'Help', 'Hilfe' %></a>
 </span>
 
-<span class="statusbar_link">
+<span>
   <a href="<%=p 'login' %>"><%=t 'login', 'anmelden' %></a>
+</span>
+
+<span id="locale_switcher">
+  <strong><%= native_lang %></strong>
+  <span class="pale">|</span>
+<% for lang in other_langs -%>
+  <a href="<%= canonical_url(lang) %>" title="<%=tl(lang, 'Switch to %s language', 'Sprache auf %s umstellen') % name = native_lang(lang) %>"><%= name %></a>
+<% end -%>
 </span>
