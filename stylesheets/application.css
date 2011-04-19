@@ -681,7 +681,15 @@ span#loginfo, span#locale_switcher {
   color:             rgb(255,255,255);
 }
 
-#locale_switcher .pale {
+#loginfo span {
+  margin-left:       4px;
+}
+
+#loginfo span a {
+  color:             inherit;
+}
+
+#loginfo .pale, #locale_switcher .pale {
   margin-left:       4px;
   margin-right:      4px;
 }
@@ -2154,6 +2162,10 @@ div.comment-owner > * > div.comment-heading {
 
 div.comment-user > * > div.comment-heading {
   background-color:  rgb(60,60,60);
+}
+
+#new_comment {
+  margin-bottom:     1em;
 }
 
 body.account-controller.signup-action th,
