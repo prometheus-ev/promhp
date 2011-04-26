@@ -13,4 +13,4 @@ tags:
 Nachdem "Bildsammlungen ja nun schon seit einiger Zeit mit Kommentaren versehen werden können":<%=r 'blog/out-of-the-box-pandora-v0-3-6-r2507' %>, ist dies seit heute auch bei einzelnen Bildern möglich.
 Eigentlich handelt es sich hierbei um keinen großen Schritt, zumindest technisch gesehen, doch wir haben eine Weile für den Entschluss gebraucht. Am Ende war für uns aber mal wieder klar: mehr Möglichkeiten zur Kommunikation können nur besser sein.
 
-Wir erhoffen uns von diesem Schritt, dass die NutzerInnen des Bildarchivs gegenseitig stärker von der Expertise anderer profitieren. *Seien Sie also nicht schüchtern und schreiben Sie Ihre Anmerkungen einfach direkt ans Bild.*
+Wir erhoffen uns von diesem Schritt, dass die NutzerInnen des Bildarchivs stärker von der Expertise anderer profitieren. *Seien Sie also nicht schüchtern und schreiben Sie Ihre Anmerkungen einfach direkt ans Bild.*
