@@ -1,8 +1,8 @@
 ---
 ---
 <%
-  lang_ext      = '([a-z]{2})'
-  multiview_ext = "(?:\\.html(?:\\.#{lang_ext.delete('()')})?)?"
+  lang_ext      = "(#{Jekyll::Localization::LANGUAGES.join('|')})"
+  multiview_ext = "(?:\\.html(?:\\.#{lang_ext.sub('(','(?:')})?)?"
 -%>
 RewriteEngine On
 
