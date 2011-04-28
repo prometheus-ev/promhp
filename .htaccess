@@ -36,6 +36,9 @@ RewriteCond %{QUERY_STRING} (?:\A|&)id=(\d+)(?:&|\z)
 RewriteRule .* ${prom-old-to-new:%1|/}? [L,R=permanent]
 RewriteRule \A(?:t3pro|index\.php\z) /? [L,R=permanent]
 
+# beschreibungscoach.de
+RewriteRule \Abc<%= multiview_ext %>(?:\z|/) <%= File.join(site.uri.path, 'tools/modules/method-coach/beschreibungscoach') %> [L,R=permanent]
+
 # Code login
 RewriteRule \Acode<%= multiview_ext %>(?:\z|/) <%=p 'code' %> [L,R]
 
