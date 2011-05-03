@@ -2,5 +2,6 @@
 ---
 User-agent: *
 Disallow: /wiki/
+Noindex: /wiki/
 
 Sitemap: <%= site.url %>/sitemap.xml
