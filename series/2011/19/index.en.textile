@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Schmidt-Rottluff, Karl: Haus im Nebel (Detail),1909, Aquarell, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schmidt-Rottluff, Karl: Park am Mittag (Detail), 1909, Aquarell und Tusche, Berlin; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin"
+- "Schmidt-Rottluff, Karl: Bauernhaus (Detail), 1911, Aquarell \xC3\xBCber Graphit, o.O.; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schmidt-Rottluff, Karl: Melancholie (Detail)), 1914, Holzschnitt, 50 x 39 cm, o.O.; Mediathek, Heinrich-Heine-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, D\xC3\xBCsseldorf"
+- "Schmidt-Rottluff, Karl: M\xC3\xA4dchenkopf (Detail), 1918, Aquarell, Kreide, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Schmidt-Rottluff, Karl: Blumenstilleben (Detail) um 1940/1945, Aquarell und Tuschpinsel, 64,7 x 48,9 cm, o.O.; Mediathek, Heinrich-Heine-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, D\xC3\xBCsseldorf"
+- "Schmidt-Rottluff, Karl: Sommerflieder (Detail), 1959, Aquarell; Kunsthalle, Emden, Stiftung Henri Nannen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Schmidt-Rottluff, Karl: Selbstbildnis (Detail), 1969, Aquarell, Tusche, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+author: "Hendrikje H\xC3\xBCneke"
+title: Karl Schmidt-Rottluff
+subtitle: The late watercolours
+date: 2011/05/05
+teaser: "By mid-may an exhibition will be over, which presents unknown watercolours of the late work of Karl Schmidt-Rottluff. "
+collection: 26518
+---
+By mid-may an exhibition will be over, which presents unknown watercolours of the late work of Karl Schmidt-Rottluff. 
+It seems that watercolour was predestined for the spontaneous, colourful and simplifyingway of painting by Schmidt-Rottluff. There are watercolours from the early years, when the artist group Brücke was founded, to the late 1960th. In the exhibition the watercolours were complemented with a selection of pen-and-ink drawings and prints, like the woodcut “Melancholie”.
+
+
+*"Karl Schmidt-Rottluff, Unknown works of art":http://www.barlach-haus.de/Englisch/Ausstellungen/ausstellungen_aktuell_Hamburg.html, January 23th  to May 15th, 2011, Ernst Barlach Haus, Hamburg*

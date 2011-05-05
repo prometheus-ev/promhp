@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Schmidt-Rottluff, Karl: Haus im Nebel (Ausschnitt),1909, Aquarell, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schmidt-Rottluff, Karl: Park am Mittag (Ausschnitt), 1909, Aquarell und Tusche, Berlin; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin"
+- "Schmidt-Rottluff, Karl: Bauernhaus (Ausschnitt), 1911, Aquarell \xC3\xBCber Graphit, o.O.; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schmidt-Rottluff, Karl: Melancholie (Ausschnitt), 1914, Holzschnitt, 50 x 39 cm, o.O.; Mediathek, Heinrich-Heine-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, D\xC3\xBCsseldorf"
+- "Schmidt-Rottluff, Karl: M\xC3\xA4dchenkopf (Ausschnitt), 1918, Aquarell, Kreide, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schmidt-Rottluff, Karl: Blumenstilleben (Ausschnitt), um 1940/1945, Aquarell und Tuschpinsel, 64,7 x 48,9 cm, o.O.; Mediathek, Heinrich-Heine-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, D\xC3\xBCsseldorf"
+- "Schmidt-Rottluff, Karl: Sommerflieder (Ausschnitt), 1959, Aquarell; Kunsthalle, Emden, Stiftung Henri Nannen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Schmidt-Rottluff, Karl: Selbstbildnis (Ausschnitt), 1969, Aquarell, Tusche, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+author: "Hendrikje H\xC3\xBCneke"
+title: Karl Schmidt-Rottluff
+subtitle: "Aquarelle aus dem Sp\xC3\xA4twerk"
+date: 2011/05/05
+teaser: "Am 15. Mai geht im Ernst Barlach Haus eine Ausstellung zu Ende, die unbekannte Aquarelle aus dem Sp\xC3\xA4twerk des Expressionisten Karl Schmidt-Rottluff zeigt. "
+collection: 26518
+---
+Am 15. Mai geht im Ernst Barlach Haus eine Ausstellung zu Ende, die unbekannte Aquarelle aus dem Spätwerk des Expressionisten Karl Schmidt-Rottluff zeigt. Erstmalig konnten die aus Privatbesitz stammenden Werke der Öffentlichkeit präsentiert werden. 
+Für die spontane, farbenfrohe und großzügige Malerei Schmidt-Rottluffs scheint die Technik der Aquarellzeichnung prädestiniert gewesen zu sein. So entstanden von den frühen Jahren der Brücke-Bewegung bis in die späten 1960er Jahre hinein Aquarelle. Die späten Arbeiten bilden den Schwerpunkt der Ausstellung und wurden durch eine Auswahl von Tuschezeichnungen und Druckgrafiken, wie zum Beispiel den Holzschnitt „Melancholie“, ergänzt.
+
+*"Karl Schmidt-Rottluff, Unbekannte Blätter aus einer Privatsammlung":http://www.barlach-haus.de/Ausstellungen/ausstellungen_aktuell_Hamburg.html, 23. Januar bis 15. Mai 2011, Ernst Barlach Haus, Hamburg*
