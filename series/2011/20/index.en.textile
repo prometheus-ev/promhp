@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Liebermann, Max: Das Kohlfeld (Detail), 1912, \xC3\x96l auf Leinwand, 70 x 100 cm, Gem\xC3\xA4ldegalerie Neue Meister, Dresden; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Liebermann, Max: Wannseegarten - Blumenterrasse (Detail), 1929, \xC3\x96l auf Leinwand, 86 x 118 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Liebermann, Max: Der Nutzgarten nach Nordosten \xE2\x80\x93 Blumenstauden (Detail), 1916, \xC3\x96l auf Leinwand, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Liebermann, Max: Die Gartenbank (Detail), 1917, \xC3\x96l auf Leinwand, 71 x 86 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Liebermann, Max: Die Birkenallee nach Westen (Detail), 1919, \xC3\x96l auf Leinwand, 66 x 82 cm, Landesmuseum f\xC3\xBCr Kunst und Kulturgeschichte, Oldenburg; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Liebermann, Max: Das Rondell im Heckengarten mit Blumensprengerin (Detail), 1925, \xC3\x96l auf Leinwand, 71,5 x 93 cm, Winterthur, Z\xC3\xBCrich; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Liebermann, Max: Wannseegarten (Detail), 1926, \xC3\x96l auf Leinwand, 54 x 75 cm, Kunsthalle, Emden; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn "
+- "Liebermann, Max: Haus am Wannsee (Detail), 1926, \xC3\x96l auf Holz, 31,5 x 41 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+author: "Hendrikje H\xC3\xBCneke"
+title: "Liebermann\xC2\xB4s Garden"
+subtitle: A reflection
+date: 2011/05/05
+teaser: In the years after 1910 the Liebermann family used to spend the summer at Wannsee Berlin.
+collection: 26461
+---
+In the years after 1910 the Liebermann family used to spend the summer at Wannsee Berlin. During that time over 200 canvas were being painted, all of them showing themes of Liebermann's garden surrounding his summer residence. Liebermann had designed the garden with its hedge garden, avenue of birches, flower garden, tea pavillon and kitchen garden together with his friend Alfred Lichtwark, the director of the Kunsthalle Hamburg.
+
+In addition to the exhibition a reflection of this garden is being presented on the roof of the Bundeskunsthalle. The garden's three main elements – hedge garden, birch avenue and flower garden - as well as the garden's visual axes are freely arranged.  
+
+*"Max Liebermann – The Artist's Garden on the roof / Max Liebermann – Pioneer of Modern Art":http://bundeskunsthalle.de/, 21th of April to 11th of September, Bundeskunsthalle, Bonn*

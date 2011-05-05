@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Liebermann, Max: Das Kohlfeld (Ausschnitt), 1912, \xC3\x96l auf Leinwand, 70 x 100 cm, Gem\xC3\xA4ldegalerie Neue Meister, Dresden; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Liebermann, Max: Der Nutzgarten nach Nordosten \xE2\x80\x93 Blumenstauden (Ausschnitt), 1916, \xC3\x96l auf Leinwand, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Liebermann, Max: Die Gartenbank (Ausschnitt), 1917, \xC3\x96l auf Leinwand, 71 x 86 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Liebermann, Max: Die Birkenallee nach Westen (Ausschnitt), 1919, \xC3\x96l auf Leinwand, 66 x 82 cm, Landesmuseum f\xC3\xBCr Kunst und Kulturgeschichte, Oldenburg; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Liebermann, Max: Das Rondell im Heckengarten mit Blumensprengerin (Ausschnitt), 1925, \xC3\x96l auf Leinwand, 71,5 x 93 cm, Winterthur, Z\xC3\xBCrich; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Liebermann, Max: Wannseegarten (Ausschnitt), 1926, \xC3\x96l auf Leinwand, 54 x 75 cm, Kunsthalle, Emden; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn "
+- "Liebermann, Max: Haus am Wannsee (Ausschnitt), 1926, \xC3\x96l auf Holz, 31,5 x 41 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Liebermann, Max: Wannseegarten - Blumenterrasse (Ausschnitt), 1929, \xC3\x96l auf Leinwand, 86 x 118 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+author: "Hendrikje H\xC3\xBCneke"
+title: Liebermanns Garten
+subtitle: Eine Reflexion
+date: 2011/05/05
+teaser: 
+collection: 26461
+---
+Ab 1910 lebte die Familie Liebermann über die Sommermonate am Berliner Wannsee. Die Gartenanlage um Liebermanns Sommerhaus wurde Motiv für über 200 Gemälde. Gemeinsam mit dem Freund Alfred Lichtwark, dem Direktor der Hamburger Kunsthalle, hatte Max Liebermann den Garten mit Heckengärten, Birkenweg, Blumenterrasse, Teepavillon und Nutzgarten entworfen.  
+
+Ergänzend zu einer Liebermann-Ausstellung wird auf dem Dach der Bundeskunsthalle ein Reflexion der Gartenanlage präsentiert. Die drei Hauptelemente - Heckengärten, Birkenallee und Blumengarten - sowie die Blickachsen des Wannseegartens werden in freier Anordnung zitiert.  
+
+
+*"Max Liebermann - Der Künstlergarten auf dem Dach der Bundeskunsthalle / Max Liebermann - Wegbereiter der Moderne":http://bundeskunsthalle.de/, 21. April bis 11. September 2011, Bundeskunsthalle, Bonn* 
