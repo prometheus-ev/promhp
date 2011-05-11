@@ -3,5 +3,89 @@ layout: default
 changefreq: daily
 priority: 1.0
 ---
-<%= include_file 'search.html' %>
-<%= include_file 'frontpage.html' %>
+<!--NOPANDORA#include virtual="<%=r "inc/nopandora.html.#{page.lang}" %>" -->
+<form action="<%=p 'search' %>" class="search_form search_query" id="query_form" method="get">
+  <table>
+    <tr>
+      <td><input id="v[]" name="v[]" size="30" type="text" /></td>
+      <td><input type="submit" name="commit" value="<%=t 'Search', 'Suche' %>" class="float-right" /></td>
+    </tr>
+  </table>
+  <div class="clear-float"></div>
+</form>
+<h2 class="header-line"><%=t 'Welcome to', 'Herzlich Willkommen bei' %> <em>prometheus</em></h2>
+
+<div id="tags-map">
+  <img src="<%=r "files/images/tags.#{page.lang}.png" %>" width="238" height="186" usemap="#tags" />
+
+  <map name="tags">
+    <area shape="rect" coords="<%=t '20,17,223,50',   '19,15,171,51' %>"   alt="<%= n = t('Searching', 'Suchen') %>"        title="<%= n %>" href="<%=r 'prometheus#searching' %>" />
+    <area shape="rect" coords="<%=t '33,50,205,79',   '57,51,220,80' %>"   alt="<%= n = t('Collecting', 'Sammeln') %>"      title="<%= n %>" href="<%=r 'prometheus#collecting' %>" />
+    <area shape="rect" coords="<%=t '26,79,167,103',  '26,80,194,104' %>"  alt="<%= n = t('Presenting', 'Präsentieren') %>" title="<%= n %>" href="<%=r 'prometheus#presenting' %>" />
+    <area shape="rect" coords="<%=t '49,103,221,132', '48,104,233,132' %>" alt="<%= n = t('Publishing', 'Publizieren') %>"  title="<%= n %>" href="<%=r 'prometheus#publishing' %>" />
+    <area shape="rect" coords="<%=t '67,132,225,156', '66,132,187,157' %>" alt="<%= n = t('Researching', 'Forschen') %>"    title="<%= n %>" href="<%=r 'prometheus#researching' %>" />
+  </map>
+</div>
+
+<div id="greeting">
+  <%= include_file "greeting.#{page.lang}.html" %>
+
+  <div id="links">
+    <ul>
+      <li>
+        <% link = %Q{<a href="#{r 'prometheus'}">%s</a>} %><%=
+          link % %Q{<img src="#{r 'files/icons/info.gif'}" alt="Info" />}
+        %><%=
+          link % t('Learn more about us', 'Erfahren Sie mehr über uns')
+        %>
+      </li>
+      <li>
+        <% link = %Q{<a href="#{p 'signup'}">%s</a>} %><%=
+          link % %Q{<img src="#{r 'files/icons/signup.gif'}" alt="Signup" />}
+        %><%=
+          link % t('Sign up for prometheus', 'Melden Sie sich bei prometheus an')
+        %>
+      </li>
+    </ul>
+  <% if first_post = local_posts.first -%>
+    <p>
+      <strong><%=t 'News', 'Aktuell' %>:</strong>
+      <a href="<%=r(first_post.url)%>" title="<%= "#{date_to_string(first_post.date)}: #{first_post.title}" %>"><%= first_post.title %></a>
+    </p>
+  <% end -%>
+  </div>
+
+  <div id="sticker">
+    <a href="<%=p 'signup?type=free' %>" title="<%= title = t('One week free trial!', 'Eine Woche kostenlos testen!') %>"><img src="<%=r "files/icons/sticker_1week.#{page.lang}.png" %>" alt="<%= title %>" /></a>
+  </div>
+</div>
+
+<br class="clear-float" />
+
+<div id="section-10years">
+  <h3 class="section-title"><%=t 'We are celebrating', 'Wir feiern' %></h3>
+
+  <div class="section-item">
+    <a href="<%=r 'about/10years' %>" title="<%= title = t('10 years prometheus', '10 Jahre prometheus') %>"><img src="<%=r "files/images/logo_10years.#{page.lang}.jpg" %>" alt="<%= title %>" /></a>
+
+    <h4 class="section-heading"><%=t "It's time to celebrate", 'prometheus hat Geburtstag' %></h4>
+    <%=t 'Ten exciting, successful, inspiring and eventful years lie behind us. You contributed essentially with your support. THANK YOU!', 'Zehn aufregende, erfolgreiche, inspirierende und ereignisreiche Jahre liegen hinter uns, zu denen Sie mit Ihrer Unterstützung maßgeblich beigetragen haben. HERZLICHEN DANK!' %>
+
+  <br />
+
+  <%=t 'Do you remember? Funded by the BmB+F, prometheus started in 2001. At that time, most of us were using slide projection in the classroom.', 'Erinnern Sie sich noch? prometheus startete 2001 als BmB+F gefördertes Verbundprojekt. Damals wurde in den bildbasierten Fächern noch vorwiegend mit Dias gearbeitet.' %>
+
+    <span>
+      <span class="pale">|</span>
+      <a href="<%=r 'about/10years' %>"><%=t '» milestones', '» Meilensteine' %></a>
+    </span>
+  </div>
+</div>
+
+<br class="clear-float" />
+
+<div id="series-front">
+  <!--#include virtual="${current_series}/teaser.html.<%= page.lang %>" -->
+</div>
+
+<br class="clear-float" />

@@ -45,7 +45,25 @@
   </div>
   <![endif]-->
   <div id="header">
-    <div id="statusbar"><%= include_file 'statusbar.html' %></div>
+    <div id="statusbar">
+      <span id="loginfo">
+        <a href="<%=p 'signup' %>"><%=t 'Sign up', 'Neu anmelden' %></a>
+        <span class="pale">/</span>
+        <a href="<%=p 'login' %>"><%=t 'Log in', 'Einloggen' %></a>
+      </span>
+
+      <span>
+        <a href="<%=p 'help' %>"><%=t 'Help', 'Hilfe' %></a>
+      </span>
+
+      <span id="locale_switcher">
+        <strong><%= native_lang %></strong>
+      <% for lang in other_langs -%>
+        <span class="pale">•</span>
+        <a href="<%= canonical_url(lang) %>" title="<%= tl(lang, 'Switch to %s language', 'Sprache auf %s umstellen') % name = native_lang(lang) %>"><%= name %></a>
+      <% end -%>
+      </span>
+    </div>
 
     <div id="menu">
       <h1 id="logo"><a href="<%=r 'index' %>"><img alt="<%=h site.name %>" src="<%=r 'images/misc/logo.gif' %>" title="<%=t 'prometheus Homepage', 'prometheus-Homepage' %>" /></a></h1>
@@ -68,8 +86,51 @@
     <div id="sidebar">
       <div id="sidebar_header"></div><div id="sidebar_header_shadow"></div>
 
-      <div id="login_wrap"><%= include_file 'login.html' %></div>
-      <div id="campus_login_wrap"><%= include_file 'campus_login.html' %></div>
+      <div id="login_wrap">
+        <form action="<%=p 'login' %>" class="login_form" method="post">
+          <fieldset>
+            <legend>
+              <strong><%=t 'Personal account login', 'Persönlicher Zugang' %></strong>
+              <a href="<%=p 'help', 'login' %>" title="<%=t 'Login help', 'Anmeldungshilfe' %>">
+                <img src="<%=r 'images/misc/help.gif' %>" alt="Help" />
+              </a>
+            </legend>
+
+            <label for="login"><%=t 'User name or e-mail address', 'Nutzername oder E-Mail-Adresse' %></label><br />
+            <input type="text" name="login" id="login" size="32" tabindex="1" /><br />
+
+            <br class="vspace1" />
+
+            <label for="password"><%=t 'Password', 'Passwort' %></label>
+            <small>(<a href="<%=p 'password' %>" title="<%=t 'Reset password', 'Passwort zurücksetzen' %>"><%=t 'Forgotten?', 'Vergessen?' %></a></small>)<br />
+            <input type="password" name="password" id="password" size="32" tabindex="2" /><br />
+
+            <br class="vspace1" />
+
+            <input type="submit" name="commit" value="<%=t 'Log in', 'anmelden' %>" class="float-right" />
+
+            <input type="checkbox" name="remember_me" id="remember_me" value="1" />
+            <label for="remember_me"><%=t 'Remember me on this computer', 'Auf diesem Rechner merken' %></label><br />
+
+            <!-- jw/20080407: fool pandora's cookie checking mechanism ;-) -->
+            <input type="hidden" name="_pandora_session_id" value="FAKE" />
+          </fieldset>
+        </form>
+      </div>
+      <div id="campus_login_wrap">
+        <form action="<%=p 'campus_login' %>" class="login_form" method="post">
+          <fieldset>
+            <legend><strong><%=t 'Campus login', 'Campuszugang' %></strong></legend>
+
+            <div class="campus_title">
+              <%=t 'Available inside a', 'Verfügbar innerhalb des Campus einer' %>
+              <a href="<%=p 'institution/licensed' %>"><%=t 'licensed campus', 'lizenzierten Institution' %></a>.
+            </div>
+
+            <input type="submit" name="commit" value="<%=t 'Log in', 'anmelden' %>" class="float-right" />
+          </fieldset>
+        </form>
+      </div>
 
       <div id="navigation"><%= page.navigation %></div>
 
@@ -95,6 +156,29 @@
     </div>
   </div>
 
-  <div id="footer" class="clear-float"><%= include_file 'footer.html' %></div>
+  <div id="footer" class="clear-float">
+    <a href="#top" title="<%=t 'Back to top', 'Zurück zum Seitenanfang' %>"><img alt="Top" src="<%=r 'images/misc/top.gif' %>" /></a>
+    <span>
+      <a href="<%=r 'blog'         %>" title="<%=t 'The prometheus Blog', 'Das prometheus-Blog'   %>">Blog</a>
+      <span class="pale">|</span>
+      <a href="<%=r 'about'        %>" title="<%= name = t('About us', 'Über uns')                %>"><%= name %></a>
+      <span class="pale">|</span>
+      <a href="<%=r 'contact'      %>" title="<%= name = t('Contact', 'Kontakt')                  %>"><%= name %></a>
+      <span class="pale">|</span>
+      <a href="<%=p 'feedback'     %>" title="<%= name = t('Feedback', 'Feedback')                %>"><%= name %></a>
+      <span class="pale">|</span>
+      <a href="<%=r 'imprint'      %>" title="<%= name = t('Imprint', 'Impressum')                %>"><%= name %></a>
+      <span class="pale">|</span>
+      <a href="<%=r 'copyright'    %>" title="<%=t 'General copyright information', 'Allgemeine Informationen zum Bildrecht' %>"><%=t 'Copyright', 'Bildrecht' %></a>
+      <span class="pale">|</span>
+      <a href="<%=p 'terms_of_use' %>" title="<%= name = t('Terms of use', 'Nutzungsbedingungen') %>"><%= name %></a>
+      <span class="pale">|</span>
+      <a href="<%=p 'sitemap'      %>" title="<%= name = t('Sitemap', 'Sitemap')                  %>"><%= name %></a>
+      <span class="pale">|</span>
+      <a href="<%=r 'faq'          %>" title="<%= name = t('Frequently asked questions', 'Häufig gestellte Fragen') %>">FAQ</a>
+      <span class="pale">|</span>
+      <a href="<%=p 'help'         %>" title="<%= name = t('Help', 'Hilfe')                       %>"><%= name %></a>
+    </span>
+  </div>
 </body>
 </html>
