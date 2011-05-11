@@ -14,7 +14,8 @@
     #header
       #statusbar
         #loginfo
-        .statusbar_link
+        span
+        #locale_switcher
       #menu
         #logo
         .navigation_icon
@@ -39,14 +40,14 @@ body {
   width:             1024px;
   margin:            0;
   padding:           0;
-  color:             rgb(204,204,204);
-  background-color:  rgb(27,27,27);
+  color:             #CCCCCC;
+  background-color:  #1B1B1B;
 }
 
 #workspace {
   width:             1024px;
   min-height:        600px;
-  background-color:  rgb(38,38,38);
+  background-color:  #262626;
   background-image:  url(../images/misc/sidebar.gif);
   background-repeat: repeat-y;
 }
@@ -79,7 +80,7 @@ body {
   display:           inline-block;
   width:             760px;
   min-height:        600px;
-  background-color:  rgb(38,38,38);
+  background-color:  #262626;
   margin:            0;
   padding:           0;
 }
@@ -89,7 +90,7 @@ body {
   line-height:       1.4em;
   padding-bottom:    10px;
   margin-top:        3px;
-  background-color:  rgb(38,38,38);
+  background-color:  #262626;
 }
 
 #content .submit_button_wrap {
@@ -117,7 +118,7 @@ html, body, select, input, textarea {
 
 input:-webkit-autofill {
   /* http://code.google.com/p/chromium/issues/detail?id=1334 */
-  color:             rgb(80,80,80);
+  color:             #505050;
 }
 
 select {
@@ -146,7 +147,7 @@ img {
 }
 
 hr {
-  color:             rgb(60,60,60);
+  color:             #3C3C3C;
   width:             100%;
   height:            1px;
   border-style:      solid;
@@ -159,7 +160,7 @@ abbr {
 
 a, .a {
   text-decoration:   none;
-  color:             rgb(255,153,51);
+  color:             #FF9933;
 }
 
 a:hover, a:active, .a:hover, .a:active {
@@ -191,14 +192,14 @@ span.prometheus {
 
 select, textarea, input, fieldset {
   font-size:         12px;
-  background-color:  rgb(38,38,38);
-  color:             rgb(204,204,204);
-  border:            0 solid rgb(85,85,85);
+  background-color:  #262626;
+  color:             #CCCCCC;
+  border:            0 solid #555555;
 }
 
 input[type=checkbox] {
-  background-color:  rgb(255,255,255);
-  color:             rgb(38,38,38);
+  background-color:  #FFFFFF;
+  color:             #262626;
 }
 
 input[type=radio] {
@@ -270,18 +271,18 @@ body.js input[type=text].prompt, body.js input[type=password].prompt {
 }
 
 .mandatory {
-  border-color:      rgb(169,109,48);
+  border-color:      #A96D30;
 }
 
 .prompt {
-  border-color:      rgb(47,115,167);
+  border-color:      #2F73A7;
 }
 
 .fieldWithErrors .input-left-right,
 .fieldWithErrors .mandatory,
 .fieldWithErrors .prompt {
   background:        none !important;
-  border-color:      rgb(204,204,204);
+  border-color:      #CCCCCC;
 }
 
 .edit-form input[type=text],
@@ -314,7 +315,7 @@ body.account-controller.settings-action .edit-form select {
 }
 
 .login_form {
-  background-color:  rgb(48,48,48);
+  background-color:  #303030;
   padding:           10px;
   margin-top:        20px;
 }
@@ -333,7 +334,7 @@ body.account-controller.settings-action .edit-form select {
 
 div.payment-method {
   padding:           1em;
-  border:            1px solid rgb(85,85,85);
+  border:            1px solid #555555;
 }
 
 div.payment-method + div.payment-method {
@@ -408,7 +409,7 @@ div.collapse {
 div.query_help table {
   margin:            0.5em 0;
   padding:           0.5em;
-  background-color:  rgb(38,38,38);
+  background-color:  #262626;
 }
 
 div.query_help table td:first-child {
@@ -416,7 +417,7 @@ div.query_help table td:first-child {
 }
 
 #source_list table {
-  background-color:  rgb(38,38,38);
+  background-color:  #262626;
   margin-top:        1.5em;
   padding:           0;
   width:             100%;
@@ -424,7 +425,7 @@ div.query_help table td:first-child {
 }
 
 #source_list table td {
-  border-bottom:     1px solid rgb(60,60,60);
+  border-bottom:     1px solid #3C3C3C;
 }
 
 #source_list_header, td.source_list_master, td.source_group_master_cell, td.source_list_controls {
@@ -440,7 +441,7 @@ div.query_help table td:first-child {
 }
 
 #source_list_header, div.section_header, div.section_toggle div {
-  border-bottom:     1px solid rgb(60,60,60);
+  border-bottom:     1px solid #3C3C3C;
 }
 
 td.source_list_master, td.source_list_controls {
@@ -583,7 +584,7 @@ tr.dim:hover > *, .undim:hover tr.dim > *,
 }
 
 .pale {
-  color:             rgb(80,80,80);
+  color:             #505050;
   margin-left:       8px;
   margin-right:      8px;
 }
@@ -595,7 +596,7 @@ tr.dim:hover > *, .undim:hover tr.dim > *,
 
 .active, .active:focus, .inactive:focus,
 .active:active, .inactive:active {
-  color:             rgb(255,255,255);
+  color:             #FFFFFF;
 }
 
 .invisible {
@@ -659,7 +660,7 @@ body.administration-controller.index-action .gap {
 }
 
 #statusbar > span {
-  border-left:       1px solid rgb(104,104,104);
+  border-left:       1px solid #686868;
   padding-left:      13px;
   padding-right:     10px;
 }
@@ -674,11 +675,11 @@ span#loginfo, span#locale_switcher {
 }
 
 #statusbar a {
-  color:             rgb(204,204,204);
+  color:             #CCCCCC;
 }
 
 #loginfo a {
-  color:             rgb(255,255,255);
+  color:             #FFFFFF;
 }
 
 #loginfo span {
@@ -690,6 +691,7 @@ span#loginfo, span#locale_switcher {
 }
 
 #loginfo .pale, #locale_switcher .pale {
+  color:             #686868;
   margin-left:       4px;
   margin-right:      4px;
 }
@@ -829,11 +831,11 @@ span#loginfo, span#locale_switcher {
 }
 
 #menu .navigation_icon.active:hover span, #submenu .menu_link.active:hover {
-  text-shadow:       rgb(255,255,255) 0 0 0;
+  text-shadow:       #FFFFFF 0 0 0;
 }
 
 #menu .navigation_icon.inactive:hover span, #submenu .menu_link.inactive:hover {
-  text-shadow:       rgb(255,153,51) 0 0 0;
+  text-shadow:       #FF9933 0 0 0;
 }
 
 table.list {
@@ -845,7 +847,7 @@ table th,
 table caption {
   text-align:        left;
   vertical-align:    top;
-  color:             rgb(255,255,255);
+  color:             #FFFFFF;
 }
 
 table th {
@@ -853,7 +855,7 @@ table th {
 }
 
 table th, td .th, legend {
-  color:             rgb(180,180,180);
+  color:             #B4B4B4;
   font-weight:       normal;
 }
 
@@ -909,7 +911,7 @@ table.history h3, table.history + .list_controls {
 
 div.history_detail {
   width:            27.5em;
-  border-left:      0.5em solid rgb(104,104,104);
+  border-left:      0.5em solid #686868;
   padding-left:     0.5em;
   margin-top:       2px;
 }
@@ -936,7 +938,7 @@ body.image-controller.publish-action .list_row {
 }
 
 .list_row.odd {
-  background-color:  rgb(48,48,48);
+  background-color:  #303030;
 }
 
 .pagination_text {
@@ -949,7 +951,7 @@ body.image-controller.publish-action .list_row {
 .artist-field, .title-field, .title-line {
   font-size:         14px;
   font-weight:       bold;
-  color:             rgb(255,255,255);
+  color:             #FFFFFF;
 }
 
 .title-field, .title-line {
@@ -962,7 +964,7 @@ body.image-controller.publish-action .list_row {
 
 .title-field, table.list .metadata .title-line {
   padding-bottom:    5px;
-  border-bottom:     2px dotted rgb(80,80,80);
+  border-bottom:     2px dotted #505050;
 }
 
 body.announcement-controller .metadata .title-line {
@@ -1062,13 +1064,13 @@ div.row-adder:focus, div.row-adder:active {
 }
 
 .icon, .help_icon, div.image_check_box, .plain_button {
-  border:            1px solid rgb(84,84,84);
+  border:            1px solid #545454;
 }
 
 .icon {
   margin-top:        3px;
   height:            19px;
-  background-color:  rgb(27,27,27);
+  background-color:  #1B1B1B;
 }
 
 .section_header .icon {
@@ -1117,16 +1119,16 @@ div.slide input[type=radio] {
 
 .delete-icon {
   margin-left:       0;
-  border:            1px solid rgb(147,0,0);
+  border:            1px solid #930000;
 }
 
 .icon:hover, div.image_check_box:hover,
 .icon:focus, div.image_check_box:focus {
-  border:            1px solid rgb(186,125,63);
+  border:            1px solid #BA7D3F;
 }
 
 .delete-icon:hover {
-  border-color:      rgb(255,0,0);
+  border-color:      #FF0000;
 }
 
 .store_image {
@@ -1150,14 +1152,14 @@ div.slide input[type=radio] {
 
 .thumbnail_select {
   overflow:          auto;
-  border:            1px solid rgb(85,85,85);
+  border:            1px solid #555555;
 }
 
 .header-line {
   float:             left;
   margin-top:        5px;
   margin-bottom:     15px;
-  border-bottom:     2px dotted rgb(80,80,80);
+  border-bottom:     2px dotted #505050;
   padding-bottom:    5px;
   padding-right:     10px;
 }
@@ -1178,7 +1180,7 @@ div.slide input[type=radio] {
 
 .header-line .title-line .subtitle {
   display:           inline-block;
-  color:             rgb(204,204,204);
+  color:             #CCCCCC;
   font-size:         13px;
   line-height:       16px;
   margin-top:        3px;
@@ -1275,7 +1277,7 @@ div.image, td.image {
 }
 
 .checked div.image {
-  border-color:      rgb(255,153,51);
+  border-color:      #FF9933;
 }
 
 .image img {
@@ -1317,7 +1319,7 @@ body.account-controller.terms_of_use-action div.scroll,
 #terms_of_use div.scroll {
   height:            25em;
   padding:           1em;
-  border:            1px solid rgb(85,85,85);
+  border:            1px solid #555555;
 }
 
 body.account-controller.terms_of_use-action div.scroll {
@@ -1386,7 +1388,7 @@ div.button_wrap {
   white-space:       nowrap;
   background-repeat: repeat-x;
   cursor:            pointer;
-  color:             rgb(255,153,51);
+  color:             #FF9933;
 }
 
 div.button_wrap > div, .submit_button_wrap > div {
@@ -1399,7 +1401,7 @@ div.button_wrap > div, .submit_button_wrap > div {
 }
 
 div.submit_button, .noscript_button .submit, .plain_button {
-  color:             rgb(255,255,255);
+  color:             #FFFFFF;
 }
 
 div.submit_button {
@@ -1536,6 +1538,14 @@ div.submit_button:focus .button_right, div.submit_button:active .button_right {
   padding:           10px 0;
 }
 
+.facets {
+  width:             740px;
+  font-size:         11px;
+  margin:            0 10px 10px 10px;
+  padding:           5px;
+  border:            1px dotted #555555;
+}
+
 .page_title {
   line-height:       20px;
 }
@@ -1566,8 +1576,8 @@ div.image, td.image, td.thumbnail, td.present_image {
 
 div.image, td.image, td.thumbnail {
   display:           table-cell;
-  border:            1px solid rgb(76,76,76);
-  background-color:  rgb(27,27,27);
+  border:            1px solid #4C4C4C;
+  background-color:  #1B1B1B;
 }
 
 table.resourceful-list td.thumbnail {
@@ -1612,7 +1622,7 @@ table.list .metadata .summary-line + div {
 }
 
 .description-line {
-  color:             rgb(255,255,255);
+  color:             #FFFFFF;
   margin-bottom:     5px;
 }
 
@@ -1646,12 +1656,12 @@ body.translate-controller .list_row input[type=submit] {
 
 #object-summary .access_status {
   font-size:         inherit;
-  color:             rgb(255,255,255);
+  color:             #FFFFFF;
 }
 
 .search_query, .section-links {
   padding:           10px;
-  background-color:  rgb(48,48,48);
+  background-color:  #303030;
 }
 
 body.administration-controller.index-action .search_query,
@@ -1661,7 +1671,7 @@ body.administration-controller.index-action .section-links {
 
 .search_query .search_heading {
   font-size:         11px;
-  border-bottom:     1px solid rgb(80,80,80);
+  border-bottom:     1px solid #505050;
   padding-bottom:    2px;
   margin-bottom:     8px;
   width:             100%;
@@ -1818,8 +1828,8 @@ body.administration-controller.index-action .section-links {
   left:              2px;
   top:               30px;
   min-width:         240px;
-  background-color:  rgb(51,51,51);
-  border:            1px solid rgb(125,125,125);
+  background-color:  #333333;
+  border:            1px solid #7D7D7D;
   z-index:           13;
 }
 
@@ -1840,7 +1850,7 @@ body.administration-controller.index-action .section-links {
   height:            20px;
   padding-top:       7px;
   font-weight:       bold;
-  border-bottom:     1px solid rgb(60,60,60);
+  border-bottom:     1px solid #3C3C3C;
 }
 
 .popup_header {
@@ -1939,7 +1949,7 @@ div.icons {
   background-image:  url(../images/misc/footer.gif);
   background-repeat: repeat-x;
   height:            40px;
-  color:             rgb(104,104,104);
+  color:             #686868;
 }
 
 #footer > span {
@@ -1948,7 +1958,7 @@ div.icons {
 }
 
 #footer > span a {
-  color:             rgb(204,204,204);
+  color:             #CCCCCC;
   font-size:         11px;
 }
 
@@ -1970,7 +1980,7 @@ div.icons {
 }
 
 body.image-controller.publish-action #content > ol {
-  border:            1px solid rgb(85,85,85);
+  border:            1px solid #555555;
   margin-left:       10px;
   padding-top:       10px;
 }
@@ -1982,7 +1992,7 @@ body.image-controller.publish-action #content > ol ol {
 }
 
 body.image-controller.publish-action #content > ol li > span {
-  color:             rgb(255,255,255);
+  color:             #FFFFFF;
 }
 
 div.flash div.flash-controls {
@@ -2072,10 +2082,9 @@ p.prompt, div.maintenance {
   vertical-align:    middle;
 }
 
-#content .warning_icon {
+#content .icon_box {
   background-position: 10px;
   background-color:  #333333;
-  background-image:  url(../images/misc/warning.gif);
   background-repeat: no-repeat;
   min-height:        3em;
   padding:           1em;
@@ -2083,8 +2092,24 @@ p.prompt, div.maintenance {
   font-weight:       bold;
 }
 
-#content .warning_icon strong {
-  color:             rgb(255,255,255);
+#content .icon_box strong {
+  color:             #FFFFFF;
+}
+
+#content .waiting {
+  background-image:  url(../images/misc/activity_indicator.gif);
+}
+
+#content .check_yes {
+  background-image:  url(../images/misc/check_yes.png);
+}
+
+#content .check_no {
+  background-image:  url(../images/misc/check_no.png);
+}
+
+#content .warn {
+  background-image:  url(../images/misc/warning.gif);
 }
 
 #captcha {
@@ -2108,7 +2133,7 @@ div.suggestions {
   margin:            0;
   padding:           0;
   z-index:           100;
-  background-color:  rgb(60,60,60);
+  background-color:  #3C3C3C;
 }
 
 #content div.suggestions ul {
@@ -2127,24 +2152,24 @@ div.suggestions ul li {
 div.suggestions ul li + li {
   border-width:      1px 0 0 0;
   border-style:      solid;
-  border-color:      rgb(48,48,48);
+  border-color:      #303030;
 }
 
 div.suggestions ul li small {
-  color:             rgb(144,144,144);
+  color:             #909090;
 }
 
 div.suggestions ul li.selected {
-  background-color:  rgb(85,85,85);
+  background-color:  #555555;
 }
 
 div.suggestions ul li.selected small {
-  color:             rgb(192,192,192);
+  color:             #C0C0C0;
 }
 
 div.comment {
   margin-left:       5px;
-  border-left:       1px dotted rgb(104,104,104);
+  border-left:       1px dotted #686868;
   padding-left:      5px;
 }
 
@@ -2153,15 +2178,15 @@ div.comment-heading {
 }
 
 div.comment > * > div.comment-heading {
-  background-color:  rgb(48,48,48);
+  background-color:  #303030;
 }
 
 div.comment-owner > * > div.comment-heading {
-  background-color:  rgb(53,53,53);
+  background-color:  #353535;
 }
 
 div.comment-user > * > div.comment-heading {
-  background-color:  rgb(60,60,60);
+  background-color:  #3C3C3C;
 }
 
 #new_comment {
@@ -2188,7 +2213,7 @@ body.help-controller div#content > * {
 }
 
 body.help-controller img.screenshot {
-  border:            1px solid rgb(80,80,80);
+  border:            1px solid #505050;
   margin-bottom:     0.5em;
   margin-top:        0.5em;
 }
@@ -2198,7 +2223,7 @@ body.help-controller h3 a {
 }
 
 #help-header {
-  border-bottom:     1px solid rgb(80,80,80);
+  border-bottom:     1px solid #505050;
 }
 
 #help-header > p:first-child {
@@ -2206,7 +2231,7 @@ body.help-controller h3 a {
 }
 
 #help-footer {
-  border-top:        1px solid rgb(80,80,80);
+  border-top:        1px solid #505050;
   margin-top:        2em;
 }
 
@@ -2225,7 +2250,7 @@ body.source-controller.show-action .sample {
 body.source-controller.validate-action #errors {
   max-height:        300px;
   overflow:          auto;
-  border:            2px solid rgb(255,153,51);
+  border:            2px solid #FF9933;
   white-space:       pre;
   font-family:       Typewriter, monospace;
   padding:           1em;
@@ -2233,7 +2258,7 @@ body.source-controller.validate-action #errors {
 }
 
 body.source-controller.validate-action #errors.invalid {
-  border-color:      rgb(201,0,0);
+  border-color:      #C90000;
 }
 
 pre.bounce_error,
@@ -2241,8 +2266,8 @@ body.pandora-controller.api-action pre {
   white-space:       normal;
   padding:           10px;
   margin:            0 10px;
-  color:             rgb(0,0,0);
-  background-color:  rgb(180,180,180);
+  color:             #000000;
+  background-color:  #B4B4B4;
 }
 
 body.pandora-controller.api-action pre a {
@@ -2280,5 +2305,5 @@ body.pandora-controller.api-action div.api-details h4 {
 
 body.pandora-controller.api-action.js h3.api-method:hover {
   cursor:            pointer;
-  color:             rgb(255,255,255);
+  color:             #FFFFFF;
 }
