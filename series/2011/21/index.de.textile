@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "W\xC3\xB6lfli, Adolf: H\xC3\xA4ngendi G\xC3\xA4\xC3\xA4rtta vo Semiramiss, Blatt b: M\xC3\xA4nn'r=Bund (Ausschnitt), 1905, Bleistift auf Zeitungspapier, 74,3 x 99,3 cm, Privatbesitz; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Poli-Chinelle. Zwetschgen-K\xC3\xB6niginn. Chriwald-Zwetsche (Ausschnitt), 1912, Bleistift/Farbstift/Zeitungspapier, 70,3 x 99,7 cm ,  Adolf-W\xC3\xB6lfli-Stiftung, Kunstmuseum Bern; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Geographisches Heft (Ausschnitt), 1913, Bleistift/Farbstift/Zeitungspapier, 30 x 50 cm, Adolf-W\xC3\xB6lfli-Stiftung, Kunstmuseum Bern; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Das Laboratorium von Long Island (Ausschnitt), 1915, Bleistift/Farbstift/Zeitungspapier, 72,2 x 99 cm, Adolf-W\xC3\xB6lfli-Stiftung, Kunstmuseum Bern; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Farbstiftzeichnung aus dem Besitz Rainer Maria Rilkes (Ausschnitt), 1916-20, Farbstift auf Papier, 25,5 x 34 cm, Schweizerisches Literaturarchiv; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "W\xC3\xB6lfli, Adolf: Chocolat Suchard (Ausschnitt), 1918, Bleistift/Farbstift/Zeitungspapier, 99,7 x 71 cm, o.O.; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Der Walfisch Karo und der Teufel Sarton I. (Ausschnitt), 1922, Farbstift auf Papier, 50 x 65,5 cm, Collection de l`Art Brut Lausanne; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Campell's Tomato Soup (Ausschnitt), 1929, 75 x 50 cm, Bleistift/Farbstift/Zeitungspapier, o.O., Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: "Adolf W\xC3\xB6lfli"
+subtitle: "Ein Geisteskranker als K\xC3\xBCnstler"
+date: 2011/05/17
+teaser: "\xC3\x9Cber 25'000 Seiten einer fiktiven Lebensgeschichte in Prosa, Poesie, Lautmalerei, Ordnungstabellen, erfundenen Zahlen, Zeichnungen, Collagen und musikalischen Kompositionen bilden das k\xC3\xBCnstlerische Werk Adolf W\xC3\xB6lflis."
+collection: 26541
+---
+Über 25'000 Seiten einer fiktiven Lebensgeschichte in Prosa, Poesie, Lautmalerei, Ordnungstabellen, erfundenen Zahlen, Zeichnungen, Collagen und musikalischen Kompositionen bilden das künstlerische Werk Adolf Wölflis.
+Eine Ausstellung im Rahmen der Internationalen Tage Ingelheim zeigt Werke des Schweizer Künstlers und versteht sie als „ reiche Kunst eines armen Mannes, der die Welt nicht versteht, sie also neu erfindet“. 1864 geboren, wurde Adolf Wölfli 1895 in die psychiatrische Heilanstalt Waldau bei Bern eingeliefert und begann 1899 zu zeichnen, zu schreiben und zu komponieren. Walter Morgenthaler, Psychiater an der Waldau, veröffentlichte 1921 die Monografie „Ein Geisteskranker als Künstler“, die in der Kunstszene, insbesondere bei Surrealisten und Expressionisten, viel Beachtung fand.
+
+*"Adolf Wölfli":http://www.internationale-tage.de/index.html?id=4&lg=d, „Natuhrvorscher, Dichter, Schreiber, Zeichner, Componist, Melker, Gäärtner, Fischer, Schiffer, Tohtten-Gräber und Soldat des Emmenthaler Battaillons'' (A. W.), 1. Mai bis 10. Juli 2011, Rathaus Ingelheim*

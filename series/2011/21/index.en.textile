@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "W\xC3\xB6lfli, Adolf: H\xC3\xA4ngendi G\xC3\xA4\xC3\xA4rtta vo Semiramiss, Blatt b: M\xC3\xA4nn'r=Bund (Detail), 1905, Bleistift auf Zeitungspapier, 74,3 x 99,3 cm, Privatbesitz; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Poli-Chinelle. Zwetschgen-K\xC3\xB6niginn. Chriwald-Zwetsche (Detail), 1912, Bleistift/Farbstift/Zeitungspapier, 70,3 x 99,7 cm ,  Adolf-W\xC3\xB6lfli-Stiftung, Kunstmuseum Bern; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "W\xC3\xB6lfli, Adolf: Geographisches Heft (Detail), 1913, Bleistift/Farbstift/Zeitungspapier, 30 x 50 cm, Adolf-W\xC3\xB6lfli-Stiftung, Kunstmuseum Bern; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "W\xC3\xB6lfli, Adolf: Das Laboratorium von Long Island (Detail), 1915, Bleistift/Farbstift/Zeitungspapier, 72,2 x 99 cm, Adolf-W\xC3\xB6lfli-Stiftung, Kunstmuseum Bern; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Farbstiftzeichnung aus dem Besitz Rainer Maria Rilkes (Detail), 1916-20, Farbstift auf Papier, 25,5 x 34 cm, Schweizerisches Literaturarchiv; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "W\xC3\xB6lfli, Adolf: Chocolat Suchard (Detail), 1918, Bleistift/Farbstift/Zeitungspapier, 99,7 x 71 cm, o.O.; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Der Walfisch Karo und der Teufel Sarton I. (Detail), 1922, Farbstift auf Papier, 50 x 65,5 cm, Collection de l`Art Brut Lausanne; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "W\xC3\xB6lfli, Adolf: Campell's Tomato Soup (Detail), 1929, 75 x 50 cm, Bleistift/Farbstift/Zeitungspapier, o.O., Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: "Adolf W\xC3\xB6lfli"
+subtitle: Madness and Art
+date: 2011/05/17
+teaser: "More than 25`000 pages of a fictitious life history, written in prose, poetry, onomatopoeia, numerical tables, drawings, collages and musical compositions constitute the artistic work of Adolf W\xC3\xB6lfli."
+collection: 26541
+---
+More than 25`000 pages of a fictitious life history, written in prose, poetry, onomatopoeia, numerical tables, drawings, collages and musical compositions constitute the artistic work of Adolf Wölfli. 
+An exhibition in Ingelheim is presenting artworks of this amazing artist and calls it “rich art of a poor man, who was not able to understand the world and created his own one”. Born in 1864, he was taken to a mental home near Bern in 1895 and started drawing, writing and composing in 1899. The psychiatrist Walter Morgenthaler supported Wölfli and published the monograph on Wölfli´s life and work „Ein Geisteskranker als Künstler“ in 1921 („Madness and Art. The Life and Works of Adolf Wölfli“, 1992). 
+
+*"Adolf Wölfli":http://www.internationale-tage.de/index.html?id=4&lg=e, „Natuhrvorscher, Dichter, Schreiber, Zeichner, Componist, Melker, Gäärtner, Fischer, Schiffer, Tohtten-Gräber und Soldat des Emmenthaler Battaillons'' (A. W.), 01.05. - 10.07.2011, Rathaus Ingelheim*
