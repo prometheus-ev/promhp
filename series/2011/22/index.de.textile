@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Knoebel, Imi: Rot-Wei\xC3\x9F (Ausschnitt), Mappe 2/16 Bl\xC3\xA4tter, 1990, Siebdruck, 50 x 34 cm, o.O.; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Knoebel, Imi: Grace Kelly II-3 (Ausschnitt), 1990, Acryl, 250 x 170 cm, Privatbesitz; Datenbank Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Knoebel, Imi: Grace Kelly IV-2 (Ausschnitt), 1990, Acryl, 250 x 170 cm, Privatbesitz; Datenbank Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Knoebel, Imi: Sweet Baby Jane, 1991, Acryl, 270 x 270 x 25 cm, Bayerische R\xC3\xBCckversicherung Aktiengesellschaft, M\xC3\xBCnchen; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Knoebel, Imi: 15 Farben, 1993, Acryl / Aluminium, 35,9 x 35,3 x 19,3 cm, Sammlung Gubini; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Knoebel, Imi: Neusibirien, 1993, Acryl / Holz / Aluminium, 200 x 200 x 35 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Knoebel, Imi: ODYSHAPE C7, 1995, Acryl / Aluminium, 128,2 x 117,1 x 13,7 cm, Privatbesitz; Datenbank Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Knoebel, Imi: Jena VII (Ausschnitt), 1996, Acryl / Aluminium, 118 x 118 x 1,7 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Imi Knoebel
+subtitle: "Farbe, Struktur und Form "
+date: 2011/05/17
+teaser: "In analytischen Serien besch\xC3\xA4ftigt sich Imi Knoebel mit Farbe, Farbtr\xC3\xA4ger und Raum."
+collection: 26598
+---
+In analytischen Serien beschäftigt sich Imi Knoebel mit Farbe, Farbträger und Raum. Eine mit dem Künstler gemeinsam erarbeitete Ausstellung in Sindelfingen bietet einen Einblick in sein Werk. Zu sehen sind Bilder aus den frühen 1980ern, in die gefundene Materialien eingearbeitet sind, über Bilder der „Grace-Kelly“-Serie, die seit 1990 entstand, bis hin zu den Arbeiten des letzten Jahrzehnts, wie die offenen Räume, die aus farbigen Aluminiumwänden zusammengestellt sind und so mit malerischen wie skulpturellen Mitteln wirken.   
+
+*"Imi Knoebel. Werke aus der Sammlung Schaufler":http://www.schauwerk-sindelfingen.de/ausstellungen.php?nav_id=1192, 19. März bis 2. Oktober 2011, Schauwerk Sindelfingen* 
