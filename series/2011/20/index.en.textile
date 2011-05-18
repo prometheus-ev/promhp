@@ -1,5 +1,4 @@
 --- 
-layout: series
 descriptions: 
 - "Liebermann, Max: Das Kohlfeld (Detail), 1912, \xC3\x96l auf Leinwand, 70 x 100 cm, Gem\xC3\xA4ldegalerie Neue Meister, Dresden; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
 - "Liebermann, Max: Wannseegarten - Blumenterrasse (Detail), 1929, \xC3\x96l auf Leinwand, 86 x 118 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
@@ -9,6 +8,7 @@ descriptions:
 - "Liebermann, Max: Das Rondell im Heckengarten mit Blumensprengerin (Detail), 1925, \xC3\x96l auf Leinwand, 71,5 x 93 cm, Winterthur, Z\xC3\xBCrich; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
 - "Liebermann, Max: Wannseegarten (Detail), 1926, \xC3\x96l auf Leinwand, 54 x 75 cm, Kunsthalle, Emden; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn "
 - "Liebermann, Max: Haus am Wannsee (Detail), 1926, \xC3\x96l auf Holz, 31,5 x 41 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: "Liebermann\xC2\xB4s Garden"
 subtitle: A reflection
