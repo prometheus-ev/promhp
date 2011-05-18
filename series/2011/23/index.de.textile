@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Schmidt-Rottluff, Karl: Deichdurchbruch (Ausschnitt), 1910, \xC3\x96l auf Leinwand, o.O.; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn "
+- "Heckel, Erich: Blaue Berge (Ausschnitt), 1912, \xC3\x96l auf Leinwand, Kunsthalle Hamburg; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Heckel, Erich: Meer am Abend (Ausschnitt), 1916, Aquarell, Br\xC3\xBCcke-Museum, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Kirchner, Ernst Ludwig: Bergwald (Ausschnitt), 1918-20, \xC3\x96l auf Leinwand, Kirchner-Museum, Davos; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Kirchner, Ernst Ludwig: Wintermondlandschaft (Ausschnitt), 1919, \xC3\x96l auf Leinwand, Institute of Arts, Detroit; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schmidt-Rottluff, Karl: Urwaldlandschaft (Ausschnitt), 1919, \xC3\x96l auf Leinwand, Saarland-Museum, Saarbr\xC3\xBCcken; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schmidt-Rottluff, Karl: Aufgehender Mond (Ausschnitt), 1920, \xC3\x96l auf Leinwand, Georg-Kolbe-Museum, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Heckel, Erich: Wasserfall (Ausschnitt), 1923, Aquarell \xC3\xBCber Wachskreide, Br\xC3\xBCcke-Museum, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: "Landschaften der Br\xC3\xBCcke-Maler"
+subtitle: "\xE2\x80\x9EDie Natur ist so sch\xC3\xB6n...\xE2\x80\x9C"
+date: 2011/05/18
+teaser: "Die Auseinandersetzungen der Br\xC3\xBCcke-Maler mit der Landschaft sind facettenreich und fanden in verschiedensten k\xC3\xBCnstlerischen Techniken ihren Ausdruck. "
+collection: 26532
+---
+Die Auseinandersetzungen der Brücke-Maler mit der Landschaft sind facettenreich und fanden in verschiedensten künstlerischen Techniken ihren Ausdruck. In der Moritzburg in Halle beleuchtet eine Sonderausstellung das Thema mit Ölbildern, Aquarellen, sowie einigen Zeichnungen und Drucken aus der Sammlung Hermann Gerlinger. Dazu gehören auch frühe Arbeiten, die vor der Gründung der Künstlergruppe entstanden sind. 
+In der Kunst der Brücke ist die Natur als Bildmotiv ein Ausdruck des Strebens nach Ursprünglichkeit, ebenso wie die Reduzierung der Formen. Landschaft wird außerdem Ausdrucksträger für subjektive Eindrücke und inneres Erleben.
+
+*"Landschaften der Brücke-Maler. „Die Natur ist so schön...“":http://stiftung-moritzburg.de/ausstellungen/vorschau/einzelansicht/?tx_ttnews[tt_news]=238&tx_ttnews[backPid]=21&cHash=857f86383d8ddd9d2612f0c4aeb0edba, 15. Mai bis 4. September 2011, Stiftung Moritzburg, Halle*

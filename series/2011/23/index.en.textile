@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Schmidt-Rottluff, Karl: Deichdurchbruch (Detail), 1910, \xC3\x96l auf Leinwand, o.O.; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn "
+- "Heckel, Erich: Blaue Berge (Detail), 1912, \xC3\x96l auf Leinwand, Kunsthalle Hamburg; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Heckel, Erich: Meer am Abend (Detail), 1916, Aquarell, Br\xC3\xBCcke-Museum, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Kirchner, Ernst Ludwig: Bergwald (Detail), 1918-20, \xC3\x96l auf Leinwand, Kirchner-Museum, Davos; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Kirchner, Ernst Ludwig: Wintermondlandschaft (Detail), 1919, \xC3\x96l auf Leinwand, Institute of Arts, Detroit; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Schmidt-Rottluff, Karl: Urwaldlandschaft (Detail), 1919, \xC3\x96l auf Leinwand, Saarland-Museum, Saarbr\xC3\xBCcken; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schmidt-Rottluff, Karl: Aufgehender Mond (Detail), 1920, \xC3\x96l auf Leinwand, Georg-Kolbe-Museum, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Heckel, Erich: Wasserfall (Detail), 1923, Aquarell \xC3\xBCber Wachskreide, Br\xC3\xBCcke-Museum, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: "Landscapes of the Br\xC3\xBCcke-Artists"
+subtitle: "\xE2\x80\x9EThe nature is so beautiful...\xE2\x80\x9C"
+date: 2011/05/18
+teaser: "A special exhibition in Halle is presenting art works of the artist group Br\xC3\xBCcke, dealing with landscape and nature. "
+collection: 26532
+---
+A special exhibition in Halle is presenting art works of the artist group Brücke, dealing with landscape and nature. The oil and watercolour paintings as well as some drawings and prints originate from the collection Hermann Gerlinger and include some early pieces, which date back to the time before the foundation of the artist group in 1905.
+Landscape as an image motif is display of the effort of the Brücke-artists to find originality and purity in art. Furthermore, Landscape is used to express subjective impressions and inner experiences.  
+
+
+*"Landschaften der Brücke-Maler. „Die Natur ist so schön...“":http://stiftung-moritzburg.de/ausstellungen/vorschau/einzelansicht/?tx_ttnews[tt_news]=238&tx_ttnews[backPid]=21&cHash=857f86383d8ddd9d2612f0c4aeb0edba, 15.05. - 04.09.2011, Stiftung Moritzburg, Halle*
