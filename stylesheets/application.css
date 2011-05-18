@@ -1137,7 +1137,7 @@ div.slide input[type=radio] {
 
 #header-section .thumbnail {
   float:             left;
-  margin:            5px 10px 15px 10px
+  margin:            5px 10px 15px 10px;
 }
 
 #header-section .thumbnail .image {
@@ -1876,6 +1876,7 @@ body.administration-controller.index-action .section-links {
 
 .store_images .popup_header + div {
   margin-top:        10px;
+  display:           inline-block;
 }
 
 .icons {
