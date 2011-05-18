@@ -20,7 +20,7 @@ The image archive can be used with an inexpensive license.
 
 h3(#anyone). Can anyone use the image archive?
 
-You can use the image archive via a single license for 20 €/year, which can be payed via the e-payment service Click&Buy.
+You can use the image archive via a single license for 20 €/year, which can be payed via one of the e-payment services PayPal or Click&Buy.
 It's also possible to pay the amount on account. In this case an additional fee of 15 € will be calculated.
 
 *Attention!*
