@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Schwarz, Rudolf: St. Antonius in Essen, 1956-1959; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Schwarz, Rudolf: Burg Rothenfels in Rothenfels, 1927-1928; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Schwarz, Rudolf: Fronleichnamskirche in Aachen, 1930; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schwarz, Rudolf: St. Anna in D\xC3\xBCren, 1951-1956; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schwarz, Rudolf: St. Michael in Frankfurt am Main, 1952 \xE2\x80\x93 1956; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Schwarz, Rudolf: Liebfrauenkirche in K\xC3\xB6ln, 1553-1955; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Schwarz, Rudolf: St. Christopherus in K\xC3\xB6ln-Niehl, 1954 \xE2\x80\x93 1959; Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Schwarz, Rudolf / Gutmann, Kleinjohann: St. Bonifatius in Aachen, 1959, 1962-1964; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+author: "Hendrikje H\xC3\xBCneke"
+title: Rudolf Schwarz
+subtitle: Churches
+date: 2011/05/24
+teaser: "The architect Rudolf Schwarz is famous for his modern architecture-designs for churches. "
+collection: 26800
+---
+The architect Rudolf Schwarz is famous for his modern architecture-designs for churches. The discussion about how to build churches in the 20th century was strongly influenced by him. He worked together with contemporary artists, who created the equipment for the churches. You´ll find coloured glass windows by Georg Meistermann, sacral objects by Theo Heiermann or stone reliefs by Elmar Hillebrand. Fotographs by Klaus Kinold, presented in an exhibition in Munich on the occasion of the 50th day of death of Rudof Schwarz, show the interaction between architecture and equipment in his churches. 
+
+*"Rudolf Schwarz – Architektur und bildende Künste in seinen Kirchenbauten":http://www.dgfck.de/aktuelles.html, 15.04. - 10.06.2011, Galerie der Deutschen Gesellschaft für christliche Kunst, München*

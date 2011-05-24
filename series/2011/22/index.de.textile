@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Schwarz, Rudolf: St. Antonius in Essen, 1956-1959; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schwarz, Rudolf: Burg Rothenfels in Rothenfels, 1927-1928; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schwarz, Rudolf: Fronleichnamskirche in Aachen, 1930; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schwarz, Rudolf: St. Anna in D\xC3\xBCren, 1951-1956; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Schwarz, Rudolf: St. Michael in Frankfurt am Main, 1952 \xE2\x80\x93 1956; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Schwarz, Rudolf: Liebfrauenkirche in K\xC3\xB6ln, 1553-1955; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schwarz, Rudolf: St. Christopherus in K\xC3\xB6ln-Niehl, 1954 \xE2\x80\x93 1959; Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Schwarz, Rudolf / Gutmann, Kleinjohann: St. Bonifatius in Aachen, 1959, 1962-1964; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+author: "Hendrikje H\xC3\xBCneke"
+title: Rudolf Schwarz
+subtitle: Kirchenbauten
+date: 2011/05/24
+teaser: "Der Architekt Rudolf Schwarz ist bekannt f\xC3\xBCr seine modernen Kirchenentw\xC3\xBCrfe und pr\xC3\xA4gte mit seinen Schriften die Diskussion um den Kirchenbau im 20. Jahrhundert."
+collection: 26800
+---
+Der Architekt Rudolf Schwarz ist bekannt für seine modernen Kirchenentwürfe und prägte mit seinen Schriften die Diskussion um den Kirchenbau im 20. Jahrhundert. Charakteristisch für ihn ist die Zusammenarbeit mit zeitgenössischen Künstlern. So entstanden Kirchen mit Farbglasfenstern von Georg Meistermann, mit sakralem Gerät von Theo Heiermann oder Steinreliefs von Elmar Hillebrand. In dieser Woche geht eine Ausstellung zuende, die mit Fotografien von Klaus Kinold das Zusammenwirken von Architektur und künstlerischer Ausstattung in den Kirchenbauten von Rudolf Schwarz anlässlich seines 50. Todestages erfahrbar werden lässt.
+
+*"Rudolf Schwarz – Architektur und bildende Künste in seinen Kirchenbauten":http://www.dgfck.de/aktuelles.html, 15. April bis 10. Juni 2011, Galerie der Deutschen Gesellschaft für christliche Kunst, München*
