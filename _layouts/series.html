@@ -5,7 +5,7 @@ layout: default
 <h3><%= page.subtitle %></h3>
 
 <p class="series-meta">
-  <%= date_to_string(Date.parse(page.date)) %>
+  <%= date_to_long_string(Date.parse(page.date)) %>
   <span class="pale">|</span>
   <%=t 'By' , 'Von' %>: <%= page.author %>
 <% if page.collection -%>

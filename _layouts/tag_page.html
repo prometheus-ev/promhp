@@ -7,7 +7,7 @@ layout: default
   <li>
     <a href="<%=r post.url %>"><%= post.title %></a>
     <span class="post-meta">
-      (<%=t 'Written by', 'Geschrieben von' %> <%= author(post) %> <%=t 'at', 'am' %> <%= date_to_string(post.date) %>)
+      (<%=t 'Written by', 'Geschrieben von' %> <%= author(post) %> <%=t 'at', 'am' %> <%= date_to_long_string(post.date) %>)
     </span>
   </li>
 <% end -%>

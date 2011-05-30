@@ -1,5 +1,5 @@
 <p class="post-meta">
-  <%= date_to_string(post.date) %>
+  <%= date_to_long_string(post.date) %>
 <% unless (author = author(post)).nil? -%>
   <span class="pale">|</span>
   <%=t 'By' , 'Von' %>: <%= author %>
