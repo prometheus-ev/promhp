@@ -1,0 +1,18 @@
+---
+layout: post
+title: Jetzt auch Zahlung via PayPal möglich
+author: Arne
+tags:
+- paypal
+- zugang
+- lizenz
+---
+!(bordered-image)<%=r 'files/blog/screenshot_account_license_2011-06-14.png' %>!
+
+Der weit größte Teil unserer BenutzerInnen ist in der Lage, das prometheus Bildarchiv kostenlos über eine der vielen "lizensierten Institutionen":<%=p 'institution/licensed' %> zu nutzen. Für alle Anderen bieten wir die Möglichkeit an, eine Einzellizent zu erwerben.
+
+Zu den beiden bisherigen Zahlungsmöglichkeiten - Click&Buy und Rechnung - haben wir vor einem knappen Monat noch eine Weitere, nämlich PayPal, hinzugefügt. Damit sind wir einem seit langem geäußerten Wunsch nachgekommen, da es wohl besonders aus dem Ausland teilweise nicht problemlos möglich war, die Zahlung vorzunehmen.
+
+Ein besonderer Vorteil von PayPal ist die Möglichkeit, auch Zahlungen vornehmen zu können, ohne ein Benutzerkonto beim Zahlungsdienst anlegen zu müssen. Zahlen sie einfach als Gast per Lastschrift oder Kreditkarte.
+
+Wir hoffen, mit diesem Schritt, dafür zu sorgen, die Nutzung des Archivs noch einfacher für Sie zu machen und wünschen weiterhin viel Spaß bei der Arbeit mit prometheus.

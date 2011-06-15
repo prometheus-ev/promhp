@@ -1,0 +1,9 @@
+---
+layout: post
+title: Jetzt auch Zahlung via PayPal möglich
+author: Arne
+tags:
+- paypal
+- zugang
+- lizenz
+---
