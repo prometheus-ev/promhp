@@ -5,5 +5,5 @@ author: Arne
 tags:
 - paypal
 - zugang
-- lizenz
+- lizenzen
 ---

@@ -5,7 +5,7 @@ author: Arne
 tags:
 - paypal
 - zugang
-- lizenz
+- lizenzen
 ---
 !(bordered-image)<%=r 'files/blog/screenshot_account_license_2011-06-14.png' %>!
 
