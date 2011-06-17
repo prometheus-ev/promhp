@@ -2,13 +2,13 @@
 layout: series
 descriptions: 
 - "Slevogt, Max: La Argentina, 1926, \xC3\x96l auf Leinwand, 160,5 x 105,5 cm, Stiftung Saarl\xC3\xA4ndischer Kulturbesitz, Saarlandmuseum Saarbr\xC3\xBCcken; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
-- "Slevogt, Max: Erdbeeren, 1903, \xC3\x96l auf Leinwand, Kunsthalle, Bremen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
-- "Slevogt, Max: Weiblicher R\xC3\xBCckenakt, 1907, \xC3\x96l auf Leinwand, 69,1 x 40,5 cm, Stiftung Saarl\xC3\xA4ndischer Kulturbesitz, Saarlandmuseum Saarbr\xC3\xBCcken, Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
-- "Slevogt, Max: Dame in Braun - Else Berna, 1908, \xC3\x96l auf Leinwand, 140 x 90 cm, St\xC3\xA4dtische Kunstsammlungen, Chemnitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
-- "Slevogt, Max: Selbstbildnis mit schwarzem Hut, 1913, \xC3\x96l auf Leinwand, Lenbachhaus, M\xC3\xBCnchen;  Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
-- "Slevogt, Max: Unterm Gartenschirm,  1916, \xC3\x96l auf Leinwand, Saarland-Museum, Saarbr\xC3\xBCcken; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
-- "Slevogt, Max: Zitronenstilleben. Karaffe, Zitronen und Zucker, 1921, \xC3\x96l auf Leinwand,  Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
-- "Slevogt, Max: Bildnis der T\xC3\xA4nzerin Marietta, 1923, \xC3\x96l auf Leinwand, Galerie Neue Meister, Dresden; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Slevogt, Max: Erdbeeren (Ausschnitt), 1903, \xC3\x96l auf Leinwand, Kunsthalle, Bremen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Slevogt, Max: Weiblicher R\xC3\xBCckenakt (Ausschnitt), 1907, \xC3\x96l auf Leinwand, 69,1 x 40,5 cm, Stiftung Saarl\xC3\xA4ndischer Kulturbesitz, Saarlandmuseum Saarbr\xC3\xBCcken, Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Slevogt, Max: Dame in Braun - Else Berna (Ausschnitt), 1908, \xC3\x96l auf Leinwand, 140 x 90 cm, St\xC3\xA4dtische Kunstsammlungen, Chemnitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Slevogt, Max: Selbstbildnis mit schwarzem Hut (Ausschnitt), 1913, \xC3\x96l auf Leinwand, Lenbachhaus, M\xC3\xBCnchen;  Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Slevogt, Max: Unterm Gartenschirm (Ausschnitt),  1916, \xC3\x96l auf Leinwand, Saarland-Museum, Saarbr\xC3\xBCcken; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Slevogt, Max: Zitronenstilleben. Karaffe, Zitronen und Zucker (Ausschnitt), 1921, \xC3\x96l auf Leinwand,  Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Slevogt, Max: Bildnis der T\xC3\xA4nzerin Marietta (Ausschnitt), 1923, \xC3\x96l auf Leinwand, Galerie Neue Meister, Dresden; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
 author: "Hendrikje H\xC3\xBCneke"
 title: Max Slevogt
 subtitle: Malerei und Grafik
