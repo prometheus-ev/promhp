@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Renger-Patzsch, Albert: Kaktus (Ausschnitt), 1922; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Renger-Patzsch, Albert: Fagus-Werke, Alfeld/Leine, Lagerhalle (Ausschnitt), 1927, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Renger-Patzsch, Albert: B\xC3\xBCgeleisen f\xC3\xBCr die Schuhmanufaktur (Ausschnitt), 1928, Getty-Museum, Malibu; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Albert Renger-Patzsch: Fagus-Werke, Alfeld/Leine, Hauptgeb\xC3\xA4ude (Ausschnitt), 1928; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Renger-Patzsch, Albert: Ariostolochia Elegans (Auschnitt), 1928, Staatsgalerie, Stuttgart; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Renger-Patzsch, Albert: Schuhleisten (Ausschnitt), 1928; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Renger-Patzsch, Albert: Fagus-Werke, Alfeld/Leine, Eingangsmauer (Ausschnitt), 1928; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Renger-Patzsch, Albert: Buchenlandschaft (Ausschnitt), 1936, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+author: "Hendrikje H\xC3\xBCneke"
+title: Albert Renger-Patzsch
+subtitle: Die Moderne im Blick
+date: 2011/06/24
+teaser: "Zum Anlass des 100-j\xC3\xA4hrigen Jubil\xC3\xA4ums des Fagus-Werks, zeigt die aktuelle Ausstellung im Bauhaus-Archiv Fotoserien von Albert Renger-Patzsch aus den Jahren 1928 und 1952. "
+collection: 27360
+---
+Zum Anlass des 100-jährigen Jubiläums der Fagus-Werke, zeigt die aktuelle Ausstellung im Bauhaus-Archiv Fotoserien von Albert Renger-Patzsch aus den Jahren 1928 und 1952. 
+Das von Walter Gropius und Adolf Meyer entworfenen Fagus-Werk wird als Ursprungsbau der Moderne gehandelt. Die Fotografien Renger-Patzschs, der als einer der bedeutendsten Fotografen der Neuen Sachlichkeit gilt, umfassen die Architektur der Schuhfabrik, aber auch die Produkte und den Herstellungsprozess sowie Porträts der Firmeninhaber. Ergänzt wird die Auswahl durch Natur- und Landschaftsaufnahmen aus dem Privatbesitz des Fagus-Junior-Chefs Karl Benscheidt jr., der als großer Förderer des Fotografen aufgetreten ist.
+
+*"Die Moderne im Blick. Albert Renger-Patzsch fotografiert das Fagus-Werk":http://www.bauhaus.de/aktuelles/ausstellungen.html, 22. Juni bis 29. August 2011, Bauhaus-Archiv, Berlin*

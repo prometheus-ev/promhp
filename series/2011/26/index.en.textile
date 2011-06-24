@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Renger-Patzsch, Albert: Kaktus (Detail), 1922; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Renger-Patzsch, Albert: Fagus-Werke, Alfeld/Leine, Lagerhalle (Detail), 1927, Museum Ludwig, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Renger-Patzsch, Albert: B\xC3\xBCgeleisen f\xC3\xBCr die Schuhmanufaktur (Detail), 1928, Getty-Museum, Malibu; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Albert Renger-Patzsch: Fagus-Werke, Alfeld/Leine, Hauptgeb\xC3\xA4ude (Detail), 1928; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Renger-Patzsch, Albert: Ariostolochia Elegans (Detail), 1928, Staatsgalerie, Stuttgart; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Renger-Patzsch, Albert: Schuhleisten (Detail), 1928; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Renger-Patzsch, Albert: Fagus-Werke, Alfeld/Leine, Eingangsmauer (Detail), 1928; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Renger-Patzsch, Albert: Buchenlandschaft (Detail), 1936, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+author: "Hendrikje H\xC3\xBCneke"
+title: Albert Renger-Patzsch
+subtitle: Focusing the Modern
+date: 2011/06/24
+teaser: In the occasion of the100th anniversary of the Fagus Factory, an exhibition in the Bauhaus-Archiv is presenting photographic series by Albert Renger-Patzsch from 1928 and 1952.
+collection: 27360
+---
+In the occasion of the100th anniversary of the Fagus Factory, an exhibition in the Bauhaus-Archiv is presenting photographic series by Albert Renger-Patzsch from 1928 and 1952.
+The Fagus Factory, designed by Walter Gropius and Adolf Meyer, is an important testimony of the beginning modern. The photographs by Renger-Patzsch, who numbers among the most important exponents of New Objectivity, include views of architecture of the shoe factory, as well as their products, the manufacturing process and portraits of the company's owners. 
+The show is complemented by nature- and landscape photographs from the private collection of Karl Benscheidt Jr., the son of the company's owner, who was a patron of the photographer. 
+
+*"Focusing the Modern. The Fagus Factory photographed by Albert Renger-Patzsch":http://www.bauhaus.de/aktuelles/ausstellungen+M52087573ab0.html, 22th of June to 29th of August 2011, Bauhaus-Archiv, Berlin*
