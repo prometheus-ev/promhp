@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Cranach, Lucas: Martin Luther als Junker J\xC3\xB6rg (Detail), um 1521, \xC3\x96l auf Rotbuchenholz, 33,5 x 25,3 cm, Leipzig, Museum der Bildenden K\xC3\xBCnste (Aufbewahrungsort); HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Holbein,  Hans d.J.: Bildnis der Jane Seymour (Detail), 1536, \xC3\x96l auf Holz, 65,5 x 47,5 cm, Wien, Kunsthistorisches Museum Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "D\xC3\xBCrer, Albrecht: Bernhard von Reesen (Detail), 1521, \xC3\x96l auf Eichenholz, 45,5 x 31,5 cm; Dresden, Gem\xC3\xA4ldegalerie Alte Meister Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Cranach, Lucas: Katharina Bora (Detail), um 1526, \xC3\x96l auf Eichenholz, 21,5 x 15,5 cm, Hamburg, Privatbesitz; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "D\xC3\xBCrer, Albrecht: Selbstbildnis (Detail), 1498, \xC3\x96l auf Lindenholz, 52 x 41 cm, Madrid, Museo Nacional del Prado; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Cranach, Lucas: Bildnis der Prinzessin Maria von Sachsen (Detail), 1534, Mischtechnik auf Rotbuchenholz, 51 x 36 cm, Darmstadt, Hessisches Landesmuseum (Aufbewahrungsort); HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Holbein, Hans d.J.: Bildnis eines jungen Mannes (Detail), 1543, \xC3\x96l auf Holz, 47 x 35 cm, Wien, Kunsthistorisches Museum Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "D\xC3\xBCrer, Albrecht: Bildnis einer jungen Venezianerin (Detail), 1505, \xC3\x96l auf Holz, 35 x 26 cm, Wien, Kunsthistorisches Museum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+author: "Hendrikje H\xC3\xBCneke"
+title: The portrait
+subtitle: "D\xC3\xBCrer \xE2\x80\x93 Cranach \xE2\x80\x93 Holbein"
+date: 2011/07/01
+teaser: "Around 1500 the portrait was predominantly used as means of representation. "
+collection: 27414
+---
+Around 1500 the portrait was predominantly used as means of representation. Therefore  portraits of that time provide an interesting view on the society of the beginning Modern Era.
+The Kunsthistorisches Museum in Vienna compiled over 140 excellent examples of his own collections as well as from important international collections and is presenting amongst others pictures by Albrecht Dürer, Lucas Cranach and Hans Holbein.
+
+*"Dürer - Cranach – Holbein. The German Portrait around 1500":http://www.khm.at/en/kunsthistorisches-museum/exhibitions/current/duerer-cranach-holbein/, 31th May 2011 to 4th September 2011, Kunsthistorisches Museum, Vienna*

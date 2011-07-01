@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Cranach, Lucas: Martin Luther als Junker J\xC3\xB6rg (Ausschnitt), um 1521, \xC3\x96l auf Rotbuchenholz, 33,5 x 25,3 cm, Leipzig, Museum der Bildenden K\xC3\xBCnste (Aufbewahrungsort); HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Holbein,  Hans d.J.: Bildnis der Jane Seymour (Ausschnitt), 1536, \xC3\x96l auf Holz, 65,5 x 47,5 cm, Wien, Kunsthistorisches Museum Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "D\xC3\xBCrer, Albrecht: Bernhard von Reesen (Ausschnitt), 1521, \xC3\x96l auf Eichenholz, 45,5 x 31,5 cm; Dresden, Gem\xC3\xA4ldegalerie Alte Meister Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Cranach, Lucas: Katharina Bora (Ausschnitt), um 1526, \xC3\x96l auf Eichenholz, 21,5 x 15,5 cm, Hamburg, Privatbesitz; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "D\xC3\xBCrer, Albrecht: Selbstbildnis (Ausschnitt), 1498, \xC3\x96l auf Lindenholz, 52 x 41 cm, Madrid, Museo Nacional del Prado; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Cranach, Lucas: Bildnis der Prinzessin Maria von Sachsen (Ausschnitt), 1534, Mischtechnik auf Rotbuchenholz, 51 x 36 cm, Darmstadt, Hessisches Landesmuseum (Aufbewahrungsort); HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Holbein, Hans d.J.: Bildnis eines jungen Mannes (Ausschnitt), 1543, \xC3\x96l auf Holz, 47 x 35 cm, Wien, Kunsthistorisches Museum Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "D\xC3\xBCrer, Albrecht: Bildnis einer jungen Venezianerin (Ausschnitt), 1505, \xC3\x96l auf Holz, 35 x 26 cm, Wien, Kunsthistorisches Museum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+author: "Hendrikje H\xC3\xBCneke"
+title: "Das Portr\xC3\xA4t"
+subtitle: "D\xC3\xBCrer \xE2\x80\x93 Cranach \xE2\x80\x93 Holbein"
+date: 2011/07/01
+teaser: "Um 1500 diente das Portr\xC3\xA4t dem Adel und B\xC3\xBCrgertum vorwiegend als Mittel der Repr\xC3\xA4sentation. "
+collection: 27414
+---
+Um 1500 diente das Porträt dem Adel und Bürgertum vorwiegend als Mittel der Repräsentation. Somit bieten Porträts der Zeit einen interessanten Einblick in die spätmittelalterliche und frühneuzeitliche Gesellschaft. 
+Das Kunsthistorische Museum Wien hat hervorragende Beispiele des deutschen Sprachraums aus dem eigenen Bestand sowie aus europäischen und amerikanischen Sammlungen zusammengetragen und kann unter anderem Gemälde von Albrecht Dürer, Lucas Cranach d.Ä. und Hans Holbein d.J. präsentieren.
+
+*"Dürer - Cranach - Holbein. Das deutsche Porträt um 1500":http://www.khm.at/khm/ausstellungen/aktuell/duerer-cranach-holbein/, 31. Mai bis 4. September 2011, Kunsthistorisches Museum, Wien*
