@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Naumburger Meister: Stifterfiguren, Markgraf Ekkehard II. und seine Gemahlin Uta (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Naumburger Meister: Stifterfigur, Graf Wilhelm (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Naumburger Meister: Stifterfigur, Riglindis (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Naumburger Meister: Stifterfigur, Graf Thimo von Kistritz (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Naumburger Meister: Stifterfigur, Gr\xC3\xA4fin Gerburg (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Naumburger Meister: Stifterfigur, Graf Syzzo (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Naumburger Meister: Stifterfigur, Markgraf Ekkehard II. (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Naumburger Meister: Stifterfigur, Uta (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+author: "Hendrikje H\xC3\xBCneke"
+title: Der Naumburger Meister
+subtitle: Eine Spurensuche
+date: 2011/07/07
+teaser: "Hinter dem Namen \xE2\x80\x9ENaumburger Meister\xE2\x80\x9C verbirgt sich eine Gruppe von Bildhauern einer Werkstatt und ihrem Leiter, die im mittelalterlichen Bauh\xC3\xBCttenwesen eine herausragende Stellung einnehmen konnte."
+collection: 27475
+---
+Eine umfassende Ausstellung in Naumburg geht der Frage nach dem Wirken des Naumburger Meisters nach. Sie behandelt sowohl die Bildung seiner Werkstatt an den französischen Kathedralen der Île de France, der Champagne und Picardie in den 1220er Jahren, als auch die Verbreitung der Arbeit im deutschen Sprachraum von Mainz über Naumburg bis nach Meißen. Im mittelalterlichen Bauhüttenwesen nahm die Werkstatt eine herausragende Stellung ein und ist ein Beispiel für den überregionalen Kulturaustausch der Zeit. 
+Ein weiterer Ausstellungsteil ist der Rezeption des 19. und 20. Jahrhunderts gewidmet, welche die Arbeit der Franzosen, zum Beispiel mit der Figur der Uta, als typisch deutsch deklarierte.
+
+*"Der Naumburger Meister - Bildhauer und Architekt im Europa der Kathedralen":http://naumburgermeister.eu/index.php?id=ausstellung&L=0&cHash=e1c82ca949eefa12005efd4cd813ed4b, Landesausstellung von Sachsen-Anhalt, 29. Juni bis zum 2. November 2011, Landesausstellung des Landes Sachsen-Anhalt, verschiedene Ausstellungsorte in Naumburg* 

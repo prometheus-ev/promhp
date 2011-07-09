@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Naumburger Meister: Stifterfiguren, Markgraf Ekkehard II. und seine Gemahlin Uta (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Naumburger Meister: Stifterfigur, Graf Wilhelm (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Naumburger Meister: Stifterfigur, Riglindis (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Naumburger Meister: Stifterfigur, Graf Thimo von Kistritz (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Naumburger Meister: Stifterfigur, Gr\xC3\xA4fin Gerburg (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Naumburger Meister: Stifterfigur, Graf Syzzo (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Naumburger Meister: Stifterfigur, Markgraf Ekkehard II. (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Naumburger Meister: Stifterfigur, Uta (Detail), um 1250/60, Naumburg, Sankt Peter und Sankt Paul, Marienchor; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+author: "Hendrikje H\xC3\xBCneke"
+title: The Naumburg Master
+subtitle: Search for clues
+date: 2011/07/07
+teaser: "The name \xE2\x80\x9CNaumburg Master\xE2\x80\x9C refers to a group of sculptors of a workshop and their head with an outstanding reputation throughout medieval Europe."
+collection: 27475
+---
+The name “Naumburg Master“ refers to a sculptor and his workshop with an outstanding reputation throughout medieval Europe.
+A comprehensive exhibition in Naumburg deals with the formation and education of the workshop in the 1220s at cathedrals situated in Île de France, Champagne and Picardie as well as with the dissemination of their work via Mainz to Naumburg and Meissen. Another section of the exhibition is dedicated to the reception in the 19th and 20th century, when the work of the French, for example with the sculpture of Uta, was declared as typical German. 
+
+*"The Naumburg Master - Sculptor and Architect in the Europe of Cathedrals":http://naumburgermeister.eu/index.php?id=ausstellung&L=1&cHash=6ab7ae12b851bbd39aa71dc328f21f60, Saxony-Anhalt State Exhibition, from 29th June to 2nd November 2011, Naumburg* 
