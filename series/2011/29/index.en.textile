@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Munch, Edvard: M\xC3\xA4nnerkopf im Frauenhaar (Detail), 1896, Farbholzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Munch, Edvard: Im m\xC3\xA4nnlichen Gehirn (Detail), 1897, Holzschnitt, Oslo; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+- "Munch, Edvard: Zwei Frauen am Meeresufer (Detail), 1898, Farbholzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Munch, Edvard: Das Herz (Detail), 1899, Holzschnitt, Kupferstichkabinett, Dresden; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Munch, Edvard: Badender Mann (Detail), 1899, Holzschnitt mit Pappschablone, Oslo; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+- "Munch, Edvard: Frauenkopf am Strande (Detail), 1899, Holzschnitt, Privatsammlung; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Munch, Edvard: Sturmnacht (Detail), 1908-09, Holzschnitt, Kupferstichkabinett, Dresden; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Munch, Edvard: M\xC3\xA4dchen auf dem Pier (Detail), 1918, Holzschnitt, Privatsammlung; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg"
+author: "Hendrikje H\xC3\xBCneke"
+title: Edvard Munch
+subtitle: Woodcuts
+date: 2011/07/17
+teaser: "Since his stay in Paris in 1896 Munch was producing artworks in woodcut technique. "
+collection: 27500
+---
+Since his stay in Paris in 1896 Munch was producing artworks in woodcut technique. An exhibition in the Benhaus in Lübeck is concentrating on print works of Munch. On the one hand the shown woodcuts originate from the Behnhaus collection and derive from the relationship between Edvard Munch and the collector and patron Dr. Max Linde from Lübeck. On the other hand 46 woodcuts from a private Norwegian collection are being presented for the first time in Germany.
+
+*"Edvard Munch. Woodcuts":http://www.die-luebecker-museen.de/de/37/teid:7953/kalender-detail.html, 19 June to 4 September 2011, Lübeck, Behnhaus Drägerhaus*
