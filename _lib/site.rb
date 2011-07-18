@@ -10,6 +10,16 @@ module Jekyll
       _prometheus_original_process
     end
 
+    alias_method :_prometheus_original_read, :read
+
+    def read
+      _prometheus_original_read
+
+      if File.readable?(File.join(self.source, f = '.htaccess'))
+        pages << Page.new(self, self.source, '', f)
+      end
+    end
+
     private
 
     def load_environment(env)
