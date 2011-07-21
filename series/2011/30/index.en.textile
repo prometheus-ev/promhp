@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Bill Brandt, Opio, fotografiert von Helmut Newton, 1975; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Edward Steichen, fotografiert von Gertrude K\xC3\xA4sebier, 1901; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Edward Steichen mit Filmkamera, Umpawaug Farm, 1959; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Man Ray mit Kamera, 1932; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Man Ray mit photokina-Plakette,1960; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "Brassa\xC3\xAF vor seiner Wohnungst\xC3\xBCr, fotografiert von Helmut Newton, 1975; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Ansel Adams im Yosemite Valley, fotografiert von Imogen Cunningham, 1953; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Ansel Adams bei seiner Arbeit, Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+author: "Hendrikje H\xC3\xBCneke"
+title: Photographers
+subtitle: In front of the camera
+date: 2011/07/21
+teaser: Mostly photographers remain behind their camera ...
+collection: 27643
+---
+Mostly photographers remain behind their camera and only experimental self portraits show the artists occasionally. But photographers like Man Ray, Anselm Adams, Edward Steichen, Brassai and others changed once their position from the back to the front of the camera, as you can see in the shown portraits.
+A gallery in Berlin is presenting portraits of the famous photographers of the 20th century, taken by Arnold Crane, who waited for a good motif until his protagonists became friends.
+ 
+*"Arnold Crane":http://www.camerawork.de/lang-en/exhibitions/future.html, from 16th of Juli until third of September 2011, gallery Camera Work, Berlin*

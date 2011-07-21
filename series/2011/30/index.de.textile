@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Bill Brandt, Opio, fotografiert von Helmut Newton, 1975; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Edward Steichen, fotografiert von Gertrude K\xC3\xA4sebier, 1901; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Edward Steichen mit Filmkamera, Umpawaug Farm, 1959; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Man Ray mit Kamera, 1932; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Man Ray mit photokina-Plakette,1960; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln"
+- "Brassa\xC3\xAF vor seiner Wohnungst\xC3\xBCr, fotografiert von Helmut Newton, 1975; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Ansel Adams im Yosemite Valley, fotografiert von Imogen Cunningham, 1953; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Ansel Adams bei seiner Arbeit, Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+author: "Hendrikje H\xC3\xBCneke"
+title: Fotografen
+subtitle: Vor der Kamera
+date: 2011/07/21
+teaser: Meist bleibt der Fotograf hinter seiner Kamera ...
+collection: 27643
+---
+Meist bleibt der Fotograf hinter seiner Kamera und nur vereinzelt zeigen experimentelle Selbstporträts den Künstler. Aber Fotografen wie Man Ray, Anselm Adams, Edward Steichen, Brassai und andere gerieten alle einmal in das Visier eines Kollegen, wie die hier vorgestellten Porträts deutlich machen.
+Eine Berliner Galerie zeigt nun Porträts der berühmt gewordenen Fotografen des 20. Jahrhunderts, fotografiert von Arnold Crane, der solange auf die guten Motive lauerte, bis seine Protagonisten Freunde wurden.  
+
+*"Arnold Crane":http://www.camerawork.de/lang-de/ausstellungen-mainmenu-145/zukige-mainmenu-147.html, 16. Juli bis 03. September 2011, Galerie Camera Work, Berlin*
