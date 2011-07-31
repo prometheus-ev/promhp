@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Corinth, Lovis: Paddel-Petermannchen, 1902, \xC3\x96l auf Leinwand, Hannover, Nieders\xC3\xA4chsisches Landesmuseum; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Feininger, Lyonel: Segelregatta, 1929, Detroit, Institute of Art Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Jawlensky, Alexej von: Sturmkiefern bei Prerow, 1911, \xC3\x96l auf Karton, M\xC3\xBCnchen, Galerie Raimund Thomas; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Kleine, C\xC3\xA9sar: Ahrenshoop II, 1909, \xC3\x96l auf Malpappe, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Munch, Edvard: Badende M\xC3\xA4nner, 1907, \xC3\x96l auf Leinwand, Helsinki, Ateneum Art Museum; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Pechstein, Max: Hafen (Leba), 1922, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Schmidt-Rottluff, Karl: Sommerabend am See, 1934, \xC3\x96l auf Leinwand, Chemnitz, St\xC3\xA4dtische Kunstsammlungen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Werefkin, Marianne: Die Steilk\xC3\xBCste von Ahrenshoop, 1911, Tempera auf Pappe, Ascona, Fondazione Marianne Werefkin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+title: "Sommerg\xC3\xA4ste"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "K\xC3\xBCnstler an der Ostsee"
+date: 2011/07/31
+teaser: Schon zu Beginn des 20. Jahrhunderts bot die flache und zarte Ostseelandschaft einen ruhigen Gegenpol zu dem sich rasant entwickelnden Leben in der Stadt.
+collection: 27700
+---
+Schon zu Beginn des 20. Jahrhunderts bot die flache und zarte Ostseelandschaft einen ruhigen Gegenpol zu dem sich rasant entwickelnden Leben in der Stadt. Viele Künstler der Klassischen Moderne fanden in Mecklenburg und Pommern ihre Sehnsucht nach Ursprünglichkeit gestillt und ließen sich von der Landschaft und ihren Bewohnern inspirieren. Besonders für Künstler, die in der Zeit des Nationalsozialismus als „entartet“ diffamiert waren, wurde die Region zum Rückzugsort.
+Eine Ausstellung im Schweriner Museum zeigt erstmals einen repräsentativen Überblick unter anderem mit Werken von Marianne von Werefkin, Alexej Jawlensky, Edvard Munch, Lyonel Feininger, Erich Heckel und Karl Schmidt-Rottluff, sowie Vertretern der Dada-Szene wie Hans Arp, Sophie Taeuber-Arp, Kurt Schwitters und Hannah Höch.
+
+*"Sommergäste. Von Arp bis Werefkin. Klassische Moderne in Mecklenburg und Pommern":http://www.museum-schwerin.de/austellungen/kunstsammlungen-schwerin/ausstellungsvorschau-5/, 22. Juli bis 23. Oktober, Staatliches Museum Schwerin*
