@@ -1,0 +1,25 @@
+--- 
+layout: series
+descriptions: 
+- "Hokusai: Die gro\xC3\x9Fe Welle (Detail), 1823-1829, aus: 36 Ansichten vom Berg Fuji; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Hokusai: Ebisu beim Goldfischangeln (Detail), Museum f\xC3\xBCr Asiatische Kunst, Ostasiatische Kunstsammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Hokusai: Fuji abzeichnend (Detail), 1835, In: Hundert Ansichten des Fuji; Datenbank Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Hokusai: Fuji im Unwetter (Detail), 1835, In: Hundert Ansichten des Fuji, II / 52 (rechts); Datenbank Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Hokusai: Die m\xC3\xA4chtige Oi giesst Sake f\xC3\xBCr den chinesischen Krieger Fan Kuai aus einem Fass (Detail), um 1820, London; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Hokusai: Fuji hinter einem Bambushain (Detail), 1835, In: Hundert Ansichten des Fuji;  Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Hokusai: Ebisu beim Goldfischangeln (Detail), Museum f\xC3\xBCr Asiatische Kunst, Ostasiatische Kunstsammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Hokusai: Fujimigahara in der Owari Provinz (Detail), 1834, In: Hundert Ansichten des Fuji; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+title: Katsushika Hokusai
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Retrospektive
+date: 2011/08/03
+teaser: "Schon zu Lebzeiten Hokusais (1760-1849) brachten die Holl\xC3\xA4nder seine Farbholzschnitte und Malerei nach Europa. "
+collection: 27618
+---
+Schon zu Lebzeiten Hokusais (1760-1849) brachten die Holländer seine Farbholzschnitte und Malerei nach Europa. Ende des 19. Jahrhunderts wurden er und andere japanischen Zeitgenossen in den Künstlerkreisen von Paris berühmt. Ihre Holzschnitte wurden von Degas, Gauguin, Jawlensky, Klimt, Marc, Macke, Manet und vielen anderen gesammelt und beeinflussten deren Werk.  
+
+Hokusai hatte großen Anteil an der Perfektionierung des Farbholzschnittes, der seit den 1740er Jahren praktiziert worden war. An den Kunstwerken aus bis zu 70 Farbplatten arbeiteten manchmal mehrere Künstler. Die illustrierten Bücher erfreuten sich einer großen Beliebtheit und erreichten hohe Auflagen.
+
+Eine Retrospektive im Martin-Gropius-Bau bringt nun nicht wenige Werke erstmalig nach Europa.
+
+*"Hokusai – Retrospektive":http://www.berlinerfestspiele.de/de/aktuell/festivals/11_gropiusbau/mgb_ausstellungsvorschau/hokusai/mgb11_hokusai_start.php, 26. August bis 24. Oktober 2011, Martin-Gropius-Bau, Berlin*
