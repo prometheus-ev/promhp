@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Dinglinger, Johann Melchior: Thron des Gro\xC3\x9Fmoguls (Detail), 1708, Dresden, Gr\xC3\xBCnes Gew\xC3\xB6lbe; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Fussbodenmosaik (Detail), 1163-65, Otranto, Kathedrale, Vierung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Dali, Salvador: Die Versuchung des heiligen Antonius (Detail), 1946, \xC3\x96l auf Leinwand, 89,7 x 119,5 cm, Br\xC3\xBCssel, Antwerpen, Koninklijk Museum voor Schone Kunsten; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Jamnitzer, Christoph: Elefanten-Font\xC3\xA4ne (Detail), ca. 1610, Silber, Berlin, Staatliche Museen zu Berlin Preu\xC3\x9Fischer Kulturbesitz, Kunstgewerbemuseum; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte, Trier "
+- "Troger, Paul / Fanti, Gaetano: Deckenmalerei (Detail), 1739, Melk, Benediktinerstift Melk, Bildersaal; Farbdiaarchiv, Zentralinstitut f\xC3\xBCr Kunstgeschichte M\xC3\xBCnchen, M\xC3\xBCnchen"
+- "Kalkstein-Fenstertransenne (Detail), 6. Jh., \xC3\x84gypten, Kairo, Koptisches Museum; RUDI, Friedrich-Alexander-Universit\xC3\xA4t, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Erlangen  "
+- "Marc, Franz: Fabeltier, Grauer Elefant (Detail), 1912, Gouache auf Papier, 41,1 x 46,3 cm; Buffalo, New York; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Rexit / Brown, Julian: Klebebandspender Hannibal (Detail), 1998; Database dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau "
+title: Elefantastisch
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Der Elefant als Kunst- und Kultobjekt
+date: 2011/08/05
+teaser: "H\xC3\xA4tte es die Gem\xC3\xA4lde mit den langbeinigen Elefanten von Dali bereits im 17. Jahrhundert gegeben, h\xC3\xA4tte Friedrich I. von Sachsen-Gotha-Altenburg es sicher angestrebt sie zu besitzen. "
+collection: 27729
+---
+Hätte es die Gemälde mit den langbeinigen Elefanten von Dali bereits im 17. Jahrhundert gegeben, hätte Friedrich I. von Sachsen-Gotha-Altenburg es sicher angestrebt sie zu besitzen. Denn nachdem er Träger des Königlich-Dänischen-Elefantenordens geworden war, zierte von nun an ein Elefant das herzogliche Wappen und es wurden Kunstwerke und Handwerksarbeiten mit Elefantenmotiv zum begehrten Sammelobjekt.
+Die Stiftung Schloss Friedenstein bezeichnet Gotha aufgrund dieses und noch weiterer historischer Bezüge als „Elefantenstadt“ und widmet dem Thema eine kuriose Ausstellung.
+
+*"Elefantastisch! - Gotha ganz groß":http://www.stiftungfriedenstein.de/index.php?id=1502, 15. Mai bis 23. Oktober, Schloss Friedenstein, Gotha*

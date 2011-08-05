@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Dinglinger, Johann Melchior: Thron des Gro\xC3\x9Fmoguls (Detail), 1708, Dresden, Gr\xC3\xBCnes Gew\xC3\xB6lbe; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Fussbodenmosaik (Detail), 1163-65, Otranto, Kathedrale, Vierung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Dali, Salvador: Die Versuchung des heiligen Antonius (Detail), 1946, \xC3\x96l auf Leinwand, 89,7 x 119,5 cm, Br\xC3\xBCssel, Antwerpen, Koninklijk Museum voor Schone Kunsten; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Jamnitzer, Christoph: Elefanten-Font\xC3\xA4ne (Detail), ca. 1610, Silber, Berlin, Staatliche Museen zu Berlin Preu\xC3\x9Fischer Kulturbesitz, Kunstgewerbemuseum; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte, Trier "
+- "Troger, Paul / Fanti, Gaetano: Deckenmalerei (Detail), 1739, Melk, Benediktinerstift Melk, Bildersaal; Farbdiaarchiv, Zentralinstitut f\xC3\xBCr Kunstgeschichte M\xC3\xBCnchen, M\xC3\xBCnchen "
+- "Kalkstein-Fenstertransenne (Detail), 6. Jh., \xC3\x84gypten, Kairo, Koptisches Museum; RUDI, Friedrich-Alexander-Universit\xC3\xA4t, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Erlangen"
+- "Marc, Franz: Fabeltier, Grauer Elefant (Detail), 1912, Gouache auf Papier, 41,1 x 46,3 cm; Buffalo, New York; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Rexit / Brown, Julian: Klebebandspender Hannibal (Detail), 1998; Database dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau "
+title: Elephantastic
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: The elephant as an art and cult object
+date: 2011/08/05
+teaser: "If the painting with the long-legged elephants by Dal\xC3\xAC had existed already in the 17th century, Friedrich I. of Sachsen-Gotha-Altenburg would have liked to own it. "
+collection: 27729
+---
+If the painting with the long-legged elephants by Dalì had existed already in the 17th century, Friedrich I. of Sachsen-Gotha-Altenburg would have liked to own it. Because after receiving the royal-danish-elephant-decoration every work of art and handicraft with elephant-motif became a popular collectable.
+Due to this and other historical references the trust Schloss Friedenstein is calling Gotha an „elephant-city“ and is dedicating a curious exhibition to this subject. 
+
+*"Elefantastisch! - Gotha ganz groß":http://www.stiftungfriedenstein.de/index.php?id=1502, 15. Mai bis 23. Oktober, Schloss Friedenstein, Gotha*
