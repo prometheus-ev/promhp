@@ -1,0 +1,25 @@
+--- 
+layout: series
+descriptions: 
+- "da Vinci, Leonardo: Dame mit dem Hermelin (Cecilia Gallerani), um 1483, \xC3\x96l auf Holz, 55 x 40,4 cm, Krakau, Muzeum Narodowe; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Messina, Antonello da: Bildnis eines jungen Mannes, 1478, \xC3\x96l auf Nussbaumholz, 20,4 x 14,5 cm,  Berlin, Staatliche Museen, Gem\xC3\xA4ldegalerie, bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Lippi, Filippo: Frauenbildnis, 1440, \xC3\x96l auf Pappelholz, 49,3 x 32,7 cm, Berlin, SMPK; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Botticelli, Sandro: Giuliano de Medici, 1478, Tempera auf Pappelholz, 56,8 x 38,5 cm, Berlin, Staatliche Museen, Gem\xC3\xA4ldegalerie; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Botticelli, Sandro: Bildnis einer Frau (Simonetta Vespucci?), um 1476, Tempera auf Pappelholz, 47,5 x 35 cm, Berlin, Staatliche Museen, Gem\xC3\xA4ldegalerie; Mediathek, Heinrich-Heine-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, D\xC3\xBCsseldorf "
+- "Bellini, Gentile: Bildnis eines Mannes (Selbstpotr\xC3\xA4t?), um 1496, Zeichnung, 23 x 19,4 cm, Berlin, Staatliche Museen, Kupferstichkabinett; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Mentagna, Andrea: Kardinal Lodovico Trevisano 1459/60, Tempera auf Pappelholz, 44 x 33 cm, Berlin, Staatliche Museen, Gem\xC3\xA4ldegalerie; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Pollaiuolo, Antonio del: Profilbildnis einer jungen Frau, 1455, \xC3\x96l auf Pappelholz, 52,5 x 36,5 cm, Berlin, Staatliche Museen, Gem\xC3\xA4ldegalerie; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+title: Gesichter der Renaissance
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Italienische Portr\xC3\xA4ts "
+date: 2011/08/05
+teaser: "Nachdem sich in Wien eine Ausstellung zum Portr\xC3\xA4t auf die beginnende Renaissance und den deutschen Sprachraum konzentriert, wird nun in Berlin eine Ausstellung er\xC3\xB6ffnet, die das italienische Renaissance-Portr\xC3\xA4t zum Thema macht."
+collection: 27701
+---
+Nachdem sich in Wien eine Ausstellung zum Porträt auf die beginnende Renaissance und den deutschen Sprachraum konzentriert, wird nun in Berlin eine Ausstellung eröffnet, die das italienische Renaissance-Porträt zum Thema macht.
+
+Was sagen die Porträts der jungen Frauen, der Kaufleute, der Heerführer und Kirchenmänner über die Dargestellten aus? Inschriften, Kleidung und Schmuck sowie der Hintergrund vor dem die Personen präsentiert sind, können viel über deren Status und (oft idealisierte) Charakterzüge verraten.
+
+Die Ausstellung ist mit Leihgaben großer Museen ausgestattet und kann so die berühmtesten Werke, wie Botticellis Porträt der Simonetta Vespucci oder des Giuliano de Medici, Leonardo da Vincis Dame mit dem Hermelin oder Pollaiuolos sogenannte „Bianca“ im Bode-Museum zusammenbringen.
+
+*"Gesichter der Renaissance":http://www.smb.museum/smb/gesichter/index.php?lang=de, 25. August bis 20. November 2011, Bode-Museum, Berlin*
