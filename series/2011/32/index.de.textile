@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Bergemann, Sibylle: Buchholz (Detail), 1977, in: \xC3\x96stlich von Eden - Vor der DDR nach Deutschland 1974-1999, Wien/M\xC3\xBCnchen 1999, S. 19; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Bergemann, Sibylle: Berlin (Detail), 1972, in: Verwunderte Wirklichkeit - Fotografien, Berlin 1992, S. 15; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Bergemann, Sibylle: Maren, Berlin (Detail), 1991, in: Verwunderte Wirklichkeit - Fotografien, Berlin 1992, S. 21; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Bergemann, Sibylle: Berlin (Detail), 1975, in: Verwunderte Wirklichkeit - Fotografien, Berlin 1992, S. 57; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Bergemann, Sibylle: Katharina Thalbach (Detail), Berlin, 1974, in: Buberl, Brigitte (Hg.): Mode Foto Mode, Heidelberg 1992, S. 79; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Bergemann, Sibylle: Berlin (Detail), 1976, in: Verwunderte Wirklichkeit - Fotografien, Berlin 1992, S. 28; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Bergemann, Sibylle: Hoppenrade (Detail), 1975, in: Verwunderte Wirklichkeit - Fotografien, Berlin 1992, S. 7.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Bergemann, Sibylle: Marisa Jacobi, Gabriele Sommerlatte, Berlin (Detail), 1981, in: Buberl, Brigitte (Hg.): Mode Foto Mode, Heidelberg 1992, S. 27; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+title: Sibylle Bergemann
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2011/08/05
+teaser: "\"Mich interessiert der Rand der Welt, nicht die Mitte.\""
+collection: 27644
+---
+„Mich interessiert der Rand der Welt, nicht die Mitte. Das Nichtaustauschbare ist für mich von Belang. Wenn etwas nicht ganz stimmt in den Gesichtern oder Landschaften.“
+
+Die Fotografien von Sibylle Bergemann verbreiten eine schwermütige Stimmung, die ganz besonders in den aktuell ausgestellten Bildern zur Geltung kommt: in den Polaroids. Ursprünglich nicht ganz ernst genommen, erkennt man heute den Reiz dieser Fototechnik. Die Bilder sind auf ein quadratisches Format beschränkt, sind stärker der Vergänglichkeit ausgesetzt und sie sind Unikate. 
+
+*"Sibylle Bergemann. Polaroids":http://www.co-berlin.info/programm/exhibitions/2011/sibylle-bergemann.html, 2. Juli bis 4. September 2011, Galerie C/O, Berlin*
