@@ -11,7 +11,7 @@ descriptions:
 - "Bergemann, Sibylle: Marisa Jacobi, Gabriele Sommerlatte, Berlin (Detail), 1981, in: Buberl, Brigitte (Hg.): Mode Foto Mode, Heidelberg 1992, S. 27; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
 title: Sibylle Bergemann
 author: "Hendrikje H\xC3\xBCneke"
-subtitle: 
+subtitle: Fotos
 date: 2011/08/05
 teaser: "\"Mich interessiert der Rand der Welt, nicht die Mitte.\""
 collection: 27644
