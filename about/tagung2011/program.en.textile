@@ -35,7 +35,7 @@ Susanne Schumacher M.A. (Zürich, Zürcher Hochschule der Künste)
 Prof. Dr. Dieter Merkl (TU Wien, Institute of Software Technology and Interactive Systems)
 *Informationsextraktion aus einer Kunst Folksonomie* 
 
-Introducing new projects - 2 Shortcuts á 15 minutes:
+Introducing new projects - 2 shortcuts á 15 minutes:
 Prof. Dr. Reinhard Förtsch (Universität zu Köln, Archäologisches Institut): *CLAROS* (tbc)
 Dr. Maria Effinger (Universitätsbibliothek Heidelberg): *German Sales 1933-1945*
 <br />
@@ -65,7 +65,7 @@ _Coffee break_
 PD Dr. Holger Simon (Köln, pausanio GmbH & Co. KG)
 *Mit dem Kulturwecker unterwegs – Kunst und Kultur mobil*
 
-Introducing new projects - 2 Shortcuts á 15 Minuten: 
+Introducing new projects - 2 shortcuts á 15 minutes: 
 Katalin Bélyácz (Budapest, Museum of Fine Arts): *Die Datenbankprojekte der Antikensammlung*
 Fabian Cremer (Universität Frankfurt a.M., Kunstgeschichtliches Institut): *ConedaCor*
 <br />
@@ -112,7 +112,7 @@ Simon Rein o.a. (Berlin, Staatliche Museen)
 _Lunch break_
 <br />
 <br />
-Introducing new projects - 3 Shortcuts á 15 minutes: 
+Introducing new projects - 3 shortcuts á 15 minutes: 
 Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum): *WissKI*
 Dr. Andreas Rutz (Universität Bonn, Institut für Rheinische Landesgeschichte): *Das digitale Historische Archiv Köln*
 Prof. Dr. Gunnar Heydenreich (FH Köln, Institut für Restaurierungs- und Konservierungswissenschaft): *Cranach Digital Archiv* (tbc)
