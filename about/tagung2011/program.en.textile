@@ -6,15 +6,15 @@ title: Program
 <br />
 <br />
 
-<h3 style="margin-top:0px;">Freitag, 04.11.11</h3>
+<h3 style="margin-top:0px;">Friday, 11-11-04</h3>
 
-h4. Begrüßung
+h4. Welcome
 
 PD Dr. Holger Simon (prometheus e.V.)
 <br />
 <br />
 
-h4. Sektion 1: VERBINDEN
+h4. Section 1: CONNECTING
 
 Moderation: Dr. Ute Verstegen (prometheus e.V./ Universität Erlangen-Nürnberg, Christliche Archäologie)
 <br />
@@ -26,7 +26,7 @@ PD Dr. Martin Warnke (Leuphana Universität Lüneburg, Institut für Kultur und 
 *Motive vernetzen – Meta-Image als Bild-Zettelkasten* 
 <br />
 <br />
-_Kaffeepause_
+_Coffee break_
 <br />
 <br />
 Susanne Schumacher M.A. (Zürich, Zürcher Hochschule der Künste)
@@ -35,16 +35,16 @@ Susanne Schumacher M.A. (Zürich, Zürcher Hochschule der Künste)
 Prof. Dr. Dieter Merkl (TU Wien, Institute of Software Technology and Interactive Systems)
 *Informationsextraktion aus einer Kunst Folksonomie* 
 
-2 Shortcuts á 15 Minuten Projektvorstellung:
-Prof. Dr. Reinhard Förtsch (Universität zu Köln, Archäologisches Institut): *CLAROS* (angefragt)
+Introducing new projects - 2 Shortcuts á 15 minutes:
+Prof. Dr. Reinhard Förtsch (Universität zu Köln, Archäologisches Institut): *CLAROS* (tbc)
 Dr. Maria Effinger (Universitätsbibliothek Heidelberg): *German Sales 1933-1945*
 <br />
 <br />
-_Mittagspause_
+_Lunch break_
 <br />
 <br />
 
-h4. Sektion 2: VERORTEN
+h4. Section 2: LOCATING
 
 Moderation: Prof. Dr. Dorothee Haffner (prometheus e.V./ Hochschule für Technik und Wirtschaft Berlin, Museumskunde)
 <br />
@@ -59,35 +59,35 @@ Katharina Behrends (München, NBC UNIVERSAL Global Networks Deutschland GmbH)
 *13th street, The witness (Krimi/Augmented Reality)*
 <br />
 <br />
-_Kaffeepause_
+_Coffee break_
 <br />
 <br />
 PD Dr. Holger Simon (Köln, pausanio GmbH & Co. KG)
 *Mit dem Kulturwecker unterwegs – Kunst und Kultur mobil*
 
-2 Shortcuts á 15 Minuten Projektvorstellung: 
+Introducing new projects - 2 Shortcuts á 15 Minuten: 
 Katalin Bélyácz (Budapest, Museum of Fine Arts): *Die Datenbankprojekte der Antikensammlung*
 Fabian Cremer (Universität Frankfurt a.M., Kunstgeschichtliches Institut): *ConedaCor*
 <br />
 <br />
 
-h4. Festakt im Historischen Archiv der Stadt Köln
+h4. Ceremony and reception in the rooms of the Historical Archive of the City of Cologne
 
-Begrüßung: PD Dr. Holger Simon (prometheus e.V.)
-Festvortrag: Prof. Dr. Hubertus Kohle (LMU München, Institut für Kunstgeschichte)
+Opening adress: PD Dr. Holger Simon (prometheus e.V.)
+Ceremonial address: Prof. Dr. Hubertus Kohle (LMU München, Institut für Kunstgeschichte)
 <br />
 <br />
 <br />
 
-<h3 style="margin-top:0px;">Samstag, 05.11.11</h3>
+<h3 style="margin-top:0px;">Saturday, 11-11-05</h3>
 
-h4. Begrüßung
+h4. Welcome
 
 Prof. Dr. Norbert Eschbach (prometheus e.V./ JLU Gießen, Professur für Klassische Archäologie)
 <br />
 <br />
 
-h4. Sektion 3: VERWANDELN
+h4. Section 3: TRANSFORMING
 
 Moderation: Lisa Dieckmann M.A. (prometheus e.V./ Universität zu Köln, Kunsthistorisches Institut)
 <br />
@@ -99,52 +99,52 @@ Dr. Daniel Hornuff (HfG Karlsruhe, Fachbereich Kunstwissenschaft und Medientheor
 *Kunst im 3D-Rundgang. Was bringt das virtuelle Museum?*
 <br />
 <br />
-_Kaffeepause_
+_Coffee break_
 <br />
 <br />
 Martin Adam (UdK Berlin, Fachbereich Gesellschafts- und Wirtschaftkommunikation)
 *Augmented Reality erweckt Pergamon zu neuem Leben*
 
 Simon Rein o.a. (Berlin, Staatliche Museen)
-*Google-Art-Project* (Titel steht noch nicht fest)
+*Google-Art-Project* (tbc)
 <br />
 <br />
-_Mittagspause_
+_Lunch break_
 <br />
 <br />
-3 Shortcuts á 15 Minuten Projektvorstellung: 
+Introducing new projects - 3 Shortcuts á 15 minutes: 
 Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum): *WissKI*
 Dr. Andreas Rutz (Universität Bonn, Institut für Rheinische Landesgeschichte): *Das digitale Historische Archiv Köln*
-Prof. Dr. Gunnar Heydenreich (FH Köln, Institut für Restaurierungs- und Konservierungswissenschaft): *Cranach Digital Archiv* (angefragt)
+Prof. Dr. Gunnar Heydenreich (FH Köln, Institut für Restaurierungs- und Konservierungswissenschaft): *Cranach Digital Archiv* (tbc)
 <br />
 <br />
 
-h4. Sektion 4: VERANKERN
+h4. Section 4: ANCHORING
 
 Moderation: Dr. Stefan Brenne (prometheus e.V./ JLU Gießen)
 <br />
 <br />
 Prof. Gundolf S. Freyermuth (Köln, ifs Internationale Filmschule)
-(angefragt, Titel noch offen)
+(tbc)
  
 PD Dr. Pascal Weitmann (HU Berlin, SFB 644 - Transformationen der Antike)
 *Grundsätzliche Grenzen komplexerer digitaler Darstellungen*
 <br />
 <br />
-_Kaffeepause_
+_Coffee break_
 <br />
 <br />
 Dr. Gunther Reisinger (Universität Graz, Institut für Kunstgeschichte)
 *„Dürers bunte Hasen“ oder Kunstwissenschaftliche Quellenkritik im Digitalen*
 <br />
 <br />
-_Abschlussvortrag_
+_Conclusions_
 Dr. Joachim Wedekind (Universität Tübingen, Institut für Wissensmedien)
 *Digitale Lernumwelten - Erfahrungen und Perspektiven*
 <br />
 <br />
 
-h4. Abschlussdiskussion
+h4. Final dicussion
 
 Moderation: Dr. Stefan Brenne und PD Dr. Sigrid Ruby, (prometheus e.V./ JLU Gießen, Institut für Kunstgeschichte)
 
