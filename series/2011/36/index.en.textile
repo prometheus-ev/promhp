@@ -1,0 +1,25 @@
+--- 
+layout: series
+descriptions: 
+- "Cy Twombly: Sets (Detail), 1986, Offset, Galerie Yvon Lambert, Paris Standort Hamburg, Museum f\xC3\xBCr Kunst und Gewerbe; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Cy Twombly: Lepanto 3 (Detail), 2001, Acryl/Wachskreide/Graphit auf Leinwand, 215,9 x 334 cm, M\xC3\xBCnchen, Udo&Anette Brandhorst Stiftung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Cy Twombly: Lepanto 5 (Detail), 2001, Acryl/Wachskreide/Graphit auf Leinwand, 215,9 x 303,5 cm, M\xC3\xBCnchen, Udo&Anette Brandhorst Stiftung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Cy Twombly: Lepanto 6 (Detail), Acryl/Wachskreide/Graphit auf Leinwand, 211,5 x 304,2 cm, M\xC3\xBCnchen, Udo&Anette Brandhorst Stiftung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Cy Twombly: Lepanto 7 (Detail), Acryl/Wachskreide/Graphit auf Leinwand, 216,5 x 340,4 cm, M\xC3\xBCnchen, Udo&Anette Brandhorst Stiftung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Cy Twombly: Lepanto 9 (Detail), Acryl/Wachskreide/Graphit auf Leinwand, 215,3 x 335,3 cm, M\xC3\xBCnchen, Udo&Anette Brandhorst Stiftung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Cy Twombly: Lepanto 12 (Detail), Acryl/Wachskreide/Graphit auf Leinwand, 214,6 x 293,4 cm,  M\xC3\xBCnchen, Udo&Anette Brandhorst Stiftung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Cy Twombly: Pan (Detail), 1980, Mischtechnik, 132,5 x 150 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+title: Cy Twombly
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "15.04.1928 \xE2\x80\x93 05.07.2011"
+date: 2011/09/03
+teaser: "With canvas, graphics, objects and photographs the work of the American Cy Twombly is diverse. "
+collection: 27892
+---
+With canvas, graphics, objects and photographs the work of the American Cy Twombly is diverse. 
+The artist has been taking pictures since his years of study in the 1950s, but it was not until the 90s that he presented the pictures to the public. Since 1955 he made objects from collected and simple materials. But Twombly is perhaps best known for his canvas, which are usually counted among the  abstract expressionism.
+In contrast to the topics of his contemporaries of the pop-art-scene, which are focused on the present, Twombly was dealing with the past, with old and new literature and ancient myths – topics influenced by his adopted country: Already in 1957 Cy Twombly moved to Rome, where he finally died this Year at the 5th of July. 
+
+*"Cy Twombly. Photographien 1951 – 2010":http://museumfuergegenwartskunstsiegen.de/index_e.php?mid=2, 29.06. - 25. 09.2011, Museum für Gegenwartskunst, Siegen*
+
+*"Turner, Monet, Twombly. Later Paintings":http://www.staatsgalerie.de/ausstellung_e/vorabinfo.php?id=84, 08.10. - 28.05. 2012, Staatsgalerie Stuttgart*
