@@ -1,5 +1,4 @@
 --- 
-layout: series
 descriptions: 
 - "Cy Twombly: Sets (Detail), 1986, Offset, Galerie Yvon Lambert, Paris Standort Hamburg, Museum f\xC3\xBCr Kunst und Gewerbe; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
 - "Cy Twombly: Lepanto 3 (Detail), 2001, Acryl/Wachskreide/Graphit auf Leinwand, 215,9 x 334 cm, M\xC3\xBCnchen, Udo&Anette Brandhorst Stiftung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
@@ -9,6 +8,7 @@ descriptions:
 - "Cy Twombly: Lepanto 9 (Detail), Acryl/Wachskreide/Graphit auf Leinwand, 215,3 x 335,3 cm, M\xC3\xBCnchen, Udo&Anette Brandhorst Stiftung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
 - "Cy Twombly: Lepanto 12 (Detail), Acryl/Wachskreide/Graphit auf Leinwand, 214,6 x 293,4 cm,  M\xC3\xBCnchen, Udo&Anette Brandhorst Stiftung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
 - "Cy Twombly: Pan (Detail), 1980, Mischtechnik, 132,5 x 150 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+layout: series
 title: Cy Twombly
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: "15.04.1928 \xE2\x80\x93 05.07.2011"
