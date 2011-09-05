@@ -114,8 +114,8 @@ _Mittagspause_
 <br />
 3 Shortcuts á 15 Minuten Projektvorstellung: 
 Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum): *WissKI*
-Dr. Andreas Rutz (Universität Bonn, Institut für Rheinische Landesgeschichte): *Das digitale Historische Archiv Köln*
-Prof. Dr. Gunnar Heydenreich (FH Köln, Institut für Restaurierungs- und Konservierungswissenschaft): *Cranach Digital Archiv* (angefragt)
+Dr. Andreas Rutz (Universität Bonn, Institut für Geschichtswissenschaft): *Das digitale Historische Archiv Köln*
+Prof. Dr. Gunnar Heydenreich (FH Köln, Institut für Restaurierungs- und Konservierungswissenschaft): *Cranach Digital Archiv*
 <br />
 <br />
 
@@ -127,7 +127,7 @@ Moderation: Dr. Stefan Brenne (prometheus e.V./ JLU Gießen)
 Prof. Gundolf S. Freyermuth (Köln, ifs Internationale Filmschule)
 (angefragt, Titel noch offen)
  
-PD Dr. Pascal Weitmann (HU Berlin, SFB 644 - Transformationen der Antike)
+PD Dr. Pascal Weitmann (Christian-Albrechts-Universität zu Kiel, Klassische Archäologie)
 *Grundsätzliche Grenzen komplexerer digitaler Darstellungen*
 <br />
 <br />
