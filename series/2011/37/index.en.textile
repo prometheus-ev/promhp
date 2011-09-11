@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Pipilotti Rist: Als der Bruder meiner Mutter geboren wurde, duftete es nach wilden Birnenbl\xC3\xBCten vor dem braungebrannten Sims, 1992, Videostill; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Pipilotti Rist: Annas Zimmer, 1995, Videostill; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Pipilotti Rist: Perlen der Zeit/Sweet Cintia, 1994, Videostill; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Pipilotti Rist: Perlen der Zeit/Sweet Cintia, 1994, Videostill; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Pipilotti Rist: Perlen der Zeit/Sweet Cintia, 1994, Videostill; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Pipilotti Rist: Selbstlos im Lavabad, 1994, Videostill; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Pipilotti Rist: Selbstlos im Lavabad, 1994, Videostill; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Pipilotti Rist:  Himalaya's Sister's Living Room, 2000, Videostill; Datenbank Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+layout: series
+title: Pipilotti
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Media art
+date: 2011/09/11
+teaser: "The variability of colours is characteristic for the video installations, the digital photomontages and the computer art, as well as the objects and the environments of Pipilotti Rist. "
+collection: 27904
+---
+The variability of colours is characteristic for the video installations, the digital photomontages and the computer art, as well as the objects and the environments of Pipilotti Rist. The experimental film „Pepperminta“ uses colours not only as means of expression, but also as the central topic. Other important subjects in the work of the Swiss artist are feminism and the perception of the feminine body.
+The Kunsthalle Bremen is presenting the audio-video-installation „Bremer Lungenflügel“ until the beginning of October.   
+
+*"Pipilotti Rist. Ruhig durch die Wände":http://www.kunsthalle-bremen.de/ausstellungen-2/aktuelle-ausstellungen/, bis 2. Oktober 2011, Kunsthalle Bremen*
