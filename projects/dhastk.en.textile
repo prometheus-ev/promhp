@@ -8,8 +8,8 @@ h2. <%= page_title %>
 
 h3. Projektpartner
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("» prometheus-Bildarchiv":http://www.prometheus-bildarchiv.de/en)
-Abteilung für Rheinische Landesgeschichte, Institut für Geschichtswissenschaft der Universität Bonn ("» Rheinische Landesgeschichte":http://www.landesgeschichte.uni-bonn.de)
+"» prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre":http://www.prometheus-bildarchiv.de/, Universität zu Köln
+"» Abteilung für Rheinische Landesgeschichte":http://www.landesgeschichte.uni-bonn.de/, Institut für Geschichtswissenschaft, Universität Bonn
 
 h4. Projektlaufzeit:
 

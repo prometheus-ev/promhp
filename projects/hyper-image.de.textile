@@ -7,9 +7,9 @@ h2. <%= page_title %>
 
 h3. Projektpartner
 
-Humboldt-Universität zu Berlin ("» HU-Berlin":http://www.hu-berlin.de/)
-Universität Lüneburg ("» Leuphana Universität Lüneburg":http://www.leuphana.de/)
-zweitwerk - software engineering GmbH ("» zweitwerk":http://www.zweitwerk.com/)
+"» Humboldt-Universität zu Berlin":http://www.hu-berlin.de/
+"» Leuphana Universität Lüneburg":http://www.leuphana.de/
+"» zweitwerk - software engineering GmbH":http://www.zweitwerk.com/
 
 h4. Projektlaufzeit:
 
@@ -23,7 +23,7 @@ Im Rahmen der Kooperation zwischen prometheus und HyperImage werden die HyperIma
 
 h4. Finanzierung:
 
-BMBF
+"» Bundesministerium für Bildung und Forschung":http://www.bmbf.de/
 
 h3. Ansprechpartner
 

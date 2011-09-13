@@ -7,8 +7,8 @@ h2. <%= page_title %>
 
 h3. Projektpartner
 
-Kunsthistorisches Institut, Universität zu Köln ("» Kunsthistorisches Institut":http://www.uni-koeln.de/phil-fak/khi/)
-Institut für Informationswissenschaft, Fachhochschule Köln ("» Institut für Informationswissenschaft":http://www.fbi.fh-koeln.de/)
+"» prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre":http://www.prometheus-bildarchiv.de/, Universität zu Köln
+"» Institut für Informationswissenschaft":http://www.fbi.fh-koeln.de/, Fachhochschule Köln
 
 h4. Projektlaufzeit:
 
@@ -26,7 +26,14 @@ Zusätzlich wird in einem völlig neuen Ansatz versucht, die Bilder in prometheu
 
 h4. Finanzierung:
 
-"» GEW Stiftung Köln":http://www.gew-stiftung.de/
+"» RheinEnergieStiftung Jugend/Beruf, Wissenschaft":http://www.rheinenergiestiftung.de/jbw/
+
+h4. Links:
+
+"» Metadata improvement for image information retrieval _(Slides)_":http://www.iskoi.org/rome2010pres/lepsky.ppt
+
+"» perseus-a _(Source code)_":https://github.com/perseus-a/
+"» perseus_match _(Source code)_":https://github.com/blackwinter/perseus_match
 
 h3. Ansprechpartner
 

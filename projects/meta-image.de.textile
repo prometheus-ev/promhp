@@ -7,9 +7,9 @@ h2. <%= page_title %>
 
 h3. Projektpartner
 
-Computer- und Medienservice, Humboldt-Universität zu Berlin ("» HU-Berlin":http://www.hu-berlin.de/)
-Rechen- und Medienzentrum, Leuphana Universität Lüneburg ("» Leuphana Universität Lüneburg":http://www.leuphana.de/)
-prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("» prometheus-Bildarchiv":http://www.prometheus-bildarchiv.de/)
+"» Computer- und Medienservice":http://www.cms.hu-berlin.de/, Humboldt-Universität zu Berlin
+Rechen- und Medienzentrum, "» Leuphana Universität Lüneburg":http://www.leuphana.de/
+"» prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre":http://www.prometheus-bildarchiv.de/, Universität zu Köln
 
 h4. Projektlaufzeit:
 
@@ -26,7 +26,7 @@ Für prometheus geht es vor allem darum, die Möglichkeiten der ‚digitalen Bil
 
 h4. Finanzierung:
 
-DFG - Deutsche Forschungsgemeinschaft
+"» Deutsche Forschungsgemeinschaft":http://www.dfg.de
 
 h3. Antragsteller
 

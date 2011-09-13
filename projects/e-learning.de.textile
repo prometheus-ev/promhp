@@ -7,8 +7,8 @@ h2. <%= page_title %>
 
 h3. Projektpartner
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung und Lehre, Universität zu Köln ("» prometheus-Bildarchiv":http://www.prometheus-bildarchiv.de)
-Fachbereich Geschichts- und Kulturwissenschaften der Justus-Liebig-Universität Giessen ("» Fachbereich für Geschichts- und Kulturwissenschaften":http://www.uni-giessen.de/cms/fbz/fb04)
+"» prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre":http://www.prometheus-bildarchiv.de/, Universität zu Köln
+"» Fachbereich Geschichts- und Kulturwissenschaften":http://www.uni-giessen.de/cms/fbz/fb04/, Justus-Liebig-Universität Giessen
 
 h4. Projektlaufzeit:
 
