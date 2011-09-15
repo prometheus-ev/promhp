@@ -1,0 +1,25 @@
+--- 
+descriptions: 
+- "Renoir, Pierre-Auguste: Frau am Klavier (Detail), 1875, \xC3\x96l auf Leinwand, 93 x 73,5 cm, Chicago, The Art Institute of Chicago; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Renoir, Pierre-Auguste: Portr\xC3\xA4t der Jeanne Samary (Detail), 1877, \xC3\x96l auf Leinwand, 56 x 46 cm, Moskva, The Pushkin State Museum of Fine Arts; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "enoir, Pierre-Auguste: Nach dem Bade (Detail), 1888, \xC3\x96l auf Leinwand, 65 x 54 cm, o.O.; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Renoir, Pierre-Auguste: Madame Monet auf dem Divan (Detail), 1872, \xC3\x96l auf Leinwand, 54 x 73 cm, Oeiras (bei Lisboa), Sammlung Gulbenkian; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Renoir, Pierre-Auguste: Portr\xC3\xA4t der Madame Henriot (Detail), 1976, \xC3\x96l auf Leinwand, 66 x 50 cm, Washington, National Gallery of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Renoir, Pierre-Auguste: Frau von Algerien, \"Odalisque\" (Detail), 1870, \xC3\x96l auf Leinwand, Washington D. C., National Gallery of Art; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte, Trier "
+- "Renoir, Pierre-Auguste: Pariser M\xC3\xA4dchen, Die Dame in Blau (Detail), 1874, \xC3\x96L auf Leinwand, 160 x 105,5 cm, Cardiff, National Museums and Galleries of Wales; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Renoir, Pierre-Auguste: Weiblicher Akt, Anna (Detail), 1876, \xC3\x96l auf Leinwand, 92 x 73 cm,  Moskva, the Pushkin State Museum of Fine Arts; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+layout: series
+title: Renoir
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Painted drapery
+date: 2011/09/15
+teaser: The Renoir-exhibition in Chemnitz is concentrating on the cloth the women on the canvas are dressed with.
+collection: 27985
+---
+The Renoir-exhibition in Chemnitz is concentrating on the cloth the women on the canvas are dressed with. Though Renoir likes most to paint the women naked, he likes to paint them in a prinzess dress, the museum cited the artist. But even if the women are naked, the fabric plays an important role as an decorative element. The portrayed sometimes sink positively in drapery of different colour and haptic quality. 
+
+Parallel the exhibition „velvet and silk“ is presenting the collection of precious contemporary fabrics with motifs of the Art Nouveau. 
+ 
+*"Pierre-Auguste Renoir. Wie Seide gemalt":http://kunstsammlungen-chemnitz.justexpertise.de/index.php?loc=ksc&content=exposition_detail&xid=59&id=533, 18. September 2011 bis 08. Januar 2012, Kunstsammlungen Chemnitz* 
+
+*"Samt und Seide. Französische Luxus-Stoffe aus der Zeit von Pierre-Auguste Renoir":http://kunstsammlungen-chemnitz.justexpertise.de/index.php?loc=ksc&content=exposition_detail&xid=58&id=524, 18. September 2011 bis 08. Januar 2012, Kunstsammlungen Chemnitz* 
