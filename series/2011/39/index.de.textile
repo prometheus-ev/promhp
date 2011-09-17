@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "rosz, George: Daum marries her pedantic automaton George in May 1920, John Heartfield is very glad of it (Detail), 1920, Aquarell und Collage, 42 x 30,2 cm, Berlin, Galerie Nierendorf; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Grosz, George: Der Agitator Standort (Detail), 1928, \xC3\x96l auf Leinwand, 108 x 81 cm, Amsterdam, Stedelijk Museum; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Grosz, George: Silence! Maul halten und weiter dienen Material (Detail), 1935-36, Fotolithographie, Berlin, Staatliche Museen zu Berlin, Kupferstichkabinett; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Grosz, George: Grosz als Clown und Variet\xC3\xA9girl (Detail), 1958, Collage, 30,5 x 27 cm, o.O.; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Grosz, George: aus der Mappe \"Ecce Homo\": D\xC3\xA4mmerung (Detail), 1922, Aquarell, Berlin, Moskau, Staatliche Museen des Moskauer Kremls; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Grosz, George: Hintergrund: Der Lebensbaum, Phase 2 und 3 (Detail), 1927, Druckgrafik, Berlin, Staatliche Museen zu Berlin, Kupferstichkabinett; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Grosz, George: Kraft und Anmut (Detail), 1922, Aquarell/Tusche, 53,3 x 44 cm, K\xC3\xB6ln, Museum Ludwig; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Grosz, George: Deutschland, ein Winterm\xC3\xA4rchen (Detail), 1918, \xC3\x96l auf Leinwand, verschollen; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+layout: series
+title: Grosz
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Deutschland ein Winterm\xC3\xA4rchen "
+date: 2011/09/17
+teaser: "Im letzten Jahr ist eine Vorzeichnung zu dem verschollenen Gem\xC3\xA4lde \xE2\x80\x9EDeutschland ein Winterm\xC3\xA4rchen\xE2\x80\x9C von dem Maler George Grosz aus dem Jahr 1918 aufgetaucht."
+collection: 28004
+---
+Im letzten Jahr ist eine Vorzeichnung zu dem verschollenen Gemälde „Deutschland ein Wintermärchen“ von dem Maler George Grosz aus dem Jahr 1918 aufgetaucht. Die gesellschaftskritischen Hauptmotive des Gemäldes sind bereits angelegt: Im Zentrum des Bildes thront hinter seinem Tisch ein Offizier mit gezücktem Besteck vor seinem Braten, Bier, Lokalanzeiger und seiner Zigarre. Zu seinen Füßen sind die „Heiligentypen der Zeit“ (W. Wolfradt) dargestellt: ein Geistlicher, ein General und ein Professor, die mit jeweiligen Attributen versehen sind, mit Bibel und Kreuz, Degen und Orden sowie Goethe-Band und Rohrstock.
+Die Zeichnung ist nun als Teil einer Retrospektive mit Aquarellen, Zeichnungen und Collagen von Grosz erstmalig ausgestellt.
+
+*"George Grosz. Deutschland ein Wintermärchen. Aquarelle, Zeichnungen, Collagen 1908-1958":http://www.maxernstmuseum.de/fachthema/deutsch/Ausstellungen/george+grosz.htm, 11. September bis 18. Dezember 2011, Max Ernst Museum, Brühl*
