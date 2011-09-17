@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "D\xC3\xBCrer, Albrecht: Die Madonna vor dem Mauerbogen (Detail), 1505, \xC3\x96l auf Holz, 47,8 x 36 cm, Mamiano, Sammlung Magnani; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Gr\xC3\xBCnewald, Matthias: Stuppacher Madonna (Detail), 1517 bis 1519, \xC3\x96l auf Leinwand auf Tannenholz aufgezogen, 186 x 150 cm, Stuppach bei Bad Mergentheim, Pfarrkirche; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Raffael: Madonna Colonna (Detail), 1500 bis 1520, \xC3\x96l auf Pappelholz, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Raffael: Madonna Esterh\xC3\xA1zy (Detail), 1508, \xC3\x96l auf Holz, 29 x 21,5 cm, Budapest, Szepm\xC3\xBCv\xC3\xA9szeti M\xC3\xBAzeum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Raffael: Madonna Niccolini-Cowper (Detail), 1508, \xC3\x96l auf Holz, 80,7 x 57,7 cm, Washington, National Gallery of Art; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Raffael: Madonna di Foligno, Vorstudie (Detail), Location, um 1512, schwarze Kreide auf Papier, 40,2 x 26,8 cm, Rom, Vatikanische Pinakothek; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Raffael: Sacra Conversazione/Madonna di Foligno (Detail), 1512, \xC3\x96l auf Holz, 308 x 198 cm Rom, Vatikanische Pinakothek; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Raffael: Sacra Conversazione/Sixtinische Madonna (Detail), 1512 bis 1513, \xC3\x96l auf Holz, 269,5 x 201 cm, Dresden, Gem\xC3\xA4ldegalerie Alte Meister; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+layout: series
+title: Madonna
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Heavenly splendour
+date: 2011/09/17
+teaser: "500 years ago Raffael painted the altarpiece with the \xE2\x80\x9EMadonna di Foligno\xE2\x80\x9C and recieved the order of pope Julius II. for the \xE2\x80\x9ESistine Madonna\xE2\x80\x9C."
+collection: 27250
+---
+500 years ago Raffael painted the altarpiece with the „Madonna di Foligno“ and recieved the order of pope Julius II. for the „Sistine Madonna“.
+The Gemäldegalerie Alte Meister and the Vatican Museums presume that the canvas may stood together in a workshop and arranged a reunion of the paintings.
+Even without this motive and the one of the 500th birthday of the nascency, the combination of these two canvas and other representations of the Madonna from around that time is impressive. 
+
+*"Heavenly splendour. Raphael, Dürer and Grünewald paint the Madonna":http://www.skd.museum/en/special-exhibitions/preview/heavenly-splendour/index.html, September 6th 2011 to January 8th 2012, Semperbau at Zwinger, Dresden*
