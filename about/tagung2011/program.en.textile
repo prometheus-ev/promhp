@@ -55,8 +55,8 @@ Dr. Elke Allgaier (Stuttgart, Staatsgalerie)
 Lydia Horn (Berlin, mobile melting GmbH)
 *Storytude – mobile storytelling*
 
-Katharina Behrends (München, NBC UNIVERSAL Global Networks Deutschland GmbH)
-*13th street, The witness (Krimi/Augmented Reality)*
+Prof. Dr. Karsten Lambers (Bamberg, Institut für Informationsverarbeitung in der Geoarchäologie)
+(tbc)
 <br />
 <br />
 _Coffee break_
@@ -124,8 +124,6 @@ h4. Section 4: ANCHORING
 Moderation: Dr. Stefan Brenne (prometheus e.V./ JLU Gießen)
 <br />
 <br />
-Prof. Gundolf S. Freyermuth (Köln, ifs Internationale Filmschule)
-(tbc)
  
 PD Dr. Pascal Weitmann (Christian-Albrechts-Universität zu Kiel, Klassische Archäologie)
 *Grundsätzliche Grenzen komplexerer digitaler Darstellungen*
