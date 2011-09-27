@@ -5,12 +5,12 @@ title: Programm
 h2. Die digitale Perspektive – eine schöne Aussicht?
 verbinden – verorten – verwandeln – verankern
 
-am 4./5. November 2011 an der Universität zu Köln, 
+am 4./5. November 2011 an der Universität zu Köln 
 Hauptgebäude, Neuer Senatssaal
 
 prometheus – Das verteilte digitale Bildarchiv für Forschung & Lehre feiert runden Geburtstag: 10 Jahre, in denen sich eine „Netzwerkgesellschaft“ etabliert und die digitalen Bildwissenschaften eine rasante Entwicklung genommen haben. 
 Die Jubiläumstagung liefert eine kritische Standort-bestimmung und fragt nach Entwicklungen und Visionen in Kunstgeschichte, Archäologie und anderen bildbasierten Wissenschaften, wie auch im Museums- und Kulturbereich. Zusammenführung von heterogenen Datenbeständen, standortbezogene Dienste und 3D-Technologien bilden dabei Schwerpunktthemen, die kritisch beleuchtet und methodisch verankert werden. Die theoretische Reflexion schließt Fragen des Urheberrechts, des offenen Zugangs zu digitaler Information, der Etablierung sozialer Netzwerke und didaktische Fragestellungen (E-Learning) ein.
-*Anmeldung bitte bis zum 16. Oktober 2011 an tagung@prometheus-bildarchiv.de*
+*Anmeldung bitte bis zum 16. Oktober 2011 an "tagung@prometheus-bildarchiv.de":mailto:tagung@prometheus-bildarchiv.de*
 Den Flyer zur Tagung finden Sie "hier":http://www.prometheus-bildarchiv.de/files/text/flyer_tagung_prometheus_2011.pdf
 
 <h2 style="margin-bottom:5px;"><%= page_title %></h2>
