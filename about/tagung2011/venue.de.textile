@@ -13,7 +13,7 @@ h3. Anfahrt
 Von Köln Hbf fahren Sie zunächst mit den U-Bahn-Linien 16 oder 18 bis Haltestelle 'Neumarkt'. Von dort nehmen Sie die Buslinie 136 oder 146 bis Haltestelle 'WiSo-Fakultät' oder die U-Bahn-Linie 9 bis 'Universität'. 
 
 
-|!<%=r 'files/images/anfahrtskizze.jpg':width=>'200' %>!|
+|!<%=r 'files/images/anfahrtskizze_klein.jpg' %>!|
 
 
 h3. Festakt
