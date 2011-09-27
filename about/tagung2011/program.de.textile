@@ -2,146 +2,155 @@
 layout: default
 title: Programm
 ---
+h2. Die digitale Perspektive – eine schöne Aussicht?
+verbinden – verorten – verwandeln – verankern
+
+am 4./5. November 2011 an der Universität zu Köln, 
+Hauptgebäude, Neuer Senatssaal
+
+prometheus – Das verteilte digitale Bildarchiv für Forschung & Lehre feiert runden Geburtstag: 10 Jahre, in denen sich eine „Netzwerkgesellschaft“ etabliert und die digitalen Bildwissenschaften eine rasante Entwicklung genommen haben. 
+Die Jubiläumstagung liefert eine kritische Standort-bestimmung und fragt nach Entwicklungen und Visionen in Kunstgeschichte, Archäologie und anderen bildbasierten Wissenschaften, wie auch im Museums- und Kulturbereich. Zusammenführung von heterogenen Datenbeständen, standortbezogene Dienste und 3D-Technologien bilden dabei Schwerpunktthemen, die kritisch beleuchtet und methodisch verankert werden. Die theoretische Reflexion schließt Fragen des Urheberrechts, des offenen Zugangs zu digitaler Information, der Etablierung sozialer Netzwerke und didaktische Fragestellungen (E-Learning) ein.
+*Anmeldung bitte bis zum 16. Oktober 2011 an tagung@prometheus-bildarchiv.de*
+Den Flyer zur Tagung finden Sie "hier":http://www.prometheus-bildarchiv.de/files/text/flyer_tagung_prometheus_2011.pdf
+
 <h2 style="margin-bottom:5px;"><%= page_title %></h2>
-<br />
 <br />
 
 <h3 style="margin-top:0px;">Freitag, 04.11.11</h3>
 
-h4. Begrüßung
+|09:30|Begrüßung PD Dr. Holger Simon (Köln)|
 
-PD Dr. Holger Simon (prometheus e.V.)
-<br />
-<br />
+h4. Sektion 1: verbinden
 
-h4. Sektion 1: VERBINDEN
+Moderation: Dr. Ute Verstegen (Erlangen)
 
-Moderation: Dr. Ute Verstegen (prometheus e.V./ Universität Erlangen-Nürnberg, Christliche Archäologie)
-<br />
-<br />
-Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum)
-*Linked Open Cultural Heritage. Herausforderungen, Risiken und Chancen der Datenvernetzung im Bereich des Kulturerbes* 
+|09:40|Georg Hohmann M.A. (Nürnberg)
+*Linked Open Cultural Heritage. Herausforderungen, Risiken und Chancen der Datenvernetzung im Bereich des Kulturerbes*| 
 
-PD Dr. Martin Warnke (Leuphana Universität Lüneburg, Institut für Kultur und Ästhetik Digitaler Medien)
-*Motive vernetzen – Meta-Image als Bild-Zettelkasten* 
-<br />
-<br />
-_Kaffeepause_
-<br />
-<br />
-Susanne Schumacher M.A. (Zürich, Zürcher Hochschule der Künste)
-*Medien und Begriffe: Ordnungsformen im Medienarchiv der Künste*
 
-Prof. Dr. Dieter Merkl (TU Wien, Institute of Software Technology and Interactive Systems)
-*Informationsextraktion aus einer Kunst Folksonomie* 
+|10:20|PD Dr. Martin Warnke (Lüneburg)
+*Motive vernetzen – Meta-Image als Bild-Zettelkasten*| 
 
-2 Shortcuts á 15 Minuten Projektvorstellung:
-Prof. Dr. Reinhard Förtsch (Universität zu Köln, Archäologisches Institut): *CLAROS* (angefragt)
-Dr. Maria Effinger (Universitätsbibliothek Heidelberg): *German Sales 1933-1945*
-<br />
-<br />
-_Mittagspause_
-<br />
-<br />
+
+|11:00|_Kaffeepause_|
+
+
+|11:30| Susanne Schumacher M.A. (Zürich)
+*Medien und Begriffe: Ordnungsformen im Medienarchiv der Künste*|
+
+
+|12:10|Prof. Dr. Dieter Merkl (Wien)
+*Informationsextraktion aus einer Kunst Folksonomie*| 
+
+
+|12:50|_Projektvorstellung - Shortcuts_
+Dr. Andreas Rutz (Bonn): *Das digitale Historische Archiv*
+Dr. Maria Effinger (Heidelberg): *German Sales 1933-1945*|
+
+
+
+|13:20|_Mittagspause_|
+
+
 
 h4. Sektion 2: VERORTEN
 
-Moderation: Prof. Dr. Dorothee Haffner (prometheus e.V./ Hochschule für Technik und Wirtschaft Berlin, Museumskunde)
-<br />
-<br />
-Dr. Elke Allgaier (Stuttgart, Staatsgalerie)
-*Per QR-Code ins Museum: Der Stirlingwalk der Staatsgalerie Stuttgart*
 
-Lydia Horn (Berlin, mobile melting GmbH)
-*Storytude – mobile storytelling*
+Moderation: Prof. Dr. Dorothee Haffner (Berlin)
 
-<br />
-<br />
-_Kaffeepause_
-<br />
-<br />
-PD Dr. Holger Simon (Köln, pausanio GmbH & Co. KG)
-*Mit dem Kulturwecker unterwegs – Kunst und Kultur mobil*
 
-2 Shortcuts á 15 Minuten Projektvorstellung: 
+|14:30|Dr. Elke Allgaier (Stuttgart)
+*Per QR-Code ins Museum: Der Stirlingwalk der Staatsgalerie Stuttgart*|
+
+
+|15:10|Lydia Horn (Berlin)
+*Storytude – mobile storytelling*|
+
+
+|15:50|_Kaffeepause_|
+
+
+|16:20|PD Dr. Holger Simon (Köln)
+*Mit dem Kulturwecker unterwegs – Kunst und Kultur mobil*|
+
+
+|17:00|_Projektvorstellungen - Shortcuts_
 Katalin Bélyácz (Budapest, Museum of Fine Arts): *Die Datenbankprojekte der Antikensammlung*
-Fabian Cremer (Universität Frankfurt a.M., Kunstgeschichtliches Institut): *ConedaKOR*
-<br />
-<br />
+Fabian Cremer (Universität Frankfurt a.M., Kunstgeschichtliches Institut): *ConedaKOR*|
 
-h4. Festakt im Historischen Archiv der Stadt Köln
 
-Begrüßung: PD Dr. Holger Simon (prometheus e.V.)
-Festvortrag: Prof. Dr. Hubertus Kohle (LMU München, Institut für Kunstgeschichte):
-prometheus als Prinzip - Über das Arbeiten im Internet
-<br />
-<br />
+
+|19:00|**Festakt im Historischen Archiv der Stadt Köln**
+Festvortrag: Prof. Dr. Hubertus Kohle (München):
+*prometheus als Prinzip - Über das Arbeiten im Internet*|
+
+
+
 <br />
 
 <h3 style="margin-top:0px;">Samstag, 05.11.11</h3>
 
-h4. Begrüßung
+|09:30|Begrüßung Prof. Dr. Norbert Eschbach (Gießen)|
 
-Prof. Dr. Norbert Eschbach (prometheus e.V./ JLU Gießen, Professur für Klassische Archäologie)
-<br />
-<br />
+
 
 h4. Sektion 3: VERWANDELN
 
-Moderation: Lisa Dieckmann M.A. (prometheus e.V./ Universität zu Köln, Kunsthistorisches Institut)
-<br />
-<br />
-Dipl.-Inform. Matthias Trapp (Universität Potsdam, HPI)
-*Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen*
+Moderation: Lisa Dieckmann M.A. (Köln)
 
-Dr. Daniel Hornuff (HfG Karlsruhe, Fachbereich Kunstwissenschaft und Medientheorie)
-*Kunst im 3D-Rundgang. Was bringt das virtuelle Museum?*
-<br />
-<br />
-_Kaffeepause_
-<br />
-<br />
-Martin Adam (UdK Berlin, Fachbereich Gesellschafts- und Wirtschaftkommunikation)
-*Augmented Reality erweckt Pergamon zu neuem Leben*
+|09:40|Dipl.-Inform. Matthias Trapp (Potsdam)
+*Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen*|
 
-Simon Rein o.a. (Berlin, Staatliche Museen)
-*Google-Art-Project* (Titel steht noch nicht fest)
-<br />
-<br />
-_Mittagspause_
-<br />
-<br />
-3 Shortcuts á 15 Minuten Projektvorstellung: 
+
+|10:20|Dr. Daniel Hornuff (Karlsruhe)
+*Kunst im 3D-Rundgang. Was bringt das virtuelle Museum?*|
+
+
+|11:00|_Kaffeepause_|
+
+
+|11:30|Martin Adam (Berlin)
+*Augmented Reality erweckt Pergamon zu neuem Leben*|
+
+
+|12:10|Simon Rein (Berlin)
+*Berliner Museen im Google Art Project*|
+
+
+|12:50|_Projektvorstellungen - Shortcuts_
 Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum): *WissKI*
-Dr. Andreas Rutz (Universität Bonn, Institut für Geschichtswissenschaft): *Das digitale Historische Archiv Köln*
-Prof. Dr. Gunnar Heydenreich (FH Köln, Institut für Restaurierungs- und Konservierungswissenschaft): *Cranach Digital Archiv*
-<br />
-<br />
+Prof. Dr. Gunnar Heydenreich (Köln): *Cranach Digital Archiv*|
+
+
+
+|13:20|_Mittagspause_|
+
+
 
 h4. Sektion 4: VERANKERN
 
-Moderation: Dr. Stefan Brenne (prometheus e.V./ JLU Gießen)
-<br />
-<br />
+Moderation: Dr. Stefan Brenne (Gießen)
+
  
-PD Dr. Pascal Weitmann (Christian-Albrechts-Universität zu Kiel, Klassische Archäologie)
-*Grundsätzliche Grenzen komplexerer digitaler Darstellungen*
-<br />
-<br />
-_Kaffeepause_
-<br />
-<br />
-Dr. Gunther Reisinger (Universität Graz, Institut für Kunstgeschichte)
-*„Dürers bunte Hasen“ oder Kunstwissenschaftliche Quellenkritik im Digitalen*
-<br />
-<br />
-_Abschlussvortrag_
-Dr. Joachim Wedekind (Universität Tübingen, Institut für Wissensmedien)
-*Digitale Lernumwelten - Erfahrungen und Perspektiven*
-<br />
-<br />
+|14:30|PD Dr. Pascal Weitmann (Kiel)
+*Grundsätzliche Grenzen komplexerer digitaler Darstellungen*|
 
-h4. Abschlussdiskussion
 
-Moderation: Dr. Stefan Brenne und PD Dr. Sigrid Ruby, (prometheus e.V./ JLU Gießen, Institut für Kunstgeschichte)
+|15:10|Dr. Gunther Reisinger (Graz)
+*„Dürers bunte Hasen“ oder Kunstwissenschaftliche Quellenkritik im Digitalen*|
 
+
+|15:50|_Kaffeepause_|
+
+
+|16:10|*Abschlussvortrag*
+Dr. Joachim Wedekind (Tübingen)
+*Digitale Lernumwelten - Erfahrungen und Perspektiven*|
+
+
+
+|17:00|*Abschlussdiskussion*
+Moderation: Dr. Stefan Brenne und PD Dr. Sigrid Ruby, (Gießen)|
+
+
+|17:30|_Ende_|
