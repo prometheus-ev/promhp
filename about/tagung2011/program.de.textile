@@ -2,21 +2,25 @@
 layout: default
 title: Programm
 ---
-h2. Die digitale Perspektive – eine schöne Aussicht?
-verbinden – verorten – verwandeln – verankern
+<h2 style="margin-bottom:5px;">Die digitale Perspektive - eine schöne Aussicht?</h2>
 
-am 4./5. November 2011 an der Universität zu Köln 
+<h3 style="margin-top:0px;">verbinden - verorten - verwandeln - verankern</h3>
+
+am 4./5. November 2011 an der Universität zu Köln
 Hauptgebäude, Neuer Senatssaal
+"» Anfahrtskizze":<%=r 'about/tagung2011/venue#directions' %>
 
-prometheus – Das verteilte digitale Bildarchiv für Forschung & Lehre feiert runden Geburtstag: 10 Jahre, in denen sich eine „Netzwerkgesellschaft“ etabliert und die digitalen Bildwissenschaften eine rasante Entwicklung genommen haben. 
-Die Jubiläumstagung liefert eine kritische Standort-bestimmung und fragt nach Entwicklungen und Visionen in Kunstgeschichte, Archäologie und anderen bildbasierten Wissenschaften, wie auch im Museums- und Kulturbereich. Zusammenführung von heterogenen Datenbeständen, standortbezogene Dienste und 3D-Technologien bilden dabei Schwerpunktthemen, die kritisch beleuchtet und methodisch verankert werden. Die theoretische Reflexion schließt Fragen des Urheberrechts, des offenen Zugangs zu digitaler Information, der Etablierung sozialer Netzwerke und didaktische Fragestellungen (E-Learning) ein.
-*Anmeldung bitte bis zum 16. Oktober 2011 an "tagung@prometheus-bildarchiv.de":mailto:tagung@prometheus-bildarchiv.de*
-Den Flyer zur Tagung finden Sie "hier":http://www.prometheus-bildarchiv.de/files/text/flyer_tagung_prometheus_2011.pdf
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre feiert runden Geburtstag: 10 Jahre, in denen sich eine "Netzwerkgesellschaft" etabliert und die digitalen Bildwissenschaften eine rasante Entwicklung genommen haben.
 
-<h2 style="margin-bottom:5px;"><%= page_title %></h2>
-<br />
+Die Jubiläumstagung liefert eine kritische Standortbestimmung und fragt nach Entwicklungen und Visionen in Kunstgeschichte, Archäologie und anderen bildbasierten Wissenschaften, wie auch im Museums- und Kulturbereich. Zusammenführung von heterogenen Datenbeständen, standortbezogene Dienste und 3D-Technologien bilden dabei Schwerpunktthemen, die kritisch beleuchtet und methodisch verankert werden. Die theoretische Reflexion schließt Fragen des Urheberrechts, des offenen Zugangs zu digitaler Information, der Etablierung sozialer Netzwerke und didaktische Fragestellungen (E-Learning) ein.
 
-<h3 style="margin-top:0px;">Freitag, 04.11.11</h3>
+*Anmeldung bitte bis zum 16. Oktober 2011 an "tagung@prometheus-bildarchiv.de":mailto:tagung@prometheus-bildarchiv.de.*
+
+Den Flyer zur Tagung finden Sie "hier":<%=r 'files/text/Flyer_Tagung_prometheus_2011.pdf' %>.
+
+h2. <%= page_title %>
+
+h3. Freitag, 04.11.11
 
 |09:30|Begrüßung PD Dr. Holger Simon (Köln)|
 
@@ -25,74 +29,51 @@ h4. Sektion 1: verbinden
 Moderation: Dr. Ute Verstegen (Erlangen)
 
 |09:40|Georg Hohmann M.A. (Nürnberg)
-*Linked Open Cultural Heritage. Herausforderungen, Risiken und Chancen der Datenvernetzung im Bereich des Kulturerbes*| 
-
+*Linked Open Cultural Heritage. Herausforderungen, Risiken und Chancen der Datenvernetzung im Bereich des Kulturerbes*|
 
 |10:20|PD Dr. Martin Warnke (Lüneburg)
-*Motive vernetzen – Meta-Image als Bild-Zettelkasten*| 
-
+*Motive vernetzen - Meta-Image als Bild-Zettelkasten*|
 
 |11:00|_Kaffeepause_|
-
 
 |11:30| Susanne Schumacher M.A. (Zürich)
 *Medien und Begriffe: Ordnungsformen im Medienarchiv der Künste*|
 
-
 |12:10|Prof. Dr. Dieter Merkl (Wien)
-*Informationsextraktion aus einer Kunst Folksonomie*| 
-
+*Informationsextraktion aus einer Kunst Folksonomie*|
 
 |12:50|_Projektvorstellung - Shortcuts_
 Dr. Andreas Rutz (Bonn): *Das digitale Historische Archiv*
 Dr. Maria Effinger (Heidelberg): *German Sales 1933-1945*|
 
-
-
 |13:20|_Mittagspause_|
-
-
 
 h4. Sektion 2: verorten
 
-
 Moderation: Prof. Dr. Dorothee Haffner (Berlin)
-
 
 |14:30|Dr. Elke Allgaier (Stuttgart)
 *Per QR-Code ins Museum: Der Stirlingwalk der Staatsgalerie Stuttgart*|
 
-
 |15:10|Lydia Horn (Berlin)
-*Storytude – mobile storytelling*|
-
+*Storytude - mobile storytelling*|
 
 |15:50|_Kaffeepause_|
 
-
 |16:20|PD Dr. Holger Simon (Köln)
-*Mit dem Kulturwecker unterwegs – Kunst und Kultur mobil*|
-
+*Mit dem Kulturwecker unterwegs - Kunst und Kultur mobil*|
 
 |17:00|_Projektvorstellungen - Shortcuts_
 Katalin Bélyácz (Budapest, Museum of Fine Arts): *Die Datenbankprojekte der Antikensammlung*
 Fabian Cremer (Universität Frankfurt a.M., Kunstgeschichtliches Institut): *ConedaKOR*|
 
-
-
-|19:00|**Festakt im Historischen Archiv der Stadt Köln**
-Festvortrag: Prof. Dr. Hubertus Kohle (München):
+|19:00|*Festakt im Historischen Archiv der Stadt Köln* ("» Anfahrt":<%=r 'about/tagung2011/venue#ceremony' %>)
+Festvortrag: Prof. Dr. Hubertus Kohle (München)
 *prometheus als Prinzip - Über das Arbeiten im Internet*|
 
-
-
-<br />
-
-<h3 style="margin-top:0px;">Samstag, 05.11.11</h3>
+h3. Samstag, 05.11.11
 
 |09:30|Begrüßung Prof. Dr. Norbert Eschbach (Gießen)|
-
-
 
 h4. Sektion 3: verwandeln
 
@@ -101,56 +82,40 @@ Moderation: Lisa Dieckmann M.A. (Köln)
 |09:40|Dipl.-Inform. Matthias Trapp (Potsdam)
 *Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen*|
 
-
 |10:20|Dr. Daniel Hornuff (Karlsruhe)
 *Kunst im 3D-Rundgang. Was bringt das virtuelle Museum?*|
 
-
 |11:00|_Kaffeepause_|
-
 
 |11:30|Martin Adam (Berlin)
 *Augmented Reality erweckt Pergamon zu neuem Leben*|
 
-
 |12:10|Simon Rein (Berlin)
 *Berliner Museen im Google Art Project*|
 
-
 |12:50|_Projektvorstellungen - Shortcuts_
 Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum): *WissKI*
-Prof. Dr. Gunnar Heydenreich (Köln): *Cranach Digital Archiv*|
-
-
+Prof. Dr. Gunnar Heydenreich (Köln): *Cranach Digital Archive*|
 
 |13:20|_Mittagspause_|
-
-
 
 h4. Sektion 4: verankern
 
 Moderation: Dr. Stefan Brenne (Gießen)
 
- 
 |14:30|PD Dr. Pascal Weitmann (Kiel)
 *Grundsätzliche Grenzen komplexerer digitaler Darstellungen*|
 
-
 |15:10|Dr. Gunther Reisinger (Graz)
-*„Dürers bunte Hasen“ oder Kunstwissenschaftliche Quellenkritik im Digitalen*|
-
+*"Dürers bunte Hasen" oder Kunstwissenschaftliche Quellenkritik im Digitalen*|
 
 |15:50|_Kaffeepause_|
-
 
 |16:10|*Abschlussvortrag*
 Dr. Joachim Wedekind (Tübingen)
 *Digitale Lernumwelten - Erfahrungen und Perspektiven*|
 
-
-
 |17:00|*Abschlussdiskussion*
-Moderation: Dr. Stefan Brenne und PD Dr. Sigrid Ruby, (Gießen)|
-
+Moderation: Dr. Stefan Brenne und PD Dr. Sigrid Ruby (Gießen)|
 
 |17:30|_Ende_|
