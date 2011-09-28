@@ -1,23 +1,25 @@
 --- 
 layout: default
-title: venue
+title: Veranstaltungsort
 ---
-h3. Veranstaltungsort
+h2. <%= page_title %>
 
 Universität zu Köln
 Hauptgebäude, Neuer Senatssaal
 Albertus-Magnus-Platz, 50923 Köln
 
-h3. Anfahrt
+h3(#directions). Anfahrt
 
-Von Köln Hbf fahren Sie zunächst mit den U-Bahn-Linien 16 oder 18 bis Haltestelle 'Neumarkt'. Von dort nehmen Sie die Buslinie 136 oder 146 bis Haltestelle 'WiSo-Fakultät' oder die U-Bahn-Linie 9 bis 'Universität'. 
+Von Köln Hbf fahren Sie zunächst mit den U-Bahn-Linien 16 oder 18 bis Haltestelle 'Neumarkt'. Von dort nehmen Sie die Buslinie 136 oder 146 bis Haltestelle 'WiSo-Fakultät' oder die U-Bahn-Linie 9 bis 'Universität'.
 
+!<%=r 'files/images/anfahrtskizze_klein.jpg' %>!:http://www.uni-koeln.de/bin2/where.pl?parent.geb100
 
-|!<%=r 'files/images/anfahrtskizze_klein.jpg' %>!|
+"» Lageplan Neuer Senatssaal":http://www.uni-koeln.de/uni/gebaeude/plaene/hg_eg.html
 
+h3(#ceremony). Festakt
 
-h3. Festakt
+Historisches Archiv der Stadt Köln
+Heumarkt 14, 50667 Köln
 
-Historisches Archiv der Stadt Köln,
-Heumarkt 14, 50667 Köln 
+"» Anfahrtsbeschreibung":http://www.stadt-koeln.de/buergerservice/adressen/00118/
 (von 'Universität' bis 'Heumarkt' mit U-Bahn-Linie 9)
