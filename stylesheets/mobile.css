@@ -1,0 +1,57 @@
+body {
+  -webkit-text-size-adjust:none;
+  width:     100%;
+  font-size: 40px;
+}
+
+div{
+  clear:   both!important;
+  display: block!important;
+  width:   100%!important;
+  float:   none!important;
+  margin:  0!important;
+  padding: 0!important;
+}
+
+#header,
+#sidebar #sidebar_header,
+#sidebar #sidebar_header_shadow,
+#sidebar #login_wrap,
+#sidebar #campus_login_wrap,
+#sidebar #social_links,
+#main #submenu,
+#footer { display: none!important; }
+
+#workspace {
+  width:            100%;
+  background-image: none;
+  min-height:       0;
+}
+
+#sidebar { min-height: 0; }
+
+#navigation ul li {
+  float:            none;
+  clear:            both;
+  margin:           10px 0 10px 0!important;
+  display:          block;
+  padding:          0;
+  width:            100%;
+  background-image: none;
+}
+
+#navigation ul ul li {
+  padding:     0;
+  line-height: inherit;
+}
+
+#navigation ul {
+  padding-left:   20px;
+  padding-bottom: 0;
+}
+
+#navigation li { margin: 0; }
+
+#navigation li a{ display: block; }
+
+#navigation { padding:10px; }
