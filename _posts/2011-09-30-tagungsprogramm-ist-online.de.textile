@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Tagungsprogramm ist online
+author: Lisa
+tags: 
+- tagung
+- "jubil\xC3\xA4um"
+---
+Das Programm zu unserer Jubiläumstagung am 4./5. November 2011 an der Universität zu Köln ist online!!! Wir freuen uns auf zwei sehr interessante Tage mit tollen Vorträgen, an denen wir uns auch die Zeit nehmen werden, unseren runden Geburtstag zu feiern - mit einem Festakt am Freitagabend in der derzeitigen Unterkunft des Historischen Archivs der Stadt Köln. Das Programm und weitere Informationen gibt es <a href="<%=r 'tagung2011' %>">hier</a>
