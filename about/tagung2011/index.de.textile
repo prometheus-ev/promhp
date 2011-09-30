@@ -10,7 +10,7 @@ am 4./5. November 2011 an der Universität zu Köln
 Hauptgebäude, Neuer Senatssaal
 "» Anfahrtskizze":<%=r 'about/tagung2011/venue#directions' %>
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre feiert runden Geburtstag: 10 Jahre, in denen sich eine "Netzwerkgesellschaft" etabliert und die digitalen Bildwissenschaften eine rasante Entwicklung genommen haben.
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre feiert "runden Geburtstag":<%=r 'about/10years' %>: 10 Jahre, in denen sich eine "Netzwerkgesellschaft" etabliert und die digitalen Bildwissenschaften eine rasante Entwicklung genommen haben.
 
 Die Jubiläumstagung liefert eine kritische Standortbestimmung und fragt nach Entwicklungen und Visionen in Kunstgeschichte, Archäologie und anderen bildbasierten Wissenschaften, wie auch im Museums- und Kulturbereich. Zusammenführung von heterogenen Datenbeständen, standortbezogene Dienste und 3D-Technologien bilden dabei Schwerpunktthemen, die kritisch beleuchtet und methodisch verankert werden. Die theoretische Reflexion schließt Fragen des Urheberrechts, des offenen Zugangs zu digitaler Information, der Etablierung sozialer Netzwerke und didaktische Fragestellungen (E-Learning) ein.
 

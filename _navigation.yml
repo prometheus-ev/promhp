@@ -43,7 +43,17 @@
     :url: about/10years
   - :title_en: Conference 2011
     :title_de: Tagung 2011
-    :url: about/tagung2011
+    :url: about/tagung2011/index
+    :content:
+    - :title_en: Program
+      :title_de: Programm
+      :url: about/tagung2011/index
+    - :title_en: Sections
+      :title_de: Sektionen
+      :url: about/tagung2011/sections
+    - :title_en: Venue
+      :title_de: Anfahrt
+      :url: about/tagung2011/venue
   - :title_en: The Association
     :title_de: Der Verein
     :url: about/association

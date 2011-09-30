@@ -6,7 +6,7 @@ h2. <%= page_title %>
 
 h4. verbinden
 
-10 Jahre prometheus bedeuten auch 10 Jahre Verknüpfung heterogener Datenbestände aus kulturhistorischen Wissensdomänen. Das „Hyperlink-Paradigma“ der Vernetzung ist ‚in die Jahre gekommen‘, Semantic Web-Technologien und ontologiebasierte Wissensrepräsentationen bieten immer ausgereiftere Möglichkeiten zur Kombination und automatisierten Abfrage von Datenbeständen. Mittels „crowdsourcing“ greift die Fachcommunity auf das kollektive Wissen sogenannter Laien zu. Welche innovativen technischen Lösungen sind heute zur Verknüpfung textlicher und visueller Repräsentationen kulturhistorischer Forschungsgegenstände nutzbar? Vor welche Herausforderungen stellen sie die Fachgemeinschaft?
+"10 Jahre prometheus":<%=r 'about/10years' %> bedeuten auch 10 Jahre Verknüpfung heterogener Datenbestände aus kulturhistorischen Wissensdomänen. Das „Hyperlink-Paradigma“ der Vernetzung ist ‚in die Jahre gekommen‘, Semantic Web-Technologien und ontologiebasierte Wissensrepräsentationen bieten immer ausgereiftere Möglichkeiten zur Kombination und automatisierten Abfrage von Datenbeständen. Mittels „crowdsourcing“ greift die Fachcommunity auf das kollektive Wissen sogenannter Laien zu. Welche innovativen technischen Lösungen sind heute zur Verknüpfung textlicher und visueller Repräsentationen kulturhistorischer Forschungsgegenstände nutzbar? Vor welche Herausforderungen stellen sie die Fachgemeinschaft?
 
 h4. verorten
 

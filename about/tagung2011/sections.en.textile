@@ -6,7 +6,7 @@ h2. <%= page_title %>
 
 h4. connecting
 
-10 years prometheus also means 10 years of connecting heterogeneous data from diverse domains of cultural history. The „hyperlink paradigm“ of networking has been getting ‘a bit long in the tooth’. Semantic Web  technologies and ontology-based presentations of knowledge offer fully developed tools for the combination and automated query of stored data. Via "crowd-sourcing" the professional community accesses the collective knowledge of so-called laypersons. Which innovative technical solutions are nowadays available to connect textual and visual representations of artefacts? What kind of challenges do they pose to the community of professionals?
+"10 years prometheus":<%=r 'about/10years' %> also means 10 years of connecting heterogeneous data from diverse domains of cultural history. The „hyperlink paradigm“ of networking has been getting ‘a bit long in the tooth’. Semantic Web  technologies and ontology-based presentations of knowledge offer fully developed tools for the combination and automated query of stored data. Via "crowd-sourcing" the professional community accesses the collective knowledge of so-called laypersons. Which innovative technical solutions are nowadays available to connect textual and visual representations of artefacts? What kind of challenges do they pose to the community of professionals?
 
 h4. locating
 
