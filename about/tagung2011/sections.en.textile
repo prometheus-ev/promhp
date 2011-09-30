@@ -1,35 +1,26 @@
 --- 
 layout: default
-title: "The digital perspective \xE2\x80\x93 bright prospects?"
+title: Sections
 ---
-<h2 style="margin-bottom:5px;"><%= page_title %></h2>
+h2. <%= page_title %>
 
-<h3 style="margin-top:0px;">connecting – locating – transforming - anchoring</h3>
-
-4-5 November 2011
-University of Cologne, Institute of Art History
-
-prometheus – The Distributed Digital Image Archive for Research & Education in 2011 celebrates its 10th anniversary: 10 years of advancement of the "network society" as well as rapid expansion of ground breaking developments in the study of visual culture. The prometheus anniversary conference does not intend to look back but seeks to provide a critical assessment of what happens now and might take place in the not so distant future. What are the perspectives for research and study in classical archaeology, art history and visual culture – now that we are able to technically connect image and text, to use location based services and 3D technologies? How are these possibilities to be critically examined and methodologically grounded?
-
-h4. CONNECTING
+h4. connecting
 
 10 years prometheus also means 10 years of connecting heterogeneous data from diverse domains of cultural history. The „hyperlink paradigm“ of networking has been getting ‘a bit long in the tooth’. Semantic Web  technologies and ontology-based presentations of knowledge offer fully developed tools for the combination and automated query of stored data. Via "crowd-sourcing" the professional community accesses the collective knowledge of so-called laypersons. Which innovative technical solutions are nowadays available to connect textual and visual representations of artefacts? What kind of challenges do they pose to the community of professionals?
 
-h4. LOCATING
+h4. locating
 
 Due to the technical development of mobile phones to become multi functional devices (smartphones), entirely new forms of localization arise for the arts and museums. Integrated positioning systems (GPS) and motion sensors enable topographically accurate guidance. A camera combined with functions such as a compass and object recognition virtually adds visual surfaces and offers additional information on the real environment (Augmented Reality). 
 Archaeological discoveries, architectures and artefacts always have their place, which, however, can change or be modified. Accordingly, the new technologies can help to combine topographic or spatial data with other scientific information on a particular object or architectural structure. We investigate new models and visions that connect location and information. What kind of benefits can be expected to open up what kind of venues for research and commerce likewise? Will there be new modes of perception? What ways of mediation and distribution are necessary to that end?
 
-h4. TRANSFORMING
+h4. transforming
 
-This year’s CeBIT estimated the next generation of the Internet to be three-dimensional and to penetrate our reality. The advent of 3D technologies in art and museums seems to prove the judgement: virtual spaces (Photosynth, Google Street View) and museum tours, 3D animations and high resolution giga-pixel images of artworks (Google Art Project) as well as 3D documentaries seem to make the experience of originals obsolete. Furthermore, high resolution and high graphic quality can simulate a spatial context and material consistence of the object which in part cannot be experienced in direct confrontation with the original artefact. 
+This year’s CeBIT estimated the next generation of the Internet to be three-dimensional and to penetrate our reality. The advent of 3D technologies in art and museums seems to prove the judgement: virtual spaces (Photosynth, Google Street View) and museum tours, 3D animations and high resolution giga-pixel images of artworks (Google Art Project) as well as 3D documentaries seem to make the experience of originals obsolete. Furthermore, high resolution and high graphic quality can simulate a spatial context and material consistence of the object which in part cannot be experienced in direct confrontation with the original artefact.
 What kind of developments and application scenarios can be imagined for teaching and research in the universities as well as in the museums? And what challenges are connected therewith? How does our perception of the artwork change when the screen delivers more information than an inspection of the original work can ever do, i.e. when virtual reality beats actual reality?
 
-h4. ANCHORING
+h4. anchoring
 
 The emergence of digital image archives and the production of digital tools for handling the images go hand in hand with the transformation of art history and classical archaeology into an increasingly differentiated study of visual culture. What is to be gained and lost from this - theoretically, aesthetically, didactically, and in the realm of conservation? What are the consequences, if our contact with the original work of art, with its materiality and spatial environment etc. becomes less and less every day? How much of this can be compensated by technological innovations, e.g. by automated CONNECTIONS of image and text, by ALLOCATING site-specific services or by virtual museum tours (TRANSFORMING)? Whose benefit could that be for and to whose disadvantage? To what extent can new technologies confirm and intensify, influence and modify, encumber and disturb conventional ways of research, teaching and learning in art history and archaeology? Are they really able to raise the (professional and/or lay) contact with the artwork to a new level of experience and reflection? What expectations may we have of a technique which develops also (or even primarily?) according to what is technically viable? Are there possibilities for refusal, and can refusal be reasonable? Is progress euphoria still up to date at all?
-
-The abstracts have been chosen. Within a short time the conference's program will be available here. For any questions please write to "lisa.dieckmann@uni-koeln.de":mailto:lisa.dieckmann@uni-koeln.de.
 
 Conference committee:
 Dr. Stefan Brenne (Medienpädagogik, Justus-Liebig-Universität Gießen), Lisa Dieckmann M.A. (Kunsthistorisches Institut, Universität zu Köln), PD Dr. Norbert Eschbach (Klassische Archäologie, Justus-Liebig-Universität Gießen), Prof. Dr. Dorothee Haffner (Museumskunde, HTW Berlin), Dr. Bettina Pfleging (Medienpädagogik, ILIKE), PD Dr. Sigrid Ruby (Institut für Kunstgeschichte, Justus-Liebig-Universität Gießen), Sabine Scheele M.A. (Koordinationsstelle Multimedia, Justus-Liebig-Universität Gießen), PD Dr. Holger Simon (pausanio GmbH & Co. KG), Dr. Ute Verstegen (Christliche Archäologie, Universität Erlangen-Nürnberg)
