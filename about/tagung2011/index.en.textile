@@ -90,8 +90,8 @@ Moderation: Lisa Dieckmann M.A. (prometheus e.V./ Universität zu Köln, Kunsthi
 |11:30|Martin Adam (UdK Berlin, Fachbereich Gesellschafts- und Wirtschaftkommunikation)
 *Augmented Reality erweckt Pergamon zu neuem Leben*|
 
-|12:10|Simon Rein (Berlin, Staatliche Museen)
-*Berliner Museen im Google Art Project*|
+|12:10|Simon Rein M.A. (Staatliche Museen zu Berlin - Preußischer Kulturbesitz)
+*Pixel und Pinselstriche - Die Staatlichen Museen zu Berlin in Googles "Art Project"*|
 
 |12:50|_Projektvorstellungen - Shortcuts_
 Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum): *WissKI*
