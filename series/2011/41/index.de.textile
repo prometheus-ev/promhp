@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Homo rhodesiensis \xE2\x80\x93 Sch\xC3\xA4delrekonstruktion, Museum f\xC3\xBCr Vor- und Fr\xC3\xBChgeschichte, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Picasso, Pablo: Stillleben mit Sch\xC3\xA4del und Krug (Detail), 1942, \xC3\x96l auf Leinwand, 50 x 61 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Gogh, Vinzent van: Sch\xC3\xA4del mit Zigarette (Detail), 1885, \xC3\x96l auf Leinwand, 24 x 32 cm, Amsterdam, Rijksmuseum Vincent van Gogh; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "C\xC3\xA9zanne, Paul: Sch\xC3\xA4delpyramide (Detail), 1898, \xC3\x96l auf Leinwand, 39,1 x 46,7 cm, Privatsammlung; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Br\xC3\xBCne, Gudrun: Vanitas - Sch\xC3\xA4del Nr. 3 (Detail), 1989, Mischtechnik auf Hartfaser, 130 x 100 cm, im Besitz der K\xC3\xBCnstlerin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Abramovic, Marina: Selbstbildnis mit Sch\xC3\xA4del (Detail), 2004, ohne Angaben; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "von Langen, Johann: Sch\xC3\xA4delreliquiar, Ende 15. Jahrhundert, Sch\xC3\xA4del/Silber/Holz/Wachs/Glas, 28,7 x 12,7 x 17,6 cm, Osnabr\xC3\xBCck, Kirchenschatz; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Sch\xC3\xA4del des Jakobus minor, Byzanz, 12. Jahrhundert, Sch\xC3\xA4del/Silber/Reste von Email, 30 x 33 cm, Halberstadt, Dom; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+layout: series
+title: "Sch\xC3\xA4delkult"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Symbol der Verg\xC3\xA4nglichkeit oder modisches Accessoir"
+date: 2011/10/05
+teaser: "Der menschliche Sch\xC3\xA4del hat in der Geschichte viele unterschiedliche Bedeutungen erfahren: "
+collection: 27984
+---
+Der menschliche Schädel hat in der Geschichte viele unterschiedliche Bedeutungen erfahren. Als Reliquie diente er im Kontext der Heiligenverehrung des Mittelalters, als Symbol der Vergänglichkeit im Barock und als Mittel zur Provokation und modisches Accessoire in der Gegenwart. 
+
+Der Künstler und Darwinist Gabriel von Max (1840 – 1915) hatte mit rund 500 Schädel-Objekten eine der größten Sammlungen zusammengetragen, darunter der beschriftete Schädel des 1823 verstorbenen Andreas Freis aus Prien am Chiemsee. 1917 wurde die Sammlung von der Stadt Mannheim erworben, galt nach dem 2. Weltkrieg aber als verschollen. Erst 2008 wurde sie wiederentdeckt und bildet nun den Grundstock der aktuellen Mannheimer Ausstellung zum Schädelkult.
+
+*"Schädelkult. Kopf und Schädel in der Kulturgeschichte des Menschen":http://www.schaedelkult.de/ausstellung.html, 2. Oktober 2011 bis 29. April 2012, Reiss-Engelhorn-Museen, Mannheim*
