@@ -1,11 +1,25 @@
 --- 
-descriptions: []
-
+descriptions: 
+- "Homo rhodesiensis \xE2\x80\x93 Sch\xC3\xA4delrekonstruktion, Museum f\xC3\xBCr Vor- und Fr\xC3\xBChgeschichte, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Picasso, Pablo: Stillleben mit Sch\xC3\xA4del und Krug (Detail), 1942, \xC3\x96l auf Leinwand, 50 x 61 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Gogh, Vinzent van: Sch\xC3\xA4del mit Zigarette (Detail), 1885, \xC3\x96l auf Leinwand, 24 x 32 cm, Amsterdam, Rijksmuseum Vincent van Gogh; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "C\xC3\xA9zanne, Paul: Sch\xC3\xA4delpyramide (Detail), 1898, \xC3\x96l auf Leinwand, 39,1 x 46,7 cm, Privatsammlung; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Br\xC3\xBCne, Gudrun: Vanitas - Sch\xC3\xA4del Nr. 3 (Detail), 1989, Mischtechnik auf Hartfaser, 130 x 100 cm, im Besitz der K\xC3\xBCnstlerin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Abramovic, Marina: Selbstbildnis mit Sch\xC3\xA4del (Detail), 2004, ohne Angaben; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "von Langen, Johann: Sch\xC3\xA4delreliquie, Ende 15. Jahrhundert, Sch\xC3\xA4del/Silber/Holz/Wachs/Glas, 28,7 x 12,7 x 17,6 cm, Osnabr\xC3\xBCck, Kirchenschatz; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Sch\xC3\xA4del des Jakobus minor, Byzanz, 12. Jahrhundert, Sch\xC3\xA4del/Silber/Reste von Email, 30 x 33 cm, Halberstadt, Dom; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
 layout: series
 title: Scull cult
 author: "Hendrikje H\xC3\xBCneke"
-subtitle: 
+subtitle: Symbol of transience or fashionable accessory
 date: 2011/10/05
-teaser: 
+teaser: The human skull was attendant on different meanings in the history.
 collection: 
 ---
+The human skull was attendant on different meanings in the history.
+It serves as a relic in connection with hagiolatry in the Middle Ages, as a symbol of transience in the Baroque and today as a method of provocation and fashionable accessory.
+
+The artist and darwinist Gabriel von Max (1840 – 1915) had with around 500 skull-objects one of the biggest collections, among the labelled skull of Andreas Fries from Prien at the Chiemsee, who died in 1823. In 1917 the collection was bought by the corporation Mannheim, but was regarded as lost after the second world war. As recently as 2008 it was found again and now it is constituting the exhibition in Mannheim basically.
+
+
+*"Skull cult. Head and skull in human cultural history":http://www.schaedelkult.de/ausstellung.html, October 2nd 2011 to April 29th 2012, Reiss-Engelhorn-Museum, Mannheim*
