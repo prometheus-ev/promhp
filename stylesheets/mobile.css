@@ -20,6 +20,7 @@ div{
 #sidebar #campus_login_wrap,
 #sidebar #social_links,
 #main #submenu,
+#main #content #query_form,
 #footer { display: none!important; }
 
 #workspace {
