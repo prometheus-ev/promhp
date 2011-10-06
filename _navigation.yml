@@ -14,7 +14,11 @@
     :url: <%= pandora_url 'about' %>
   - :title_en: Newsletter
     :title_de: Newsletter
-    :url: prometheus/newsletter
+    :url: <%= pandora_url 'newsletters' %>
+    :content:
+    - :title_en: Archive (old)
+      :title_de: Archiv (alt)
+      :url: prometheus/newsletter
   - :title_en: Publications
     :title_de: Publikationen
     :url: prometheus/publications/index
