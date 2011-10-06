@@ -19,7 +19,7 @@
   <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/print.css' %>" media="print" />
   <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/screen.css' %>" media="screen, projection" />
   <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/syntax.css' %>" media="screen, projection" />
-  <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/mobile.css' %>" media="only screen and (max-device-width: 640px)" />
+  <link rel="stylesheet" type="text/css" href="<%=r 'stylesheets/mobile.css' %>" media="only screen and (max-device-width: 640px)" id="mobil-stylesheet" />
 
   <script src="<%=r 'javascripts/vendor.js' %>" type="text/javascript"></script>
   <script src="<%= site.pandora_url %>/javascripts/application.js" type="text/javascript"></script>
@@ -38,7 +38,7 @@
   <meta name="description" content="<%=h description %>" />
 <% end -%>
 </head>
-<body>
+<body onload="Prometheus.check_view_mode()">
   <a name="top"></a>
   <!--[if lte IE 6]>
   <div id="ie6warning" style="background-color: #ff0; color: #000" class="warning_icon">
@@ -154,6 +154,9 @@
         <%= @content %>
 
         <script src="<%=p 'pandora.js' %>" type="text/javascript"></script>
+      </div>
+      <div id="style-mode-switch">
+        <a href="#" onclick="Prometheus.switch_to_standard_mode()"><%=t 'View in standard mode', 'Im Standard-Modus betrachten' %></a>
       </div>
     </div>
   </div>

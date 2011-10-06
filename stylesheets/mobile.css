@@ -56,3 +56,9 @@ div{
 #navigation li a{ display: block; }
 
 #navigation { padding:10px; }
+
+#style-mode-switch {
+  display:          block;
+  text-align:       center;
+  background-color: black;
+}

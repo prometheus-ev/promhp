@@ -316,3 +316,7 @@ div.highlight pre code:after {
 #dsq-content ul {
   width:             inherit;
 }
+
+#style-mode-switch {
+  display:           none;
+}
