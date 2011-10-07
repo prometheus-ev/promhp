@@ -190,7 +190,7 @@ span.prometheus {
   margin-right:      -0.25em;
 }
 
-select, textarea, input, fieldset {
+select, textarea, input, fieldset, .text_wrap {
   font-size:         12px;
   background-color:  #262626;
   color:             #CCCCCC;
@@ -577,10 +577,99 @@ input.image_submit_tag {
 
 .dim:hover, .undim:hover .dim,
 tr.dim:hover > *, .undim:hover tr.dim > *,
-.slide:hover > .dim,
+div.slide > div.wrap:hover > div.dim,
 .undimmed .dim, .checked .image_check_box {
   opacity:           1.0;
   filter:            alpha(opacity=100);
+}
+
+body.js .slide-item.placeholder {
+  position:          absolute;
+  height:            539px;
+  z-index:           10001;
+}
+
+body.nojs .slide-item.placeholder {
+  min-width:         21px;
+}
+
+body.js .slide.placeholder .wrap {
+  width:             744px;
+}
+
+body.nojs .slide.placeholder .scroll {
+  height:            0;
+  background-color:  inherit;
+  border-color:      transparent;
+}
+
+body.nojs .slide-item .dim, body.js .slide-item .controls.dim {
+  display:           none;
+}
+
+body .slide-item:hover .controls.dim, body.nojs .slide-item.placeholder .controls.dim {
+  display:           block;
+}
+
+.slide-item .controls {
+  position:          absolute;
+  z-index:           10001;
+}
+
+.slide-item .text_wrap {
+  overflow:          hidden;
+}
+
+.slide-item .text_wrap p:first-child {
+  margin-top:        0;
+}
+
+.slide-item .text_wrap p:last-child {
+  margin-bottom:     0;
+}
+
+.slide-item textarea {
+  margin:            0;
+  resize:            none;
+  border:            none;
+}
+
+body.js .slide-item.editing  .controls,
+body.js .slide-item.cropping .controls,
+body.js .slide-item.resizing .icons {
+  display:           none;
+}
+
+body.js .slide-item .icons {
+  width:             100%;
+}
+
+body.js .slide-item .resize-handle {
+  bottom:            0;
+  right:             0;
+  width:             5px;
+  height:            5px;
+  background-image:  url(../images/misc/resize_handle.gif);
+  background-repeat: no-repeat;
+}
+
+body.js .slide-item .resize-handle,
+body.js .slide-item.resizing * {
+  cursor:            se-resize;
+}
+
+.slide-item div.image {
+  width:             auto;
+  height:            auto;
+  border:            none;
+  display:           block;
+  text-align:        left;
+  background-color:  transparent;
+}
+
+.slide-item div.image img.resized {
+  max-width:         none;
+  max-height:        none;
 }
 
 .pale {
@@ -1019,15 +1108,58 @@ div.gallery-item {
 }
 
 div.slide-item {
-  width:             215px;
-  margin:            0;
+  position:          relative;
+  float:             left;
+}
+
+div.slide-item:hover {
+  z-index:           10001 !important;
+}
+
+body.js div.slide-item.cropping,
+body.js div.slide-item.resizing {
+  z-index:           10002 !important;
+}
+
+div.slide, div.slide > div.wrap {
+  display:           inline-block;
 }
 
 div.slide {
-  display:           inline-block;
   clear:             both;
   padding-top:       3px;
   margin-left:       3px;
+}
+
+div.slide div.slide-insert.dragdrop,
+div.slide.dragdrop div.slide-insert {
+  background-color:  #FF9933;
+}
+
+div.slide-insert {
+  width:             720px;
+  height:            10px;
+  margin-bottom:     3px;
+}
+
+div.image-insert {
+  width:             10px;
+  height:            100%;
+}
+
+body.js div.image-insert + div.wrap {
+  float:             none;
+  padding-left:      16px;
+}
+
+body.js div.image-insert.hidden + div.wrap {
+  padding-left:      inherit;
+}
+
+div.slide-insert, div.image-insert {
+  border:            dotted 1px #1B1B1B;
+  background-color:  #4C4C4C;
+  cursor:            pointer;
 }
 
 div.row-adder {
@@ -1087,6 +1219,15 @@ body.oauth_clients-controller .icon {
   margin-top:        0;
 }
 
+.slide .delete-icon {
+  margin-top:        3px;
+}
+
+body.js .slide-item .delete-icon {
+  margin-top:        0;
+  float:             right;
+}
+
 div.image_check_box,
 div.image_radio_button,
 div.slide_radio_button {
@@ -1097,10 +1238,6 @@ div.slide_radio_button {
 div.image_radio_button,
 div.slide_radio_button {
   width:             21px;
-}
-
-div.slide-item .icons {
-  margin-top:        2px;
 }
 
 div.slide .icons .icon:first-child {
@@ -1212,8 +1349,11 @@ body.image-controller.show-action #details-section div.section {
   width:             auto;
 }
 
-div.image_wrap {
+div.image_wrap, div.text_wrap, .slide-item textarea {
   float:             left;
+}
+
+div.image_wrap {
   text-align:        center;
 }
 
@@ -1340,11 +1480,19 @@ body.image-controller.show-action.js span.full {
   max-height:        none;
 }
 
+body.presentation-controller.edit-action div.scroll,
+body.presentation-controller.run-action div.scroll {
+  position:          relative;
+
+  /* {SlideDimensions} Keep in sync with views/presentation/run.pdf.prawn */
+  width:             721px;
+  height:            540.75px;
+}
+
 body.presentation-controller.edit-action div.scroll {
-  border-style:      solid;
-  border-width:      1px;
-  width:             720px;
   float:             left;
+  background-color:  #1B1B1B;
+  background-image:  url(../images/misc/grid.gif);
 }
 
 .truncated .content > p:last-child {
@@ -1363,6 +1511,10 @@ div.section_heading, div.section_header .section span {
   font-weight:       bold;
   padding:           7px;
   float:             left;
+}
+
+div.section_heading img {
+  vertical-align:    top;
 }
 
 div.section_wrap {
@@ -1569,7 +1721,7 @@ div.submit_button:focus .button_right, div.submit_button:active .button_right {
   max-height:        64px;
 }
 
-div.image, td.image, td.thumbnail, td.present_image {
+div.image, td.image, td.thumbnail {
   vertical-align:    middle;
   text-align:        center;
 }
@@ -1591,14 +1743,8 @@ table.resourceful-list td.thumbnail {
   padding-bottom:    19px;
 }
 
-body.js td.present_image img:hover {
-  cursor:            crosshair;
-}
-
-body.presentation-controller.run-action table {
-  margin:            0;
-  padding:           0;
-  height:            98%;
+body.presentation-controller.run-action,
+body.presentation-controller.run-action #footer {
   width:             100%;
 }
 
@@ -1607,10 +1753,14 @@ body.presentation-controller.run-action #footer {
   text-align:        center;
   margin:            0;
   height:            32px;
-  width:             100%;
   position:          fixed;
   bottom:            0;
-  z-index:           1;
+  z-index:           10101;
+}
+
+body.presentation-controller.run-action .slide {
+  margin:            0;
+  padding:           0;
 }
 
 table.list .metadata .summary-line {
