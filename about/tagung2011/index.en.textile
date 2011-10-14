@@ -21,7 +21,6 @@ Die Jubiläumstagung liefert eine kritische Standortbestimmung und fragt nach En
 <br>
 Den Flyer zur Tagung finden Sie "hier":<%=r 'files/text/Flyer_Tagung_prometheus_2011.pdf' %>. 
   |  !<%=r "files/images/prometh_poster_web_klein.jpg" %>(Plakat Tagung)!:<%=r "files/images/prometh_poster_web.jpg" %> |
-
 <br>
 <br>
 
