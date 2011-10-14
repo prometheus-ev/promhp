@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "De Kooning, Willem: Asheville (Detail), 1949 \xC3\x96l/Emaille auf Karton und Pappe, 65,1 x 81,3 cm, Washington D.C., The Phillips Collection; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "De Kooning, Willem: Woman (Detail), 1953, \xC3\x96l und Kohle auf Papier/auf Leinwand \xC3\xBCbertragen, 64,9 x 49,8 cm, Washington D.C., Hirshhorn Museum and Sculpture Garden; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "De Kooning, Willem: Woman (Detail), 1959, Tinte auf Papier, 58,4 x 46,4 cm, New York, Xavier Fourcade; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "De Kooning, Willem: Blue and White (Detail), 1960, Tinte/Bleistift, collagiert, 27,9 x 27,9 cm, San Francisco, Collection of the artist; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
+- "De Kooning, Willem: Door to the River (Detail), 1960, keine Angabe, 203,2 x 177,8 cm, New York, Whitney Museum of American Art; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "De Kooning, Willem: o.T. (Detail) , 1960, Tinte/Bleistift, collagiert, 29,8 x 22,8 cm, East Hampton, Collection of the artist; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
+- "De Kooning, Willem: o.T. (Detail) , 1960, Kreide/Tinte/Bleistift, collagiert, 35,5 cm x 25,4 cm, East Hampton, Collection of the artist; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen"
+- "De Kooning, Willem: Queen of Hearts (Detail), um 1943, \xC3\x96l/Kohle/Holz, 117,2 x 70,3 cm, Washington, Hirshhorn Museum and sculpture Garden, Smithsonian Institution; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+layout: series
+title: De Kooning
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: im MoMA
+date: 2011/10/14
+teaser: "Die erste Retrospektive zum Werk Willem de Koonings fand 1965 im Smith College Museum of Art in Northampton statt. "
+collection: 28250
+---
+Die erste Retrospektive zum Werk Willem de Koonings fand 1965 im Smith College Museum of Art in Northampton statt. Die aktuelle Retrospektive im Museum of Modern Art ist mit rund 200 Malereien, Skulpturen, Zeichnungen und Drucken größer angelegt und umfasst die frühen Arbeiten aus der Zeit vor seiner Übersiedlung in die USA 1926 bis zu den letzten abstrakten Arbeiten der späten 80er Jahre.
+De Kooning gilt als einer der wichtigsten Vertreter des Abstrakten Expressionismus. Mit Jackson Pollock und Mark Rothko gehörte er zu einer Künstlergeneration, durch die New York nach dem zweiten Weltkrieg zur Kunstmetropole wurde.  
+
+*"De Kooning. Eine Retrospektive":http://www.moma.org/visit/calendar/exhibitions/1149, 18. September 2011 bis 9. Januar 2012, MoMA, New York*
