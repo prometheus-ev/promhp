@@ -1,0 +1,11 @@
+--- 
+descriptions: []
+
+layout: series
+title: New Objectivity
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2011/10/16
+teaser: 
+collection: 
+---
