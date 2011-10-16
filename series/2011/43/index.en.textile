@@ -1,0 +1,20 @@
+--- 
+descriptions: 
+- "Perugino: Francesco delle Opere (Detail), 1494, keine Angaben, Florenz, Galleria degli Uffizi ; Datenbank DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Perugino: Madonna mit Kind zwischen dem Heiligen Johannes und der Heiligen Katharina (Detail), keine Ma\xC3\x9Fangaben, Paris, Louvre; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Perugino: Piet\xC3\xA0 (Detail), um 1493/94, \xC3\x96l auf Holz, 168 x 176 cm, Florenz, Galleria degli Uffizi; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Perugino: Vision des Heiligen Bernhard (Detail aus der Kapelle der Familie Nasi in Santa Maria Maddalena dei Pazzi in Florenz), um 1490-94, \xC3\x96l auf Holz, 173 x 170 cm, M\xC3\xBCnchen, Alte Pinakothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Perugino: Maria Magdalena (Detail), Ende 15. Jh., \xC3\x96l auf Holz, 47 x 34 cm, Florenz, Galleria Palatina; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Perugino: Taufe Jesus Christus durch Johannes (Detail), um 1481-83, Fresko, Rom, Sixtinische Kapelle, 1. Bildfeld der Nordwand; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Perugino: San Sebastiano (Detail), 1485, \xC3\x96l auf Holz, 174 x 88 cm, Stockholm; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Perugino: Bildnis des Vallombrosaners Baldassare (Detail), 1500, \xC3\x96l auf Holz, 26 x 27 cm, Florenz, Galleria degli Uffizi; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+layout: series
+title: Perugino
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: In the shadow of his pupil
+date: 2011/10/16
+teaser: "In 1829 King Ludwig I of Bavaria acquired the altarpiece \xE2\x80\x9EThe Vision of Saint Bernard\xE2\x80\x9C made by Perugino for the Alte Pinakothek."
+collection: 28251
+---
+In 1829 King Ludwig I of Bavaria acquired the altarpiece „The Vision of Saint Bernard“ made by Perugino for the Alte Pinakothek. Since that time the painting, to be among the main works of the artist, is an important part of that famous collection. At this time it takes centre stage at an exhibition, who wants „to rid Perugino of the shadow cast by his pupil Raphael“. Above all works of the 1490s – religious works, portraits and mythological creations –  are shown to convince.
+*"Perugino – Raphael’s Master":http://www.pinakothek.de/en/kalender/2011-10-13/10613/perugino-raphaels-master, 13.10.2011 – 15.10.2012, Alte Pinakothek, Munich*
