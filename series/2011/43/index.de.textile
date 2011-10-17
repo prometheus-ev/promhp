@@ -1,11 +1,11 @@
 --- 
 descriptions: 
-- "Perugino: Francesco delle Opere (Detail), 1494, keine Angaben, Florenz, Galleria degli Uffizi ; Datenbank DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Perugino: Francesco delle Opere (Detail), 1494, \xC3\x96l auf Holz, 52 x 44 cm, Florenz, Galleria degli Uffizi ; Datenbank DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
 - "Perugino: Madonna mit Kind zwischen dem Heiligen Johannes und der Heiligen Katharina (Detail), keine Ma\xC3\x9Fangaben, Paris, Louvre; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
 - "Perugino: Piet\xC3\xA0 (Detail), um 1493/94, \xC3\x96l auf Holz, 168 x 176 cm, Florenz, Galleria degli Uffizi; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
 - "Perugino: Vision des Heiligen Bernhard (Detail aus der Kapelle der Familie Nasi in Santa Maria Maddalena dei Pazzi in Florenz), um 1490-94, \xC3\x96l auf Holz, 173 x 170 cm, M\xC3\xBCnchen, Alte Pinakothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
 - "Perugino: Maria Magdalena (Detail), Ende 15. Jh., \xC3\x96l auf Holz, 47 x 34 cm, Florenz, Galleria Palatina; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
-- "Perugino: Taufe Jesus Christus durch Johannes (Detail), um 1481-83, Fresko, Rom, Sixtinische Kapelle, 1. Bildfeld der Nordwand; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Perugino: Taufe Jesu Christi durch Johannes (Detail), um 1481-83, Fresko, Rom, Sixtinische Kapelle, 1. Bildfeld der Nordwand; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
 - "Perugino: San Sebastiano (Detail), 1485, \xC3\x96l auf Holz, 174 x 88 cm, Stockholm; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
 - "Perugino: Bildnis des Vallombrosaners Baldassare (Detail), 1500, \xC3\x96l auf Holz, 26 x 27 cm, Florenz, Galleria degli Uffizi; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
 layout: series
@@ -16,6 +16,6 @@ date: 2011/10/16
 teaser: "1829 erwarb K\xC3\xB6nig Ludwig I von Bayern das Altarbild \xE2\x80\x9EDie Vision des Heiligen Bernhard\xE2\x80\x9C von Perugino f\xC3\xBCr die Alte Pinakothek, die noch im Bau war. "
 collection: 28251
 ---
-1829 erwarb König Ludwig I von Bayern das Altarbild „Die Vision des Heiligen Bernhard“ von Perugino für die Alte Pinakothek, die noch im Bau war. Seit dem ist das zu den Hauptwerken des Künstlers zählende Bild ein wichtiger Teil der bedeutenden Gemäldesammlung. Aktuell steht es im Mittelpunkt einer Ausstellung, die sich unter anderem zur Aufgabe gemacht hat Perugino „aus dem Schatten seines Schülers Raffael“ zu holen. Vor allem Werke der 1490er Jahre – religiöse Darstellungen, Porträts und Bilder mit mythologischen Themen – sollen davon überzeugen.
+1829 erwarb König Ludwig I von Bayern das Altarbild „Die Vision des Heiligen Bernhard“ von Perugino für die Alte Pinakothek. Seitdem ist das zu den Hauptwerken des Künstlers zählende Bild ein wichtiger Teil der bedeutenden Gemäldesammlung. Aktuell steht es im Mittelpunkt einer Ausstellung, die sich unter anderem zur Aufgabe gemacht hat Perugino „aus dem Schatten seines Schülers Raffael“ zu holen. Vor allem Werke der 1490er Jahre – religiöse Darstellungen, Porträts und Bilder mit mythologischen Themen – sollen davon überzeugen.
   
 *"Perugino – Raffaels Meister":http://www.pinakothek.de/kalender/2011-10-13/10612/perugino-raffaels-meister, 13. Oktober 2011 – 15. Januar 2012, Alte Pinakothek, München*
