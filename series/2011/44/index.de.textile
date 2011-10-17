@@ -1,12 +1,12 @@
 --- 
 descriptions: 
 - "Bergander, Rudolf: Rothaarige Frau (Detail), 1930, \xC3\x96l auf Pappe, keine Ma\xC3\x9Fangaben, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
-- "Dix, Otto: An die Sch\xC3\xB6nheit (Detail), 1922, \xC3\x96l auf Leinwand, keine Ma\xC3\x9Fangaben, Wuppertal, Von der Heydt-Museum; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte, Trier "
-- "Felixm\xC3\xBCller, Conrad: Liebespaar vor Dresden (Detail), 1928, keine Angaben, Dresden, Gem\xC3\xA4ldegalerie Neue Meister; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
-- "Felixm\xC3\xBCller, Conrad: Modellpause (Detail), 1932, \xC3\x96l auf Leinwand, keine Ma\xC3\x9Fangaben, Berlin, Berlinische Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
-- "Querner, Curt: Demonstranten (Detail), 1930, \xC3\x96l auf Leinwand, keine Ma\xC3\x9Fangaben, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
-- "Lachnit, Wilhelm: M\xC3\xA4dchen mit Pelz (Detail), 1925, \xC3\x96l auf Leinwand, ohne Ma\xC3\x9Fangaben, Dresden, Gem\xC3\xA4ldegalerie Neue Meister; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
-- "Grundig, Hans: Arbeitslose Zigarettenarbeiterin (Detail), 1925, ohne Materialangabe, 91 x 62 cm, Magdeburg, Kulturhistorisches Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Dix, Otto: An die Sch\xC3\xB6nheit (Detail), 1922, \xC3\x96l auf Leinwand, 140 x 122 cm, Wuppertal, Von der Heydt-Museum; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte, Trier"
+- "Felixm\xC3\xBCller, Conrad: Liebespaar vor Dresden (Detail), 1928, \xC3\x96l auf Leinwand, 161 x 103 cm, Dresden, Gem\xC3\xA4ldegalerie Neue Meister; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Felixm\xC3\xBCller, Conrad: Modellpause (Detail), 1932, \xC3\x96l auf Leinwand, 85 x 75 cm, Berlin, Berlinische Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Querner, Curt: Demonstranten (Detail), 1930, \xC3\x96l auf Leinwand, 86 x 66 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Lachnit, Wilhelm: M\xC3\xA4dchen mit Pelz (Detail), 1925, \xC3\x96l auf Leinwand, 120 x 67 cm, Dresden, Gem\xC3\xA4ldegalerie Neue Meister; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Grundig, Hans: Arbeitslose Zigarettenarbeiterin (Detail), 1925, \xC3\x96l auf Pappe, 91 x 62 cm, Magdeburg, Kulturhistorisches Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
 - "Grosz, George: Portr\xC3\xA4t des Schriftstellers Max Herrmann-Neisse (Detail), 1925, \xC3\x96l auf Leinwand, 100 x 101cm, Mannheim, St\xC3\xA4dtische Kunsthalle; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
 layout: series
 title: Neue Sachlichkeit
@@ -16,7 +16,7 @@ date: 2011/10/16
 teaser: "Fu\xC3\x9Fend auf einem umfassenden Forschungsprojekt pr\xC3\xA4sentiert die Galerie Neue Meister nun eine Ausstellung zur Neuen Sachlichkeit."
 collection: 28282
 ---
-Fußend auf einem umfassenden Forschungsprojekt präsentiert die Galerie Neue Meister nun eine Ausstellung zur Neuen Sachlichkeit. Zeil der Forschungen der letzten Jahre war es vor allem ein Gesamtbild der Neuen Sachlichkeit im Dresden der 20er Jahre zu rekonstruieren und spezifische Besonderheiten gegenüber anderen Zentren des Realismus dieser Zeit – wie etwa Hannover, Karlsruhe, München oder Berlin – herauszuarbeiten.
-Geprägt durch die Ausbildung an der Dresdner Kunstakademie und der Kunstgewerbeschule malte eine ganze Künstler-Generation, unter ihnen Otto Dix, George Grosz, Otto Griebel, Hans Grundig, Wilhelm Lachnit und Bernhard Kretzschmar, realistische, häufig mit Ironie und Sozialkritik durchsetzte Bilder.
+Fußend auf einem umfassenden Forschungsprojekt präsentiert die Galerie Neue Meister nun eine Ausstellung zur Neuen Sachlichkeit. Ziel der Forschungen der letzten Jahre war es vor allem ein Gesamtbild der Neuen Sachlichkeit im Dresden der 20er Jahre zu rekonstruieren und spezifische Besonderheiten gegenüber anderen Zentren des Realismus dieser Zeit – wie etwa Hannover, Karlsruhe, München oder Berlin – herauszuarbeiten.
+Geprägt durch die Ausbildung an der Dresdner Kunstakademie und der Kunstgewerbeschule malte eine ganze Künstler-Generation - unter ihnen Otto Dix, George Grosz, Otto Griebel, Hans Grundig, Wilhelm Lachnit und Bernhard Kretzschmar - realistische, häufig mit Ironie und Sozialkritik durchsetzte Bilder.
 
 *"Neue Sachlichkeit in Dresden. Malerei der Zwanziger Jahre von Dix bis Querner":http://www.skd.museum/de/sonderausstellungen/neue-sachlichkeit-in-dresden/index.html, 1. Oktober 2011 bis 8. Januar 2012, Galerie Neue Meister, Kunsthalle im Lipsiusbau, Brühlsche Terrasse, Dresden*
