@@ -50,6 +50,12 @@ storytude orientiert sich dabei stark am Infotainment und versucht sich sogar an
 <br>
 PD Dr. Holger Simon (Köln, pausanio GmbH & Co. KG)
 *Mit dem Kulturwecker unterwegs - Kunst und Kultur mobil*
+
+Kunst und Kultur hat stets einen Ort. Sehenswürdigkeiten prägen nicht selten über Jahrhunderte die Umgebung ihrer Standorte und kulturelle Ereignisse nehmen stets Bezug auf den sie umgebenden Raum. Geschichte kann an diesen Orten erinnert und ein Stück erlebbar werden und das ganz praktisch: in der Erfahrung eines historisch gewachsenen Raumes.
+Solche Orte, solche Städte und Landschaften, ziehen in Deutschland pro Jahr 9,45 Mio. Städte- und Kulturreisende an, die mehrfach im Jahr eine Kurzreise tätigen. Mit über 80 Mrd. EUR Umsatz ist der Städtetourismus zu einem sehr wichtigem in manchen Regionen zu dem entscheidenden Wirtschaftsfaktor geworden. Kunst- und Städtereisende beleben vor Ort nicht nur die Gastronomie, sondern ein großer Teil von ihnen wünscht vor Ort vor allem Information über die Stadt, ihre historische Entwicklung und deren Sehenswürdigkeiten.
+Seit dem Handy und verstärkt mit Durchsetzung der Smartphones im Jahre 2007 beflügeln die mobilen Technologien vielfältige Geschäftsideen, Informationen für Städte- und Kulturreisende mobile auf die Endgeräte der Bucher anzubieten. Doch wer sind diese Besucher eigentlich, was wünschen sie vor Ort und für welchen Mehrwert sind sie letztendlich bereit zu zahlen? 
+Mit der Pausanio GmbH&Co.KG [Link: www.pausanio.de] haben wir uns dieser Herausforderung gestellt und seit 2009 mehrere Angebote entwickelt, um das Informationsbedürfnis der Besucher vor Ort zu stillen. Anhand dieser Angebote sollen in dem Vortrag die Möglichkeiten aber auch Hürden der mobilen Technologie anschaulich gemacht und kritisch diskutiert werden. 
+Der Kulturwecker steht hierbei nicht nur für ein zentrales Feature in der Pausanio-App [Link: http://itunes.apple.com/de/app/pausanio-kunst-und-kultur/id431589151?mt=8], sondern ist zugleich eine Metapher für die Suche nach dem Besucher vor Ort und dem Interesse, ihn für Kunst und Kultur zu wecken.
 <br>
 <br>
 
@@ -106,3 +112,15 @@ Dr. Gunther Reisinger (Graz, Museumsakademie Joanneum)
 Der Vortrag ist im Bereich der kunstwissenschaftlichen Methodendiskussion angesiedelt und befasst sich mit der kritischen historischen Herleitung, dem aktuellen Status Quo sowie mit der künftigen Verwendungen von archivbezogenen Quellenbegrifflichkeiten in kunstwissenschaftlicher Forschung und Lehre.
 Durch den Einzug digitaler Archive in kunstwissenschaftliche Arbeitsprozesse wird ein quellenkundliches Dispositiv virulent, dass die Diskussion der Bedingungen traditioneller Quellenkritik erfordert. Unter Berücksichtigung disziplingeschichtlicher Aspekte wird insbesondere die Notwendigkeit der Verwortung (Meta-Datierung) digitaler Quelleneditionen und die dadurch gegebene genealogische Parallele zur Methode der kunsthistorischen Werkbeschreibung thematisiert. Verstanden als Prolegomena der Entwicklung einer kunstwissenschaftlichen Fachinformatik, werden Termini wie Quelle, Archiv, Lexikon oder Original bezüglich ihrer nunmehrigen Mit-Verortung im digitalen Medium befragt und ihre Bedeutungen gegebenenfalls neu besetzt.
 Unter Einbezug der methodologischen Provokation eines „burial of analogue“ (z.B. Boxer 2001) und im Sinne der notwendigen Adaptierung derzeitiger archivkundlicher wie didaktischer Herangehensweisen innerhalb kunstwissenschaftlicher Arbeitsfelder werden Überlegungen eines „katechon des Speichers“ (Ernst 2007) auf traditionelle kunsthistorische Werk-, Abbild- und Quellentypologien umgelegt und in die digitale archivische Gegenwart überführt. 
+<br>
+<br>
+*Abschlussvortrag*
+-Dr. Joachim Wedekind (Universität Tübingen, Institut für Wissensmedien)-
+-*Digitale Lernumwelten – Erfahrungen und Perspektiven*- (aus persönlichen Gründen abgesagt)
+
+stattdessen: Dr. Bettina Pfleging (Köln, ILIKE)
+*Lern- und Lehrprozesse mit digitalen Medien. Potenziale, Grenzen, Erfahrungen, Perspektiven*
+
+Digitale Medien sind mittlerweile seit vielen Jahren Bestandteil unseres privaten und beruflichen Lebens. Die technischen Entwicklungen bieten neben Informations- und Wissensvermittlung auch großes Potenzial für die Entwicklung effektiver, innovativer Lehr- und Lernformen. Es wird aber mehr als didaktische Phantasie benötigt, um Lehr- und Lernprozesse auf eine neue Erfahrungsebene zu heben und die Ideen und ihre Umsetzungen langfristig in den Bildungsbereich zu integrieren. Beispiele, u.a. aus der Projektphase von prometheus, zeigen didaktische Möglichkeiten und Grenzen, die, wie andere Beispiele zeigen, auch bei den neuesten Entwicklungen im Bereich der digitalen Medien (Social Media, Mobile Computing, ...) zu sehen sind.
+
+
