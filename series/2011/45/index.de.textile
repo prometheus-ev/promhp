@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Ray, Man: Pablo Picasso, 1932, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Picasso in seinem Atelier Bateau Lavoir, 1908; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Beaton, Cecil: Pablo Picasso, 1965; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Picasso mit einer Stiermaske, 1959; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Madam d\xC2\xB4Ora: Pablo Picasso, 1955, Hamburg, Museum f\xC3\xBCr Kunst und Gewerbe; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Ein Zentaur mit Licht gezeichnet - Pablo Picasso in der Madoura-T\xC3\xB6pferei, Vallauris, 1949; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Penn, Irving: Picasso, 1957, Chicago, Art Institute; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Duncan, David Douglas: Picasso in seiner Villa La Calfornie, Cannes, 1956; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+layout: series
+title: Picasso
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "im Fotoportr\xC3\xA4t"
+date: 2011/11/01
+teaser: "Von Picasso existieren viele Fotografien. "
+collection: 28565
+---
+Von Picasso existieren viele Fotografien. Sie zeigen ihn mit Kunstwerken, mit Frauen, mit Zigarette, mit Hut, im Kostüm eines Indianer-Häuptlings oder eines Torero, tanzend in Unterhose oder lachend beim einseifen in der Badewanne. Oft guckt er mit offenem und bestimmtem Blick direkt in die Kamera. Eine Ausstellung im Ludwig Museum stellt sich erstmals die Frage nach dem Maß an kontrollierter Selbstdarstellung. Welchen gestalterischen Anteil haben die Fotografen und wie stark bestimmt Picasso selbst die Inszenierung?
+
+*"Ichundichundich. Picasso im Fotoporträt":http://www.museum-ludwig.de/, 24. Sept. 2011 bis 15. Jan. 2012, Museum Ludwig, Köln* 
