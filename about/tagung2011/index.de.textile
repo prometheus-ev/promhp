@@ -74,17 +74,19 @@ Festvortrag: Prof. Dr. Hubertus Kohle (LMU München, Institut für Kunstgeschich
 
 h3. Samstag, 05.11.11
 
-|09:30|Begrüßung Prof. Dr. Norbert Eschbach (prometheus e.V./ JLU Gießen, Professur für Klassische Archäologie)|
+*Bitte beachten Sie den späteren Beginn der Veranstaltung!*
+
+|<del>09:30</del><ins>10:00</ins>|Begrüßung Prof. Dr. Norbert Eschbach (prometheus e.V./ JLU Gießen, Professur für Klassische Archäologie)|
 
 h4. Sektion 3: verwandeln
 
 Moderation: Lisa Dieckmann M.A. (prometheus e.V./ Universität zu Köln, Kunsthistorisches Institut)
 
-|09:40|Dipl.-Inform. Matthias Trapp (Universität Potsdam, HPI)
+|<del>09:40</del><ins>10:10</ins>|Dipl.-Inform. Matthias Trapp (Universität Potsdam, HPI)
 *Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen*|
 
-|10:20|Dr. Daniel Hornuff (HfG Karlsruhe, Fachbereich Kunstwissenschaft und Medientheorie)
-*Kunst im 3D-Rundgang. Was bringt das virtuelle Museum?*|
+|<del>10:20</del>|<del>Dr. Daniel Hornuff (HfG Karlsruhe, Fachbereich Kunstwissenschaft und Medientheorie)
+*Kunst im 3D-Rundgang. Was bringt das virtuelle Museum?*</del> (aus Krankheitsgründen abgesagt)|
 
 |11:00|_Kaffeepause_|
 
