@@ -29,7 +29,7 @@ module Jekyll
 
     def page_title_for(page, head = false)
       title = page.title.dup if page.title
-      parts = page.url.sub(/\A\//, '').split('/')
+      parts = page.url.sub(/\A\//, '').split(sep = '/')
 
       if blog?(page.url)
         suffix = t('prometheus Blog', 'prometheus-Blog') if head
@@ -47,8 +47,7 @@ module Jekyll
           title << ' - ' << suffix if suffix
         end
       elsif parts[0] == 'series'
-        num = parts.values_at(-2, -3).map { |i| i.to_i }.join(' / ')
-        title.insert(0, "#{t('Image series', 'Bildserie')} #{num}: ")
+        title.insert(0, "#{t('Image series', 'Bildserie')} #{ImageSeries.label(parts[1, 2].join(sep))}: ")
       end
 
       title

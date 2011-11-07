@@ -2,6 +2,9 @@
 layout: default
 ---
 <h2><%= page_title %></h2>
+<!--#if expr="<%= ImageSeries.order(File.dirname(page.url)) %> > ${DATE_LOCAL}" -->
+<p><strong><%=t 'Not available yet...', 'Noch nicht verfügbar...' %></strong></p>
+<!--#else -->
 <h3><%= page.subtitle %></h3>
 
 <p class="series-meta">
@@ -29,6 +32,7 @@ layout: default
   </div>
 <% end -%>
 </div>
+<!--#endif -->
 
 <div class="list_controls">
   <div class="pagination">

@@ -6,6 +6,24 @@ module Jekyll
 
     TEASER_RE = %r{(.*?[.?!])}
 
+    TIME_PARTS = %w[%G %V]
+
+    TIME_FORMAT = TIME_PARTS.join('/')
+
+    LABEL_FORMAT = TIME_PARTS.reverse.join(' / ')
+
+    def label(dir)
+      date(dir).strftime(LABEL_FORMAT)
+    end
+
+    def date(dir)
+      Date.strptime(order(dir), TIME_FORMAT)
+    end
+
+    def order(dir)
+      dir[%r{(?:\A|/)(\d+/\d+)/?\z}, 1]
+    end
+
     def parts(page)
       items(page).concat(%w[row teaser])
     end
