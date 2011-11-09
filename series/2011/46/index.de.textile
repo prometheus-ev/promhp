@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Gauguin, Paul: Parau api / Gibt's was Neues? (Detail), 1892, \xC3\x96l auf Leinwand, 67 x 91 cm, Dresden, Gem\xC3\xA4ldegalerie Neue Meister; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Gauguin, Paul: Annah, die Javanerin (Detail), 1893, \xC3\x96l auf Leinwand, 116 x 81 cm, Winterthur, Privatsammlung; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Gauguin, Paul: Manao Tupapau / Der Geist der Toten wacht (Detail), 1892, \xC3\x96l auf Leinwand, 73 x 92 cm, Buffalo, Albright-Knox Art Gallery; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Gauguin, Paul: Fatata te Miti / Am Meer (Detail), 1892, \xC3\x96l auf Leinwand, 68 x 91,5 cm, Washington, National Gallery of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Gauguin, Paul: Nafea faa ipoipo / Wann heiratest Du? (Detail), 1892, \xC3\x96l auf Leinwand, 101 x 77 cm, Basel, Stiftung Familie Rudolf Staechlin; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Gauguin, Paul: Tahitierinnen am Strand (Detail), 1892, \xC3\x96l auf Leinwand, 109,9 x 89,5 cm, New York, The Metropolitan Museum of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Gauguin, Paul: Tahiterin mit Mango (Detail), 1892, \xC3\x96l auf Leinwand, 72,7 x 44,5 cm, Baltimore (Maryland), Baltimore Museum of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Gauguin, Paul: Te arii vahine / Die Frau des K\xC3\xB6nigs (Detail), 1896, \xC3\x96l auf Leinwand, 97 x 130 cm, Moskau, Puschkin-Museum f\xC3\xBCr Bildende K\xC3\xBCnste; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+layout: series
+title: Gauguin
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: und die Kunst Polynesiens
+date: 2011/11/09
+teaser: "Der 1848 geborene Maler Gauguin trat seine erste Reise nach Polynesien 1891 an und kam danach nur noch einmal (1893) nach Frankreich zur\xC3\xBCck. "
+collection: 28769
+---
+Der 1848 geborene Maler Gauguin trat seine erste Reise nach Polynesien 1891 an und kam danach nur noch einmal (1893) nach Frankreich zurück. Bis zu seinem Tod 1903 lebte er schließlich auf den Marquesasinseln. In die fremde Welt hatte ihn eine Abneigung gegen die Zivilisation und eine phantastische Vorstellung von einem sorgenfreien, glücklichen Leben in der Natur getrieben. 
+Einige der in dieser Zeit entstandenen Kunstwerke Gauguins sind nun in der Ny Calsberg Glyptotek in Kopenhagen Seite an Seite mit polynesischer Kunst zu sehen.
+
+*"Gauguin & Polynesia. An elusive paradise": http://glyptoteket.dk/gauguin-and-polynesia, 24. September – 31. Dezember 2011, Ny Carlsberg Glyptotek, Kopenhagen* 
