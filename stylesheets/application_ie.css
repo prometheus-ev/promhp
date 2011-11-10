@@ -8,11 +8,6 @@ table.resourceful-list td.thumbnail {
   width:             150px;
 }
 
-td.thumbnail img {
-  max-height:        110px;
-  width:             80px;
-}
-
 table.resourceful-list td.metadata {
   padding-top:       10px;
 }
