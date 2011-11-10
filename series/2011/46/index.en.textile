@@ -5,8 +5,8 @@ descriptions:
 - "Gauguin, Paul: Manao Tupapau / Der Geist der Toten wacht (Detail), 1892, \xC3\x96l auf Leinwand, 73 x 92 cm, Buffalo, Albright-Knox Art Gallery; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
 - "Gauguin, Paul: Fatata te Miti / Am Meer (Detail), 1892, \xC3\x96l auf Leinwand, 68 x 91,5 cm, Washington, National Gallery of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
 - "Gauguin, Paul: Nafea faa ipoipo / Wann heiratest Du? (Detail), 1892, \xC3\x96l auf Leinwand, 101 x 77 cm, Basel, Stiftung Familie Rudolf Staechlin; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Gauguin, Paul: Tahitierinnen am Strand (Detail), 1892, \xC3\x96l auf Leinwand, 109,9 x 89,5 cm, New York, The Metropolitan Museum of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
-- "Gauguin, Paul: Tahiterin mit Mango (Detail), 1892, \xC3\x96l auf Leinwand, 72,7 x 44,5 cm, Baltimore (Maryland), Baltimore Museum of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Gauguin, Paul: Tahiterinnen am Strand (Detail), 1892, \xC3\x96l auf Leinwand, 109,9 x 89,5 cm, New York, The Metropolitan Museum of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Gauguin, Paul: Tahiterin mit Mango (Detail), 1892, \xC3\x96l auf Leinwand, 72,7 x 44,5 cm, Baltimore, Baltimore Museum of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
 - "Gauguin, Paul: Te arii vahine / Die Frau des K\xC3\xB6nigs (Detail), 1896, \xC3\x96l auf Leinwand, 97 x 130 cm, Moskau, Puschkin-Museum f\xC3\xBCr Bildende K\xC3\xBCnste; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
 layout: series
 title: Gauguin
@@ -18,6 +18,5 @@ collection: 28769
 ---
 The first journey of Gauguin to Polynesia was in 1891 and he went back to France just one time, in 1893. Since then he had lived on the Mequesas Islands till his death in 1903. He was guided by a general animosity to civilisation and a fantastically idea of a carefree, contented life in the nature.
 Some of the works of art, created at that time, are shown in the Ny Carlsberg Glyptotek in Copenhagen, side by side with art from Polynesia.   
-
 
 *"Gauguin & Polynesia. An elusive paradise":http://glyptoteket.dk/gauguin-and-polynesia, 24. September – 31. Dezember 2011, Ny Carlsberg Glyptotek, Kopenhagen* 
