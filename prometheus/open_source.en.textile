@@ -1,0 +1,17 @@
+---
+layout: default
+title: Open Source
+---
+h2. <%= page_title %>
+
+Here at prometheus we are passionate about "Open Source":http://en.wikipedia.org/wiki/Open-source_software and commit to the "Free Software":http://en.wikipedia.org/wiki/Free_software philosophy by licensing all our software under a free license (usually the "GNU Affero General Public License":http://en.wikipedia.org/wiki/Affero_General_Public_License) and contributing back to projects we use.
+
+h3. Tools and libraries we created
+
+<%= include_file 'open_source_tools.textile' %>
+* ...to name just a few ;)
+
+h3. Projects we rely on
+
+<%= include_file 'open_source_projects.textile' %>
+* ...and many many more

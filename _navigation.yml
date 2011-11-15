@@ -12,13 +12,9 @@
   - :title_en: pandora
     :title_de: pandora
     :url: <%= pandora_url 'about' %>
-  - :title_en: Newsletter
-    :title_de: Newsletter
-    :url: <%= pandora_url 'newsletters' %>
-    :content:
-    - :title_en: Archive (old)
-      :title_de: Archiv (alt)
-      :url: prometheus/newsletter
+  - :title_en: Open Source
+    :title_de: Open Source
+    :url: prometheus/open_source
   - :title_en: Publications
     :title_de: Publikationen
     :url: prometheus/publications/index
@@ -35,6 +31,13 @@
     - :title_en: Theses
       :title_de: Diplomarbeiten
       :url: prometheus/publications/theses
+  - :title_en: Newsletter
+    :title_de: Newsletter
+    :url: <%= pandora_url 'newsletters' %>
+    :content:
+    - :title_en: Archive (old)
+      :title_de: Archiv (alt)
+      :url: prometheus/newsletter
 - :title_en: About Us
   :title_de: Wir über uns
   :url: about/index
