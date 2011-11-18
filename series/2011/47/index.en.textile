@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Caravaggio: Narziss (Detail), um 1600, \xC3\x96l auf Leinwand, 110 x 92 cm, Rom, Galleria Nazionale dell'Arte Antica; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Caravaggio: Maria Magdalena (Detail), 1605/06, m\xC3\xB6glicherweise eine vorbereitende Einzelstudie f\xC3\xBCr die Figur der Maria Magdalena in Caravaggios \"Tod der Jungfrau Maria\" im Louvre, \xC3\x96l auf Leinwand, ohne Ma\xC3\x9Fangabe, Privatsammlung; Datenbank Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte, Trier "
+- "Peter Paul Rubens: Die Flucht nach \xC3\x84gypten (Detail), 1614, \xC3\x96l auf Eichenholz, 40,5 x 53 cm, Kassel, Staatliche Museen, Gem\xC3\xA4ldegalerie Alte Meister; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte, Trier"
+- "Gerrit van Honthorst: Anbetung des Kindes (Detail), um 1616, \xC3\x96l auf Leinwand, 95,5 x 131 cm, Florenz, Galleria degli Uffizi; Imago Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Rembrandt: Der Apostel Paulus an seinem Arbeitstisch (Detail), um 1629/30, \xC3\x96l auf Holz, 47,2 x 38,6 cm, N\xC3\xBCrnberg, Germanisches Nationalmuseum; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "Rembrandt: Die Heilige Familie (Detail), 1640, \xC3\x96l auf Holz, 41 x 34 cm, Paris, Louvre; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Jan Vermeer van Delft: Junge Dame mit Perlenhalsband (Detail), 1662-65, \xC3\x96l auf Leinwand, 55 x 45 cm, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Jan Vermeer van Delft: Die Perlenw\xC3\xA4gerin (Detail), um 1664, \xC3\x96l auf Leinwand, 42,5 x 38 cm, Washington, National Gallery of Art, Sammlung Widener; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+layout: series
+title: Light
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: A central aspect in painting
+date: 2011/11/18
+teaser: "An exhibition in Kassel deals with the presentation of light in art. "
+collection: 28980
+---
+An exhibition in Kassel deals with the presentation of light in art. The main focus is on the 17th century, when light became a central aspect in painting. The painting of the 15th and 16th century is shown as the origin: The innovation of Caravaggio was adopted and developed in the north of the Alps for example by Gerard van Honthorst. Paintings of Rubens, Rembrandt and Vermeer as well as contemporary art are analysed – with a side glance on contemporary natural scientific developments too.
+
+*"Structures of light. Light in the Time of Rembrandt and Vermeer":http://www.lichtgefuege.de/index.html, November 18th 2011 to Februrary 26th 2012, Museum Schloss Wilhelmshöhe, Kassel*
