@@ -52,14 +52,12 @@
     :title_de: Tagung 2011
     :url: about/tagung2011/index
     :content:
-    - :title_en: Program
-      :title_de: Programm
       :url: about/tagung2011/index
     - :title_en: Sections
       :title_de: Sektionen
       :url: about/tagung2011/sections
-    - :title_en: Abstracts
-      :title_de: Abstracts
+    - :title_en: Lectures
+      :title_de: Vorträge
       :url: about/tagung2011/abstracts
     - :title_en: Venue
       :title_de: Anfahrt
