@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "Tagung 2011 - Vortr\xC3\xA4ge und Videos online"
+author: Lisa
+tags: 
+- tagung
+- "vortr\xC3\xA4ge"
+---
+Nun ist es endlich so weit! Viele Vorträge bzw. Präsentationen der Vorträge unserer Jubiläumstagung am 4./5. November 2011 sind online!!! Zudem haben wir bereits einige Videos der Vorträge veröffentlicht. Wir arbeiten auf Hochtouren, um auch die restlichen Videos in Kürze zugänglich zu machen. Diese werden sukzessive eingestellt. Viel Spaß beim Nachlesen und Anschauen! Zu den Veröffentlichungen geht's <a href="<%=r 'tagung2011/lectures' %>">hier</a>.
