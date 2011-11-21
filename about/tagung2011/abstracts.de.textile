@@ -1,33 +1,52 @@
 --- 
 layout: default
-title: abstracts
+title: "Vortr\xC3\xA4ge"
 ---
-h2. Abstracts
+<h2 style="margin-bottom:5px;">Die digitale Perspektive - eine schöne Aussicht?</h2>
+
+<h3 style="margin-top:0px;">verbinden - verorten - verwandeln - verankern</h3>
+| am 4./5. November 2011 an der Universität zu Köln
+Hauptgebäude, Neuer Senatssaal
+"» Anfahrtskizze":<%=r 'about/tagung2011/venue#directions' %>
+<br>
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre feiert "runden Geburtstag":<%=r 'about/10years' %>: 10 Jahre, in denen sich eine "Netzwerkgesellschaft" etabliert und die digitalen Bildwissenschaften eine rasante Entwicklung genommen haben.
+<br>
+Die Jubiläumstagung liefert eine kritische Standortbestimmung und fragt nach Entwicklungen und Visionen in Kunstgeschichte, Archäologie und anderen bildbasierten Wissenschaften, wie auch im Museums- und Kulturbereich. Zusammenführung von heterogenen Datenbeständen, standortbezogene Dienste und 3D-Technologien bilden dabei Schwerpunktthemen, die kritisch beleuchtet und methodisch verankert werden. Die theoretische Reflexion schließt Fragen des Urheberrechts, des offenen Zugangs zu digitaler Information, der Etablierung sozialer Netzwerke und didaktische Fragestellungen (E-Learning) ein.
+<br>
+Den Flyer zur Tagung finden Sie "hier":<%=r 'files/text/Flyer_Tagung_prometheus_2011.pdf' %>. 
+ |  !<%=r "files/images/prometh_poster_web_klein.jpg" %>(Plakat Tagung)!:<%=r "files/images/prometh_poster_web.jpg" %> |
+<br>
+
+h2. <%= page_title %>
+
+*Festvortrag*
+Prof. Dr. Hubertus Kohle (Ludwig-Maximilians-Universität München, Department Kunstwissenschaften)
+*Prometheus als Prinzip. Über das Arbeiten im Internet* "»PDF":<%=r '/files/text/10years_lectures/kohle_laudatio.pdf' %>
 
 h3. Sektion 1: verbinden
 
 Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum)
-*Linked Open Cultural Heritage. Herausforderungen, Risiken und Chancen der Datenvernetzung im Bereich des Kulturerbes*
+*Linked Open Cultural Heritage. Herausforderungen, Risiken und Chancen der Datenvernetzung im Bereich des Kulturerbes* "»PDF":<%=r '/files/text/10years_lectures/hohmann_linked-cultural-heritage.pdf' %> "»Video":<%=r 'http://vimeo.com/32315881' %>
 
 Das prometheus-Bildarchiv wurde vor 10 Jahren mit der Idee aus der Taufe gehoben, eine
 gemeinsame digitale Diathek für die kooperierenden Institute zu erstellen. Kernaufgabe war und ist damit die Zusammenführung unterschiedlicher, heterogener Datenbestände, um ein übergreifendes Retrieval der Daten über eine homogene Oberfläche zu ermöglichen. Dieser integrative Aspekt ist auch in modernen Rahmenwerken zur Datenverarbeitung im Internet von zentraler Bedeutung. Das Semantic Web stellt ein vollständig neues Netzparadigma dar, das mit zahlreichen innovativen Techniken Datenintegration über alle Grenzen hinweg ermöglichen will. Nicht nur für den Bereich des Kulturerbes ergeben sich damit zahlreiche Vorteile: Datenressourcen öffnen sich und sind über definierte Schnittstellen frei zugänglich, Wissen lässt sich über alle Grenzen hinweg vernetzen und aggregieren. Und noch nie zu vor war es möglich, das eigene Wissen der Fachgemeinschaft ohne Verzögerung zur Verfügung zu stellen und in den Fachdiskurs einzubringen. Dabei stellt aber nicht nur die Beherrschung der vorausgesetzten Technologien einer Herausforderung dar. Auch Aspekte wie Verlässlichkeit und Vollständigkeit von Information, Referenzierbarkeit oder rechtliche Rahmenbedingungen bergen im neuen Netzparadigma zahlreiche Risiken. Nicht zuletzt muss der/die Forscher/in seinen/ihren Platz als Individuum in einer immer stärker vernetzten Welt der Wissensressourcen behaupten und neu definieren.
 <br>
 <br>
 PD Dr. Martin Warnke (Leuphana Universität Lüneburg, Institut für Kultur und Ästhetik Digitaler Medien)
-*Motive vernetzen - Meta-Image als Bild-Zettelkasten*
+*Motive vernetzen - Meta-Image als Bild-Zettelkasten* "»PDF":<%=r '/files/text/10years_lectures/warnke_meta-image.pdf' %> "»Video":<%=r 'http://vimeo.com/32325456' %>
 
 Schon prometheus selbst schafft als Datenbankportal Zusammenhänge, die sich in Sammlungen von Bildern und als Kooperationen zwischen Nutzerinnen und Nutzern ausprägen. Meta-Image, ein DFG-Projekt zwischen prometheus, der Humboldt-Universität und der Leuphana Universität Lüneburg, geht noch einen Schritt weiter, und vernetzt Bilder und deren Details miteinander. So entstehen Netzwerke von Bildmotiven, aber auch von Kunsthistorikerinnen und Kunsthistorikern, die die Bildvernetzung anlegen. So eröffnet sich die Möglichkeit, über Bilder und ihre Rezeption über ihre Vernetzung mehr zu erfahren, als es dem bloßen Auge möglich wäre. Was bedeutet das für die Ikonographie, was für die Wissensproduktion der Kunstgeschichte?
 <br>
 <br>
 Susanne Schumacher M.A. (Zürich, Zürcher Hochschule der Künste)
-*Medien und Begriffe: Ordnungsformen im Medienarchiv der Künste*
+*Medien und Begriffe: Ordnungsformen im Medienarchiv der Künste* "»PDF":<%=r '/files/text/10years_lectures/schumacher_media-archive.pdf' %> "»Video":<%=r 'http://vimeo.com/32440754' %>
 
 Das Medienarchiv der Künste ist eine Plattform für mediales Arbeiten, die an der Zürcher Hochschule der Künste konzipiert und realisiert wird. Als Open-Source-Produkt ist es ein flexibles Datenbanksystem und stellt spezifische Ordnungsformen für seine NutzerInnen bereit. Dies geschieht auf einer individuellen und einer institutionellen Ebene, wobei jeweils die inhaltlichen Begriffe die zentralen Ordnungsformen darstellen. Zum einen gruppieren und teilen individuelle NutzerInnen oder einzelne Teams im Medienarchiv ihre audio-visuellen Medien. Gemeinsam erarbeiten sie Kategorien entsprechend den Fragestellungen ihrer Projekte. Das schrittweise entstandene Fachwissen bilden sie gemeinsam mit den zugehörigen Medien ab. Zum anderen ist für Institutionen das gesamte Datenbanksystem in seiner Grundstruktur sehr einfach auf die entsprechenden Bedürfnisse anpassbar. Das Metadatenmodell sowie das Mapping zu importierten und exportierten Standards werden durch Administratoren frei geformt und schrittweise erweitert.
 Der Beitrag führt beide Ebenen anhand konkreter Nutzungsszenarien der Zürcher Hochschule der Künste vor und zeigt wie solche Techniken auch für andere Institutionen konfiguriert werden und für Arbeitsformen in der Kunstgeschichte hilfreich sein können.
 <br>
 <br>
 Prof. Dr. Dieter Merkl (TU Wien, Institute of Software Technology and Interactive Systems)
-*Informationsextraktion aus einer Kunst Folksonomie*
+*Informationsextraktion aus einer Kunst Folksonomie* "»PDF":<%=r '/files/text/10years_lectures/merkl_folksonomy.pdf' %>
 
 Über eine im Rahmen eines Forschungsprojektes erstellte Web-Plattform zur kontextualisierten Darstellung von Kunstwerken, dem explorARTorium ("http://www.explorARTorium.info/":http://www.explorARTorium.info/), wurden im Verlauf von mehreren Monaten Schlagworte (Tags) gesammelt, die Besucher der Plattform mit den jeweiligen Kunstwerken assoziieren. So wurden bis jetzt mehr als 94.000 Tags für etwa 11.000 Kunstwerke von den Besuchern vergeben. Damit wurde eine umfangreiche Folksonomie zu Werken der Kunstgeschichte geschaffen, die derzeit ausgewertet wird. In dieser Präsentation werden die Fragestellungen der Auswertung sowie interessante erste Ergebnisse thematisiert. Insgesamt lassen sich aus den Auswertungen Rückschlüsse über den kunsthistorischen Wahrnehmungshorizont der Besucher der Plattform herleiten, was eine genauere Einteilung in verschiedene Besuchergruppen ermöglicht.
 <br>
@@ -36,20 +55,20 @@ Prof. Dr. Dieter Merkl (TU Wien, Institute of Software Technology and Interactiv
 h3. Sektion 2: verorten
 
 Dr. Elke Allgaier (Stuttgart, Staatsgalerie)
-*Per QR-Code ins Museum: Der Stirlingwalk der Staatsgalerie Stuttgart*
+*Per QR-Code ins Museum: Der Stirlingwalk der Staatsgalerie Stuttgart* "»PDF":<%=r '/files/text/10years_lectures/allgaier_qr-code.pdf' %>
 
 James Frazer Stirling zählt zu den einflussreichsten Architekten und Designern des 20. Jahrhunderts. In der Zeit vom 1.10.2011 bis 15.01.2012 zeigt die Staatsgalerie die Ausstellung „James Stirling – Notes from the Archive. Krise der Moderne“. Das vielleicht größte Exponat ist die im Jahr 1984 eröffnete ‚Neue Staatsgalerie’ (Architekten: Stirling, Wilford & Associates, London). Das Museumsteam stellt sich die Aufgabe, dieses Exponat in seiner Gesamtheit und mit weiteren Gebäuden in der unmittelbaren Umgebung in die Ausstellung zu integrieren. Im Zuge dessen wird auf die QR-Technologie zugegriffen: Per Smartphone können an 12 Stationen in der Umgebung des Ausstellungskomplexes Begleitinformationen über den Scan eines QR-Codes abgerufen werden. Damit erhält das Publikum vor Ort auf unkomplizierte Weise Zugang zu Infos und Fakten.
 <br>
 <br>
 Lydia Horn (Berlin, mobile melting GmbH)
-*Storytude - mobile storytelling*
+*Storytude - mobile storytelling* "»PDF":<%=r '/files/text/10years_lectures/horn_storytude.pdf' %>
 
 Smartphones bringen vielerlei Funktionen mit, die es erlauben, dem Nutzer passgenau und vor allem direkt vor Ort Informationen zu liefern. Mittels Internet, großem Display, Audio- und Video-Fähigkeit und GPS lassen sich überall und jederzeit Gebäude erklären, Geschichte aufleben lassen und Orte in einen neuen Rahmen setzen. Genau das versucht "storytude", eine App für iPhones und Android-Handys. In mehreren deutschen Städten bietet storytude Audio-Touren an, die per GPS auf den Aufenthaltsort des Nutzers reagieren und so automatisch die zum Ort passenden Informationen liefern.
 storytude orientiert sich dabei stark am Infotainment und versucht sich sogar an Docufiction. Erzählerfiguren begleiten den Nutzer auf seiner Tour durch die Stadt. Hörspiel-Sequenzen und Sound-Montagen lassen Historisches oder   Fiktionales aufleben. Die dabei "erlaufenen" Orte werden also mit einem Geschichten-Layer überzogen und mit Bedeutung aufgeladen. Hier überschneidet sich das Projekt im Kernnutzen mit klassischen Augmented Reality-Anwendungen. Jedoch wird nicht mit visuellen Überblendungen gearbeitet, wie es die klassische Augmented Reality tut, sondern mehrheitlich mit Audio-Inhalten. Die Nutzung des auditiven Kanals lässt die Augen des Nutzers frei für das Erleben des Ortes. Seit Mai 2011 ist storytude mit seinen beiden Apps auf dem Markt. Die Inhalte werden für 2,39 bis 6,99 Euro zum Kauf angeboten (Paid-Content). Die ersten Ergebnisse sind vielversprechend, obwohl der Verkaufskanal AppStore bzw. Android Market durchaus ein schwieriges Umfeld sein können. Die Aspekte der Vermarktung, der technischen Möglichkeiten, der Rezeptionsweise und des Business Modells werden in dem Vortrag näher vorgestellt.
 <br>
 <br>
 PD Dr. Holger Simon (Köln, pausanio GmbH & Co. KG)
-*Mit dem Kulturwecker unterwegs - Kunst und Kultur mobil*
+*Mit dem Kulturwecker unterwegs - Kunst und Kultur mobil* "»PDF":<%=r '/files/text/10years_lectures/simon_kulturwecker.pdf' %>
 
 Kunst und Kultur hat stets einen Ort. Sehenswürdigkeiten prägen nicht selten über Jahrhunderte die Umgebung ihrer Standorte und kulturelle Ereignisse nehmen stets Bezug auf den sie umgebenden Raum. Geschichte kann an diesen Orten erinnert und ein Stück erlebbar werden und das ganz praktisch: in der Erfahrung eines historisch gewachsenen Raumes.
 Solche Orte, solche Städte und Landschaften, ziehen in Deutschland pro Jahr 9,45 Mio. Städte- und Kulturreisende an, die mehrfach im Jahr eine Kurzreise tätigen. Mit über 80 Mrd. EUR Umsatz ist der Städtetourismus zu einem sehr wichtigem in manchen Regionen zu dem entscheidenden Wirtschaftsfaktor geworden. Kunst- und Städtereisende beleben vor Ort nicht nur die Gastronomie, sondern ein großer Teil von ihnen wünscht vor Ort vor allem Information über die Stadt, ihre historische Entwicklung und deren Sehenswürdigkeiten.
@@ -62,7 +81,7 @@ Der Kulturwecker steht hierbei nicht nur für ein zentrales Feature in der "Paus
 h3. Sektion 3: verwandeln
 
 Dipl.-Inform. Matthias Trapp (Universität Potsdam, HPI)
-*Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen*
+*Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen* "»PDF":<%=r '/files/text/10years_lectures/trapp_colonia3d.pdf' %>
 
 Der Vortrag stellt die Ergebnisse des interdisziplinären Projektes Colonia3D vor. Die digitale 3D Rekonstruktion des antiken Köln ist das Ergebnis eines gemeinsamen Forschungsprojekts des Archäologischen Instituts der Universität zu Köln, der Köln International School of Design (KISD) der Fachhochschule Köln, des Hasso-Plattner Instituts an der Universität Potsdam und des Römisch Germanischen Museums (RGM) Köln. Der Beitrag präsentiert die wesentlichen Konzepte dieses interaktiven, auf Museen ausgerichteten 3D-Informationssystems, beschreibt verschiedene Präsentationsmodi und deren technische Umsetzung.  Es werden Vorgehensweisen und Interaktionskonzepte diskutiert, die den Benutzer während der Erkundung und Bewegung im virtuellen 3D-Stadtmodell unterstützen. Weiter werden Potenziale für digitale Museen und Ausstellungen skizziert.
 <br>
@@ -74,7 +93,7 @@ Nahezu alle großen Museumshäuser verfügen heute über virtuelle Rundgänge, d
 <br>
 <br>
 Martin Adam (UdK Berlin, Fachbereich Gesellschafts- und Wirtschaftkommunikation)
-*Augmented Reality erweckt Pergamon zu neuem Leben*
+*Augmented Reality erweckt Pergamon zu neuem Leben* "»PDF":<%=r '/files/text/10years_lectures/adam_mcrumbs.pdf' %>
 
 Das mobile Internet und die Smartphones bieten Museen die Möglichkeit, das Erlebnisgefühl der Besucher zu steigern und Informationen breiter aber auch gezielter zu vermitteln.
 Kernthemen des „Neuen Museums“ sind:
