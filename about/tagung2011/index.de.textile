@@ -12,7 +12,6 @@ Hauptgebäude, Neuer Senatssaal
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre feiert "runden Geburtstag":<%=r 'about/10years' %>: 10 Jahre, in denen sich eine "Netzwerkgesellschaft" etabliert und die digitalen Bildwissenschaften eine rasante Entwicklung genommen haben.
 <br>
 Die Jubiläumstagung liefert eine kritische Standortbestimmung und fragt nach Entwicklungen und Visionen in Kunstgeschichte, Archäologie und anderen bildbasierten Wissenschaften, wie auch im Museums- und Kulturbereich. Zusammenführung von heterogenen Datenbeständen, standortbezogene Dienste und 3D-Technologien bilden dabei Schwerpunktthemen, die kritisch beleuchtet und methodisch verankert werden. Die theoretische Reflexion schließt Fragen des Urheberrechts, des offenen Zugangs zu digitaler Information, der Etablierung sozialer Netzwerke und didaktische Fragestellungen (E-Learning) ein.
-
 <br>
 Den Flyer zur Tagung finden Sie "hier":<%=r 'files/text/Flyer_Tagung_prometheus_2011.pdf' %>. 
  |  !<%=r "files/images/prometh_poster_web_klein.jpg" %>(Plakat Tagung)!:<%=r "files/images/prometh_poster_web.jpg" %> |
