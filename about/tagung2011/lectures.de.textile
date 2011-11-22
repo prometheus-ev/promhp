@@ -51,6 +51,14 @@ Prof. Dr. Dieter Merkl (TU Wien, Institute of Software Technology and Interactiv
 Über eine im Rahmen eines Forschungsprojektes erstellte Web-Plattform zur kontextualisierten Darstellung von Kunstwerken, dem explorARTorium ("http://www.explorARTorium.info/":http://www.explorARTorium.info/), wurden im Verlauf von mehreren Monaten Schlagworte (Tags) gesammelt, die Besucher der Plattform mit den jeweiligen Kunstwerken assoziieren. So wurden bis jetzt mehr als 94.000 Tags für etwa 11.000 Kunstwerke von den Besuchern vergeben. Damit wurde eine umfangreiche Folksonomie zu Werken der Kunstgeschichte geschaffen, die derzeit ausgewertet wird. In dieser Präsentation werden die Fragestellungen der Auswertung sowie interessante erste Ergebnisse thematisiert. Insgesamt lassen sich aus den Auswertungen Rückschlüsse über den kunsthistorischen Wahrnehmungshorizont der Besucher der Plattform herleiten, was eine genauere Einteilung in verschiedene Besuchergruppen ermöglicht.
 <br>
 <br>
+*_Projektvorstellung - Shortcuts_*
+Dr. Andreas Rutz (Universität Bonn, Institut für Geschichtswissenschaft)
+*Das digitale Historische Archiv*
+<br>
+Dr. Maria Effinger (Universitätsbibliothek Heidelberg)
+*German Sales 1933-1945* "»PDF":<%=r '/files/text/10years_lectures/effinger_german-sales.pdf' %>
+<br>
+<br>
 
 h3. Sektion 2: verorten
 
@@ -75,6 +83,14 @@ Solche Orte, solche Städte und Landschaften, ziehen in Deutschland pro Jahr 9,4
 Seit dem Handy und verstärkt mit Durchsetzung der Smartphones im Jahre 2007 beflügeln die mobilen Technologien vielfältige Geschäftsideen, Informationen für Städte- und Kulturreisende mobile auf die Endgeräte der Bucher anzubieten. Doch wer sind diese Besucher eigentlich, was wünschen sie vor Ort und für welchen Mehrwert sind sie letztendlich bereit zu zahlen? 
 Mit der Pausanio GmbH&Co.KG "www.pausanio.de":http://www.pausanio.de/ haben wir uns dieser Herausforderung gestellt und seit 2009 mehrere Angebote entwickelt, um das Informationsbedürfnis der Besucher vor Ort zu stillen. Anhand dieser Angebote sollen in dem Vortrag die Möglichkeiten aber auch Hürden der mobilen Technologie anschaulich gemacht und kritisch diskutiert werden. 
 Der Kulturwecker steht hierbei nicht nur für ein zentrales Feature in der "Pausanio-App":http://itunes.apple.com/de/app/pausanio-kunst-und-kultur/id431589151?mt=8, sondern ist zugleich eine Metapher für die Suche nach dem Besucher vor Ort und dem Interesse, ihn für Kunst und Kultur zu wecken.
+<br>
+<br>
+*_Projektvorstellungen – Shortcuts_*
+Katalin Bélyácz (Budapest, Museum of Fine Arts)
+*Die Datenbankprojekte der Antikensammlung* "»PDF":<%=r '/files/text/10years_lectures/belyacz_databases-budapest.pdf' %>
+<br>
+Fabian Cremer (Universität Frankfurt a.M., Kunstgeschichtliches Institut)
+*ConedaKOR*
 <br>
 <br>
 
@@ -108,6 +124,14 @@ Simon Rein M.A. (Staatliche Museen zu Berlin - Preußischer Kulturbesitz)
 *Pixel und Pinselstriche - Die Staatlichen Museen zu Berlin in Googles "Art Project"*
 
 Googles "Art Project" ermöglicht den beteiligten Museen, ihre Kunstschätze auf neue Art und Weise im Internet zu präsentieren, indem es mehrere virtuelle Darstellungsfunktionen miteinander verbindet. Räume der Museumsgebäude können in virtuellen Rundgängen durchschritten werden. Informationen zu ausgewählten Werken sind in einer Bilddatenbank hinterlegt. Auch das Zusammenstellen von Werken zu persönlichen Online-Galerien ist möglich. Je Museum wird darüber hinaus ein Gemälde in besonders hoher Auflösung gezeigt, die Details erkennbar werden läßt, die dem menschlichen Auge verborgen bleiben. Die Staatlichen Museen zu Berlin sind mit der Gemäldegalerie und Alten Nationalgalerie am Projekt beteiligt.
+<br>
+<br>
+*_Projektvorstellungen – Shortcuts_*
+Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum)
+*WissKI* "»PDF":<%=r '/files/text/10years_lectures/hohmann_wisski.pdf' %>
+<br>
+Prof. Dr. Gunnar Heydenreich (FH Köln, Institut für Restaurierungs- und Konservierungswissenschaft)
+*Cranach Digital Archive*
 <br>
 <br>
 
