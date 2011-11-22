@@ -1,9 +1,29 @@
---- 
+---
 layout: post
 title: "Tagung 2011 - Vortr\xC3\xA4ge und Videos online"
 author: Lisa
-tags: 
+tags:
 - tagung
 - "vortr\xC3\xA4ge"
 ---
 Nun ist es endlich so weit! Viele Vorträge bzw. Präsentationen der Vorträge unserer Jubiläumstagung am 4./5. November 2011 sind online!!! Zudem haben wir bereits einige Videos der Vorträge veröffentlicht. Wir arbeiten auf Hochtouren, um auch die restlichen Videos in Kürze zugänglich zu machen. Diese werden sukzessive eingestellt. Viel Spaß beim Nachlesen und Anschauen! Zu den Veröffentlichungen geht's <a href="<%=r 'about/tagung2011/lectures' %>">hier</a>.
+
+<!-- START Vimeo Badge ... info at http://vimeo.com/widget -->
+<style type="text/css">
+<!--
+/* You can modify these CSS styles */
+.vimeoBadge { margin: 0; padding: 0; font: normal 11px verdana,sans-serif; }
+.vimeoBadge img { border: 0; }
+.vimeoBadge a, .vimeoBadge a:link, .vimeoBadge a:visited, .vimeoBadge a:active { color: #3A75C4; text-decoration: none; cursor: pointer; }
+.vimeoBadge a:hover { color:#00CCFF; }
+.vimeoBadge #vimeo_badge_logo { margin-top:10px; width: 57px; height: 16px; }
+.vimeoBadge .credit { font: normal 11px verdana,sans-serif; }
+.vimeoBadge .clip { padding:0; float:left; margin:0 10px 10px 0; width:100px; line-height:0; }
+.vimeoBadge .caption { font: normal 11px verdana,sans-serif; overflow:hidden; width:100px; height: 50px; }
+.vimeoBadge .clear { display: block; clear: both; visibility: hidden; }
+-->
+</style>
+<div class="vimeoBadge">
+      <script type="text/javascript" src="http://vimeo.com/prometheusbildarchiv/badgeo/?stream=album&amp;stream_id=1752626&amp;count=9&amp;thumbnail_width=100&amp;show_titles=yes"></script>
+  </div>
+<!-- END Vimeo Badge -->
