@@ -12,9 +12,9 @@ Als bundesweites Verbundprojekt startete "prometheus - Das verteilte digitale Bi
 h3. Drei Projektjahre, vier Hochschulen, acht Institute
 
 An der Projektentwicklung und -umsetzung von  prometheus  waren in den drei Jahren neben den neun Projektverantwortlichen insgesamt über
-50 Mitarbeiter/-innen und Hilfskräfte aus vier Hochschulen und acht Instituten beteiligt.
+50 MitarbeiterInnen und Hilfskräfte aus vier Hochschulen und acht Instituten beteiligt.
 
-Es war von Anbeginn das Ziel der Projektarbeit, über die Grenzen der einzelnen Disziplinen hinweg einen wirklich interdisziplinären Austausch zu fördern, damit alle Mitarbeiter/-innen einen Einblick in die unterschiedlichsten Arbeitsfelder gewinnen und an deren Entscheidungsfindungen teilhaben konnten.
+Es war von Anbeginn das Ziel der Projektarbeit, über die Grenzen der einzelnen Disziplinen hinweg einen wirklich interdisziplinären Austausch zu fördern, damit alle MitarbeiterInnen einen Einblick in die unterschiedlichsten Arbeitsfelder gewinnen und an deren Entscheidungsfindungen teilhaben konnten.
 Die Hauptarbeitsfelder verteilten sich auf die Hochschulen und Institute wie folgt:
 
 h4. Hochschule Anhalt (FH):

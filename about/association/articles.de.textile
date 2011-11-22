@@ -51,7 +51,7 @@ h3. § 6 Beginn und Ende der Mitgliedschaft
 h3. § 7 Mitgliedsbeiträge
 
 # Für die Höhe der jährlichen Mitgliedsbeiträge, Aufnahmegebühren und Umlagen ist die jeweils gültige Beitragsordnung maßgebend, die von der Mitgliederversammlung beschlossen wird.
-# Der Mitgliedsbeitrag beträgt 50 €/Jahr, für Studierende, Auszubildende, Volontäre/-innen und Arbeitslose 25 €/Jahr und für juristische Personen und Gesamthandsgemeinschaften 180 €/Jahr.
+# Der Mitgliedsbeitrag beträgt 50 €/Jahr, für Studierende, Auszubildende, VolontärInnen und Arbeitslose 25 €/Jahr und für juristische Personen und Gesamthandsgemeinschaften 180 €/Jahr.
 # Der Beitrag ist zahlbar für ein Kalenderjahr im Voraus. Die Beitragszahlung hat jeweils bis spätestens zum letzten Werktag im April des jeweiligen Kalenderjahres zu erfolgen. Bei Neueintritt ist der Mitgliedsbeitrag in voller Höhe für das laufende Kalenderjahr zu entrichten
 
 h3. § 8 Organe des Vereins
@@ -121,4 +121,4 @@ h3. § 13 Geschäftsführung
 h3. § 14 Verwendung der Einkünfte und Mitgliedsbeiträge
 
 # Bei Auflösung des Vereins oder Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung der in § 2 genannten Aufgaben. Beschlüsse über die zukünftige Verwendung des Vermögens dürfen erst nach Einwilligung des Finanzamts ausgeführt werden.
-# Als Liquidatoren/-innen werden die im Amt befindlichen Vorstandsmitglieder bestimmt, soweit die Mitgliederversammlung nichts anderes abschließend beschließt.
+# Als LiquidatorInnen werden die im Amt befindlichen Vorstandsmitglieder bestimmt, soweit die Mitgliederversammlung nichts anderes abschließend beschließt.
