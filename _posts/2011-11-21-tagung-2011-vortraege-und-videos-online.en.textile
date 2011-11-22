@@ -24,6 +24,6 @@ Nun ist es endlich so weit! Viele Vorträge bzw. Präsentationen der Vorträge u
 -->
 </style>
 <div class="vimeoBadge">
-      <script type="text/javascript" src="http://vimeo.com/prometheusbildarchiv/badgeo/?stream=album&amp;stream_id=1752626&amp;count=9&amp;thumbnail_width=100&amp;show_titles=yes"></script>
+      <script type="text/javascript" src="http://vimeo.com/prometheusbildarchiv/badgeo/?stream=album&amp;stream_id=1752626&amp;count=12&amp;thumbnail_width=100&amp;show_titles=yes"></script>
   </div>
 <!-- END Vimeo Badge -->
