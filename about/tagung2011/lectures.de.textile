@@ -53,7 +53,7 @@ Prof. Dr. Dieter Merkl (TU Wien, Institute of Software Technology and Interactiv
 <br>
 *_Projektvorstellung - Shortcuts_*
 Dr. Andreas Rutz (Universität Bonn, Institut für Geschichtswissenschaft)
-*Das digitale Historische Archiv*
+*Das digitale Historische Archiv* "»Video":<%=r 'http://vimeo.com/32314294' %>
 <br>
 Dr. Maria Effinger (Universitätsbibliothek Heidelberg)
 *German Sales 1933-1945* "»PDF":<%=r '/files/text/10years_lectures/effinger_german-sales.pdf' %>
