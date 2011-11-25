@@ -5,4 +5,4 @@
 * "Ferret":https://github.com/dbalmain/ferret
 * "Lingo":http://lex-lingo.de/
 * "Apache":http://httpd.apache.org/
-* GNU/Linux, namely "Debian":http://debian.org/ and "Red Hat Enterprise Linux":http://redhat.com/rhel/
+* GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
