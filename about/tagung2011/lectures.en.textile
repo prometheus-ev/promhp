@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Lectures
 ---
@@ -138,7 +138,7 @@ Prof. Dr. Gunnar Heydenreich (FH Köln, Institut für Restaurierungs- und Konser
 h3. Sektion 4: verankern
 
 PD Dr. Pascal Weitmann (Christian-Albrechts-Universität zu Kiel, Klassische Archäologie)
-*Grundsätzliche Grenzen komplexerer digitaler Darstellungen*
+*Grundsätzliche Grenzen komplexerer digitaler Darstellungen* "»PDF":<%=r '/files/text/10years_lectures/weitmann_grundsaetzliche-grenzen_thesenfassung.pdf' %>
 
 Die Tagung soll auch einer kritischen Bestandsaufnahme dienen, und in diesem Sinne sollen wesentliche und prinzipielle Grenzen digitaler Darstellungsweise aus der Sicht eines Kunstwissenschaftlers benannt werden. Erstens zum Problem der Simulation, deren immanente Begrenztheit in Erinnerung gerufen werden soll. Zweitens zum avisierten neuen Grad von Vernetzung, bei dem beachtet werden muss, dass genuin geisteswissenschaftliches Denken nicht unter einem technozistischen Diktat vernichtet wird. Drittens das 'e-learning', auf dessen außenbestimmte Befürwortung und interne Rückschrittlichkeit hingewiesen werden muss.
 <br>
