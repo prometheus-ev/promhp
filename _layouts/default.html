@@ -136,12 +136,15 @@
       <div id="navigation"><%= page.navigation %></div>
 
       <div id="social_links">
-        <a href="http://facebook.com/prometheus.bildarchiv" title="<%=t 'Visit us on Facebook', 'Besuchen Sie uns bei Facebook' %>"><img src="<%=r 'files/icons/facebook.png' %>" alt="facebook" /></a>
-        <a href="http://twitter.com/prometheus_eV" title="<%=t 'Follow us on Twitter', 'Folgen Sie uns bei Twitter' %>"><img src="<%=r 'files/icons/twitter.png' %>" alt="twitter" /></a>
+        <a href="http://facebook.com/prometheus.bildarchiv" title="<%=t 'Visit us on Facebook', 'Besuchen Sie uns bei Facebook' %>"><img src="<%=r 'files/icons/facebook.png' %>" alt="Facebook" /></a>
+        <a href="http://twitter.com/prometheus_eV" title="<%=t 'Follow us on Twitter', 'Folgen Sie uns bei Twitter' %>"><img src="<%=r 'files/icons/twitter.png' %>" alt="Twitter" /></a>
+        <a href="http://localhost:3000/en/subscribe" title="<%=t 'Subscribe to our Newsletter', 'Abonnieren Sie unseren Newsletter' %>"><img src="<%=r 'files/icons/newsletter.png' %>" alt="Newsletter" /></a>
+        <a href="atom.xml.en" title="<%=t 'Subscribe to our Blog', 'Abonnieren Sie unser Blog' %>"><img src="<%=r 'files/icons/rss.png' %>" alt="RSS" /></a>
+        <br /><br class="vspace1" />
         <a href="http://vimeo.com/prometheusbildarchiv" title="<%=t 'Watch our videos on Vimeo', 'Sehen Sie sich unsere Videos auf Vimeo an' %>"><img src="<%=r 'files/icons/vimeo.png' %>" alt="Vimeo" /></a>
-        <a href="http://www.flickr.com/photos/prometheus_eV/" title="<%=t 'Look at our photos on Flickr', 'Betrachten Sie unsere Fotos auf Flickr' %>"><img src="<%=r 'files/icons/flickr.png' %>" alt="Flickr" /></a>
-        <a href="<%=p 'subscribe' %>" title="<%=t 'Subscribe to our newsletter', 'Abonnieren Sie unseren Newsletter' %>"><img src="<%=r 'files/icons/newsletter.png' %>" alt="newsletter" /></a>
-        <a href="<%=r "atom.xml.#{page.lang}" %>" title="<%=t 'Subscribe to our Blog', 'Abonnieren Sie unser Blog' %>"><img src="<%=r 'files/icons/rss.png' %>" alt="rss" /></a>
+        <a href="http://flickr.com/photos/prometheus_eV" title="<%=t 'Look at our photos on Flickr', 'Betrachten Sie unsere Fotos auf Flickr' %>"><img src="<%=r 'files/icons/flickr.png' %>" alt="Flickr" /></a>
+        <a href="http://youtube.com/user/metaimage1" title="<%=t 'Watch Meta-Image tutorials on YouTube', 'Sehen Sie sich Meta-Image-Tutorials auf YouTube an' %>"><img src="<%=r 'files/icons/youtube.png' %>" alt="YouTube" /></a>
+        <a href="https://github.com/prometheus-ev" title="<%=t 'Follow our coding activities on GitHub', 'Verfolgen Sie unsere Entwicklunsgaktivitäten auf GitHub' %>"><img src="<%=r 'files/icons/github.png' %>" alt="GitHub" /></a>
       </div>
 
     <% if blog?(page.url) -%>
