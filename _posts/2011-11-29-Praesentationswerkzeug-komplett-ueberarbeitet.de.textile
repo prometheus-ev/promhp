@@ -11,7 +11,7 @@ tags:
 Zugegeben, unser Präsentationswerkzeug fristete in der Vergangenheit eher ein Schattendasein. Nur Wenige nutzen es und dies sicher nicht völlig ohne Grund. Doch im Rahmen des Projektes "Meta-Image":http://meta-image.de/ wurde hier einiges getan. Das Werkzeug zum Erstellen und Anzeigen von Präsentationen wurde weitgehend überarbeitet und um die Funktionalitäten eines Lichttisches erweitert.
 
 Wo sich bisher nur starr entscheiden ließ, in welcher Reihenfolge Bilder angezeigt werden sollten, gibt es nun diverse neue Möglichkeiten. Es wird Ihnen in Zukunft möglich sein, die Bilder in Ihrere Präsentation frei anzuordnen, mit Text zu versehen, in der Größe zu verändern und Bildausschnitte anzufertigen - um nur das Gröbste zu nennen.
-Die gesamte Benutzeroberfläche zum Erstellen und Bearbeiten von Präsentationen wurde überarbeitet.
+Es wurden aber nicht einfach neue Funktionen hinzugefügt, sondern die gesamte Benutzeroberfläche ist überarbeitet worden. Natürlich findet die Arbeit an Ihren Präsentationen auch weiterhin bequem komplett im Webbrowser statt.
 
 Alle Informationen zu Ihren neuen Möglichkeiten und wie Sie diese nutzen können, finden Sie "in unserer Hilfe":<%=p 'help/presentation' %>, die wir auch gleich noch um "einige erklärende Screencasts":http://youtube.com/playlist?list=PL7D957BB24638F8C7 ergänzt haben.
 
