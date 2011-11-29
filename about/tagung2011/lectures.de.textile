@@ -90,7 +90,7 @@ Katalin Bélyácz (Budapest, Museum of Fine Arts)
 *Die Datenbankprojekte der Antikensammlung* "»PDF":<%=r '/files/text/10years_lectures/belyacz_databases-budapest.pdf' %> "»Video":http://vimeo.com/32578046
 <br>
 Fabian Cremer (Universität Frankfurt a.M., Kunstgeschichtliches Institut)
-*ConedaKOR*
+*ConedaKOR* "»Video":http://vimeo.com/32856842
 <br>
 <br>
 
