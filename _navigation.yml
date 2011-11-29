@@ -78,6 +78,16 @@
   - :title_en: Members of Staff
     :title_de: MitarbeiterInnen
     :url: about/staff
+  - :title_en: Jobs
+    :title_de: Jobs
+    :url: about/jobs
+    :content:
+    - :title_en: Student Assistant
+      :title_de: Studentische Hilfskraft
+      :url: about/jobs/shk
+    - :title_en: Software Developer
+      :title_de: SoftwareentwicklerIn
+      :url: about/jobs/developer
 - :title_en: Conference 2011
   :title_de: Tagung 2011
   :url: about/tagung2011
