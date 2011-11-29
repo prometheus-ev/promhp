@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Camoin, Charles: Autoportrait (Detail), 1910, \xC3\x96l auf Leinwand, 60 x 43 cm, Genf, Mus\xC3\xA9e du Petit Palais; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Modigliani, Amedeo: Jeanne H\xC3\xA9buterne (Detail), 1918, \xC3\x96l auf Leinwand, Pasadena, Norton Simon Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Modigliani, Amedeo: Hancka Zboroska (Detail), 1917, \xC3\x96l auf Leinwand, 46,5 x 38,5 cm, Privatsammlung; Mediathek, Heinrich-Heine-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, D\xC3\xBCsseldorf "
+- "Dongen, Kees van: Jasmy Jacob (Detail), 1920, \xC3\x96l auf Leinwand, Paris, Centre Pompidou; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Mondrian, Piet: Tableau No.1, Rautenkomposition mit drei Linien und Blau (Detail), 1925, \xC3\x96l auf Leinwand, 80 x 80 cm, Z\xC3\xBCrich, Kunsthaus, Vereinigung Z\xC3\xBCrcher Kunstfreunde; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Matisse, Henri: Odaliske mit linkem, angewinkelten Bein (Detail), 1926, \xC3\x96l auf Leinwand, 65 x 46 cm, Baltimore, Baltimore Museum of Art; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Matisse, Henri: Odaliske mit grauer Hose (Detail), 1926-27, \xC3\x96l auf Leinwand, Paris, Mus\xC3\xA9e de l'Orangerie; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Bonnard, Pierre: Das Gespr\xC3\xA4ch in Arcachon (Detail), 1930, \xC3\x96l auf Leinwand, Paris, Mus\xC3\xA9e du Petit Palais Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+title: "\xC3\x89cole de Paris"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: From impressionism to abstract painting
+date: 2011/11/29
+teaser: "Around 1900 Paris was the centre of art in Europe. "
+collection: 29117
+---
+Around 1900 Paris was the centre of art in Europe. The term „École de Paris“ describes not one style ore one artist group, but all artists, who worked at that time in Paris. Important artistic developments of modern art, from impressionism to abstract painting, started here at the turn of the century. The collection of the Petit Palais in Genf tries to show the whole spectrum of that time and is now represented with 96 loan collections in the Kunstsammlungen Jena.
+
+*"From Renoir to Picasso – artists of the École de Paris, paintings and drawings from the collection of the Petit Palais, Genf":http://www.jena.de/sixcms/detail.php?id=188926&_nav_id1=58181&_nav_id2=72744&_lang=de, 4th December 2011 – 3th March 2012, Kunstsammlungen Jena*
