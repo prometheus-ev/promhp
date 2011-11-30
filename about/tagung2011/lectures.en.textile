@@ -97,7 +97,7 @@ Fabian Cremer (Universität Frankfurt a.M., Kunstgeschichtliches Institut)
 h3. Sektion 3: verwandeln
 
 Dipl.-Inform. Matthias Trapp (Universität Potsdam, HPI)
-*Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen* "»PDF":<%=r '/files/text/10years_lectures/trapp_colonia3d.pdf' %>
+*Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen* "»PDF":<%=r '/files/text/10years_lectures/trapp_colonia3d.pdf' %> "»Video":http://vimeo.com/32903320
 
 Der Vortrag stellt die Ergebnisse des interdisziplinären Projektes Colonia3D vor. Die digitale 3D Rekonstruktion des antiken Köln ist das Ergebnis eines gemeinsamen Forschungsprojekts des Archäologischen Instituts der Universität zu Köln, der Köln International School of Design (KISD) der Fachhochschule Köln, des Hasso-Plattner Instituts an der Universität Potsdam und des Römisch Germanischen Museums (RGM) Köln. Der Beitrag präsentiert die wesentlichen Konzepte dieses interaktiven, auf Museen ausgerichteten 3D-Informationssystems, beschreibt verschiedene Präsentationsmodi und deren technische Umsetzung.  Es werden Vorgehensweisen und Interaktionskonzepte diskutiert, die den Benutzer während der Erkundung und Bewegung im virtuellen 3D-Stadtmodell unterstützen. Weiter werden Potenziale für digitale Museen und Ausstellungen skizziert.
 <br>

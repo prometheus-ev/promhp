@@ -97,7 +97,7 @@ Fabian Cremer (Universität Frankfurt a.M., Kunstgeschichtliches Institut)
 h3. Sektion 3: verwandeln
 
 Dipl.-Inform. Matthias Trapp (Universität Potsdam, HPI)
-*Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen* "»PDF":<%=r '/files/text/10years_lectures/trapp_colonia3d.pdf' %>
+*Colonia3D - Potenziale interaktiver Kommunikation von digitaler Denkmalpflege in öffentlichen Räumen* "»PDF":<%=r '/files/text/10years_lectures/trapp_colonia3d.pdf' %> "»Video":http://vimeo.com/32903320
 
 Der Vortrag stellt die Ergebnisse des interdisziplinären Projektes Colonia3D vor. Die digitale 3D Rekonstruktion des antiken Köln ist das Ergebnis eines gemeinsamen Forschungsprojekts des Archäologischen Instituts der Universität zu Köln, der Köln International School of Design (KISD) der Fachhochschule Köln, des Hasso-Plattner Instituts an der Universität Potsdam und des Römisch Germanischen Museums (RGM) Köln. Der Beitrag präsentiert die wesentlichen Konzepte dieses interaktiven, auf Museen ausgerichteten 3D-Informationssystems, beschreibt verschiedene Präsentationsmodi und deren technische Umsetzung.  Es werden Vorgehensweisen und Interaktionskonzepte diskutiert, die den Benutzer während der Erkundung und Bewegung im virtuellen 3D-Stadtmodell unterstützen. Weiter werden Potenziale für digitale Museen und Ausstellungen skizziert.
 <br>
@@ -105,7 +105,7 @@ Der Vortrag stellt die Ergebnisse des interdisziplinären Projektes Colonia3D vo
 Dr. Daniel Hornuff (HfG Karlsruhe, Fachbereich Kunstwissenschaft und Medientheorie)
 *Kunst im 3D-Rundgang. Was bringt das virtuelle Museum?*
 
-Nahezu alle großen Museumshäuser verfügen heute über virtuelle Rundgänge, die vom heimischen PC aus ‚begehbar’ werden. Die navigierbaren 3D-Ansichten stellen eine Art digitale Panoramaschau ‚realer‘ Ausstellungsräume zur Verfügung. Der Beitrag stellt die Frage nach der Funktion der Kunst in solchen Online-Auftritten. Worauf zielen Inszenierungen, in denen Kunst ohne Betrachter ausgestellt wird? Gerät die Kunst in eine Konkurrenzsituation zur Konsumwelt? – schließlich bieten alle großen Automobilkonzerne ebenfalls virtuelle Rundgänge durch Firmenhistorie und Produkthighlights an. Oder aber: Soll die Kunst zur Internet-Autorität aufgebaut werden, sobald die Rundgänge eine Distanz zu massenkulturellen Plattformen, Netzwerken und Portalen betonen?  Und wie verhalten sich ästhetisches Erlebnis, Informationswert und Archivfunktion zueinander? 
+Nahezu alle großen Museumshäuser verfügen heute über virtuelle Rundgänge, die vom heimischen PC aus ‚begehbar’ werden. Die navigierbaren 3D-Ansichten stellen eine Art digitale Panoramaschau ‚realer‘ Ausstellungsräume zur Verfügung. Der Beitrag stellt die Frage nach der Funktion der Kunst in solchen Online-Auftritten. Worauf zielen Inszenierungen, in denen Kunst ohne Betrachter ausgestellt wird? Gerät die Kunst in eine Konkurrenzsituation zur Konsumwelt? – schließlich bieten alle großen Automobilkonzerne ebenfalls virtuelle Rundgänge durch Firmenhistorie und Produkthighlights an. Oder aber: Soll die Kunst zur Internet-Autorität aufgebaut werden, sobald die Rundgänge eine Distanz zu massenkulturellen Plattformen, Netzwerken und Portalen betonen?  Und wie verhalten sich ästhetisches Erlebnis, Informationswert und Archivfunktion zueinander?
 <br>
 <br>
 Martin Adam (UdK Berlin, Fachbereich Gesellschafts- und Wirtschaftkommunikation)
