@@ -109,7 +109,7 @@ Nahezu alle großen Museumshäuser verfügen heute über virtuelle Rundgänge, d
 <br>
 <br>
 Martin Adam (UdK Berlin, Fachbereich Gesellschafts- und Wirtschaftkommunikation)
-*Augmented Reality erweckt Pergamon zu neuem Leben* "»PDF":<%=r '/files/text/10years_lectures/adam_mcrumbs.pdf' %>
+*Augmented Reality erweckt Pergamon zu neuem Leben* "»PDF":<%=r '/files/text/10years_lectures/adam_mcrumbs.pdf' %> "»Video":http://vimeo.com/32909805
 
 Das mobile Internet und die Smartphones bieten Museen die Möglichkeit, das Erlebnisgefühl der Besucher zu steigern und Informationen breiter aber auch gezielter zu vermitteln.
 Kernthemen des „Neuen Museums“ sind:

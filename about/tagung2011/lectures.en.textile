@@ -105,11 +105,11 @@ Der Vortrag stellt die Ergebnisse des interdisziplinären Projektes Colonia3D vo
 Dr. Daniel Hornuff (HfG Karlsruhe, Fachbereich Kunstwissenschaft und Medientheorie)
 *Kunst im 3D-Rundgang. Was bringt das virtuelle Museum?*
 
-Nahezu alle großen Museumshäuser verfügen heute über virtuelle Rundgänge, die vom heimischen PC aus ‚begehbar’ werden. Die navigierbaren 3D-Ansichten stellen eine Art digitale Panoramaschau ‚realer‘ Ausstellungsräume zur Verfügung. Der Beitrag stellt die Frage nach der Funktion der Kunst in solchen Online-Auftritten. Worauf zielen Inszenierungen, in denen Kunst ohne Betrachter ausgestellt wird? Gerät die Kunst in eine Konkurrenzsituation zur Konsumwelt? – schließlich bieten alle großen Automobilkonzerne ebenfalls virtuelle Rundgänge durch Firmenhistorie und Produkthighlights an. Oder aber: Soll die Kunst zur Internet-Autorität aufgebaut werden, sobald die Rundgänge eine Distanz zu massenkulturellen Plattformen, Netzwerken und Portalen betonen?  Und wie verhalten sich ästhetisches Erlebnis, Informationswert und Archivfunktion zueinander? 
+Nahezu alle großen Museumshäuser verfügen heute über virtuelle Rundgänge, die vom heimischen PC aus ‚begehbar’ werden. Die navigierbaren 3D-Ansichten stellen eine Art digitale Panoramaschau ‚realer‘ Ausstellungsräume zur Verfügung. Der Beitrag stellt die Frage nach der Funktion der Kunst in solchen Online-Auftritten. Worauf zielen Inszenierungen, in denen Kunst ohne Betrachter ausgestellt wird? Gerät die Kunst in eine Konkurrenzsituation zur Konsumwelt? – schließlich bieten alle großen Automobilkonzerne ebenfalls virtuelle Rundgänge durch Firmenhistorie und Produkthighlights an. Oder aber: Soll die Kunst zur Internet-Autorität aufgebaut werden, sobald die Rundgänge eine Distanz zu massenkulturellen Plattformen, Netzwerken und Portalen betonen?  Und wie verhalten sich ästhetisches Erlebnis, Informationswert und Archivfunktion zueinander?
 <br>
 <br>
 Martin Adam (UdK Berlin, Fachbereich Gesellschafts- und Wirtschaftkommunikation)
-*Augmented Reality erweckt Pergamon zu neuem Leben* "»PDF":<%=r '/files/text/10years_lectures/adam_mcrumbs.pdf' %>
+*Augmented Reality erweckt Pergamon zu neuem Leben* "»PDF":<%=r '/files/text/10years_lectures/adam_mcrumbs.pdf' %> "»Video":http://vimeo.com/32909805
 
 Das mobile Internet und die Smartphones bieten Museen die Möglichkeit, das Erlebnisgefühl der Besucher zu steigern und Informationen breiter aber auch gezielter zu vermitteln.
 Kernthemen des „Neuen Museums“ sind:
