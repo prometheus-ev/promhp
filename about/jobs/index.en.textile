@@ -11,7 +11,7 @@ We currently have the following openings:
 * *Student assistant* for our office (10 hours/week, deadline: 31/12/2011)
   "» job posting":<%=r 'about/jobs/shk' %>
 
-* *Software developer* for application development and systems administration (full time, deadline: 15/01/2012)
+* *Software developer* for application development and systems administration (full time, deadline: 30/12/2012)
   "» job posting":<%=r 'about/jobs/developer' %>
 
 Should you have any questions, just contact "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de.

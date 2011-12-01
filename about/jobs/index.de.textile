@@ -11,7 +11,7 @@ Zur Zeit haben wir folgende Stellen ausgeschrieben:
 * *Studentische Hilfskraft* für die Geschäftsstelle (10 Wochenstunden, Bewerbungsschluss: 31.12.2011)
   "» zur Ausschreibung":<%=r 'about/jobs/shk' %>
 
-* *SoftwareentwicklerIn* zur Anwendungsentwicklung und Systemadministration (Vollzeit, Bewerbungsschluss: 15.01.2012)
+* *SoftwareentwicklerIn* zur Anwendungsentwicklung und Systemadministration (Vollzeit, Bewerbungsschluss: 30.12.2012)
   "» zur Ausschreibung":<%=r 'about/jobs/developer' %>
 
 Für Rückfragen könnt Ihr euch gerne an "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de wenden.
