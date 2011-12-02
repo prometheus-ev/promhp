@@ -47,12 +47,6 @@ priority: 1.0
         %>
       </li>
     </ul>
-  <% if first_post = local_posts.first -%>
-    <p>
-      <strong><%=t 'News', 'Aktuell' %>:</strong>
-      <a href="<%=r(first_post.url)%>" title="<%= "#{date_to_string(first_post.date)}: #{first_post.title}" %>"><%= first_post.title %></a>
-    </p>
-  <% end -%>
   </div>
 
   <div id="sticker">
@@ -62,27 +56,20 @@ priority: 1.0
 
 <br class="clear-float" />
 
-<div id="section-10years">
-  <h3 class="section-title"><%=t 'We are celebrating', 'Wir feiern' %></h3>
+<% unless (posts = news_posts).empty? -%>
+<div id="section-news">
+    <h3 class="section-title"><%=t 'Recent news', 'Aktuelle Neuigkeiten' %></h3>
 
-  <div class="section-item">
-    <a href="<%=r 'about/10years' %>" title="<%= title = t('10 years prometheus', '10 Jahre prometheus') %>"><img src="<%=r "files/images/logo_10years.#{page.lang}.jpg" %>" alt="<%= title %>" /></a>
-
-    <h4 class="section-heading"><%=t "It's time to celebrate", 'prometheus hat Geburtstag' %></h4>
-    <%=t 'Ten exciting, successful, inspiring and eventful years lie behind us. You contributed essentially with your support. THANK YOU!', 'Zehn aufregende, erfolgreiche, inspirierende und ereignisreiche Jahre liegen hinter uns, zu denen Sie mit Ihrer Unterstützung maßgeblich beigetragen haben. HERZLICHEN DANK!' %>
-
-  <br />
-
-  <%=t 'Do you remember? Funded by the BmB+F, prometheus started in 2001. At that time, most of us were using slide projection in the classroom.', 'Erinnern Sie sich noch? prometheus startete 2001 als BmB+F gefördertes Verbundprojekt. Damals wurde in den bildbasierten Fächern noch vorwiegend mit Dias gearbeitet.' %>
-
-    <span>
-      <span class="pale">|</span>
-      <a href="<%=r 'about/10years' %>"><%=t '» milestones', '» Meilensteine' %></a>
-    </span>
-  </div>
+    <div class="section-item">
+    <% posts.each_with_index do |post, index| -%>
+      <%= '<span class="pale">+++</span>' if index > 0 %>
+      <a href="<%=r post.url %>" title="<%= "#{date_to_string(post.date)}: #{post.title}" %>"><%= post.title %></a>
+    <% end -%>
+    </div>
 </div>
 
 <br class="clear-float" />
+<% end -%>
 
 <div id="series-front">
   <!--#include virtual="${current_series}/teaser.html.<%= page.lang %>" -->

@@ -3,6 +3,7 @@ layout: post
 title: Jetzt auch Zahlung via PayPal möglich
 author: Arne
 tags:
+- news
 - paypal
 - zugang
 - lizenzen

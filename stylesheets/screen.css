@@ -158,7 +158,7 @@
 }
 
 #content .header-line {
-  margin:            1em 10px 0.5em 10px;
+  margin:            0.5em 10px;
   padding-left:      0;
   width:             95%;
 }
@@ -173,6 +173,7 @@
 
 #sticker {
   width:             110px;
+  margin-top:        -10px;
   margin-left:       8px;
 }
 
@@ -213,17 +214,28 @@
   padding-right:     1em;
 }
 
-#series-front .section-item {
-  min-height:        120px;
+#section-news .section-item {
+  padding:           0.5em 0.7em;
+  margin-top:        1.5em;
+  line-height:       1.5em;
 }
 
 #section-10years .section-item {
   min-height:        180px;
 }
 
+#series-front .section-item {
+  min-height:        120px;
+}
+
 .section-item > a {
   float:             left;
   margin-right:      2em;
+}
+
+#section-news .section-item > a {
+  float:             none;
+  margin-right:      inherit;
 }
 
 #section-10years .section-item > a {

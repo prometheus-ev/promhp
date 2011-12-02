@@ -3,4 +3,8 @@ layout: post
 title: "Tagung 2011 - Fotos, Vortr\xC3\xA4ge und Videos online"
 author: Lisa
 tags: 
+- news
+- tagung
+- "vortr\xC3\xA4ge"
+- fotos
 ---

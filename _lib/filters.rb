@@ -166,6 +166,23 @@ module Jekyll
       %Q{<span id="user_count">#{t('over 11,000', 'über 11.000')}</span>}
     end
 
+    def tagged_posts(tag, num = 0)
+      posts, cnt = [], 0
+
+      local_posts.each { |post|
+        if post.tags.include?(tag)
+          posts << post
+          break if num > 0 && (cnt += 1) >= num
+        end
+      }
+
+      posts
+    end
+
+    def news_posts(num = 4)
+      tagged_posts('news', num)
+    end
+
   end
 
 end

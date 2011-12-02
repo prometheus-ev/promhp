@@ -3,6 +3,7 @@ layout: post
 title: Präsentationswerkzeug komplett überarbeitet
 author: Arne
 tags:
+- news
 - pandora
 - update
 - präsentationen
