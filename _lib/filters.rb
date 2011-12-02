@@ -151,7 +151,7 @@ module Jekyll
     end
 
     def record_count
-      %Q{<span id="record_count">#{t('more than 750,000', 'mehr als 750.000')}</span>}
+      %Q{<span id="record_count">#{t('more than 820,000', 'mehr als 820.000')}</span>}
     end
 
     def source_count
@@ -163,7 +163,7 @@ module Jekyll
     end
 
     def user_count
-      %Q{<span id="user_count">#{t('over 10,000', 'über 10.000')}</span>}
+      %Q{<span id="user_count">#{t('over 11,000', 'über 11.000')}</span>}
     end
 
   end
