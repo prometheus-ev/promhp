@@ -12,7 +12,7 @@ descriptions:
 title: Cyclades
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: Marble Idols
-date: 
+date: 2011/11/29
 teaser: The active exchanges with neighbouring peoples and the use of the new raw material bronze impacted the environment on the Cyclades in the third millennium B.C.
 collection: 29297
 ---
