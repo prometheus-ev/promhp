@@ -1,0 +1,13 @@
+---
+layout: post
+title: Wir stellen ein!
+author: Arne
+tags:
+- news
+- job
+- team
+---
+Bei uns ist gerade wieder einiges in Bewegung. Deshalb werden in Kürze auch zwei Stellen in unserem Team frei, die wir mit netten und kompetenten Menschen besetzen möchten. So suchen wir nun zum einen "eine/n Softwareentwickler/in":<%=r 'about/jobs/developer' %> zur Anwendungsentwicklung und Systemadministration (Vollzeit) und zum anderen eine "Studentische Hilfskraft":<%=r 'about/jobs/shk' %> für die Geschäftsstelle (10 Wochenstunden).
+Alle wichtigen Informationen finden sich in den entsprechenden "Stellenausschreibungen":<%=r 'about/jobs/' %>.
+
+Fühlen Sie sich also angesprochen oder kennen Sie jemanden mit Interesse, in einem jungen und aufgeschlossenen Team ein tolles Projekt voran zu treiben? Wir freuen uns über Bewerbungen.
