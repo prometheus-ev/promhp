@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Owens, Laura: o.T. (Detail), 1999, \xC3\x96l auf Leinwand, 120 x 120 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Owens, Laura: o.T. (Detail), 2002, Acryl, \xC3\x96l auf Leinen, 213,5 x 335 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Owens, Laura: o.T. (Detail), 2004, \xC3\x96l und Acryl auf Leinwand, 223 x 234 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Owens, Laura: o.T. (Detail), 2004, \xC3\x96l und Acryl auf Leinwand, 152,5 x 122 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Owens, Laura: o.T. (Detail), 2001, Acryl, \xC3\x96l auf Leinwand, 117 x 137 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Owens, Laura: o.T. (Detail), 2002, Acryl, \xC3\x96l auf Leinen, 137 x 122 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Owens, Laura: o.T. (Detail), \xC3\x96l und Acryl auf Leinwand, 86,3 x 91,4 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Owens, Laura: o.T. (Detail), 2000, Acryl, \xC3\x96l und Wasserfarbe auf Leinwand, 169 x 183 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+title: Laura Owens
+author: Hendrikje Hendrikje
+subtitle: Poetisches
+date: 2011/12/07
+teaser: "Die aktuellen im Kunstmuseum Bonn ausgestellten Arbeiten der US-amerikanischen K\xC3\xBCnstlerin Laura Owens sind poetisch zart."
+collection: 29392
+---
+Die aktuellen im Kunstmuseum Bonn ausgestellten Arbeiten der US-amerikanischen Künstlerin Laura Owens sind poetisch zart. Es ist die erste Einzelausstellung der Künstlerin in einem deutschen Museum, nachdem Owens bereits in renommierten Museen, wie dem Museum of Contemporary Art in Los Angeles (2003), der Kunsthalle Zürich (2006) und dem Bonnefantenmuseum in Maastricht (2007) ausgestellt hat. Neben einigen Buchunikaten sind großformatige Gemälde ausgestellt.
+
+*"LAURA OWENS":http://www.kunstmuseum-bonn.de/ausstellungen/aktuell/info/ex/laura-owens-897/, bis 08. Januar 2012, Kunstmuseum Bonn*

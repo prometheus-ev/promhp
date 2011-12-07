@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Owens, Laura: untitled (Detail), 1999, \xC3\x96l auf Leinwand, 120 x 120 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Owens, Laura: untitled (Detail), 2002, Acryl, \xC3\x96l auf Leinen, 213,5 x 335 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Owens, Laura: untitled (Detail), 2004, \xC3\x96l und Acryl auf Leinwand, 223 x 234 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Owens, Laura: untitled (Detail), 2004, \xC3\x96l und Acryl auf Leinwand, 152,5 x 122 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Owens, Laura: untitled (Detail), 2001, Acryl, \xC3\x96l auf Leinwand, 117 x 137 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Owens, Laura: untitled (Detail), 2002, Acryl, \xC3\x96l auf Leinen, 137 x 122 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Owens, Laura: untitled (Detail), \xC3\x96l und Acryl auf Leinwand, 86,3 x 91,4 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Owens, Laura: untitled (Detail), 2000, Acryl, \xC3\x96l und Wasserfarbe auf Leinwand, 169 x 183 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+title: Laura Owens
+author: Hendrikje Hendrikje
+subtitle: Poetical
+date: 2011/12/07
+teaser: The shown art works of the American artist Laura Owens are poetically tender.
+collection: 29392
+---
+The shown art works of the American artist Laura Owens are poetically tender. The current exhibition in the Kunstmuseum Bonn is her first solo exhibition in Germany, after presenting her works in well-respected museums like the Museum of Contemporary Art in Los Angeles (2003), the Kunsthalle Zürich (2006) and the Bonnefantenmuseum in Maastricht (2007). Next to some unique bookworks there are shown large-sized canvas.
+
+*"LAURA OWENS":http://www.kunstmuseum-bonn.de/en/ausstellungen/aktuell/info/ex/laura-owens-897/, to January 08th 2012, Kunstmuseum Bonn*
