@@ -121,7 +121,7 @@ Die mCRUMBS GmbH ist einer der erfahrensten Projektentwickler im Bereich Augment
 <br>
 <br>
 Simon Rein M.A. (Staatliche Museen zu Berlin - Preußischer Kulturbesitz)
-*Pixel und Pinselstriche - Die Staatlichen Museen zu Berlin in Googles "Art Project"* "»Video":http://vimeo.com/32961996
+*Pixel und Pinselstriche - Die Staatlichen Museen zu Berlin in Googles "Art Project"*
 
 Googles "Art Project" ermöglicht den beteiligten Museen, ihre Kunstschätze auf neue Art und Weise im Internet zu präsentieren, indem es mehrere virtuelle Darstellungsfunktionen miteinander verbindet. Räume der Museumsgebäude können in virtuellen Rundgängen durchschritten werden. Informationen zu ausgewählten Werken sind in einer Bilddatenbank hinterlegt. Auch das Zusammenstellen von Werken zu persönlichen Online-Galerien ist möglich. Je Museum wird darüber hinaus ein Gemälde in besonders hoher Auflösung gezeigt, die Details erkennbar werden läßt, die dem menschlichen Auge verborgen bleiben. Die Staatlichen Museen zu Berlin sind mit der Gemäldegalerie und Alten Nationalgalerie am Projekt beteiligt.
 <br>
