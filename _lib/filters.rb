@@ -53,6 +53,18 @@ module Jekyll
       title
     end
 
+    def stylesheet_link(name, media = 'all', id = nil)
+      %Q{<link rel="stylesheet" type="text/css" href="#{asset_path_for("stylesheets/#{name}.css")}" media="#{media}"#{%Q{ id="#{id}"} if id} />}
+    end
+
+    def javascript_link(name)
+      %Q{<script src="#{asset_path_for("javascripts/#{name}.js")}" type="text/javascript"></script>}
+    end
+
+    def asset_path_for(file)
+      "#{r(file)}?#{File.mtime(file).to_i.to_s}"
+    end
+
     def paginator_first_link
       if href = @paginator.first_link
         %Q{<a href="#{r(href)}"><div class="icon_first"></div></a>}
