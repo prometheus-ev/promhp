@@ -27,6 +27,7 @@
 
 .series-items {
   margin-top:        2.5em;
+  clear:             both;
 }
 
 .series-items > div + div {
