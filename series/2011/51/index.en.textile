@@ -1,21 +1,21 @@
 --- 
 layout: series
 descriptions: 
-- "Augustineraltar, Detail: Geburt Christi, um 1360, Erfurt, Angermuseum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
-- "Masolino: Madonna dell'Umilt\xC3\xA0 (Detail), um 1415-1420, Tempera auf Holz, 110,5 x 62 cm, Florenz, Galleria degli Uffizi; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
-- "Raffael: Sixtinische Madonna (Detail), 1512 \xE2\x80\x93 1513, \xC3\x96l auf Leinwand, 265 x 196 cm, Dresden, Gem\xC3\xA4ldegalerie; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
-- "Caravaggio: Madonna di Loreto (Detail), 1603, \xC3\x96l auf Leinwand, 260 x 150 cm, Rom, Sant'Agostino; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
-- "Dyce, William: Madonna (Detail), 1845, \xC3\x96l auf Leinwand, 80 x 63,5 cm, London; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
-- "Picasso, Pablo: Madonna (Detail), 1909, \xC3\x96l auf Leinwand, 92 x 73 cm, Z\xC3\xBCrich, Kunsthaus, Horta; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
-- "Gallen-Kallela, Akseli: Madonna (Detail), 1891, \xC3\x96l auf Leinwand, 48 x 36 cm, Helsinki, Espoo, Gallen-Kallela Museum; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
-- "Frowein, Marc: Adventskalender-Madonna (Detail), 20. Jh., Postkarte, 15 x 10,5 cm; Datenbank Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Clara Peeters: Stillleben mit Fischen (Detail), 1611, \xC3\x96l auf Holz, 50 x 71,6 x cm, Madrid, Museo del Prado; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "Jan Baptist Weenix: Stillleben mit totem Rebhuhn (Detail), nach 1647, \xC3\x96l auf Leinwand, 50,6 x 43,5 cm, Den Haag, Koninklijk Kabinet van Schilderijen Mauritshuis; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Jean-Babtiste Oudry: Hase und Hammelkeule (Detail), um 1742, \xC3\x96l auf Leinwand, 89,2 x 73,5 cm, Cleveland; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Jean-Baptiste Sim\xC3\xA9on Chardin: Rebhuhn mit Birne (Detail), 1748, \xC3\x96l auf Leinwand, 39,2 x 45,5 cm, Frankfurt (Main), St\xC3\xA4del; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Francisco Jos\xC3\xA9 de Goya: Gerupfte Pute (Detail), zwischen 1810 und 1823, \xC3\x96l auf Leinwand, 44,8 x 62,4 cm,  M\xC3\xBCnchen, Bayerische Staatsgem\xC3\xA4ldesammlungen, Neue Pinakothek; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin"
+- "\xC3\x89douard Manet: Fisch und Austern (Detail), 1864, \xC3\x96l auf Leinwand, ohne Ma\xC3\x9Fangaben, Chicago, The Art Institute; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "James Ensor: Stillleben mit Ente (Detail), 1910, ohne Materialangaben, 80 x 100 cm, Rotterdam, \xC3\xB6ffentliche Sammlung, Museum Boymans-van Beuningen EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Lovis Corinth: Der Hase (Detail), 1921, \xC3\x96l auf Pappe, 65 x 85 cm, Berlin, Kunsthandel; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
 author: "Hendrikje H\xC3\xBCneke"
-title: Madonna
-subtitle: 
+title: Beauty and death
+subtitle: Animal still lifes
 date: 2011/12/14
-teaser: And she gave birth to her first son
-collection: 29498
+teaser: Over the centuries death animals remain in art as a common motif of still lifes.
+collection: 29633
 ---
+Over the centuries death animals remain in art as a common motif of still lifes. Such as the relationship between animals and humans changed in this period, lastly with the animal rights movement in the 20th century, function and symbolism of the animal still lifes have changed too. An exhibition in Karlsruhe is dealing with this alteration from the renaissance to modern art and is presenting pictures by Dürer, Rubens, Metsu, Weenix, Chardin, Goya, Manet, Sisley, Ensor und Beckmann. 
 
-
-And she gave birth to her first son and wrapped him in swaddling clothes and laid him in a manger for they had otherwise no room in the inn.
+*"Of beauty and death. Animal still lifs from the renaissance to the modern":http://www.kunsthalle-karlsruhe.de/caw2_index.php?page_id=951&lang=de, 19th  of November 2011 to 19th of February 2012, Kunsthalle Karlsruhe*
