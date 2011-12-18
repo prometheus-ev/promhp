@@ -1,0 +1,19 @@
+--- 
+layout: series
+descriptions: 
+- "Augustineraltar, Detail: Geburt Christi, um 1360, Erfurt, Angermuseum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Masolino: Madonna dell'Umilt\xC3\xA0 (Detail), um 1415-1420, Tempera auf Holz, 110,5 x 62 cm, Florenz, Galleria degli Uffizi; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Raffael: Sixtinische Madonna (Detail), 1512 \xE2\x80\x93 1513, \xC3\x96l auf Leinwand, 265 x 196 cm, Dresden, Gem\xC3\xA4ldegalerie; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Caravaggio: Madonna di Loreto (Detail), 1603, \xC3\x96l auf Leinwand, 260 x 150 cm, Rom, Sant'Agostino; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Dyce, William: Madonna (Detail), 1845, \xC3\x96l auf Leinwand, 80 x 63,5 cm, London; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Picasso, Pablo: Madonna (Detail), 1909, \xC3\x96l auf Leinwand, 92 x 73 cm, Z\xC3\xBCrich, Kunsthaus, Horta; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Gallen-Kallela, Akseli: Madonna (Detail), 1891, \xC3\x96l auf Leinwand, 48 x 36 cm, Helsinki, Espoo, Gallen-Kallela Museum; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Frowein, Marc: Adventskalender-Madonna (Detail), 20. Jh., Postkarte, 15 x 10,5 cm; Datenbank Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+author: "Hendrikje H\xC3\xBCneke"
+title: Madonna
+subtitle: 
+date: 2011/12/19
+teaser: Und sie gebar ihren ersten Sohn
+collection: 
+---
+Und sie gebar ihren ersten Sohn und wickelte ihn in Windeln und legte ihn in eine Krippe, denn sie hatten sonst keinen Raum in der Herberge. 
