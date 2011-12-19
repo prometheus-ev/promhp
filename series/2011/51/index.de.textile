@@ -1,7 +1,7 @@
 --- 
 layout: series
 descriptions: 
-- "Clara Peeters: Stillleben mit Fischen (Detail), 1611, \xC3\x96l auf Holz, 50 x 71,6 x cm, Madrid, Museo del Prado; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "Clara Peeters: Stillleben mit Fischen (Detail), 1611, \xC3\x96l auf Holz, 50 x 71,6 cm, Madrid, Museo del Prado; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
 - "Jan Baptist Weenix: Stillleben mit totem Rebhuhn (Detail), nach 1647, \xC3\x96l auf Leinwand, 50,6 x 43,5 cm, Den Haag, Koninklijk Kabinet van Schilderijen Mauritshuis; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
 - "Jean-Babtiste Oudry: Hase und Hammelkeule (Detail), um 1742, \xC3\x96l auf Leinwand, 89,2 x 73,5 cm, Cleveland; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
 - "Jean-Baptiste Sim\xC3\xA9on Chardin: Rebhuhn mit Birne (Detail), 1748, \xC3\x96l auf Leinwand, 39,2 x 45,5 cm, Frankfurt (Main), St\xC3\xA4del; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
@@ -16,6 +16,6 @@ date: 2011/12/14
 teaser: "\xC3\x9Cber Jahrhunderte hinweg sind tote Tiere in der Kunst ein \xC3\xBCbliches Motiv im Stillleben geblieben."
 collection: 29633
 ---
-Über Jahrhunderte hinweg sind tote Tiere in der Kunst ein übliches Motiv im Stillleben geblieben. So wie sich aber das Verhältnis zwischen Mensch und Tier in diesem Zeitraum geändert hat, zuletzt durch die Tierrechtsbewegung im 20. Jahrhundert, so haben sich auch Funktion und Bildsymbolik der Tierstillleben gewandelt. Eine Ausstellung in Karlsruhe ist diesem Wandel von der Renaissance bis heute gewidmet und zeigt unter anderem Werke von Dürer, Rubens, Metsu, Weenix, Chardin, Goya, Manet, Sisley, Ensor und Beckmann. 
+Über Jahrhunderte hinweg sind tote Tiere in der Kunst ein übliches Motiv im Stillleben geblieben. So wie sich aber das Verhältnis zwischen Mensch und Tier in diesem Zeitraum geändert hat, zuletzt durch die Tierrechtsbewegung im 20. Jahrhundert, so haben sich auch Funktion und Bildsymbolik der Tierstillleben gewandelt. Eine Ausstellung in Karlsruhe ist diesem Wandel von der Renaissance bis in die Moderne gewidmet und zeigt unter anderem Werke von Dürer, Rubens, Metsu, Weenix, Chardin, Goya, Manet, Sisley, Ensor und Beckmann. 
 
 *"Von Schönheit und Tod. Tierstillleben von der Renaissance bis zur Moderne":http://www.kunsthalle-karlsruhe.de/caw2_index.php?page_id=951&lang=de, 19. November 2011 bis 19. Februar 2012, Kunsthalle Karlsruhe*

@@ -1,7 +1,7 @@
 --- 
 layout: series
 descriptions: 
-- "Clara Peeters: Stillleben mit Fischen (Detail), 1611, \xC3\x96l auf Holz, 50 x 71,6 x cm, Madrid, Museo del Prado; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "Clara Peeters: Stillleben mit Fischen (Detail), 1611, \xC3\x96l auf Holz, 50 x 71,6 cm, Madrid, Museo del Prado; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
 - "Jan Baptist Weenix: Stillleben mit totem Rebhuhn (Detail), nach 1647, \xC3\x96l auf Leinwand, 50,6 x 43,5 cm, Den Haag, Koninklijk Kabinet van Schilderijen Mauritshuis; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
 - "Jean-Babtiste Oudry: Hase und Hammelkeule (Detail), um 1742, \xC3\x96l auf Leinwand, 89,2 x 73,5 cm, Cleveland; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
 - "Jean-Baptiste Sim\xC3\xA9on Chardin: Rebhuhn mit Birne (Detail), 1748, \xC3\x96l auf Leinwand, 39,2 x 45,5 cm, Frankfurt (Main), St\xC3\xA4del; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
