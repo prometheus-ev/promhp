@@ -15,9 +15,12 @@ h4. Projektlaufzeit:
 
 01.12.2009 - 30.11.2011
 
-h4. Link:
+h4. Links:
 
-*"» zur Meta-Image Projektseite":http://www.meta-image.de/*
+*"» Meta-Image Projektseite":http://www.meta-image.de/*
+
+"» Handbuch":<%=r 'files/text/meta_image_handbuch.pdf' %>
+"» Screencasts":http://youtube.com/playlist?list=PL0C175C7A135D8BD2
 
 h3. Projektbeschreibung
 

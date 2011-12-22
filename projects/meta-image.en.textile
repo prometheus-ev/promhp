@@ -15,9 +15,12 @@ h4. Duration of the project:
 
 01.12.2009 - 30.11.2011
 
-h4. Link:
+h4. Links:
 
 *"» Homepage of the Meta-Image project":http://www.meta-image.de*
+
+"» Manual":<%=r 'files/text/meta_image_handbuch.pdf' %>
+"» Screencasts":http://youtube.com/playlist?list=PL0C175C7A135D8BD2
 
 h3. Project description
 
