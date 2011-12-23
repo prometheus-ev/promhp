@@ -1,0 +1,27 @@
+--- 
+layout: post
+author: Lisa
+title: Meta-Image freigeschaltet
+tags: 
+- news
+- meta-image
+---
+Nach zwei Jahren intensiver Arbeit ist es endlich soweit! Mit
+"Meta-Image" - der Integration des genuin bildorientierten Mediums
+"HyperImage" in prometheus - ist es nun möglich, auf das Bilddetail
+zielende Bilddiskurstechniken anzuwenden. In dem über die
+prometheus-Bildsammlungen aufzurufenden "Meta-Image"-Editor kann
+individuell und/oder mit mehreren Nutzer/innen an beliebigen Projekten
+gearbeitet werden. Bilddetails werden präzise markiert, beschrieben und
+miteinander verknüpft. Die freigegebenen Meta-Informationen werden in
+das Bildarchiv zurückgeführt, um für die gesamte Forschungsgemeinschaft
+zur Verfügung zu stehen. Das Projekt wird von der DFG unter dem
+Projekttitel "Aufbau einer verteilten virtuellen Forschungs- und
+Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte im
+Programm Wissenschaftliche Literaturversorgungs- und Informationssysteme
+(LIS)" gefördert. Beteiligt sind die Universität zu Köln, die
+Leuphana-Universität Lüneburg und die Humboldt-Universität zu Berlin.
+
+Weitere Informationen entnehmen Sie bitte dem "Meta-Image-Handbuch":http://prometheus-bildarchiv.de/de/files/text/meta_image_handbuch.pdf
+oder der "Meta-Image-Homepage":http://meta-image.de. Zusätzlich
+gibt es auch "Video-Tutorials":http://youtube.com/playlist?list=PL0C175C7A135D8BD2, die die Benutzung des Editors erläutern. Auf Ihr Feedback sind wir sehr gespannt!
