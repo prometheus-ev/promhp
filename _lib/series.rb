@@ -120,7 +120,11 @@ module Jekyll
               when 'row'
                 ImageSeries.items(self)
               when 'teaser'
-                "*#{data['subtitle'].to_s.strip}* - #{data[part] || content[TEASER_RE, 1]}"
+                subtitle = data['subtitle'].to_s.strip
+
+                teaser = data[part] || content[TEASER_RE, 1]
+                teaser = "*#{subtitle}* - #{teaser}" unless subtitle.empty?
+                teaser
             end
           }
 
