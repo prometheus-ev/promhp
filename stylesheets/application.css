@@ -729,10 +729,6 @@ body.administration-controller.index-action .gap {
   font-size:         inherit;
 }
 
-#logo_10years {
-  float:             right;
-}
-
 #statusbar {
   background-image:  url(../images/misc/statusbar.gif);
   min-height:        22px;

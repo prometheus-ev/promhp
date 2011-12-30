@@ -221,10 +221,6 @@
   line-height:       1.5em;
 }
 
-#section-10years .section-item {
-  min-height:        180px;
-}
-
 #series-front .section-item {
   min-height:        120px;
 }
@@ -237,10 +233,6 @@
 #section-news .section-item > a {
   float:             none;
   margin-right:      inherit;
-}
-
-#section-10years .section-item > a {
-  margin-right:      1em;
 }
 
 #series-front .section-item > a img {
