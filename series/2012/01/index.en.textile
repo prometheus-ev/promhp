@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Max Beckmann: Am Strand von Wangerooge \xE2\x80\x93 Strandarbeiter (Detail), 1909, \xC3\x96l auf Leinwand,  Oldenburg, Landesmuseum f\xC3\xBCr Kunst und Kulturgeschichte; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Max Beckmann: Das Nizza in Frankfurt am Main (Detail), 1921, \xC3\x96l auf Leinwand, 100,5 x 65 cm,  Frankfurt am Main, St\xC3\xA4del; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Max Beckmann: Der Eiserne Steg (Detail), 1922, \xC3\x96l auf Leinwand, 120,5 x 84,5 cm, D\xC3\xBCsseldorf, Kunstsammlung Nordrhein-Westfalen; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+- "Max Beckmann: Fr\xC3\xBChlingslandschaft im Park Louisa (Detail), 1924, \xC3\x96l auf Leinwand, 95,5 x 56 cm, K\xC3\xB6ln, Museum Ludwig; RUDI, Friedrich-Alexander-Universit\xC3\xA4t, Kunsthistorisches Institut, Erlangen "
+- "Max Beckmann: Der Hafen von Genua (Detail), 1927, \xC3\x96l auf Leinwand, 90,5 x 169,5 cm, St Louis Art Museum, Z\xC3\xBCrich; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Max Beckmann: Wendelsweg in Frankfurt am Main (Detail), 1928, \xC3\x96l auf Leinwand, 71 x 44 cm, Kiel, Kunsthalle; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
+- "Max Beckmann: Landschaft mit altem Schloss und Agaven (Detail), 1939, \xC3\x96l auf Leinwand, 60 x 90,5 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Max Beckmann: Flughafen in Amsterdam, Schiphol (Detail), 1945, \xC3\x96l auf Leinwand, 60 x 89 cm, Bremen, Kunsthalle; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+layout: series
+title: Max Beckmann
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Landscapes "
+date: 2011/12/31
+teaser: As opposed to the tendency of the modern to dissolve the different genres, Beckmann remained the traditional genres
+collection: 29742
+---
+As opposed to the tendency of the modern to dissolve the different genres, Beckmann remained with the traditional ones: the depiction of the human figure, still lifes and landscapes. An exhibition in the Kunstmuseum Basel is dealing with the latter, with landscapes. Beckmann is indeed especially famous for his figural painting, but he has renewed the landscape-painting in an outstanding way, too. The presentation is supplemented by two other great Beckmann-exhibitions, one in Leipzig and one in Frankfurt am Main. 
+
+*"Max Beckmann. The Landscapes":http://www.kunstmuseumbasel.ch/en/exhibitions/current/max-beckmann/, to 22th January 2012, Kunstmuseum Basel 
+"Max Beckmann. Face to Face":http://www.staedelmuseum.de/sm/index.php?StoryID=1306, to 22th January 2012, Museum der bildenden Künste, Leipzig
+"Beckmann & America":http://www.mdbk.de/en/exhibitions/current/max-beckmann-1/, to 8th  January 2012, Städel Museum, Frankfurt am Main*
