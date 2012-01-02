@@ -1,4 +1,5 @@
 --- 
+layout: series
 descriptions: 
 - "Max Beckmann: Am Strand von Wangerooge \xE2\x80\x93 Strandarbeiter (Detail), 1909, \xC3\x96l auf Leinwand,  Oldenburg, Landesmuseum f\xC3\xBCr Kunst und Kulturgeschichte; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
 - "Max Beckmann: Das Nizza in Frankfurt am Main (Detail), 1921, \xC3\x96l auf Leinwand, 100,5 x 65 cm,  Frankfurt am Main, St\xC3\xA4del; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
@@ -8,7 +9,6 @@ descriptions:
 - "Max Beckmann: Wendelsweg in Frankfurt am Main (Detail), 1928, \xC3\x96l auf Leinwand, 71 x 44 cm, Kiel, Kunsthalle; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte, Berlin "
 - "Max Beckmann: Landschaft mit altem Schloss und Agaven (Detail), 1939, \xC3\x96l auf Leinwand, 60 x 90,5 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
 - "Max Beckmann: Flughafen in Amsterdam, Schiphol (Detail), 1945, \xC3\x96l auf Leinwand, 60 x 89 cm, Bremen, Kunsthalle; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
-layout: series
 title: Max Beckmann
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: "Landscapes "
