@@ -128,7 +128,7 @@ Googles "Art Project" ermöglicht den beteiligten Museen, ihre Kunstschätze auf
 <br>
 *_Projektvorstellungen – Shortcuts_*
 Georg Hohmann M.A. (Nürnberg, Germanisches Nationalmuseum)
-*WissKI* "»PDF":<%=r '/files/text/10years_lectures/hohmann_wisski.pdf' %>
+*WissKI* "»PDF":<%=r '/files/text/10years_lectures/hohmann_wisski.pdf' %> "»Video":http://vimeo.com/34464916
 <br>
 Prof. Dr. Gunnar Heydenreich (FH Köln, Institut für Restaurierungs- und Konservierungswissenschaft)
 *Cranach Digital Archive*
