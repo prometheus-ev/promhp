@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Ein Paar Schuhe, \xC3\x84gypten, zw. 332 und 313 v. Chr., Leder, Kork, 0,22 kg, \xC3\x84gyptisches Museum und Papyrussammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Vinzent van Gogh: Ein Paar Schuhe (Detail), 1886, \xC3\x96l auf Leinwand, 37,5 x 45 cm, Amsterdam, \xC3\xB6ffentliche Sammlung, Rijksmuseum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Lucian Bernhard: Stiller Schuhe (Detail), 1908, Werbeplakat, ohne Ma\xC3\x9Fangaben, Essen, Folkwang-Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Wladimir Lebedew: Stillleben mit Stiefel (Detail), 1920, \xC3\x96l auf Leinwand, 107 x 77 cm, St. Petersburg, Russisches Museum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Walker Evans: Floyd Burrougs` Working Shoes (Detail), 1936, Fotografie, Silbergelatine, Hale County, Alabama; Datenbank Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Richard Avedon: Schuh, Design von Perugia, Place de Trocad\xC3\xA9ro, Paris (Detail), 1948, Fotografie, mehrere Aufbewahrungsorte; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Helmut Newton: Walter Steiger, Monte Carlo (Detail), 1983, Fotografie, mehrere Aufbewahrungsorte; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Peter Fischli / David Weiss: Flirt, Liebe. etc. (Detail), aus der Serie: Equilibre, 1984, Fotografie, mehrere Standorte; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+title: Schuhe
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Ein Kulturgut
+date: 2012/01/02
+teaser: Der Schuh erscheint als Bildmotiv vor allem in der Modefotografie, aber auch in der freien Kunst.
+collection: 29765
+---
+Der Schuh erscheint als Bildmotiv vor allem in der Modefotografie, aber auch in der freien Kunst. Bei Armans Installation „Madison Avenue“ (1962), hier im großen Bild, hört man förmlich die trippelnden Schritte der vermögenden Damen New Yorks.
+Uns könnten die ersten Schritte im neuen Jahr in eine kleine Ausstellung zur Kulturgeschichte des Schuhs führen. Die Exponate reichen von Dokumenten des Schuhmacherhandwerks über Schuhmode verschiedener Länder und Epochen bis zu Werbeplakaten und künstlerischen Fotografien zum Thema.   
+
+*"Auf Schritt und Tritt. Schuhgeschichte(n): Handwerk - Mode – Kultobjekt":http://langenfeld.active-city.net/city_info/webaccessibility/index.cfm?region_id=138&waid=235&item_id=0&link_id=213672045&fsize=1&contrast=0, 13. November 2011 - 5. Februar 2012, Kulturelles Forum Langenfeld*
