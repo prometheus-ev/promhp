@@ -8,6 +8,7 @@
 * "jekyll-pagination":https://github.com/blackwinter/jekyll-pagination - Jekyll plugin to extend the pagination generator
 * "jekyll-rendering":https://github.com/blackwinter/jekyll-rendering - Jekyll plugin to provide alternative rendering engines
 * "jekyll-tagging":https://github.com/pattex/jekyll-tagging - Jekyll plugin to automatically generate a tag cloud and tag pages
+* "JekyllCommander":https://github.com/prometheus-ev/JekyllCommander - A Sinatra based web interface, to maintain a Jekyll website, including git version control.
 * "libxml-ext":https://github.com/blackwinter/libxml-ext - LibXML Ruby extensions
 * "log2counter":https://github.com/blackwinter/log2counter - Convert (analyse) Apache log files to "COUNTER":http://www.projectcounter.org/ CSV
 * "pandora":http://prometheus-srv.uni-koeln.de/trac/pandora/ - The prometheus digital image archive software
