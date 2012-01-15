@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Baluschek, Hans: Montagmorgen (Ausschnitt), 1898, \xC3\x96l auf Leinwand, 120 x 150 cm, Berlin, Stiftung Stadtmuseum (M\xC3\xA4rkisches Museum); Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Baluschek, Hans: Hier k\xC3\xB6nnen Familien Kaffee kochen (Ausschnitt), 1895, Mischtechnik, 65,5 x 98 cm, Berlin, Br\xC3\xB6han Museum; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Baluschek, Hans: Tingeltangel (Ausschnitt), 1900, Mischtechnik, 111 x 68,5 cm, Berlin, Br\xC3\xB6han Museum; Imago,Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Baluschek, Hans: Hahn`sche Werke - Grossenbaum bei Duisburg (Ausschnitt), 1910, \xC3\x96l auf Leinwand, 111 x 161 cm, Berlin, Br\xC3\xB6han Museum; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Baluschek, Hans: P\xC3\xA4rchen (Ausschnitt), 1913, Mischtechnik, 86,5 x 60,5 cm, Berlin, Stiftung Stadtmuseum (M\xC3\xA4rkisches Museum); Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Baluschek, Hans: Zur Grube (Ausschnitt), 1914, \xC3\x96l auf Leinwand, 94 x 134 cm, Berlin, Kunstamt Berlin-Charlottenburg-Wilmersdorf; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Baluschek, Hans: Feierabend (Ausschnitt), 1925, Gouache, 98 x 69 cm, Berlin, Stiftung Stadtmuseum (M\xC3\xA4rkisches Museum); Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Baluschek, Hans: Die Mutter (Ausschnitt), 1926, Mischtechnik, 38,7 x 34,7 cm, Berlin, Stiftung Stadtmuseum (M\xC3\xA4rkisches Museum); Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+title: Hans Baluschek
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Ein Berliner Secessionist
+date: 2012/01/15
+teaser: "Die Motive im Werk Hans Baluscheks (1870-1935) sind ein Spiegel der Zeit um 1900. "
+collection: 29950
+---
+Die Motive im Werk Hans Baluscheks (1870-1935) sind ein Spiegel der Zeit um 1900. Sie zeigen das Arbeitsleben und die Freizeitvergnügen der Großstädter, zeigen Industrie- und Stadtlandschaften. Aber auch Märchenillustrationen, wie die zu „Peterchens Mondfahrt“ von Gerd von Bassewitz, sind Teil seines Werks.
+Das Börhan-Museum in Berlin beherbergt eine umfassende Sammlung der Arbeiten des Berliner Secessionisten und stellt zur Zeit mit 40 Werken das Frühwerk des Künstlers in den Mittelpunkt einer Ausstellung.
+
+*"Der Maler Hans Baluschek":http://www.broehan-museum.de/infoseiten/a_baluschek.html, bis 15. April 2012, Börhan-Museum, Berlin* 
