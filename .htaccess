@@ -49,6 +49,9 @@ RewriteRule \Aesprix<%= multiview_ext %>(?:\z|/) <%= File.join(site.uri.path, 't
 RewriteRule \Atagung2011<%= multiview_ext %>(?:\z|/)               <%= File.join(site.uri.path, 'about/tagung2011') %> [L,R]
 RewriteRule \Aabout/tagung2011/program<%= multiview_ext %>(?:\z|/) <%= File.join(site.uri.path, 'about/tagung2011') %> [L,R]
 
+# Images (pandora)
+RewriteRule \Apandora(/images/.+) $1 [L,R]
+
 # Error
 <% for code in %w[404 500] -%>
 ErrorDocument <%= code %> <%= File.join(site.uri.path, code) %>
