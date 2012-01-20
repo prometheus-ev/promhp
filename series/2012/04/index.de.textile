@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Marcel Breuer: Sessel \xE2\x80\x9EWassily\xE2\x80\x9C B 3, 1927/28, Stahlrohr/Leder; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Marcel Breuer: Setztische B 9, 1925/26, Stahlrohr/Holz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Alvar Aalto: Sessel \"Paimo\", 1931/32,  lackiertes Holz, New York, Museum of Modern Art; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Egon Eiermann: Stuhl aus verformtem Schichtholz, 1950; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Egon Eiermann: Sessel aus Rohrgeflecht, 1952; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Frank O. Gehry: Stuhl \xE2\x80\x9EWiggle Side Chair\xE2\x80\x9C, 1972, Hartfaser/Wellkarton/Rundholz; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau"
+- "Frank O. Gehry: Sessel mit Hocker \"Little Beaver\", 1980, Entwurf aus Wellpappe, M\xC3\xBCnchen, Museum f\xC3\xBCr angewandte Kunst; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Mario Botta: Stuhl \xE2\x80\x9ELatonda\xE2\x80\x9C, 1986, Stahlrohrgestell; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau "
+layout: series
+title: Furniture
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Design von Architekten "
+date: 2012/01/20
+teaser: "Als die Architekten des beginnenden 20. Jahrhunderts f\xC3\xBCr ihre Entw\xC3\xBCrfe kein entsprechendes Mobiliar fanden, entwarfen sie es selbst."
+collection: 30116
+---
+Als die Architekten des beginnenden 20. Jahrhunderts für ihre Entwürfe kein entsprechendes Mobiliar fanden, entwarfen sie es selbst. Spätestens Mitte des Jahrhunderts hatte sich aber das Berufsbild des Architekten von dem des Möbeldesigners getrennt. Trotzdem gibt es immernoch Architekten, die in besonderen Fällen für ihre Räume das passende Mobiliar entwerfen. 
+Das MAK in Köln will mit einer Ausstellung die Fragen aufwerfen, ob sich das Möbel-Design der Architekten von dem der Produktdesigner unterscheidet, ob es eine typische Herangehensweise der Architekten an die Gestaltung gibt, die ihre Entwürfe möglicherweise auch über die Jahrzehnte hinweg verbindet.
+
+*"Von Aalto bis Zumthor: Archituktenmöbel", 16. Januar bis 22. April 2012, MAK - Museum für angewandte Kunst, Köln*

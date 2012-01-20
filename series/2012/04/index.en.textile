@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Marcel Breuer: Sessel \xE2\x80\x9EWassily\xE2\x80\x9C B 3, 1927/28, Stahlrohr/Leder; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Marcel Breuer: Setztische B 9, 1925/26, Stahlrohr/Holz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Alvar Aalto: Sessel \"Paimo\", 1931/32,  lackiertes Holz, New York, Museum of Modern Art; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Egon Eiermann: Stuhl aus verformtem Schichtholz, 1950; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Egon Eiermann: Sessel aus Rohrgeflecht, 1952; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Frank O. Gehry: Stuhl \xE2\x80\x9EWiggle Side Chair\xE2\x80\x9C, 1972, Hartfaser/Wellkarton/Rundholz; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau"
+- "Frank O. Gehry: Sessel mit Hocker \"Little Beaver\", 1980, Entwurf aus Wellpappe, M\xC3\xBCnchen, Museum f\xC3\xBCr angewandte Kunst; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Mario Botta: Stuhl \xE2\x80\x9ELatonda\xE2\x80\x9C, 1986, Stahlrohrgestell; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau"
+layout: series
+title: Furniture
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Design by architects
+date: 2012/01/20
+teaser: When architects at the beginning of the 20th century didn't found adequate furniture for their plans, then they created it by themselves.
+collection: 30116
+---
+When at the beginning of the 20th century architects didn't found adequate furniture for their plans, they created it by themselves. But not later than in the middle of the century the job profile of an architect was separated from that of a designer. Nevertheless there are still architects, who create in specific cases furniture for their architecture.
+The MAK in Köln raises the questions, if the furniture-design made by architects differs from that made by designers and if there is a typical kind of creating furniture, which is shared by all architects in all times.
+
+*"From Aalto to Zumthor: Furniture by architects":http://www.museenkoeln.de/museum-fuer-angewandte-kunst/default.asp?kontrast=&schrift=1&s=1820, January 16th to April 22th 2012, MAK - Museum für angewandte Kunst, Köln*
