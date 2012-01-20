@@ -9,7 +9,9 @@ descriptions:
 - "Frank O. Gehry: Sessel mit Hocker \"Little Beaver\", 1980, Entwurf aus Wellpappe, M\xC3\xBCnchen, Museum f\xC3\xBCr angewandte Kunst; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
 - "Mario Botta: Stuhl \xE2\x80\x9ELatonda\xE2\x80\x9C, 1986, Stahlrohrgestell; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau "
 layout: series
-title: Furniture
+title: !binary |
+  TcO2YmVs
+
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: "Design von Architekten "
 date: 2012/01/20
