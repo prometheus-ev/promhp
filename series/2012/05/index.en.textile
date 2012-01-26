@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Cuno Amiet: Gro\xC3\x9Fe Apfelernte (Ausschnitt), 1914, \xC3\x96l auf Leinwand, Berlin, Berliner Allgemeine Versicherungen Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Cuno Amiet: Ferdinand Hodler von seinem Marignano-Bild (Ausschnitt), 1898, \xC3\x96l auf Leinwand, 70 x 47 cm, Solothurn, Kunstmuseum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Cuno Amiet: Die Hoffnung (Triptychon, Mittelteil, Ausschnitt), 1902, Tempera auf Karton, 64,5 x 47 cm, Olten, Kunstmuseum; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Cuno Amiet: Obstlese (Ausschnitt), 1912, \xC3\x96l auf Leinwand, 210 x 206 cm, Bern, Kunstmuseum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Ferdinand Hodler: Portr\xC3\xA4t der Berthe Jacques, Frau des K\xC3\xBCnstlers (Ausschnitt), 1894, \xC3\x96l auf Leinwand, 33,5 x 28 cm, Arlesheim, Sammlung A. Stoll; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen"
+- "Ferdinand Hodler: Ansicht des Fromberghorns von Reichenbach aus (Ausschnitt), 1903, \xC3\x96l auf Leinwand, 49 x 66,5 cm, Schweiz, Sammlung Thomas Schmidheiny; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+- "Ferdinand Hodler: Der Fr\xC3\xBChling II (Ausschnitt), 1907-1910, \xC3\x96l auf Leinwand, 102,5 x 129 cm, Schweiz, Sammlung Thomas Schmidheiny; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Ferdinand Hodler: Die heilige Stunde (Ausschnitt), 1911, \xC3\x96l auf Leinwand, 187 x 230 cm, Winterthur, Stiftung f\xC3\xBCr Kunst, Kultur und Geschichte EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern"
+title: Hodler and Amiet
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Between art nouveau and modern art
+date: 2012/01/26
+teaser: "Ferdinand Hodler (1853 \xE2\x80\x93 1918) and Cuno Amiet (1868 \xE2\x80\x93 1961) shaped the advent of the art nouveau movement in Switzerland at the turn of the century."
+collection: 30226
+---
+Ferdinand Hodler (1853 – 1918) and Cuno Amiet (1868 – 1961) shaped the advent of the art nouveau movement in Switzerland at the turn of the century. Their friendship, which is described as one between art nouveau and modern art, is subject of an exhibition in Hamburg. The two artists knew each other since 1893 and were in a lively artistic exchange, which is directly comprehensible at some groups of work. 
+
+*"Ferdinand Hodler and Cuno Amiet. An artistic friendship between art nouveau and modern art":http://www.buceriuskunstforum.de/en/exhibition/ferdinand-hodler-and-cuno-amiet/, 28th January - 1st May 2012, Bucerius Kunst Forum, Hamburg*
