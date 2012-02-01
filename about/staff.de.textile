@@ -8,11 +8,10 @@ h2. <%= page_title %>
 h3. Aktuell
 
 * Lisa Dieckmann M.A. (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Informatik)
-* Arne Eilermann (Köln, Informatik)
 * Hendrikje Hüneke (Giessen, Bildserie)
 * Theresa Nisters (Köln, Geschäftsstelle)
 * Silvia Stark M.A. (Köln, Geschäftsstelle)
-* Katja Vierk (Köln, Geschäftsstelle)
+* Denise Trump (Köln, Geschäftsstelle)
 * Dipl.-Bibl. Jens Wille (Köln, Informatik)
 
 h3. Ehemalige
@@ -23,6 +22,7 @@ h3. Ehemalige
 * Dr. Stefan Brenne (Giessen, Archäologie » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
 * Ben Burkhard (Köln, Informatik)
 * Rebeca Ehses (Köln, Geschäftsstelle)
+* Arne Eilermann (Köln, Informatik)
 * PD Dr. Norbert Eschbach (Giessen, Archäologie » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
 * Dr. Meta Friese (Köln, Geschäftsstelle)
 * Dr. Reinhard Greulich (Köthen, Informatik)
@@ -45,3 +45,4 @@ h3. Ehemalige
 * PD Dr. Holger Simon (Köln, Projektleitung » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
 * Prof. Dr. Manfred Thaller (Köln, Historisch-Kulturwissenschaftliche Informationsverarbeitung)
 * Dr. Ute Verstegen (Köln, Projektkoordination » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
+* Katja Vierk (Köln, Geschäftsstelle)
