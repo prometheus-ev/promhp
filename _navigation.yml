@@ -82,9 +82,6 @@
     :title_de: Jobs
     :url: about/jobs
     :content:
-    - :title_en: Student Assistant
-      :title_de: Studentische Hilfskraft
-      :url: about/jobs/shk
     - :title_en: Software Developer
       :title_de: SoftwareentwicklerIn
       :url: about/jobs/developer

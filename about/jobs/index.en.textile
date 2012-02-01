@@ -8,9 +8,6 @@ We're seeking help! If you are interested in working closely within the realm of
 
 We currently have the following openings:
 
-* *Student assistant* for our office (10 hours/week, deadline: 31/12/2011)
-  "» job posting":<%=r 'about/jobs/shk' %>
-
 * *Software developer* for application development and systems administration (full time, deadline: 31/01/2012)
   "» job posting":<%=r 'about/jobs/developer' %>
 
