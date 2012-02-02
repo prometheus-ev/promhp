@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Anders Zorn: Auf dem Heuboden (Ausschnitt), 1892, \xC3\x96l auf Leinwand, Hudiksvall, H\xC3\xA4lsinglands Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Anders Zorn: Eine Frau zieht ihr Kind (Ausschnitt), 1888, \xC3\x96l auf Leinwand, Sammlung Familie Thulin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden  "
+- "Anders Zorn: Bildnis Clarence Barker (Ausschnitt), 1885, Aquarell, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Anders Zorn: Bildnis Miss Law (Ausschnitt), 1885, Aquarell, Mora, Zorn-Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Anders Zorn: Selbstbildnis mit Modell (Ausschnitt), 1896, \xC3\x96l auf Leinwand, Stockholm, Nationalmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Anders Zorn: Sommerabend (Ausschnitt), 1894, \xC3\x96l auf Leinwand, Mora, Zorn-Museum, Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Anders Zorn: Bildnis der Fr\xC3\xA4ulein Salomon (Ausschnitt), 1888, Aquarell, Mora, Zorn-Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Anders Zorn: Mitternacht (Ausschnitt), 1891, \xC3\x96l auf Leinwand, Mora, Zorn-Museum, Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+title: Anders Zorn
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Ein schwedischer Impressionist
+date: 2012/02/02
+teaser: "Der Maler Anders Zorn (1860 \xE2\x80\x93 1920) hat nicht nur in seinem Heimatland Schweden hohes Ansehen genossen."
+collection: 30097
+---
+Der Maler Anders Zorn (1860 – 1920) hat nicht nur in seinem Heimatland Schweden hohes Ansehen genossen. Zorn konnte sich auch in Europa und den USA als Star-Maler etablieren, wovon u.a. seine Porträts von Personen der internationalen High-Society zeugen. Aber auch für eine vorwiegend junge Künstlergeneration wurde Zorn eine wichtige Figur, z.B. für die deutschen Secessionisten. 
+Eine Retrospektive in Lübeck zeigt sein thematisch und technisch vielfältiges Werk mit Landschaftsmalereien, Alltagsdarstellungen aus Dörfern und Metropolen gleichermaßen, sowie Porträts und Akte. 
+
+*"Anders Zorn. Der schwedische Impressionist":http://museum-behnhaus-draegerhaus.de/de/5/asid:35/ausstellungen.html, 15. Januar bis 15. April 2012, Museum Behnhaus Drägerhaus, Lübeck*
