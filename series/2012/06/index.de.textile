@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Eduardo Chillida: M\xC3\xBAsica de las esferas I, 1953, Eisen, 13 x 16,5 x 12,5 cm, Madrid, Privatsammlung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Eduardo Chillida: Peine de los vientos, 1976, Corten-Stahl, ca. 215 x 177 x 185 cm, San Sebastian; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Eduardo Chillida: M\xC3\xB9sica callada I, 1955, Eisen, 63,5 x 150 x 56 cm, Basel, \xC3\x96ffentliche Kunstsammlung; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Eduardo Chillida: Yunque de sue\xC3\xB1os VII , 1954-1959, Eisen / Holz, 100 \xC3\x97 34 \xC3\x97 28,5 cm, Frankfurt am Main, St\xC3\xA4del; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Eduardo Chillida: Berlin, 1999, Stahl, 6m hoch, Bundeskanzleramt, Berlin; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte, Trier "
+- "Eduardo Chillida: Oxido 42, 1979, Ton / Schamotte mit Kupferoxidzeichnung, Sammlung des K\xC3\xBCnstlers; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+- "Eduardo Chillida: Lurrak (Ausschnitt), 1980, Lithographie, 160 x 120 cm, Kunsthalle St. Annen; digiCULT Museen, digiCULT, Kiel "
+- "Eduardo Chillida: Peine del viento XVI, 1990, Stahl, 230 x 189 x 120 cm, Sammlung des K\xC3\xBCnstlers; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste, Berlin "
+title: Eduardo Chillida
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2012/02/02
+teaser: "Der im spanischen Baskenland geborene K\xC3\xBCnstler Eduardo Chillida (1924 \xE2\x80\x93 2002) wird als ein Ausnahme-Bildhauer beschrieben."
+collection: 30146
+---
+Der im spanischen Baskenland geborene Künstler Eduardo Chillida (1924 – 2002) wird als ein Ausnahme-Bildhauer beschrieben. Nach einem abgebrochenen Architektur-Studium begann er mit Ton und Gips zu arbeiten, ab 1949 entstanden Plastiken aus Metall. Im Laufe der Zeit nahmen auch andere Materialien wie Holz und Alabaster einen wichtigen Platz in seinem Werk ein. Chillida arbeitet darüberhinaus als Graphiker, mit graphischen Blättern verschiedener Techniken und buchkünstlerischen Arbeiten. 
+Das Picasso-Museum verdeutlicht mit über 100 Werken den Facettenreichtum dieses Werkes. Nicht zuletzt die Vorstudien für die großen an der Uferpromenade von San Sebastián montierten „Windkämme“, machen die Ausstellung zu einem Ereignis.
+
+*"Eduardo Chillida":http://www.kunstmuseum-picasso-muenster.de/ausstellungen/aktuelle_ausstellungen/eduardo_chillida.html, 28. Januar bis 22. April, Kunstmuseum Pablo Picasso, Münster*
