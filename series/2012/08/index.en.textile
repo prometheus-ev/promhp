@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Emil Nolde: Masken III, 1920, \xC3\x96l auf Leinwand, 87,5 x 73,5 cm, Seeb\xC3\xBCll, Stiftung Seeb\xC3\xBCll Ada und Emil Nolde; ArtPlus, Universit\xC3\xA4t Salzburg, Fachbereich Kunst-, Musik- und Tanzwissenschaft, Salzburg "
+- "Emil Nolde: Kachina-Figur - Bildwerk der Pueblo-Indianer, Studienzeichnung nach einer Skulptur des Museums f\xC3\xBCr V\xC3\xB6lkerkunde in Berlin, 1911/12, Bleistift, 30 x 18,5 cm, Seeb\xC3\xBCll, Stiftung Seeb\xC3\xBCll Ada und Emil Nolde; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Emil Nolde: Stillleben mit Birmat\xC3\xA4nzerin, 1915, 88 x 73 cm, Hannover, Sprengelmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Emil Nolde: Figur mit gespreizten Beinen - Ziersteven, Afrika; Studienzeichnung nach einer Skulptur des Museums f\xC3\xBCr V\xC3\xB6lkerkunde in Berlin, 1911/1912, Bleistift, 21,4 x 27,8 cm, Seeb\xC3\xBCll, Stiftung Seeb\xC3\xBCll Ada und Emil Nolde; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Emil Nolde: Stillleben mit S\xC3\xBCdseefigur (li. Uli-Figur aus Neuirland), 1915, \xC3\x96l auf Leinwand, 166 cm hoch, Seeb\xC3\xBCll, Stiftung Seeb\xC3\xBCll Ada und Emil Nolde; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Emil Nolde: Der Missionar, 1912, \xC3\x96l auf Leinwand, 79 x 65,5 cm, Solingen, Sammlung Berthold Glauert; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+- "Emil Nolde: Mann, Fisch und Frau, 1912, \xC3\x96l auf Leinwand, 71,5 x 57,5 cm, Seeb\xC3\xBCll, Stiftung Seeb\xC3\xBCll Ada und Emil Nolde; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Emil Nolde: Exotische Figuren, 1913, \xC3\x96l auf Leinwand, ohne Ma\xC3\x9Fangaben, Saarbr\xC3\xBCcken, Saarlandmuseum; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar, Hamburg "
+title: Emil Nolde
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2012/02/06
+teaser: "Many still lifes by the artist Emil Nolde (1867 \xE2\x80\x93 1956) show ethnological objects."
+collection: 30266
+---
+Many still lifes by the artist Emil Nolde (1867 – 1956) show ethnological objects. The South Sea voyager brought a considerable collection of masks and figures together. Humorously arranged they became a motif of around 100 still lifes. One third of them are shown in a current exhibition of the Barlach Haus in Hamburg. 
+
+*"Emil Nolde. Dolls, Masks and idols":http://www.barlach-haus.de/Englisch/Ausstellungen/ausstellungen_aktuell_Hamburg.html, 22th January to 28th May 2012, Ernst Barlach Haus, Hamburg*
