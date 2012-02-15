@@ -2,7 +2,7 @@
 layout: series
 descriptions: 
 - "Anders Zorn: Auf dem Heuboden (Ausschnitt), 1892, \xC3\x96l auf Leinwand, Hudiksvall, H\xC3\xA4lsinglands Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden  "
-- "Anders Zorn: Eine Frau zieht ihr Kind (Ausschnitt), 1888, \xC3\x96l auf Leinwand, Sammlung Familie Thulin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Anders Zorn: Eine Frau zieht ihr Kind an (Ausschnitt), 1888, \xC3\x96l auf Leinwand, Sammlung Familie Thulin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
 - "Anders Zorn: Bildnis Clarence Barker (Ausschnitt), 1885, Aquarell, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
 - "Anders Zorn: Bildnis Miss Law (Ausschnitt), 1885, Aquarell, Mora, Zorn-Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
 - "Anders Zorn: Selbstbildnis mit Modell (Ausschnitt), 1896, \xC3\x96l auf Leinwand, Stockholm, Nationalmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
