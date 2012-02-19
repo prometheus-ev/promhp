@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Bourgeois, Louise: Spider, 1997, Bronze, 239 x 244 x 213 cm; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn "
+- "Bourgeois, Louise: Spider, 1994, Aquarell / Gouache / Papier, 29,8 x 29,2 x cm, Galerie Karsten Greve, K\xC3\xB6ln / Paris / Mailand; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, K\xC3\xB6ln "
+- "Bourgeois, Louise: Ohne Titel, 1996, Stoff / Knochen / Gummi / Stahl,  300,3 x 208,2 x 195,5 cm, Courtesy Cheim & Read und Hauser & Wirth; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn"
+- "Bourgeois, Louise: Seven in Bed, 2001, Stoff / rostfreier Edelstahl / Glas / Holz,  172,7 x 85 x 87,6 cm; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn "
+- "Bourgeois, Louise: The Runaway, 1998/99, Installation aus Marmor / Glas / Metall, 213,4 x 198,1 x 137,2 cm, Courtesy Cheim & Read, New York; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Bourgeois, Louise: Ohne Titel, 2002, Tapisserie \xC3\xBCber Aluminium; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Bourgeois, Louise: Ohne Titel, 2001, Gewebe und Stahl, 227,3 x 38,1 x 30,4 cm; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn"
+- "Bourgeois, Louise: The Destruction of the Father, 1974, Gips / Latex / Holz / Stoff,  237,8 x 362,2 x 248,6 cm; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Paderborn "
+title: "Louise Bourgeois "
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: sculptures, installations, etchings and fabric works
+date: 2012/02/19
+teaser: "On the occasion of the 100th birthday of Louise Bourgeois,  the Hamburger Kunsthalle is presenting art works from the last 15 years of her life. "
+collection: 30507
+---
+On the occasion of the 100th birthday of Louise Bourgeois, who deceased in 2010, the Hamburger Kunsthalle is presenting art works from the last 15 years of her life. Often her works are provocative, strange, sometimes even frightening and at the same time they bristle with energy, directness and vitality.
+Especially prominent is the oversized bronze-spider „Maman“ of over 9 meters, which is regarded as a key work. The web spinning insect became a homage to the mother of the artist, who worked as a restorer of tapestries.
+
+*"Louise Bourgeois. Passage dangereux":http://www.hamburger-kunsthalle.de/index.php/louise-bourgeois.html, 10 February to 17 June 2012, Hamburger Kunsthalle* 
