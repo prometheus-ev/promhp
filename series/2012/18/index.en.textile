@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Johann Daniel Bader / zu Johann Caspar Lavater: Johann Wolfgang von Goethe, 1772-73, \xC3\x96l auf Leinwand, 16,2 x 14,7 cm, Wien, \xC3\x96sterreichische Nationalbibliothek Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Anton Graff / Carl Barth: Johann Wolfgang von Goethe, 1749 - 1832, Stahlstich, 15,5 x 24,4 cm,  Heidelberg, Universit\xC3\xA4tsbibliothek; HeidICON - Graphische Sammlung, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Carl Engel: Justus von Liebig, 1839, Lithographie, 34,6 cm x 43,2 cm, Heidelberg,  Universit\xC3\xA4tsbibliothek; HeidICON - Graphische Sammlung, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg"
+- "Sidney Hodges: Heinrich Schliemann, 1856-76, \xC3\x96l auf Leinwand, Museum f\xC3\xBCr Vor- und Fr\xC3\xBChgeschichte, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Mazdorff: Die Junggesellin Madame Curie, 1912, Stich; Pictura Paedagogica Online, Bibliothek f\xC3\xBCr Bildungsgeschichtliche Forschung des Deutschen Instituts f\xC3\xBCr Internationale P\xC3\xA4dagogische Forschung, Berlin"
+- "Frau Marie Curie in ihrem Laboratorium, 1911, Stich; Pictura Paedagogica Online, Bibliothek f\xC3\xBCr Bildungsgeschichtliche Forschung des Deutschen Instituts f\xC3\xBCr Internationale P\xC3\xA4dagogische Forschung, Berlin "
+- "Lotte Jacobi: Albert Einstein, 1938, Fotografie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Philippe Halsman: Albert Einstein mit Kindern, 1947, Fotografie, Besitz Philippe und Yvonne Halsman; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+title: Portraits of academics
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: With notepad and monocle
+date: 2012/02/22
+teaser: An exhibition of the foundation Moritzburg in Halle analyses the alteration of portraits of academics in the history.
+collection: 30543
+---
+An exhibition of the foundation Moritzburg in Halle analyses the alteration of portraits of academics in the history. There is a changing from a conventional scheme to very private portraits. In our examples obvious attributes are glasses, paper and pencil, which demonstrate the shown people as scientists and thinkers. 300 memberportraits of the oldest natural scientific-medical academy, the Leopoldina, are presented in the Moritzburg to show, if the portraits keep these attributes over the centuries.  
+
+*"The face of science. Portraits of academics over three centuries":http://stiftung-moritzburg.de/ausstellungen/vorschau/einzelansicht/?tx_ttnews[tt_news]=409&tx_ttnews[backPid]=21&cHash=fe0a605010d09cd823c6f386026960a6, 24th April to 8th July 2012, Stiftung Moritzburg, Halle*

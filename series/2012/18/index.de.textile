@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Johann Daniel Bader / zu Johann Caspar Lavater: Johann Wolfgang von Goethe, 1772-73, \xC3\x96l auf Leinwand, 16,2 x 14,7 cm, Wien, \xC3\x96sterreichische Nationalbibliothek Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Anton Graff / Carl Barth: Johann Wolfgang von Goethe, 1749 - 1832, Stahlstich, 15,5 x 24,4 cm,  Heidelberg, Universit\xC3\xA4tsbibliothek; HeidICON - Graphische Sammlung, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Carl Engel: Justus von Liebig, 1839, Lithographie, 34,6 cm x 43,2 cm, Heidelberg,  Universit\xC3\xA4tsbibliothek; HeidICON - Graphische Sammlung, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Sidney Hodges: Heinrich Schliemann, 1856-76, \xC3\x96l auf Leinwand, Museum f\xC3\xBCr Vor- und Fr\xC3\xBChgeschichte, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Mazdorff: Die Junggesellin Madame Curie, 1912, Stich; Pictura Paedagogica Online, Bibliothek f\xC3\xBCr Bildungsgeschichtliche Forschung des Deutschen Instituts f\xC3\xBCr Internationale P\xC3\xA4dagogische Forschung, Berlin "
+- "Frau Marie Curie in ihrem Laboratorium, 1911, Stich; Pictura Paedagogica Online, Bibliothek f\xC3\xBCr Bildungsgeschichtliche Forschung des Deutschen Instituts f\xC3\xBCr Internationale P\xC3\xA4dagogische Forschung, Berlin "
+- "Lotte Jacobi: Albert Einstein, 1938, Fotografie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Philippe Halsman: Albert Einstein mit Kindern, 1947, Fotografie, Besitz Philippe und Yvonne Halsman; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+title: "Gelehrtenportr\xC3\xA4ts"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Mit Notizblock und Monokel
+date: 2012/02/22
+teaser: " Eine Ausstellung der Stiftung Moritzburg in Halle untersucht den Wandel von Gelehrtenportr\xC3\xA4ts in der Geschichte."
+collection: 30543
+---
+Eine Ausstellung der Stiftung Moritzburg in Halle untersucht den Wandel von Gelehrtenporträts in der Geschichte. Dabei ist eine Veränderung von einem stark konventionellen Schema bis hin zu Porträts im sehr privaten Rahmen zu beobachten. Bei den gezeigten Beispielen fallen Attribute wie Brille, Papier und Stift auf, welche die Porträtierten als Wissenschaftler und Denker kennzeichnen. Ob solche Darstellungsmuster über die Jahrhunderte erhalten bleiben, kann nun jeder überprüfen. Die Stiftung Moritzburg präsentiert 300 Mitgliederporträts der ältesten naturwissenschaftlich-medizinischen Akademie, der Leopoldina. 
+
+*"Das Antlitz der Wissenschaft. Gelehrtenporträts aus drei Jahrhunderten":http://stiftung-moritzburg.de/ausstellungen/vorschau/einzelansicht/?tx_ttnews[tt_news]=409&tx_ttnews[backPid]=21&cHash=fe0a605010d09cd823c6f386026960a6, 24. April bis 8. Juli 2012, Stiftung Moritzburg, Halle*
