@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Karl Hofer: Frau unterm Fenster (Ausschnitt), 1923, \xC3\x96l auf Leinwand, Winterthur, Kunstmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Karl Hofer: Blumenwerfende M\xC3\xA4dchen (Ausschnitt), 1925, \xC3\x96l auf Leinwand, 120 x 90 cm, Stuttgart, Staatsgalerie; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Karl Hofer: M\xC3\xA4dchen mit blauer Vase (Ausschnitt), 1923, \xC3\x96l auf Leinwand, Wiesbaden, Sammlung Frank Brabant; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Karl Hofer: M\xC3\xA4dchen mit Kaktus (Ausschnitt), 1921-1922, \xC3\x96l auf Leinwand, Stuttgart, Sammlung Daimler-Benz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Karl Hofer: M\xC3\xA4dchen mit Blume (Ausschnitt), 1920, \xC3\x96l auf Leinwand, M\xC3\xBCnchen, Sammlung Garnerus; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Karl Hofer: Sitzende Frau in Blau (Ausschnitt), 1924, \xC3\x96l auf Pappe, Oberbayern, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Karl Hofer: M\xC3\xA4dchen in der Kammer (Ausschnitt), 1937, \xC3\x96l auf Leinwand, Braunschweig, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Karl Hofer: M\xC3\xA4dchen mit Sonnenblumen (Ausschnitt), 1944, \xC3\x96l auf Leinwand, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+title: Karl Hofer
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Variations
+date: 2012/02/28
+teaser: "The girls with flowers are one example of motifs, which Karl Hofer (1878 \xE2\x80\x93 1955) was revising over decades."
+collection: 30653
+---
+The girls with flowers are one example of motifs, which Karl Hofer (1878 – 1955) was revising over decades. Among them, there are the boys with a ball, female nudes, people reading and writing or playing an instrument, circus-pictures and parties. An exhibition in the Kunsthalle Emden is concentrated on these in motifs and is presenting art works from five decades with a focal point on the 1920th and 1930th.
+ 
+*"Karl Hofer. Von Lebensspuk und stiller Schönheit":http://kunsthalle-emden.de/ab-11-02-karl-hofer-von-lebensspuk-und-stiller-schonheit/, bis 17. Juni 2012, Kunsthalle Emden*

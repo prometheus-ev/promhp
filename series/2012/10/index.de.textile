@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Karl Hofer: Frau unterm Fenster (Ausschnitt), 1923, \xC3\x96l auf Leinwand, Winterthur, Kunstmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Karl Hofer: Blumenwerfende M\xC3\xA4dchen (Ausschnitt), 1925, \xC3\x96l auf Leinwand, 120 x 90 cm, Stuttgart, Staatsgalerie; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Karl Hofer: M\xC3\xA4dchen mit blauer Vase (Ausschnitt), 1923, \xC3\x96l auf Leinwand, Wiesbaden, Sammlung Frank Brabant; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Karl Hofer: M\xC3\xA4dchen mit Kaktus (Ausschnitt), 1921-1922, \xC3\x96l auf Leinwand, Stuttgart, Sammlung Daimler-Benz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Karl Hofer: M\xC3\xA4dchen mit Blume (Ausschnitt), 1920, \xC3\x96l auf Leinwand, M\xC3\xBCnchen, Sammlung Garnerus; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Karl Hofer: Sitzende Frau in Blau (Ausschnitt), 1924, \xC3\x96l auf Pappe, Oberbayern, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Karl Hofer: M\xC3\xA4dchen in der Kammer (Ausschnitt), 1937, \xC3\x96l auf Leinwand, Braunschweig, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Karl Hofer: M\xC3\xA4dchen mit Sonnenblumen (Ausschnitt), 1944, \xC3\x96l auf Leinwand, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+title: Karl Hofer
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Variationen
+date: 2012/02/28
+teaser: "So wie die M\xC3\xA4dchen mit Blumen hat Karl Hofer (1878 - 1955) einige Themenbereiche und Bildideen \xC3\xBCber Jahrzehnte hinweg variiert."
+collection: 30653
+---
+So wie die Mädchen mit Blumen hat Karl Hofer (1878 - 1955) einige Themenbereiche und Bildideen über Jahrzehnte hinweg variiert. Darunter zählen zum Beispiel die Jungen mit Ball, Frauenakte, Lesende, Schreibende und Musizierende, Maskeraden, Zirkusdarstellungen und Festgesellschaften. Eine Ausstellung in der Kunsthalle Emden konzentriert sich ganz auf diese vielfach bearbeiteten Bildmotive und zeigt Werke aus fünf Jahrzehnten mit einem Schwerpunkt auf die 1920er und 1930er Jahre.
+
+*"Karl Hofer. Von Lebensspuk und stiller Schönheit":http://kunsthalle-emden.de/ab-11-02-karl-hofer-von-lebensspuk-und-stiller-schonheit/, bis 17. Juni 2012, Kunsthalle Emden* 
