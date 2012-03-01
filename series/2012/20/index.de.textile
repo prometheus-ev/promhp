@@ -1,0 +1,19 @@
+--- 
+layout: series
+descriptions: 
+- "Reidersche Tafel (Ausschnitt), um 400, Elfenbein, 18,7 x 11,6 cm, M\xC3\xBCnchen, Bayerisches Nationalmuseum; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Albani-Psalter: Die Himmelfahrt Christi (Ausschnitt), um 1135, Hildesheim, Dombibliothek; Datenbank Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Andrea Mantegna: Christi Himmelfahrt (Ausschnitt), um 1461, Tempera auf Holz, 86 x 42,5 cm, Florenz, Uffizien; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Jan Joest van Kalkar: Himmelfahrt Christi (Ausschnitt), 1505\xE2\x80\x9309, Tafelbild, rechten Innenfl\xC3\xBCgel des Hochaltars, Kalkar, Sankt Nikolai; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Vincenzo Campi: Christi Himmelfahrt (Ausschnitt), um 1586-89, Fresko, Gew\xC3\xB6lbe der \xC3\xA4u\xC3\x9Feren Kirche, Mailand, San Paolo Converso; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Anton Raphael Mengs: Himmelfahrt Christi (Ausschnitt), 1751, Tafelmalerei, 48,5 x 26,8 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "William Blake: Christi Himmelfahrt (Ausschnitt), um 1803-1805, Aquarell und Bleistift, 42,5 x 31,9 cm, Cambridge, Fitzwilliam Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Hans Jaenisch: Christi Himmelfahrt (Ausschnitt), 1927, Bleistift auf Papier, 13 x 10 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+title: Himmelfahrt
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "F\xC3\xBC\xC3\x9Fe in den Wolken"
+date: 2012/03/01
+teaser: Aus der Schilderung des Evangelisten Lukas sind verschiedene Formen der bildlichen Darstellung der Himmelfahrt abgeleitet worden.
+collection: 30662
+---
+Aus der Schilderung des Evangelisten Lukas sind verschiedene Formen der bildlichen Darstellung der Himmelfahrt abgeleitet worden. Ein um 400 entstandenes Elfenbeinrelief zeigt Christus, der einen Berg hinauf schreitet und von der Hand Gottes in den Himmel aufgenommen wird. Weit verbreitet ist ein Bildtypus, der in zwei Zonen aufgeteilt ist: auf der Erde stehen die Jünger mit  Maria und schauen Christus nach, der von Engeln begleitet in einer Gloriole über ihnen schwebt oder nur noch mit den Füßen aus den Wolken guckt. Der Typus des frei schwebenden Christus ist seit dem 13. Jahrhundert nachweisbar.
