@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Neue Datenbank \"Iconoth\xC3\xA8que\" aus Genf integriert"
+author: Lisa
+tags: 
+- news
+- database
+---
+Die l’Unité d’histoire de l’art der l’Université de Genève hat ihre Datenbank "Iconothèque" über prometheus zugänglich gemacht. Damit sind nun knapp 34.000 neue Datensätze in prometheus recherchierbar. Das Bildmaterial aus kanonischen Werken zur Architektur, Malerei, Bildhauerei, angewandten Kunst, Städtebau und Gartenkunst seit den christlichen Anfängen bis zur Gegenwart wird ergänzt durch individuelle Aufnahmen von Lehrenden und Studenten. Die Datenbank ist 2003 zu Lehrzwecken an der Universität Genf entstanden. Aufbauend auf der großen Sammlung an Diapositiven, die seit Bestehen des Instituts entstanden und kontinuierlich gewachsen ist, wird die Datenbank stetig erweitert und soll diese langfristig ersetzen. 
+
+La base d’images Iconothèque de l’Unité d’histoire de l’art a été créée en 2003 par l’Université de Genève pour répondre aux besoins des enseignants et de l’enseignement. Elle est venue compléter, puis, progressivement, remplacer l’important fonds de diapositives attaché à l’Unité dès sa création. Ce fonds est du reste en cours de numérisation. La collection est ouverte et continue de s’accroître en fonction de l’enseignement. Elle est également alimentée par des images prises par les enseignants. Les champs concernés sont l’architecture, la peinture, la sculpture, les arts appliqués, l’urbanisme, l’art des jardins, etc.des débuts de l’ère chrétienne jusqu’à nos jours.
+
+
