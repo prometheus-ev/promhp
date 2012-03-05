@@ -81,10 +81,6 @@
   - :title_en: Jobs
     :title_de: Jobs
     :url: about/jobs
-    :content:
-    - :title_en: Software Developer
-      :title_de: SoftwareentwicklerIn
-      :url: about/jobs/developer
 - :title_en: Licenses
   :title_de: Lizenzen
   :url: license/index

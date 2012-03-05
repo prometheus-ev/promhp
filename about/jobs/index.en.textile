@@ -4,11 +4,6 @@ title: Jobs at prometheus
 ---
 h2. <%= page_title %>
 
-We're seeking help! If you are interested in working closely within the realm of image-based research and studies and want to collaborate in a small, dynamic team, come join us.
-
-We currently have the following openings:
-
-* *Software developer* for application development and systems administration (full time, deadline: 31/01/2012)
-  "» job posting":<%=r 'about/jobs/developer' %>
+_We don't have any openings at the moment._
 
 Should you have any questions, just contact "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de.

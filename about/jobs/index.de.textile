@@ -4,11 +4,6 @@ title: Jobs bei prometheus
 ---
 h2. <%= page_title %>
 
-Wir suchen Verstärkung! Wenn Ihr euch für eine Tätigkeit im engen Kontakt zur bildbasierten Forschung und Lehre interessiert und gerne in einem kleinen, dynamischen Team mitwirken wollt, kommt doch zu uns.
+_Zur Zeit haben wir keine Stellen ausgeschrieben._
 
-Zur Zeit haben wir folgende Stellen ausgeschrieben:
-
-* *SoftwareentwicklerIn* zur Anwendungsentwicklung und Systemadministration (Vollzeit, Bewerbungsschluss: 31.01.2012)
-  "» zur Ausschreibung":<%=r 'about/jobs/developer' %>
-
-Für Rückfragen könnt Ihr euch gerne an "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de wenden.
+Für Fragen könnt Ihr euch gerne an "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de wenden.
