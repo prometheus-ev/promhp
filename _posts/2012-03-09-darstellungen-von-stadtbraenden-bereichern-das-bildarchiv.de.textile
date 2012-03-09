@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "prometheus als Feuerbringer: Darstellungen von Stadtbr\xC3\xA4nden bereichern das Bildarchiv"
+author: Lisa
+tags: 
+- news
+- database
+---
+Mit der Einbindung von 529 Darstellungen von Stadtbränden zwischen 1000 und 1939 in Deutschland und Österreich wird ein weiteres Forschungsprojekt in das Bildarchiv integriert, das sich der Ikonographie eines speziellen Themas widmet: die Datenbank "Die Ikonographie der brennenden Stadt" wurde im Rahmen des Forschungsprojekts „Risikozähmung in der Vormoderne“ im Fachbereich Umweltgeschichte der Ruhr-Universität Bochum erstellt.
+
+Der Aufbau dieser Bildsammlung erfolgte 2008-2012 im Rahmen eines Forschungsunternehmens, das die Brandgefahr, insbesondere hinsichtlich der Stadtbrände der Vormoderne zum Gegenstand hatte. Stadtbrände waren – neben Überschwemmungen in wassernahen Städten und Orten – die größte alltägliche Katastrophe, der die mittelalterlichen und frühneuzeitlichen Menschen ausgesetzt waren. Der Stadtbrand vernichtete oft die gesamte Stadt, zuweilen nur größere Teile, und zerstörte auf diese Weise den Sicherheitsraum, als der sonst die Stadt für seine Einwohner im Prozess der mittelalterlichen Kommunalisierung entstanden war.	Eine zentrale Fragestellung des Projektes war, wie sich die Wahrnehmung dieser Großgefahr wandelte – dazu wurden auch bildliche Quellen in Form von Gemälden, Lithographien, Drucken, Holz- und Kupferstichen, Aquarellen und Zeichnungen, Situations- und Brandplänen erfasst, auch einige Wandfresken, Schützenscheiben und Gedenkmünzen. Photographien finden sich ab 1857 in dann rasch ansteigender Zahl. 
+Literaturhinweise und weitere interessante Informationen zu den Abbildungen, den Forschungsergebnissen und zum Projekt gibt es "hier":<%=p 'source/show/bochum_ug' %>.
+
+
