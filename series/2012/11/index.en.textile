@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Edgar Degas: Petite danseuse de quatorze ans (Kleine vierzehnj\xC3\xA4hrige T\xC3\xA4nzerin), 1878/1881, Bronze/T\xC3\xBCll, 104 cm, Institution Staatliche Kunstsammlung Dresden, Skulpturensammlung; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Rudolf Belling: T\xC3\xA4nzerin, 1916, Holz/vergoldet, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden"
+- "Alexander Archipenko: Blaue T\xC3\xA4nzerin, 1913, Bronze mit gr\xC3\xBCner Patina, Toronto, Sammlung Campbell  Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Milly Steger: T\xC3\xA4nzerin, 1921-1922, Bronze, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Fritz Klimsch: Tanzende, 1920, Bronze, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Georg Kolbe: T\xC3\xA4nzerin, 1912, Bronze, 154 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Franz von Stuck: T\xC3\xA4nzerin, vor 1906, Bronze, 63 cm; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Bernhard Hoetger: Lo\xC3\xAFe Fuller, 1900, Bronze, Mathildenh\xC3\xB6he Darmstadt, Museum K\xC3\xBCnstlerkolonie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+title: Dancing sculptures
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Between dynamic and static
+date: 2012/03/11
+teaser: To express the dynamic of dancing with sculptural techniques, means to get over the statical character of the material in an optical way.
+collection: 30771
+---
+To express the dynamic of dancing with sculptural techniques, means to get over the statical character of the material in an optical way. 
+The sculptors of the classic modern got inspiration by the development of modern dance with dancers like Isadora Duncan, Mary Wigman, Loïe Fuller and Gret Palucca, but by the popular vaudeville shows as well. Two exhibitions are dealing with the expression of dancing in sculptures of modernism. The focus of the exhibition in Berlin is on the dancer by Georg Kolbe from 1912. The exhibition in Bremen is devised around a sculpture of the dancing Loie Fuller by Bernhard Hoetger from 1900. 
+
+*"TanzPlastik – Die tänzerische Bewegung in der Skulptur der Moderne":http://www.georg-kolbe-museum.de/2012/02/tanzplastik-%E2%80%93-die-tanzerische-bewegung-in-der-skulptur-der-moderne/, 26. Feb. bis 28. Mai 2012, Georg Kolbe Museum, Berlin*
+
+*"Bewegte Bronze – Tanzplastiken von Bernhard Hoetger":http://www.pmbm.de/de/ausstellungen/aktuell, 11. März bis 3. Juni 2012, Paula Modersohn–Becker Museum, Bremen* 
