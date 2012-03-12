@@ -10,7 +10,7 @@ Kooperation von der Datenhaltung im AFS bis zur private Cloud - prometheus Bildd
 in: Kölner Universitätszeitung, 5, 2010, IT-Beilage, S. 2.
 "» zur Publikation":http://www.portal.uni-koeln.de/fileadmin/templates/uni/images/IT-Beilage/3_2010/KUZ%20Beilage%20IT%203%202010%20.pdf
 
-* Dieckmann, Lisa 
+* Dieckmann, Lisa
 prometheus : the distributed digital image archive for research and education.
 in: L’Art et la Mesure : Histoire de l’art et méthodes quantitatives, sous la direction de Béatrice Joyeux-Prunel, avec la collaboration de Luc Sigalo Santos,
 Paris, Editions Rue d’Ulm, 2010, S. 141-151.
@@ -126,8 +126,9 @@ prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre (Vortrag b
 "» zur Publikation":http://www.imlab.de/symposium/vortraege/hartmann.pdf
 
 * Simon, Holger
-Lernen im digitalen Themenraum. Exploratives Lernen im Internet aus kunsthistorischer Sicht zeitenblicke 2 (2003), Nr. 1
-"» zur Publikation":http://www.zeitenblicke.historicum.net/2003/01/simon/index.html
+Lernen im digitalen Themenraum. Exploratives Lernen im Internet aus kunsthistorischer Sicht
+in: zeitenblicke 2 (2003), Nr. 1
+"» zur Publikation":http://www.zeitenblicke.de/2003/01/simon/index.html
 
 * Verstegen, Ute
 Die Notebook-Bibliothek. Die Verbindung digitaler und analoger Informationsquellen
@@ -135,8 +136,8 @@ in: Kölner Universitäts-Journal, Heft 1, 2003, 48f.
 
 * Verstegen, Ute
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
-in: Zeitenblicke 2 (2003), Nr. 1
-"» zur Publikation":http://www.zeitenblicke.historicum.net/2003/01/verstegen/index.html
+in: zeitenblicke 2 (2003), Nr. 1
+"» zur Publikation":http://www.zeitenblicke.de/2003/01/verstegen/index.html
 
 * Nemitz, Jürgen
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre EDV-Tage Theuern 2002. Tagungsband, Kümmersbruck 2003, S. 35-38.
