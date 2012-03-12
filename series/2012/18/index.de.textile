@@ -1,0 +1,19 @@
+--- 
+layout: series
+descriptions: 
+- "D\xC3\xBCrer, Albrecht: Portrait der Mutter D\xC3\xBCrers: Barbara D\xC3\xBCrer (Detail), um 1489/1490, \xC3\x96l auf Tannenholz, 55,3 x 44,1 cm, N\xC3\xBCrnberg, Germanisches Nationalmuseum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Rodcenko, Aleksandr Michajlovic: Portr\xC3\xA4t der Mutter (Detail), 1924, Fotografie, 22,5 x 18,3 cm, mehrere Aufbewahrungsorte; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Scharl, Josef: Mutter von Norma (Detail), 1932, \xC3\x96l auf Leinwand, Emden, Kunsthalle, Stiftung Henri Nannen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte, Dresden "
+- "Kitagawa, Utamaro: Mutter und Kind (Detail), Epoche Edo-Zeot (1615-1868), Druckfarben auf Papier, 38 x 25,5 cm, Tokio, Nationalmuseum; HeidICON - Ostasienwissenschaften, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Schrimpf, Georg: Mutter und Kind (Detail), 1923, \xC3\x96l auf Leinwand, 47 x 41 cm, Privatbesitz;  ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
+- "Schiele, Egon: Tote Mutter (Detail), 1910, \xC3\x96l auf Holz, 32 x 25,7 cm, Wien, Sammlung Leopold; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Gris, Juan: Portr\xC3\xA4t der Mutter des K\xC3\xBCnstlers (Detail), 1912, \xC3\x96l auf Leinwand, 55 x 46 cm, Privatbesitz; ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
+- "Whistler, James Abbott McNeill, Arrangement in Grau und Scharz. Bildnis der Mutter des K\xC3\xBCnstlers (Detail), 1871, \xC3\x96l auf Leinwand, 144 x 162 cm, Paris, Musee d'Orsay; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen"
+title: "M\xC3\xBCtter"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Die Mutter als Bildmotiv
+date: 2012/03/12
+teaser: "Das Stichwort \xE2\x80\x9EMutter\xE2\x80\x9C liefert im Prometheus-Bildarchiv eine Vielzahl unterschiedlicher  Malereien, Grafiken und Skulpturen."
+collection: 28672
+---
+Das Stichwort „Mutter“ liefert im Prometheus-Bildarchiv eine Vielzahl unterschiedlicher  Malereien, Grafiken und Skulpturen. Viele Künstler zeichneten das Porträt der eigenen Mutter, jung oder alt, warmherzig oder distanziert, mit Humor oder bitterem Ernst. Andere versuchten ein Urbild der Mutter zu schaffen, stillend, sich sorgend, das Kind schützend. Die „ruhende Mutter mit Kind“ von Paula Modersohn-Becker ist eines dieser idyllischen Bilder.
