@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Pierre Bonnard: Place Clichy (Ausschnitt), 1912, \xC3\x96l auf Leinwand, Besancon, Mus\xC3\xA9e des Beaux-Arts et\xC2\xB4Arch\xC3\xA9ologie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Pierre Bonnard: Die rotkarierte Tischdecke (Ausschnitt), 1910, \xC3\x96l auf Leinwand, Schweiz, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Pierre Bonnard: Die Lekt\xC3\xBCre (Ausschnitt), 1905, \xC3\x96l auf Leinwand, Privatsammlung Zollikon; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Pierre Bonnard: Im Badezimmer (Ausschnitt), 1907, \xC3\x96l auf Karton, Lausanne, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Pierre Bonnard: Spiegeleffekt (Ausschnitt), 1909, \xC3\x96l auf Leinwand, Schweiz, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Pierre Bonnard: La salle a manger. Huile sur toile (Ausschnitt), 1925-29, Copenhagen, Glyptotek Ny Carlsberg; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Pierre Bonnard: Der wilde Garten (Ausschnitt), 1918, \xC3\x96l auf Leinwand, Washington, The Philips Collection; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Pierre Bonnard: Le Cannet (Ausschnitt), 1926, \xC3\x96l auf Leinwand, Winterthur, Kunstmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+title: Pierre Bonnard
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Int\xC3\xA9rieur - Ext\xC3\xA9rieur"
+date: 2012/03/16
+teaser: "In his paintings Pierre Bonnard creates spaces - "
+collection: 30684
+---
+In his paintings Pierre Bonnard creates spaces - urban spaces, wild or designed landscapes, as well as interior spaces. A major role plays the different character of exterior and interior, of public and intimacy. The borders between them are often transcended with windows and mirrors.
+The Fondation Beyeler arranged a walk through the different spaces by Pierre Bonnard: the visitor will stroll along the street, will steal a glance into the dining room and the bathroom and will finally look at Bonnards gardens and landscapes. 
+
+*"Pierre Bonnard":http://www.fondationbeyeler.ch/ausstellungen/pierre-bonnard/einleitung-0, 29. Jan. - 13. Mai 2012, Fondation Beyeler, Basel*
