@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Gerhard Richter: Ema / Akt auf einer Treppe (Ausschnitt), 1966, Huile sur toile, 200 x 130 cm, K\xC3\xB6ln, Museum Ludwig; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Gerhard, Richter: Zwei Grau nebeneinander (Ausschnitt), 1966, \xC3\x96l auf Leinwand, 78,6 x 59 Inch, Stuttgart, Sammlung Froehlich; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+- "Gerhard Richter: Korsika (Ausschnitt), 1968, \xC3\x96l auf Leinwand, 86 x 91 cm, o.O.; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Gerhard Richter: Seest\xC3\xBCck (See-See) (Ausschnitt), 1970, \xC3\x96l auf Leinwand, 200 x 200 cm, Berlin, Staatliche Museen - Preu\xC3\x9Fischer Kulturbesitz; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Gerhard Richter: 256 Farben (Ausschnitt), 1974, \xC3\x96l auf Leinwand, 222 x 414 cm, K\xC3\xB6ln, Privatsammlung; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+- "Gerhard Richter: Blumen (Ausschnitt), 1977, \xC3\x96l auf Holz, 40 x 50 cm, D\xC3\xBCsseldorf, Privatbesitz; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Gerhard Richter: Station (Ausschnitt), 1985, \xC3\x96l auf Leinwand, 250 x 250 cm, M\xC3\xBCnchen, Galerie Fred Jahn; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg "
+- "Gerhard Richter: Tote (Ausschnitt), 1988, \xC3\x96l auf Leinwand, 62 x 67 cm, Frankfurt, Museum f\xC3\xBCr Moderne Kunst; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+title: Gerhard Richter
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Retrospective
+date: 2012/03/16
+teaser: "In partnership with the Tate Modern and the Centre Pompidou emerged an exhibition in the National Gallery in Berlin on the occasion of the 80th Birthday of Gerhard Richter.  "
+collection: 30876
+---
+In partnership with the Tate Modern and the Centre Pompidou emerged an exhibition in the National Gallery in Berlin on the occasion of the 80th Birthday of Gerhard Richter.  
+To focus on the variety of his work in every period, they decided to arrange it chronological: figurative works are hanging next to abstract ones, grey ones next to colourful ones. Beginning and ending with new art works, the exhibition is presenting the panorama of a lifework.
+
+*"Gerhard Richter". Panorama:http://www.gerhardrichterinberlin.org/index.php?id=1133, bis 13. Mai 2012, Neue Nationalgalerie, Berlin*
