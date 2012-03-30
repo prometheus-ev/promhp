@@ -1,0 +1,19 @@
+--- 
+descriptions: 
+- "Leonardo da Vinci: Abendmahl (Ausschnitt), 1497, Fresko, 460 x 880 cm, Mailand, Santa Maria delle Grazie; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Ben Willikens: Last Supper (Ausschnitt), 1976-79, Acryl auf Leinwand, 300 x 600 cm, Frankfurt, Deutsches Architekturmuseum; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Andy Warhol: The Last Supper (Ausschnitt), 1986, Siebdruck und Collage mit farbigem Papier auf Papier, 60 x 80 cm, Privatsammlung; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Otto Kern (Entwurf) und Horst Wackerbarth (Fotografie): Wir w\xC3\xBCnschen mit Jesus, dass die M\xC3\xA4nner die Frauen respektieren lernen (Ausschnitt), 1994, Fotografie; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Bettina Rheims und Serge Bramley: Abendmahl (Ausschnitt), 1997, Fotografie; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg "
+- "Ren\xC3\xA9e Cox: Nachstellung der Christus-Figur aus da Vincis \"Abendmahl\" (Ausschnitt), 2001, Fotografie; Datenbank RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg "
+- "Brigitte Niedermaier: Werbefoto des Modehauses Marithe et Francois Girbaud  (Ausschnitt), 2005, Fotografie; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg "
+- "Mary Beth-Edelson: Some Living American Women Artists / Last Supper (Ausschnitt), 1972, Fotografien / Zeichenstift / Tinte; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+layout: series
+title: "Leonardos da Vincis \xE2\x80\x9EAbendmahl\xE2\x80\x9C "
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: ...und seine Nachfolger
+date: 2012/03/30
+teaser: "Die Autorit\xC3\xA4t des Malers da Vinci und die der Kirche scheinen besonders zu Parodien und Provokationen zu inspirieren."
+collection: 31025
+---
+Die Autorität des Malers da Vinci und die der Kirche scheinen besonders zu Parodien und Provokationen zu inspirieren. Dabei reicht die Bandbreite von der künstlerischen Inthronisation über den politischen Protest bis zur Werbestrategie. Andy Warhol variierte das Vorbild in einem Zyklus farbiger Siebdrucke; Ben Willikens entfernte die handelnden Figuren aus der Komposition und Mary Beth-Edelson ersetzte sie durch die Porträts amerikanischer Künstlerinnen; Otto Kern und Brigitte Niedermaier lenkten mit wenig bekleideten Models die Aufmerksamkeit auf Mode-Labels und Reneé Cox verdeutlichte ihren Protest gegen die katholische Kirche mit einem nackten und weiblichen Christus.
