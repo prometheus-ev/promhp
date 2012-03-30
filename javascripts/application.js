@@ -421,6 +421,24 @@ Pandora.Utils = {
     return [[min, value].max(), max].min();
   },
 
+  update_session: function(parameters) {
+    if (Pandora.session_update_url) {
+      if (/^https?:/.test(Pandora.session_update_url)) {
+        window.location.href = Pandora.session_update_url +
+          (Pandora.session_update_url.include('?') ? '&' : '?') +
+          Object.toQueryString(parameters);
+      }
+      else {
+        var _ = new Ajax.Request(Pandora.session_update_url, {
+          parameters:   parameters,
+          evalJS:       false,
+          evalJSON:     false,
+          asynchronous: false
+        });
+      }
+    }
+  },
+
   invisible: $w('hidden noscript'),
 
   prev_checked: {},
@@ -1218,22 +1236,36 @@ Pandora.ElementMethods = {
     }
   },
 
-  toggle_section: function(element) {
+  toggle_section: function(element, class_name, up, expand_text, collapse_text, session_key) {
     element = $(element);
 
-    if (!element.hasClassName('section_toggle')) {
-      element = element.down('.section_toggle');
+    if (!class_name) {
+      class_name = 'section';
+    }
+
+    if (!element.hasClassName(class_name + '_toggle')) {
+      element = element.down('.' + class_name + '_toggle');
       if (!element) {
         return;
       }
     }
 
-    var toggle = element.down();
+    var toggle = element.down(), collapsed;
     if (toggle) {
       toggle.toggle_class_names('expand', 'collapse');
+
+      collapsed = toggle.hasClassName('expand');
+      toggle.title = collapsed ? expand_text : collapse_text;
     }
 
-    element.up().select_by_class_name('section').invoke('toggle');
+    element.up(up || 0).select_by_class_name(class_name).invoke('toggle');
+
+    if (Object.isString(session_key) && !session_key.empty()) {
+      Pandora.Utils.update_session({
+        key:   session_key,
+        value: collapsed ? new Date().getTime() / 1000 : ''
+      });
+    }
   },
 
   expand_section: function(element) {

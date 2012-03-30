@@ -24,7 +24,10 @@
   <%= javascript_link 'vendor' %>
   <%= javascript_link 'application' %>
   <%= javascript_link 'prometheus' %>
-  <script type="text/javascript">Prometheus.lang = '<%= page.lang %>';</script>
+  <script type="text/javascript">
+    Prometheus.lang = '<%= page.lang %>';
+    Pandora.session_update_url = '<%=p 'pandora/update_session' %>';
+  </script>
 
   <link rel="shortcut icon" type="image/x-icon" href="<%=r 'favicon.ico' %>" />
   <link rel="canonical" href="<%= canonical_url %>" />
@@ -82,6 +85,8 @@
   <div id="workspace">
     <div id="sidebar">
       <div id="sidebar_header"></div><div id="sidebar_header_shadow"></div>
+
+      <div id="announcements_wrap"></div>
 
       <div id="login_wrap">
         <form action="<%=p 'login' %>" class="login_form" method="post">
@@ -150,10 +155,7 @@
     </div><div id="main">
       <div id="submenu"><div id="facts"></div></div>
       <div id="content" class="clear-float">
-        <div id="announcements_wrap"></div>
-
         <%= @content %>
-
         <script src="<%=p 'pandora.js' %>" type="text/javascript"></script>
       </div>
       <div id="style-mode-switch">

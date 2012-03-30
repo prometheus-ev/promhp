@@ -24,6 +24,7 @@
       #sidebar
         #sidebar_header
         #sidebar_header_shadow
+        #announcements
       #main
         #submenu
           .menu_link
@@ -53,7 +54,7 @@ body {
 }
 
 #sidebar {
-  display:           inline-block;
+  float:             left;
   width:             264px;
   min-height:        600px;
   vertical-align:    top;
@@ -74,6 +75,70 @@ body {
 #sidebar_header_shadow {
   background-image:  url(../images/misc/sidebar_header_shadow.gif);
   width:             4px;
+}
+
+#announcements_header {
+  height:           26px;
+  background-image: url(../images/sidebar/box_header.gif);
+}
+
+#sidebar div.expand, #sidebar div.collapse,
+#sidebar div.open, #sidebar div.close {
+  background:        none;
+  background-image:  url(../images/sidebar/box_expand.gif);
+  float:             right;
+  width:             22px;
+  height:            26px;
+}
+
+#sidebar div.expand:hover {
+  background-image:  url(../images/sidebar/box_expand_hover.gif);
+}
+
+#sidebar div.expand:active {
+  background-image:  url(../images/sidebar/box_expand_active.gif);
+}
+
+#sidebar div.collapse {
+  background-image:  url(../images/sidebar/box_collapse.gif);
+}
+
+#sidebar div.collapse:hover {
+  background-image:  url(../images/sidebar/box_collapse_hover.gif);
+}
+
+#sidebar div.collapse:active {
+  background-image:  url(../images/sidebar/box_collapse_active.gif);
+}
+
+#sidebar div.open {
+  background-image:  url(../images/sidebar/box_open.gif);
+}
+
+#sidebar div.open:hover {
+  background-image:  url(../images/sidebar/box_open_hover.gif);
+}
+
+#sidebar div.open:active {
+  background-image:  url(../images/sidebar/box_open_active.gif);
+}
+
+#sidebar div.close {
+  background-image:  url(../images/sidebar/box_close.gif);
+}
+
+#sidebar div.close:hover {
+  background-image:  url(../images/sidebar/box_close_hover.gif);
+}
+
+#sidebar div.close:active {
+  background-image:  url(../images/sidebar/box_close_active.gif);
+}
+
+#sidebar div.news_separator {
+  background-image:  url(../images/sidebar/news_separator.gif);
+  width:             260px;
+  height:            2px;
 }
 
 #main {
@@ -406,7 +471,8 @@ div.collapse {
   background-image:  url(../images/misc/header_collapse.gif);
 }
 
-div.query_help table {
+div.query_help table,
+div.edit_help table {
   margin:            0.5em 0;
   padding:           0.5em;
   background-color:  #262626;
@@ -414,6 +480,18 @@ div.query_help table {
 
 div.query_help table td:first-child {
   padding-right:     1em;
+}
+
+#slides-section div.edit_help {
+  margin:            10px;
+}
+
+#slides-section div.edit_help table {
+  background-color:  #303030;
+}
+
+#slides-section div.edit_help table td img.help_icon {
+  margin:            0 5px;
 }
 
 #source_list table {
@@ -641,8 +719,8 @@ body.js .slide-item .icons {
 body.js .slide-item .resize-handle {
   bottom:            0;
   right:             0;
-  width:             10px;
-  height:            10px;
+  width:             11px;
+  height:            11px;
   background-image:  url(../images/misc/resize_handle.gif);
   background-repeat: no-repeat;
 }
@@ -659,6 +737,10 @@ body.js .slide-item.resizing * {
   display:           block;
   text-align:        left;
   background-color:  transparent;
+}
+
+body.presentation-controller.edit-action .slide-item div.image img {
+  box-shadow:        0 0 2px 1px #262626;
 }
 
 .slide-item div.image img.resized {
@@ -714,6 +796,14 @@ body.administration-controller.index-action .gap {
 .pad {
   margin-left:       0.3em;
   margin-right:      0.3em;
+}
+
+dl.fancy dt {
+  font-weight:       bold;
+}
+
+dl.fancy dd {
+  margin-bottom:     1em;
 }
 
 #header {
@@ -1203,11 +1293,6 @@ body.oauth_clients-controller .icon {
   margin-top:        3px;
 }
 
-body.js .slide-item .delete-icon {
-  margin-top:        0;
-  float:             right;
-}
-
 div.image_check_box,
 div.image_radio_button,
 div.slide_radio_button {
@@ -1227,6 +1312,17 @@ div.slide .icons .icon:first-child {
 div.slide-item .icons,
 div.slide .icons .icon {
   margin-left:       0;
+}
+
+body.js .slide-item .icons .icon {
+  position:          absolute;
+  left:              0;
+}
+
+body.js .slide-item .icons .delete-icon {
+  left:              inherit;
+  right:             0;
+  margin-top:        0;
 }
 
 div.slide input[type=radio] {
@@ -1252,7 +1348,7 @@ div.slide input[type=radio] {
   margin-bottom:     15px;
 }
 
-#header-section .thumbnail {
+#header-section div.thumbnail {
   float:             left;
   margin:            5px 10px 15px 10px;
 }
@@ -1265,6 +1361,14 @@ div.slide input[type=radio] {
 .thumbnail_select {
   overflow:          auto;
   border:            1px solid #555555;
+}
+
+body.js .thumbnail_select .thumbnail img {
+  cursor:            pointer;
+}
+
+body.js .thumbnail_select .checked + .thumbnail {
+  border-color:      #FF9933;
 }
 
 .header-line {
@@ -1479,7 +1583,7 @@ body.presentation-controller.edit-action div.scroll {
   white-space:       nowrap;
 }
 
-div.section_toggle {
+div.section_toggle, span.box_toggle {
   cursor:            pointer;
 }
 
@@ -1690,9 +1794,6 @@ div.submit_button:focus .button_right, div.submit_button:active .button_right {
 div.image, td.image, td.thumbnail {
   vertical-align:    middle;
   text-align:        center;
-}
-
-div.image, td.image, td.thumbnail {
   display:           table-cell;
   border:            1px solid #4C4C4C;
   background-color:  #1B1B1B;
@@ -2116,7 +2217,7 @@ div.flash div.flash-controls {
   text-align:        right;
 }
 
-.errorExplanation, div.flash p, div.announcement {
+.errorExplanation, div.flash p {
   padding:           0.5em;
   margin:            0 0 1em 0;
   border-style:      solid;
@@ -2133,21 +2234,16 @@ div.flash div.flash-controls {
 }
 
 div.announcement {
-  border-width:      2px;
+  background-color:  #262626;
+  padding:           0.9em 1em;
 }
 
 div.announcement span.heading {
   display:           block;
-  font-size:         100%;
+  font-weight:       normal;
+  font-size:         90%;
   margin-bottom:     0.5em;
-}
-
-#announcements {
-  margin-bottom:     2em;
-}
-
-#announcements span.heading {
-  margin-right:      1em;
+  color:             #909090;
 }
 
 body.announcement-controller.show-action #content > .announcement {
@@ -2162,6 +2258,10 @@ body.announcement-controller .list_row .description-line {
   margin-bottom:     0;
 }
 
+body.announcement-controller .list_row .announcement {
+  border:            1px solid #505050;
+}
+
 span.heading {
   font-weight:       bold;
   font-size:         110%;
@@ -2172,7 +2272,7 @@ p.debug {
   background-color:  #333333;
 }
 
-p.info, div.announcement {
+p.info {
   border-color:      #FF6633;
   background-color:  #993300;
 }
@@ -2180,17 +2280,17 @@ p.info, div.announcement {
 #errorExplanation,
 .fieldWithErrors,
 .captcha_failed input,
-p.warning, div.failure {
+p.warning {
   border-color:      #FF0000;
   background-color:  #330000;
 }
 
-p.notice, div.feature {
+p.notice {
   border-color:      #00FF00;
   background-color:  #003300;
 }
 
-p.prompt, div.maintenance {
+p.prompt {
   border-color:      #0000FF;
   background-color:  #000033;
 }
@@ -2218,11 +2318,11 @@ p.prompt, div.maintenance {
 }
 
 #content .check_yes {
-  background-image:  url(../images/misc/check_yes.png);
+  background-image:  url(../images/misc/check_yes.gif);
 }
 
 #content .check_no {
-  background-image:  url(../images/misc/check_no.png);
+  background-image:  url(../images/misc/check_no.gif);
 }
 
 #content .warn {
@@ -2294,6 +2394,11 @@ div.comment-heading {
   padding:           0 4px;
 }
 
+div.comment span.truncated {
+  display:           block;
+  margin-bottom:     1em;
+}
+
 div.comment > * > div.comment-heading {
   background-color:  #303030;
 }
@@ -2333,6 +2438,7 @@ body.help-controller img.screenshot {
   border:            1px solid #505050;
   margin-bottom:     0.5em;
   margin-top:        0.5em;
+  display:           block;
 }
 
 body.help-controller h3 a {
@@ -2357,8 +2463,8 @@ body.help-controller h3 a {
 }
 
 table.source-list .sample,
-#databases-section .list_row .sample,
-body.source-controller.show-action .sample {
+body.source-controller.show-action .sample,
+body.institution-controller.show-action .sample {
   width:             720px;
   white-space:       nowrap;
   overflow:          hidden;

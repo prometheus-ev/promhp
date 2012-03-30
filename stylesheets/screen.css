@@ -90,6 +90,8 @@
   white-space:       normal;
 }
 
+#announcements_wrap + #navigation,
+#announcements_wrap + #login_wrap,
 #login_wrap + #campus_login_wrap,
 #navigation + #tag-cloud {
   margin-top:        2px;
