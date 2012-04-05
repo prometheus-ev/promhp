@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Illustrationen der Satirezeitschrift \xE2\x80\x9EDer Simpl\xE2\x80\x9C integriert"
+author: Denise
+tags: 
+- news
+- database
+---
+Mit dem "Simpl":<%=p 'source/show/heidicon_si' %> ist nun eine weitere Datenbank der Universität Heidelberg in prometheus integriert, die sich der Erschließung sämtlicher in der Satirezeitschrift „Der Simpl. Kunst-Karikatur-Kritik“ enthaltenen Karikaturen und Illustrationen widmet und insgesamt 1128 Zeitschriftenseiten mit ca. 1500 Einzelgrafiken umfasst.
+
+Die Digitalisierung des Simpls steht im Zusammenhang mit dem von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projektes „Digitalisierung, webbasierte Bereitstellung und Erschließung von vierzig Kunst- und Satirezeitschriften des 19. bis frühen 20. Jahrhunderts“, von denen auch bereits die Datenbanken "Fliegende Blätter":<%=p 'source/show/heidicon_fb' %> und "Französische Karikaturen":<%=p 'source/show/heidicon_fk' %> in das Bildarchiv integriert wurden.
+

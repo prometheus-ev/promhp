@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Illustrationen der Satirezeitschrift \xE2\x80\x9EDer Simpl\xE2\x80\x9C integriert"
+author: Denise
+tags: 
+- news
+- database
+---
