@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Adrian Zingg: Der Gletscher auf dem Gitschenen-Berg, im Canton Ur\xC3\xBF (Ausschnitt), um 1760, Kupferstich, Bern, Stadt- und Universit\xC3\xA4tsbibliothek, Sammlung Ryhiner; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Adrian Zingg: Wasserm\xC3\xBChle (Ausschnitt aus dem Skizzenbuch), 1766, Dresden, Kupferstichkabinett; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Adrian Zingg: Wasserfall und Br\xC3\xBCcke im Plauenschen Grund (Ausschnitt), 1785, Feder / Pinsel, Dresden, Kupferstichkabinett; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Adrian Zingg: Weinberge an der Elbe bei Dresden (Ausschnitt), 1793, Feder / Aquarell, Wien, Albertina; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Adrian Zingg: Die Keppm\xC3\xBChle bei Pillnitz (Ausschnitt), Feder / Pinsel, Dresden, Kupferstichkabinett; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Adrian Zingg: Dresden von der Bautzner Stra\xC3\x9Fe aus (Ausschnitt), 1799/1801, Radierung, Institution Staatliche Kunstsammlungen, Kupferstich-Kabinett; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen  "
+- "Adrian Zingg: Waldschlucht (Ausschnitt), Feder / Pinsel in Sepia, Dresden, Hochschule f\xC3\xBCr bildende K\xC3\xBCnste; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Adrian Zingg: Dorfplatz in Striesen (Ausschnitt), Sepiazeichnung, Dresden; Datenbank Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+layout: series
+title: Adrian Zingg
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Landscapes
+date: 2012/04/08
+teaser: Adrian Zingg influenced an entire generation of landscape painters.
+collection: 31181
+---
+Adrian Zingg influenced an entire generation of landscape painters. Born in 1734 in St. Gallen, he moved to Dresden in 1766 to teach the subject copperplate engraving at the local Academy of art. The influence on romantic landscape-paintings is obvious in comparison with artworks by Caspar David Friedrich.
+With the portrait painter Anton Graff, from whom the shown portrait of Zingg was made, Zingg hiked through the Thuringian Woods, parts of Bohemia and the Saxon Switzerland in the 1780s and 1790s. The graphic art showing saxon and bohemian landscapes, are the main focus in an exhibition of the Cabinet of Prints in Dresden.
+
+*"Adrian Zingg. Wegbereiter der Romantik":http://www.skd.museum/de/sonderausstellungen/adrian-zingg-wegbereiter-der-romantik/index.html, 17. Februar - 6. Mai 2012, Kupferstich-Kabinett, Residenzschloss*
