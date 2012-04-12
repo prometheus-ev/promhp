@@ -6,8 +6,20 @@ gem GEM_NAME  # fail early
 BASE = File.expand_path('..', __FILE__)
 CONF = File.join(BASE, '_config')
 SITE = File.join(BASE, '_site')
+ENVS = Dir[File.join(CONF, '*.yml')].map { |file| File.basename(file, '.yml') }
 
-task :default => :build
+task :default => [:setup, :build]
+
+desc "Set up build environment"
+task :setup do
+  unless File.exist?(local = File.join(CONF, 'local.yml'))
+    if ENVS.include?(env = ENV['JEKYLL_ENV'])
+      ln_s env + '.yml', local
+    else
+      cp local + '.sample', local
+    end
+  end
+end
 
 desc "Build the site"
 task :build do
@@ -67,12 +79,7 @@ task :tag do
   sh 'git', 'tag', "cl-#{Time.now.to_f}"
 end
 
-local = File.join(CONF, 'local.yml')
-cp local + '.sample', local unless File.exist?(local)
-
-Dir[File.join(CONF, '*.yml')].each { |file|
-  env = File.basename(file, '.yml')
-
+ENVS.each { |env|
   desc "Run following tasks in #{env} environment"
   task env do
     ENV['JEKYLL_ENV'] = env
