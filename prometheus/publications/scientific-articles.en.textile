@@ -6,6 +6,11 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=296&L=1&skin=&tx_ttnews
 <%# TODO: translate %>
 h2. <%= page_title %>
 
+* Dieckmann, Lisa; Kliemann, Anita; Warnke, Martin
+Meta-Image - Forschungsumgebung für den Bilddiskurs in der Kunstgeschichte.
+in: cms-journal. Computer- und Medienservice, 35, 2012, S. 11-17.
+"» zur Publikation":http://edoc.hu-berlin.de/cmsj/35/dieckmann-lisa-11/PDF/dieckmann.pdf
+
 * Lisa Dieckmann; Claus Kalle
 Kooperation von der Datenhaltung im AFS bis zur private Cloud - prometheus Bilddatenbank im zeitlichen Wandel.
 in: Kölner Universitätszeitung, 5, 2010, IT-Beilage, S. 2.
