@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Per Kirkeby: Ohne Titel, 1964, Aquarellfarbe und Collage auf Pauspapier, 29,9 x 22,5 cm, Galerie Michael Werner (Berlin, K\xC3\xB6ln und New York); DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Per Kirkeby: Skulpturen \xE2\x80\x93 Ausstellungsplakat der Galerie Susanne Ottesen, Kopenhagen, 1985, Lithographie, Hamburg, Museum f\xC3\xBCr Kunst und Gewerbe; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Per Kirkeby: Ohne Titel, 1994, 200 x 130 cm, private Sammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Per Kirkeby: Ohne Titel, 1986, Gouache und Tusche und Kohle, 50 x 64,5 cm, K\xC3\xB6ln und New York, Handel, Galerie Michael Werner; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Per Kirkeby: Landschaftsaquarell aus Gr\xC3\xB6nland, 1993, Aquarell, 32 x 41 cm, Aarhus, \xC3\xB6ffentliche Sammlung, Kunstmuseum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Per Kirkeby: Ohne Titel, 1995, \xC3\x96l auf Masonit, 122 x 122 cm, USA, Hall Collection; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Per Kirkeby: Model, 1995, Bronze, 12 x 18 x 10 cm, Kopenhagen, Galleri Bo Bjerggaard; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+- "Per Kirkeby: Ohne Titel, 1995, \xC3\x96l auf Leinwand, 200 x 180 cm, Privatbesitz; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+layout: series
+title: Per Kirkeby
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Eine Retrospektive
+date: 2012/04/15
+teaser: "Das vielf\xC3\xA4ltige Werk Per Kirkebys"
+collection: 31266
+---
+Das vielfältige Werk Per Kirkebys umfasst neben Malerei, Fotografie und Skulptur auch Wandmalerei, grafische Arbeiten (Collagen, Cartoons, Monotypien, Radierungen, Plakate) sowie Bücher, Filme und Kurzgeschichten. Eine Ausstellung im Museum Küppersmühle legt den Schwerpunkt auf das wissenschaftliche Interesse und die Naturbeobachtungen Kirkebys, die vielen Arbeiten zugrunde liegen. Ein weiterer Fokus liegt auf den malerischen Arbeiten Kirkebys in ihrer Entwicklung von den 1970er Jahren bis heute sowie auf den Grafiken dieser Zeit. 
+
+*"Per Kirkeby. Maler - Forscher - Bildhauer – Poet": http://www.museum-kueppersmuehle.de/ausstellungen/aktuelle-ausstellung-per-kirkeby/, 16. März - 28. Mai 2012, MKM – Museum Küppersmühle* 
