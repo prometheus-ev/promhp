@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Jeff Koons: Teil einer Installation mit 3 Schamponierger\xC3\xA4ten, Plexiglas und fluoreszierendem Licht, 1980-86, 142,2 x 91,4 x 38,1 cm, London, Courtesy Anthony d\xC2\xB4Offay Gallery; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte "
+- "Jeff Koons: Teil einer Installation mit 5 Staubsaugern, 2 Schamponierger\xC3\xA4ten, Plexiglas und fluoreszierendem Licht, 1981-87, 231,1 x 137,2 x 71,1 cm, Fonds R\xC3\xA9gional d\xC2\xB4Art Contemporain-Collection Aquitaine; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte "
+- "Jeff Koons: Ushering in Banality, 1988, Holz / farbig gefasst, 96,5 x 157,5 x 76,2 cm, London, Anthony d'Offay Gallery; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jeff Koons: Pink Panther, 1988, Porzellan, 104,1 x 52,1 x 48,3 cm; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte "
+- "Jeff Koons: Cherubim, 1991, Holz / farbig gefasst, 121,9 x 110,5 x 48,3 cm, Aachen, Sammlung Ludwig; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jeff Koons: Rabbit, 1986, Edelstahl, 104,1 x 48,3 x 30,5 cm, New York City, Kunsthandel; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Jeff Koons: Balloon Dog (Blue), 1994-99, verchromter Stahl mit transparenter Farbschicht, 30,7 x 36,3 x 11,4 cm; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Jeff Koons: Balloon Flower (Blue), 1995-99, verchromter Stahl mit transparenter Farbschicht, 289,6 x 335,3 x 274,3 cm; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+layout: series
+title: Jeff Koons
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: in der Schweiz
+date: 2012/04/17
+teaser: "In drei ma\xC3\x9Fgeblichen Werkgruppen stellt die Fondation Beyeler das Werk von Jeff Koons in Basel aus."
+collection: 31098
+---
+In drei maßgeblichen Werkgruppen stellt die Fondation Beyeler das Werk von Jeff Koons in Basel aus. Dazu gehören zum einen die in Plexiglas-Vitrinen unter fluoreszierendem Licht ausgestellten fabrikneuen Haushaltsgeräte aus den 80er Jahren, zum andern die aus Porzellan oder Holz hergestellten, dem Kitsch huldigenden Skulpturen und zuletzt die monumentalen und hochglänzenden Stahlplastiken der 90er Jahre. Die Fondation Beyeler präsentiert damit erstmalig eine Ausstellung des Amerikaners in einem Schweizer Museum.
+
+*Jeff Koons, 13. Mai – 2. September 2012, Fondation Beyeler, Basel*
