@@ -1,0 +1,179 @@
+---
+layout: default
+title: FAQ - Häufig gestellte Fragen
+legacy_url: http://prometheus-bildarchiv.de/index.php?id=21&L=0&skin=0
+---
+h2. <%= page_title %>
+
+h3(#toc). Inhaltsverzeichnis
+
+# "Nutzung des Bildarchivs":#usage
+## "Wie kann ich das Bildarchiv nutzen?":#use
+## "Wie kann ich als Einzelperson das Bildarchiv nutzen?":#anyone
+## "Wie können wir als Institution das Bildarchiv nutzen?":#institution
+## "Was ist ein Campuszugang?":#campus
+## "Kann ich das Bildarchiv von zuhause nutzen?":#home
+## "Was kann ich tun, wenn mir trotz personalisiertem Zugang und richtiger Kennung der Zugang verweigert wird?":#denied
+## "Unserer Hochschule wird trotz Freischaltung des IP-Bereichs der Campuszugang verweigert. Was kann ich tun?":#ip
+## "Ich kann mich bei prometheus nicht einloggen, obwohl meine Hochschule laut Liste der Lizenznehmer einen Campuszugang besitzt. Woran liegt das?":#login
+# "Nutzung einzelner Werkzeuge":#tools
+## "Wie kann ich ein Bild aus prometheus herunterladen?":#download
+## "Ich will Bilder aus prometheus auf meiner privaten Website im Internet zeigen. Darf ich das?":#show
+## "Kann ich Bilddateien aus prometheus für den Druck meiner Dissertation verwenden?":#printing
+## "Kann ich Bilddateien aus prometheus für Prüfungen, Hausarbeiten und Magisterarbeiten verwenden?":#use-images
+## "Ich suche lieber in Google. Was sind die Nachteile?":#google
+## "Warum gibt es in prometheus zu manchen Gebieten sehr viele, zu anderen aber fast keine Bilder?":#domains
+## "Warum ist die Qualität der Bilder so unterschiedlich?":#quality
+## "Was ist eine Bildsammlung?":#collection
+## "Was ist eine Online-Präsentation?":#presentation
+## "Was ist der projektor + editor?":#projektor
+## "Wie kann ich offline eine Präsentation erstellen?":#offline
+## "Was ist ILIAS?":#ilias
+# "Lieferung von Bildmaterial":#data-supply
+## "Wir möchten unsere Bilder gerne in prometheus einspeisen. Was sind die ersten Schritte?":#upload
+## "Wir planen unsere Instituts-Diathek zu digitalisieren. Ist das sinnvoll?":#digitalize
+# "DILPS":#dilps
+
+h3(#usage). Nutzung des Bildarchivs
+
+h4(#use). Wie kann ich das Bildarchiv nutzen?
+
+Das Bildarchiv kann über eine kostengünstige Lizenz genutzt werden.
+
+h4(#anyone). Wie kann ich als Einzelperson das Bildarchiv nutzen?
+
+Sie können das Bildarchiv über eine Einzellizenz für 20 € pro Jahr nutzen. Die Bezahlung erfolgt über eines der Onlinezahlungssysteme PayPal oder Click&Buy.
+Als Alternative ermöglichen wir Ihnen auch die Bezahlung gegen Rechnung, hierbei fällt eine Bearbeitungsgebühr von zzgl. 15 € an.
+
+*Achtung!*
+Schauen Sie aber vorher die "Liste unserer Lizenznehmer":<%=p 'institution/licensed' %> durch. Vielleicht gehören Sie einer hier aufgeführten Institution an und Sie können einen kostenlosen Zugang bekommen.
+
+In beiden Fällen können Sie sich über unser Onlineformular anmelden.
+Hier geht's zur "Neuanmeldung":<%=p 'signup' %>.
+
+h4(#institution). Wie können wir als Institution das Bildarchiv nutzen?
+
+Sie können entweder eine Institutslizenz oder eine Campuslizenz erwerben. Die Preise richten sich nach der Größe Ihrer Institution ("Lizenzgebühren":<%=r 'license/fees' %>).
+
+Für den Erhalt einer Lizenz nehmen Sie zunächst Kontakt mit der Abteilung Digitale Inhalte vom Hochschulbibliothekszentrum (HBZ) auf ("inhalte@hbz-nrw.de":mailto:inhalte@hbz-nrw.de).
+
+Für die IP-Freischaltung und die Administrationsberechtigung zum Einrichten eigener personalisierter Zugänge nehmen Sie Kontakt mit der Geschäftsstelle ("info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de) auf.
+
+h4(#campus). Was ist ein Campuszugang?
+
+Bei einem Campuszugang werden die IP-Adressen der Computer der jeweiligen Hochschule freigeschaltet, so dass die Recherche für alle über das Hochschulnetz möglich ist.
+
+h4(#home). Kann ich das Bildarchiv von zuhause nutzen?
+
+Ja, entweder über einen personalisierten Zugang mit Benutzername und Passwort oder indem Sie sich über das Hochschulnetz ins Internet einwählen und dann über den Campuszugang ins Bildarchiv gelangen.
+
+h4(#denied). Was kann ich tun, wenn mir trotz personalisiertem Zugang und richtiger Kennung der Zugang verweigert wird?
+
+Zunächst einmal können Sie überprüfen, ob Ihr Benutzername und das Passwort korrekt sind. Haben Sie Groß- und Kleinschreibung beachtet?
+
+Wenn Sie Ihr Passwort vergessen haben, können Sie über die 'Passwort vergessen'-Funktion ein neues Passwort generieren: "Passwort zurücksetzen":<%=p 'password' %>.
+
+Außerdem sollten Sie überprüfen, ob in Ihrem Browser die Annahme von Cookies erlaubt ist.
+
+Wenn Sie den *Internet Explorer* nutzen, können Sie unter Extras - Internetoptionen - Datenschutz -  "Alle Cookies annehmen" einstellen.
+Wenn Sie *Mozilla Firefox* nutzen, können Sie unter Extras - Einstellungen - Datenschutz - Cookies - "Cookies akzeptieren" anklicken.
+Wenn Sie *Opera* nutzen, können Sie unter Extras - Einstellungen - Erweitert - Cookies - "Cookies annehmen" anklicken.
+
+h4(#ip). Unserer Hochschule wird trotz Freischaltung des IP-Bereichs der Campuszugang verweigert. Was kann ich tun?
+
+Bitte überprüfen Sie die freigeschalteten IPs bei der Geschäftsstelle.
+
+Fragen Sie bei Ihrem eigenen Rechenzentrum, ob ein Proxy-Server dazwischen geschaltet ist. Wenn ja, lassen Sie diesen auch frei schalten und geben Sie die Information an die Geschäftsstelle ("info@prometheus-bildarchiv":mailto:info@prometheus-bildarchiv.de) weiter.
+
+h4(#login). Ich kann mich bei prometheus nicht einloggen, obwohl meine Hochschule laut Liste der Lizenznehmer einen Campuszugang besitzt. Woran liegt das?
+
+Das könnte entweder daran liegen, dass Sie an einem Computer arbeiten, der nicht zum Hochschulnetz gehört, z.B. zu Hause oder dass bei der Freischaltung der IP-Adressen Ihrer Hochschule Probleme aufgetreten sind.
+
+Für den ersten Fall können Sie sich einen personalisierten Zugang anlegen über den Button "Neu anmelden" auf unserer Startseite. Für den zweiten Fall informieren Sie bitte die an Ihrer Hochschule zuständigen Personen (Administrator, Rechenzentrum, ...) über Ihre Schwierigkeiten. Beachten Sie bitte auch unsere "Hinweise in der Hilfe":<%=p 'help/login#problems' %>.
+
+!<%=r 'files/icons/up.gif' %>!:#toc "Zurück zum Inhaltsverzeichnis":#toc
+
+h3(#tools). Nutzung einzelner Werkzeuge
+
+h4(#download). Wie kann ich ein Bild aus prometheus herunterladen?
+
+Sie können das gewünschte Bild aus der Ergebnisliste durch nochmaliges Klicken vergrößern und dann per rechten Mausklick auf dem eigenen Rechner abspeichern.
+
+h4(#show). Ich will Bilder aus prometheus auf meiner privaten Website im Internet zeigen. Darf ich das?
+
+Nein, meist nicht. Sie dürfen nur die Bilder auf ihrer Webseite zeigen, bei denen keine Urheberrechte tangiert werden.
+Dies betrifft aber nur die Bilder, bei denen die Verwertungsrechte des Künstlers am Werk (ab 70 Jahre nach dem Tod des Künstlers) oder die Leistungsschutzrechte eines Fotografen an der Fotografie (ab 50 Jahr nach Erscheinen) nicht mehr berührt werden.
+Andernfalls sind stets bei den Urhebern und/oder der VG Bild-Kunst die Rechte einzuholen.
+
+h4(#printing). Kann ich Bilddateien aus prometheus für den Druck meiner Dissertation verwenden?
+
+Nein, meist nicht. Sie dürfen nur die Bilder für den Druck Ihrer Dissertation verwenden, bei denen keine Urheberrechte tangiert werden.
+Dies betrifft aber nur die Bilder, bei denen die Verwertungsrechte des Künstlers am Werk (ab 70 Jahre nach dem Tod des Künstlers) oder die Leistungsschutzrechte eines Fotografen an der Fotografie (ab 50 Jahr nach Erscheinen) nicht mehr berührt werden.
+Andernfalls sind stets bei den Urhebern und/oder der VG Bild-Kunst die Rechte einzuholen.
+
+h4(#use-images). Kann ich Bilddateien aus prometheus für Prüfungen, Hausarbeiten und Magisterarbeiten verwenden?
+
+Ja, dürfen Sie, wenn es sich ausschließlich um Qualifikationsarbeiten im Rahmen des Studiums handelt, die nicht publiziert werden.
+
+h4(#google). Ich suche lieber in Google. Was sind die Nachteile?
+
+Sie finden dort zumeist schlechtere Bildqualität oder schlechtere Bildbeischriften.
+
+h4(#domains). Warum gibt es in prometheus zu manchen Gebieten sehr viele, zu anderen aber fast keine Bilder?
+
+prometheus selber besitzt keine Bilder, sondern ist abhängig von den Bilddatenbanken, die die Bilder liefern. Hier gibt es trotz der bestehenden Vielfalt noch viele Lücken. Wenn Sie wichtige Bilder haben oder eine wichtige Bilddatenbank kennen, dann wenden Sie sich an die "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de. Wir binden diese Bilddatenbanken gerne ein.
+
+h4(#quality). Warum ist die Qualität der Bilder so unterschiedlich?
+
+Die Qualität der Bilder ist so gut, wie sie von den Bilddatenbanken aus den Instituten, Forschungsprojekten, Museen und Archiven bereit gestellt werden. Wenn Sie auf ein sehr schlechtes Bild treffen, dann wenden Sie sich bitte per Mail an den zuständigen Projektverantwortlichen.
+
+h4(#collection). Was ist eine Bildsammlung?
+
+Eine Bildsammlung ist eine Ablege- und Sortiermöglichkeit von Bildern zur Weiterverarbeitung für eine Präsentation. Die Nutzung der Arbeitsmappe ist nur online und über einen personalisierten Zugang möglich.
+
+h4(#presentation). Was ist eine Online-Präsentation?
+
+Eine Online-Präsentation ist eine Präsentationsmöglichkeit für Bilder. Sie kann nur mit Bildern aus der Bildsammlung bestückt werden. Eigene Bilder können hier nicht eingefügt werden. Die Nutzung der Online-Präsentation ist nur online und über einen personalisierten Zugang möglich.
+
+h4(#projektor). Was ist der projektor + editor?
+
+Der projektor + editor ist ein eigenständiges Programm, das Sie herunterladen und kostenlos zur Präsentation von Bildern in Vorträgen und im Seminar nutzen können: "Werkzeuge - Programme":<%=r 'tools/programs/projektor-editor' %>.
+
+Der *projektor* zeigt den im editor erstellten Vortrag mit Einzelbildschaltungen, Direktauswahl, Texteinblendungen und Vergrößerungen.
+Mit dem *editor* können heruntergeladene Bilder wie auf einem Leuchtpult gesammelt und sortiert werden. Dies ist auch ohne persönlichen Account möglich.
+
+Infoblatt "Erstellen einer Bildpräsentation mit editor und projektor" - herunterzuladen unter: "Werkzeuge - Leitfaden (eikonline 3)":<%=r 'tools/manuals/eikonline-3' %>
+
+h4(#offline). Wie kann ich offline eine Präsentation erstellen?
+
+Sie können mit dem "projektor + editor":<%=r 'tools/programs/projektor-editor' %> offline eine Präsentation erstellen. Dazu laden Sie aus prometheus die Bilder herunter und erstellen eine Präsentation mit dem Projektor. Hier können Sie auch eigene Bilder einfügen.
+Sie können auch mit Power-Point oder anderen Präsentationsprogrammen offline eine Präsentation erstellen. Dazu laden Sie ebenfalls die Bilder herunter und fügen sie in das Programm ein. Hier können Sie auch eigene Bilder einfügen.
+
+h4(#ilias). Was ist ILIAS?
+
+ILIAS ist eine Online-Lern- und Lehrplattform. Mit ILIAS können Lehrende E-Learning-Kursmaterialien erstellen, Online-Tests zu Wissensprüfungen einrichten und virtuelle Seminare oder Vorlesungen durchführen. Der Zugriff ist von jedem internetfähigen Computer aus möglich. Die Anmeldung mit Gastrechten erfolgt online. Wenn Sie weitere Rechte benötigen, wenden Sie sich bitte an die "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de.
+
+!<%=r 'files/icons/up.gif' %>!:#toc "Zurück zum Inhaltsverzeichnis":#toc
+
+h3(#data-supply). Lieferung von Bildmaterial
+
+h4(#upload). Wir möchten unsere Bilder gerne in prometheus einspeisen. Was sind die ersten Schritte?
+
+Zunächst erstellen Sie eine eigene Datenbank.
+
+Dann gibt es mehrere Möglichkeiten, wie Ihre Datenbank eingebunden werden kann.
+
+1. Sie schicken uns einen XML-Dump mit dem Inhalt und den Bilddateien und wir halten die Daten auf dem prometheus-Server für Sie vor.
+2. Sie liefern uns nur einen XML-Dump mit dem Inhalt und halten die Bilddateien auf Ihrem Server selber vor. Sie sind dann für den Zugriff auf Ihren Server selber verantwortlich.
+
+Weitere Möglichkeiten und Varianten erfragen Sie bitte bei der Geschäftsstelle (s.a. "Informationen für Datenbanklieferer":<%=r 'databases' %>).
+
+h4(#digitalize). Wir planen unsere Instituts-Diathek zu digitalisieren. Ist das sinnvoll?
+
+Grundsätzlich ist das nicht sinnvoll, weil die meisten Dias in den Diatheken aus Büchern abfotografiert wurden. Eine digitale Neuaufnahme ist meist besser. Lediglich die Originaldias mit Ansichten und Objekten, die es in der Literatur nicht gibt, sollten eingescannt werden.
+
+!<%=r 'files/icons/up.gif' %>!:#toc "Zurück zum Inhaltsverzeichnis":#toc
+
+h3(#dilps). DILPS
+
+"FAQ":http://wiki.dilps.net/DILPS-FAQ der DILPS-Dokumentation
