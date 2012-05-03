@@ -38,6 +38,16 @@ var Prometheus = {
 
   remove_mobile_stylesheet: function() {
     $('mobil-stylesheet').remove();
+  },
+
+  newwindow: function() {
+    $$('a.newwindow').each(function(i) {
+      if (!Object.isString(i.target) || i.target.blank()) {
+        i.target = '_blank';
+      }
+    });
   }
 
 };
+
+document.observe('dom:loaded', Prometheus.newwindow.bindAsEventListener(document));
