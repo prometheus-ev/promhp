@@ -300,19 +300,3 @@
   - :title_en: PKND
     :title_de: PKND
     :url: tools/pknd
-- :title_en: FAQ
-  :title_de: FAQ
-  :url: faq
-  :content:
-  - :title_en: Utilisation of the prometheus image archive
-    :title_de: Nutzung des verteilten Bildarchivs prometheus
-    :url: faq/usage
-  - :title_en: Use of single tools
-    :title_de: Nutzung einzelner Werkzeuge
-    :url: faq/tools
-  - :title_en: Supplying images
-    :title_de: Lieferung von Bildmaterial
-    :url: faq/data-supply
-- :title_en: Blog
-  :title_de: Blog
-  :url: blog
