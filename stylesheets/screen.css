@@ -19,6 +19,12 @@
   text-decoration:   none;
 }
 
+#series a {
+  width:             754px;
+  overflow:          hidden;
+  white-space:       nowrap;
+}
+
 #series img {
   width:             50px;
   height:            50px;
@@ -43,13 +49,12 @@
 }
 
 .series-items p {
-  width:             500px;
   height:            100px;
 }
 
 .series-start-image {
   float:             right;
-  margin-top:        0;
+  margin:            -2em 3em 0 3em;
 }
 
 #facts {
@@ -154,6 +159,17 @@
 #content h2 {
   line-height:       1.2em;
   padding-top:       0.4em;
+}
+
+#content > p,
+#content > table,
+#content > .series-items p,
+#content > h2, #content > h3, #content > h4 {
+  width:             540px;
+}
+
+#content > p.series-start-image {
+  width:             inherit;
 }
 
 .nopandora {

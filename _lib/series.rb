@@ -118,7 +118,8 @@ module Jekyll
             :title      => data['title'],
             part.to_sym => case part
               when 'row'
-                ImageSeries.items(self)
+                items = ImageSeries.items(self)
+                items.concat(items.shuffle)
               when 'teaser'
                 subtitle = data['subtitle'].to_s.strip
 
