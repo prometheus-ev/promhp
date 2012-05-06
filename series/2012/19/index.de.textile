@@ -1,0 +1,19 @@
+--- 
+layout: series
+descriptions: 
+- "Wassily Kandinsky: Almanach \xE2\x80\x9EDer Blaue Reiter\xE2\x80\x9C (Ausschnitt), 1911, Farbholzschnitt, 32,6 x 23,8 cm, Kochel, Franz Marc Museum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Wassily Kandinsky: Komposition V (Ausschnitt), 1911, \xC3\x96l auf Leinwand, 190 x 275 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Franz Marc: Die gro\xC3\x9Fen blauen Pferde (Ausschnitt), 1911, \xC3\x96l auf Leinwand, 181 x 104 cm, Minneapolis (Minnesota), Walker Art Center; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen   "
+- "Alexej von Jawlensky: Portrait du danseur Sacharoff. Huile sur toile (Ausschnitt), 1909, \xC3\x96l auf Leinwand, 69,5 x 66,5 cm, M\xC3\xBCnchen, St\xC3\xA4dtische Galerie (Lenbachhaus); Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Robert Delaunay: Marsfeld, Der Rote Turm (Ausschnitt), 1911, \xC3\x96l auf Leinwand, 162,6 x 130,9 cm, Chicago, Art Institute; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Gabriele M\xC3\xBCnter: Wind und Wolken (Ausschnitt), 1910, \xC3\x96l auf Pappe, 50 x 65 cm, Hannover, Sprengelmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Heinrich Campendonk: Idyll in Sindelsdorf (Ausschnitt), 1913, \xC3\x96l auf Leinwand, 129,5 x 100cm, Wien, Museum moderner Kunst; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Wassily Kandinsky: Titelvignette f\xC3\xBCr den Katalogumschlag der ersten Ausstellung \"Der Blaue Reiter\" (Ausschnitt), 1911; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn "
+title: Der blaue Reiter
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Ein Almanach
+date: 2012/05/06
+teaser: "Vor hundert Jahren erschien der Almanach \xE2\x80\x9EDer blaue Reiter\xE2\x80\x9C."
+collection: 30992
+---
+Vor hundert Jahren erschien der Almanach „Der blaue Reiter“. Ausgetreten aus der Neuen Künstlervereinigung München, hatten sich Wassily Kandinsky und Franz Marc zusammengetan, um ihre Ideen zur modernen bildenden Kunst, Musik und Bühnenbildnerei in einer Veröffentlichung kundzutun. Nachdem Marc schließlich am 11.05.1912 die Beleg-Exemplare des Almanachs erhalten hatte,  schrieb er an Kandinsky: „Der Eindruck des Buches ist doch ein fabelhafter. […] Viele Stille im Lande und junge Kräfte werden uns heimlich Dank wissen, sich an dem Buch begeistern und die Welt nach ihm prüfen.“
