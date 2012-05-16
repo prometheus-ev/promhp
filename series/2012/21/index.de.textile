@@ -1,0 +1,29 @@
+--- 
+layout: series
+descriptions: 
+- "Rosalba Carriera: Fr\xC3\xBChling (Ausschnitt), 1726/28, Pastellkreide auf Papier, Mus\xC3\xA9e des Beaux-Arts, Dijon; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Sandro Botticelli: Primavera (Ausschnitt), um 1482, Tempera auf Pappelholz, 203 x 314 cm; Florenz, Galleria degli Uffizi Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Wilhelm Lachnit: Der traurige Fr\xC3\xBChling (Ausschnitt), 1933, \xC3\x96l auf Holz, 35 cm x 29 cm, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Nationalgalerie ArtICON, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Gie\xC3\x9Fen "
+- "Franz von Stuck: Fr\xC3\xBChling (Ausschnitt), 1909, \xC3\x96l auf Leinwand, 62,8 x 60,3 cm, Hessisches Landesmuseum, Darmstadt; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Bartolom\xC3\xA9 Esteban Murillo: Der Fr\xC3\xBChling als Blumenm\xC3\xA4dchen (Ausschnitt), um 1660-65, \xC3\x96l auf Leinwand, 121,3 x 98,7cm, The Trustees of Dulwich Picture Gallery, London; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte, Bern "
+- "Georges Lacombe: Die Lebensalter, Der Fr\xC3\xBChling (Ausschnitt), 1893/1895, Tempera auf Leinwand, 151 x 240 cm, Genf, Petit Palais; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Alfons Mucha: Fr\xC3\xBChling (Ausschnitt), 1896, Farblithographie, 95,5 x 50 cm; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t, Universit\xC3\xA4tsbibliothek, Heidelberg "
+- "Giuseppe Arcimbolde: Fr\xC3\xBChling (Ausschnitt), 1563, \xC3\x96l auf Holz, 66,7 x 50,4 cm, Madrid, Real Academia de Bellas Artes de San Fernando; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+title: "Fr\xC3\xBChling"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2012/05/16
+teaser: "Fr\xC3\xBChling l\xC3\xA4sst sein blaues Band"
+collection: 30678
+---
+Frühling lässt sein blaues Band
+Wieder flattern durch die Lüfte
+Süße, wohlbekannte Düfte
+Streifen ahnungsvoll das Land
+Veilchen träumen schon,
+Wollen balde kommen
+Horch, von fern ein leiser Harfenton!
+Frühling, ja du bist's!
+Dich hab ich vernommen!
+
+Eduard Mörike (1829)
