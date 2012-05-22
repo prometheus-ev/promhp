@@ -1,5 +1,7 @@
 Dir["#{ENV['DEVEL']}/jekyll-*/lib"].each { |d| $:.unshift(d) } if ENV['DEVEL']
 
+YAML::ENGINE.yamler = 'syck' if YAML.const_defined?(:ENGINE)
+
 LIBDIR = File.expand_path('../../_lib', __FILE__)
 
 %w[

@@ -73,6 +73,6 @@ ExpiresActive On
 <% {
   '1 month' => %w[image/*],
   '1 week'  => %w[text/css text/javascript application/javascript application/x-javascript]
-}.each { |duration, types| types.each { |type| -%>
+}.sort.each { |duration, types| types.each { |type| -%>
 ExpiresByType <%= type %> "access plus <%= duration %>"
 <% } } -%>
