@@ -9,6 +9,7 @@ title_de:
 
 engine:      erb
 exclude:     [Rakefile]
+encoding:    UTF-8
 pygments:    true
 prefix_lang: true
 
