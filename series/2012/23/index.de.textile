@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Paloma Varga Weisz: Bumpman, sickpainted, 2003, Lindenholz, 70 x 26 x 45 cm; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn "
+- "Rosemarie Trockel: Balaklava, 1986, Wolle, 29,7 x 19,7 x 4 cm, K\xC3\xB6ln, Monika Spr\xC3\xBCth Galerie; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Paloma Varga Weisz: Galgenfigur (sechsarmig), 2003-2004, Lindenholz / Stoff, Figur: 160 x 175 x 106 cm, Plattform: 171 x 135 cm, insgesamt 230 cm hoch; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn "
+- "Rosemarie Trockel: Freude, 1988, Wolle, 210 x 175 cm, Privatsammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Paloma Varga Weisz: Nischenfiguren, 1999, Lindenholz, je: 33 x 10 x 8 cm; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn "
+- "Rosemarie Trockel: Hammer und Sichel auf rot-wei\xC3\x9F-gestreiftem Grund, 1986, Wolle, Collection of Arthur and Carol Goldberg; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Paloma Varga Weisz: Hirsch, stehend, 1993, Lindenholz, 92 x 14 x 6,5 cm, Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn "
+- "Rosemarie Trockel: braunes Wollsiegel auf schwarzem Grund, 1986, Wolle / Leinwand, 140 x 140 cm; Hamburg, Kunsthalle  Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+title: Trockel and Varga Weisz
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Eine gemeinsame Ausstellung
+date: 2012/05/22
+teaser: "In den Arbeiten der K\xC3\xBCnstlerinnen Rosemarie Trockel (1952) und Paloma Varga Weisz (1966) lassen sich manches Mal \xC3\xA4hnliche Themen erkennen. "
+collection: 31101
+---
+In den Arbeiten der Künstlerinnen Rosemarie Trockel (1952) und Paloma Varga Weisz (1966) lassen sich manches Mal ähnliche Themen erkennen. Verwandt sind ihren Arbeiten zum Beispiel die Selbstreflexionen, die auch im Zusammenhang mit der Rolle weiblicher Kunst im männlich dominierten Kunstbetrieb gesehen werden können. Trockel und Varga Weisz konzipieren für das Schloss Morsbroich eine gemeinsame Ausstellung. Dabei werden sowohl die Auseinandersetzung mit dem Ausstellungsort, als auch die Interaktion der Künstlerinnen untereinander eine Rolle spielen.
+
+*"Rosemarie Trockel. Paloma Varga Weisz":http://www.museum-morsbroich.de/index.php?id=ausstellungen&ftu=fe3f2a694559c2385cc9e28f723208a0, 17. Juni 2012 - 30. September 2012, Museum Morsbroich*
