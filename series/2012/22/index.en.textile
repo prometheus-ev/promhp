@@ -1,4 +1,5 @@
 --- 
+layout: series
 descriptions: 
 - "Jeff Koons: Teil einer Installation mit 3 Schamponierger\xC3\xA4ten, Plexiglas und fluoreszierendem Licht, 1980-86, 142,2 x 91,4 x 38,1 cm, London, Courtesy Anthony d\xC2\xB4Offay Gallery; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
 - "Jeff Koons: Teil einer Installation mit 5 Staubsaugern, 2 Schamponierger\xC3\xA4ten, Plexiglas und fluoreszierendem Licht, 1981-87, 231,1 x 137,2 x 71,1 cm, Fonds R\xC3\xA9gional d\xC2\xB4Art Contemporain-Collection Aquitaine; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte "
@@ -8,7 +9,6 @@ descriptions:
 - "Jeff Koons: Rabbit, 1986, Edelstahl, 104,1 x 48,3 x 30,5 cm, New York City, Kunsthandel; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
 - "Jeff Koons: Balloon Dog (Blue), 1994-99, verchromter Stahl mit transparenter Farbschicht, 30,7 x 36,3 x 11,4 cm; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
 - "Jeff Koons: Balloon Flower (Blue), 1995-99, verchromter Stahl mit transparenter Farbschicht, 289,6 x 335,3 x 274,3 cm; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
-layout: series
 title: Jeff Koons
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: in Switzerland
@@ -18,4 +18,4 @@ collection: 31098
 ---
 With three significant groups of work the Fondation Beyeler is showing the art by Jeff Koons in Basel. Including on one hand the brand new household appliances presented in plexiglass cases, on the other hand the kitchy sculptures made of porcelain or wood and at last the monumental steel-sculptures. The Fondation Beyeler is presenting the first exhibition with art works by Jeff Koon in a Swiss museum.
 
-*Jeff Koons, May 13th – September 2nd 2012, Fondation Beyeler, Basel*
+*"Jeff Koons": http://www.fondationbeyeler.ch/ausstellungen/jeff-koons/einleitung, May 13th – September 2nd 2012, Fondation Beyeler, Basel*
