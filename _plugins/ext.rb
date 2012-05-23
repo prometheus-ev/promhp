@@ -23,8 +23,7 @@ LIBDIR = File.expand_path('../../_lib', __FILE__)
   core_ext localization
   helpers navigation rendering
   site page post pagination
-  series tagger filters
-  initializer authors
+  series tagger filters authors
 ].each { |lib|
   require File.join(LIBDIR, lib)
 }

@@ -6,7 +6,11 @@ module Jekyll
 
     def process
       load_environment(ENV['JEKYLL_ENV'] ||= 'local')
-      config['uri'] = URI.parse(config['url'])
+
+      config.update(
+        'authors' => YAML.load_file(File.join(source, '_authors.yml')),
+        'uri'     => URI.parse(config['url'])
+      )
 
       if Object.const_defined?(:Encoding) && encoding = config['encoding']
         Encoding.default_external = encoding

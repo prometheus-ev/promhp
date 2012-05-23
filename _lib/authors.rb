@@ -3,7 +3,7 @@ module Jekyll
   class AuthorGenerator < Generator
 
     def generate(site)
-      @authors = site.config['authors'] = YAML.load_file(File.join(site.source, '_authors.yml'))
+      @authors = site.config['authors']
       generate_author_pages(site)
       generate_author_index(site)
     end
@@ -11,7 +11,7 @@ module Jekyll
     def get_posts(site, author, lang)
       site.posts.select { |p|
         p.data['author'] == author && p.lang == lang
-      }.sort.reverse
+      }.sort!.reverse!
     end
 
     def generate_author_pages(site)
