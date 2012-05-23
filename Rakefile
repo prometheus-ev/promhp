@@ -1,7 +1,7 @@
-require 'benchmark'
+$:.unshift("#{ENV['VENDOR']}/jekyll/lib") if ENV['VENDOR']
 
-GEM_NAME = 'jekyll'
-gem GEM_NAME  # fail early
+require 'benchmark'
+require 'jekyll'
 
 BASE = File.expand_path('..', __FILE__)
 CONF = File.join(BASE, '_config')
@@ -97,16 +97,35 @@ end
 def build(src = nil)
   site, tmp, old = site_paths
 
-  argv, args = ARGV.dup, [tmp]
-  args.unshift(src) if src
+  options = { 'destination' => tmp }
+  options['source'] = src if src
 
-  ARGV.replace(args)
-
-  load Gem.bin_path(GEM_NAME, GEM_NAME)
+  profile { Jekyll::Site.new(Jekyll.configuration(options)).process }
 
   mv site, old if File.exist?(site)
   mv tmp, site
 ensure
   [old, src].each { |dir| rm_rf dir if dir }
-  ARGV.replace(argv)
+end
+
+def profile
+  return yield unless dir = ENV['PROFILE_JEKYLL']
+
+  require 'ruby-prof'
+
+  result, base = RubyProf.profile { yield },
+    File.join(BASE, dir, "prof-#{Time.now.to_i}")
+
+  {
+    :txt   => :FlatPrinter,
+    :lines => :FlatPrinterWithLineNumbers,
+    :html  => :GraphHtmlPrinter,
+    :stack => :CallStackPrinter
+  }.each { |ext, name|
+    File.open("#{base}.#{ext}", 'w') { |f|
+      RubyProf.const_get(name).new(result).print(f)
+    }
+  }
+
+  warn "Profile: #{base}"
 end
