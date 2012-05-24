@@ -2,6 +2,10 @@ module Jekyll
 
   module Helpers
 
+    def self.cache(*keys)
+      (@__cache__ ||= {})[keys] ||= yield
+    end
+
     def external_url?(str)
       str =~ %r{\A[a-z]+://}
     end
@@ -22,13 +26,18 @@ module Jekyll
     end
 
     def blog?(url)
-      d = if site.respond_to?(:config)
-        site.config.values_at(*%w[tag_page_dir permalink])
-      else
-        [site.tag_page_dir, site.permalink]
-      end
+      url =~ Helpers.cache(:blog_re) {
+        tag_page_dir, permalink = if site.respond_to?(:config)
+          site.config.values_at(*%w[tag_page_dir permalink])
+        else
+          [site.tag_page_dir, site.permalink]
+        end
 
-      url =~ %r{\A/?(?:#{Regexp.union(/page\d+/, d[0], d[1][%r{\A/:?(\w+)}, 1])})(?:/|\z)}
+        %r{\A/?(?:#{Regexp.union(
+          /page\d+/, tag_page_dir,
+          permalink[%r{\A/:?(\w+)}, 1]
+        )})(?:/|\z)}
+      }
     end
 
   end

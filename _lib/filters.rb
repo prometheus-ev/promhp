@@ -106,6 +106,8 @@ module Jekyll
       ].join(' ')
     end
 
+    alias_method :_prometheus_original_tag_url, :tag_url
+
     def tag_url(tag, dir = site.tag_page_dir)
       r(File.join(dir, u(tag)))
     end
