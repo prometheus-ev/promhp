@@ -2,23 +2,33 @@ module Jekyll
 
   module Navigation
 
+    def self.cache(*keys)
+      (@__cache__ ||= {})[keys] ||= yield
+    end
+
     def render_navigation_level(level)
-      "<ul>\n#{level.inject('') { |out, i| out << render_navigation_item(i) if i }}</ul>\n"
+      out = "<ul>\n"
+      level.each { |item| out << render_navigation_item(item) if item }
+      out << "</ul>\n"
     end
 
     def render_navigation_item(item)
-      return '' if !external_url?(item[:url]) && Dir[File.join(site.source, "#{item[:url]}*")].empty?
+      Navigation.cache(:navigation_item, item[:title_en], lang, @dir, @name) {
+        if !external_url?(item[:url]) && Dir[File.join(site.source, "#{item[:url]}*")].empty?
+          ''
+        else
+          path = File.join(@dir, basename)
+          uri  = site.config['uri'] if data['make_absolute_urls']
 
-      path = File.join(@dir, basename)
-      uri  = site.config['uri'] if data['make_absolute_urls']
+          name = item["title_#{lang}".to_sym]
+          name = "<a href=\"#{relative_url(item[:url], uri || path)}\">#{name}</a>" if item[:url]
 
-      name = item["title_#{lang}".to_sym]
-      name = "<a href=\"#{relative_url(item[:url], uri || path)}\">#{name}</a>" if item[:url]
+          active = active?(item, path[1..-1])
+          content = "\n#{render_navigation_level(item[:content])}\n" if item[:content] && active
 
-      active = active?(item, path[1..-1])
-      content = "\n#{render_navigation_level(item[:content])}\n" if item[:content] && active
-
-      "<li#{' class="active"' if active}>#{name}#{content}</li>\n"
+          "<li#{' class="active"' if active}>#{name}#{content}</li>\n"
+        end
+      }
     end
 
     def active?(item, path)
@@ -28,15 +38,9 @@ module Jekyll
     end
 
     def load_navigation
-      data['navigation'] = render_navigation_level(
-        YAML.load(
-          ERB.new(
-            File.read(
-              File.join(site.source, '_navigation.yml')
-            )
-          ).result(binding)
-        )
-      )
+      data['navigation'] = render_navigation_level(Navigation.cache(:navigation, lang) {
+        YAML.load(ERB.new(File.read(File.join(site.source, '_navigation.yml'))).result(binding))
+      })
     end
 
   end
