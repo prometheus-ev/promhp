@@ -29,6 +29,32 @@ module Jekyll
       end
     end
 
+    alias_method :_prometheus_original_reset, :reset
+
+    def reset
+      _prometheus_original_reset
+      @_site_payload_memo = nil
+    end
+
+    alias_method :_prometheus_original_site_payload, :site_payload
+
+    def site_payload
+      @_site_payload_memo ||= _prometheus_original_site_payload
+    end
+
+    def add_payload(payload)
+      config.update(payload)
+      set_payload(payload) if @_site_payload_memo
+    end
+
+    def set_payload(payload)
+      site_payload['site'].update(payload)
+    end
+
+    def get_payload(key)
+      site_payload['site'][key]
+    end
+
     private
 
     def load_environment(env)
