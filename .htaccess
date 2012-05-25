@@ -39,8 +39,8 @@ RewriteRule \A(?:t3pro|index\.php\z) /? [L,R=permanent]
 # beschreibungscoach.de
 RewriteRule \Abc<%= multiview_ext %>(?:\z|/) <%= File.join(site.uri.path, 'tools/modules/method-coach/beschreibungscoach') %> [L,R=permanent]
 
-# Code login
-RewriteRule \Acode<%= multiview_ext %>(?:\z|/) <%=p 'code' %> [L,R]
+# Trial
+RewriteRule \Atrial<%= multiview_ext %>(?:\z|/) <%=p 'trial' %> [L,R]
 
 # esPrix
 RewriteRule \Aesprix<%= multiview_ext %>(?:\z|/) <%= File.join(site.uri.path, 'tools/esprix/2011') %> [L,R]
