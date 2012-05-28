@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Edgar Degas: Studie zu \"Miss Lala im Zirkus Fernando\" (Ausschnitt), 1879,  Pastell, 61 x 48 cm, London, Tate Gallery; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+- "Bohumil Kubista: Zirkus (Ausschnitt), 1911, \xC3\x96l auf Leinwand, Karlsbad, St\xC3\xA4dtische Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Ernst Ludwig Kirchner: Das Zelt (Ausschnitt), 1914, \xC3\x96l auf Leinwand, 101,5 x 76 cm, M\xC3\xBCnchen, Staatsgalerie Moderner Kunst; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Otto Dix: Zirkus (Ausschnitt), 1922, Aquarell / Deckfarben, 50 x 33 cm, Rom, Galleria Giulia; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Fritz Eschen: Der Herr Zirkusdirektor (Ausschnitt), 1930er Jahre, Studie aus: Vorstadt-Zirkus, Dresden, Deutsche Fotothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jos\xC3\xA9 Guinovart: Der Zirkus (Ausschnitt), 1950, Tusche und Aquarell, 47 x 32 cm, Barcelona, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Herni Matisse: Die Seilspringerin (Ausschnitt), 1952, Gouache d\xC3\xA9coup\xC3\xA9e in Blau auf Papier auf Leinen, Nationalgalerie, Museum Berggruen, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Erich Heckel: Zirkus im Freien (Ausschnitt), 1954, Tempera auf Leinwand, 96 x 83 cm, Hemmenhofen, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte Hemmenhofen, Nachla\xC3\x9F Erich Heckel "
+title: Zirkus
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Eine Parallelwelt
+date: 2012/05/28
+teaser: "Als Ort der Sonderlinge und Au\xC3\x9Fenseiter, als parallele Existenz zur b\xC3\xBCrgerlichen Gesellschaft, ist der Zirkus zu vielen Zeiten ein beliebtes k\xC3\xBCnstlerisches Thema gewesen"
+collection: 31416
+---
+Als Ort der Sonderlinge und Außenseiter, als parallele Existenz zur bürgerlichen Gesellschaft, ist der Zirkus zu vielen Zeiten ein beliebtes künstlerisches Thema gewesen, vor allem in der klassischen Moderne. Eine Ausstellung in Wien zeigt nun die Ergebnisse der Auseinandersetzung mit dem Thema Zirkus insbesondere durch zeitgenössische Künstlerinnen und Künstler.
+
+*"Parallelwelt Zirkus":http://www.kunsthallewien.at/cgi-bin/event/event.pl?id=4597&lang=de, 4. Mai bis 2. September 2012, Kunsthalle Wien, Halle 1* 
