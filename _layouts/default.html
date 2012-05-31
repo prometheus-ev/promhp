@@ -51,9 +51,9 @@
   <div id="header">
     <div id="statusbar">
       <span id="loginfo">
-        <a href="<%=p 'signup' %>"><%=t 'Sign up', 'Neu anmelden' %></a>
+        <a href="<%=p 'signup' %>"><%=t 'Sign up', 'Registrieren' %></a>
         <span class="pale">/</span>
-        <a href="<%=p 'login' %>"><%=t 'Log in', 'Einloggen' %></a>
+        <a href="<%=p 'login' %>"><%=t 'Log in', 'Anmelden' %></a>
       </span>
 
       <span>
@@ -109,10 +109,10 @@
 
             <br class="vspace1" />
 
-            <input type="submit" name="commit" value="<%=t 'Log in', 'anmelden' %>" class="float-right" />
+            <input type="submit" name="commit" value="<%=t 'Log in', 'Anmelden' %>" class="float-right" />
 
             <input type="checkbox" name="remember_me" id="remember_me" value="1" />
-            <label for="remember_me"><%=t 'Remember me on this computer', 'Auf diesem Rechner merken' %></label><br />
+            <label for="remember_me"><%=t 'Stay logged in', 'Angemeldet bleiben' %></label><br />
 
             <!-- jw/20080407: fool pandora's cookie checking mechanism ;-) -->
             <input type="hidden" name="_pandora_session_id" value="FAKE" />
@@ -129,7 +129,7 @@
               <a href="<%=p 'institution/licensed' %>"><%=t 'licensed campus', 'lizenzierten Institution' %></a>.
             </div>
 
-            <input type="submit" name="commit" value="<%=t 'Log in', 'anmelden' %>" class="float-right" />
+            <input type="submit" name="commit" value="<%=t 'Log in', 'Anmelden' %>" class="float-right" />
           </fieldset>
         </form>
       </div>
