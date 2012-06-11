@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Albrecht D\xC3\xBCrer: Selbstbildnis als 13- oder 14-j\xC3\xA4hriger Knabe (Ausschnitt), um 1484, Silberstiftzeichnung auf grundiertem Papier, 27,5 x 19,6 cm, Wien, Graphische Sammlung Albertina; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Albrecht D\xC3\xBCrer: Selbstbildnis (Ausschnitt), 1491-92, Feder in Schwarzbraun, 20,4 x 20,8 cm, Erlangen, Universit\xC3\xA4t, Graphische Sammlung; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Albrecht D\xC3\xBCrer: Selbstbildnis mit Eryngium, 1493, Pergament auf Leinwand \xC3\xBCbertragen, 56,5 x 44,5 cm, Paris, Mus\xC3\xA9e du Louvre; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Albrecht D\xC3\xBCrer: Selbstbildnis (Ausschnitt), 1498, auf Lindenholz, 52 x 41 cm, Madrid, Museo Nacional del Prado; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Albrecht D\xC3\xBCrer: Selbstbildnis, 1500, \xC3\x96lfarbe auf Lindenholz, 67,1 x 48,9 cm, M\xC3\xBCnchen, Alte Pinakothek; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Albrecht D\xC3\xBCrer: Selbstbildnis, Akt, 1500 bis 1505, Feder, Pinsel, Deckwei\xC3\x9F auf Papier,  29,1 x 15,3, Weimar, Stiftung Weimarer Klassik und Kunstsammlungen, Schlossmuseum, Graphische Sammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Albrecht D\xC3\xBCrer: Selbstbildnis als Melancholiker (Ausschnitt), um 1516, Feder, Wasserfarben, 12 x 10,8 cm, Bremen, Kunsthalle Bremen, Kupferstichkabinett; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Albrecht D\xC3\xBCrer: Selbstbildnis (Ausschnitt), 1527, Holzschnitt, 28,5 x 24,6 cm, verschiedene Standorte; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+title: "Albrecht D\xC3\xBCrer"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Self-expression
+date: 2012/06/11
+teaser: "Many other self-portraits followed the early one, which D\xC3\xBCrer draw in the age of 13 or 14."
+collection: 32330
+---
+Many other self-portraits followed the early one, which Dürer draw in the age of 13 or 14. A current exhibition deals, next to other four themes, with the figurative and the written credentials of self-expression of this artist from Nuremberg. The exhibition is analysing Dürers self-representation in relation to the self-representation of Nuremberg`s middle class in the 15th century.
+
+*"The early Dürer":http://der-fruehe-duerer.gnm.de/index.php?id=5&L=1, 24th May to 2nd September 2012, Germanisches Nationalmuseum, Nuremberg*
