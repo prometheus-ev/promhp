@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Karl Hagemeister: Sommerlandschaft bei Ferch (Ausschnitt), um 1885, Mischtechnik, Berlin, Kunsthandel Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Karl Hagemeister: Seeufer bei Ferch (Ausschnitt), 1895, Berlin, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Karl Hagemeister: Bauernm\xC3\xA4dchen in Werder (Ausschnitt), vor 1900, \xC3\x96l auf Leinwand, Belin, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Karl Hagemeister: Teich in der Mark (Ausschnitt), 1902, Acryl und Bleistift auf Leinwand, Berlin, Br\xC3\xB6han Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Karl Hagemeister: Landschaft bei Ferch am Schwielowsee (Ausschnitt), 1905, \xC3\x96l auf Leinwand, Berlin, Stadtmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Karl Hagemeister: B\xC3\xA4ume am Seeufer - Ostseek\xC3\xBCste (?) (Ausschnitt), 1910, \xC3\x96l auf Leinwand,  Wertheim, Besitz der Stadt; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Karl Hagemeister: Die Woge (Ausschnitt), 1915, \xC3\x96l auf Leinwand, 100 x 150 cm, Dachau Schloss Haimhausen, Gem\xC3\xA4lde-Cabinett-Unger; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Carl Schuch: Bildnis des Malers Karl Hagemeister (Ausschnitt), 1876, \xC3\x96l auf Leinwand, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+title: Karl Hagemeister
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Landschaften
+date: 2012/06/12
+teaser: "Die Landschaftsmalereien Karl Hagemeisters sind in der m\xC3\xA4rkischen Heimat verwurzelt."
+collection: 32421
+---
+Die Landschaftsmalereien Karl Hagemeisters sind in der märkischen Heimat verwurzelt. Eine Ausstellung im Börhan-Museum charakterisiert Hagemeister als einen Maler, welcher zurückgezogen der Natur huldigte. Dabei lebte er, was die aktuellen künstlerischen Entwicklungen betraf, keinesfalls zurückgezogen: Studienreisen führten Hagemeister nach Holland, Italien und Frankreich, und er gehörte zu den ersten Mitgliedern der Berliner Secession. 
+
+*"„So ist meine Kunst nur Natur.“ Landschaften von Karl Hagemeister (1848-1933)":http://www.broehan-museum.de/infoseiten/a_hagemeister.html, 5. Mai bis 2. September 2012, Börhan-Museum, Berlin
