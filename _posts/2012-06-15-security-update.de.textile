@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Update für mehr Sicherheit!"
+author: Jens
+tags: 
+- update
+- pandora
+- security
+- rss
+- news
+---
+Nachdem jüngst "mehrere":http://www.heise.de/newsticker/meldung/LinkedIn-Passwoerter-im-Umlauf-1611919.html "Fälle":http://www.heise.de/newsticker/meldung/Passwortdiebstahl-auch-bei-Last-fm-1613412.html von Passwortklau bei großen Internetplattformen bekannt wurden, haben auch wir uns Gedanken gemacht, wie wir die Sicherheit Ihrer Zugangsdaten noch weiter verbessern können. Zwar wurde unsere Bildarchivanwendung ursprünglich auf dem neuesten Stand der Sicherheitstechnik entwickelt, aber die Kryptographieforschung schreitet immer weiter voran. So haben wir uns entschieden, eine Aktualisierung unseres Verschlüsselungsverfahrens vorzunehmen, damit Ihre Zugangsdaten bei uns noch sicherer sind. Eine akute Gefährdung Ihrer Zugangsdaten besteht nicht!
+
+Für Sie geschieht die Umstellung völlig transparent. *Sie müssen nicht aktiv werden*, um von der Verbesserung zu profitieren. Sollten Sie allerdings "RSS-Feeds":<%=r 'blog/out-of-the-box-pandora-v0-3-3-r2207' %> abonniert haben, müssen Sie diese *nach Ihrer nächsten Anmeldung einmalig neu abonnieren*.
+
+Wir hoffen, diese Maßnahme ist auch in Ihrem Sinne. Sollten wider Erwarten Probleme irgendwelcher Art auftreten, zögern Sie bitte nicht, uns zu "kontaktieren":<%=r 'contact' %>.

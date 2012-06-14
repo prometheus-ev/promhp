@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Update for improved security!"
+author: Jens
+tags: 
+- update
+- pandora
+- security
+- rss
+- news
+---
+After the "recent":http://www.h-online.com/security/news/item/LinkedIn-passwords-in-circulation-Update-1612022.html "announcements":http://www.h-online.com/security/news/item/Millions-of-Last-fm-passwords-leaked-1613641.html of password theft at large internet platforms, we wondered about how to improve the security of your account data. Even though our image archive application had been developed with highest security standards in mind, cryptography research always progresses. So we decided to update our encryption mechanisms, so that your account data will be even more secure. There is no current threat to your account data!
+
+The switch will be completely transparent for you. *You don't have to take any action* in order to benefit from the improved mechanism. If, however, you have subscribed to any "RSS feeds":<%=r 'blog/out-of-the-box-pandora-v0-3-3-r2207' %>, you will have to *subscribe again after your next login* (one-time only).
+
+We hope to meet your needs with this measure. Should you encounter any problems whatsoever, please don't hesitate to "contact us":<%=r 'contact' %>.
