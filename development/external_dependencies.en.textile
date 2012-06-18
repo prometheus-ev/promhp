@@ -10,7 +10,7 @@ As much as we enjoy creating out own code to work behind the scenes (and sometim
 
 h3. Development platforms
 
-* GNU/Linux <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
+* Most of our server and development machines are running GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
 
 * "Github":https://github.com - a web-based hosting service for software development projects that use the Git revision control system.
 
