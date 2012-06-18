@@ -1,0 +1,44 @@
+---
+layout: default
+title: Projects we rely on
+---
+
+h2. <%= page_title %>
+
+As much as we enjoy creating out own code to work behind the scenes (and sometimes upfront) of the prometheus "image archive":<%=r 'prometheus/index' %>, there is a limit to what we are able to do ourselves.
+
+
+* GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
+
+
+h3. Programming Languages
+
+* "Ruby":http://ruby-lang.org - a dynamic, reflective, general-purpose object-oriented programming language that combines syntax inspired by Perl with Smalltalk-like features. It was also influenced by Eiffel and Lisp. Ruby was first designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.
+
+
+h3. Development tools
+
+* "Git":http://git-scm.com - a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+
+* "Subversion":http://subversion.apache.org - a software versioning and revision control system distributed under an open source license. Developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation.
+
+* "Redmine":http:www.redmine.org is a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and for multiple version control options.
+
+h3. Libraries
+
+* "ImageMagick":http://www.imagemagick.org - an open source software suite for displaying, converting, and editing raster image files. It can read and write over 100 image file formats.
+
+* "LibXML Ruby":https://github.com/xml4r/libxml-ruby - Ruby language bindings for GNOME's Libxml2 XML toolkit.
+
+* "Ferret":https://github.com/dbalmain/ferret - a Ruby port of the "Java Lucene":http://jakarta.apache.org/lucene search engine.
+
+* "Lingo":http://lex-lingo.de - an open source software system for automatic indexing of german language documents. The development was determined by the aspects of flexibility, easy configuration, and different applications.
+
+
+h3. Web Applications
+
+* "Apache":http://httpd.apache.org - an open-source HTTP server for modern operating systems including UNIX and Windows NT. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
+
+* "Ruby on Rails":http://rubyonrails.org - an open source full-stack web application framework for the Ruby programming language. Rails is a full-stack framework, meaning that it gives the Web developer the full ability to gather information from the web server, talking to or querying the database, and template rendering out of the box. As a result, Rails features a routing system that is independent of the Web server.
+
+* "Mongrel":https://github.com/evan/mongrel - an open-source software HTTP library and web server. It is used to run Ruby web applications and presents a standard HTTP interface. This makes layering other servers in front of it possible using a web proxy, a load balancer, or a combination of both, instead of having to use more conventional methods employed to run scripts such as FastCGI or SCGI to communicate. 

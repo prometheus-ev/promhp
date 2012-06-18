@@ -306,6 +306,9 @@
   - :title_en: Tools & Libraries
     :title_de: Werkzeuge und Bibliotheken
     :url: development/tools_and_libraries
+  - :title_en: Projects we rely on
+    :title_de: Projekte, auf die wir uns stützen
+    :url: development/external_dependencies
   - :title_en: Project Management
     :title_de: Project Management
     :url: development/project_management

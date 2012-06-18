@@ -7,4 +7,25 @@ h2. <%= page_title %>
 
 Some of the code developed throughout the course of the project have been found to be of wider applicability than just for our own purposes. As a result of this, the code has been made available to the public.
 
-<%= include_file 'open_source_tools.textile' %>
+| "apache_image_resizer":https://github.com/blackwinter/apache_image_resizer | Apache module providing image resizing functionality |
+| "apache_secure_download":https://github.com/blackwinter/apache_secure_download | Apache module providing secure downloading functionality |
+| "apache_upload_merger":https://github.com/blackwinter/apache_upload_merger | Apache module providing upload merging functionality |
+| "athena":https://github.com/blackwinter/athena | Convert database files to various formats |
+| "cmess":https://github.com/blackwinter/cmess | Assist with handling messed up encodings |
+| "flattendb":https://github.com/blackwinter/flattendb | Flatten relational databases |
+| "jekyll-localization":https://github.com/blackwinter/jekyll-localization | Jekyll plugin that adds localization features to the rendering engine |
+| "jekyll-pagination":https://github.com/blackwinter/jekyll-pagination | Jekyll plugin to extend the pagination generator |
+| "jekyll-rendering":https://github.com/blackwinter/jekyll-rendering | Jekyll plugin to provide alternative rendering engines |
+| "jekyll-tagging":https://github.com/pattex/jekyll-tagging | Jekyll plugin to automatically generate a tag cloud and tag pages |
+| "JekyllCommander":https://github.com/prometheus-ev/JekyllCommander | A Sinatra based web interface, to maintain a Jekyll website, including git version control. |
+| "libxml-ext":https://github.com/blackwinter/libxml-ext | LibXML Ruby extensions |
+| "log2counter":https://github.com/blackwinter/log2counter | Convert (analyse) Apache log files to "COUNTER":http://www.projectcounter.org/ CSV |
+| "pandora":http://prometheus-srv.uni-koeln.de/trac/pandora | The prometheus digital image archive software |
+| "perseus_match":https://github.com/blackwinter/perseus_match | Fuzzy string matching based on linguistic analysis |
+| "promdilps":https://github.com/prometheus-ev/promdilps | Fork of the DILPS code base that drives the prometheus "promDILPS":<%=r 'databases/promdilps' %> service |
+| "promhp":https://github.com/prometheus-ev/promhp | The "Jekyll":http://jekyllrb.com/ source for this website |
+| "promwiki":https://github.com/prometheus-ev/promwiki | Fork of the PmWiki code base that drives the prometheus wiki |
+| "ruby-backports":https://github.com/blackwinter/ruby-backports | Backports of newer Ruby features to older versions |
+| "ruby-filemagic":https://github.com/blackwinter/ruby-filemagic | Ruby bindings to the magic(4) library, revised |
+| "ruby-nuggets":https://github.com/blackwinter/ruby-nuggets | Some extensions to the Ruby programming language |
+| "wadl":https://github.com/blackwinter/wadl | Ruby client for the Web Application Description Language |
