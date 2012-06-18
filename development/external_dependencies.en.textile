@@ -8,7 +8,11 @@ h2. <%= page_title %>
 As much as we enjoy creating out own code to work behind the scenes (and sometimes upfront) of the prometheus "image archive":<%=r 'prometheus/index' %>, there is a limit to what we are able to do ourselves.
 
 
-* GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
+h3. Development platforms
+
+* GNU/Linux <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
+
+* "Github":https://github.com - a web-based hosting service for software development projects that use the Git revision control system.
 
 
 h3. Programming Languages
