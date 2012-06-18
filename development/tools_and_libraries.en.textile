@@ -5,7 +5,7 @@ title: Tools and Libraries we created
 
 h2. <%= page_title %>
 
-Some of the code developed throughout the course of the project have been found to be of wider applicability than just for our own purposes. As a result of this, the code has been made available to the public.
+Some of the code developed throughout the course of the project has been found to be of wider applicability than just for our own purposes. As a result of this, the code has been made available to the public.
 
 | "apache_image_resizer":https://github.com/blackwinter/apache_image_resizer | Apache module providing image resizing functionality |
 | "apache_secure_download":https://github.com/blackwinter/apache_secure_download | Apache module providing secure downloading functionality |
