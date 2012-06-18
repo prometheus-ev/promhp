@@ -7,17 +7,17 @@ h2. <%= page_title %>
 
 Here at prometheus we are passionate about "Open Source":http://en.wikipedia.org/wiki/Open-source_software and commit to the "Free Software":http://en.wikipedia.org/wiki/Free_software philosophy by licensing all our software under a free license (usually the "GNU Affero General Public License":http://en.wikipedia.org/wiki/Affero_General_Public_License) and contributing back to projects we use.
 
-h3. External dependencies
-
-As much as we enjoy creating out own code to work behind the scenes (and sometimes upfront) of the prometheus image archive, there is a limit to what we are able to do ourselves.
-
-"» Description":<%=r 'development/external_dependencies' %>
-
-h3. Tools and libraries
+h3. Tools and libraries we created
 
 Some of the code developed throughout the course of the project have been found to be of wider applicability than just for our own purposes. As a result of this, the code has been made available to the public.
 
 "» Description":<%=r 'development/tools_and_libraries' %>
+
+h3. Projects we rely on
+
+As much as we enjoy creating out own code to work behind the scenes (and sometimes upfront) of the prometheus image archive, there is a limit to what we are able to do ourselves.
+
+"» Description":<%=r 'development/external_dependencies' %>
 
 h3. Project Management
 
