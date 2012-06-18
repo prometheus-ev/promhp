@@ -27,5 +27,7 @@ h3. Project Management
 
 h3. Image Archive API
 
+While most of our users likely are going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to more directly "talk" to the "pandora":<%= pandora_url 'about' %>.
+
 "» Description":<%=r 'development/image_archive_api' %>
 
