@@ -5,6 +5,15 @@ title: The prometheus image archive API
 
 h2. <%= page_title %>
 
-While most of our users likely are going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to more directly "talk" to the "pandora":<%= pandora_url 'about' %>.
+While most of our users likely are going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to more directly "talk" to "pandora":<%= pandora_url 'about' %>, the digital image archive software. If e.g. you are interested in developing a cool new application - be it a game, a mobile app, a meta-search engine, etc. - which operates on top of the image archive, a line of communication into the system is required, through which you are able to retrieve the information you need. Exactly this is where the image archive API comes into play!
 
-"API documentation":http://prometheus.uni-koeln.de/pandora/en/api
+Using the API you will be able to perform
+
+* searches, 
+* retrieve images, and 
+* query collections.
+
+h3. API documentation
+
+* "API documentation":http://prometheus.uni-koeln.de/pandora/en/api
+* A "machine-readable description of the API":http://prometheus.uni-koeln.de/pandora/pandora.wadl in WADL format
