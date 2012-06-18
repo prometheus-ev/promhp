@@ -1,0 +1,11 @@
+---
+layout: default
+title: Software Entwicklung
+---
+
+h2. <%= page_title %>
+
+h3. Werkzeuge und Bibliotheken
+
+h3. Projekt Management
+

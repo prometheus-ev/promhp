@@ -1,0 +1,16 @@
+---
+layout: default
+title: Software development
+---
+
+h2. <%= page_title %>
+
+Here at prometheus we are passionate about "Open Source":http://en.wikipedia.org/wiki/Open-source_software and commit to the "Free Software":http://en.wikipedia.org/wiki/Free_software philosophy by licensing all our software under a free license (usually the "GNU Affero General Public License":http://en.wikipedia.org/wiki/Affero_General_Public_License) and contributing back to projects we use.
+
+h3. Tools and libraries
+
+h3. Project Management
+
+"Redmine":http:www.redmine.org is a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and for multiple version control options.
+
+h3. Image Archive API

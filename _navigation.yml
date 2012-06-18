@@ -299,3 +299,16 @@
   - :title_en: PKND
     :title_de: PKND
     :url: tools/pknd
+- :title_en: Development
+  :title_de: Entwicklung
+  :url: development
+  :content:
+  - :title_en: Tools & Libraries
+    :title_de: Werkzeuge und Bibliotheken
+    :url: development/tools_and_libraries
+  - :title_en: Project Management
+    :title_de: Project Management
+    :url: development/project_management
+  - :title_en: Image Archiv API
+    :title_de: Bildarchiv API
+    :url: development/image_archive_api

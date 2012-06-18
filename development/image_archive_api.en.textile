@@ -1,0 +1,10 @@
+---
+layout: default
+title: The prometheus image archive API
+---
+
+h2. <%= page_title %>
+
+While most of our users likely are going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to more directly "talk" to the "pandora":<%= pandora_url 'about' %>.
+
+"API documentation":http://prometheus.uni-koeln.de/pandora/en/api

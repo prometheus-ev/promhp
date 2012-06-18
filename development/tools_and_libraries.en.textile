@@ -1,0 +1,10 @@
+---
+layout: default
+title: Tools and libraries
+---
+
+h2. <%= page_title %>
+
+Some of the code developed throughout the course of the project have been found to be of wider applicability than just for our own purposes. As a result of this, the code has been made available to the public.
+
+<%= include_file 'open_source_tools.textile' %>
