@@ -9,7 +9,7 @@ According to "Wikipedia":http://en.wikipedia.org
 
 bq. "Software project management is the art and science of planning and leading software projects."
 
-Though we are trying to keep the management overhead to a minimum, we employ simple means in order to keep track of ongoing development and the tasks being a part of this activity..
+Though we are trying to keep the management overhead to a minimum, we employ simple means in order to keep track of ongoing development and the tasks being a part of this activity.
 
 h3. Activity Monitoring
 

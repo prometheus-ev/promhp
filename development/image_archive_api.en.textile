@@ -16,4 +16,4 @@ Using the API you will be able to perform
 h3. API documentation
 
 * "API documentation":http://prometheus.uni-koeln.de/pandora/en/api
-* A "machine-readable description of the API":http://prometheus.uni-koeln.de/pandora/pandora.wadl in WADL format
+* "Machine-readable description of the API":http://prometheus.uni-koeln.de/pandora/pandora.wadl in WADL format

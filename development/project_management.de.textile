@@ -9,7 +9,7 @@ Laut dem entsprechenden Eintrag auf "Wikipedia":http://de.wikipedia.org  ist
 
 bq. "Software Projekt Management die Kunst und Wissenschaft der Planung und Führung eines Software Projektes."
 
-Though we are trying to keep the management overhead to a minimum, we employ simple means in order to keep track of ongoing development and the tasks being a part of this activity..
+Auch wenn wir natürlich versuchen den Management Aufwand so gering wie möglich zu halten, bedienen wir uns einfacher Hilfsmittel um die laufenden Entwicklungsarbeiten und darin enthaltenden Aufgaben im Blick zu behalten.
 
 h3. Activity Monitoring
 

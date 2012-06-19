@@ -1,0 +1,19 @@
+---
+layout: default
+title: Die Schnittstelle (API) zum prometheus Bildarchiv
+---
+
+h2. <%= page_title %>
+
+While most of our users likely are going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to more directly "talk" to "pandora":<%= pandora_url 'about' %>, the digital image archive software. If e.g. you are interested in developing a cool new application - be it a game, a mobile app, a meta-search engine, etc. - which operates on top of the image archive, a line of communication into the system is required, through which you are able to retrieve the information you need. Exactly this is where the image archive API comes into play!
+
+Mit Hilfe der Schnittstelle ist es möglich die folgenden Aktionen auszuführen:
+
+* Suchen, 
+* Abrufen von Bildern und
+* Erkunden von Sammlungen.
+
+h3. Dokumentation der Schnittstelle
+
+* "API Dokumentation":http://prometheus.uni-koeln.de/pandora/en/api
+* "Maschinenlesbare Beschreibung der Schnittstelle":http://prometheus.uni-koeln.de/pandora/pandora.wadl im WADL format
