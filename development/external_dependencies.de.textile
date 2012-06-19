@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Projekte, auf die wir uns stÃ¼tzen
+title: Projekte, auf die wir uns st&uuml;tzen
 ---
 
 h2. <%= page_title %>
 
-Lingo ist ein frei verfügbares System zur linguistisch und statistisch basierten automatischen Indexierung des Deutschen und Englischen. Lingo arbeitet mit einem Wörterbuchmodell, das eine Grundformidentifizierung bzw. -reduktion mit einem Grundformenwörterbuch und einer zugehörigen einfachen Suffixliste realisiert. Lingo verfügt zusätzlich über eine algorithmische Kompositumzerlegung, eine algorithmische und lexikalische Mehrworterkennung sowie eine allgemeine lexikalische Relationierung.
+Lingo ist ein frei verf&uuml;gbares System zur linguistisch und statistisch basierten automatischen Indexierung des Deutschen und Englischen. Lingo arbeitet mit einem W&ouml;rterbuchmodell, das eine Grundformidentifizierung bzw. -reduktion mit einem Grundformenw&ouml;rterbuch und einer zugeh&ouml;rigen einfachen Suffixliste realisiert. Lingo verf&uuml;gt zus&auml;tzlich &uuml;ber eine algorithmische Kompositumzerlegung, eine algorithmische und lexikalische Mehrworterkennung sowie eine allgemeine lexikalische Relationierung.
