@@ -5,4 +5,44 @@ title: Projekte, auf die wir uns st&uuml;tzen
 
 h2. <%= page_title %>
 
-Lingo ist ein frei verf&uuml;gbares System zur linguistisch und statistisch basierten automatischen Indexierung des Deutschen und Englischen. Lingo arbeitet mit einem W&ouml;rterbuchmodell, das eine Grundformidentifizierung bzw. -reduktion mit einem Grundformenw&ouml;rterbuch und einer zugeh&ouml;rigen einfachen Suffixliste realisiert. Lingo verf&uuml;gt zus&auml;tzlich &uuml;ber eine algorithmische Kompositumzerlegung, eine algorithmische und lexikalische Mehrworterkennung sowie eine allgemeine lexikalische Relationierung.
+So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des "prometheus Bildarchiv":<%=r 'prometheus/index' %> arbeitet, so gibt es durchaus Grenzen f&uuml;r das, was wir in der Lage sind alleine zu leisten.
+
+
+h3. Entwicklungsplatformen
+
+* Die meisten unserer Server und Entwicklungs-Machinen laufen unter GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
+
+* "Github":https://github.com - ein webbasierter Hosting-Dienst f&uuml;r Software-Entwicklungsprojekte. Er verwendet namensgebenderweise das Versionsverwaltungs-System _Git_.
+
+
+h3. Programmiersprachen
+
+* "Ruby":http://ruby-lang.org - eine h&ouml;here Programmiersprache, die Mitte der neunziger Jahre von dem Japaner Yukihiro Matsumoto entworfen wurde. Ruby ist interpretiert und objektorientiert, unterst&uuml;tzt aber mehrere weitere Programmierparadigmen (unter anderem prozedurale und funktionale Programmierung sowie Nebenl&auml;ufigkeit), bietet dynamische Typisierung, Reflexion und automatische Speicherbereinigung.
+
+
+h3. Entwicklungswerkzeuge
+
+* "Git":http://git-scm.com - eine freie Software zur verteilten Versionsverwaltung von Dateien, die urspr&uuml;nglich f&uuml;r die Quellcode-Verwaltung des Linux-Kernels entwickelt wurde.
+
+* "Subversion":http://subversion.apache.org - eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Entwickler verwenden Subversion f&uuml;r den Zugriff auf aktuelle und vergangene Versionen von Dateien, sei es Quellcode, Internetseiten oder Dokumentation.
+
+* "Redmine":http:www.redmine.org - ein webbasiertes Projektmanagement-Tool. Es kann f&uuml;r Benutzer- und Projektverwaltung, Diskussionsforen, Wikis, zur Ticketverwaltung oder Dokumentenablage genutzt werden. Weltweit wird Redmine bei mehreren gro&szlig;en Projekten verwendet, unter anderem bei dem Issue-Tracking-System der Programmiersprache Ruby oder dem Entwicklerportal von TYPO3.
+
+h3. Bibliotheken
+
+* "ImageMagick":http://www.imagemagick.org - an open source software suite for displaying, converting, and editing raster image files. It can read and write over 100 image file formats.
+
+* "LibXML Ruby":https://github.com/xml4r/libxml-ruby - Ruby language bindings for GNOME's Libxml2 XML toolkit.
+
+* "Ferret":https://github.com/dbalmain/ferret - a Ruby port of the "Java Lucene":http://jakarta.apache.org/lucene search engine.
+
+* "Lingo":http://lex-lingo.de - an open source software system for automatic indexing of german language documents. The development was determined by the aspects of flexibility, easy configuration, and different applications.
+
+
+h3. Web Applications
+
+* "Apache":http://httpd.apache.org - an open-source HTTP server for modern operating systems including UNIX and Windows NT. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
+
+* "Ruby on Rails":http://rubyonrails.org - an open source full-stack web application framework for the Ruby programming language. Rails is a full-stack framework, meaning that it gives the Web developer the full ability to gather information from the web server, talking to or querying the database, and template rendering out of the box. As a result, Rails features a routing system that is independent of the Web server.
+
+* "Mongrel":https://github.com/evan/mongrel - an open-source software HTTP library and web server. It is used to run Ruby web applications and presents a standard HTTP interface. This makes layering other servers in front of it possible using a web proxy, a load balancer, or a combination of both, instead of having to use more conventional methods employed to run scripts such as FastCGI or SCGI to communicate. 
