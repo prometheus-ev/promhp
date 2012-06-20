@@ -5,7 +5,14 @@ title: Software Entwicklung
 
 h2. <%= page_title %>
 
-h3. Werkzeuge und Bibliotheken
+Hier bei prometheus sind wir Feuer und Flamme für "Open Source":http://de.wikipedia.org/wiki/Open_source und unterstützen die Bewegung für "Freie Software":http://de.wikipedia.org/wiki/Freie_Software, indem wir all unsere Software unter einer freien Lizenz veröffentlichen (üblicherweise der "GNU Affero General Public License":http://de.wikipedia.org/wiki/GNU_Affero_General_Public_License) und zu Projekten beitragen, die wir einsetzen.
+
+h3. Werkzeuge und Bibliotheken, die wir erstellt haben
+
+h3. Projekte, auf die wir uns st&uuml;tzen
 
 h3. Projekt Management
 
+Auch wenn wir nat&uuml;rlich versuchen den Management Aufwand so gering wie m&ouml;glich zu halten, bedienen wir uns einfacher Hilfsmittel um die laufenden Entwicklungsarbeiten und darin enthaltenden Aufgaben im Blick zu behalten.
+
+h3. Schnittstelle (API) zum prometheus Bildarchiv
