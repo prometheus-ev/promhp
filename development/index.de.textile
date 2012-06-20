@@ -9,7 +9,11 @@ Hier bei prometheus sind wir Feuer und Flamme für "Open Source":http://de.wikip
 
 h3. Werkzeuge und Bibliotheken, die wir erstellt haben
 
+Ein Teil der Software, welche im Laufe der Laufzeit des Projektes entwickelt wurde, hat sich von allgemeinerer Brauchbarkeit.
+
 h3. Projekte, auf die wir uns st&uuml;tzen
+
+So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des "prometheus Bildarchiv":<%=r 'prometheus/index' %> arbeitet, so gibt es durchaus Grenzen f&uuml;r das, was wir in der Lage sind alleine zu leisten.
 
 h3. Projekt Management
 
