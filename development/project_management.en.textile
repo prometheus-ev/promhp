@@ -9,16 +9,25 @@ According to "Wikipedia":http://en.wikipedia.org
 
 bq. "Software project management is the art and science of planning and leading software projects."
 
-Though we are trying to keep the management overhead to a minimum, we employ simple means in order to keep track of ongoing development and the tasks being a part of this activity.
+Though we are trying to keep the management overhead to a minimum, we like to be able to 
+
+* monitor activity across the various code repositories,
+* share documentation across our team of developers,
+* keep track of issues - such as bugs, a requested features, tasks, missing documentations, and so forth.
+
+In the background therefore we use "Redmine":http://www.redmine.org, a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and for multiple version control options.
 
 h3. Activity Monitoring
 
-Though most of our everyday software development is done on "pandora":<%= pandora_url 'about' %>, we are maintaining quite a few "tools and libraries":<%=r 'development/tools_and_libraries' %>, that have been created over time.
+Though most of our everyday software development is done on "pandora":<%= pandora_url 'about' %>, we are maintaining quite a few "tools and libraries":<%=r 'development/tools_and_libraries' %>, that have been created over time. With all the code, web pages and documentation under version control keeping up with activities in various places can be challenging.
+
+| !<%=r "files/images/redmine_monitoring_controlling.png" %>(Redmine Screenshot)! | !<%=r "files/images/redmine_repository.png" %>(Repository overview)! |
+| Management of tasks, time allocation and human resources. | Overview of commits to the code repository. |
 
 h3. Issue Tracker
 
 In computing, the term _issue_ is a unit of work to accomplish an improvement in a system. An issue could be a bug, a requested feature, task, missing documentation, and so forth.
 
-"Redmine":http:www.redmine.org is a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and for multiple version control options.
+
 
 * "Public issue trackers":http://prometheus-app.uni-koeln.de/redmine/projects

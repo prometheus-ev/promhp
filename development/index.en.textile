@@ -9,7 +9,7 @@ Here at prometheus we are passionate about "Open Source":http://en.wikipedia.org
 
 h3. Tools and libraries we created
 
-Some of the code developed throughout the course of the project has been found to be of wider applicability than just for our own purposes. As a result of this, the code has been made available to the public.
+Some of the code developed throughout the course of the project has been found to be of wider applicability than just for our own purposes. Since we ourselves are benefitting considerably from others in the Open Source community, we try to give back were we can; as a result of this, we have released some of the tools and libraries we created to the wider public.
 
 "» Description":<%=r 'development/tools_and_libraries' %>
 

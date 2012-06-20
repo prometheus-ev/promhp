@@ -7,18 +7,19 @@ h2. <%= page_title %>
 
 Ein Teil der Software, welche im Laufe der Laufzeit des Projektes entwickelt wurde, hat sich von allgemeinerer Brauchbarkeit.
 
-bq. Some of the code developed throughout the course of the project has been found to be of wider applicability than just for our own purposes. As a result of this, the code has been made available to the public.
+bq. Some of the code developed throughout the course of the project has been found to be of wider applicability than just for our own purposes. Since we ourselves are benefitting considerably from others in the Open Source community, we try to give back were we can; as a result of this, we have released some of the tools and libraries we created to the wider public.
 
-| "apache_image_resizer":https://github.com/blackwinter/apache_image_resizer | Apache module providing image resizing functionality |
-| "apache_secure_download":https://github.com/blackwinter/apache_secure_download | Apache module providing secure downloading functionality |
+
+| "apache_image_resizer":https://github.com/blackwinter/apache_image_resizer | Apache Modul zur Gr&ouml;&szlig;enanpassung von Bildern. |
+| "apache_secure_download":https://github.com/blackwinter/apache_secure_download | Apache Modul zur Unterst&uuml;tzung sicherer Downloads. |
 | "apache_upload_merger":https://github.com/blackwinter/apache_upload_merger | Apache module providing upload merging functionality |
-| "athena":https://github.com/blackwinter/athena | Convert database files to various formats |
-| "cmess":https://github.com/blackwinter/cmess | Assist with handling messed up encodings |
+| "athena":https://github.com/blackwinter/athena | Konvertierung von Datenbank Dateien in diverse andere Formate. |
+| "cmess":https://github.com/blackwinter/cmess | Hilfe f&uuml;r den Umgang mit durcheinander geratenen Zeichenkodierung. |
 | "flattendb":https://github.com/blackwinter/flattendb | Flatten relational databases |
 | "jekyll-localization":https://github.com/blackwinter/jekyll-localization | Jekyll plugin that adds localization features to the rendering engine |
 | "jekyll-pagination":https://github.com/blackwinter/jekyll-pagination | Jekyll plugin to extend the pagination generator |
-| "jekyll-rendering":https://github.com/blackwinter/jekyll-rendering | Jekyll plugin to provide alternative rendering engines |
-| "jekyll-tagging":https://github.com/pattex/jekyll-tagging | Jekyll plugin to automatically generate a tag cloud and tag pages |
+| "jekyll-rendering":https://github.com/blackwinter/jekyll-rendering | Jekyll Plugin f&uuml;r die Bereitstellung alternativer Rendering-Engines. |
+| "jekyll-tagging":https://github.com/pattex/jekyll-tagging | Jekyll Plugin zur automatischen Erzeugung von Wort-Wolken (word clouds) und Tag-&Uuml;bersichtsseiten. |
 | "JekyllCommander":https://github.com/prometheus-ev/JekyllCommander | A Sinatra based web interface, to maintain a Jekyll website, including git version control. |
 | "libxml-ext":https://github.com/blackwinter/libxml-ext | Ruby Erweiterungen fuer libXML. |
 | "log2counter":https://github.com/blackwinter/log2counter | Convert (analyse) Apache log files to "COUNTER":http://www.projectcounter.org/ CSV |
@@ -30,4 +31,4 @@ bq. Some of the code developed throughout the course of the project has been fou
 | "ruby-backports":https://github.com/blackwinter/ruby-backports | Portierung neuer Funktionalit&auml;ten in der Ruby Programmiersprache zu &auml;lteen Versionen. |
 | "ruby-filemagic":https://github.com/blackwinter/ruby-filemagic | Ruby bindings to the magic(4) library, revised. |
 | "ruby-nuggets":https://github.com/blackwinter/ruby-nuggets | Ein Reihe an Erweiterungen der Ruby Programmmiersprache. |
-| "wadl":https://github.com/blackwinter/wadl | Ruby client for the Web Application Description Language. |
+| "wadl":https://github.com/blackwinter/wadl | Ruby Client f&uuml;r die Web Application Description Language. |

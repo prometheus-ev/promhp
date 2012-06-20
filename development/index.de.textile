@@ -5,7 +5,7 @@ title: Software Entwicklung
 
 h2. <%= page_title %>
 
-Hier bei prometheus sind wir Feuer und Flamme für "Open Source":http://de.wikipedia.org/wiki/Open_source und unterstützen die Bewegung für "Freie Software":http://de.wikipedia.org/wiki/Freie_Software, indem wir all unsere Software unter einer freien Lizenz veröffentlichen (üblicherweise der "GNU Affero General Public License":http://de.wikipedia.org/wiki/GNU_Affero_General_Public_License) und zu Projekten beitragen, die wir einsetzen.
+Hier bei prometheus sind wir Feuer und Flamme f&uuml;r "Open Source":http://de.wikipedia.org/wiki/Open_source und unterstützen die Bewegung für "Freie Software":http://de.wikipedia.org/wiki/Freie_Software, indem wir all unsere Software unter einer freien Lizenz veröffentlichen (üblicherweise der "GNU Affero General Public License":http://de.wikipedia.org/wiki/GNU_Affero_General_Public_License) und zu Projekten beitragen, die wir einsetzen.
 
 h3. Werkzeuge und Bibliotheken, die wir erstellt haben
 
