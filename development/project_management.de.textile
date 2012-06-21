@@ -13,14 +13,11 @@ Auch wenn wir nat&uuml;rlich versuchen den Management Aufwand so gering wie mög
 
 h3. Activity Monitoring
 
-Though most of our everyday software development is done on "pandora":<%= pandora_url 'about' %>, we are maintaining quite a few "tools and libraries":<%=r 'development/tools_and_libraries' %>, that have been created over time. With all the code, web pages and documentation under version control keeping up with activities in various places can be challenging.
+Though most of our everyday software development is done on "pandora":<%= pandora_url 'about' %>, we are maintaining quite a few "tools and libraries":<%=r 'development/tools_and_libraries' %>, that have been created over time. With all the code, web pages and documentation under version control, keeping up with activities in various places can be challenging. To simplify things we are using Redmine's capability to monitor multiple repositories and aggregate commit messages:  as all changes to the software ultimately need to go through the repositories, tapping into this stream of changes provides a senses of the ongoing development activities.
 
 | !<%=r "files/images/redmine_monitoring_controlling.png" %>(Redmine Screenshot)! | !<%=r "files/images/redmine_repository.png" %>(Repository overview)! |
 | Management von Aufgaben, Zeitvorgaben und Arbeitskr&auml;ften. | &Uuml;bersicht der Commits in das Code Repository. |
 
-h3. Issue Tracker
+h3. Issue Tracking
 
-In computing, the term _issue_ is a unit of work to accomplish an improvement in a system. An issue could be a bug, a requested feature, task, missing documentation, and so forth.
-
-* "Public issue trackers":http://prometheus-app.uni-koeln.de/redmine/projects
-
+In computing, the term _issue_ is a unit of work to accomplish an improvement in a system. An issue could be a bug, a requested feature, task, missing documentation, and so forth - for a project such as ours, summing up all of this can be quite a lot to keep a developer busy all day long. So how to keep track then of the multitude of issues that need to be addressed? We are using Redmine's "issue tracking":http://prometheus-app.uni-koeln.de/redmine/projects capabilities in order to file and track issues; this not only enables us to maintain a list of all the open issues that need to be worked on, but also provides us with extra information (such as due dates, who is assigned to the task, etc.). Also, if we are running up to a specific milestone (e.g. a new release version) progress towards completion can be monitored.

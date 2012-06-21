@@ -7,7 +7,6 @@ h2. <%= page_title %>
 
 As much as we enjoy creating out own code to work behind the scenes (and sometimes upfront) of the prometheus "image archive":<%=r 'prometheus/index' %>, there is a limit to what we are able to do ourselves. The Open Source community provides a vibrant ecosystem with a large number of great project we are able to rely on.
 
-
 h3. Development platforms
 
 * Most of our server and development machines are running GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
