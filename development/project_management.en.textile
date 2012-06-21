@@ -19,7 +19,7 @@ In the background therefore we use "Redmine":http://www.redmine.org, a free and 
 
 h3. Activity Monitoring
 
-Though most of our everyday software development is done on "pandora":<%= pandora_url 'about' %>, we are maintaining quite a few "tools and libraries":<%=r 'development/tools_and_libraries' %>, that have been created over time. With all the code, web pages and documentation under version control, keeping up with activities in various places can be challenging. To simplify things we are using Redmine's capability to monitor multiple repositories and aggregate commit messages:  as all changes to the software ultimately need to go through the repositories, tapping into this stream of changes provides a senses of the ongoing development activities.
+Though most of our everyday software development is done on "pandora":<%= pandora_url 'about' %>, we are maintaining quite a few "tools and libraries":<%=r 'development/tools_and_libraries' %>, that have been created over time. With all the code, web pages and documentation under version control, keeping up with activities in various places can be challenging. To simplify things we are using Redmine's capability to monitor multiple repositories and aggregate commit messages:  as all changes to the software ultimately need to go through the repositories, tapping into this stream of changes provides a sense of the ongoing development activities.
 
 | !<%=r "files/images/redmine_monitoring_controlling.png" %>(Redmine Screenshot)! | !<%=r "files/images/redmine_repository.png" %>(Repository overview)! |
 | Management of tasks, time allocation and human resources. | Overview of commits to the code repository. |
