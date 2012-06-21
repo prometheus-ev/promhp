@@ -13,10 +13,12 @@ Ein Teil der Software, welche im Laufe der Laufzeit des Projektes entwickelt wur
 
 h3. Projekte, auf die wir uns st&uuml;tzen
 
-So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des "prometheus Bildarchiv":<%=r 'prometheus/index' %> arbeitet, so gibt es durchaus Grenzen f&uuml;r das, was wir in der Lage sind alleine zu leisten.
+So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des prometheus Bildarchiv arbeitet, so gibt es durchaus Grenzen f&uuml;r das, was wir in der Lage sind alleine zu leisten.
 
 h3. Projekt Management
 
 Auch wenn wir nat&uuml;rlich versuchen den Management Aufwand so gering wie m&ouml;glich zu halten, bedienen wir uns einfacher Hilfsmittel um die laufenden Entwicklungsarbeiten und darin enthaltenden Aufgaben im Blick zu behalten.
 
 h3. Schnittstelle (API) zum prometheus Bildarchiv
+
+While most of our users likely are going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to more directly "talk" to _pandora_, the digital image archive software. If e.g. you are interested in developing a cool new application - be it a game, a mobile app, a meta-search engine, etc. - which operates on top of the image archive, a line of communication into the system is required, through which you are able to retrieve the information you need. Exactly this is where the image archive API comes into play!
