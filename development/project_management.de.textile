@@ -9,7 +9,14 @@ Laut dem entsprechenden Eintrag auf "Wikipedia":http://de.wikipedia.org  ist
 
 bq. "Software Projekt Management die Kunst und Wissenschaft der Planung und Führung eines Software Projektes."
 
-Auch wenn wir nat&uuml;rlich versuchen den Management Aufwand so gering wie möglich zu halten, bedienen wir uns einfacher Hilfsmittel um die laufenden Entwicklungsarbeiten und darin enthaltenden Aufgaben im Blick zu behalten.
+Auch wenn wir nat&uuml;rlich versuchen den Management Aufwand so gering wie m&ouml;glich zu halten, so wollen wir dennoch &uuml;ber die M&ouml;glichkeiten verf&uuml;gen
+
+* die Aktivit&auml;ten rund um die diversen Code Repositories zu verfolgen,
+* Dokumentation innerhalb des Teams von Entwicklern auszutauschen,
+* keep track of issues - such as bugs, a requested features, tasks, missing documentations, and so forth.
+
+In the background therefore we use "Redmine":http://www.redmine.org, a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and for multiple version control options.
+
 
 h3. &Uuml;bersicht der Aktivit&auml;ten
 
