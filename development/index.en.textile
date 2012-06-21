@@ -15,7 +15,7 @@ Some of the code developed throughout the course of the project has been found t
 
 h3. Projects we rely on
 
-As much as we enjoy creating out own code to work behind the scenes (and sometimes upfront) of the prometheus "image archive":<%=r 'prometheus/index' %>, there is a limit to what we are able to do ourselves.
+As much as we enjoy creating out own code to work behind the scenes (and sometimes upfront) of the prometheus "image archive":<%=r 'prometheus/index' %>, there is a limit to what we are able to do ourselves. The Open Source community provides a vibrant ecosystem with a large number of great project we are able to rely on.
 
 "» Description":<%=r 'development/external_dependencies' %>
 
