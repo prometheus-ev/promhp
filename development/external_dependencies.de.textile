@@ -30,19 +30,21 @@ h3. Entwicklungswerkzeuge
 
 h3. Bibliotheken
 
-* "ImageMagick":http://www.imagemagick.org - an open source software suite for displaying, converting, and editing raster image files. It can read and write over 100 image file formats.
+* "ImageMagick":http://www.imagemagick.org - eine Open-Source Sammlung von Programmen zur Anzeige, Konvertierung und Anpassung von Rasterbildern. ImageMagick ist in der Lage mehr als 100 Dateiformate zu lesen und schreiben.
 
-* "LibXML Ruby":https://github.com/xml4r/libxml-ruby - Ruby language bindings for GNOME's Libxml2 XML toolkit.
+* "LibXML Ruby":https://github.com/xml4r/libxml-ruby - Ruby Sprachanbindung für das GNOME's Libxml2 XML Toolkit.
 
-* "Ferret":https://github.com/dbalmain/ferret - a Ruby port of the "Java Lucene":http://jakarta.apache.org/lucene search engine.
+* "Ferret":https://github.com/dbalmain/ferret - ein Ruby Port der "Java Lucene":http://jakarta.apache.org/lucene Suchmachine.
 
-* "Lingo":http://lex-lingo.de - an open source software system for automatic indexing of german language documents. The development was determined by the aspects of flexibility, easy configuration, and different applications.
+* "Lingo":http://lex-lingo.de - ein frei verfügbares System zur linguistisch und statistisch basierten automatischen Indexierung des Deutschen und Englischen. Lingo arbeitet mit einem Wörterbuchmodell, das eine Grundformidentifizierung bzw. -reduktion mit einem Grundformenwörterbuch und einer zugehörigen einfachen Suffixliste realisiert. Lingo verfügt zusätzlich über eine algorithmische Kompositumzerlegung, eine algorithmische und lexikalische Mehrworterkennung sowie eine allgemeine lexikalische Relationierung.
 
 
 h3. Web Applications
 
-* "Apache":http://httpd.apache.org - an open-source HTTP server for modern operating systems including UNIX and Windows NT. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
+* "Apache":http://httpd.apache.org - ein Open Source HTTP Server für moderne Betriebssysteme, inklusive UNIX und Windows NT. Ziel des Projektes ist die Entwicklung eines sicheren, effizienten und erweiterbaren Servers zur Bereitstellung von HTTP Diensten in Übereinstimmung mit aktuellen HTTP Standards.
 
-* "Ruby on Rails":http://rubyonrails.org - an open source full-stack web application framework for the Ruby programming language. Rails is a full-stack framework, meaning that it gives the Web developer the full ability to gather information from the web server, talking to or querying the database, and template rendering out of the box. As a result, Rails features a routing system that is independent of the Web server.
+* "Ruby on Rails":http://rubyonrails.org - ein in der Programmiersprache Ruby geschriebenes und quelloffenes Web Application Framework. Rail ist ein "full-stack framework", was bedeutet dass es den Entwickler in die Lage versetzt Informationen über den Webserver zu erhalten, Datenbankabfragen durchzuführen und neue Inhalte unter Zuhilfenahme von Vorlagen darzustellen.
 
-* "Mongrel":https://github.com/evan/mongrel - an open-source software HTTP library and web server. It is used to run Ruby web applications and presents a standard HTTP interface. This makes layering other servers in front of it possible using a web proxy, a load balancer, or a combination of both, instead of having to use more conventional methods employed to run scripts such as FastCGI or SCGI to communicate. 
+* "Mongrel":https://github.com/evan/mongrel - ein Open Source HTTP Server (bzw. eine Bibliothek), typischerweise verwendet um in Ruby geschriebene Web Applications auszuführen und gleichzeitig eine Standard HTTP Schnittstelle zu präsentieren. Dieser Ansatz ermöglicht die Hintereinanderschaltung von Servern, z.B. das Voranstellen eines Web Proxy, eines Load Balancer, oder gar einer Kombination von beiden.
+
+* "PmWiki":http://www.pmwiki.org - ein Wiki-basiertes System zur gemeinschaftlichen Erstellung und Verwaltung von Websites.

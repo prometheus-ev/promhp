@@ -21,9 +21,9 @@ Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich v
 * "libxml-ext":https://github.com/blackwinter/libxml-ext -- Ruby Erweiterungen für libXML.
 * "log2counter":https://github.com/blackwinter/log2counter -- Konvertierung von Apache Log-Dateien nach "COUNTER":http://www.projectcounter.org/ CSV
 * "pandora":http://prometheus-srv.uni-koeln.de/trac/pandora -- Die Software von prometheus, dem digitalen Bildarchiv.
-* "perseus_match":https://github.com/blackwinter/perseus_match -- Fuzzy string matching based on linguistic analysis
-* "promdilps":https://github.com/prometheus-ev/promdilps -- Fork of the DILPS code base that drives the prometheus "promDILPS":<%=r 'databases/promdilps' %> service
-* "promhp":https://github.com/prometheus-ev/promhp -- The "Jekyll":http://jekyllrb.com/ source for this website
+* "perseus_match":https://github.com/blackwinter/perseus_match -- Auf linguistischer Analyse basierender Abgleich von Zeichenketten (Fuzzy string matching). 
+* "promdilps":https://github.com/prometheus-ev/promdilps -- Zweig (Fork) des DILPS Bilddatenbanksystem Quellcodes, verantwortlich für die Bereitstellung des prometheus "promDILPS":<%=r 'databases/promdilps' %> Angebotes.
+* "promhp":https://github.com/prometheus-ev/promhp -- Der "Jekyll":http://jekyllrb.com Quellcode für diese Webseiten.
 * "promwiki":https://github.com/prometheus-ev/promwiki -- Zweig (Fork) des Quellcodes von "PmWiki":http://www.pmwiki.org, der Wiki-Engine für prometheus.
 * "ruby-backports":https://github.com/blackwinter/ruby-backports -- Portierung neuer Funktionalitäten in der "Ruby":http://www.ruby-lang.org Programmiersprache zu älteren Versionen.
 * "ruby-filemagic":https://github.com/blackwinter/ruby-filemagic -- Ruby Bindungen für die magic(4) Bibliothek, überarbeitete Fassung.
