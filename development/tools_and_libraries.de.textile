@@ -5,10 +5,7 @@ title: Werkzeuge und Bibliotheken, die wir erstellt haben
 
 h2. <%= page_title %>
 
-Ein Teil der Software, welche im Laufe der Laufzeit des Projektes entwickelt wurde, hat sich von allgemeinerer Brauchbarkeit.
-
-bq. Some of the code developed throughout the course of the project has been found to be of wider applicability than just for our own purposes. Since we ourselves are benefitting considerably from others in the Open Source community, we try to give back were we can; as a result of this, we have released some of the tools and libraries we created to the wider public.
-
+Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich von allgemeinerer Verwendbarkeit erwiesen als alleine f&uuml;r unsere eigenen Zwecke. Da wir selber in einem erheblichen Masse von anderen Open Source Projekten profitieren, versuchen wir nat&uuml;rlich auch ein wenig zur&uuml;ckzugeben, wo dies m&ouml;glich ist; als ein Resultat dieser Bem&uuml;hungen haben wir eine Reihe an Werkzeuge und Bibliotheken ver&ouml;ffentlicht und der Allgemeinheit zug&auml;nglich gemacht.
 
 | "apache_image_resizer":https://github.com/blackwinter/apache_image_resizer | Apache Modul zur Gr&ouml;&szlig;enanpassung von Bildern. |
 | "apache_secure_download":https://github.com/blackwinter/apache_secure_download | Apache Modul zur Unterst&uuml;tzung sicherer Downloads. |
