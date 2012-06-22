@@ -5,28 +5,28 @@ title: Software Entwicklung
 
 h2. <%= page_title %>
 
-Hier bei prometheus sind wir Feuer und Flamme f&uuml;r "Open Source":http://de.wikipedia.org/wiki/Open_source und unterstützen die Bewegung für "Freie Software":http://de.wikipedia.org/wiki/Freie_Software, indem wir all unsere Software unter einer freien Lizenz veröffentlichen (üblicherweise der "GNU Affero General Public License":http://de.wikipedia.org/wiki/GNU_Affero_General_Public_License) und zu Projekten beitragen, die wir einsetzen.
+Hier bei prometheus sind wir Feuer und Flamme für "Open Source":http://de.wikipedia.org/wiki/Open_source und unterstützen die Bewegung für "Freie Software":http://de.wikipedia.org/wiki/Freie_Software, indem wir all unsere Software unter einer freien Lizenz veröffentlichen (üblicherweise der "GNU Affero General Public License":http://de.wikipedia.org/wiki/GNU_Affero_General_Public_License) und zu Projekten beitragen, die wir einsetzen.
 
 h3. Werkzeuge und Bibliotheken, die wir erstellt haben
 
-Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich von allgemeinerer Verwendbarkeit erwiesen als alleine f&uuml;r unsere eigenen Zwecke. Da wir selber in einem erheblichen Masse von anderen Open Source Projekten profitieren, versuchen wir nat&uuml;rlich auch ein wenig zur&uuml;ckzugeben, wo dies m&ouml;glich ist; als ein Resultat dieser Bem&uuml;hungen haben wir eine Reihe an Werkzeuge und Bibliotheken ver&ouml;ffentlicht und der Allgemeinheit zug&auml;nglich gemacht.
+Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich von allgemeinerer Verwendbarkeit erwiesen als alleine für unsere eigenen Zwecke. Da wir selber in einem erheblichen Masse von anderen Open Source Projekten profitieren, versuchen wir natürlich auch ein wenig zurückzugeben, wo dies möglich ist; als ein Resultat dieser Bemühungen haben wir eine Reihe an Werkzeuge und Bibliotheken veröffentlicht und der Allgemeinheit zugänglich gemacht.
 
 "» Beschreibung":<%=r 'development/tools_and_libraries' %>
 
-h3. Projekte, auf die wir uns st&uuml;tzen
+h3. Projekte, auf die wir uns stützen
 
-So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des prometheus Bildarchiv arbeitet, so gibt es durchaus Grenzen f&uuml;r das, was wir in der Lage sind alleine zu leisten.
+So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des prometheus Bildarchiv arbeitet, so gibt es durchaus Grenzen für das, was wir in der Lage sind alleine zu leisten.
 
 "» Beschreibung":<%=r 'development/external_dependencies' %>
 
 h3. Projekt Management
 
-Auch wenn wir nat&uuml;rlich versuchen den Management Aufwand so gering wie m&ouml;glich zu halten, bedienen wir uns einfacher Hilfsmittel um die laufenden Entwicklungsarbeiten und darin enthaltenden Aufgaben im Blick zu behalten.
+Auch wenn wir natürlich versuchen den Management Aufwand so gering wie möglich zu halten, bedienen wir uns einfacher Hilfsmittel um die laufenden Entwicklungsarbeiten und darin enthaltenden Aufgaben im Blick zu behalten.
 
 "» Beschreibung":<%=r 'development/project_management' %>
 
 h3. Schnittstelle (API) zum prometheus Bildarchiv
 
-W&auml;hrend die meisten unserer Benutzer f&uuml;r ihre Arbeit mit dem Bildarchiv den Zugang &uuml;ber die Internetseite verwenden werden, besteht durchaus auch die M&ouml;glichkeit direkt mit "pandora":<%= pandora_url 'about' %>, Software von prometheus, dem digitalen Bildarchiv, zu sprechen. Wenn Sie nun aber einen Idee f&uuml;r eine interessante neue Anwendung haben - sei es Spiel, eine App f&uuml;r ein Mobiltelefon, eine Meta-Suchmachine, etc. - welche gewissermassen auf dem Bildarchiv aufsetzt, dann ist eine besondere Kommunikation mit dem System notwendig, &uuml;ber welche sich die ben&ouml;tigten Informationen abgreifen lassen. Dies ist der Punkt, an welchem die Bildarchiv API ins Spiel kommt!
+Während die meisten unserer Benutzer für ihre Arbeit mit dem Bildarchiv den Zugang über die Internetseite verwenden werden, besteht durchaus auch die Möglichkeit direkt mit "pandora":<%= pandora_url 'about' %>, Software von prometheus, dem digitalen Bildarchiv, zu sprechen. Wenn Sie nun aber einen Idee für eine interessante neue Anwendung haben - sei es Spiel, eine App für ein Mobiltelefon, eine Meta-Suchmachine, etc. - welche gewissermassen auf dem Bildarchiv aufsetzt, dann ist eine besondere Kommunikation mit dem System notwendig, über welche sich die benötigten Informationen abgreifen lassen. Dies ist der Punkt, an welchem die Bildarchiv API ins Spiel kommt!
 
 "» Beschreibung":<%=r 'development/image_archive_api' %>

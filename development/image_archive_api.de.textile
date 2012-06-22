@@ -5,9 +5,9 @@ title: Die Schnittstelle (API) zum prometheus Bildarchiv
 
 h2. <%= page_title %>
 
-W&auml;hrend die meisten unserer Benutzer f&uuml;r ihre Arbeit mit dem Bildarchiv den Zugang &uuml;ber die Internetseite verwenden werden, besteht durchaus auch die M&ouml;glichkeit direkt mit "pandora":<%= pandora_url 'about' %>, Software von prometheus, dem digitalen Bildarchiv, zu sprechen. Wenn Sie nun aber einen Idee f&uuml;r eine interessante neue Anwendung haben - sei es Spiel, eine App f&uuml;r ein Mobiltelefon, eine Meta-Suchmachine, etc. - welche gewissermassen auf dem Bildarchiv aufsetzt, dann ist eine besondere Kommunikation mit dem System notwendig, &uuml;ber welche sich die ben&ouml;tigten Informationen abgreifen lassen. Dies ist der Punkt, an welchem die Bildarchiv API ins Spiel kommt!
+Während die meisten unserer Benutzer für ihre Arbeit mit dem Bildarchiv den Zugang über die Internetseite verwenden werden, besteht durchaus auch die Möglichkeit direkt mit "pandora":<%= pandora_url 'about' %>, Software von prometheus, dem digitalen Bildarchiv, zu sprechen. Wenn Sie nun aber einen Idee für eine interessante neue Anwendung haben - sei es Spiel, eine App für ein Mobiltelefon, eine Meta-Suchmachine, etc. - welche gewissermassen auf dem Bildarchiv aufsetzt, dann ist eine besondere Kommunikation mit dem System notwendig, über welche sich die benötigten Informationen abgreifen lassen. Dies ist der Punkt, an welchem die Bildarchiv API ins Spiel kommt!
 
-Mit Hilfe der Schnittstelle ist es m&ouml;glich die folgenden Aktionen auszuf&uuml;hren:
+Mit Hilfe der Schnittstelle ist es möglich die folgenden Aktionen auszuführen:
 
 * Suchen, 
 * Abrufen von Bildern und

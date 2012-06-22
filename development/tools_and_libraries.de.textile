@@ -5,27 +5,27 @@ title: Werkzeuge und Bibliotheken, die wir erstellt haben
 
 h2. <%= page_title %>
 
-Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich von allgemeinerer Verwendbarkeit erwiesen als alleine f&uuml;r unsere eigenen Zwecke. Da wir selber in einem erheblichen Masse von anderen Open Source Projekten profitieren, versuchen wir nat&uuml;rlich auch ein wenig zur&uuml;ckzugeben, wo dies m&ouml;glich ist; als ein Resultat dieser Bem&uuml;hungen haben wir eine Reihe an Werkzeuge und Bibliotheken ver&ouml;ffentlicht und der Allgemeinheit zug&auml;nglich gemacht.
+Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich von allgemeinerer Verwendbarkeit erwiesen als alleine für unsere eigenen Zwecke. Da wir selber in einem erheblichen Masse von anderen Open Source Projekten profitieren, versuchen wir natürlich auch ein wenig zurückzugeben, wo dies möglich ist; als ein Resultat dieser Bemühungen haben wir eine Reihe an Werkzeuge und Bibliotheken veröffentlicht und der Allgemeinheit zugänglich gemacht.
 
-| "apache_image_resizer":https://github.com/blackwinter/apache_image_resizer | Apache Modul zur Gr&ouml;&szlig;enanpassung von Bildern. |
-| "apache_secure_download":https://github.com/blackwinter/apache_secure_download | Apache Modul zur Unterst&uuml;tzung sicherer Downloads. |
+| "apache_image_resizer":https://github.com/blackwinter/apache_image_resizer | Apache Modul zur Größenanpassung von Bildern. |
+| "apache_secure_download":https://github.com/blackwinter/apache_secure_download | Apache Modul zur Unterstützung sicherer Downloads. |
 | "apache_upload_merger":https://github.com/blackwinter/apache_upload_merger | Apache module providing upload merging functionality |
 | "athena":https://github.com/blackwinter/athena | Konvertierung von Datenbank Dateien in diverse andere Formate. |
-| "cmess":https://github.com/blackwinter/cmess | Hilfe f&uuml;r den Umgang mit durcheinander geratenen Zeichenkodierung. |
+| "cmess":https://github.com/blackwinter/cmess | Hilfe für den Umgang mit durcheinander geratenen Zeichenkodierung. |
 | "flattendb":https://github.com/blackwinter/flattendb | Flatten relational databases |
 | "jekyll-localization":https://github.com/blackwinter/jekyll-localization | Jekyll plugin that adds localization features to the rendering engine |
 | "jekyll-pagination":https://github.com/blackwinter/jekyll-pagination | Jekyll plugin to extend the pagination generator |
-| "jekyll-rendering":https://github.com/blackwinter/jekyll-rendering | Jekyll Plugin f&uuml;r die Bereitstellung alternativer Rendering-Engines. |
-| "jekyll-tagging":https://github.com/pattex/jekyll-tagging | Jekyll Plugin zur automatischen Erzeugung von Wort-Wolken (word clouds) und Tag-&Uuml;bersichtsseiten. |
+| "jekyll-rendering":https://github.com/blackwinter/jekyll-rendering | Jekyll Plugin für die Bereitstellung alternativer Rendering-Engines. |
+| "jekyll-tagging":https://github.com/pattex/jekyll-tagging | Jekyll Plugin zur automatischen Erzeugung von Wort-Wolken (word clouds) und Tag-Übersichtsseiten. |
 | "JekyllCommander":https://github.com/prometheus-ev/JekyllCommander | A Sinatra based web interface, to maintain a Jekyll website, including git version control. |
-| "libxml-ext":https://github.com/blackwinter/libxml-ext | Ruby Erweiterungen fuer libXML. |
+| "libxml-ext":https://github.com/blackwinter/libxml-ext | Ruby Erweiterungen für libXML. |
 | "log2counter":https://github.com/blackwinter/log2counter | Convert (analyse) Apache log files to "COUNTER":http://www.projectcounter.org/ CSV |
 | "pandora":http://prometheus-srv.uni-koeln.de/trac/pandora | The prometheus digital image archive software |
 | "perseus_match":https://github.com/blackwinter/perseus_match | Fuzzy string matching based on linguistic analysis |
 | "promdilps":https://github.com/prometheus-ev/promdilps | Fork of the DILPS code base that drives the prometheus "promDILPS":<%=r 'databases/promdilps' %> service |
 | "promhp":https://github.com/prometheus-ev/promhp | The "Jekyll":http://jekyllrb.com/ source for this website |
 | "promwiki":https://github.com/prometheus-ev/promwiki | Fork of the PmWiki code base that drives the prometheus wiki |
-| "ruby-backports":https://github.com/blackwinter/ruby-backports | Portierung neuer Funktionalit&auml;ten in der Ruby Programmiersprache zu &auml;lteen Versionen. |
+| "ruby-backports":https://github.com/blackwinter/ruby-backports | Portierung neuer Funktionalitäten in der Ruby Programmiersprache zu älteen Versionen. |
 | "ruby-filemagic":https://github.com/blackwinter/ruby-filemagic | Ruby bindings to the magic(4) library, revised. |
 | "ruby-nuggets":https://github.com/blackwinter/ruby-nuggets | Ein Reihe an Erweiterungen der Ruby Programmmiersprache. |
-| "wadl":https://github.com/blackwinter/wadl | Ruby Client f&uuml;r die Web Application Description Language. |
+| "wadl":https://github.com/blackwinter/wadl | Ruby Client für die Web Application Description Language. |

@@ -1,32 +1,32 @@
 ---
 layout: default
-title: Projekte, auf die wir uns st&uuml;tzen
+title: Projekte, auf die wir uns stützen
 ---
 
 h2. <%= page_title %>
 
-So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des "prometheus Bildarchiv":<%=r 'prometheus/index' %> arbeitet, so gibt es durchaus Grenzen f&uuml;r das, was wir in der Lage sind alleine zu leisten.
+So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des "prometheus Bildarchiv":<%=r 'prometheus/index' %> arbeitet, so gibt es durchaus Grenzen für das, was wir in der Lage sind alleine zu leisten.
 
 
 h3. Entwicklungsplatformen
 
 * Die meisten unserer Server und Entwicklungs-Machinen laufen unter GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
 
-* "Github":https://github.com - ein webbasierter Hosting-Dienst f&uuml;r Software-Entwicklungsprojekte. Er verwendet namensgebenderweise das Versionsverwaltungs-System _Git_.
+* "Github":https://github.com - ein webbasierter Hosting-Dienst für Software-Entwicklungsprojekte. Er verwendet namensgebenderweise das Versionsverwaltungs-System _Git_.
 
 
 h3. Programmiersprachen
 
-* "Ruby":http://ruby-lang.org - eine h&ouml;here Programmiersprache, die Mitte der neunziger Jahre von dem Japaner Yukihiro Matsumoto entworfen wurde. Ruby ist interpretiert und objektorientiert, unterst&uuml;tzt aber mehrere weitere Programmierparadigmen (unter anderem prozedurale und funktionale Programmierung sowie Nebenl&auml;ufigkeit), bietet dynamische Typisierung, Reflexion und automatische Speicherbereinigung.
+* "Ruby":http://ruby-lang.org - eine höhere Programmiersprache, die Mitte der neunziger Jahre von dem Japaner Yukihiro Matsumoto entworfen wurde. Ruby ist interpretiert und objektorientiert, unterstützt aber mehrere weitere Programmierparadigmen (unter anderem prozedurale und funktionale Programmierung sowie Nebenläufigkeit), bietet dynamische Typisierung, Reflexion und automatische Speicherbereinigung.
 
 
 h3. Entwicklungswerkzeuge
 
-* "Git":http://git-scm.com - eine freie Software zur verteilten Versionsverwaltung von Dateien, die urspr&uuml;nglich f&uuml;r die Quellcode-Verwaltung des Linux-Kernels entwickelt wurde.
+* "Git":http://git-scm.com - eine freie Software zur verteilten Versionsverwaltung von Dateien, die ursprünglich für die Quellcode-Verwaltung des Linux-Kernels entwickelt wurde.
 
-* "Subversion":http://subversion.apache.org - eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Entwickler verwenden Subversion f&uuml;r den Zugriff auf aktuelle und vergangene Versionen von Dateien, sei es Quellcode, Internetseiten oder Dokumentation.
+* "Subversion":http://subversion.apache.org - eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Entwickler verwenden Subversion für den Zugriff auf aktuelle und vergangene Versionen von Dateien, sei es Quellcode, Internetseiten oder Dokumentation.
 
-* "Redmine":http:www.redmine.org - ein webbasiertes Projektmanagement-Tool. Es kann f&uuml;r Benutzer- und Projektverwaltung, Diskussionsforen, Wikis, zur Ticketverwaltung oder Dokumentenablage genutzt werden. Weltweit wird Redmine bei mehreren gro&szlig;en Projekten verwendet, unter anderem bei dem Issue-Tracking-System der Programmiersprache Ruby oder dem Entwicklerportal von TYPO3.
+* "Redmine":http:www.redmine.org - ein webbasiertes Projektmanagement-Tool. Es kann für Benutzer- und Projektverwaltung, Diskussionsforen, Wikis, zur Ticketverwaltung oder Dokumentenablage genutzt werden. Weltweit wird Redmine bei mehreren großen Projekten verwendet, unter anderem bei dem Issue-Tracking-System der Programmiersprache Ruby oder dem Entwicklerportal von TYPO3.
 
 h3. Bibliotheken
 

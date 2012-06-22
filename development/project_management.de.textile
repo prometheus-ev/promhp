@@ -9,22 +9,22 @@ Laut dem entsprechenden Eintrag auf "Wikipedia":http://de.wikipedia.org  ist
 
 bq. "Software Projekt Management die Kunst und Wissenschaft der Planung und Führung eines Software Projektes."
 
-Auch wenn wir nat&uuml;rlich versuchen den Management Aufwand so gering wie m&ouml;glich zu halten, so wollen wir dennoch &uuml;ber die M&ouml;glichkeiten verf&uuml;gen
+Auch wenn wir natürlich versuchen den Management Aufwand so gering wie möglich zu halten, so wollen wir dennoch über die Möglichkeiten verfügen
 
-* die Aktivit&auml;ten rund um die diversen Code Repositories zu verfolgen,
+* die Aktivitäten rund um die diversen Code Repositories zu verfolgen,
 * Dokumentation innerhalb des Teams von Entwicklern auszutauschen,
 * keep track of issues - such as bugs, a requested features, tasks, missing documentations, and so forth.
 
 In the background therefore we use "Redmine":http://www.redmine.org, a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and for multiple version control options.
 
 
-h3. &Uuml;bersicht der Aktivit&auml;ten
+h3. Übersicht der Aktivitäten
 
-Auch wenn sich der &uuml;berwiegende Teil unserer tagt&auml;glichen Software Entwicklungsarbeit um "pandora":<%= pandora_url 'about' %> dreht, so unterhalten wir ebenfalls eine ganze Reihe an "Werkzeugen und Bibliotheken":<%=r 'development/tools_and_libraries' %>, welche &uuml;ber die Laufzeit des Projektes entstanden sind. Angesichts der Tatsache, dass es mehrere Repositories mit Code, Webseiten und Dokumentation gibt, kann es schon einmal etwas schwieriger werden &uuml;ber die &uuml;berall stattfindenden Aktivit&auml;ten auf dem Laufenden zu bleiben. Um dies ein klein wenig zu vereinfachen, machen wir Gebrauch von Redmines F&auml;higkeit mehrere Repositories zu &uuml;berwachen und dort eingehende Meldungen zusammenzuf&uuml;hren; da letzten Endes alle &Auml;nderungen diesen Weg gehen, ist es somit m&ouml;glich eine &Uuml;bersicht der vor sich gehenden Entwicklungsarbeiten zu erhalten.
+Auch wenn sich der überwiegende Teil unserer tagtäglichen Software Entwicklungsarbeit um "pandora":<%= pandora_url 'about' %> dreht, so unterhalten wir ebenfalls eine ganze Reihe an "Werkzeugen und Bibliotheken":<%=r 'development/tools_and_libraries' %>, welche über die Laufzeit des Projektes entstanden sind. Angesichts der Tatsache, dass es mehrere Repositories mit Code, Webseiten und Dokumentation gibt, kann es schon einmal etwas schwieriger werden über die überall stattfindenden Aktivitäten auf dem Laufenden zu bleiben. Um dies ein klein wenig zu vereinfachen, machen wir Gebrauch von Redmines Fähigkeit mehrere Repositories zu überwachen und dort eingehende Meldungen zusammenzuführen; da letzten Endes alle Änderungen diesen Weg gehen, ist es somit möglich eine Übersicht der vor sich gehenden Entwicklungsarbeiten zu erhalten.
 
 | !<%=r "files/images/redmine_monitoring_controlling.png" %>(Redmine Screenshot)! | !<%=r "files/images/redmine_repository.png" %>(Repository overview)! |
-| Management von Aufgaben, Zeitvorgaben und Arbeitskr&auml;ften. | &Uuml;bersicht der Commits in das Code Repository. |
+| Management von Aufgaben, Zeitvorgaben und Arbeitskräften. | Übersicht der Commits in das Code Repository. |
 
 h3. Issue Tracking
 
-In der Software-Entwicklung versteht man unter _Issue_ eine Art Masseinheit f&uuml;r die das Erreichen einer Verbesserung innerhalb eines Systems/Projektes. Ein Issue kann ein berichteter Fehler, eine Anfrage auf Funktionserweiterung, ein Aufgabe oder der Verweis auf fehlenden Dokumentation sein - f&uuml;r ein Projekt wie das unsere kann da schon eine l&auml;ngere Liste zusammenkommen. Wie l&auml;sst sich also Schritt halten mit den Aufgaben? Wir gebrauchen Redmines "Issue tracking":http://prometheus-app.uni-koeln.de/redmine/projects Funktionalit&auml;t, um Issues einzureichen und bis zu ihrer Abarbeitung zu verfolgen - dies erm&ouml;glicht uns nicht nur eine &Uuml;bersichtsliste der noch offenen Punkte bereitzuhalten, sondern stellt uns dar&uuml;ber hinaus n&uuml;tzliche Zusatzinformationen zur Verf&uuml;gung (z.B. F&auml;lligkeitsdaten, Aufgabenverteilungen, etc.).
+In der Software-Entwicklung versteht man unter _Issue_ eine Art Masseinheit für die das Erreichen einer Verbesserung innerhalb eines Systems/Projektes. Ein Issue kann ein berichteter Fehler, eine Anfrage auf Funktionserweiterung, ein Aufgabe oder der Verweis auf fehlenden Dokumentation sein - für ein Projekt wie das unsere kann da schon eine längere Liste zusammenkommen. Wie lässt sich also Schritt halten mit den Aufgaben? Wir gebrauchen Redmines "Issue tracking":http://prometheus-app.uni-koeln.de/redmine/projects Funktionalität, um Issues einzureichen und bis zu ihrer Abarbeitung zu verfolgen - dies ermöglicht uns nicht nur eine Übersichtsliste der noch offenen Punkte bereitzuhalten, sondern stellt uns darüber hinaus nützliche Zusatzinformationen zur Verfügung (z.B. Fälligkeitsdaten, Aufgabenverteilungen, etc.).
