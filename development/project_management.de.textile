@@ -13,7 +13,7 @@ Auch wenn wir natürlich versuchen den Management Aufwand so gering wie möglich
 
 * die Aktivitäten rund um die diversen Code Repositories zu verfolgen,
 * Dokumentation innerhalb des Teams von Entwicklern auszutauschen,
-* keep track of issues - such as bugs, a requested features, tasks, missing documentations, and so forth.
+* ausstehende Issues - Fehlermeldungen, gewünschte Funktionalität, fehlende Dokumentation, sonstige Aufgaben - im Auge behalten.
 
 Um diesen Anforderungen gerecht zu werden verwenden wir "Redmine":http://www.redmine.org, ein webbasiertes Open Source Projektmanagement-Tool. Es kann für Benutzer- und Projektverwaltung, Diskussionsforen, Wikis, zur Ticketverwaltung oder Dokumentenablage genutzt werden.
 
