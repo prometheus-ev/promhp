@@ -1,5 +1,4 @@
 --- 
-layout: series
 descriptions: 
 - "Karl Hagemeister: Sommerlandschaft bei Ferch (Ausschnitt), um 1885, Mischtechnik, Berlin, Kunsthandel Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
 - "Karl Hagemeister: Seeufer bei Ferch (Ausschnitt), 1895, Berlin, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
@@ -9,6 +8,7 @@ descriptions:
 - "Karl Hagemeister: B\xC3\xA4ume am Seeufer - Ostseek\xC3\xBCste (?) (Ausschnitt), 1910, \xC3\x96l auf Leinwand,  Wertheim, Besitz der Stadt; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
 - "Karl Hagemeister: Die Woge (Ausschnitt), 1915, \xC3\x96l auf Leinwand, 100 x 150 cm, Dachau Schloss Haimhausen, Gem\xC3\xA4lde-Cabinett-Unger; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
 - "Carl Schuch: Bildnis des Malers Karl Hagemeister (Ausschnitt), 1876, \xC3\x96l auf Leinwand, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+layout: series
 title: Karl Hagemeister
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: Landschaften
