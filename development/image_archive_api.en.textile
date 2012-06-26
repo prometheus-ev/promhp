@@ -5,7 +5,7 @@ title: The prometheus image archive API
 
 h2. <%= page_title %>
 
-While most of our users are likely going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to "talk" more directly to "pandora":<%= pandora_url 'about' %>, the digital image archive software. If, e.g., you are interested in developing a cool new application - be it a game, a mobile app, a meta-search engine, etc. - which operates on top of the image archive, a line of communication into the system is required through which you are able to retrieve the information you need. This is where the image archive API comes into play!
+While most of our users are likely going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to "talk" more directly to "pandora":<%=p 'about' %>, the digital image archive software. If, e.g., you are interested in developing a cool new application - be it a game, a mobile app, a meta-search engine, etc. - which operates on top of the image archive, a line of communication into the system is required through which you are able to retrieve the information you need. This is where the image archive API comes into play!
 
 Using the API you will be able to perform
 

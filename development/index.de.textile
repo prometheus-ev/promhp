@@ -15,7 +15,7 @@ Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich v
 
 h3. Projekte, auf die wir uns stützen
 
-So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des prometheus-Bildarchivs arbeitet, so gibt es durchaus Grenzen für das, was wir in der Lage sind alleine zu leisten.
+So sehr es uns auch Freude bereitet, die Software zu entwickeln, welche hinter den Kulissen des "prometheus-Bildarchivs":<%=r 'prometheus/index' %> arbeitet, so gibt es durchaus Grenzen für das, was wir in der Lage sind, alleine zu leisten.
 
 "» Beschreibung":<%=r 'development/external_dependencies' %>
 

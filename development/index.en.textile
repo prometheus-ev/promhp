@@ -15,7 +15,7 @@ Some of the code developed throughout the course of the project has been found t
 
 h3. Projects we rely on
 
-As much as we enjoy creating our own code to work behind the scenes (and sometimes on the front end) of the prometheus image archive, there is a limit to what we are able to do ourselves. The Open Source community provides a vibrant ecosystem with a large number of great projects we are able to rely on.
+As much as we enjoy creating our own code to work behind the scenes (and sometimes on the front end) of the prometheus "image archive":<%=r 'prometheus/index' %>, there is a limit to what we are able to do ourselves. The Open Source community provides a vibrant ecosystem with a large number of great projects we are able to rely on.
 
 "» Description":<%=r 'development/external_dependencies' %>
 
@@ -25,10 +25,9 @@ Though we are trying to keep the management overhead to a minimum, we like to be
 
 * monitor activity across the various code repositories,
 * share documentation across our team of developers,
-* keep track of issues - such as bugs, requested features, tasks, missing documentations, and so forth.
+* keep track of issues - such as bugs, requested features, tasks, missing documentation, and so forth.
 
-In the background we therefore use Redmine, a free and open source, web-based project management and bug-tracking tool.
-
+In the background we therefore use "Redmine":http://www.redmine.org, a free and open source, web-based project management and bug-tracking tool.
 
 "» Description":<%=r 'development/project_management' %>
 
