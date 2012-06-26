@@ -1,8 +1,0 @@
-* "Ruby":http://ruby-lang.org/
-* "Ruby on Rails":http://rubyonrails.org/
-* "LibXML Ruby":https://github.com/xml4r/libxml-ruby
-* "Mongrel":https://github.com/evan/mongrel
-* "Ferret":https://github.com/dbalmain/ferret
-* "Lingo":http://lex-lingo.de/
-* "Apache":http://httpd.apache.org/
-* GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
