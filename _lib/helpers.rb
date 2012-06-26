@@ -11,14 +11,13 @@ module Jekyll
     end
 
     def relative_url(str, url)
-      if external_url?(str)
-        str
-      elsif url.is_a?(URI)
-        File.join(url.path, str)
-      else
-        count = url.count('/').pred
-        count.zero? ? str.sub(/\A\//, '') : File.join(%w[..] * count, str)
-      end
+      external_url?(str) ? str : url.is_a?(URI) ?
+        File.join(url.path, str) : _relative_url(str, url)
+    end
+
+    def _relative_url(str, url)
+      count = url.count('/').pred
+      count.zero? ? str.sub(/\A\//, '') : File.join(%w[..] * count, str)
     end
 
     def pandora_url(path, page = self, site = OpenStruct.new(site.config))
