@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tools and Libraries we created
+title: Open Source Tools and Libraries we created
 ---
 
 h2. <%= page_title %>

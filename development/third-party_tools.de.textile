@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projekte, auf die wir uns stützen
+title: Externe Werkzeuge, auf die wir uns stützen
 ---
 
 h2. <%= page_title %>

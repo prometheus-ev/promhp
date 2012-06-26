@@ -7,17 +7,17 @@ h2. <%= page_title %>
 
 Here at prometheus we are passionate about "Open Source":http://en.wikipedia.org/wiki/Open-source_software and commit to the "Free Software":http://en.wikipedia.org/wiki/Free_software philosophy by licensing all our software under a free license (usually the "GNU Affero General Public License":http://en.wikipedia.org/wiki/Affero_General_Public_License) and contributing back to projects we use.
 
-h3. Tools and libraries we created
+h3. Open Source Tools and Libraries we created
 
 Some of the code developed throughout the course of the project has been found to be of wider applicability than just for our own purposes. Since we ourselves are benefitting considerably from others in the Open Source community, we try to give back were we can; as a result of this, we have released some of the tools and libraries we created to the wider public.
 
-"» Description":<%=r 'development/tools_and_libraries' %>
+"» Description":<%=r 'development/open_source' %>
 
-h3. Projects we rely on
+h3. Third-party Tools we rely on
 
 As much as we enjoy creating our own code to work behind the scenes (and sometimes on the front end) of the prometheus "image archive":<%=r 'prometheus/index' %>, there is a limit to what we are able to do ourselves. The Open Source community provides a vibrant ecosystem with a large number of great projects we are able to rely on.
 
-"» Description":<%=r 'development/external_dependencies' %>
+"» Description":<%=r 'development/third-party_tools' %>
 
 h3. Project Management
 
@@ -35,4 +35,4 @@ h3. Image Archive API
 
 While most of our users are likely going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to "talk" more directly to "pandora":<%=p 'about' %>, the digital image archive software. If, e.g., you are interested in developing a cool new application - be it a game, a mobile app, a meta-search engine, etc. - which operates on top of the image archive, a line of communication into the system is required through which you are able to retrieve the information you need. This is where the image archive API comes into play!
 
-"» Description":<%=r 'development/image_archive_api' %>
+"» Description":<%=r 'development/api' %>

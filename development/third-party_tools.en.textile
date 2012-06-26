@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects we rely on
+title: Third-party Tools we rely on
 ---
 
 h2. <%= page_title %>

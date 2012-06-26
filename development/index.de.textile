@@ -7,17 +7,17 @@ h2. <%= page_title %>
 
 Hier bei prometheus sind wir Feuer und Flamme für "Open Source":http://de.wikipedia.org/wiki/Open_source und unterstützen die Bewegung für "Freie Software":http://de.wikipedia.org/wiki/Freie_Software, indem wir all unsere Software unter einer freien Lizenz veröffentlichen (üblicherweise der "GNU Affero General Public License":http://de.wikipedia.org/wiki/GNU_Affero_General_Public_License) und zu Projekten beitragen, die wir einsetzen.
 
-h3. Werkzeuge und Bibliotheken, die wir erstellt haben
+h3. Open-Source-Werkzeuge und -Bibliotheken, die wir erstellt haben
 
 Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich von allgemeinerer Verwendbarkeit erwiesen als alleine für unsere eigenen Zwecke. Da wir selber in einem erheblichen Maße von anderen Open-Source-Projekten profitieren, versuchen wir natürlich auch ein wenig zurückzugeben, wo dies möglich ist; als ein Resultat dieser Bemühungen haben wir eine Reihe von Werkzeugen und Bibliotheken veröffentlicht und der Allgemeinheit zugänglich gemacht.
 
-"» Beschreibung":<%=r 'development/tools_and_libraries' %>
+"» Beschreibung":<%=r 'development/open_source' %>
 
-h3. Projekte, auf die wir uns stützen
+h3. Externe Werkzeuge, auf die wir uns stützen
 
 So sehr es uns auch Freude bereitet, die Software zu entwickeln, welche hinter den Kulissen des "prometheus-Bildarchivs":<%=r 'prometheus/index' %> arbeitet, so gibt es durchaus Grenzen für das, was wir in der Lage sind, alleine zu leisten.
 
-"» Beschreibung":<%=r 'development/external_dependencies' %>
+"» Beschreibung":<%=r 'development/third-party_tools' %>
 
 h3. Projektmanagement
 
@@ -29,4 +29,4 @@ h3. Schnittstelle (API) zum prometheus-Bildarchiv
 
 Während die meisten unserer Benutzer für ihre Arbeit mit dem Bildarchiv den Zugang über die Internetseite verwenden werden, besteht durchaus auch die Möglichkeit direkt mit "pandora":<%=p 'about' %>, der Software von prometheus, dem digitalen Bildarchiv, zu sprechen. Wenn Sie nun aber eine Idee für eine interessante neue Anwendung haben - sei es ein Spiel, eine App für ein Mobiltelefon, eine Meta-Suchmachine, etc. - welche gewissermassen auf dem Bildarchiv aufsetzt, dann ist eine besondere Kommunikation mit dem System notwendig, über welche sich die benötigten Informationen abgreifen lassen. Dies ist der Punkt, an welchem die Bildarchiv-API ins Spiel kommt!
 
-"» Beschreibung":<%=r 'development/image_archive_api' %>
+"» Beschreibung":<%=r 'development/api' %>
