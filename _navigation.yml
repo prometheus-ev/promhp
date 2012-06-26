@@ -12,6 +12,22 @@
   - :title_en: pandora
     :title_de: pandora
     :url: <%= pandora_url 'about' %>
+  - :title_en: Development
+    :title_de: Entwicklung
+    :url: development
+    :content:
+    - :title_en: Open Source
+      :title_de: Open Source
+      :url: development/open_source
+    - :title_en: Third-party Tools
+      :title_de: Externe Werkzeuge
+      :url: development/third-party_tools
+    - :title_en: Project Management
+      :title_de: Projektmanagement
+      :url: development/project_management
+    - :title_en: API
+      :title_de: API
+      :url: development/api
   - :title_en: Publications
     :title_de: Publikationen
     :url: prometheus/publications/index
@@ -296,19 +312,3 @@
   - :title_en: PKND
     :title_de: PKND
     :url: tools/pknd
-- :title_en: Development
-  :title_de: Entwicklung
-  :url: development
-  :content:
-  - :title_en: Open Source
-    :title_de: Open Source
-    :url: development/open_source
-  - :title_en: Third-party Tools
-    :title_de: Externe Werkzeuge
-    :url: development/third-party_tools
-  - :title_en: Project Management
-    :title_de: Projektmanagement
-    :url: development/project_management
-  - :title_en: API
-    :title_de: API
-    :url: development/api
