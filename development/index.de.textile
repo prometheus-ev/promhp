@@ -19,7 +19,7 @@ So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter de
 
 "» Beschreibung":<%=r 'development/external_dependencies' %>
 
-h3. Projekt Management
+h3. Projektmanagement
 
 Auch wenn wir natürlich versuchen, den Management-Aufwand so gering wie möglich zu halten, bedienen wir uns einfacher Hilfsmittel, um die laufenden Entwicklungsarbeiten und darin enthaltenen Aufgaben im Blick zu behalten.
 

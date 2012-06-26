@@ -5,7 +5,7 @@ title: Project Management
 
 h2. <%= page_title %>
 
-According to "Wikipedia":http://en.wikipedia.org/wiki/Project_management
+According to "Wikipedia":http://en.wikipedia.org/wiki/Software_project_management
 
 bq. "Software project management is the art and science of planning and leading software projects."
 

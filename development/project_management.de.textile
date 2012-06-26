@@ -5,9 +5,9 @@ title: Projektmanagement
 
 h2. <%= page_title %>
 
-Laut dem entsprechenden Eintrag auf "Wikipedia":http://de.wikipedia.org/wiki/Projektmanagement ist
+Laut dem entsprechenden Eintrag auf "Wikipedia":http://de.wikipedia.org/wiki/Projektmanagement:
 
-bq. "Software Projekt Management die Kunst und Wissenschaft der Planung und Führung eines Software Projektes."
+bq. "Unter dem Begriff Projektmanagement (PM) versteht man das Planen, Steuern und Kontrollieren von Projekten."
 
 Auch wenn wir natürlich versuchen, den Management-Aufwand so gering wie möglich zu halten, so wollen wir dennoch über die Möglichkeiten verfügen,
 
