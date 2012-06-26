@@ -15,26 +15,25 @@ Some of the code developed throughout the course of the project has been found t
 
 h3. Projects we rely on
 
-As much as we enjoy creating out own code to work behind the scenes (and sometimes upfront) of the prometheus image archive, there is a limit to what we are able to do ourselves. The Open Source community provides a vibrant ecosystem with a large number of great project we are able to rely on.
+As much as we enjoy creating our own code to work behind the scenes (and sometimes on the front end) of the prometheus image archive, there is a limit to what we are able to do ourselves. The Open Source community provides a vibrant ecosystem with a large number of great projects we are able to rely on.
 
 "» Description":<%=r 'development/external_dependencies' %>
 
 h3. Project Management
 
-Though we are trying to keep the management overhead to a minimum, we like to be able to 
+Though we are trying to keep the management overhead to a minimum, we like to be able to
 
 * monitor activity across the various code repositories,
 * share documentation across our team of developers,
-* keep track of issues - such as bugs, a requested features, tasks, missing documentations, and so forth.
+* keep track of issues - such as bugs, requested features, tasks, missing documentations, and so forth.
 
-In the background therefore we use Redmine, a free and open source, web-based project management and bug-tracking tool.
+In the background we therefore use Redmine, a free and open source, web-based project management and bug-tracking tool.
 
 
 "» Description":<%=r 'development/project_management' %>
 
 h3. Image Archive API
 
-While most of our users likely are going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to more directly "talk" to _pandora_, the digital image archive software. If e.g. you are interested in developing a cool new application - be it a game, a mobile app, a meta-search engine, etc. - which operates on top of the image archive, a line of communication into the system is required, through which you are able to retrieve the information you need. Exactly this is where the image archive API comes into play!
+While most of our users are likely going to carry out their everyday work with the image archive through the web interface, there also exists the possibility to "talk" more directly to "pandora":<%=p 'about' %>, the digital image archive software. If, e.g., you are interested in developing a cool new application - be it a game, a mobile app, a meta-search engine, etc. - which operates on top of the image archive, a line of communication into the system is required through which you are able to retrieve the information you need. This is where the image archive API comes into play!
 
 "» Description":<%=r 'development/image_archive_api' %>
-

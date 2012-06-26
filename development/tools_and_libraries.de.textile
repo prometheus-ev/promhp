@@ -5,27 +5,27 @@ title: Werkzeuge und Bibliotheken, die wir erstellt haben
 
 h2. <%= page_title %>
 
-Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich von allgemeinerer Verwendbarkeit erwiesen als alleine für unsere eigenen Zwecke. Da wir selber in einem erheblichen Masse von anderen Open Source Projekten profitieren, versuchen wir natürlich auch ein wenig zurückzugeben, wo dies möglich ist; als ein Resultat dieser Bemühungen haben wir eine Reihe an Werkzeuge und Bibliotheken veröffentlicht und der Allgemeinheit zugänglich gemacht.
+Teile der Software, welche im Laufe des Projektes entwickelt wurde, haben sich von allgemeinerer Verwendbarkeit erwiesen als alleine für unsere eigenen Zwecke. Da wir selber in einem erheblichen Maße von anderen Open-Source-Projekten profitieren, versuchen wir natürlich auch ein wenig zurückzugeben, wo dies möglich ist; als ein Resultat dieser Bemühungen haben wir eine Reihe von Werkzeugen und Bibliotheken veröffentlicht und der Allgemeinheit zugänglich gemacht.
 
-* "apache_image_resizer":https://github.com/blackwinter/apache_image_resizer -- Apache Modul zur Größenanpassung von Bildern.
-* "apache_secure_download":https://github.com/blackwinter/apache_secure_download -- Apache Modul zur Unterstützung sicherer Downloads.
-* "apache_upload_merger":https://github.com/blackwinter/apache_upload_merger -- Apache Modul für die Zusammenfassung von Upload-Vorgängen.
-* "athena":https://github.com/blackwinter/athena -- Konvertierung von Datenbank Dateien in diverse andere Formate.
-* "cmess":https://github.com/blackwinter/cmess -- Hilfe für den Umgang mit durcheinander geratenen Zeichenkodierung.
-* "flattendb":https://github.com/blackwinter/flattendb -- Einebnung/Glättung relationaler Datenbanken.
-* "jekyll-localization":https://github.com/blackwinter/jekyll-localization -- Jekyll Plugin für das Hinzufügen von Lokalisierungsanpassungen an die Render Engine.
-* "jekyll-pagination":https://github.com/blackwinter/jekyll-pagination -- Jekyll Plugin zur Erweiterung des Generators für Seitenumbrüche.
-* "jekyll-rendering":https://github.com/blackwinter/jekyll-rendering -- Jekyll Plugin für die Bereitstellung alternativer Rendering-Engines.
-* "jekyll-tagging":https://github.com/pattex/jekyll-tagging -- Jekyll Plugin zur automatischen Erzeugung von Wort-Wolken (word clouds) und Tag-Übersichtsseiten.
-* "JekyllCommander":https://github.com/prometheus-ev/JekyllCommander -- Ein Sinatra-basiertes Web-Interface, für die Verwaltung einer mit Jekyll erstellten Website, inklusive Versions-Kontrolle mittels Git.
-* "libxml-ext":https://github.com/blackwinter/libxml-ext -- Ruby Erweiterungen für libXML.
-* "log2counter":https://github.com/blackwinter/log2counter -- Konvertierung von Apache Log-Dateien nach "COUNTER":http://www.projectcounter.org/ CSV
-* "pandora":http://prometheus-srv.uni-koeln.de/trac/pandora -- Die Software von prometheus, dem digitalen Bildarchiv.
-* "perseus_match":https://github.com/blackwinter/perseus_match -- Auf linguistischer Analyse basierender Abgleich von Zeichenketten (Fuzzy string matching). 
-* "promdilps":https://github.com/prometheus-ev/promdilps -- Zweig (Fork) des DILPS Bilddatenbanksystem Quellcodes, verantwortlich für die Bereitstellung des prometheus "promDILPS":<%=r 'databases/promdilps' %> Angebotes.
-* "promhp":https://github.com/prometheus-ev/promhp -- Der "Jekyll":http://jekyllrb.com Quellcode für diese Webseiten.
-* "promwiki":https://github.com/prometheus-ev/promwiki -- Zweig (Fork) des Quellcodes von "PmWiki":http://www.pmwiki.org, der Wiki-Engine für prometheus.
-* "ruby-backports":https://github.com/blackwinter/ruby-backports -- Portierung neuer Funktionalitäten in der "Ruby":http://www.ruby-lang.org Programmiersprache zu älteren Versionen.
-* "ruby-filemagic":https://github.com/blackwinter/ruby-filemagic -- Ruby Bindungen für die magic(4) Bibliothek, überarbeitete Fassung.
-* "ruby-nuggets":https://github.com/blackwinter/ruby-nuggets -- Ein Reihe an Erweiterungen der Ruby Programmmiersprache.
-* "wadl":https://github.com/blackwinter/wadl -- Ruby Client für die Web Application Description Language.
+* "apache_image_resizer":https://github.com/blackwinter/apache_image_resizer - Apache-Modul zur Größenanpassung von Bildern.
+* "apache_secure_download":https://github.com/blackwinter/apache_secure_download - Apache-Modul zur Unterstützung sicherer Downloads.
+* "apache_upload_merger":https://github.com/blackwinter/apache_upload_merger - Apache-Modul für die Zusammenfassung von Upload-Vorgängen.
+* "athena":https://github.com/blackwinter/athena - Konvertierung von Datenbankdateien in diverse andere Formate.
+* "cmess":https://github.com/blackwinter/cmess - Hilfe für den Umgang mit durcheinander geratenen Zeichenkodierungen.
+* "flattendb":https://github.com/blackwinter/flattendb - Einebnung/Glättung relationaler Datenbanken.
+* "jekyll-localization":https://github.com/blackwinter/jekyll-localization - Jekyll-Plugin für das Hinzufügen von Lokalisierungsanpassungen an die Render-Engine.
+* "jekyll-pagination":https://github.com/blackwinter/jekyll-pagination - Jekyll-Plugin zur Erweiterung des Generators für Seitenumbrüche.
+* "jekyll-rendering":https://github.com/blackwinter/jekyll-rendering - Jekyll-Plugin für die Bereitstellung alternativer Rendering-Engines.
+* "jekyll-tagging":https://github.com/pattex/jekyll-tagging - Jekyll-Plugin zur automatischen Erzeugung von Wort-Wolken (word clouds) und Tag-Übersichtsseiten.
+* "JekyllCommander":https://github.com/prometheus-ev/JekyllCommander - Ein Sinatra-basiertes Web-Interface, für die Verwaltung einer mit Jekyll erstellten Website, inklusive Versionskontrolle mittels Git.
+* "libxml-ext":https://github.com/blackwinter/libxml-ext - Erweiterungen für LibXML Ruby.
+* "log2counter":https://github.com/blackwinter/log2counter - Konvertierung von Apache-Log-Dateien nach "COUNTER":http://www.projectcounter.org/ CSV.
+* "pandora":http://prometheus-srv.uni-koeln.de/trac/pandora - Die Software von prometheus, dem digitalen Bildarchiv.
+* "perseus_match":https://github.com/blackwinter/perseus_match - Auf linguistischer Analyse basierender Abgleich von Zeichenketten (Fuzzy string matching).
+* "promdilps":https://github.com/prometheus-ev/promdilps - Zweig (Fork) des DILPS-Bilddatenbanksystem-Quellcodes, verantwortlich für die Bereitstellung des prometheus "promDILPS":<%=r 'databases/promdilps' %> Angebotes.
+* "promhp":https://github.com/prometheus-ev/promhp - Der "Jekyll":http://jekyllrb.com Quellcode für diese Webseiten.
+* "promwiki":https://github.com/prometheus-ev/promwiki - Zweig (Fork) des Quellcodes von "PmWiki":http://www.pmwiki.org, der Wiki-Engine für prometheus.
+* "ruby-backports":https://github.com/blackwinter/ruby-backports - Portierung neuer Funktionalitäten in der "Ruby":http://www.ruby-lang.org Programmiersprache zu älteren Versionen.
+* "ruby-filemagic":https://github.com/blackwinter/ruby-filemagic - Ruby Bindungen für die magic(4) Bibliothek, überarbeitete Fassung.
+* "ruby-nuggets":https://github.com/blackwinter/ruby-nuggets - Ein Reihe an Erweiterungen der Ruby Programmmiersprache.
+* "wadl":https://github.com/blackwinter/wadl - Ruby Client für die Web Application Description Language.

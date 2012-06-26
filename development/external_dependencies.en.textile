@@ -5,11 +5,11 @@ title: Projects we rely on
 
 h2. <%= page_title %>
 
-As much as we enjoy creating out own code to work behind the scenes (and sometimes upfront) of the prometheus "image archive":<%=r 'prometheus/index' %>, there is a limit to what we are able to do ourselves. The Open Source community provides a vibrant ecosystem with a large number of great project we are able to rely on.
+As much as we enjoy creating our own code to work behind the scenes (and sometimes on the front end) of the prometheus "image archive":<%=r 'prometheus/index' %>, there is a limit to what we are able to do ourselves. The Open Source community provides a vibrant ecosystem with a large number of great projects we are able to rely on.
 
 h3. Development platforms
 
-* Most of our server and development machines are running GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
+* Most of our server and development machines are running GNU/Linux, namely "Debian":http://debian.org/ and "Red Hat Enterprise Linux":http://redhat.com/rhel/
 
 * "Github":https://github.com - a web-based hosting service for software development projects that use the Git revision control system.
 
@@ -21,11 +21,11 @@ h3. Programming Languages
 
 h3. Development tools
 
-* "Git":http://git-scm.com - a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+* "Git":http://git-scm.com - a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 * "Subversion":http://subversion.apache.org - a software versioning and revision control system distributed under an open source license. Developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation.
 
-* "Redmine":http:www.redmine.org is a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and for multiple version control options.
+* "Redmine":http:www.redmine.org - a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and multiple version control options.
 
 h3. Libraries
 
@@ -35,15 +35,15 @@ h3. Libraries
 
 * "Ferret":https://github.com/dbalmain/ferret - a Ruby port of the "Java Lucene":http://jakarta.apache.org/lucene search engine.
 
-* "Lingo":http://lex-lingo.de - an open source software system for automatic indexing of german language documents. The development was determined by the aspects of flexibility, easy configuration, and different applications.
+* "Lingo":http://lex-lingo.de - an open source software system for automatic indexing of German language documents. The development was determined by the aspects of flexibility, easy configuration, and different applications.
 
 
 h3. Web Applications
 
-* "Apache":http://httpd.apache.org - an open-source HTTP server for modern operating systems including UNIX and Windows NT. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
+* "Apache":http://httpd.apache.org - an open source HTTP server for modern operating systems including UNIX and Windows NT. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
 
 * "Ruby on Rails":http://rubyonrails.org - an open source full-stack web application framework for the Ruby programming language. Rails is a full-stack framework, meaning that it gives the Web developer the full ability to gather information from the web server, talking to or querying the database, and template rendering out of the box.
 
-* "Mongrel":https://github.com/evan/mongrel - an open-source software HTTP library and web server. It is used to run Ruby web applications and presents a standard HTTP interface. This makes layering other servers in front of it possible using a web proxy, a load balancer, or a combination of both.
+* "Mongrel":https://github.com/evan/mongrel - an open source software HTTP library and web server. It is used to run Ruby web applications and presents a standard HTTP interface. This makes layering other servers in front of it possible using a web proxy, a load balancer, or a combination of both.
 
-* "PmWiki":http://www.pmwiki.org - is a wiki-based system for collaborative creation and maintenance of websites.
+* "PmWiki":http://www.pmwiki.org - a wiki-based system for collaborative creation and maintenance of websites.

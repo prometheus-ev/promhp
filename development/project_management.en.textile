@@ -5,21 +5,21 @@ title: Project Management
 
 h2. <%= page_title %>
 
-According to "Wikipedia":http://en.wikipedia.org 
+According to "Wikipedia":http://en.wikipedia.org/wiki/Project_management
 
 bq. "Software project management is the art and science of planning and leading software projects."
 
-Though we are trying to keep the management overhead to a minimum, we like to be able to 
+Though we are trying to keep the management overhead to a minimum, we like to be able to
 
 * monitor activity across the various code repositories,
 * share documentation across our team of developers,
-* keep track of issues - such as bugs, a requested features, tasks, missing documentations, and so forth.
+* keep track of issues - such as bugs, requested features, tasks, missing documentation, and so forth.
 
-In the background therefore we use "Redmine":http://www.redmine.org, a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and for multiple version control options.
+In the background we therefore use "Redmine":http://www.redmine.org, a free and open source, web-based project management and bug-tracking tool. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. It handles multiple projects. Redmine provides integrated project management features, issue tracking, and multiple version control options.
 
 h3. Activity Monitoring
 
-Though most of our everyday software development is done on "pandora":<%= pandora_url 'about' %>, we are maintaining quite a few "tools and libraries":<%=r 'development/tools_and_libraries' %>, that have been created over time. With all the code, web pages and documentation under version control, keeping up with activities in various places can be challenging. To simplify things we are using Redmine's capability to monitor multiple repositories and aggregate commit messages:  as all changes to the software ultimately need to go through the repositories, tapping into this stream of changes provides a sense of the ongoing development activities.
+Though most of our everyday software development is done on "pandora":<%=p 'about' %>, we are maintaining quite a few "tools and libraries":<%=r 'development/tools_and_libraries' %> that have been created over time. With all the code, web pages and documentation under version control, keeping up with activities in various places can be challenging. To simplify things we are using Redmine's capability to monitor multiple repositories and aggregate commit messages: as all changes to the software ultimately need to go through the repositories, tapping into this stream of changes provides a sense of the ongoing development activities.
 
 | !<%=r "files/images/redmine_monitoring_controlling.png" %>(Redmine Screenshot)! | !<%=r "files/images/redmine_repository.png" %>(Repository overview)! |
 | Management of tasks, time allocation and human resources. | Overview of commits to the code repository. |

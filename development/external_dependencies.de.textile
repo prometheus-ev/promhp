@@ -5,19 +5,19 @@ title: Projekte, auf die wir uns stützen
 
 h2. <%= page_title %>
 
-So sehr es uns auch Freude bereitet die Software zu entwickeln, welche hinter den Kulissen des "prometheus Bildarchiv":<%=r 'prometheus/index' %> arbeitet, so gibt es durchaus Grenzen für das, was wir in der Lage sind alleine zu leisten.
+So sehr es uns auch Freude bereitet, die Software zu entwickeln, welche hinter den Kulissen des "prometheus-Bildarchivs":<%=r 'prometheus/index' %> arbeitet, so gibt es durchaus Grenzen für das, was wir in der Lage sind, alleine zu leisten.
 
 
-h3. Entwicklungsplatformen
+h3. Entwicklungsplattformen
 
-* Die meisten unserer Server und Entwicklungs-Machinen laufen unter GNU/Linux, <%=t 'namely', 'namentlich' %> "Debian":http://debian.org/ <%=t 'and', 'und' %> "Red Hat Enterprise Linux":http://redhat.com/rhel/
+* Die meisten unserer Server und Entwicklungsmaschinen laufen unter GNU/Linux, namentlich "Debian":http://debian.org/ und "Red Hat Enterprise Linux":http://redhat.com/rhel/
 
-* "Github":https://github.com - ein webbasierter Hosting-Dienst für Software-Entwicklungsprojekte. Er verwendet namensgebenderweise das Versionsverwaltungs-System _Git_.
+* "Github":https://github.com - ein webbasierter Hosting-Dienst für Software-Entwicklungsprojekte. Er verwendet namensgebenderweise das Versionsverwaltungssystem Git.
 
 
 h3. Programmiersprachen
 
-* "Ruby":http://ruby-lang.org - eine höhere Programmiersprache, die Mitte der neunziger Jahre von dem Japaner Yukihiro Matsumoto entworfen wurde. Ruby ist interpretiert und objektorientiert, unterstützt aber mehrere weitere Programmierparadigmen (unter anderem prozedurale und funktionale Programmierung sowie Nebenläufigkeit), bietet dynamische Typisierung, Reflexion und automatische Speicherbereinigung.
+* "Ruby":http://ruby-lang.org - eine höhere Programmiersprache, die Mitte der neunziger Jahre von dem Japaner Yukihiro "Matz" Matsumoto entworfen wurde. Ruby ist interpretiert und objektorientiert, unterstützt aber mehrere weitere Programmierparadigmen (unter anderem prozedurale und funktionale Programmierung sowie Nebenläufigkeit), bietet dynamische Typisierung, Reflexion und automatische Speicherbereinigung.
 
 
 h3. Entwicklungswerkzeuge
@@ -30,9 +30,9 @@ h3. Entwicklungswerkzeuge
 
 h3. Bibliotheken
 
-* "ImageMagick":http://www.imagemagick.org - eine Open-Source Sammlung von Programmen zur Anzeige, Konvertierung und Anpassung von Rasterbildern. ImageMagick ist in der Lage mehr als 100 Dateiformate zu lesen und schreiben.
+* "ImageMagick":http://www.imagemagick.org - eine Open-Source Sammlung von Programmen zur Anzeige, Konvertierung und Anpassung von Rasterbildern. ImageMagick ist in der Lage, mehr als 100 Dateiformate zu lesen und zu schreiben.
 
-* "LibXML Ruby":https://github.com/xml4r/libxml-ruby - Ruby Sprachanbindung für das GNOME's Libxml2 XML Toolkit.
+* "LibXML Ruby":https://github.com/xml4r/libxml-ruby - Ruby Sprachanbindung für GNOME's Libxml2 XML Toolkit.
 
 * "Ferret":https://github.com/dbalmain/ferret - ein Ruby Port der "Java Lucene":http://jakarta.apache.org/lucene Suchmachine.
 
@@ -41,10 +41,10 @@ h3. Bibliotheken
 
 h3. Web Applications
 
-* "Apache":http://httpd.apache.org - ein Open Source HTTP Server für moderne Betriebssysteme, inklusive UNIX und Windows NT. Ziel des Projektes ist die Entwicklung eines sicheren, effizienten und erweiterbaren Servers zur Bereitstellung von HTTP Diensten in Übereinstimmung mit aktuellen HTTP Standards.
+* "Apache":http://httpd.apache.org - ein Open-Source-HTTP-Server für moderne Betriebssysteme, inklusive UNIX und Windows NT. Ziel des Projektes ist die Entwicklung eines sicheren, effizienten und erweiterbaren Servers zur Bereitstellung von HTTP-Diensten in Übereinstimmung mit aktuellen HTTP-Standards.
 
-* "Ruby on Rails":http://rubyonrails.org - ein in der Programmiersprache Ruby geschriebenes und quelloffenes Web Application Framework. Rail ist ein "full-stack framework", was bedeutet dass es den Entwickler in die Lage versetzt Informationen über den Webserver zu erhalten, Datenbankabfragen durchzuführen und neue Inhalte unter Zuhilfenahme von Vorlagen darzustellen.
+* "Ruby on Rails":http://rubyonrails.org - ein in der Programmiersprache Ruby geschriebenes und quelloffenes Web Application Framework. Rail ist ein "full-stack framework", was bedeutet dass es den Entwickler in die Lage versetzt, Informationen über den Webserver zu erhalten, Datenbankabfragen durchzuführen und neue Inhalte unter Zuhilfenahme von Vorlagen darzustellen.
 
-* "Mongrel":https://github.com/evan/mongrel - ein Open Source HTTP Server (bzw. eine Bibliothek), typischerweise verwendet um in Ruby geschriebene Web Applications auszuführen und gleichzeitig eine Standard HTTP Schnittstelle zu präsentieren. Dieser Ansatz ermöglicht die Hintereinanderschaltung von Servern, z.B. das Voranstellen eines Web Proxy, eines Load Balancer, oder gar einer Kombination von beiden.
+* "Mongrel":https://github.com/evan/mongrel - ein Open-Source-HTTP-Server (bzw. eine Bibliothek), typischerweise verwendet um in Ruby geschriebene Web Applications auszuführen und gleichzeitig eine Standard-HTTP-Schnittstelle zu präsentieren. Dieser Ansatz ermöglicht die Hintereinanderschaltung von Servern, z.B. das Voranstellen eines Web Proxy, eines Load Balancer, oder gar einer Kombination von beiden.
 
 * "PmWiki":http://www.pmwiki.org - ein Wiki-basiertes System zur gemeinschaftlichen Erstellung und Verwaltung von Websites.

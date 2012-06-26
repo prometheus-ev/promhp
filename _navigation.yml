@@ -310,8 +310,8 @@
     :title_de: Projekte, auf die wir uns stützen
     :url: development/external_dependencies
   - :title_en: Project Management
-    :title_de: Projekt Management
+    :title_de: Projektmanagement
     :url: development/project_management
-  - :title_en: Image Archiv API
-    :title_de: Bildarchiv API
+  - :title_en: Image Archive API
+    :title_de: Bildarchiv-API
     :url: development/image_archive_api
