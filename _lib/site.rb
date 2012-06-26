@@ -16,7 +16,7 @@ module Jekyll
         Encoding.default_external = encoding
       end
 
-      _prometheus_original_process
+      ENV['CHECK_URLS'] ? _check_urls : _prometheus_original_process
     end
 
     alias_method :_prometheus_original_read, :read
@@ -66,6 +66,38 @@ module Jekyll
       else
         warn "Config file not found: #{file}"
       end
+    end
+
+    def _check_urls
+      urls = config['check_urls'] = Hash.new { |h, k| h[k] = [] }
+      dest = config['destination']
+      rewr = Set.new
+
+      Helpers.class_eval {
+        alias_method :_relative_url_without_check, :_relative_url
+
+        def _relative_url(str, url)
+          (site.respond_to?(:config) ? site.config['check_urls'] :
+           site.check_urls)[str] << url
+
+          _relative_url_without_check(str, url)
+        end
+      }
+
+      _prometheus_original_process
+
+      File.foreach(File.join(dest, '.htaccess')) { |line|
+        rewr << $1 if line =~ /RewriteRule\s+\\A(.*?)\(/
+      }
+
+      urls.each { |str, src|
+        next if rewr.include?(str)
+
+        f = URI.decode(File.join(dest, str).sub(/#\w+\z/, ''))
+        next if File.exist?(f) || Dir[f + '.*'].any?
+
+        warn "Missing `#{str}' (in #{src.sort.uniq.join(', ')})"
+      }
     end
 
   end
