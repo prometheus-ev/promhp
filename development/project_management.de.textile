@@ -22,7 +22,7 @@ h3. Übersicht der Aktivitäten
 
 Auch wenn sich der überwiegende Teil unserer tagtäglichen Software-Entwicklungsarbeit um "pandora":<%=p 'about' %> dreht, so unterhalten wir ebenfalls eine ganze Reihe an "Werkzeugen und Bibliotheken":<%=r 'development/open_source' %>, welche über die Laufzeit des Projektes entstanden sind. Angesichts der Tatsache, dass es mehrere Repositories mit Code, Webseiten und Dokumentation gibt, kann es schon einmal etwas schwieriger werden, über die überall stattfindenden Aktivitäten auf dem Laufenden zu bleiben. Um dies ein klein wenig zu vereinfachen, machen wir Gebrauch von Redmines Fähigkeit, mehrere Repositories zu überwachen und dort eingehende Meldungen zusammenzuführen; da letzten Endes alle Änderungen diesen Weg gehen, ist es somit möglich, eine Übersicht der vor sich gehenden Entwicklungsarbeiten zu erhalten.
 
-| !<%=r "files/images/redmine_monitoring_controlling_small.png" %>(Redmine Screenshot)! | !<%=r "files/images/redmine_repository_small.png" %>(Repository overview)! |
+| !<%=r "files/images/redmine_monitoring_controlling_small.png" %>(Redmine Screenshot)!:<%=r "files/images/redmine_monitoring_controlling.png" %> | !<%=r "files/images/redmine_repository_small.png" %>(Repository overview)!:<%=r "files/images/redmine_repository.png" %> |
 | Management von Aufgaben, Zeitvorgaben und Arbeitskräften. | Übersicht der Commits in das Code-Repository. |
 
 h3. Issue Tracking
