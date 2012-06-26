@@ -21,7 +21,7 @@ h3. Activity Monitoring
 
 Though most of our everyday software development is done on "pandora":<%=p 'about' %>, we are maintaining quite a few "tools and libraries":<%=r 'development/open_source' %> that have been created over time. With all the code, web pages and documentation under version control, keeping up with activities in various places can be challenging. To simplify things we are using Redmine's capability to monitor multiple repositories and aggregate commit messages: as all changes to the software ultimately need to go through the repositories, tapping into this stream of changes provides a sense of the ongoing development activities.
 
-| !<%=r "files/images/redmine_monitoring_controlling.png" %>(Redmine Screenshot)! | !<%=r "files/images/redmine_repository.png" %>(Repository overview)! |
+| !<%=r "files/images/redmine_monitoring_controlling_small.png" %>(Redmine Screenshot)! | !<%=r "files/images/redmine_repository_small.png" %>(Repository overview)! |
 | Management of tasks, time allocation and human resources. | Overview of commits to the code repository. |
 
 h3. Issue Tracking
