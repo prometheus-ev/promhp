@@ -14,7 +14,7 @@
     :url: <%= pandora_url 'about' %>
   - :title_en: Development
     :title_de: Entwicklung
-    :url: development
+    :url: development/index
     :content:
     - :title_en: Open Source
       :title_de: Open Source
