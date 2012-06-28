@@ -1,0 +1,19 @@
+--- 
+descriptions: 
+- "Berliner Maler, Glockenkrater, attisch rotfigurig, Detailansicht: Europa mit Stier, Fundort: Tarquinia in Italien, Standort: Tarquinia, Museo Nazionale Archeologico; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Tizian: Europa (Ausschnitt), 1561-62, \xC3\x96l auf Leinwand, Boston, Isabella Stewart Gardner Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Antonio Tempesta: Der Raub der Europa (Ausschnitt), 16. Jh., \xC3\x96l auf Alberese-Stein (Paesina), Mailand, Sammlung Giuliani; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "William Turner: Europa und der Stier (Ausschnitt), 1840/50, \xC3\x96l auf Leinwand, 90,8 x 121,6 cm, Cincinnati (Ohio), Taft Museum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Valentin Aleksandrovic Serov: Raub der Europa (Ausschnitt), 1910, Tempera auf Karton, 40 x 52 cm, Sankt Petersburg, Russisches Staatsmuseum / Gosudarstvennyj Russkij Muzej; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Pierre Bonnard: Raub der Europa (Ausschnitt), 1919, \xC3\x96l auf Leinwand, Toledo, Museum of Art; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Max Beckmann: Raub der Europa (Ausschnitt), 1933, Kohle, Gouache und Aquarell auf Maschinenb\xC3\xBCtten, Privatsammlung; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum "
+- "Johannes Gr\xC3\xBCtzke: Europa auf dem Stier, auf der Mauer balancierend. Vorw\xC3\xA4rts oder R\xC3\xBCckw\xC3\xA4rts? (Ausschnitt), 1976, Freskoentwurf, Berlin, Checkpoint Charlie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+layout: series
+title: Europa und der Stier
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2012/06/28
+teaser: "Die aus der griechischen Mythologie stammende Erz\xC3\xA4hlung beschreibt, wie sich Zeus in einen Stier verwandelt, das Vertrauen der K\xC3\xB6nigstochter Europa gewinnt und mit ihr zur Insel Kreta schwimmt"
+collection: 32710
+---
+Die aus der griechischen Mythologie stammende Erzählung beschreibt, wie sich Zeus in einen Stier verwandelt, das Vertrauen der Königstochter Europa gewinnt und mit ihr zur Insel Kreta schwimmt, wo er sich zurückverwandelt. In der Kunst ist das Motiv in allen Epochen immer wieder aufgegriffen worden. Auch in aktuellen Artikeln zur politischen Lage wird der Mythos von Europa und dem Stier nicht selten als Bild verwendet, z.B. titelt www.euronews.com: "Allerletzte Chance in Athen: Wohin auf diesem Stier, Europa?". 
