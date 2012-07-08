@@ -1,0 +1,20 @@
+--- 
+descriptions: 
+- "Pesne, Antoine: Friedrich der Gro\xC3\x9Fe als Kronprinz (Ausschnitt), 1736-1740, Wasserfarben auf Elfenbein, 5,3 x 6,8 cm, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Gem\xC3\xA4ldegalerie; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Menzel, Adolf: Fl\xC3\xB6tenkonzert Friedrich des Gro\xC3\x9Fen in Sanssouci (Ausschnitt), 1850-1852, \xC3\x96l auf Leinwand, 142 x 205 cm, Berlin, Staatliche Museen zu Berlin, Alte Nationalgalerie; Imago, Humboldt-Universit\xC3\xA4t, Kunstgeschichtliches Seminar, Berlin "
+- "Menzel, Adolph: Friedrich der Gro\xC3\x9Fe und die T\xC3\xA4nzerin Barbarina (Ausschnitt), 1852, \xC3\x96l auf Leinwand, 34 x 26 cm, Frankfurt am Main; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+- "Friedrich II (Auftraggeber) / Johann Gottfried B\xC3\xBCring und Heinrich Ludwig Manger (Baumeister): Neues Palais, Blick von Westen, 1763-69, Potsdam, Sanssouci; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t, Institut f\xC3\xBCr Kunstgeschichte, Gie\xC3\x9Fen "
+- "Gontard, Karl Pilipp Christian von: Park Sanssouci, Neues Palais, Arbeitszimmer Friedrich des Gro\xC3\x9Fen, Potsdam; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "von Lisiewski, Christian Friedrich Reinhold: Friedrich der Gro\xC3\x9Fe (Ausschnitt), 1782, \xC3\x96l auf Leinwand, ohne Ma\xC3\x9Fangaben, Berlin, Staatliche Museen zu Berlin, Nationalgalerie; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Eckstein, Johannes: Friedrich II. K\xC3\xB6nig von Preussen (Detail), 1786, Gips/get\xC3\xB6nt, 53 x 31 x 26 cm, Weimar, Goethe-Nationalmuseum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Schadow, Johann Gottfried: Friedrich der Gro\xC3\x9Fe mit Windspielen (Detail), 1821/22, Bronzenachgu\xC3\x9F von 1906, H 90cm, Berlin, Staatliche Museen zu Berlin, National-Galerie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t, Kunsthistorisches Institut, M\xC3\xBCnchen "
+layout: series
+title: "Friedrich der Gro\xC3\x9Fe"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Zum 300. Geburtstag "
+date: 2012/07/08
+teaser: "Friedrich der Gro\xC3\x9Fe wird oft mit den sogenannten \xE2\x80\x9Epreu\xC3\x9Fischen Tugenden\xE2\x80\x9C, mit Flei\xC3\x9F, Sparsamkeit und Leistungswillen verkn\xC3\xBCpft "
+collection: 28881
+---
+Friedrich der Große wird oft mit den sogenannten „preußischen Tugenden“, mit Fleiß, Sparsamkeit und Leistungswillen verknüpft und bleibt als Philosoph, Aufklärer und Modernisierer im kulturellen Gedächtnis. Negative Assoziationen beschreiben ihn als Kriegstreiber und Menschenverächter. Anlässlich des 300. Geburtstag des Königs sieht die Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg eine Gelegenheit die Persönlichkeit Friedrichs in vielen Facetten zu präsentieren.
+Friederisiko. Friedrich der Große:http://www.friederisiko.de/index.php?id=ea6bda598beb14ed9032001d5948df21&sessionLanguage=de, 28. April bis 28. Oktober 2012, Potsdam, Neues Palais und Park Sanssouci
