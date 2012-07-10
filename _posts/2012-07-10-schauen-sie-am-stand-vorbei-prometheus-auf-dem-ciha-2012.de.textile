@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Schauen Sie am Stand vorbei! prometheus auf dem CIHA 2012
+author: Lisa
+tags: news
+---
+Wir möchten Sie herzlich einladen, uns am prometheus-Stand auf dem 33. Internationalen Kunsthistoriker-Kongress (CIHA) in Nürnberg vom 16.-20. Juli zu besuchen. Wir freuen uns auf interessante Gespräche während oder außerhalb der Kaffeepausen und stehen Ihnen jederzeit gerne für Fragen und Anregungen zur Verfügung. Sie finden uns hier:
+
+<a href="<%=r "files/images/Ausstellungsplan_CIHA_2012.jpg" %>"><img src="<%=r "files/images/Ausstellungsplan_CIHA_2012_small.jpg" %>" /></a>
+
+Der Kongress wird ausgerichtet vom Germanischen Nationalmuseum in Nürnberg und findet statt im Nürnberg Convention Center. Weitere Informationen finden Sie unter "CIHA 2012":http://www.ciha2012.de
