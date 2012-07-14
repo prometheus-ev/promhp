@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Anselm Kiefer: Wege: M\xC3\xA4rkischer Sand  (Ausschnitt), 1980,  Sand / Stroh / Kohle / Acryl / Papier / Schellack auf Leinwand, 330 x 555 cm, Stadelijk Museum, Amsterdam; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Anselm Kiefer: Margarethe (Ausschnitt), 1981, 280 x 380 cm, Stuttgart, Staatsgalerie; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Anselm Kiefer: Innenraum (Ausschnitt), 1981, \xC3\x96l, Papier und Stroh auf perforierter Leinwand, 5 x 311 cm, Amsterdam, Stedelijk Museum Imago; Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin  "
+- "Anselm Kiefer: Mohn und Ged\xC3\xA4chtnis - Der Engel der Geschichte (Detail), 1989, Blei, Glas und Mohn, 250 x 630 x 650 cm, Berlin, Sammlung Erich Marx;  HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Anselm Kiefer: Mohn und Ged\xC3\xA4chtnis - Der Engel der Geschichte, 1989, Blei, Glas und Mohn, 250 x 630 x 650 cm, Berlin, Sammlung Erich Marx;  HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg  "
+- "Anselm Kiefer: Liliths T\xC3\xB6chter (Ausschnitt), 1990, \xC3\x96l, Emulsion, Schellack und Asche auf Leinwand, mit Frauenhaar, Bleiflugzeugen, Kupferdraht und Aschenkleidern, 330 x 280 cm Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin  "
+- "Anselm Kiefer: Sternenfall, 2007, Paris, Grand Palais; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Anselm Kiefer: 20 Jahre Einsamkeit, 1991-2000, Bleipalette mit B\xC3\xBCchern, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+layout: series
+title: Anselm Kiefer
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2012/07/14
+teaser: Monumental paintings and sculptures by Anselm Kiefer are shown in the broad rooms of the Bundeskunsthalle in Bonn.
+collection: 32915
+---
+Monumental paintings and sculptures by Anselm Kiefer are shown in the broad rooms of the Bundeskunsthalle in Bonn.
+The exhibition is presenting examples of Kiefers artwork with their characteristic diversity of material and some of the main topics. Kiefer deals with past and time, as well as with thinking. The announcement of the museum quotes Kiefer, who said, that he ‘pokes a hole, and then goes through it’ and explains it as a searching for the story behind the story. 
+
+*"In the Beginning. Anselm Kiefer. Works from the Grothe Collection":http://www.bundeskunsthalle.de/index_e.htm, 20th June to 16th September 2012, Bundeskunsthalle, Bonn* 
