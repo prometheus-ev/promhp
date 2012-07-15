@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Claes Oldenburg: salmon mayonnaise, 1964, 12,7 x 44,5 cm, New York City, Sammlung Mr. u. Mrs. Robert C. Scull; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Claes Oldenburg: floor cake, 1962, Leinwand, mit Schaumgummi und Pappschachteln ausgestopft, synthetische Polymer- und Latexfarbe, 148,2 x 290,2 x 148,2 cm , New York, Museum of Modern Art; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum "
+- "Claes Oldenburg: U.S.A. flag, 1960, Eisenger\xC3\xBCst, Gips, Mousselin, 61 x 77 x 9 cm, Collection de l'auteur; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Claes Oldenburg: soft toilet, 1966, Vinyl, Plexiglas und Kapok auf bemaltem Holzsockel,144,9 x 70,2 x 71,3 cm, Whitney Museum of American Art, New York; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum "
+- "Claes Oldenburg: soft pay-telephone, 1963, Vinyl, Plexiglas und Kapok auf bemaltem Holzsockel, 19 x 49 x 23 cm, New York, Solomon R. Guggenheim Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Claes Oldenburg: giant soft swedish light switch, 1966,  Vinyl, H. 130 cm, Museum Ludwig, K\xC3\xB6ln; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Claes Oldenburg: the Store, 1961/62, Textil in Gips auf Drahtgestell, Lackfarbe, K\xC3\xB6ln, Museum Ludwig; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Claes Oldenburg: the Street, realisiert in der Judson Gallery, New York, 1960 - 1984, Textil, Karton, Zeitungspapier, Recyclingmaterial, 15 Teile; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+layout: series
+title: Claes Oldenburg
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Das Fr\xC3\xBChwerk"
+date: 2012/07/15
+teaser: "Bekannt ist Claes Oldenburg inzwischen f\xC3\xBCr monumentale Skulpturen im \xC3\xB6ffentlichen Raum, wie die zehn Meter hohe Spitzhacke in Kassel, die zur Documenta 7 (1982) entstand. "
+collection: 32922
+---
+Bekannt ist Claes Oldenburg inzwischen für monumentale Skulpturen im öffentlichen Raum, wie die zehn Meter hohe Spitzhacke in Kassel, die zur Documenta 7 (1982) entstand. Die Arbeiten der 60er Jahre sind rauher, sind aus ärmeren Materialien gefertigt, beruhen aber ebenfalls auf Gegenständen des alltäglichen Gebrauchs, die durch die Wahl der Materialien und durch Monumentalisierung verfremdet werden. Eine Ausstellung in Köln zeigt u.a. Relikte der Installationen "The Street" (1960) und "The Store" (1961/62), Arbeiten aus Pappe, Pappmaché und Gips, sowie die aus Vinyl gefertigten "weichen" Gegenstände, wie den erschlafften überdimensionalen Lichtschalter oder das zusammengesackte Wasserklosett.  
+
+
+*"Claes Oldenburg. The Sixties":http://www.museum-ludwig.de/, 23. Juni bis 30. September 2012, Museum Ludwig, Köln*
