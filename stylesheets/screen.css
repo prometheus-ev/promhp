@@ -319,6 +319,13 @@ div.highlight pre code:after {
   color:             #828282;
 }
 
+.tags {
+  padding-left:      5px;
+  display:           table-cell;
+  vertical-align:    middle;
+  height:            30px;
+}
+
 .text_10years {
   text-align:        justify;
   vertical-align:    middle;
