@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: The image archive
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=6&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
@@ -11,25 +11,25 @@ At a glance: Download our "prometheus Flyer (PDF)":<%=r 'files/text/prometheus_f
 
 h3. Tags
 
-h4(#searching). Searching - Search in multiple image databases within one surface
+h4(#searching). <img class="float-left" src="<%=r "files/icons/suchen.png" %>" /><div class="tags">Searching - Search in multiple image databases within one surface</div>
 
 Currently you are able to search in <%= source_count %> art historian, design, architectural, theological, historian and archaeological image databases with <%= record_count %> images in total. The prometheus archive offers you a simple search that searches in all fields for your query terms or an advanced search that allows you to combine your search criteria in different ways or to pick certain databases for a more selective search.
 
-h4(#collecting). Collecting - Assemble your topical images in one place
+h4(#collecting). <img class="float-left" src="<%=r "files/icons/sammeln.png" %>" /><div class="tags">Collecting - Assemble your topical images in one place</div>
 
 You can store your images which you need to prepare your courses, presentations or research into an image collection. The image collection can be expanded at all times with new images and your access is independent from your location. Additional information to characterize your image collection (description, keywords) or information concerning research literature or relevant web links can be added. Above all you have the possibility to share your collection with all users or only with single users so that they are able to have a closer look at your collection or even to collaborate with you.
 
-h4(#presenting). Presenting - Present your assembled images location-independently
+h4(#presenting). <img class="float-left" src="<%=r "files/icons/praesentieren.png" %>" /><div class="tags">Presenting - Present your assembled images location-independently</div>
 
 You can integrate the images which you found or assembled in an image collection in a presentation. The layout of the slides is flexible, the presentation can be started easily in any browser. You are also allowed to download the images to integrate them in your local presentation program.
 
-h4(#publishing). Publishing - Inform yourself about copyrights and publish images
+h4(#publishing). <img class="float-left" src="<%=r "files/icons/publizieren.png" %>" /><div class="tags">Publishing - Inform yourself about copyrights and publish images</div>
 
 Next to any image you will find a link which leads you to the copyright information of the particular image. There you can research what is necessary to obtain the consent of the copyright-holder. In some cases there will be the opportunity to obtain the permission for publication directly through prometheus.
 
 In order to use the images for research and education, prometheus cooperates with the "VG Bild-Kunst":http://www.bildkunst.de/ which allows both access to the images of the different databases through prometheus and the utilization of the images for research and education (see "» Copyrights and Publication":<%=r 'copyright' %>).
 
-h4(#researching). Researching - Search, collect, annotate, connect images and mark motives
+h4(#researching). <img class="float-left" src="<%=r "files/icons/forschen.png" %>" /><div class="tags">Researching - Search, collect, annotate, connect images and mark motives</div>
 
 In every area you will find tools that will help to alleviate your work and research: e.g. selective search with the aid of choosing certain databases and combined search fields, the structured and annotated image collection or the research work which you approved for collaboration.
 

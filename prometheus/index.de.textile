@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Das Bildarchiv
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=6
@@ -11,25 +11,26 @@ Auf einen Blick: Unseren "prometheus-Flyer (PDF)":<%=r 'files/text/prometheus-fl
 
 h3. Begriffe
 
-h4(#searching). Suchen - In vielen Bilddatenbanken unter einer Oberfläche recherchieren
+
+h4(#searching). <img class="float-left" src="<%=r "files/icons/suchen.png" %>" /><div class="tags">Suchen - In vielen Bilddatenbanken unter einer Oberfläche recherchieren</div>
 
 Aktuell können Sie in <%= source_count %> Bilddatenbanken der Kunst-, Design- und Architekturgeschichte, Theologie, Geschichte und Archäologie mit insgesamt <%= record_count %> Bildern suchen. Ihnen steht eine einfache Suche zur Verfügung, die über alle Felder nach den von Ihnen eingegebenen Begriffen sucht oder die erweiterte Suche, mit der Sie die Suchbegriffe auf unterschiedliche Art kombinieren, eine Datenbankauswahl treffen und somit gezielter suchen können.
 
-h4(#collecting). Sammeln - Die gefundenen Bilder an einem Ort zu einem Thema zusammenstellen
+h4(#collecting). <img class="float-left" src="<%=r "files/icons/sammeln.png" %>" /><div class="tags">Sammeln - Die gefundenen Bilder an einem Ort zu einem Thema zusammenstellen</div>
 
 In die Bildsammlungen können Sie die von Ihnen für ein Seminar, eine Präsentation oder eine Forschungsarbeit benötigten Bilder ablegen. Sie können die Bildsammlung jederzeit um ausgewählte Bilder erweitern und haben ortsunabhängig Zugriff darauf. Zusätzliche Informationen für die Charakterisierung der Bildsammlung (Beschreibung, Schlagwörter) oder Informationen zu Forschungsliteratur und weiterführende Links können Sie hinzufügen. Sie haben außerdem die Möglichkeit, die Bildsammlung für alle oder einzelne Nutzerinnen und Nutzer zum Lesen oder direkt zur Mitarbeit freizugeben.
 
-h4(#presenting). Präsentieren - Die zusammengestellten Bilder für einen Vortrag ortsunabhängig präsentieren
+h4(#presenting). <img class="float-left" src="<%=r "files/icons/praesentieren.png" %>" /><div class="tags">Präsentieren - Die zusammengestellten Bilder für einen Vortrag ortsunabhängig präsentieren</div>
 
 In die Präsentationen können Sie Bilder integrieren, die Sie in der Suche gefunden oder in der Bildsammlung zusammengestellt haben. Die Gestaltung der Folien ist flexibel, die Präsentation kann leicht in jedem Browser gestartet werden. Sie dürfen die Bilder aber auch herunterladen und in Ihr lokales Präsentationsprogramm integrieren.
 
-h4(#publishing). Publizieren - Sich über das Bildrecht informieren und die Bilder publizieren
+h4(#publishing). <img class="float-left" src="<%=r "files/icons/publizieren.png" %>" /><div class="tags">Publizieren - Sich über das Bildrecht informieren und die Bilder publizieren</div>
 
 Direkt am Bild finden Sie einen Link zum Bildrecht des jeweiligen Bildes, der darüber aufklärt, welche Rechte für eine Publikation einzuholen sind. In einigen Fällen gibt es die Möglichkeit die Publikationsgenehmigung zu einem Bild direkt über prometheus einzuholen.
 
 Für die Verwendung der Bilder in Forschung und Lehre hat prometheus mit der "VG Bild-Kunst":http://www.bildkunst.de/ einen Vertrag geschlossen, der zum einen die Zugänglichmachung der Bilder in prometheus durch die verschiedenen Bilddatenbanken erlaubt und zum anderen die Verwendung für Forschung und Lehre gestattet (s.a. "» Bildrecht und Publikation":<%=r 'copyright' %>).
 
-h4(#researching). Forschen - Suchen, Sammeln, Annotieren, Bilder verknüpfen und Motive kennzeichnen
+h4(#researching). <img class="float-left" src="<%=r "files/icons/forschen.png" %>" /><div class="tags">Forschen - Suchen, Sammeln, Annotieren, Bilder verknüpfen und Motive kennzeichnen</div>
 
 Sie können in jedem Bereich Hilfsmittel finden, die Ihnen bei Ihrer Forschung helfen und die Arbeit erleichtern: z.B. eine gezielte Suche mithilfe einer Datenbankauswahl und kombinierten Suchfeldern, die strukturierte und mit Zusatzinformationen versehene Bildsammlung oder die von Ihnen für die Mitarbeit freigegebene Forschungsarbeit.
 
