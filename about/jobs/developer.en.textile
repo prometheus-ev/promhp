@@ -16,3 +16,11 @@ h3. Responsibilities
 * Application programming based on Ruby on Rails
 * Administration of the project's servers (GNU/Linux)
 * Development of innovative concepts and visions for the application's development as a virtual workspace for image-based research and studies
+
+h3. Requirements
+
+* university or higher education degree in computer science or equivalent skills and experiences
+* very good knowledge in the Ruby programming language, as well as basic knowledge in at least another programming language
+* experience in server-administration (Debian/RedHat), including webserver- and database-management (Apache and MySQL)
+* firm handling of web-technologies (HTML, XML, JavaScript), Shell-programming (Bash) and version control systems (Subversion, Git) is expected
+* proficiency of the German language
