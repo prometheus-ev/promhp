@@ -9,7 +9,7 @@ An der **Philosophischen Fakultät der Universität zu Köln, Kunsthistorisches 
 
 bq=. **Softwareentwickler/in**
 
-zu besetzen. <span class="pale">|</span> "» Stellenausschreibung":<%=r 'files/text/ausschreibung_entwickler_october12.pdf' %>
+zu besetzen. <span class="pale">|</span> "» Stellenausschreibung":<%=r 'files/text/ausschreibung_entwickler_oktober12.pdf' %>
 
 h3. Aufgaben
 
@@ -35,6 +35,6 @@ h3. Wir bieten
 
 h3. Allgemeines
 
-_prometheus_ ist ein verteiltes, digitales Bildarchiv, das verschiedene, heterogene Bilddatenbanken unter einer gemeinsamen Oberfläche recherchierbar macht und für die kunst- und kulturhistorische Forschung und Lehre zur Verfügung stellt. Die zugrunde liegende Anwendung "pandora":http://prometheus.uni-koeln.de/pandora/en/about wird seit Herbst 2006 auf der Basis von Ruby on Rails entwickelt und steht als Freie Software zur Verfügung. Daneben existiert ein vielfältiges Ökosystem an Anwendungen und Tools, die zumeist in Ruby oder Bash verfasst sind. Der Arbeitsplatz befindet sich in Köln. Weiterführende Informationen finden sich auf unserer Homepage unter "prometheus-bildarchiv.de/about/jobs/developer":http://prometheus-bildarchiv.de/about/jobs/developer.
+_prometheus_ ist ein verteiltes, digitales Bildarchiv, das verschiedene, heterogene Bilddatenbanken unter einer gemeinsamen Oberfläche recherchierbar macht und für die kunst- und kulturhistorische Forschung und Lehre zur Verfügung stellt. Die zugrunde liegende Anwendung "pandora":http://prometheus.uni-koeln.de/pandora/en/about wird seit Herbst 2006 auf der Basis von Ruby on Rails entwickelt und steht als Freie Software zur Verfügung. Daneben existiert ein vielfältiges Ökosystem an Anwendungen und Tools, die zumeist in Ruby oder Bash verfasst sind. Der Arbeitsplatz befindet sich in Köln.
 
 Bei Vorliegen der tariflichen Voraussetzungen erfolgt die Eingruppierung in Entgeltgruppe 9 TV-L. Bewerbungen schwerbehinderter Menschen sind besonders willkommen. Schwerbehinderte Menschen werden bei gleicher Eignung bevorzugt. Bewerbungen von Frauen werden ausdrücklich erwünscht. Frauen werden bei gleicher Eignung, Befähigung und fachlicher Leistung bevorzugt berücksichtigt, sofern nicht in der Person eines Mitbewerbers liegende Gründe überwiegen. Nur wenn Sie Ihrer Bewerbung einen frankierten und adressierten Rückumschlag beifügen, wird sie Ihnen nach Abschluss des Auswahlverfahrens zurückgesendet.

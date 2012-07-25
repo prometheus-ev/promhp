@@ -9,7 +9,7 @@ At the **Philosophical Faculty at the University of Cologne, Institute of Art Hi
 
 bq=. **Software developer**
 
-is to be filled. <span class="pale">|</span> "» Job opening":<%=r 'files/text/ausschreibung_entwickler_october12.pdf' %>
+is to be filled. <span class="pale">|</span> "» Job opening":<%=r 'files/text/ausschreibung_entwickler_oktober12.pdf' %>
 
 h3. Responsibilities
 
