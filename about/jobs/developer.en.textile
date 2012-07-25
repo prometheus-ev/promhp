@@ -1,0 +1,18 @@
+---
+layout: default
+title: Software developer
+---
+
+h2. <%= page_title %>
+
+At the **Philosophical Faculty at the University of Cologne, Institute of Art History, prometheus - The Distributed Digital Image Archive for Research and Studies**, starting from 01.10.2012, at this point limited in time until 30.09.2013, a full-time position (39,83 hours per week) as a 
+
+bq=. **Software developer**
+
+is to be filled. <span class="pale">|</span> "» Job opening":<%=r 'files/text/ausschreibung_entwickler_october12.pdf' %>
+
+h3. Responsibilities
+
+* Application programming based on Ruby on Rails
+* Administration of the project's servers (GNU/Linux)
+* Development of innovative concepts and visions for the application's development as a virtual workspace for image-based research and studies
