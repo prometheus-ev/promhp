@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Diane Arbus: Puerto Rican woman with beauty mark (Ausschnitt), 1965; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Diane Arbus: Identical twins, Roselle, New Jersey (Ausschnitt), 1967; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+- "Diane Arbus: A woman with pearl necklace earrings, N.Y.C. (Ausschnitt), 1972; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+- "Diane Arbus: Woman and her son, New York City (Ausschnitt), 1965; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+- "Diane Arbus: Mexican Dwarf in his hotel in New York City (Ausschnitt), 1970; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Diane Arbus: Child with a toy handgranade in Central Park, N.Y.C. (Ausschnitt),1962; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+- "Diane Arbus: A Young Man in Curles at Home on West Twentieth Street, New York City   (Ausschnitt), 1966; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte "
+- "Diane Arbus: Girl in a shiny dress, New York City (Ausschnitt), 1967; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Diane Arbus
+subtitle: The common and the special
+date: 2012/07/26
+teaser: The photographer Diane Arbus, born in 1923, portrays many different characters
+collection: 33022
+---
+The photographer Diane Arbus, born in 1923, portrays many different characters and made us thinking about normality and abnormality, about the banal and the curious. The curators of a current exhibition in Berlin accentuate the talent of Arbus to see the special in the common as well as to show us the common in the special way of life.
+
+*"Diane Arbus":http://www.berlinerfestspiele.de/en/aktuell/festivals/gropiusbau/programm_mgb/mgb12_arbus/ausstellung_arbus/veranstaltungsdetail_mgb_ausstellung_19926.php*

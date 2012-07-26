@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Diane Arbus: Puerto Rican woman with beauty mark (Ausschnitt), 1965; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Diane Arbus: Identical twins, Roselle, New Jersey (Ausschnitt), 1967; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+- "Diane Arbus: A woman with pearl necklace earrings, N.Y.C. (Ausschnitt), 1972; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+- "Diane Arbus: Woman and her son, New York City (Ausschnitt), 1965; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+- "Diane Arbus: Mexican Dwarf in his hotel in New York City (Ausschnitt), 1970; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Diane Arbus: Child with a toy handgranade in Central Park, N.Y.C. (Ausschnitt),1962; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+- "Diane Arbus: A Young Man in Curles at Home on West Twentieth Street, New York City   (Ausschnitt), 1966; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte "
+- "Diane Arbus: Girl in a shiny dress, New York City (Ausschnitt), 1967; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Diane Arbus
+subtitle: "Das Allt\xC3\xA4gliche und das Besondere"
+date: 2012/07/26
+teaser: "Die 1923 geborene Fotografin Diane Arbus portr\xC3\xA4tiert unterschiedlichste Charaktere "
+collection: 33022
+---
+Die 1923 geborene Fotografin Diane Arbus porträtiert unterschiedlichste Charaktere und lässt einen über Normalität und Anormalität, über Banalität und Ausgefallenheit nachdenken. Die Kuratoren einer aktuellen Berliner Ausstellung heben das Talent der Fotografin hervor, im Alltäglichen das Besondere zu entdecken, wie auch im Besonderen und Extremen die uns vertrauten alltäglichen Seiten bewusst zu machen.
+
+*"Diane Arbus":http://www.berlinerfestspiele.de/de/aktuell/festivals/gropiusbau/programm_mgb/mgb12_arbus/ausstellung_arbus/veranstaltungsdetail_mgb_ausstellung_19926.php, 22. Juni bis 23. September 2012, Martin-Gropius-Bau, Berlin*
+ 
