@@ -1,0 +1,19 @@
+--- 
+descriptions: 
+- "Karl Schmidt-Rottluff: Aufgehender Mond (Ausschnitt), 1920, \xC3\x96l auf Leinwand, 89 x 75 cm, Berlin; Datenbank Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "K\xC3\xA4te Lassen: D\xC3\xBCnenlandschaft mit Mond (Ausschnitt), undatiert, \xC3\x96l, 45 x 60 cm, Museumsberg Flensburg, St\xC3\xA4dtische Museen und Sammlungen f\xC3\xBCr den Landesteil Schleswig; digiCULT Museen, digiCULT, Kiel "
+- "Max Ernst: Am Montag mondet sich der Mond ein (Ausschnitt), 1964, Houston, Menil Foundation; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Albert M\xC3\xBCller: Landschaft mit Mond (Ausschnitt), 1920, Aquarell, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Claude Mellan: Vollmond (Ausschnitt), 1636, Kupferstich, 24,5 x 21,3 cm, Paris, Biblioth\xC3\xA8que nationale de France; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Rennie Charles Mackintosh: Vollmond im September (Ausschnitt), 1892,  Aquarellfarbe, Blei, Papier, 35,2 x 27,6 cm, Glasgow, School of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Katsushika Hokusai: Vollmond (Ausschnitt), undatiert, Tuschezeichnung, Ostasienabteilung, Staatsbibliothek zu Berlin - Preu\xC3\x9Fischer Kulturbesitz; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Adrian Schiess: Vollmond (Ausschnitt), 1998, \xC3\x96l, 35 x 50 cm, St. Gallen, Galerie Susanna Kulli; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Vollmond
+subtitle: 
+date: 2012/07/26
+teaser: 
+collection: 33017
+---
+Im Gegensatz zur spannungsvollen Mondsichel, strahlt der kreisrunde Vollmond Ruhe und Vollkommenheit aus. Eine Zeichnung des japanischen Künstlers Katsushika Hokusai (1760 - 1849) zeigt bezeichnenderweise einen zum Teil verdeckten Vollmond. Damit nimmt der Zeichner dem Mond die Vollkommenheit und weist auf die Vergänglichkeit dieser Erscheinung und des Perfektion im allgemeinen hin. 
