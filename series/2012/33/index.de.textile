@@ -1,0 +1,19 @@
+--- 
+descriptions: 
+- "Pierre Bonnard: Der Sommer (Ausschnitt), 1909, \xC3\x96l auf Leinwand, Saint-Paul-de-Vence, Foundation Marguerite et Aim\xC3\xA9 Maeght; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum  "
+- "Ernst Wilhelm Nay: Sommer(lich) (Ausschnitt), 1960, \xC3\x96l auf Leinwand, Kunsthalle St. Annen; digiCULT Museen, digiCULT, Kiel  "
+- "Oskar Kokoschka: Sommer I (Ausschnitt), 1922, \xC3\x96l auf Leinwand, Dresden, Staatliche Kunstsammlungen, Galerie Neue Meister; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Carlo Carr\xC3\xA0: Sommer (Ausschnitt), 1930, \xC3\x96l auf Leinwand, Mailand, Museo Civico di Storia Naturale; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Max Lingner: Der Sommer (Ausschnitt), 1945, Tempera auf Leinwand, Berlin, Nationalgalerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Leopold Karl Walter von Kalckreuth: Sommer (Ausschnitt), 1890, \xC3\x96l auf Leinwand, Bremen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Paul C\xC3\xA9zanne: \xC3\x89t\xC3\xA9 (Ausschnitt), um 1860, \xC3\x96l auf Gips auf Leinwand, Paris, Petit Palais; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Alfons Mucha: Sommer (Ausschnitt), 1896, Farblithographie, Budapest; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Sommer
+subtitle: 
+date: 2012/08/11
+teaser: "Wie der Fr\xC3\xBChling, wird auch der Sommer in der Kunst h\xC3\xA4ufig als eine weibliche Personifikation vorgestellt."
+collection: 33127
+---
+Wie der Frühling, wird auch der Sommer in der Kunst häufig als eine weibliche Personifikation vorgestellt. Andere Bilder, die den Sommer thematisieren, zeigen Landschaften, den badenden Urlauber oder die Erntearbeit auf dem Feld. Giuseppe Arcimboldo kreiert in seinem originellen Gemälde die Personifikation aus den Ernteerträgen der warmen Jahreszeit.
