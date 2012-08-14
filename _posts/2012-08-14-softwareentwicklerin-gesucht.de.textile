@@ -1,0 +1,13 @@
+--- 
+layout: post
+author: Lisa
+title: SoftwareentwicklerIn gesucht
+tags: 
+- job
+- team
+- news
+---
+Wir möchten unser junges und dynamisches Team erneut verstärken und suchen eine/n nette/n und kompetente/n Softwareentwickler/in zur Anwendungsentwicklung und Systemadministration (Vollzeit) mit großem Interesse in einem vielseitigen Projekt kreativ mitzuarbeiten. Fühlen Sie sich angesprochen? Wir freuen uns jedenfalls auf Ihre Bewerbung!
+Weitere Informationen finden sich in der "Stellenausschreibung":<%=r 'about/jobs' %>.
+
+
