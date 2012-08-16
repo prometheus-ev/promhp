@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Francis Picabia: Pepe (Ausschnitt), 1909-1910, \xC3\x96l auf Leinwand, 100 x 81 cm, Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Francis Picabia: Primaballerina auf einem \xC3\x9Cberseedampfer (Ausschnitt), 1913, Aquarell, 75 x 55 cm, Privatbesitz; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Francis Picabia: Danse de Saint-Guy (Tabac-Rat) (Ausschnitt), 1919, Assemblage, 104,4 x 84,7 cm, Paris, Musee national d'art moderne (Centre national d'art et de culture Georges Pompidou); Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Francis Picabia: L'oeil cacodylate (Ausschnitt), 1921, Collage, \xC3\x96l und Tinte auf Papier, 148,6 x 117,4 cm, Paris, Musee national d'art moderne (Centre national d'art et de culture Georges Pompidou); Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Francis Picabia: La mariee (Ausschnitt), 1929, Bleistift, Tinte und \xC3\x96l auf Sperrholz, 122 x 97 cm, K\xC3\xB6ln, Museum Ludwig; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Francis Picabia: Portrait de Suzy Solidor (Ausschnitt), 1933, \xC3\x96l und Tinte auf Papier, 92 x 72,5 cm,  Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Francis Picabia: Femmes au bulldog (Ausschnitt), 1941-42, \xC3\x96l auf Pappe, 106 x 76 cm, Privatbesitz; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Francis Picabia: Sans titre (testa di cane) (Ausschnitt), 1945, \xC3\x96l auf Pappe, 54 x 65 cm, Privatbesitz;  Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Francis Picabia
+subtitle: Stilwechsel
+date: 2012/08/16
+teaser: Der Schriftsteller und Maler Francis Picabia wird als ein Querdenker beschrieben, der sich nie in eine Schublade hat stecken lassen.
+collection: 33158
+---
+Der Schriftsteller und Maler Francis Picabia wird als ein Querdenker beschrieben, der sich nie in eine Schublade hat stecken lassen. Sein ganzes Werk ist von Stilwechseln in beeindruckender Radikalität gekennzeichnet. Eine Retrospektive in der Kunsthalle Krems bietet unter anderem die Möglichkeit das Verhältnis des Oevres zur Moderne und schließlich auch zur Postmoderne zu erkunden.
+
+*"Francis Picabia. Retrospektive":http://www.kunsthalle.at/de/kunsthalle-krems/ausstellungen/francis-picabia.-retrospektive, 15. Juli bis 4. November 2012, Kunsthalle Krems*
+
