@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Startender Wettl\xC3\xA4ufer, Bronzestatuette, Olympia, Museum, Griechenland; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Zeus-Kopf aus Olympia, Bronze, Nationalmuseum Athen; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Diskobol aus Castelporziano, Kopie des Diskoswerfers des Myron, Gipsabguss, Palazzo Massimo alle Terme; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin "
+- "Bronzene Greifen-Protome aus Olympia, Nationalmuseum Athen; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin "
+- "Tonkopf der Athena, Olympia, Arch\xC3\xA4ologisches Museum; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin "
+- "Pferd von einem Viergespann, Bronze, Olympia, Arch\xC3\xA4ologisches Museum; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin "
+- "Bronzekopf eines Faustk\xC3\xA4mpfers, stammt von einer Siegerstatue im Zeus-Heiligtum in Olympia, Nationalmuseum Athen; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin "
+- "Giebelfigur des Apollon, vom Westgiebel des Zeustempels in Olympia, Marmor, Olympia, Arch\xC3\xA4ologisches Museum; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Olympia
+subtitle: 
+date: 2012/08/17
+teaser: "An exhibition in the Martin-Gropius-Bau in Berlin is dealing with the ancient origin of the Olympic Games. "
+collection: 33160
+---
+An exhibition in the Martin-Gropius-Bau in Berlin is dealing with the ancient origin of the Olympic Games. Organised since 1894 the competitions have an ancient tradition: They are generated as a part of the Zeus-cult in the sanctuary of Olympia. The exhibition is presenting a description of the god cult, will explain the ancient sport-types and is showing a detailed report of the excavations in Olympia.
+
+*"Olympia: Myth – Cult – Games":http://www.berlinerfestspiele.de/en/aktuell/festivals/gropiusbau/programm_mgb/mgb12_olympia/ausstellung_olympia/veranstaltungsdetail_mgb_ausstellung_39138.php, 31th August 2012 to 7th January 2013, Martin-Gropius-Bau, Berlin*
