@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Vinzent vam Gogh: Selbstbildnis (Ausschnitt), 1887, \xC3\x96l auf Pappe, 42 x 33,7 cm, Joseph Winterbotham Collection, The Art Institute of Chicago; Datenbank HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Vinzent van Gogh: Piet\xC3\xA0, nach Delacroix (Ausschnitt), 1889, \xC3\x96l auf Leinwand, 73 x 60 cm, Amsterdam, Van Gogh Museum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Vinzent van Gogh: L'arlesienne. Mme Joseph-Michel Ginoux (Ausschnitt), 1888, \xC3\x96l auf Leinwand, 91,4 x 73,7 cm, New York, Metropolitan Museum of Art; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Paul Gauguin: Tahitianische Fischerinnen (Ausschnitt), 1891, \xC3\x96l auf Leinwand, 71 x 90 cm, Berlin, \xC3\xB6ffentliche Sammlung, Staatliche Museen zu Berlin - Preussischer Kulturbesitz, Nationalgalerie; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Paul C\xC3\xA9zanne: Stilleben mit \xC3\x84pfeln (Ausschnitt), 1893/94, \xC3\x96l auf Leinwand, 65,5 x 81,5 cm, Z\xC3\xBCrich, Kunsthaus; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Franz Marc: Der Tiger (Ausschnitt), 1912, \xC3\x96l auf Leinwand, 115 x 101,5 cm, M\xC3\xBCnchen, Lenbachhaus; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Edvard Munch: Amor und Psyche (Ausschnitt), 1907, \xC3\x96l auf Leinwand, 119,5 x 99 cm; Oslo, Munch Museum; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Pablo Picasso: Mandoliniste (Ausschnitt), 1911, \xC3\x96l auf Papier, 101 x 70 cm, Basel, Fondation E. Beyeler; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+author: "Hendrikje H\xC3\xBCneke"
+title: The Sonderbund Exhibition in Cologne
+subtitle: Eine Rekonstruktion
+date: 2012/08/23
+teaser: "Vor 100 Jahren hat die Sonderbundausstellung in K\xC3\xB6ln einen bahnbrechenden \xC3\x9Cberblick \xC3\xBCber die Kunst der Moderne geliefert."
+collection: 33207
+---
+Vor 100 Jahren hat die Sonderbundausstellung in Köln einen bahnbrechenden Überblick über die Kunst der Moderne geliefert. Die Bandbreite der rund  650 ausgestellten Werke reichte vom Postimpressionismus bis zum deutschen Expressionismus, darunter allein 130 von van Gogh, 32 von Munch, weitere von Cézanne, Gauguin und Picasso. Anlässlich des Jubiläums erinnert das Wallraf-Richartz-Museum an Inhalte und Schwerpunkte der Ausstellung, sowie an ihre Bedeutung und hat zu diesem Zweck mehr als 100 Werke aufgetrieben, die damals ausgestellt waren.
+
+*"1912 – Mission Moderne. Die Jahrhundertschau des Sonderbundes":http://www.wallraf.museum/index.php?id=337, 31. August bis 30. Dezember 2012, Wallraf-Richartz-Museum, Köln* 
