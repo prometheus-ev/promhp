@@ -8,7 +8,7 @@ Wir suchen Verstärkung! Wenn Ihr euch für eine Tätigkeit im engen Kontakt zur
 
 Zur Zeit haben wir folgende Stellen ausgeschrieben:
 
-* *Softwareentwickler/in* zur Anwendungsentwicklung und Systemadministration (Vollzeit, Bewerbungsschluss: 28/09/2012)
+* *Softwareentwickler/in* zur Anwendungsentwicklung und Systemadministration (Vollzeit, Bewerbungsschluss: 28.09.2012)
    "» zur Ausschreibung":<%=r 'about/jobs/developer' %>
  
 Für Rückfragen könnt Ihr euch gerne an "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de wenden.
