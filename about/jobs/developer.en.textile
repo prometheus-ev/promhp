@@ -1,8 +1,7 @@
----
+--- 
 layout: default
 title: Software developer
 ---
-
 h2. <%= page_title %>
 
 At the **Philosophical Faculty at the University of Cologne, Institute of Art History, prometheus - The Distributed Digital Image Archive for Research and Studies**, starting from 01.10.2012, at this point limited in time until 30.09.2013, a full-time position (39,83 hours per week) as a 

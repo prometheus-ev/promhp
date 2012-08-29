@@ -2,7 +2,6 @@
 layout: default
 title: Softwareentwickler/in
 ---
-
 h2. <%= page_title %>
 
 An der **Philosophischen Fakultät der Universität zu Köln, Kunsthistorisches Institut, prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre**, ist zum 01.10.2012, zunächst befristet bis 30.09.2013, in Vollzeit (39,83 Wochenstunden), eine Stelle als
