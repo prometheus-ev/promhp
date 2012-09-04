@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Karl Friedrich Schinkel: Gotische Kirche auf einem Felsen am Meer (Ausschnitt), 1815, \xC3\x96l auf Leinwand, 72 x 98 cm, Berlin, Neue Nationalgalerie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Karl Friedrich Schinkel: Gotischer Dom am Wasser (Ausschnitt), 1813/14, \xC3\x96l auf Leinwand, 94,4 x 126,6 cm, M\xC3\xBCnchen, Neue Pinakothek; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Karl Friedrich Schinkel: Fassade, Neue Wache, Berlin,1816 \xE2\x80\x93 1818, Zustand 2000;Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Karl Friedrich Schinkel: Kuppelsaal, Altes Museum, Berlin, 1824 \xE2\x80\x93 1828; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Karl Friedrich Schinkel: Skizzenblatt f\xC3\xBCr einen Kuppeldom (Ausschnitt), um 1814, Federzeichnung, Berlin, Schinkelmuseum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Karl Friedrich Schinkel: Prunksessel, Schloss Glienicke, 1828, Buchenholz, Metallguss, vergoldet, 92 x 64 x 51 cm, Potsdam, Stiftung Preussische Schl\xC3\xB6sser und G\xC3\xA4rten Berlin-Brandenburg; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "nach Karl Friedrich Schinkel: B\xC3\xBChnenbildentwurf zur Oper \xE2\x80\x9EDie Zauberfl\xC3\xB6te\xE2\x80\x9C - Vorhalle des Labyrinths (Ausschnitt), 1815, Zeichnung, Kupferstichkabinett, Staatliche Museen zu Berlin; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Wilhelm Ahlborn nach Karl Friedrich Schinkel: B\xC3\xBChnenbildentwurf zur Oper \"Die Zauberfl\xC3\xB6te - Palast der K\xC3\xB6nigin der Nacht (Ausschnitt), 1815, Radierung, Aquatinta, handkoloriert, 22,8 x 34,9 cm, Berlin, Nationalgalerie; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+author: "Hendrikje H\xC3\xBCneke"
+title: The heritage of Schinkel
+subtitle: 
+date: 2012/09/04
+teaser: "The varied work of Karl Friedrich Schinkel includes architecture, paintings and graphic art, as well as interior design and stage design. "
+collection: 33274
+---
+The varied work of Karl Friedrich Schinkel includes architecture, paintings and graphic art, as well as interior design and stage design. An exhibition of the Kupferstichkabinett Berlin is part and result of a great project concerning the research, preservation and mediation of Schinkels artistic legacy. The exhibition asks about his importance for the history of architecture, as well as for the development of decorative arts. Another focus is on his view of history, witch is for example expressed in patriotic motifs.
+
+„Karl Friedrich Schinkel. History and Poetry“:http://www.schinkel-in-berlin.de/index.php?page_id=1, 7th September 2012 to 6th January 2013, Kulturforum, Berlin
+
