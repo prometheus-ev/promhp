@@ -1,8 +1,8 @@
----
+--- 
 layout: default
 title: Information zum Bildrecht und zur Verwendung der Bilder in prometheus
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=363
-priority: 0.8
+priority: "0.8"
 ---
 h2. <%= page_title %>
 
@@ -42,4 +42,4 @@ In prometheus sind wir bemüht, die Rechteinhaber der Lichtbilder angemessen aus
 Wir sind daran interessiert mit den Rechteinhabern der Lichtbilder, den Fotografen, Bildarchiven, Verlagen usw., Verträge abzuschließen, damit man direkt über prometheus die Publikationsgenehmigungen für nicht-kommerzielle, wissenschaftliche Publikationen einholen kann.
 
 Mit der "Bildagentur für Kunst, Kultur und Geschichte (bpk)":http://www.bpk-images.de/ (ehemals Bildarchiv Preußischer Kulturbesitz) haben wir einen für die Wissenschaft vorbildhaften Kooperationsvertrag geschlossen.
-Danach können alle Bilder, die das bpk prometheus in digitaler Form zur Verfügung gestellt hat, für nicht-kommerzielle, wissenschaftliche Publikationen mit einer Auflagenhöhe von unter 1000 Exemplaren kostenlos verwendet werden. bpk, Museum und Fotograf sind, wie am Bild angegeben, in einem Bildquellenvermerk zu nennen. Den Museen, aus denen die aufgenommenen Werke stammen, ist unaufgefordert ein Belegexemplar zu übersenden. Eine Publikationsfunktion [P] zum jeweiligen Bild im Feld Bildrecht in prometheus ermöglicht die unkomplizierte Einholung der Rechtegenehmigung direkt beim Rechteinhaber.
+Danach können alle Bilder, die das bpk prometheus in digitaler Form zur Verfügung gestellt hat, für nicht-kommerzielle, wissenschaftliche Publikationen mit einer Auflagenhöhe von unter 1000 Exemplaren kostenlos verwendet werden. bpk, Museum und Fotograf sind, wie am Bild angegeben, in einem Bildquellenvermerk zu nennen. Den Museen, aus denen die aufgenommenen Werke stammen, ist unaufgefordert ein Belegexemplar zu übersenden. Ein Publikationsbutton [§] am jeweiligen Bild ermöglicht die unkomplizierte Einholung der Rechtegenehmigung direkt beim Rechteinhaber.

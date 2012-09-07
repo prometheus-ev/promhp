@@ -1,8 +1,8 @@
----
+--- 
 layout: default
 title: Information about copyrights of images when using prometheus
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=363&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
-priority: 0.8
+priority: "0.8"
 ---
 h2. <%= page_title %>
 
@@ -40,4 +40,4 @@ Permission to use them requires authorization directly from the photographer or 
 
 prometheus is interested in negotiating contracts with the copyright-holders of photographs, photographic works of art, photographers, image databases, publishers etc., in order to enable us to provide permission for publication for non-profit, scientific publications.
 
-We were able to negotiate an exemplary agreement of cooperation with the "Bildagentur für Kunst, Kultur und Geschichte (bpk)":http://bpkgate.picturemaxx.com/webgate_cms/ (formerly Bildarchiv Preußischer Kulturbesitz), allowing the use of all digital images that have been made available to prometheus, free of charge in non-profit, scientific publications that have a circulation of under 1000 copies. The bpk, the museum and the photographer named in the picture credits have to be specified in the image source. Without further request, a sample copy is to be sent to the museums the works of art come from. Obtaining legal approval of the copyright-holder of the respective images is easily accomplished by using the publication function [P], provided by prometheus.
+We were able to negotiate an exemplary agreement of cooperation with the "Bildagentur für Kunst, Kultur und Geschichte (bpk)":http://bpkgate.picturemaxx.com/webgate_cms/ (formerly Bildarchiv Preußischer Kulturbesitz), allowing the use of all digital images that have been made available to prometheus, free of charge in non-profit, scientific publications that have a circulation of under 1000 copies. The bpk, the museum and the photographer named in the picture credits have to be specified in the image source. Without further request, a sample copy is to be sent to the museums the works of art come from. Obtaining legal approval of the copyright-holder of the respective images is easily accomplished via prometheus by using the publication button [§].
