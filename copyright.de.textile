@@ -15,32 +15,33 @@ Falls Sie also die Bilder außerhalb von Forschung und Lehre verwenden wollen, d
 
 h3. 2. Trennung der Rechte am Kunstwerk und am Foto der Kunstwerke
 
-Um einen angemessenen Überblick über mögliche rechtliche Ansprüche Dritter am betreffenden Bild in prometheus zu bekommen, müssen zwei Bereiche unterschieden werden: Zum einen die
+Um einen angemessenen Überblick über mögliche rechtliche Ansprüche Dritter am betreffenden Bild in prometheus zu bekommen, müssen zwei Bereiche unterschieden werden:
 
-*(a)* Verwertungsrechte am Kunstwerk, das im Urheberrecht allgemein als "Werk" bezeichnet wird, und zum anderen die
-*(b)* Verwertungsrechte am Foto des Kunstwerks, im Urheberrecht "Lichtbild" genannt.
+Zum einen die
+*(a)* *Verwertungsrechte am Kunstwerk*, das im Urheberrecht allgemein als "Werk" bezeichnet wird,
 
-h4. zu (a)
+und zum anderen die
+*(b)* *Verwertungsrechte am Foto* des Kunstwerks, im Urheberrecht "Lichtbild" genannt.
 
-Der Urheber des Kunstwerks ist der Künstler bzw. die Künstlerin. Die Verwertungsrechte liegen bei ihm/ihr und können bis 70 Jahre nach seinem/ihrem Tod auf seine/ihre Erben übertragen werden.
+h4. zu (a) Verwertungsrechte am Kunstwerk
 
-(UrhG § 64) Danach erlischt das Urheberrecht und das Kunstwerk ist gemeinfrei.
+Der Urheber des Kunstwerks ist der Künstler bzw. die Künstlerin. Die Verwertungsrechte liegen bei ihm/ihr und können bis 70 Jahre nach seinem/ihrem Tod auf seine/ihre Erben übertragen werden. ("§ 64 UrhG":http://www.gesetze-im-internet.de/urhg/__64.html) Danach erlischt das Urheberrecht und das Kunstwerk ist gemeinfrei.
 Konkret heißt dies, dass nur urheberrechtlich Ansprüche geltend gemacht werden können, wenn das betreffende Kunstwerk von einem Künstler ist, der noch nicht länger als 70 Jahre verstorben ist.
 
 Die Verwertungsrechte für alle Künstler bis 70 Jahre nach ihrem Tod regelt die "Verwertungsgesellschaft Bild-Kunst":http://www.bildkunst.de/ in Bonn.
 
-prometheus hat mit der VG Bild-Kunst einen Vertrag geschlossen, der zum einen die Zugänglichmachung der Werke der bildenden Kunst in prometheus durch die verschiedensten Bilddatenbanken erlaubt und zum anderen die Verwendung für Forschung und Lehre (vgl. 1) gestattet.
+prometheus hat mit der VG Bild-Kunst einen Vertrag geschlossen, der zum einen die Zugänglichmachung der Werke der bildenden Kunst in prometheus durch die verschiedenen Bilddatenbanken erlaubt und zum anderen die Verwendung für Forschung und Lehre (vgl. 1) gestattet.
 Für jede darüber hinausgehende Verwendung, Publikation oder öffentliche Zugänglichmachung muss die Genehmigung bei der VG Bild-Kunst eingeholt und zumeist eine Gebühr entrichtet werden.
 
-h4. zu (b)
+h4. zu (b) Verwertungsrechte am Foto
 
-Auch die Fotografien von Kunstwerken, die sog. Lichtbilder oder Lichtbildwerke werden im Urheberrecht geschützt (UrhG § 72, sog. Leistungsschutzrecht). Handelt es sich um ein Foto, das durch einfaches technisches Abfotografieren einer meist zweidimensionalen Vorlage entstanden ist, entsteht ein sog. Lichtbild. Der Schutz erlischt 50 Jahre nach Herstellung des Lichtbildes, bzw. 50 Jahre nach seinem ersten erlaubten Erscheinen. Handelt es sich um ein Foto, das z.B. durch die Wahl des Blickwinkels und der Beleuchtung eine eigene Werkqualität aufweist, gilt es als sog. Lichtbildwerk und ist als solches bis 70 Jahre nach dem Tod des Fotografen geschützt (§ 64 UrhG). Bei Fotos von dreidimensionalen Vorlagen (Skulpturen etc.) entsteht daher in der Regel ein Lichtbildwerk.
+Auch die Fotografien von Kunstwerken, die sog. Lichtbilder oder Lichtbildwerke werden im Urheberrecht geschützt ("§ 72 UrhG":http://www.gesetze-im-internet.de/urhg/__72.html, sog. Leistungsschutzrecht). Handelt es sich um ein Foto, das durch einfaches technisches Abfotografieren einer meist zweidimensionalen Vorlage entstanden ist, entsteht ein sog. Lichtbild. Der Schutz erlischt 50 Jahre nach Herstellung des Lichtbildes, bzw. 50 Jahre nach seinem ersten erlaubten Erscheinen. Handelt es sich um ein Foto, das z.B. durch die Wahl des Blickwinkels und der Beleuchtung eine eigene Werkqualität aufweist, gilt es als sog. Lichtbildwerk und ist als solches bis 70 Jahre nach dem Tod des Fotografen geschützt ("§ 64 UrhG":http://www.gesetze-im-internet.de/urhg/__64.html). Bei Fotos von dreidimensionalen Vorlagen (Skulpturen etc.) entsteht daher in der Regel ein Lichtbildwerk.
 
-Die Erlaubnis der Zugänglichmachung der Fotografien der Werke der bildenden Kunst innerhalb von prometheus und ihre Verwendung für Forschung und Lehre ist auch Bestandteil des oben genannten Vertrages mit der "VG Bild-Kunst":http://www.bildkunst.de/ (vgl. 2a).
+Die Erlaubnis der Zugänglichmachung der Fotografien der Werke der bildenden Kunst innerhalb von prometheus und ihre Verwendung für Forschung und Lehre ist auch Bestandteil des oben genannten Vertrages mit der VG Bild-Kunst (vgl. 2a).
 
 Für jede darüber hinausgehende Verwendung, Publikation oder öffentliche Zugänglichmachung muss die Genehmigung bei den Fotografen oder zuständigen Institutionen (z.B. Bildarchiven, Verlagen, VG Bild-Kunst) eingeholt werden.
 
-In prometheus sind wir bemüht, die Rechteinhaber der Lichtbilder angemessen auszuzeichnen. Gegebenfalls müssen Sie vom Nutzer selber recherchiert werden. Zumeist kann die Information im Bildnachweis helfen, die die Quelle des Bildes angibt.
+In prometheus sind wir bemüht, die Rechteinhaber der Lichtbilder angemessen auszuzeichnen. Gegebenenfalls müssen sie von Ihnen selbst recherchiert werden; zumeist kann die Information im Bildnachweis helfen, die die Quelle des Bildes angibt.
 
 Wir sind daran interessiert mit den Rechteinhabern der Lichtbilder, den Fotografen, Bildarchiven, Verlagen usw., Verträge abzuschließen, damit man direkt über prometheus die Publikationsgenehmigungen für nicht-kommerzielle, wissenschaftliche Publikationen einholen kann.
 
