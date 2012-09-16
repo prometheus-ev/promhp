@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Alexej von Jawlensky: Manola mit violettem Schleier, 1912, Sammlung Herni Nannen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Alexej von Jawlensky: Heilandsgesicht/Sternenlicht, 1921, \xC3\x96l und Bleistift auf Papier, Pasadena, Norton Simon Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Alexej von Jawlensky: Blaue Kappe, 1912, \xC3\x96l auf Karton, London, Familie Josefowitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Alexej von Jawlensky: Prinzessin mit wei\xC3\x9Fer Blume, 1913, \xC3\x96l auf Karton, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Alexej von Jawlensky: Heilandsgesicht, 1920-1921, \xC3\x96l auf Karton, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Alexej von Jawlensky: J\xC3\xBCnglingskopf, 1911, \xC3\x96l auf Karton, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Alexej von Jawlensky: Kopf, 1932, \xC3\x96l auf Leinenpapier auf Pappe, Berlin, Nationalgalerie; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar "
+- "Alexej von Jawlensky: Barbarenf\xC3\xBCrstin, 1912, \xC3\x96l auf Karton, Hagen, Karl Ernst Osthaus Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Jawlensky
+subtitle: 
+date: 2012/09/17
+teaser: "Bereits zu Lebzeiten Alexej Jawlenskys (1864 - 1941) zeigte der Kunstverein Jena seine Werke in mehreren Ausstellungen. "
+collection: 33374
+---
+Bereits zu Lebzeiten Alexej Jawlenskys (1864 - 1941) zeigte der Kunstverein Jena seine Werke in mehreren Ausstellungen. Als die Kunst des Malers unter den Nationalsozialisten als "entartet" eingestuft wurde, sind viele seiner Werke beschlagnahmt worden. Jawlenskys Porträt einer sizilianischen Frau, in der Farbigkeit vergleichbar mit dem Porträt der Manola, war nach der Beschlagnahme-Aktion lange verschollen. Die aktuelle Jawlensky-Ausstellung in Jena präsentiert das Gemälde nun als Teil einer umfassenden Retrospektive.
+
+*">Ich arbeite für mich, nur für mich und meinen Gott.< Alexej von Jawlensky. Gemälde, Aquarelle und Zeichnungen":http://www.jena.de/sixcms/detail.php?id=217006&_nav_id1=58181&_nav_id2=72744&_lang=de, 02. September bis 25. November 2012, Kunstsammlung Jena*
