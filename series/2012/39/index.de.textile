@@ -11,9 +11,9 @@ descriptions:
 - "Goldfund aus dem F\xC3\xBCrstengrab von Schwarzenbach, Goldblech, H\xC3\xB6he 5cm, Antikensammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
 author: "Hendrikje H\xC3\xBCneke"
 title: The Celts
-subtitle: "Zwei Ausstellungen in Stuttgart pr\xC3\xA4sentieren, zusammengefasst unter dem Titel \"Kultur der Kelten\", Exponate aus ganz Europa."
+subtitle: 
 date: 2012/09/23
-teaser: 
+teaser: "Zwei Ausstellungen in Stuttgart pr\xC3\xA4sentieren, zusammengefasst unter dem Titel \"Kultur der Kelten\", Exponate aus ganz Europa."
 collection: 33404
 ---
 Zwei Ausstellungen in Stuttgart präsentieren keltische Objekte aus ganz Europa, zusammengefasst unter dem Titel "Kultur der Kelten". Die Teil-Ausstellung "Zentren der Macht" legt den Fokus auf die frühkeltischen Fürstensitze und spätkeltischen Städte und behandelt wirtschaftliche, gesellschaftliche und religiöse Aspekte der Kultur. Die komplexe Ornamentik, unter anderem in der Buchmalerei der Kelten ist in der Ausstellung "Kostbarkeiten der Kunst" ins Zentrum der Darstellung gerückt. 
