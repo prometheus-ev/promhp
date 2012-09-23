@@ -1,0 +1,21 @@
+--- 
+layout: series
+descriptions: 
+- "Verkleidung einer Trinkschale (modern montiert) - Goldfund aus dem F\xC3\xBCrstengrab von Schwarzenbach, Goldbelch, H\xC3\xB6he 8,5 cm, Antikensammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Bronzehelm (Negauer Typ) - Teil der R\xC3\xBCstung des Adels im Ostalpenraum, Bronze, Museum f\xC3\xBCr Vor- und Fr\xC3\xBChgeschichte, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "The Book of Kells, Beginn des Breves causae des Matth\xC3\xA4us, Folio 8r, um 680, Buchmalerei, Dublin, Trinitiy College; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Keltischer Helm, Eisen / Bronze, H\xC3\xB6he 23,2cm, Antikensammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "The Book of Kells: Chi-Rho Seite (Christi autem generatio), Folio 34 r, um 680, Buchmalerei, Dublin, Trinitiy College; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Sogenannte \"Linsenflasche\" mit Tierfries, Keramik, H\xC3\xB6he 23,8cm, Museum f\xC3\xBCr Vor- und Fr\xC3\xBChgeschichte, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "The Book of Kells, um 680, Buchmalerei, Dublin, Trinitiy College; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Goldfund aus dem F\xC3\xBCrstengrab von Schwarzenbach, Goldblech, H\xC3\xB6he 5cm, Antikensammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+author: "Hendrikje H\xC3\xBCneke"
+title: The Celts
+subtitle: "Zwei Ausstellungen in Stuttgart pr\xC3\xA4sentieren, zusammengefasst unter dem Titel \"Kultur der Kelten\", Exponate aus ganz Europa."
+date: 2012/09/23
+teaser: 
+collection: 33404
+---
+Zwei Ausstellungen in Stuttgart präsentieren keltische Objekte aus ganz Europa, zusammengefasst unter dem Titel "Kultur der Kelten". Die Teil-Ausstellung "Zentren der Macht" legt den Fokus auf die frühkeltischen Fürstensitze und spätkeltischen Städte und behandelt wirtschaftliche, gesellschaftliche und religiöse Aspekte der Kultur. Die komplexe Ornamentik, unter anderem in der Buchmalerei der Kelten ist in der Ausstellung "Kostbarkeiten der Kunst" ins Zentrum der Darstellung gerückt. 
+
+*"Die Welt der Kelten":http://www.kelten-stuttgart.de/, 15. September 2012 bis 17. Februar 2013, Kunstgebäude Stuttgart am Schlossplatz und Landesmuseum Württemberg, Altes Schloss, Stuttgart*
