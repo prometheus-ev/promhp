@@ -119,7 +119,16 @@ module Jekyll
             part.to_sym => case part
               when 'row'
                 items = ImageSeries.items(self)
-                items.concat(items.shuffle)
+                extra, size = items.dup, items.size
+
+                String(data['repeat']).split(/[,\s]+/)
+                  .map { |i| i.to_i }.uniq[0, size]
+                  .delete_if { |i| i < 1 || i > size }
+                  .each_with_index.sort.reverse_each { |i, j|
+                    items[size + j] = extra.delete_at(i - 1)
+                  }
+
+                items.concat(extra.shuffle!)
               when 'teaser'
                 subtitle = data['subtitle'].to_s.strip
 
