@@ -15,7 +15,7 @@ subtitle: !binary |
   QSBUw6p0ZS3DoC1Uw6p0ZQ==
 
 date: 2012/09/30
-repeat: 5, 2, 3
+repeat: 
 teaser: "Fernand L\xC3\xA9ger and Henri Laurens met 1910 in Paris"
 collection: 33401
 ---
