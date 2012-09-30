@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Fernand L\xC3\xA9ger: Femme tenant un vase , 1927, \xC3\x96l auf Leinwand, 146,3 x 97,3 cm, New York, The Solomon R. Guggenheim Museum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Henri Laurens: T\xC3\xAAte de jeune fillett, 1920, Terrakotta, Hannover, Sprengelmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Fernand L\xC3\xA9ger: L`escalier, 1913, \xC3\x96l auf Leinwand, 144 x 118 cm, Z\xC3\xBCrich, Kunsthaus; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Henri Laurens: La vague, 1933, Bronze, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Fernand L\xC3\xA9ger: Danseuses sur fond jaune, 1953, Farblithografie, 65,7 x 50,4 cm, Bielefeld, Kulsthalle; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Henri Laurens: L'Aurore, 1944, Bronze, Paris, Centre Pompidou; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Fernand L\xC3\xA9ger: Les deux s\xC5\x93urs, 1935, \xC3\x96l auf Leinwand, 162 x 114 cm, Berlin, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Henri Laurens: M\xC3\xA9tamorphose, 1940, Bronze, Hannover Sprengelmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: "L\xC3\xA9ger and Laurens"
+subtitle: !binary |
+  QSBUw6p0ZS3DoC1Uw6p0ZQ==
+
+date: 2012/09/30
+repeat: 5, 2, 3
+teaser: "Fernand L\xC3\xA9ger and Henri Laurens met 1910 in Paris"
+collection: 33401
+---
+Fernand Léger and Henri Laurens met 1910 in Paris; the sculptor and the painter regarded each other. An exhibition in the "Frieder Burda Museum" is dealing with parallels and similarities in their works and arranges more than 80 exhibits as a confidential dialogue.
+
+*"Léger - Laurens, “Tête-à-Tête“":http://www.museum-frieder-burda.de/LEGER-LAURENS-Tete-a-Tete.907.0.html?&L=1, 23 June to 4 November 2012, Frieder Burda Museum, Baden-Baden*
