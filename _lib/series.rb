@@ -130,7 +130,7 @@ module Jekyll
 
                 items.concat(extra.shuffle!)
               when 'teaser'
-                subtitle = data['subtitle'].to_s.strip
+                subtitle = data['subtitle'].to_s.strip.force_encoding('UTF-8')
 
                 teaser = data[part] || content[TEASER_RE, 1]
                 teaser = "*#{subtitle}* - #{teaser}" unless subtitle.empty?
