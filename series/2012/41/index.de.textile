@@ -17,6 +17,6 @@ repeat: "6 3 1 "
 teaser: "Frank Stella war mit seinen minimalistischen \xE2\x80\x9Eblack paintings\xE2\x80\x9C ein wichtiger Vertreter der amerikanischen Kunst der 1960er Jahre."
 collection: 33568
 ---
-Frank Stella war mit seinen minimalistischen „black paintings“ ein wichtiger Vertreter der amerikanischen Kunst der 1960er Jahre. Seid dem haben seine Werke eine Entwicklung vom Minimalismus zum „Maximalismus“ durchgemacht; sie sind bunter und stärker plastisch geworden. Mit 60 großformatigen Gemälden und Plastiken sowie 80 Arbeiten auf Papier zeigt das Kunstmuseum Wolfsburg eine umfassende Retrospektive. Dabei ist die vom Künstler bestimmte Hängung nicht chronologisch geordnet, sondern setzt Werke unterschiedlichster Werkphasen in Beziehung.
+Frank Stella war mit seinen minimalistischen „black paintings“ ein wichtiger Vertreter der amerikanischen Kunst der 1960er Jahre. Seitdem haben seine Werke eine Entwicklung vom Minimalismus zum „Maximalismus“ durchgemacht; sie sind bunter und stärker plastisch geworden. Mit 60 großformatigen Gemälden und Plastiken sowie 80 Arbeiten auf Papier zeigt das Kunstmuseum Wolfsburg eine umfassende Retrospektive. Dabei ist die vom Künstler bestimmte Hängung nicht chronologisch geordnet, sondern setzt Werke unterschiedlichster Werkphasen in Beziehung.
 
 *"Frank Stella. Die Retrospektive. Werke 1958 – 2012":http://www.kunstmuseum-wolfsburg.de/exhibition/121/Frank_Stella_%E2%80%93_Die_Retrospektive, 08. September 2012 bis 20. Januar 2013, Kunstmuseum Wolfsburg*
