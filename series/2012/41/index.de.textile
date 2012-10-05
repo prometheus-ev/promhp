@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Frank Stella: Die Fahne hoch, 1959, Email auf Leinwand, 309 x 186 cm, New York, Whitney Museum of American Art; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Frank Stella: Biographical (Q-2), 1990, Aluminium, diverse Materialien, 69 x 65 x 37 inch, Japan, Akira Ikeda Gallery; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+- "Frank Stella: Die Hochzeit von Vernunft und Verwahrlosung II, 1959, Email auf Leinwand, New York, Museum of Modern Art; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Fank Stella: Quathlamba, 1964, mit metallischem Pulver versetzter Kunststoff auf Leinwand, 197,5 x 454,7 cm, New York, Leo Castelli Gallery; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+- "Frank Stella: The Grand Armada (IRS, No. 6, 1X), 1989, Aluminiumrelief, bemalt, f\xC3\xBCnfteilig, 315 x 186,5 x 99 cm, Riehen/Basel, Fondation Beyeler; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+- "Frank Stella: Harran II, 1967, Kunststoffe auf Leinwand, 305 x 610 cm, New York, Solomon R. Guggenheim Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Frank Stella: Bonin night heron I, 1976, Acryl auf Aluminium, 275 x 350 x 65 cm, K\xC3\xB6ln, Museum Ludwig; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Frank Stella: Sanbornville II, 1966,  Acryl, Epoxidharz auf Leinwand, 264 x 373 cm, M\xC3\xBCnster, Westf\xC3\xA4lisches Landesmuseum f\xC3\xBCr Kunst und Kulturgeschichte; DILPS Bilddatenbank Udk, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+author: "Hendrikje H\xC3\xBCneke"
+title: Frank Stella
+subtitle: 
+date: 2012/10/05
+repeat: "6 3 1 "
+teaser: "Frank Stella war mit seinen minimalistischen \xE2\x80\x9Eblack paintings\xE2\x80\x9C ein wichtiger Vertreter der amerikanischen Kunst der 1960er Jahre."
+collection: 33568
+---
+Frank Stella war mit seinen minimalistischen „black paintings“ ein wichtiger Vertreter der amerikanischen Kunst der 1960er Jahre. Seid dem haben seine Werke eine Entwicklung vom Minimalismus zum „Maximalismus“ durchgemacht; sie sind bunter und stärker plastisch geworden. Mit 60 großformatigen Gemälden und Plastiken sowie 80 Arbeiten auf Papier zeigt das Kunstmuseum Wolfsburg eine umfassende Retrospektive. Dabei ist die vom Künstler bestimmte Hängung nicht chronologisch geordnet, sondern setzt Werke unterschiedlichster Werkphasen in Beziehung.
+
+*"Frank Stella. Die Retrospektive. Werke 1958 – 2012":http://www.kunstmuseum-wolfsburg.de/exhibition/121/Frank_Stella_%E2%80%93_Die_Retrospektive, 08. September 2012 bis 20. Januar 2013, Kunstmuseum Wolfsburg*
