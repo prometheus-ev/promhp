@@ -17,10 +17,7 @@ repeat: 3 1 8
 teaser: 
 collection: 33638
 ---
-*"Der einzige Entschuldigungsgrund für eine Liebesheirat ist die unüberwindliche gegenseitige Zuneigung."* - George Bernard Shaw - 
-
-Im Gegensatz zum Schlagwort "Ehe", das im Bildarchiv "Prometheus" eine sehr karrikaturlastige Auswahl von Bilddokumenten hervorbringt, erscheint unter "Hochzeit" eine heterogene Bildsammlung: Von sachlich über grotesk und naiv bis romantisch verklärt sind
-Hochzeiten als Allegorie, Mythos, Genreszene, politisches Ereignis oder persönliche Erinnerung dargestellt. 
+Im Gegensatz zum Schlagwort "Ehe", das im Bildarchiv "Prometheus" eine sehr karrikaturlastige Auswahl von Bilddokumenten hervorbringt, erscheint unter "Hochzeit" eine heterogene Bildsammlung: Von sachlich über grotesk und naiv bis romantisch verklärt sind Hochzeiten als Allegorie, Mythos, Genreszene, politisches Ereignis oder persönliche Erinnerung dargestellt. 
 
 *Denen, die diesen Monat heiraten, wünschen wir alles Gute!*
 
