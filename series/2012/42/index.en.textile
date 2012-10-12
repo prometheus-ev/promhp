@@ -9,7 +9,7 @@ descriptions:
 - "Henri Rousseau: Die Hochzeit (Ausschnitt), 1905, \xC3\x96l auf Leinwand, Paris, Sammlung Madame Jean Walter; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
 - "Marc Chagall: Braut mit blauem Gesicht (Ausschnitt), 1932-60, \xC3\x96l auf Leinwand, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
 - "Jan van Eyck: Arnolfini-Hochzeit, 1434, \xC3\x96l auf Eichenholz, National Gallery, London; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
-author: The prometheus-team
+author: Prometheus-team
 title: Wedding
 subtitle: 
 date: 2012/10/12
