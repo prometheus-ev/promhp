@@ -1,14 +1,14 @@
 --- 
 layout: series
 descriptions: 
-- "Hochzeit des Cupido und Psyche, Tryphon (Ausschnitt), 1. Jh.v.Chr.?, zweischichtiger Sardonyx, Boston, Museum of Fine Arts; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
-- "Jan Steen: Die Hochzeit der Tobias und der Sara (Ausschnitt), 1667/68, \xC3\x96l auf Leinwand, Braunschweig, Herzog Anton Ulrich-Museum; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Hochzeit von Cupido und Psyche, Tryphon (Ausschnitt), 1. Jh.v.Chr.?, zweischichtiger Sardonyx, Boston, Museum of Fine Arts; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Jan Steen: Die Hochzeit des Tobias und der Sara (Ausschnitt), 1667/68, \xC3\x96l auf Leinwand, Braunschweig, Herzog Anton Ulrich-Museum; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
 - "Hannah H\xC3\xB6ch: Die Braut (Ausschnitt), 1924 / 1927, Collage, Berlin, Berlinische Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
 - "Hochzeit von Adam und Eva (Ausschnitt), Bible Moralis\xC3\xA9e, Codex Vindobonensis 2554, fol. 2r, um 1250, Buchmalerei, Wien, Nationalbibliothek; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf "
 - "Erich Salomon: Trauung der niederl\xC3\xA4ndischen Prinzessin Juliana mit Prinz Bernhard zu Lippe-Biesterfeld, Den Haag. 7.1.1937 (Ausschnitt), 1937, Fotografie / Silbergelatine,  Berlin, Berlinische Galerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
 - "Henri Rousseau: Die Hochzeit (Ausschnitt), 1905, \xC3\x96l auf Leinwand, Paris, Sammlung Madame Jean Walter; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
 - "Marc Chagall: Braut mit blauem Gesicht (Ausschnitt), 1932-60, \xC3\x96l auf Leinwand, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
-- "Jan van Eyck: Arnolfini-Hochzeit, 1434, \xC3\x96l auf Eichenholz, National Gallery, London; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Jan van Eyck: Arnolfini-Hochzeit (Ausschnitt), 1434, \xC3\x96l auf Eichenholz, National Gallery, London; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
 author: Prometheus-team
 title: Wedding
 subtitle: 
