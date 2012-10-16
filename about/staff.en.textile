@@ -9,10 +9,12 @@ h3. Current
 
 * Dipl.-Phys. Lars Bähren (Cologne, IT)
 * Lisa Dieckmann M.A. (Executive of the project prometheus at the Department of Art History of the University of Cologne, Art History/IT)
+* Bettina Hilgert B.A. (Cologne, Office)
 * Hendrikje Hüneke (Giessen, Image series)
 * Theresa Nisters M.A. (Cologne, Office)
+* Dr. Bettina Pfleging (Cologne, Social Media Marketing, "Executive Board":<%=r 'about/association/executive-board' %>)
 * Silvia Stark M.A. (Cologne, Office)
-* Denise Trump (Cologne, Office)
+* Denise Trump B.A. (Cologne, Office)
 * Dipl.-Bibl. Jens Wille (Cologne, IT)
 
 h3. Former
@@ -28,7 +30,7 @@ h3. Former
 * Dr. Meta Friese (Cologne, Office)
 * Dr. Reinahrd Greulich (Köthen, IT)
 * Prof. Dr. Dorothee Haffner (Berlin, Art History » currently: "Executive Board":<%=r 'about/association/executive-board' %>)
-* Prof. Rochus Hartmann (Köthen, IT)
+* Prof. Rochus Hartmann (Dessau, Design)
 * Georg Hohmann (Cologne, Project coordination)
 * Julia Iwanowa M.A. (Berlin, IT)
 * Prof. Tina Kindel (Dessau, Design)
@@ -37,7 +39,6 @@ h3. Former
 * Dipl.-Bibl. Thomas Müller (Cologne, IT)
 * Dr. Jürgen Nemitz (Cologne/Marburg, IT)
 * Johanna Neumann (Cologne, IT)
-* Dr. Bettina Pfleging (Cologne, E-Learning » currently: "Executive Board":<%=r 'about/association/executive-board' %>)
 * Astrid Puckett (Giessen, Image series)
 * PD Dr. Sigrid Ruby (Giessen, Art History » currently: "Executive Board":<%=r 'about/association/executive-board' %>)
 * Claudia Rust M.A. (Giessen, Office)
