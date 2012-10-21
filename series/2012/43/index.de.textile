@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Via Lewandowsky: Ikarus oder \xC3\x9Cbermut tut selten gut Standort (Ausschnitt), 1988, Acryl auf Leinwand, Besitz Alexander Lubic Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Roger Melis: Wolf Biermann als \"Preu\xC3\x9Fischer Ikarus\" auf der Weidendammer Br\xC3\xBCcke (Ausschnitt), 1975, Fotografie, mehrere Orte; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Wolfgang Mattheuer: Sturz des Ikarus II (Ausschnitt), 1978, \xC3\x96l auf Leinwand, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Heinrich Apel: Ikarus (Detail), 1976, Bronze, Magdeburger Museen; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Bernhard Heisig: Ikarus (Ausschnitt), 1975, \xC3\x96l auf Leinwand, ehemals Berlin, Palast der Republik, Hauptfoyer, Kunstbesitz der Bundesrepublik Deutschland; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Hans-Hendrik Grimmling: Ikarus zu Hause (Ausschnitt), 1978, Collage auf Photoleinen/Hartfaser, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Bernhard Heisig: Ikarus und der Babelturm (Ausschnitt), 1990, Tafelmalerei, Privatbesitz; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Hans-Hendrik Grimmling: Ikarus II (Ausschnitt), 1991, Acryl auf Papier, Frankfurt/Oder, Galerie Junge Kunst; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+author: "Hendrikje H\xC3\xBCneke"
+title: "Der Ikarus-Mythos "
+subtitle: Bildwelten der DDR
+date: 2012/10/21
+repeat: 1 5 2
+teaser: "Der Ikarus-Mythos, in dem das Verh\xC3\xA4ltnis zwischen Utopie und Wirklichkeit verhandelt wird, scheint symptomatisch f\xC3\xBCr die DDR zu sein"
+collection: 33570
+---
+Der Ikarus-Mythos, in dem das Verhältnis zwischen Utopie und Wirklichkeit verhandelt wird, scheint symptomatisch für die DDR zu sein und ist in der Tat relativ häufig von Künstlern aus der DDR interpretiert worden. 
+In der Weimarer Ausstellung "Abschied von Ikarus" werden ca. 260 Arbeiten aus der DDR präsentiert, die nicht nur der staatsnahen Kunst, sondern auch der "nonkonformen" Kunst der Subkulturen oder den vielen Zwischenpositionen zuzuordnen sind. Es ist der Versuch einen objektiven und differenzierten Blick auf die Kunst der DDR zu werfen.
+
+*"Abschied von Ikarus. Bildwelten in der DDR – neu gesehen":http://www.klassik-stiftung.de/ausstellungen-und-veranstaltungen/?tx_lombkswterm1_pi1[event]=1767&tx_lombkswterm1_pi1[selectedDayString]=2012-10-01&tx_lombkswterm1_pi1[backArray][action]=eventList&tx_lombkswterm1_pi1[backArray][categoryId]=&tx_lombkswterm1_pi1[backArray][monthStart]=&tx_lombkswterm1_pi1[date]=9445&tx_lombkswterm1_pi1[action]=eventDetail&tx_lombkswterm1_pi1[controller]=FeDate&cHash=1fd6bbd539904d7b7bec4afa53646ef4, 19. Oktober 2012 bis 3. Februar 2013, Neues Museum Weimar* 
