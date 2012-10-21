@@ -18,6 +18,6 @@ teaser: "Der Ikarus-Mythos, in dem das Verh\xC3\xA4ltnis zwischen Utopie und Wir
 collection: 33570
 ---
 Der Ikarus-Mythos, in dem das Verhältnis zwischen Utopie und Wirklichkeit verhandelt wird, scheint symptomatisch für die DDR zu sein und ist in der Tat relativ häufig von Künstlern aus der DDR interpretiert worden. 
-In der Weimarer Ausstellung "Abschied von Ikarus" werden ca. 260 Arbeiten aus der DDR präsentiert, die nicht nur der staatsnahen Kunst, sondern auch der "nonkonformen" Kunst der Subkulturen oder den vielen Zwischenpositionen zuzuordnen sind. Es ist der Versuch einen objektiven und differenzierten Blick auf die Kunst der DDR zu werfen.
+In der Weimarer Ausstellung "Abschied von Ikarus" werden ca. 260 Arbeiten aus der DDR präsentiert, die nicht nur der staatsnahen Kunst zuzuordnen sind, sondern auch der "nonkonformen" Kunst der Subkulturen oder den vielen Zwischenpositionen. Es ist der Versuch einen objektiven und differenzierten Blick auf die Kunst der DDR zu werfen.
 
 *"Abschied von Ikarus. Bildwelten in der DDR – neu gesehen":http://www.klassik-stiftung.de/ausstellungen-und-veranstaltungen/?tx_lombkswterm1_pi1[event]=1767&tx_lombkswterm1_pi1[selectedDayString]=2012-10-01&tx_lombkswterm1_pi1[backArray][action]=eventList&tx_lombkswterm1_pi1[backArray][categoryId]=&tx_lombkswterm1_pi1[backArray][monthStart]=&tx_lombkswterm1_pi1[date]=9445&tx_lombkswterm1_pi1[action]=eventDetail&tx_lombkswterm1_pi1[controller]=FeDate&cHash=1fd6bbd539904d7b7bec4afa53646ef4, 19. Oktober 2012 bis 3. Februar 2013, Neues Museum Weimar* 
