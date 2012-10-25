@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Lotte Jacobi: Albert Einstein in der Lederjacke (Ausschnitt), 1938, Fotografie, Princeton, New Jersey; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Lotte Jacobi: Pauline Koner (Ausschnitt), 1939/41, Fotografie, University of Hampshire, Lotte Jacobi Archives; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Lotte Jacobi: Lotte Lenya (Ausschnitt), um 1928, Fotografie, Essen, Folkwang-Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Lotte Jacobi: Drehung / Claire Bauroff (Ausschnitt), 1928, Fotografie, Berlin; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Lotte Jacobi: Kurt Weill (Ausschnitt), 1928, Fotografie, M\xC3\xBCnchen, Stadtmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Lotte Jacobi: Egon Erwin Kisch (Ausschnitt), um 1930, Fotografie, Berlin, Deutsches Literaturarchiv; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Lotte Jacobi: Grock / Adrian Wettach (Ausschnitt), um 1930, Fotografie, Berlin, Berlinische Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Lotte Jacobi: Selbstportr\xC3\xA4t bei der Arbeit (Ausschnitt), um 1930, Fotografie, Hamburg, PPS Galerie F. C. Gundlach; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Photographs by Lotte Jacobi
+subtitle: Not just an historical document
+date: 2012/10/25
+repeat: 3 2 5
+teaser: " With portraits and townscapes the photographer Lotte Jacobi provided an authentic picture of an era. "
+collection: 33916
+---
+With portraits and townscapes the photographer Lotte Jacobi provided an authentic picture of an era. Portraits, like the one of Einstein with a leather jacket or Lotte Lenya with cigarette, have become famous. They are reflecting the 1920s in Berlin and - after the artist emigrated in 1935 - the metroplis New York. 
+An exhibition on Cologne is dealing with the hole range of her oevre, including experimantal works. 
+
+*"LOTTE JACOBI – PHOTOGRAPHS":http://www.kollwitz.de/en/ausstellungen_1_1.aspx, An exhibition on the occasion of photokina, 14 September to 25 November 2012, Käthe Kollwitz Museum, Cologne*
