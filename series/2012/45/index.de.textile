@@ -1,0 +1,35 @@
+--- 
+layout: series
+descriptions: 
+- "Jean Fran\xC3\xA7ois Millet: Herbst / Die Heuhaufen (Ausschnitt), 1868-74, \xC3\x96l auf Leinwand, 85 x 110 cm, New York, \xC3\xB6ffentliche Sammlung, Metropolitan Museum of Art; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Otto Modersohn: Herbst im Moor (Ausschnitt), 1895, \xC3\x96l auf Leinwand, 80 x 150 cm, Bremen, Kunsthalle Bremen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Otto Altenkirch: Schlo\xC3\x9Fgarten im Herbst (Ausschnitt), 1912, \xC3\x96l auf Leinwand, keine Ma\xC3\x9Fangaben, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Erich Heckel: Tiergarten im Herbst (Ausschnitt), 1914, \xC3\x96l auf Leinwand, 78 x 74,5 cm, Essen, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Giovanni Giacometti: Herbst (Ausschnitt), 1903, \xC3\x96l auf Leinwand, 80,5 x 54,5 cm, Solothurn, Kunstmuseum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Johannes Itten: Herbst (Ausschnitt), 1963, \xC3\x96l auf Leinwand, keine Ma\xC3\x9Fangaben, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Bror Lindh: Herbst (Ausschnitt), 1905, \xC3\x96l auf Leinwand, 133 x 156 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Claude Monet: Herbst in Argenteuil (Ausschnitt), 1873, \xC3\x96l auf Leinwand, \xC3\x96l auf Leinwand, 56 x 75 cm, London, Courtauld Institute Gallery; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+author: "Hendrikje H\xC3\xBCneke"
+title: Herbsttag
+subtitle: 
+date: 2012/10/30
+repeat: "3 6 5 "
+teaser: "\"Herr, es ist Zeit. Der Sommer war sehr gro\xC3\x9F.\""
+collection: 33960
+---
+Herr, es ist Zeit. Der Sommer war sehr groß.
+Leg deinen Schatten auf die Sonnenuhren
+und in den Fluren lass die Winde los.
+
+Befiehl den letzten Früchten voll zu sein;
+gib ihnen noch zwei südlichere Tage,
+Dräng sie zur Vollendung hin und jage
+die letzte Süße in den schweren Wein.
+
+Wer jetzt kein Haus hat, baut sich keines mehr.
+Wer jetzt allein ist, wird es lange bleiben,
+wird wachen, lesen, lange Briefe schreiben
+und wird in den Alleen hin und her
+unruhig wandern, wenn die Blätter treiben.
+
+"Herbsttag" von Rainer Maria Rilke

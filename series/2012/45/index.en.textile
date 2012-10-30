@@ -1,0 +1,36 @@
+--- 
+layout: series
+descriptions: 
+- "Jean Fran\xC3\xA7ois Millet: Herbst / Die Heuhaufen (Ausschnitt), 1868-74, \xC3\x96l auf Leinwand, 85 x 110 cm, New York, \xC3\xB6ffentliche Sammlung, Metropolitan Museum of Art; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Otto Modersohn: Herbst im Moor (Ausschnitt), 1895, \xC3\x96l auf Leinwand, 80 x 150 cm, Bremen, Kunsthalle Bremen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Otto Altenkirch: Schlo\xC3\x9Fgarten im Herbst (Ausschnitt), 1912, \xC3\x96l auf Leinwand, keine Ma\xC3\x9Fangaben, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Erich Heckel: Tiergarten im Herbst (Ausschnitt), 1914, \xC3\x96l auf Leinwand, 78 x 74,5 cm, Essen, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Giovanni Giacometti: Herbst (Ausschnitt), 1903, \xC3\x96l auf Leinwand, 80,5 x 54,5 cm, Solothurn, Kunstmuseum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Johannes Itten: Herbst (Ausschnitt), 1963, \xC3\x96l auf Leinwand, keine Ma\xC3\x9Fangaben, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Bror Lindh: Herbst (Ausschnitt), 1905, \xC3\x96l auf Leinwand, 133 x 156 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Claude Monet: Herbst in Argenteuil (Ausschnitt), 1873, \xC3\x96l auf Leinwand, \xC3\x96l auf Leinwand, 56 x 75 cm, London, Courtauld Institute Gallery; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+author: "Hendrikje H\xC3\xBCneke"
+title: Autumn Day
+subtitle: 
+date: 2012/10/30
+repeat: 3 6 5
+teaser: "\"Lord, it is time. The summer was too long.\""
+collection: 33960
+---
+Lord, it is time. The summer was too long.
+Lay your shadow on the sundials now,
+and through the meadow let the winds throng.
+
+Ask the last fruits to ripen on the vine;
+give them further two more summer days
+to bring about perfection and to raise
+the final sweetness in the heavy wine. 
+
+Whoever has no house now will establish none,
+whoever lives alone now will live on long alone,
+will waken, read, and write long letters,
+wander up and down the barren paths
+the parks expose when the leaves are blown. 
+
+
+"Autumn Day" by Rainer Maria Rilke, translated by William Gass
