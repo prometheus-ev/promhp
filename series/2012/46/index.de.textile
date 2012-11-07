@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Robert Smithson: Spiral Jetty, 1971, Rozel Point am Gro\xC3\x9Fen Salzsee, Utah; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Christo und Jeanne Claude: Wrapped Coast, 1969, Little Bay, Australien; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum "
+- "Richard Long: A Line in the Himalaya, 1975, Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Heinz Mack: Stelen des Sahara-Projektes, 1961-68; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Nancy Holt: Sun Tunnels, Blick durch einen der vier Betontunnel, 1973-76, Great Basin Desert, Utah; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Nancy Holt: Sun Tunnels, die 4 Betontunnel aus der Vogelperspektive, 1973-76, Great Basin Desert, Utah; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Judy Chicago: Womanatmosphere, aus der Serie \"Woman and Smoke\", 1971, Performance mit Faith Wilding in der W\xC3\xBCste Kaliforniens; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Hans Haacke: Gra\xC3\x9F wachst, 1969, Erde/Gras, Ithaca, Andrew Dickson White Museum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+author: "Hendrikje H\xC3\xBCneke"
+title: Land Art
+subtitle: 
+date: 2012/11/07
+repeat: 5 2 1
+teaser: "Die Frage, ob Land Art im Museum pr\xC3\xA4sentiert werden kann, wurde viel diskutiert. "
+collection: 34042
+---
+Die Frage, ob Land Art im Museum präsentiert werden kann, wurde viel diskutiert. Die Kunstwerke, die Natur als Material und Raum nutzen, befinden sich oft in abgelegenen und unwirtlichen Gegenden und nehmen nicht selten monumentale Ausmaße an. In gewisser Weise können aber Ideenskizzen und Entwürfe oder fotografische und filmische Dokumentationen als Teil des Werkes betrachtet und im Museumsraum ausgestellt werden. Andere Land-Art Objekte sind von vorn herein darauf angelegt, die Natur in den Ausstellungsraum zu holen.
+
+*"Ends of the Earth – Land Art bis 1974":http://www.hausderkunst.de/index.php?id=83&no_cache=1&L=0&no_cache=1&tx_ttnews[tt_news]=1622, 11. Oktober 2012 bis 20. Januar 2013, Haus der Kunst, München*
