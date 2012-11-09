@@ -8,7 +8,7 @@ h2. <%= page_title %>
 h3. Aktuell
 
 * Dipl.-Phys. Lars Bähren (Köln, Informatik)
-* Lisa Dieckmann M.A. (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Kunstgeschichte/Informatik)
+* Dr. des. Lisa Dieckmann (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Kunstgeschichte/Informatik)
 * Bettina Hilgert B.A. (Köln, Geschäftsstelle)
 * Hendrikje Hüneke (Giessen, Bildserie)
 * Theresa Nisters M.A. (Köln, Geschäftsstelle)

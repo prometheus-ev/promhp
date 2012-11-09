@@ -8,7 +8,7 @@ h2. <%= page_title %>
 h3. Current
 
 * Dipl.-Phys. Lars Bähren (Cologne, IT)
-* Lisa Dieckmann M.A. (Executive of the project prometheus at the Department of Art History of the University of Cologne, Art History/IT)
+* Dr. des. Lisa Dieckmann (Executive of the project prometheus at the Department of Art History of the University of Cologne, Art History/IT)
 * Bettina Hilgert B.A. (Cologne, Office)
 * Hendrikje Hüneke (Giessen, Image series)
 * Theresa Nisters M.A. (Cologne, Office)
