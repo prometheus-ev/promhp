@@ -14,9 +14,10 @@ title: Land Art
 subtitle: 
 date: 2012/11/07
 repeat: 5 2 1
-teaser: "Die Frage, ob Land Art im Museum pr\xC3\xA4sentiert werden kann, wurde viel diskutiert. "
+teaser: "Die Frage, ob Land Art im Museum pr\xC3\xA4sentiert werden kann, ist viel diskutiert worden. "
 collection: 34042
 ---
-Die Frage, ob Land Art im Museum präsentiert werden kann, wurde viel diskutiert. Die Kunstwerke, die Natur als Material und Raum nutzen, befinden sich oft in abgelegenen und unwirtlichen Gegenden und nehmen nicht selten monumentale Ausmaße an. In gewisser Weise können aber Ideenskizzen und Entwürfe oder fotografische und filmische Dokumentationen als Teil des Werkes betrachtet und im Museumsraum ausgestellt werden. Andere Land-Art Objekte sind von vorn herein darauf angelegt, die Natur in den Ausstellungsraum zu holen.
+Die Frage, ob Land Art im Museum präsentiert werden kann, ist viel diskutiert worden. Die Kunstwerke, die Natur als Material und Raum nutzen, befinden sich oft in abgelegenen und unwirtlichen Gegenden und nehmen nicht selten monumentale Ausmaße an. In gewisser Weise können aber Ideenskizzen und Entwürfe oder fotografische und filmische Dokumentationen als Teil des Werkes betrachtet und im Museumsraum ausgestellt werden. Andere Land-Art Objekte sind von vorn herein darauf angelegt, die Natur in den Ausstellungsraum zu holen.
+Eine Ausstellung in München zeigt nun einen umfassenden Rückblick auf die Entwicklung des Genres.
 
 *"Ends of the Earth – Land Art bis 1974":http://www.hausderkunst.de/index.php?id=83&no_cache=1&L=0&no_cache=1&tx_ttnews[tt_news]=1622, 11. Oktober 2012 bis 20. Januar 2013, Haus der Kunst, München*
