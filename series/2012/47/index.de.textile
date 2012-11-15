@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Francisco de Goya y Lucientes: Kannibalen bei der Zubereitung ihrer Opfer (Ausschnitt), um 1800/1808, \xC3\x96l auf Holz, 32,8 x 46,9 cm, Besancon, Mus\xC3\xA9e des Beaux-Arts et d'Arch\xC3\xA9ologie; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "William Blake: Der gro\xC3\x9Fe rote Drache und die in die Sonne geh\xC3\xBCllte Frau (Ausschnitt), 1806-09, Aquarell, 34,3 x 42 cm, New York, Brookly Museum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Max Ernst: Vom n\xC3\xA4chtlichen Anblick der Porte Saint-Denis ausgel\xC3\xB6ste Vision (Ausschnitt), 1927, \xC3\x96l auf Leinwand, 56 x 81 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Karl Blechen: Pater Medardus (Ausschnitt), 1826, \xC3\x96l auf Leinwand, 33,6 x 27,2 cm, Berlin, Staatliche Museen zu Berlin - Preussischer Kulturbesitz, Nationalgalerie; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Johann Heinrich F\xC3\xBC\xC3\x9Fli: Die drei Hexer (Ausschnitt), 1783, \xC3\x96l auf Leinwand, 65 x 91,5 cm, Z\xC3\xBCrich, Kunsthaus; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Caspar David Friedrich: K\xC3\xBCgelgens Grab (Ausschnitt), 1821/22, \xC3\x96l auf Leinwand, 41,5 x 55,5 cm, Privatsammlung; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf "
+- "Johann Heinrich F\xC3\xBC\xC3\x9Fli: Der Nachtmahr (Ausschnitt), 1781, \xC3\x96l auf Leinwand, 127 x 102 cm, Detroit, The Detroit Institute of Arts;  ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Salvador Dal\xC3\xAC: Traum, verursacht durch den Flug einer Biene, 1944, \xC3\x96l auf Leinwand, 51 x 41 cm, Madrid, Sammlung Thyssen-Bornemisza; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Schwarze Romantik
+subtitle: 
+date: 2012/11/15
+repeat: 3 1 5
+teaser: "Die Faszination am B\xC3\xB6sen, Dunklen und Abgr\xC3\xBCndigen, an der Irrationalit\xC3\xA4t und der Groteske ist ein Aspekt der Romantik, der in Symbolismus und Surrealismus seine Fortsetzung gefunden hat."
+collection: 34289
+---
+Die Faszination am Bösen, Dunklen und Abgründigen, an der Irrationalität und der Groteske ist ein Aspekt der Romantik, der in Symbolismus und Surrealismus seine Fortsetzung gefunden hat. Eine Ausstellung im Frankfurter Städel behandelt die "schwarze Romantik" daher nicht als eine Epoche, sondern versteht sie als europäische Geisteshaltung und widmet sich diesem Aspekt zeitlich und auch geografisch übergreifend. Präsentiert werden unter anderem Werke von Johann Heinrich Füßli, Francisco de Goya, William Blake, Caspar David Friedrich, Salvador Dalí und Max Ernst.
+
+*"Schwarze Romantik. Von Goya bis Max Ernst":http://www.staedelmuseum.de/sm/index.php?StoryID=1463&websiteLang=de, 26. September 2012 bis 20. Januar 2013, Städel Museum, Frankfurt am Main*
