@@ -11,12 +11,12 @@ descriptions:
 - "Salvador Dal\xC3\xAC: Traum, verursacht durch den Flug einer Biene, 1944, \xC3\x96l auf Leinwand, 51 x 41 cm, Madrid, Sammlung Thyssen-Bornemisza; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
 author: "Hendrikje H\xC3\xBCneke"
 title: Schwarze Romantik
-subtitle: 
+subtitle: "Das B\xC3\xB6se in der Kunst"
 date: 2012/11/15
 repeat: 3 1 5
 teaser: "Die Faszination am B\xC3\xB6sen, Dunklen und Abgr\xC3\xBCndigen, an der Irrationalit\xC3\xA4t und der Groteske ist ein Aspekt der Romantik, der in Symbolismus und Surrealismus seine Fortsetzung gefunden hat."
 collection: 34289
 ---
-Die Faszination am Bösen, Dunklen und Abgründigen, an der Irrationalität und der Groteske ist ein Aspekt der Romantik, der in Symbolismus und Surrealismus seine Fortsetzung gefunden hat. Eine Ausstellung im Frankfurter Städel behandelt die "schwarze Romantik" daher nicht als eine Epoche, sondern versteht sie als europäische Geisteshaltung und widmet sich diesem Aspekt zeitlich und auch geografisch übergreifend. Präsentiert werden unter anderem Werke von Johann Heinrich Füßli, Francisco de Goya, William Blake, Caspar David Friedrich, Salvador Dalí und Max Ernst.
+Die Faszination am Bösen, Dunklen und Abgründigen, an der Irrationalität und der Groteske ist ein Aspekt der Romantik, der in Symbolismus und Surrealismus seine Fortsetzung gefunden hat. Eine Ausstellung im Frankfurter Städel behandelt die "schwarze Romantik" daher als ein zeitlich übergreifendes europäisches Phänomen. Präsentiert werden Kunstwerke in einer Bandbreite vom 18. zum 20. Jahrhundert, von Malerei und Skulptur bis zu Fotografie und Film, von Johann Heinrich Füßli bis Salvador Dalí und von Francisco de Goya bis Max Ernst.
 
 *"Schwarze Romantik. Von Goya bis Max Ernst":http://www.staedelmuseum.de/sm/index.php?StoryID=1463&websiteLang=de, 26. September 2012 bis 20. Januar 2013, Städel Museum, Frankfurt am Main*

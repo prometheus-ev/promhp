@@ -11,12 +11,12 @@ descriptions:
 - "Salvador Dal\xC3\xAC: Traum, verursacht durch den Flug einer Biene, 1944, \xC3\x96l auf Leinwand, 51 x 41 cm, Madrid, Sammlung Thyssen-Bornemisza; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
 author: "Hendrikje H\xC3\xBCneke"
 title: Dark Romanticism
-subtitle: 
+subtitle: The evil in the art
 date: 2012/11/15
 repeat: 3 1 5
 teaser: The fascination of the evil, the dark, of irrationality and grotesque is an aspect of Romanticism, which continous in Symbolism and Surrealism.
 collection: 34289
 ---
-The fascination of the evil, the dark, of irrationality and grotesque is an aspect of Romanticism, which continous in Symbolism and Surrealism. Therefore, an exhibition in Frankfurt is dealing with the "dark romanticism" not as an epoch, but as an European phenomenon, not limited to a period. Presented are among others artworks by Johann Heinrich Füßli, Francisco de Goya, William Blake, Caspar David Friedrich, Salvador Dalí and Max Ernst.
+The fascination of the evil, the dark, of irrationality and grotesque is an aspect of Romanticism, which continued in Symbolism and Surrealism. Therefore, an exhibition in Frankfurt is dealing with the "dark romanticism" as an European phenomenon, not limited to a period. Presented are artworks in a range from the 18th to the 20th century, from painting and sculpture to photography and film, from Johann Heinrich Füßli to Salvador Dalí and from Francisco de Goya to Max Ernst. 
 
 *"Dark Romanticism. From Goya to Max Ernst":http://www.staedelmuseum.de/sm/index.php?StoryID=1463&websiteLang=en, 26 September 2012 to 20 January 2013, Städel Museum, Frankfurt*
