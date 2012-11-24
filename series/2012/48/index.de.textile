@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Auguste Rodin: Das eherne Zeitalten (Ausschnitt), 1876-1877, Bronze, 182 cm hoch, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Kuz'ma Petrov-Vodkin: Jungen (Ausschnitt), 1911, \xC3\x96l auf Leinwand, 123 x 157 cm, Russisches Museum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Christian Rohlfs: M\xC3\xA4nnlicher Akt an eine Wand sich lehnend (Ausschnitt), um 1875-80, Feder in Tusche, Dresden, Kupferstichkabinett; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Egon Schiele: Sitzender m\xC3\xA4nnlicher Akt (Ausschnitt), 1910, Kreide, Wasserfarben und K\xC3\xB6rperfarben auf Papier, 152,5 x 150 cm, Wien, Leopold Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Wilhelm von Gloeden: Drei Jungen vor der Mauer, der mittlere an einem Bl\xC3\xBCtenzweig riechend (Ausschnitt), 1880/1910, Fotografie, DAT The Yorck Project, Bild 2088; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Lothar Bechstein: Badende M\xC3\xA4nner (Ausschnitt), 1927, \xC3\x96l auf Leinwand, 205 x 148 cm, Bayerische Staatsgem\xC3\xA4ldesammlungen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Thomas Ruff: nudes alo04 (Ausschnitt), 2001, Fotografie, 112 x 138 cm; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Paul C\xC3\xA9zanne: Badende (Ausschnitt), 1876-1877, \xC3\x96l auf Leinwand, 14 x 19 cm, Privatsammlung; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+author: "Hendrikje H\xC3\xBCneke"
+title: "Nackte M\xC3\xA4nner"
+subtitle: Ein Tabu?
+date: 2012/11/21
+repeat: 1 3 6
+teaser: Die Wiener hatten ihre Schwierigkeiten mit dem Plakat der aktuellen Ausstellung des Leopold Museums.
+collection: 34581
+---
+Die Wiener hatten ihre Schwierigkeiten mit dem Plakat der aktuellen Ausstellung des Leopold Museums. Die drei nackten Männer auf dem Foto der französischen Künstler Pierre & Gilles haben so viel Anstoß erregt, dass die entsprechenden Stellen nun bei der Hälfte aller Plakate mit einem roten Balken überklebt sind. Ist die Darstellung des nackten Mannes, im Gegensatz zum Bild der nackten Frau, immernoch ein Tabu? Gleich zwei österreichische Ausstellungen widmen sich dem männlichen Akt in der Kunst des 19. bis 21. Jahrhunderts.
+
+*"Nackte Männer. Von 1800 bis heute":http://www.leopoldmuseum.org/de/ausstellungen/46/nackte-maenner, 19. Oktober 2012 bis 28. Januar 2013, Leopold Museum, Wien*
+*"Der nackte Mann":http://www.lentos.at/html/de/84.aspx, 26. Oktober 2012 bis 17. Februar 2013, Lentos Kunstmuseum, Linz*
