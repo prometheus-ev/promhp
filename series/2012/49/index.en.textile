@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Natalja Gontscharowa: Selbstportr\xC3\xA4t mit gelben Lilien (Ausschnitt), 1907, \xC3\x96l auf Leinwand, Moskau, Tretjakow-Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Liubov Popova: Malerische Architektonik (Ausschnitt), 1920, \xC3\x96l auf Leinwand, 58 x 44 cm, K\xC3\xB6ln, Museum Ludwig; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Alexandra Exter: Stillleben (Ausschnitt), 1914, \xC3\x96l auf Leinwand, 89 x 72 cm, Ostov Kremlin State Museum Preserve; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Anna Leporskaja: Frau mit Vase (Ausschnitt), 1932 - 34, \xC3\x96l auf Leinwand, 100 x 63 cm, Moskau, Tretjakow Galerie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Warwara Stepanowa: Fabrikdesign, 1924, Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Olga Rosanowa: Friseursalon (Ausschnitt), 1912/14, \xC3\x96l auf Leinwand, 71,1 x 53,5 cm, Moskau, Tretjakow Galerie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Nadeschda Udalzowa: Sitzender Akt (Ausschnitt), 1919, \xC3\x96l auf Leinwand, 70 x 70 cm, Rostow, Staatliches Kunstmuseum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Chaia Kagan: Komposition (Ausschnitt), 1928, \xC3\x96l auf Leinwand, 100 x 55 cm, Moskau, Sammlung Walerij Dudakow und M. K. Kaschuro; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+author: "Hendrikje H\xC3\xBCneke"
+title: Sisters of the Revolution
+subtitle: Women Artists of the Russian Avant-Garde
+date: 2012/11/27
+repeat: 1 2 5
+teaser: "\"The avant-garde was female!\" - according to the announcement of the current exhibition in the Wilhelm-Hack-Museum in Ludwigshafen. "
+collection: 34760
+---
+"The avant-garde was female!" - according to the announcement of the current exhibition in the Wilhelm-Hack-Museum in Ludwigshafen. The reason for that statement is, that the Russian avant-garde had much more female members than the one in France, Italy or Germany. The exhibition is presenting artworks by artists like Alexandra Exter, Natalja Gontscharova, Ljubov Popova, Olga Rosanova, Warwara Stepanova and Nadeshda Udalzova, who should not play the second fiddle to their famous male colleagues Kasimir Malewitsch, Michail Larinow and Wladimir Tatlin. The high quality of the shown works confirms it.
+
+*"Sisters of the Revolution. Women Artists of the Russian Avant-Garde":http://www.wilhelmhack.museum/index.php?id=485, 20. October 2012 to 17. February 2013, Wilhelm-Hack-Museum, Ludwigshafen 
