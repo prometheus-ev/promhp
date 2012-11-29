@@ -17,6 +17,6 @@ repeat: 1 2 5
 teaser: "\"The avant-garde was female!\" - according to the announcement of the current exhibition in the Wilhelm-Hack-Museum in Ludwigshafen. "
 collection: 34760
 ---
-"The avant-garde was female!" - according to the announcement of the current exhibition in the Wilhelm-Hack-Museum in Ludwigshafen. The reason for that statement is, that the Russian avant-garde had much more female members than the one in France, Italy or Germany. The exhibition is presenting artworks by artists like Alexandra Exter, Natalja Gontscharova, Ljubov Popova, Olga Rosanova, Warwara Stepanova and Nadeshda Udalzova, who should not play the second fiddle to their famous male colleagues Kasimir Malewitsch, Michail Larinow and Wladimir Tatlin. The high quality of the shown works confirms it.
+"The avant-garde was female!" - according to the announcement of the current exhibition in the Wilhelm-Hack-Museum in Ludwigshafen. The reason for that statement is, that the Russian avant-garde had much more female members than the one in France, Italy or Germany. That artists like Alexandra Exter, Natalja Gontscharova, Ljubov Popova, Olga Rosanova, Warwara Stepanova and Nadeshda Udalzova should not play the second fiddle to their famous male colleagues Kasimir Malewitsch, Michail Larinow and Wladimir Tatlin, confirms the high quality of the shown artworks.
 
 *"Sisters of the Revolution. Women Artists of the Russian Avant-Garde":http://www.wilhelmhack.museum/index.php?id=485, 20. October 2012 to 17. February 2013, Wilhelm-Hack-Museum, Ludwigshafen 
