@@ -1,0 +1,9 @@
+--- 
+layout: post
+author: Denise
+title: Der prometheus-Adventskalender auf facebook!
+tags: 
+- news
+---
+Dieses Jahr wollen wir Ihnen mit unserem Adventskalender bei Facebook täglich weitere interessante Einblicke in prometheus und angrenzende Bereiche ermöglichen.
+Wir hoffen, dass für Sie alle etwas dabei ist und wünschen Ihnen eine schöne, stimmungsvolle Adventszeit!
