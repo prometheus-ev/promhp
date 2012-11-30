@@ -8,4 +8,5 @@ tags:
 Dieses Jahr wollen wir Ihnen mit unserem Adventskalender bei Facebook täglich weitere interessante Einblicke in prometheus und angrenzende Bereiche ermöglichen.
 Wir hoffen, dass für Sie alle etwas dabei ist und wünschen Ihnen eine schöne, stimmungsvolle Adventszeit!
 
-!<%= r 'files/blog/adventskalender_start.jpg' %>(adventskalender)!:http://www.facebook.com/prometheus.bildarchiv
+!<%= r 'files/blog/adventskalender_startB.jpg' %>(Adventskalender)!:http://www.facebook.com/prometheus.bildarchiv
+
