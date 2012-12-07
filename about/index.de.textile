@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Vom Projekt zum Verein - Die Geschichte von prometheus
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=67
@@ -24,7 +24,7 @@ Fachbereich Design (Dessau): Gestaltung und Konzeption des Bildarchiv (Recherche
 
 h4. Humboldt-Universität zu Berlin:
 
-Kunstwissenschaftliches Seminar: Datenbank imago_diathek, Datenbank der Virtuellen Kunst, Entwicklung der Lernelemente
+Kunstwissenschaftliches Seminar (heute Institut für Kunst- und Bildgeschichte (IKB)): Datenbank imago_diathek, Datenbank der Virtuellen Kunst, Entwicklung der Lernelemente
 
 h4. Justus-Liebig-Universität Gießen:
 
