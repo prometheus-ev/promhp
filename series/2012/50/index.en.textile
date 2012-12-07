@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Franz Marc: Stallungen (Ausschnitt), 1913, \xC3\x96l auf Leinwand, 73,5 x 157,5 cm, New York, Solomon R. Guggenheim Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Pablo Picasso: Karaffe, Krug und Fruchtschale (Ausschnitt), 1909, \xC3\x96l auf Leinwand, 71,8 x 64,6 cm, New York, Solomon R. Guggenheim Museum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Georges Seurat: Paysanne assise dans l'herbe (Ausschnitt), 1883, \xC3\x96l auf Leinwand, 39 x 47 cm, New York: Solomon R. Guggenheim Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Wassily Wassiljewitsch Kandinsky: Bild mit wei\xC3\x9Fem Rand (Ausschnitt), 1913, \xC3\x96l auf Leinwand, 140,03 x 200,3 cm, New York, Solomon R. Guggenheim Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Paul Klee: Parterre / Blumenbeet (Ausschnitt), 1913, \xC3\x96l auf Spanplatte, 29 c 34 cm, New York, Solomon R. Guggenheim Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Paul C\xC3\xA9zanne: Teller mit Pfirsichen (Ausschnitt), 1879-80, \xC3\x96l auf Leinwand, 59,7 x 73,3 cm, New York, Solomon R. Guggenheim Museum; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Robert Delaunay: Saint-Severin Nr.3 (Ausschnitt), 1909-10, \xC3\x96l auf Leinwand, 115 x 89 cm, New York: Solomon R. Guggenheim Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Amedeo Modigliani: Akt mit Halskette (Ausschnitt), 1917, \xC3\x96l auf Leinwand, 73 x 116,7 cm, New York, Solomon R. Guggenheim Museum; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: The Guggenheim-Collection
+subtitle: The development of a collection
+date: 2012/12/07
+repeat: 6 2 4
+teaser: In the year 1937 Solomon R. Guggenheim created in New York a foundation, which was the basis for the now famous collection of the so called Gugggenheim-Museum.
+collection: 34760
+---
+In the year 1937 Solomon R. Guggenheim created in New York a foundation, which was the basis for the now famous collection of the so called Gugggenheim-Museum. Donations and aquisitions expended the inventory. Today there are significant exhibits from Impressionism and Postimpressionism as well as Expressionism and Surrealism. A current exhibition in Berlin includes furthermore art from the 21st century and transforms the review into a plea for the support of temporary art.
+
+*"Visions of Modernity. Immpressionist and Modern Collections from the Guggenheim Foundation":http://www.deutsche-guggenheim.de/index_en.php, 15 November 2012 to 17 February 2013, Deutsche Guggenheim, Berlin*
