@@ -38,6 +38,11 @@ h3. Bibliotheken
 
 * "Lingo":http://lex-lingo.de - ein frei verfügbares System zur linguistisch und statistisch basierten automatischen Indexierung des Deutschen und Englischen. Lingo arbeitet mit einem Wörterbuchmodell, das eine Grundformidentifizierung bzw. -reduktion mit einem Grundformenwörterbuch und einer zugehörigen einfachen Suffixliste realisiert. Lingo verfügt zusätzlich über eine algorithmische Kompositumzerlegung, eine algorithmische und lexikalische Mehrworterkennung sowie eine allgemeine lexikalische Relationierung.
 
+h3. Systemverwaltung
+
+* "Capistrano":http://www.capify.org - ein Open-Source Werkzeug zum Ausführen von Skripten auf mehreren Servern; das Haupteinsatzgebiet ist das Aufsetzen von Internet-Anwendungen. Capistrano erlaubt es das Aufspielen von neuen Versionen einer Internet-Anwendung auf mehreren Servern zu automatisieren, inklusive der Handhabung damit zusammenhängender Aufgaben wie der Anpassung von Datenbanken.
+
+* "Icinga":https://www.icinga.org - ein Open-Source Werkzeug zur Überwachung von Netzwerken und Netzwerkresourcen, welches den Benutzer über Fehler und Wiederherstellungsversuche informiert, sowie Daten zum Laufzeitverhalten bereitstellt. Aufgrund seiner Skalierbarkeit und Flexibilität ist Icinga in der Lage auch komplexe und über viele Orte verteilte Anwendungen zu überwachen.
 
 h3. Web Applications
 

@@ -37,6 +37,11 @@ h3. Libraries
 
 * "Lingo":http://lex-lingo.de - an open source software system for automatic indexing of German language documents. The development was determined by the aspects of flexibility, easy configuration, and different applications.
 
+h3. System administration
+
+* "Capistrano":http://www.capify.org - an open source tool for running scripts on multiple servers; its main use is deploying web applications. It automates the process of making a new version of an application available on one or more web servers, including supporting tasks such as changing databases.
+
+* "Icinga":https://www.icinga.org - an enterprise grade open source monitoring system which keeps watch over networks and any conceivable network resource, notifies the user of errors and recoveries and generates performance data for reporting. Scalable and extensible, Icinga can monitor complex, large environments across dispersed locations.
 
 h3. Web Applications
 
