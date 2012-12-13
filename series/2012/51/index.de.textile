@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Lyonel Feininger: Troistedt / Lehnstedt / Dorf strahlender Sonne (Ausschnitt), 1919, Grafik, Berlin, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Andreas Feininger: New York, Lower Manhattan, von Brooklyn aus gesehen (Ausschnitt), 1940, Fotografie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Lyonel Feininger: Pariser H\xC3\xA4user (Ausschnitt), 1920, Grafik, Berlin, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Andreas Feininger: Mittagszeit auf der 5th Avenue, New York (Ausschnitt), 1950, Fotografie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Lyonel Feininger: Gelmeroda II (Ausschnitt), 1913, Grafik, New York, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Andreas Feininger: New York, RCA-Geb\xC3\xA4ude im Rockefeller Center (Ausschnitt), ca. 1945, Fotografie; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Lyonel Feininger: Der rote Turm (Ausschnitt), 1932, Grafik; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Andreas Feininger: Das Geb\xC3\xA4ude der Stadtverwaltung, Feuerleitern und die Hochbahn (Ausschnitt), 1940, Fotografie, New York, Bonni Benrubi Gallery; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+author: "Hendrikje H\xC3\xBCneke"
+title: Cityscapes
+subtitle: Andreas und Lyonel Feininger
+repeat: 5 2 7
+date: 2012/12/13
+teaser: "Eine Ausstellung in Bayreuth setzt die Arbeiten von Lyonel und Andreas Feininger miteinander in Beziehung. "
+collection: 22559
+---
+Eine Ausstellung in Bayreuth setzt die Arbeiten von Lyonel und Andreas Feininger miteinander in Beziehung. Die Holzschnitte Lyonels, oft mit Darstellungen deutscher Kleinstädte und Dörfer, und die Fotografien der Metropole New York von dessen Sohn Andreas zeigen erstaunliche Parallelen in der Dynamik der Bildkompositionen. Die Arbeiten beider Künstler vermitteln die Faszination urbaner Strukturen.
+
+*"StadtStrukturen. Andreas Feininger: Fotografien. Lyonel Feininger: Druckgraphik":http://www.kunstmuseum-bayreuth.de/aktuelles/, 27. Oktober 2012 bis 20. Januar 2013, Kunstmuseum Bayreuth*
