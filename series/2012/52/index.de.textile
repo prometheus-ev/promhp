@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Carl Spitzweg: Der arme Poet (Ausschnitt), 1839, \xC3\x96l auf Leinwand, 36 x 45 cm, M\xC3\xBCnchen, Neue Pinakothek; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Max Liebermann: Atelier des K\xC3\xBCnstlers (Ausschnitt), 1902, \xC3\x96l auf Leinwand, 68.5 x 82 cm, St. Gallen, Kunstmuseum; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Ernst Ludwig Kirchner: Akte im Atelier / Drei Modelle (Ausschnitt), 1912, \xC3\x96l auf Leinwand, 80,6 x 70,5 cm, Wien, Leopold-Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Henri Matisse: Der K\xC3\xBCnstler und sein Modell. Das Atelier (Ausschnitt), um 1918/21, \xC3\x96l auf Leinwand, 66 x 73 cm, New York, Sammlung Mr. & Mrs. Donald B. Marron; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Pablo Picasso: Ein Maler in seinem Atelier (Ausschnitt), 1928, \xC3\x96l auf Leinwand, 46 x 55 cm, Privatsammlung; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Ren\xC3\xA9 Magritte: So lebt der Mensch (Ausschnitt), 1933, \xC3\x96l auf Leinwand, 100 x 81 cm, Washington, National Gallery of Art; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Max Beckmann: Atelier (Ausschnitt), 1934, Aquarell, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Gerhard Richter: Atelier (Ausschnitt), 1985, \xC3\x96l auf Leinwand, 3 Tafeln je 260 x 200 cm, Berlin, Staatliche Museen zu Berlin, Neue Nationalgalerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+author: "Hendrikje H\xC3\xBCneke"
+title: Das Atelier
+subtitle: Atelierbilder von der Romantik bis zur Gegenwart
+repeat: 5 3 1
+date: 2012/12/22
+teaser: "Die Darstellung des Ateliers verr\xC3\xA4t viel \xC3\xBCber den K\xC3\xBCnstler und seine Selbstwahrnehmung. "
+collection: 35131
+---
+Die Darstellung des Ateliers verrät viel über den Künstler und seine Selbstwahrnehmung. Die diesjährige Große Landesausstellung an der Staatsgalerie Stuttgart präsentiert Atelierbilder aus dem 19. bis 21. Jahrhundert und zeigt verschiedenste Formen der Selbstdarstellung auf. In Spitzwegs "Der arme Poet" wird das Klischee des armen Künstlers vermittelt, der trotz widriger Umstände in seiner Schaffenskraft nicht zu bremsen ist. In Beckmanns Atelierbild scheint die Idee vom kreativen Chaos vorzuherrschen. Und während Liebermann einen repräsentativen Salon mit sittlich gekleidetem Damenbesuch vorstellt, tummeln sich bei Kirchner und Matisse die nackten Modelle in wohnlicher Atmosphäre. 
+
+*"Mythos Atelier. Von Spitzweg bis Picasso, von Giacometti bis Naumann":http://www.staatsgalerie.de/ausstellung/mythosatelier/, 27.10.2012 bis 10.02.2013, Staatsgalerie Stuttgart*
