@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Rudolf Jahns: Akte im Raum / Komposition Nr. 24 (Ausschnitt), 1924, \xC3\x96l auf Leinwand, 91 x 79,5 cm, Hannover, Sprengel-Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Rudolf Jahns: Komposition konstruktiv (Ausschnitt), 1924, Aquarell auf Papier, 28 x 22 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Rudolf Jahns: Schreitende (Ausschnitt), 1927, 92 x 92 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Spiel M / Nr. 63 (Ausschnitt), 1928, Tempera auf Karton, 49,5 x 38 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Fauteuil ou Strapontin (Ausschnitt), 1958, Collage, 11 x 8,5 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Collage mit wei\xC3\x9Fem Quadrat (Ausschnitt), 1958, Collage, 14,8 x 11,9 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Komposition konstruktiv (Ausschnitt), 1962, Kohle auf Papier, 41 x 27,5 cm, Standort unbekannt;  EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Das Tor (Ausschnitte), 1976, 34,5 x 26,3 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Rudolf Jahns
+subtitle: Paper Artworks
+repeat: 2 4 5
+date: 2012/12/29
+teaser: An exhibition in Hannover is showing drawings, prints and collages by Rudolf Jahns.
+collection: 35149
+---
+An exhibition in Hannover is showing drawings, prints and collages by Rudolf Jahns. In presentations of his work the main focus was so far on the paintings of the 1920s. The current exhibition is now presenting the paper artworks by Jahns, who dealt with the possibilities of that graphic techniques in all working periods.
+
+*"Rudolf Jahns. Under the sign of the line. The development of the paper artworks":http://www.sprengel-museum.com/exhibitions/rudolf-jahns-under-the-sign-of-the-line-the-development-of-the-paper-artworks.htm?snr=1, 10. October 2012 to 10. February 2013, Sprengel Museum, Hannover* 

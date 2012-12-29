@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Rudolf Jahns: Akte im Raum / Komposition Nr. 24 (Ausschnitt), 1924, \xC3\x96l auf Leinwand, 91 x 79,5 cm, Hannover, Sprengel-Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Rudolf Jahns: Komposition konstruktiv (Ausschnitt), 1924, Aquarell auf Papier, 28 x 22 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Rudolf Jahns: Schreitende (Ausschnitt), 1927, 92 x 92 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Spiel M / Nr. 63 (Ausschnitt), 1928, Tempera auf Karton, 49,5 x 38 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Fauteuil ou Strapontin (Ausschnitt), 1958, Collage, 11 x 8,5 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Collage mit wei\xC3\x9Fem Quadrat (Ausschnitt), 1958, Collage, 14,8 x 11,9 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Komposition konstruktiv (Ausschnitt), 1962, Kohle auf Papier, 41 x 27,5 cm, Standort unbekannt;  EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Rudolf Jahns: Das Tor (Ausschnitte), 1976, 34,5 x 26,3 cm, Standort unbekannt; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Rudolf Jahns
+subtitle: Papierarbeiten
+repeat: 2 4 5
+date: 2012/12/29
+teaser: Eine Ausstellung in Hannover zeigt Zeichnungen, Druckgrafiken und Collagen von Rudolf Jahns.
+collection: 35149
+---
+Eine Ausstellung in Hannover zeigt Zeichnungen, Druckgrafiken und Collagen von Rudolf Jahns. Bisher lag der Fokus der Präsentation seines Werkes hauptsächlich auf der Malerei der 20er Jahre. In der aktuellen Ausstellung werden nun Papierarbeiten des Künstlers gezeigt, der sich in allen Schaffensphasen mit den Möglichkeiten der grafischen Techniken auseinandersetzte.
+
+*"Rudolf Jahns. Im Zeichen der Linie – Die Entwicklung der Arbeiten auf Papier":http://www.sprengel-museum.de/ausstellungen/rudolf-jahns-im-zeichen-der-linie-die-entwicklung-der-arbeiten-auf-papier.htm?snr=1,10. Oktober 2012 bis 10. Februar 2013, Sprengel Museum, Hannover*
