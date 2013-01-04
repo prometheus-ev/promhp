@@ -165,19 +165,11 @@ module Jekyll
     end
 
     def record_count
-      %Q{<span id="record_count">#{t('more than 820,000', 'mehr als 820.000')}</span>}
+      %Q{<span id="record_count">#{t('more than 950,000', 'mehr als 950.000')}</span>}
     end
 
     def source_count
-      %Q{<span id="source_count">#{t('60', '60')}</span>}
-    end
-
-    def license_count
-      %Q{<span id="license_count">#{t('over 120', 'über 120')}</span>}
-    end
-
-    def user_count
-      %Q{<span id="user_count">#{t('over 11,000', 'über 11.000')}</span>}
+      %Q{<span id="source_count">#{t('almost 70', 'knapp 70')}</span>}
     end
 
     def tagged_posts(tag, num = 0)
