@@ -6,6 +6,7 @@ LIBDIR = File.expand_path('../../_lib', __FILE__)
 
 %w[
   uri
+  albino
 ].each { |lib|
   require lib
 }
