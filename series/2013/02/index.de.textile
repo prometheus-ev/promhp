@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Christian Rohlfs: Br\xC3\xBCcke in Weimar (Ausschnitt), 1888, \xC3\x96l auf Leinwand, Weimar, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Christian Rohlfs: Friedhof in Weimar (Ausschnitt), 1898, \xC3\x96l auf Leinwand, M\xC3\xBCnster, Westf\xC3\xA4lisches Landesmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Christian Rohlfs: Kiefernst\xC3\xA4mme im Sonnenlicht (Ausschnitt), um 1903, \xC3\x96l auf Leinwand, Kiel, Kunsthalle; digiCULT Museen, digiCULT, Kiel "
+- "Christian Rohlfs: Kniender weiblicher Akt (Ausschnitt), 1912, Aquarell, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Christian Rohlfs: Rote D\xC3\xA4cher unter B\xC3\xA4umen (Ausschnitt), 1913, \xC3\x96l auf Leinwand, Karlsruhe, Staatliche Kunsthalle Karlsruhe; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Christian Rohlfs: Der S\xC3\xA4mann (Ausschnitt), um 1921, Tempera auf Leinwand, Dortmund, Galerie W. Utermann; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Christian Rohlfs: Fr\xC3\xBCchtestilleben (Ausschnitt), 1926, Tempera, Essen Museum Folkwang; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Christian Rohlfs: Berge im Schnee (Ausschnitt), 1935, Gouache, M\xC3\xBCnster, Landesmuseum f\xC3\xBCr Kunst und Kulturgeschichte; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Christian Rohlfs
+subtitle: "\xC3\x9Cberw\xC3\xA4ltigend k\xC3\xBChn"
+repeat: 2 4 7
+date: 2013/01/06
+teaser: "Anl\xC3\xA4sslich des 75. Todestages von Christian Rohlfs (1849 - 1938) widmet die Kunsthalle Kiel dem Maler eine Retrospektive."
+collection: 35181
+---
+Anlässlich des 75. Todestages von Christian Rohlfs (1849 - 1938) widmet die Kunsthalle Kiel dem Maler eine Retrospektive. Da die Kunsthalle den größten musealen Bestand des Werkes von Rohlfs  besitzt, kann ein Überblick über alle Schaffensperioden gezeigt werden, beginnend mit den eher impressionistisch orientierten Arbeiten vor und um 1900 bis zu den expressionistischen Werken seiner letzten 20 Lebensjahre. Viele der gezeigten Gemälde sind bisher noch nicht ausgestellt worden.     
+
+*"Überwältigend kühn. Der ganze Rohlfs in Kiel":http://www.kunsthalle-kiel.de/de/ausstellungen/Rohlfs.html, 10. November 2012 bis 17. Februar 2013, Kunsthalle Kiel
