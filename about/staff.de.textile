@@ -11,6 +11,7 @@ h3. Aktuell
 * Dr. des. Lisa Dieckmann (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Kunstgeschichte/Informatik)
 * Bettina Hilgert B.A. (Köln, Geschäftsstelle)
 * Hendrikje Hüneke (Giessen, Bildserie)
+* Dipl.-Inform. Jörg Koch (Köln, Informatik)
 * Theresa Nisters M.A. (Köln, Geschäftsstelle)
 * Dr. Bettina Pfleging (Köln, Social Media Marketing, "Vorstand":<%=r 'about/association/executive-board' %>)
 * Silvia Stark M.A. (Köln, Geschäftsstelle)

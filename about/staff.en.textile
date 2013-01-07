@@ -11,6 +11,7 @@ h3. Current
 * Dr. des. Lisa Dieckmann (Executive of the project prometheus at the Department of Art History of the University of Cologne, Art History/IT)
 * Bettina Hilgert B.A. (Cologne, Office)
 * Hendrikje Hüneke (Giessen, Image series)
+* Dipl.-Inform. Jörg Koch (Cologne, IT)
 * Theresa Nisters M.A. (Cologne, Office)
 * Dr. Bettina Pfleging (Cologne, Social Media Marketing, "Executive Board":<%=r 'about/association/executive-board' %>)
 * Silvia Stark M.A. (Cologne, Office)
