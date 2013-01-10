@@ -1,0 +1,31 @@
+--- 
+layout: post
+author: Lisa
+title: Frohes neues Jahr!
+tags: 
+- news
+---
+Wir wünschen Ihnen einen guten Start in ein glückliches und erfolgreiches Jahr 2013!
+
+Im alten Jahr konnten wir einiges auf den Weg bringen: neben der zusätzlichen "Lizenzierung der Fotografenrechte":<%=r 'blog/rechte-der-fotografen-ueber-vg-bild-kunst-lizenziert' %> über die VG Bild-Kunst haben wir auch das "lokale Nutzungsrecht der Bilder":<%=r 'blog/rechte-der-fotografen-ueber-vg-bild-kunst-lizenziert' %> für die prometheus angeschlossenen, bildergebenden Institutionen erwirkt.
+
+Die Antwort der Miró-Foundation auf die von Ihnen zahlreich unterstützte "Petition":<%=r 'blog/petition-fuer-den-uneingeschraenkten-zugriff-auf-werke-von-joan-miro-fuer-forschung-und-lehre' %> für den weiteren Zugriff auf die Miró-Reproduktionen für Forschung und Lehre steht leider noch aus. Wir stehen diesbezüglich aber in Kontakt mit der VG Bild-Kunst und werden Sie informieren, sobald es Neuigkeiten gibt. Ein "erneutes Dankeschön":<%=r 'blog/herzlichen-dank-fuer-ihre-unterstuetzung' %> an die vielen Unterzeichner im letzten Jahr!
+
+Neben dem von der DFG bewilligten Projekt "Das digitale Historische Archiv Köln":<%=r 'projects/dhastk' %> wurde auch die Fortführung des Projekts "Meta-Image":<%=r 'projects/meta-image' %> für ein drittes Jahr zugesagt. Spannende Entwicklungen erwarten uns also im neuen Jahr. 
+
+Aber auch für das Bildarchiv selbst haben wir uns für 2013 einiges vorgenommen: in Kürze werden wir die Favoritenleiste freischalten, so dass Sie einzelne Bilder, Suchen, Bildsammlungen, Präsentationen für den Schnellzugriff in der Seitenleiste ablegen können. Hier schon mal ein kurzer Einblick in unsere Entwicklungsversion:
+ 
+!(bordered-image)<%=r 'files/blog/seitenleiste.jpg' %>(Screenshot: Schnellzugriff über Favoritenleiste)!
+
+Zudem werden wir eine von vielen Nutzerinnen und Nutzern gewünschte Objektsuche integrieren, die in der Trefferanzeige zusammengehörige Bilder zu Objekten gruppiert. Auch hier schon mal ein kurzer Einblick:
+
+!(bordered-image)<%=r 'files/blog/objektsuche.jpg' %>(Screenshot: Objektsuche)! 
+
+Selbstverständlich widmen wir uns 2013 auch weiterhin der Integration von neuen und interessanten Datenbanken und der Weiterentwicklung von Funktionalitäten. Zudem planen wir eine Tagung zum Kulturellen Erbe. Alle Neuigkeiten gibt es wie immer über "Facebook":http://facebook.com/prometheus.bildarchiv, "Twitter":http://twitter.com/prometheus_eV, etc.! 
+
+Wir freuen uns jedenfalls auf ein spannendes prometheus-Jahr 2013, das Sie gerne mit Ihren Wünschen, Kritik und Anregungen mitgestalten dürfen. Bis dahin verbleiben wir mit herzlichen Grüßen
+
+Ihr "prometheus Team":<%=r 'about/staff' %>
+
+
+
