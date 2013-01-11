@@ -1,0 +1,13 @@
+--- 
+layout: post
+author: Lisa
+title: Bedeutende Zeichnungen und Drucke integriert
+tags: 
+- news
+- databases
+---
+Zwei historische Bestände hat die Universitätsbibliothek Erlangen-Nürnberg zur Einbindung in prometheus zur Verfügung gestellt: es handelt sich um die "Zeichnungen der Graphischen Sammlung":<%=p 'source/show/erlangen_zeichnungen' %> und die "Sammlung der Einblattdrucke":<%=p 'source/show/erlangen_drucke' %>. Wie beim bpk (Bildportal der Kunstmuseen - ehemals Bildarchiv Preußischer Kulturbesitz) kann die Publikationsgenehmigung für die Abbildungen beider Datenbanken direkt über prometheus eingeholt werden.
+
+Die Graphische Sammlung der Universität Erlangen-Nürnberg gilt als einziges unversehrt erhaltenes Zeugnis der großen Nürnberger Kunstsammlertradition. Sie umfasst 1700 Handzeichnungen, 4000 Kupferstiche und Radierungen sowie 1000 Holzschnitte des 14. bis frühen 18. Jahrhunderts. Neben Albrecht Dürer, der mit mehreren Zeichnungen und zahlreichen Graphiken vertreten ist, finden sich auch Blätter aller bedeutenden Künstler dieser Epoche. In prometheus wird der Bestand sukzessive eingestellt.
+
+Bei den 550 Einblattdrucken handelt es sich um einen heterogenen Bestand: Flugblätter machen den größten Teil aus, hinzu kommen Kalenderblätter, Reformatorenportäts, etc. Der Schwerpunkt der Sammlung liegt auf dem 16. und 17. Jahrhundert.
