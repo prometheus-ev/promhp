@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Marc Chagall: Die Bibel von Chagall, Titelbild, 1956, Lithographie auf B\xC3\xBCtten, Hamburg, Museum f\xC3\xBCr Kunst und Gewerbe; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Marc Chagall: Widerstand, 1937/48, \xC3\x96l auf Leinwand, Mus\xC3\xA9e National d'Art Moderne - Centre Georges Pompidou, Leihgabe Mus\xC3\xA9e National Message Biblique Marc Chagall, Nizza; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Marc Chagall: Kreuzabnahme, 1968-76, \xC3\x96l auf Leinwand, Nizza, Mus\xC3\xA9e Message Biblique Marc Chagall; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Marc Chagall: Abraham will seinen Sohn opfern, 1931, \xC3\x96l und Gouache auf Leinwand, Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Marc Chagall: Christus am blauen Himmel, 1949-50, Gouache, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Marc Chagall: Heilige Familie, 1950, Gouache, Ludwigshafen, Wilhelm-Hack-Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Marc Chagall: Der Kampf mit dem Engel, Jakobsfenster im Fraum\xC3\xBCnster in Z\xC3\xBCrich, 1970, Glasmalerei; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Marc Chagall: Der Traum Jakobs, Mittelfenster im Ostchor von Sankt Stephan, ab 1978, Glasmalerei; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+author: "Hendrikje H\xC3\xBCneke"
+title: Marc Chagall
+subtitle: Scenes of the Bible
+repeat: 2 6 1
+date: 2013/01/13
+teaser: "In paintings, drawings and prints, on glass and on ceramics Marc Chagall processes scenes from the Bible. "
+collection: 35274
+---
+In paintings, drawings and prints, on glass and on ceramics Marc Chagall processes scenes from the Bible. The fantastical pictures by the painter, who had grown up in Russia in a Jewish family, connect his personal wealth of experiences with traditional Christian images. Chagalls design for glass windows for big churches in France, England and Germany, got famous.
+
+This week ended an exhibition, which gave a broad view on that topic with about 140 exhibits.
+
+*"Marc Chagall und die Bibel":http://www.kunstmuseum-picasso-muenster.de/en/chagall-und-die-bibel/, October 6, 2012 to February 13,  2013, Kunstmuseum Pablo Picasso, Münster* 
