@@ -7,7 +7,6 @@ h2. <%= page_title %>
 
 h3. Aktuell
 
-* Dipl.-Phys. Lars Bähren (Köln, Informatik)
 * Dr. des. Lisa Dieckmann (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Kunstgeschichte/Informatik)
 * Bettina Hilgert B.A. (Köln, Geschäftsstelle)
 * Hendrikje Hüneke (Giessen, Bildserie)
@@ -21,6 +20,7 @@ h3. Aktuell
 h3. Ehemalige
 
 * Kerstin Albrecht M.A. (Dessau, Design)
+* Dipl.-Phys. Lars Bähren (Köln, Informatik)
 * Sebastian Beßler (Köln, Informatik)
 * Thomas Bodo Block (Köln, Informatik)
 * Dr. Stefan Brenne (Giessen, Archäologie » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
