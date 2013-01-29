@@ -15,7 +15,6 @@ h3. Current
 * Dr. Bettina Pfleging (Cologne, Social Media Marketing, "Executive Board":<%=r 'about/association/executive-board' %>)
 * Silvia Stark M.A. (Cologne, Office)
 * Denise Trump B.A. (Cologne, Office)
-* Dipl.-Bibl. Jens Wille (Cologne, IT)
 
 h3. Former
 
@@ -49,3 +48,4 @@ h3. Former
 * Prof. Dr. Manfred Thaller (Cologne, Historic-cultural scientific information processing)
 * Dr. Ute Verstegen (Cologne, Project coordination » currently: "Executive Board":<%=r 'about/association/executive-board' %>)
 * Katja Vierk (Cologne, Office)
+* Dipl.-Bibl. Jens Wille (Cologne, IT)

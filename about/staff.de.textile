@@ -15,7 +15,6 @@ h3. Aktuell
 * Dr. Bettina Pfleging (Köln, Social Media Marketing, "Vorstand":<%=r 'about/association/executive-board' %>)
 * Silvia Stark M.A. (Köln, Geschäftsstelle)
 * Denise Trump B.A. (Köln, Geschäftsstelle)
-* Dipl.-Bibl. Jens Wille (Köln, Informatik)
 
 h3. Ehemalige
 
@@ -49,3 +48,4 @@ h3. Ehemalige
 * Prof. Dr. Manfred Thaller (Köln, Historisch-Kulturwissenschaftliche Informationsverarbeitung)
 * Dr. Ute Verstegen (Köln, Projektkoordination » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
 * Katja Vierk (Köln, Geschäftsstelle)
+* Dipl.-Bibl. Jens Wille (Köln, Informatik)
