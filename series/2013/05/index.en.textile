@@ -1,0 +1,25 @@
+--- 
+layout: series
+descriptions: 
+- "Max Ernst: \xC3\x9Cber die Wolken gleitet die Mitternacht. \xC3\x9Cber der Mitternacht schwebt unsichtbar der Morgenvogel. Ein wenig h\xC3\xB6her als der Morgenwind wohnt der \xC3\x84ther. Dort schwimmen die Mauern und D\xC3\xA4cher (Ausschnitt), 1920, Collage mit Fototeilen und Bleistift, 18,4 x 13 cm, Schweiz, K\xC3\xBCsnacht, Privatbesitz; RUDI, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg "
+- "Max Ernst: Les cormorans (Ausschnitt), 1920, Collage mit Fototeilen und Tusche \xC3\xBCbergangen, 15,5 x 13 cm, Privatbesitz; RUDI, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg "
+- "Max Ernst: Ubu Imperator (Ausschnitt), 1923, \xC3\x96l auf Leinwand, Paris, Centre Pompidou;  ArtICON, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Max Ernst: Die heilige C\xC3\xA4cilie / Das unsichtbare Klavier (Ausschnitt), 1923, \xC3\x96l auf Leinwand, 101 x 82 cm, Stuttgart, Staatsgalerie; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin "
+- "Max Ernst: Piet\xC3\xA0 oder die Revolution bei Nacht (Ausschnitt), 1923, \xC3\x96l auf Leinwand, 116 x 89 cm, London, Tate Gallery; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Max Ernst: Die ganze Stadt (Ausschnitt), 1935/36, \xC3\x96l auf Leinwand, 60 x 81cm, Z\xC3\xBCrich, Kunsthaus; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Max Ernst: Arbre solitaire et arbre conjugaux / lediger Baum und verm\xC3\xA4hlte B\xC3\xA4ume (Ausschnitt), 1940, \xC3\x96l auf Leinwand, 81,5 x 100,5 cm, Madrid, Fundaci\xC3\xB3n Colleci\xC3\xB3n Thyssen-Bornemisza; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte "
+- "Max Ernst: Die Versuchung des heiligen Antonius (Ausschnitt), 1945, \xC3\x96l auf Leinwand, 108 x 128 cm, Duisburg, Wilhelm-Lehmbruck-Museum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+author: "Hendrikje H\xC3\xBCneke"
+title: Max Ernst
+subtitle: Retrospective
+repeat: 2 5 6
+date: 2013/01/25
+teaser: Concerning material, techniques and themes the work of Max Ernst is divers.
+collection: 35496
+---
+Concerning material, techniques and themes the work of Max Ernst is divers. The Dadaist and Surrealist created paintings, graphics and book illustration as well as sculptures. He discovered for himself different techniques like collage, frottage, grattage and décalcomanie, hoping they might help to stimulate the visionary talents of the mind.
+
+A retrospective in the Albertina is devoting 180 exhibits from all work phases, analyzing them in a biographical and historical context.
+
+*"Max Ernst. Retrospektive":http://www.albertina.at/jart/prj3/albertina/main.jart?rel=en&reserve-mode=active&content-id=1202307119260&ausstellungen_id=1313041137170, 23 January to 5 May 2013, Albertina, Wien* 
+
