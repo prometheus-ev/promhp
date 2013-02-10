@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Alberto Giacometti: Boule suspendue (Detail), 1930/31, Holz, Eisen, Seil, 61 x 37 x 34cm, Paris, Musee national d'art moderne (Centre national d'art et de culture Georges Pompidou); Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Alberto Giacometti: Projet pou une place (Detail), 1931/32, Holz, 20 x 32 x 23cm, Venedig, Peggy Guggenheim Collection; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Alberto Giacometti: La Table surr\xC3\xA9aliste (Detial), 1933, Bronze, 149 x 104 x 43cm, Paris, Centre Pompidou; ArtICON, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Alberto Giacomatti: Entwurf f\xC3\xBCr ein Monument f\xC3\xBCr Gabriel P\xC3\xA9ri (Detail), 1946, Gips, Luxemburg, Sammlung Grenet; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Alberto Giacometti: Le nez (Detail), 1947, Bronze, Draht, Seil und Stahl, 81 x 39,1 x 48,3cm, New York, Salomon R. Guggenheim Museum; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf "
+- "Alberto Giacometti: Piazza (Detail), 1947/48, Bronze, 21 x 63 x 43cm, Venedig, Peggy Guggenheim Collection; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Alberto Gicometti: Dreier M\xC3\xA4nnergruppe I (Detail), 1948/49, Bronze, 150 x 40 x 40cm, Paris, Galerie Maeght; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Alberto Giacometti: L'homme qui chaivre (Detail), 1950, Bronze, 60 x 14 x 32,5cm, Paris, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Alberto Giacometti
+subtitle: Raumkonzepte
+date: 2013/02/10
+repeat: 1 5 8
+teaser: "Das Werk von Alberto Giacometti wird aktuell in zwei Hamburger Ausstellungen gew\xC3\xBCrdigt."
+collection: 35736
+---
+Das Werk von Alberto Giacometti wird aktuell in zwei Hamburger Ausstellungen gewürdigt. Während sich die Ausstellung im Bucerius Kunst Forum den Porträts widmet, beschäftigt sich die Präsentation in der Kunsthalle mit Raumvorstellungen im Werk Giacomettis. Bekannt sind vor allem die Plastiken, in denen mehrere der typisch überlängten Figuren auf einer Plinthe - wie auf einem Spielfeld - arrangiert sind. Die Ausstellung möchte aber darüber hinaus die Bedeutung des surrealistischen Frühwerks für die Raumkonzepte Giacomettis hervorheben. 
+
+*"Giacometti. Die Spielfelder":http://hamburger-kunsthalle.de/index.php/Giacometti.html, 25. Januar bis 19. Mai 2013, Kunsthalle, Hamburg 
+
+"Alberto Giacometti. Begegnungen":http://www.buceriuskunstforum.de/ausstellung/alberto-giacometti-begegnungen/?cHash=e34759d2fa5fcdbb4d298ea1e8833a4b, 26. Januar bis 20. Mai 2013, Bucerius Kunst Forum, Hamburg*
