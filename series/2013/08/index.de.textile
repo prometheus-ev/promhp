@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Theodor Kalide: Bacchantin auf dem Panther (Detail), 1844-48, Marmor, 71 cm, Staatliche Museen zu Berlin, National-Galerie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Christian Daniel Rauch: Frau von Maltzahn (Detail), 1816/23, Marmor, 77 cm, Staatliche Museen zu Berlin, National-Galerie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Johann Gottfried Schadow: Doppelstandbild der Prinzessinnen Luise und Friederike von Preu\xC3\x9Fen (Detail), 1797, Marmor, Berlin, Staatliche Museen - Preu\xC3\x9Fischer Kulturbesitz; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+- "Johann Friedrich Drake: Christian Daniel Rauch (Detail), 1851-64, Marmor, Berlin, Altes Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Julius Troschel: Ruhendes M\xC3\xA4dchen (Detail), 1860, Marmor, 99cm hoch, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Christian Daniel Rauch: Sarkophag der K\xC3\xB6nigin Luise (Detail), 1811-14, Marmor, Berlin, Stiftung Preu\xC3\x9Fische Schl\xC3\xB6sser und G\xC3\xA4rten Berlin-Brandenburg, Schlo\xC3\x9F Charlottenburg, Mausoleum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Christian Friedrich Tieck: Karl Friedrich Schinkel (Detail), 1819, Marmor, 67 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Rudolf Schadow: Spinnerin (Detail), 1817, Marmor, 125 cm hoch, K\xC3\xB6ln, Wallraf-Richartz-Museum & Fondation Corboud; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+author: "Hendrikje H\xC3\xBCneke"
+title: Skulpturen der Friedrichwerderschen Kirche
+subtitle: "In der Neuen Nationalgalerie "
+date: 2013/02/11
+repeat: 3 6 8
+teaser: Von 1987 bis 2012 hat die Friedrichwerdersche Kirche in Berlin ein bedeutendes Ensemble von Skulpturen des 19. Jahrhunderts beherbergt.
+collection: 35725
+---
+Von 1987 bis 2012 hat die Friedrichwerdersche Kirche in Berlin ein bedeutendes Ensemble von Skulpturen des 19. Jahrhunderts beherbergt. Nachdem die von Karl Friedrich Schinkel entworfene Kirche im letzten Jahr wegen Bauschädigungen geschlossen werden musste, werden die Skulpturen von Bildhauern wie Johann Gottfried Schadow und Christian Daniel Rauch nun für ein halbes Jahr in der Neuen Nationalgalerie ausgestellt. In diesem Museumsbau von Mies van der Rohe erscheinen die Skulpturen nocheinmal in ganz neuem Licht, bevor sie vorerst nicht mehr als Ensemble öffentlich zu sehen sein werden.
+
+*"Im weißen Licht. Skulpturen aus der Friedrichwerderschen Kirche in der Neuen Nationalgalerie, Neue Nationalgalerie":http://www.smb.museum/smb/kalender/details.php?objID=41459&lang=de, 8. Februar bis 28. Juli 2013, Neue Nationalgalerei, Berlin* 
