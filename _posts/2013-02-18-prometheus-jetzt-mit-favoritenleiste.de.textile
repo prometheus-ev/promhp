@@ -7,11 +7,11 @@ tags:
 ---
 Wie zu Beginn des Jahres angekündigt können Sie jetzt den Schnellzugriff auf häufig verwendete Bilder, Bildsammlungen und Präsentationen über eine persönliche Favoritenleiste nutzen. Probieren Sie's doch einmal aus!
 
-!(bordered-image)<%=r 'files/blog/box03.de.png' %>(Screenshot: Ansicht Favoritenleiste)!
+!(bordered-image)<%=r 'files/images/box03.de.png' %>(Screenshot: Ansicht Favoritenleiste)!
 
-Mit nur einem Mausklick können Sie über den Button !(bordered-image)<%=r 'files/blog/add_to_sidebar.png' %>(Screenshot: In Favoritenleiste ablegen)! eine Verknüpfung auf das gewünschte Bild aus der Trefferliste, Ihre Bildsammlung zum aktuellen Thema oder die entsprechende Präsentation in Ihrer Favoritenleiste ablegen. Die einzelnen Objekte werden als Boxen dargestellt, die Sie ein- und ausklappen können. Nach dem nächsten Login können Sie dann ohne erneute Suchanfrage oder Navigation über das Menü direkt und unkompliziert auf die Boxen zugreifen und mit den benötigten Bildern arbeiten.
+Mit nur einem Mausklick können Sie über den Button !(bordered-image)<%=r 'files/images/add_to_sidebar.png' %>(Screenshot: In Favoritenleiste ablegen)! eine Verknüpfung auf das gewünschte Bild aus der Trefferliste, Ihre Bildsammlung zum aktuellen Thema oder die entsprechende Präsentation in Ihrer Favoritenleiste ablegen. Die einzelnen Objekte werden als Boxen dargestellt, die Sie ein- und ausklappen können. Nach dem nächsten Login können Sie dann ohne erneute Suchanfrage oder Navigation über das Menü direkt und unkompliziert auf die Boxen zugreifen und mit den benötigten Bildern arbeiten.
 
-!(bordered-image)<%=r 'files/blog/box05.de.png' %>(Screenshot: Vergrößern der Box)!
+!(bordered-image)<%=r 'files/images/box05.de.png' %>(Screenshot: Vergrößern der Box)!
 
 Ihre Favoritenleiste bleibt konstant erhalten, unabhängig davon, welche Funktion des Bildarchivs Sie gerade nutzen. Und wenn Sie nach getaner Arbeit ein Objekt aus der Favoritenleiste entfernen möchten, braucht es wieder nur einen Klick und die entsprechende Box wird aus der Seitenleiste gelöscht - Bildsammlungen und Präsentationen bleiben in Ihrer persönlichen Liste natürlich weiterhin bestehen.
 
