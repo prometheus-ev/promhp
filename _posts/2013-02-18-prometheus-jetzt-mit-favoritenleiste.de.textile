@@ -15,4 +15,4 @@ Mit nur einem Mausklick können Sie über den Button !(bordered-image)<%=r 'file
 
 Ihre Favoritenleiste bleibt konstant erhalten, unabhängig davon, welche Funktion des Bildarchivs Sie gerade nutzen. Und wenn Sie nach getaner Arbeit ein Objekt aus der Favoritenleiste entfernen möchten, braucht es wieder nur einen Klick und die entsprechende Box wird aus der Seitenleiste gelöscht - Bildsammlungen und Präsentationen bleiben in Ihrer persönlichen Liste natürlich weiterhin bestehen.
 
-Weitere Informationen finden Sie in unseren "Hilfeseiten":<%=p 'http://prometheus.uni-koeln.de/pandora/help/sidebar' %>.
+Weitere Informationen finden Sie in unseren "Hilfeseiten":<%=p 'help/sidebar' %>.
