@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Heinrich Maria Davringhausen: M\xC3\xA4nnliches Portr\xC3\xA4t, 1912-13, \xC3\x96l auf Leinwand; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Heinrich Maria Davringhausen: Kathedrale in Lourdes, 1916, \xC3\x96l auf Leinwand; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Heinrich Maria Davringhausen: Weiblicher Akt in Architekturen, 1916, \xC3\x96l auf Leinwand; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Heinrich Maria Davringhausen: Negerm\xC3\xA4dchen II, 1916, \xC3\x96l auf Leinwand; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Heinrich Maria Davringhausen: Die Dirne, 1921, \xC3\x96l auf Leinwand; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Heinrich Maria Davringhausen: Interieur, 1937-38, \xC3\x96l auf Leinwand; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Heinrich Maria Davringhausen: Ohne Titel, 1949, \xC3\x96l auf Leinwand; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Heinrich Maria Davringhausen: Ohne Titel, 1949, \xC3\x96l auf Pappe; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Davringhausen
+subtitle: All work phases
+repeat: 3 6 8
+date: 2013/02/23
+teaser: An exhibition in the August-Macke-Haus in Bonn is dedicated to the art works by Heinrich Maria Davringhausen (1894 - 1970)
+collection: 35840
+---
+An exhibition in the August-Macke-Haus in Bonn is dedicated to the art works by Heinrich Maria Davringhausen (1894 - 1970). They are presenting not only his figurative paintings of the 1920s, but also some of the few preserved early works and such of the surrealist and abstract late work, which is not widely known in Germany.
+
+*"Heinrich M. Davringhausen. From Expressionism to Neue Sachlichkeit":http://www.august-macke-haus.de/01e_version/index3.htm, 6 February – 2 June 2013, August-Macke-Haus, Bonn*
