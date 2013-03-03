@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Jacopo da Pontormo: Heiliger Antonius als Abt (Ausschnitt), 1519/1520, \xC3\x96l auf Leinwand, 78 x 66 cm, Florenz, Galleria degli Uffizi; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Jacopo da Pontormo: Heilige Anna Selbtritt mit vier Heiligen (Ausschnitt), vor 1529, \xC3\x96l auf Holz, 228 x 176 cm, Paris, Louvre; ArtICON, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Jacopo da Pontormo: Portrait eines Graveurs (Ausschnitt), 1517/1518, \xC3\x96l auf Holz, 70 x 53 cm, Paris, Louvre; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Jacopo da Pontormo: Maria Salviati mit ihrem Sohn Cosimo de Medici (Ausschnitt), um 1537, \xC3\x96l auf Holz, 88 x 71,3 cm, Walters Art Gallery, Baltimore; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Jacopo da Pontormo: Maria mit Jesus und Johannes (Ausschnitt), 1528/1529, \xC3\x96l auf Holz, 89 x 74 cm, Florenz, Galleria degli Uffizi; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Jacopo da Pontormo: Heiliger Quentin (Ausschnitt), 1517/1518, \xC3\x96l auf Leinwand, 150 x 100 cm, Sansepolcro, Pinacoteca comunale; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Jacopo da Pontormo: Cosimo Pater Patriae (Ausschnitt), 1518/1519, \xC3\x96l auf Holz, 90 x 72 cm,Florenz, Galleria degli Uffizi; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Jacopo da Pontormo: Hieronymus (Ausschnitt), 1527/1528, \xC3\x96l auf Holz, 105 x 80 cm, Hannover, Nieders\xC3\xA4chsisches Landesmuseum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+author: "Hendrikje H\xC3\xBCneke"
+title: Jacopo da Pontormo
+subtitle: ...and his Saint Jerome
+repeat: 3 5 7
+date: 2013/03/03
+teaser: In the main focus of an exhibition on Jacopo da Pontormo is his extraordinary painting showing saint Jerome.
+collection: 35899
+---
+In the main focus of an exhibition on Jacopo da Pontormo (1494-1557) is his extraordinary painting showing saint Jerome. The Florentine painter showed Saint Jerome as a squirming penitent. In the background there is only a lion. According to legend the lion got tame, after Saint Jerome had relieved him of a thorn in the paw.
+The exhibition in Hannover is giving insights into the working process of this and other paintings. The show is complemented with paintings of the Pontormo follower Agnolo Bronzino.
+
+*"Pontormo. Masterpieces of Manierism in Florence":http://www.landesmuseum-hannover.niedersachsen.de/portal/live.php?navigation_id=32239&article_id=111733&_psmand=183, 27 January to 5 May 2013, Landesmuseum Hannover*
