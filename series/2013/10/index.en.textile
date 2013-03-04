@@ -2,7 +2,7 @@
 layout: series
 descriptions: 
 - "Jacopo da Pontormo: Heiliger Antonius als Abt (Ausschnitt), 1519/1520, \xC3\x96l auf Leinwand, 78 x 66 cm, Florenz, Galleria degli Uffizi; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
-- "Jacopo da Pontormo: Heilige Anna Selbtritt mit vier Heiligen (Ausschnitt), vor 1529, \xC3\x96l auf Holz, 228 x 176 cm, Paris, Louvre; ArtICON, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Jacopo da Pontormo: Heilige Anna Selbdritt mit vier Heiligen (Ausschnitt), vor 1529, \xC3\x96l auf Holz, 228 x 176 cm, Paris, Louvre; ArtICON, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
 - "Jacopo da Pontormo: Portrait eines Graveurs (Ausschnitt), 1517/1518, \xC3\x96l auf Holz, 70 x 53 cm, Paris, Louvre; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
 - "Jacopo da Pontormo: Maria Salviati mit ihrem Sohn Cosimo de Medici (Ausschnitt), um 1537, \xC3\x96l auf Holz, 88 x 71,3 cm, Walters Art Gallery, Baltimore; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
 - "Jacopo da Pontormo: Maria mit Jesus und Johannes (Ausschnitt), 1528/1529, \xC3\x96l auf Holz, 89 x 74 cm, Florenz, Galleria degli Uffizi; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
