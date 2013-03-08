@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Martin Kippenberger: Berlin bei Nacht (Ausschnitt), 1982, \xC3\x96l auf Leinwand, dreiteilig, 60 x 50 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Martin Kippenberger: Ich kann beim besten Willen kein Hakenkreuz entdecken (Ausschnitt), 1984, \xC3\x96l und Silikon auf Leinwand, 160 x 133cm; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Martin Kippenberger: Zuerst die F\xC3\xBC\xC3\x9Fe (Ausschnitt), 1990, Holz, 130 x 110 x 22 cm, Museum of Modern Art, New York; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Martin Kippenberger: Einer von Euch, unter Euch, mit Euch (Ausschnitt), 1979, Offsetlithographie auf Papier, 59,5 x 42 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Martin Kippenberger: Alkoholfolter (eines von zwei Teilen / Ausschnitt), 1981, \xC3\x96l auf Leinwand, 50 x 60 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Martin Kippenberger: Einladungskarte zur Ausstellung \xE2\x80\x9CHelmut Newton f\xC3\xBCr Arme\xE2\x80\x9D. Selbstbeschmutzende Nestw\xC3\xA4rme - bis \xE2\x80\x9884 (Ausschnitt), 1984, Fotografie; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Martin Kippenberger: Martin, ab in die Ecke und sch\xC3\xA4m dich (Ausschnitt), 1989, Collage, Z\xC3\xBCrich, Sammlung Doris Ammann; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Martin Kippenberger: Sympathische Kommunistin (Ausschnitt), 1983, \xC3\x96l und Lack auf Leinwand, 180 x 150 cm; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+author: "Hendrikje H\xC3\xBCneke"
+title: Kippenberger
+subtitle: An exhibitionist
+repeat: 3 5 7
+date: 2013/03/08
+teaser: Self-expression is an essential element of the art by Martin Kippenberger.
+collection: 35952
+---
+Self-expression is an essential element of the art by Martin Kippenberger. An exhibition in the Hamburger Bahnhof tries to fathom the private and public person of the artist, who died in 1997. Kippenberger always provoked, for example with the series „Lieber Maler, Male mir“ (1981), the large-format paintings of which he ordered from a movie poster painter, or with the sculpture „Zuerst die Füße“ (1990), which shows a frog on the cross. Irony and cynicism are part of his self-portraits too, like in the sculpture „Martin, ab in die Ecke und schäm dich“, made in 1989.
+
+*"Martin Kippenberger: sehr gut / very good":http://www.hamburgerbahnhof.de/exhibition.php?id=39503&lang=en, 23 February to 18 August 2013, Hamburger Bahnhof*
