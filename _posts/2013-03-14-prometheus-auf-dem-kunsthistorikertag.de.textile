@@ -1,0 +1,14 @@
+--- 
+layout: post
+author: t.nisters
+title: prometheus auf dem Kunsthistorikertag!
+tags: 
+- news
+---
+Vom 20. bis 23.3.2013 wird prometheus auf dem 32. Deutschen Kunsthistorikertag in Greifswald vertreten sein. 
+Herzlich laden wir Sie ein, an unserem Stand vorbeizuschauen! Wir informieren Sie über die neue Favoritenleiste und freuen uns auf interessante Gespräche. Natürlich stehen wir Ihnen auch gerne für Fragen und Anregungen zur Verfügung. 
+Ausgerichtet wird der Kunsthistorikertag in desem Jahr vom Caspar-David-Friedrich-Institut der Universität Greifswald und findet im Universitätshauptgebäude statt. Sie finden uns hier:
+
+<a href="<%=r "files/images/Ausstellungsplan_CIHA_2012.jpg" %>"><img src="<%=r "files/images/Ausstellungsplan_CIHA_2012_small.jpg" %>" /></a>
+
+
