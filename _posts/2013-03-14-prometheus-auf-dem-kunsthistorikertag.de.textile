@@ -9,7 +9,7 @@ Vom 20. bis 23.3.2013 wird prometheus auf dem 32. Deutschen Kunsthistorikertag i
 Herzlich laden wir Sie ein, an unserem Stand vorbeizuschauen! Wir informieren Sie über die neue "Favoritenleiste":<%=p 'http://prometheus-bildarchiv.de/blog/prometheus-jetzt-mit-favoritenleiste' %> und freuen uns auf interessante Gespräche. Natürlich stehen wir Ihnen auch gerne für Fragen und Anregungen zur Verfügung. 
 Ausgerichtet wird der Kunsthistorikertag in desem Jahr vom Caspar-David-Friedrich-Institut der Universität Greifswald und findet im Universitätshauptgebäude statt. Sie finden uns hier:
 
-<a href="<%=r "files/images/Kunsthistorikertag Ausstellerplan.jpg" %>"><img src="<%=r "files/images/Kunsthistorikertag Ausstellerplan.jpg" %>" /></a>
+<a href="<%=r "files/images/Kunsthistorikertag Ausstellerplan.jpg" %>"><img src="<%=r "files/images/Kunsthistorikertag Ausstellerplan_small.jpg" %>" /></a>
 
 Weitere Informationen zum Kunsthistorikertag finden Sie auf der "Homepage":<%=p 'http://www.kunsthistoriker.org/kunsthistorikertag.html' %>
 
