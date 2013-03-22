@@ -1,0 +1,8 @@
+--- 
+layout: post
+author: Lisa
+title: prometheus-Bildserie jetzt auch im Newsletter kulturimweb.net
+tags: 
+- news
+---
+Ab jetzt gibt's einen Verweis auf unsere wöchentliche "Bildserie":http://prometheus-bildarchiv.de/series/2013/12/ im neuen Newsletter "kulturimweb.net":http://kulturimweb.net, der Neuigkeiten zur Digitalisierung, zu Social Media und Cultural Entrepreneurship enthält und über Kunst und Kultur informiert. Der Newsletter erscheint jeden Mittwoch und wird herausgegeben von der "Pausanio Akademie":http://pausanio-akademie.de/. "Abonnieren":http://kulturimweb.net lohnt sich!
