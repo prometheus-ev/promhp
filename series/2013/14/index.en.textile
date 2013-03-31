@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Erich Buchholz: Holzbild 23 (Ausschnitt), 1923, \xC3\x96l und Goldbronzen auf Holzrelief, 54,5 x 71 x 1,5 cm, Karlsruhe, Staatliche Kunsthalle; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Walter Dexel: Serigraphie 2 (Ausschnitt), 1926, Essen, Folkwang Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Blinky Palermo: ohne Titel (Ausschnitt), 1964, \xC3\x96l auf Leinwand, 95 x 80 cm, New York, Thordis Moeller; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Lajos Kass\xC3\xA1k: Bildarchitektur (Ausschnitt), um 1922, \xC3\x96l auf Pappe, 28 x 20,5 cm; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Rudolf Jahns: Akte im Raum / Komposition Nr. 24 (Ausschnitt), 1924, \xC3\x96l auf Leinwand, 91 x 79,5 cm, Hannover, Sprengel-Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Willi Baumeister: Figur und Kreissegment (Ausschnitt), 1923, Hamburg, Kunsthalle; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Otto Freundlich: Composition uniste Nr. 8 (Ausschnitt), 1935,  Gouache auf Papier, 109 x 99 cm, Pontoise: Musee de Pontoise Iconoth\xC3\xA8que; Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Imi Knoebel: Barbara, Susanne, Hanna, Martha (Ausschnitt), 1998, Acryl auf Holz, 50 x 35 x 8 cm, im Besitz des K\xC3\xBCnstlers; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Constructivism, Minimalism and Concrete Art
+subtitle: The Hupertz Collection
+repeat: 3 1 6
+date: 2013/03/31
+teaser: Geometric-constructivist works of 44 artists are presented in the exhibition "Constructed images" in  Hamburg.
+collection: 36212
+---
+Geometric-constructivist works of 44 artists are presented in the exhibition "Constructed images" in  Hamburg. The shown paintings and collages originate from a private collection of the architect Stephan Hupertz and his wife Birgit. The works mainly date back to the Russian avant-garde of the 1910s and 20s. Furthermore the collection contains other forms of concrete and minimalist art from the 20th century.
+
+*"Constructed images. Works from the Hupertz Collection":http://ernst-barlach-haus.de/Englisch/Ausstellungen/ausstellungen_aktuell_Hamburg.html, 10 February to 26 May 2013, Ernst Barlach Haus, Hamburg*
