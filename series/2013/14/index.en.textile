@@ -12,8 +12,8 @@ layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Constructivism, Minimalism and Concrete Art
 subtitle: The Hupertz Collection
-repeat: 3 1 6
 date: 2013/03/31
+repeat: 3 1 6
 teaser: Geometric-constructivist works of 44 artists are presented in the exhibition "Constructed images" in  Hamburg.
 collection: 36212
 ---

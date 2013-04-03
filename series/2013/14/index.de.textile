@@ -12,11 +12,11 @@ layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Konstruktivismus, Minimalismus und Konkrete Kunst
 subtitle: "Die Sammlung Hupertz "
-repeat: 3 1 6
 date: 2013/03/31
+repeat: 3 1 6
 teaser: "\"Gebaute Bilder\" hei\xC3\x9Ft eine Ausstellung in Hamburg, die geometrisch-konstruktivistische Arbeiten von 44 K\xC3\xBCnstlern zeigt. "
 collection: 36212
 ---
-"Gebaute Bilder" heißt eine Ausstellung in Hamburg, die geometrisch-konstruktivistische Arbeiten von 44 Künstlern zeigt. Die ausgestellten Gemälde und Collagen stammen aus der Kunstsammlung des Architekten Stephan Hupertz und seiner Frau Birgit und sind vorwiegend in den 1910er und 1920er Jahren entstanden und sind der russischen Avantgarde zuzurechnen. Darüber hinaus enthält die Sammlung aber auch andere Formen konkreter und minimalistischer Kunst des ganzen 20. Jahrhunderts.
+"Gebaute Bilder" heißt eine Ausstellung in Hamburg, die geometrisch-konstruktivistische Arbeiten von 44 Künstlern zeigt. Die ausgestellten Gemälde und Collagen aus der Kunstsammlung des Architekten Stephan Hupertz und seiner Frau Birgit stammen vorwiegend von der russischen Avantgarde der 1910er und 20er Jahre. Darüber hinaus enthält die Sammlung aber auch andere Formen konkreter und minimalistischer Kunst des ganzen 20. Jahrhunderts.
 
 *"Gebaute Bilder. Werke aus der Sammlung Hupertz":http://ernst-barlach-haus.de/Ausstellungen/ausstellungen_aktuell_Hamburg.html, 10. Februar bis 26. Mai 2013, Ernst Barlach Haus, Hamburg*
