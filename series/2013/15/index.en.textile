@@ -1,0 +1,24 @@
+--- 
+descriptions: 
+- "Emil Nolde: Gro\xC3\x9Fer Mohn (Ausschnitt), 1908, \xC3\x96l auf Leinwand, 73,5 x 88,5 cm, D\xC3\xBCren, Leopold-Hoesch-Museum; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Emil Nolde: Abendmahl, 1909, \xC3\x96l auf Leinwand, 86 x 108 cm, Moritzburg, Halle; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
+- "Emil Nolde: \xC3\x84gypterin (2. Fassung / Ausschnitt), 1910, Holzschnitt, 15,3 x 10,4 cm, Seeb\xC3\xBCll, Nolde Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Emil Nolder: Christus und die S\xC3\xBCnderin (Ausschnitt), 1926, \xC3\x96l auf Leinwand, 86 x 106 cm, Staatliche Museen zu Berlin, Neue Nationalgalerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Emil Nolde: Kopf mit Pfeife / Selbstbildnis (Ausschnitt), 1907, Lithographie, 40,0 x 28,5 cm, Los Angeles, County Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Emil Nolde: Papua-J\xC3\xBCnglinge (Ausschnitt), 1914, \xC3\x96l auf Leinwand, 70 x 103,5 cm,  Staatliche Museen zu Berlin, Neue Nationalgalerie; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Emil Nolde: Dschunke (Ausschnitt), 1913, Aquarell, 23,9 x 33,1 cm, Stiftung Seeb\xC3\xBCll Ada und Emil Nolde; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Emil Nolde: Der Gro\xC3\x9Fe Vogel (Ausschnitt), 1906, Holzschnitt / Wasserfarben, 16,3 x 21,0 cm, Seeb\xC3\xBCll, Nolde-Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Emil Nolde
+subtitle: 
+date: 2013/04/07
+repeat: 3 1 6
+teaser: "The multifaceted work of Emil Nolde will soon be presented in two independent exhibitions, which complement each other well. "
+collection: 36235
+---
+The multifaceted work of Emil Nolde will soon be presented in two independent exhibitions, which complement each other well. The one in Emden focuses mainly on the graphic work and the so called „unpainted pictures“, watercolours which Nolde created when the National Socialists had forbidden him to paint. The Moritzburg in Halle will open an Nolde-exhibition on the occasion of the acquisition of his “Last Supper”. Furthermore there will be shown religious pictures as well as paintings created during his journey to the southern pacific and garden paintings from 1908 to 1918.
+
+*"Emil Nolde. Painter-Graphic and „Unpainted Pictures“":http://stiftung-moritzburg.de/ausstellungen/vorschau/einzelansicht/?tx_ttnews[tt_news]=571&cHash=d71cb4f64e3a3e38b625282c422c45a1, 26 January to 26 May 2013, Kunsthalle Emden 
+
+"Emil Nolde. Colours hot and holy":http://kunsthalle-emden.de/emil-nolde-maler-grafik-und-ungemalte-bilder/, 21 April 2013 to 28 July 2013, Moritzburg, Halle* 
