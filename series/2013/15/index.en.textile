@@ -1,13 +1,13 @@
 --- 
 descriptions: 
 - "Emil Nolde: Gro\xC3\x9Fer Mohn (Ausschnitt), 1908, \xC3\x96l auf Leinwand, 73,5 x 88,5 cm, D\xC3\xBCren, Leopold-Hoesch-Museum; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
-- "Emil Nolde: Abendmahl, 1909, \xC3\x96l auf Leinwand, 86 x 108 cm, Kopenhagen, Statens Museum for Kunst; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
+- "Emil Nolde: Abendmahl (Ausschnitt), 1909, \xC3\x96l auf Leinwand, 86 x 108 cm, Kopenhagen, Statens Museum for Kunst; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
 - "Emil Nolde: \xC3\x84gypterin (2. Fassung / Ausschnitt), 1910, Holzschnitt, 15,3 x 10,4 cm, Seeb\xC3\xBCll, Nolde Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Emil Nolder: Christus und die S\xC3\xBCnderin (Ausschnitt), 1926, \xC3\x96l auf Leinwand, 86 x 106 cm, Staatliche Museen zu Berlin, Neue Nationalgalerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Emil Nolde: Christus und die S\xC3\xBCnderin (Ausschnitt), 1926, \xC3\x96l auf Leinwand, 86 x 106 cm, Berlin, Neue Nationalgalerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
 - "Emil Nolde: Kopf mit Pfeife / Selbstbildnis (Ausschnitt), 1907, Lithographie, 40,0 x 28,5 cm, Los Angeles, County Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Emil Nolde: Papua-J\xC3\xBCnglinge (Ausschnitt), 1914, \xC3\x96l auf Leinwand, 70 x 103,5 cm,  Staatliche Museen zu Berlin, Neue Nationalgalerie; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
-- "Emil Nolde: Dschunke (Ausschnitt), 1913, Aquarell, 23,9 x 33,1 cm, Stiftung Seeb\xC3\xBCll Ada und Emil Nolde; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
-- "Emil Nolde: Der Gro\xC3\x9Fe Vogel (Ausschnitt), 1906, Holzschnitt / Wasserfarben, 16,3 x 21,0 cm, Seeb\xC3\xBCll, Nolde-Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Emil Nolde: Papua-J\xC3\xBCnglinge (Ausschnitt), 1914, \xC3\x96l auf Leinwand, 70 x 103,5 cm, Berlin, Neue Nationalgalerie; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Emil Nolde: Dschunke (Ausschnitt), 1913, Aquarell, 23,9 x 33,1 cm, Seeb\xC3\xBCll, Nolde Stiftung; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Emil Nolde: Der Gro\xC3\x9Fe Vogel (Ausschnitt), 1906, Holzschnitt / Wasserfarben, 16,3 x 21,0 cm, Seeb\xC3\xBCll, Nolde Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
 layout: series
 author: "Hendrikje H\xC3\xBCneke"
 title: Emil Nolde
