@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Honor\xC3\xA9 Daumier: Don Quijote und Sancho Pansa (Ausschnitt), 1865/70, \xC3\x96l auf Leinwand, 51 x 32 cm, Neue Pinakothek, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Honor\xC3\xA9 Daumier: Die Nestr\xC3\xA4uber (Ausschnitt), 1867/68, \xC3\x96l auf Leinwand, 23 x 32 cm, Privatsammlung;EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Daumier: Szene aus \"Der eingebildete Kranke\" (Ausschnitt), 1865/66, Stift und Wasserfarbe und Tusche auf Papier, 12 x 14 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Honor\xC3\xA9 Daumier: Ecce Homo (Ausschnitt), 1849-52, \xC3\x96l auf Spanplatte, Essen, Museum Folkwang; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Honor\xC3\xA9 Daumier: Das Trinklied (Ausschnitt), 1864/65, Bleistift und Stift und Tusche und Wasserfarbe auf Papier, 23,7 x 26,6 cm, Williamstown (Massachusetts), Sterling and Francine Clark Art Institute; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Daumier: Der Maler (Ausschnitt), 1850/70, \xC3\x96l auf Holz, 26 x 34 cm, Mus\xC3\xA9e des Beaux-Arts, Reims; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Honor\xC3\xA9 Daumier: Mutter mit Kind (Ausschnitt), 1865/70, \xC3\x96l auf Leinwand, 40 x 33 cm, Stiftung Sammlung E.G. B\xC3\xBChrle, Z\xC3\xBCrich; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Honor\xC3\xA9 Daumier: Eine Theaterloge (Ausschnitt), 1856, \xC3\x96l auf Leinwand, 26,5 x 35 cm, Kunsthalle, Hamburg; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: "Honor\xC3\xA9 Daumier"
+subtitle: Mehr als ein Karikaturist
+date: 2013/04/14
+repeat: 2 1 6
+teaser: "Max Liebermann hat Honor\xC3\xA9 Daumier als gr\xC3\xB6\xC3\x9Ften K\xC3\xBCnstler des 19. Jahrhunderts bewundert."
+collection: 36356
+---
+Max Liebermann hat Honoré Daumier als größten Künstler des 19. Jahrhunderts bewundert. Heute ist Daumier vor allem für seine Karikaturen bekannt, die er jahrzehntelang für Zeitungen anfertigte. Eine Ausstellung im Max Liebermann Haus zeigt Daumier als den vielseitigen Künstler, den Liebermann so sehr schätzte. Über Auftragsarbeiten hinaus hat er Zeichnungen, Gemälde und sogar Skulpturen geschaffen. 
+
+*"Daumier ist ungeheuer (Max Liebermann)":http://www.stiftung.brandenburgertor.de/kultur/ausstellungen/daumier/index.html, 2. März bis 2. Juni 2013, Stiftung Brandenburger Tor, Max Liebermann Haus, Berlin*
