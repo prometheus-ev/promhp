@@ -17,6 +17,6 @@ repeat: 1 3 6
 teaser: "Neben Rubens und van Dyck geh\xC3\xB6rt Jordaens zu den wichtigen Protagonisten des fl\xC3\xA4mischen Barock."
 collection: 36401
 ---
-Neben Rubens und van Dyck gehört Jordaens zu den wichtigen Protagonisten des flämischen Barock. Eine Ausstellung in Kassel möchte dem populären Bild von Jordaens als gutbürgerlichem Genremaler entgegenwirken und zeigt den Künstler als Meister der Antikenrezeption. Die vielschichtigen Beziehungen zur Antike werden in der Ausstellung anhand von Werken Jordaens, von seinen Zeitgenossen sowie antiken Kunstwerke verdeutlicht. Parallel dazu wird sich eine Ausstellung mit der Wirkung des barocken Künstlers auf die Moderne auseinandersetzen.
+Neben Rubens und van Dyck gehört Jordaens zu den wichtigen Protagonisten des flämischen Barock. Eine Ausstellung in Kassel möchte dem populären Bild von Jordaens als gutbürgerlichem Genremaler entgegenwirken und zeigt den Künstler als Meister der Antikenrezeption. Die vielschichtigen Beziehungen zur Antike werden in der Ausstellung anhand von Werken Jordaens, von seinen Zeitgenossen sowie antiken Kunstwerke verdeutlicht. Parallel dazu setzt sich die Ausstellung mit der Wirkung des barocken Künstlers auf die Moderne auseinander.
 
 *"Jordaens und die Antike / Jordaens und die Moderne":http://jacquesjordaens.wordpress.com/, 1. März bis 16. Juni 2013, Fridericianum, Kassel*
