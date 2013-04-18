@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Jacob Jordaens: Apollo schindet Marsyas (Ausschnitt), nach 1620, \xC3\x96l auf Leinwand, 146 x 117 cm, Antwerpen, \xC3\xB6ffentliche Sammlung, Maison Osterrieth; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Jacob Jordaens: Die Liebe von Cupido und Psyche (Ausschnitt), um 1652, \xC3\x96l auf Leinwand, 130 x 230 cm, Antwerpen, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Jacob Jordaens: Apoll als Sieger \xC3\xBCber Pan (Ausschnitt), um 1637, \xC3\x96l auf Leinwand, Madrid, Palacio Real Nuevo; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Jacob Jordaens: Venus und Adonis (Ausschnitt), o.J., \xC3\x96l auf Leinwand, Br\xC3\xBCssel, Mus\xC3\xA9e Royaux des Beaux-Arts; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Jacob Jordaens: Neptun erschafft das Pferd (Ausschnitt), um 1645, \xC3\x96l auf Leinwand, 67 x 130 cm, Florenz, Palazzo Pitti; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Jacob Jordaens: Prometheus (Ausschnitt), um 1640, \xC3\x96l auf Leinwand, 245 x 178 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Jacob Jordaens: Bacchus (Ausschnitt), o.J., \xC3\x96l auf Leinwand, Antwerpen, Koninklijk Museum voor Schone Kunsten; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "Jacob Jordaens: Pegasus (Ausschnitt), 1663, \xC3\x96l auf Leinwand, Antwerpen, Koninklijk Museum voor Schone Kunsten; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Jacob Jordaens
+subtitle: und die Antike
+date: 2013/04/18
+repeat: 1 3 6
+teaser: "Neben Rubens und van Dyck geh\xC3\xB6rt Jordaens zu den wichtigen Protagonisten des fl\xC3\xA4mischen Barock."
+collection: 36401
+---
+Neben Rubens und van Dyck gehört Jordaens zu den wichtigen Protagonisten des flämischen Barock. Eine Ausstellung in Kassel möchte dem populären Bild von Jordaens als gutbürgerlichem Genremaler entgegenwirken und zeigt den Künstler als Meister der Antikenrezeption. Die vielschichtigen Beziehungen zur Antike werden in der Ausstellung anhand von Werken Jordaens, von seinen Zeitgenossen sowie antiken Kunstwerke verdeutlicht. Parallel dazu wird sich eine Ausstellung mit der Wirkung des barocken Künstlers auf die Moderne auseinandersetzen.
+
+*"Jordaens und die Antike / Jordaens und die Moderne":http://jacquesjordaens.wordpress.com/, 1. März bis 16. Juni 2013, Fridericianum, Kassel*
