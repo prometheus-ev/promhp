@@ -14,9 +14,9 @@ title: The Rijksmuseum Amsterdam
 subtitle: 
 date: 2013/04/26
 repeat: 1 3 5
-teaser: "Das von Pierre Cuypers entworfene und 1885 er\xC3\xB6ffnete Rijksmuseum in Amsterdam ist nach 10j\xC3\xA4hriger Sanierung nun wiederer\xC3\xB6ffnet."
+teaser: The Rikjsmuseum at Amsterdam, created by Pierre Cuypers and opened in 1885, is now reopened after 10 years of renovation.
 collection: 36505
 ---
-Das von Pierre Cuypers entworfene und 1885 eröffnete Rijksmuseum in Amsterdam ist nach 10jähriger Sanierung nun wiedereröffnet. Der Bau ist vollständig entkernt und wiederhergestellt worden. Neben modernen Zugaben bleibt die Innengestaltung am ursprünglichen Entwurf von Cuypers orientiert. Die Aufstellung vereint Gemälde, Skulpturen und Kunstgewerbe, um ein umfassenderes Bild der Zeiten zu präsentieren.
+The Rikjsmuseum at Amsterdam, created by Pierre Cuypers and opened in 1885, is now reopened after 10 years of renovation. The building was completely gutted and reconstructed, based on the original design of Cuypers, but with new Elements. The installation of the exhibits combines paintings, sculptures and applied arts, to present a comprehensive image of the times.
 
 *"Rijksmuseum Amsterdam":https://www.rijksmuseum.nl/en/renovation*
