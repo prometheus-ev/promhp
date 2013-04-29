@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Friedensreich Hundertwasser: Les tournesols et la cit\xC3\xA9 / Die Sonnenblumen und die Stadt (Ausschnitt), 1949, Aquarell und Kohle auf Packpapier, Collage, 70 x 50 cm, Paris, Privatsammlung, Micheline Brault; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Friedensreich Hundertwasser: Le jardin des morts heureux / Der Garten der gl\xC3\xBCcklichen Toten (Ausschnitt), 1953, \xC3\x96l auf Hartfaserplatte, 47 x 58,5 cm, Sammlung Christian Baha; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Friedensreich Hundertwasser: Il Sole Pesante / Die schwere Sonne (Ausschnitt), 1954, Mischtechnik, 44 x 29 cm, K\xC3\xB6ln, Privatsammlung, Anne Abels; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Friedensreich Hundertwasser: Cons\xC3\xA9quence de le Terre Allemande - Hommage \xC3\xA0 Hans Neuffer le Marin (Ausschnitt), 1958, Mischtechnik, 49 x 65 cm, Privatsammlung, Courtesy Galerie Brockstedt, Berlin; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Friedensreich Hundertwasser: Rain in the Meadow / Gefangener Regen in der Wiese (Ausschnitt), 1961, Mischtechnik, 73 x 92 cm, Genf, Handel, Galerie Moss; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Friedensreich Hundertwasser: Hommage au Tachisme (Ausschnitt), 1961, Mischtechnik, 195 x 130 cm, Die Hundertwasser Gemeinn\xC3\xBCtzige Privatstiftung, Wien; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Friedensreich Hundertwasser: Landschaft am Silberfluss (Ausschnitt), 1964, Mischtechnik, 50 x 57 cm, K\xC3\xB6ln, Privatsammlung, Anne Abels; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Friedensreich Hundertwasser: Heimweh der Fenster - Heimweh ins Meer (Ausschnitt), 1964, Polyvinyl-Acetat und Aquarell, 70 x 97 cm, Wuppertal, Privatsammlung, Dieter und Edith Rosenkranz; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+author: "Hendrikje H\xC3\xBCneke"
+title: Friedensreich Hundertwasser
+subtitle: Artist and Activist
+repeat: 1 3 5
+date: 2013/01/20
+teaser: The artist Friedensreich Hundertwasser is celebrated by the Kunsthalle Bremen as an important member of the international Avantgarde.
+collection: 35463
+---
+The artist Friedensreich Hundertwasser is celebrated by the Kunsthalle Bremen as an important member of the international Avantgarde. In the announcement of the exhibition they state, that Hundertwasser is one of the most famous but underestimated artists. Showing not only paintings, but manifests and documented performances too, they represent Hunderwasser as a critical and ecological thinking activist. His closeness to nature is reflected in his art by the negation of the straight line. The organically grown line may be considered as the main element in his paintings and architecture.
+
+*"Friedensreich Hundertwasser: Against the Grain. Works 1949–1970":http://www.kunsthalle-bremen.de/home-en/exhibitions-2/current-exhibitions/, 20 October 2012 to 17 February 2013, Kunsthalle Bremen*

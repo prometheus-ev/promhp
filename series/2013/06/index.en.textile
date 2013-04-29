@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Margaret Bourke-White: Drei Arbeiter hinter einem Generator, AEG, Deutschland (Ausschnitt), 1930, Fotografie, 33,66 x 22,81 cm, Syracuse University, George Arents Research Library for Special Collections; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Margaret Bourke-White: Zwei M\xC3\xA4nner mit Kippe, Russland (Ausschnitt), 1930?, Fotografie, 33,66 x 23,50 cm, Syracuse University, George Arents Research Library for Special Collections; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Margaret Bourke-White: Drahtspulen, Rome Wire (Ausschnitt), 1929, Fotografie, 33,02 x 23,18 cm, Syracuse University, George Arents Research Library for Special Collections; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Margaret Bourke-White: General George S. Patton, einen Tag vor der Rhein\xC3\xBCberquerung (Ausschnitt), 1945, Fotografie, 35,56 x 27,94 cm, Syracuse University, George Arents Research Library for Special Collections; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Margaret Bourke-White: Luftaufnahme vom Ausma\xC3\x9F der Zerst\xC3\xB6rung in Mainz durch U.S.- und RAF-Luftangriffe, 1945, Fotografie, 33,97 x 26,05 cm, New York, Time Inc.; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Margaret Bourke-White: Bombentr\xC3\xBCmmer, Deutschland (Ausschnitt), 1945, Fotografie, 34,29 x 25,40 cm, New York, Time Inc.; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Margaret Bourke-White: Als die amerikanischen Panzer unter seinem Fenster erschienen, vergifteten sich der Stadtk\xC3\xA4mmerer von Leipzig und seine Familie im Rathaus (Ausschnitt), April 1945, Fotografie, 38,10 x 38,74 cm, Ithaca (New York) (US), Herbert F. Johnson Museum of Art; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Margaret Bourke-White: Buchenwald, Deutschland, am Tage nach der Befreiung (Ausschnitt), April 1945, Fotografie, 40,64 x 53,02 cm, Syracuse University, George Arents Research Library for Special Collections; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Margaret Bourke-White
+subtitle: Being present, when history is being made
+repeat: 3 5 8
+date: 2013/02/03
+teaser: "The photojournalist Margaret Bourke-White (1904-1971) travelled all over the world in search of historic moments. "
+collection: 35676
+---
+The photojournalist Margaret Bourke-White (1904-1971) travelled all over the world in search of historic moments. She documented the droughts of 1934 in the USA, the German invasion of the Soviet Union 1941 and was in Germany when the war ended. She took photos of the allied bombardments, of the destroyed cities and the liberation of the Buchenwald concentration camp. 
+As a women in a male-dominated business Margaret Bourke-White became subject of the press. Particularly popular was this portrait, showing her in flying gear.
+
+*"Margaret Bourke-White. Photographs 1930 – 1945":http://www.berlinerfestspiele.de/en/aktuell/festivals/gropiusbau/programm_mgb/mgb13_bourke_white/ausstellung_bourke_white/veranstaltungsdetail_mgb_ausstellung_42710.php, 18 January to 14 April 2013, Martin-Gropius-Bau, Berlin*

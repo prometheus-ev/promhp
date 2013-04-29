@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Bronzefigur des Zeus aus dem Zeusheiligtum in Dodona, 6. Jh. v. Chr., M\xC3\xBCnchen, Glyptothek; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin"
+- "Exekias: Meerfahrt des Dionysos, um 540ante-530ante, Vasenmalerei / schwarzfigurig, M\xC3\xBCnchen, \xC3\xB6ffentliche Sammlung, Staatliche Antikensammlungen und Glyptothek; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "B\xC3\xBCste der Athena im Typus Velletri, 2. Jh. n. Chr., M\xC3\xBCnchen, Glyptothek; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin"
+- "Duris: Herakles und Athena, um 515ante \xE2\x80\x93 470ante, Vasenmalerei / rotfigurig, M\xC3\xBCnchen, \xC3\xB6ffentliche Sammlung, Staatliche Antikensammlungen und Glyptothek; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Athena, Skulptur des Aphaiatempels / Westgiebel, 5. Jh. v. Chr., Athena M\xC3\xBCnchen, Glyptothek; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin"
+- "Fliegender Hermes mit dem kleinen Herakles, Halsamphora / attisch schwarzfigurig, Seite A; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Hochzeit des Poseidon und der Amphitrite, Relieffries, M\xC3\xBCnchen, Glyptothek; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Ares, Kopf, r\xC3\xB6mische Kopie, M\xC3\xBCnchen, Glyptothek; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+author: "Hendrikje H\xC3\xBCneke"
+title: Ancient Gods
+subtitle: Greek Mythology
+repeat: 2 5 4
+date: 2013/03/23
+teaser: Zeus, Athena, Hermes and Dionysos ...the world of Greek gods is handed down in sculptures and vase paintings.
+collection: 36082
+---
+Zeus, Athena, Hermes and Dionysos ...the world of Greek gods is handed down in sculptures and vase paintings. An exhibition at the Glyptothek in Munich is conveying the ancient Greek mythology. The different deities and some of their stories around love and dispute are presented. Furthermore is shown, how present the gods were in daily life and how they were adored in Greek sanctuaries.
+
+*"The Immortals – Greek Deities":http://www.antike-am-koenigsplatz.mwn.de/glyptothek/sonder/index.html, to 7 July 2013, Glyptothek, Munich*

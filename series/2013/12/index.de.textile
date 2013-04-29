@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Karl Philipp Christian von Gontard / Carl Gotthard Langhans: Schlossk\xC3\xBCche und Marmorpalais, 1787-92, Neuer Garten, Potsdam; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte"
+- "Walter Gropius: Atelier- und Wohnungsbau des Bauhauses, 1525-26, Dessau; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Stra\xC3\x9Fenzug der Altstadt von Wismar; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "V\xC3\xB6lklinger H\xC3\xBCtte, Gichtb\xC3\xBChne bei den Hoch\xC3\xB6fen, 1873-1986; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Aachener Dom; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
+- "Fritz Schupp / Martin Kremmer: Zeche Zollverein, F\xC3\xB6rderger\xC3\xBCst, Schacht 12, um 1930, Essen; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "Chor der Marienkirche, ab 1277, L\xC3\xBCbeck; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "K\xC3\xB6nigshalle, Kloster Lorsch, 9. Jh.; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+author: "Hendrikje H\xC3\xBCneke"
+title: "Welterbest\xC3\xA4tten in Deutschland "
+subtitle: "Welterbe und St\xC3\xA4dtebau "
+repeat: 2 3 1
+date: 2013/03/17
+teaser: "Mit 37 Standorten ist Deutschland eines der L\xC3\xA4nder mit den meisten UNESCO-Welterbest\xC3\xA4tten."
+collection: 36030
+---
+Mit 37 Standorten ist Deutschland eines der Länder mit den meisten UNESCO-Welterbestätten. Bisher lag das Hauptinteresse auf der Wirkung, die der Welterbestatus auf den Tourismus ausübt. Das Deutsche Architekturmuseum in Frankfurt am Main stellt nun die Frage, welchen Einfluss der Welterbestatus eines Bauwerks oder Bauensembles auf die architektonische und stadtplanerische Entwicklung des Umfeldes hat. 
+
+*"UNESCO WELTERBE – Eine Deutschlandreise":http://www.dam-online.de/portal/de/Ausstellungen/Start/0/0/70652/mod891-details1/1594.aspx, 6. Februar bis 26. Mai 2013, Deutsches Architekturmuseum, Frankfurt am Main*
