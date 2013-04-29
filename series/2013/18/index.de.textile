@@ -17,6 +17,6 @@ repeat: 1 3 5
 teaser: "Das von Pierre Cuypers entworfene und 1885 er\xC3\xB6ffnete Rijksmuseum in Amsterdam ist nach 10j\xC3\xA4hriger Sanierung nun wiederer\xC3\xB6ffnet."
 collection: 36505
 ---
-Das von Pierre Cuypers entworfene und 1885 eröffnete Rijksmuseum in Amsterdam ist nach 10jähriger Sanierung nun wiedereröffnet. Der Bau ist vollständig entkernt und wiederhergestellt worden. Neben modernen Zugaben bleibt die Innengestaltung am ursprünglichen Entwurf von Cuypers orientiert. Die Aufstellung vereint Gemälde, Skulpturen und Kunstgewerbe, um ein umfassenderes Bild der Zeiten zu präsentieren.
+Das von Pierre Cuypers entworfene und 1885 eröffnete Rijksmuseum in Amsterdam ist nach 10jähriger Sanierung nun wiedereröffnet. Der Bau ist vollständig entkernt und wiederhergestellt worden. Neben modernen Zugaben bleibt die Innengestaltung am ursprünglichen Entwurf von Cuypers orientiert. Die Aufstellung vereint Gemälde, Skulpturen und Kunstgewerbe, um ein umfassenderes Bild der Zeiten zu präsentieren. 
 
 *"Rijksmuseum Amsterdam":https://www.rijksmuseum.nl/en/renovation*

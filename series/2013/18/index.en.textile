@@ -17,6 +17,6 @@ repeat: 1 3 5
 teaser: The Rikjsmuseum at Amsterdam, created by Pierre Cuypers and opened in 1885, is now reopened after 10 years of renovation.
 collection: 36505
 ---
-The Rikjsmuseum at Amsterdam, created by Pierre Cuypers and opened in 1885, is now reopened after 10 years of renovation. The building was completely gutted and reconstructed, based on the original design of Cuypers, but with new Elements. The installation of the exhibits combines paintings, sculptures and applied arts, to present a comprehensive image of the times.
+The Rikjsmuseum at Amsterdam, created by Pierre Cuypers and opened in 1885, is now reopened after 10 years of renovation. The building was completely gutted and reconstructed, based on the original design of Cuypers, but with new Elements. The installation of the exhibits combines paintings, sculptures and applied arts, to present a comprehensive image of the times. 
 
 *"Rijksmuseum Amsterdam":https://www.rijksmuseum.nl/en/renovation*
