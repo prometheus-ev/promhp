@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Wols: Pavillon de l`El\xC3\xA8gance im Aufbau, H\xC3\xA4nde, 1937, Fotografie, o.O.; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Wols: Esstisch (Ausschnitt), vor 1938, Fotografie, o.O.; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Wols: Les deux fourchettes (Ausschnitt), um 1937/39, Aquarell, D\xC3\xBCsseldorf, Sammlung Gabriele Henkel; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Wols: Formes imaginaires (Ausschnitt), um 1939/40, Aquarell, Privatsammlung; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf "
+- "Wols: La Nierendorf(f) (Ausschnitt), um 1947, \xC3\x96l auf Leinwand, Sakura, Kawamura Memorial Mus. of Art; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf  "
+- "Wols: Ciel sombre (Ausschnitt), um 1946/47, Aquarell, Privatsammlung; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Wols: L'inachevee (Ausschnitt), 1951, \xC3\x96l auf Leinwand, 130 x 97 cm, Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Wols: Le fantome bleu, 1951, Grattage/\xC3\x96l auf Leinwand, 37 x 60 cm, K\xC3\xB6ln, Museum Ludwig; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: WOLS
+subtitle: 
+date: 2013/04/30
+repeat: 1 3 5
+teaser: "One of the exhibitions, organised on the occasion of the 100th anniversary of Wolfgang Schulze alias Wols, is a retrospective at Bremen. "
+collection: 36526
+---
+One of the exhibitions, organised on the occasion of the 100th anniversary of Wolfgang Schulze alias Wols, is a retrospective at Bremen. Not only paintings and watercolours, but photographies, drawings and illustrated books are presented too. The show is solely dealing with the art work, deliberately without reference to the shattering biography of the artist.
+
+*"Wols: The retrospective":http://www.kunsthalle-bremen.de/ausstellungen/wols-retrospektive/, 13 April to 11 August 2013, Bremen, Kunsthalle*
