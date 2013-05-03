@@ -4,4 +4,5 @@ author: t.nisters
 title: "Neue Datenbank \"ConedaKOR\" aus Saarbr\xC3\xBCcken integriert"
 tags: news
 ---
-Wir freuen uns, dass das Institut für Kunstgeschichte der Universität des Saarlandes seine Bilddatenbank ConedaKOR für prometheus zugänglich gemacht hat! ConedaKOR bereichert das Bildarachiv um mehr als 9000 Bilder. Die Institutsdatenbank befindet sich seit dem Sommersemester 2009 im Aufbau und stellt Abbildungen wie auch umfangreiche Metadaten zu allen Gattungen und Epochen für Studienzwecke, Lehre und Forschung zur Verfügung. 
+Wir freuen uns, dass das Institut für Kunstgeschichte der Universität des Saarlandes seine Bilddatenbank ConedaKOR für prometheus zugänglich gemacht hat! 
+ConedaKOR bereichert das Bildarchiv um mehr als 9000 Bilder. Die Institutsdatenbank befindet sich seit dem Sommersemester 2009 im Aufbau und stellt für Studienzwecke, Lehre und Forschung sowohl Abbildungen wie auch umfangreiche Metadaten zu allen Gattungen und Epochen zur Verfügung. 
