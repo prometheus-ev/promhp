@@ -6,13 +6,14 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=509
 h2. <%= page_title %>
 
 * Dr. des. Lisa Dieckmann (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Kunstgeschichte/Informatik, "Vorstand":<%=r 'about/association/executive-board' %>)
-* Theresa Nisters M.A. (Köln, Geschäftsstelle)
-* Silvia Stark M.A. (Köln, Geschäftsstelle)
 * Bettina Hilgert B.A. (Köln, Geschäftsstelle)
 * Hendrikje Hüneke M.A. (Giessen, Bildserie)
-* Denise Trump B.A. (Köln, Geschäftsstelle)
 * Dipl.-Inform. Jörg Koch (Köln, Informatik)
+* Theresa Nisters M.A. (Köln, Geschäftsstelle)
 * Dr. Bettina Pfleging (Köln, Social Media Marketing, "Vorstand":<%=r 'about/association/executive-board' %>)
+* Silvia Stark M.A. (Köln, Geschäftsstelle)
+* Denise Trump B.A. (Köln, Geschäftsstelle)
+
 
 h3. *Ehemalige*
 

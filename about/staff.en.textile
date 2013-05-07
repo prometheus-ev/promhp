@@ -6,13 +6,13 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=509&L=1&skin=&tx_ttnews
 h2. <%= page_title %>
 
 * Dr. des. Lisa Dieckmann (Executive of the project prometheus at the Department of Art History of the University of Cologne, Art History/IT, "Executive Board":<%=r 'about/association/executive-board' %>)
-* Theresa Nisters M.A. (Cologne, Office)
-* Silvia Stark M.A. (Cologne, Office)
 * Bettina Hilgert B.A. (Cologne, Office)
 * Hendrikje Hüneke M.A. (Giessen, Image series)
-* Denise Trump B.A. (Cologne, Office)
 * Dipl.-Inform. Jörg Koch (Cologne, IT)
+* Theresa Nisters M.A. (Cologne, Office)
 * Dr. Bettina Pfleging (Cologne, Social Media Marketing, "Executive Board":<%=r 'about/association/executive-board' %>)
+* Silvia Stark M.A. (Cologne, Office)
+* Denise Trump B.A. (Cologne, Office)
 
 
 h3. *Former*
