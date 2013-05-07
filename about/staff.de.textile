@@ -4,19 +4,49 @@ title: MitarbeiterInnen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=509
 ---
 h2. <%= page_title %>
+<div style="width: 310px; float: left">
+!(bordered-image)<%=r 'files/blog/Dieckmann.jpg'
+%>(Dr. des. Lisa Dieckmann_Geschäftsführung)!!(bordered-image)<%=r 'files/blog/Nisters.jpg'
+%>(Theresa Nisters M.A._wissenschaftliche Hilfskraft)!!(bordered-image)<%=r 'files/blog/Stark.jpg'
+%>(Silvia Stark M.A._wissenschaftliche Hilfskraft)!
+!(bordered-image)<%=r 'files/blog/Hilgert.jpg'
+%>(Bettina Hilgert B.A._studentische Hilfskraft)!!(bordered-image)<%=r 'files/blog/HeHue.jpg'%>(Hendrikje Hüneke M.A._Bildserie)!!(bordered-image)<%=r 'files/blog/Trump.jpg'
+%>(Denise Trump B.A._studentische Hilfskraft)!
+!(bordered-image)<%=r 'files/blog/Kochend.png'
+%>(Dipl.-Inform. Jörg Koch_Informatik)!!(bordered-image)<%=r 'files/blog/PflegingVersion.jpg'
+%>(Dr. Bettina Pfleging_Social Media Marketing)!!(bordered-image)<%=r 'files/blog/Wille.jpg'
+%>(Dipl.-Bibl. Jens Wille_Informatik)!
+</div>
 
-h3. Aktuell
-
-* Dr. des. Lisa Dieckmann (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Kunstgeschichte/Informatik)
-* Bettina Hilgert B.A. (Köln, Geschäftsstelle)
-* Hendrikje Hüneke (Giessen, Bildserie)
-* Dipl.-Inform. Jörg Koch (Köln, Informatik)
+<div style="text-align: justify; width: 420px; float: left">
+* Dr. des. Lisa Dieckmann (Geschäftsführerin des Projektes prometheus am Kunsthistorischen Institut der Universität zu Köln, Kunstgeschichte/Informatik, "Vorstand":<%=r 'about/association/executive-board' %>)
 * Theresa Nisters M.A. (Köln, Geschäftsstelle)
-* Dr. Bettina Pfleging (Köln, Social Media Marketing, "Vorstand":<%=r 'about/association/executive-board' %>)
 * Silvia Stark M.A. (Köln, Geschäftsstelle)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+* Bettina Hilgert B.A. (Köln, Geschäftsstelle)
+* Hendrikje Hüneke M.A. (Giessen, Bildserie)
 * Denise Trump B.A. (Köln, Geschäftsstelle)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+* Dipl.-Inform. Jörg Koch (Köln, Informatik)
+* Dr. Bettina Pfleging (Köln, Social Media Marketing, "Vorstand":<%=r 'about/association/executive-board' %>)
+* Dipl.-Bibl. Jens Wille (Köln, Informatik)
+</div>
 
-h3. Ehemalige
+<div style="text-align: justify; width: 485px;" class="clear-float">
+<br />
+<br />
+<blockquote><h3>*Ehemalige*</h3></blockquote>
 
 * Kerstin Albrecht M.A. (Dessau, Design)
 * Dipl.-Phys. Lars Bähren (Köln, Informatik)
@@ -44,7 +74,7 @@ h3. Ehemalige
 * Claudia Rust M.A. (Giessen, Geschäftsstelle)
 * Sabine Scheele M.A. (Giessen, Webdesign » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
 * Dipl. Des. Dirk Schuster (Dessau, Design)
-* PD Dr. Holger Simon (Köln, Projektleitung » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
+* Prof. Dr. Holger Simon (Köln, Projektleitung » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
 * Prof. Dr. Manfred Thaller (Köln, Historisch-Kulturwissenschaftliche Informationsverarbeitung)
 * Dr. Ute Verstegen (Köln, Projektkoordination » aktuell: "Vorstand":<%=r 'about/association/executive-board' %>)
 * Katja Vierk (Köln, Geschäftsstelle)

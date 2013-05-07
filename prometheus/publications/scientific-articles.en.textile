@@ -11,7 +11,7 @@ Meta-Image - Forschungsumgebung für den Bilddiskurs in der Kunstgeschichte.
 in: cms-journal. Computer- und Medienservice, 35, 2012, S. 11-17.
 "» zur Publikation":http://edoc.hu-berlin.de/cmsj/35/dieckmann-lisa-11/PDF/dieckmann.pdf
 
-* Lisa Dieckmann; Claus Kalle
+* Dieckmann, Lisa; Kalle, Claus
 Kooperation von der Datenhaltung im AFS bis zur private Cloud - prometheus Bilddatenbank im zeitlichen Wandel.
 in: Kölner Universitätszeitung, 5, 2010, IT-Beilage, S. 2.
 "» publication":http://www.portal.uni-koeln.de/fileadmin/templates/uni/images/IT-Beilage/3_2010/KUZ%20Beilage%20IT%203%202010%20.pdf

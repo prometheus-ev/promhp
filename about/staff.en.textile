@@ -4,19 +4,50 @@ title: Members of staff
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=509&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
 ---
 h2. <%= page_title %>
+<div style="width: 310px; float: left">
+!(bordered-image)<%=r 'files/blog/Dieckmann.jpg'
+%>(Dr. des. Lisa Dieckmann_Executive)!!(bordered-image)<%=r 'files/blog/Nisters.jpg'
+%>(Theresa Nisters M.A._office)!!(bordered-image)<%=r 'files/blog/Stark.jpg'
+%>(Silvia Stark M.A._office)!
+!(bordered-image)<%=r 'files/blog/Hilgert.jpg'
+%>(Bettina Hilgert B.A._office)!!(bordered-image)<%=r 'files/blog/HeHue.jpg'
+%>(Hendrikje Hüneke M.A._image series)!!(bordered-image)<%=r 'files/blog/Trump.jpg'
+%>(Denise Trump B.A._office)!
+!(bordered-image)<%=r 'files/blog/Kochend.png'
+%>(Dipl.-Inform. Jörg Koch_IT)!!(bordered-image)<%=r 'files/blog/PflegingVersion.jpg'
+%>(Dr. Bettina Pfleging_Social Media Marketing)!!(bordered-image)<%=r 'files/blog/Wille.jpg'
+%>(Dipl.-Bibl. Jens Wille_IT)!
+</div>
 
-h3. Current
-
-* Dr. des. Lisa Dieckmann (Executive of the project prometheus at the Department of Art History of the University of Cologne, Art History/IT)
-* Bettina Hilgert B.A. (Cologne, Office)
-* Hendrikje Hüneke (Giessen, Image series)
-* Dipl.-Inform. Jörg Koch (Cologne, IT)
+<div style="text-align: justify; width: 400px; float: left">
+* Dr. des. Lisa Dieckmann (Executive of the project prometheus at the Department of Art History of the University of Cologne, Art History/IT, "Executive Board":<%=r 'about/association/executive-board' %>)
 * Theresa Nisters M.A. (Cologne, Office)
-* Dr. Bettina Pfleging (Cologne, Social Media Marketing, "Executive Board":<%=r 'about/association/executive-board' %>)
 * Silvia Stark M.A. (Cologne, Office)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+* Bettina Hilgert B.A. (Cologne, Office)
+* Hendrikje Hüneke M.A. (Giessen, Image series)
 * Denise Trump B.A. (Cologne, Office)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+* Dipl.-Inform. Jörg Koch (Cologne, IT)
+* Dr. Bettina Pfleging (Cologne, Social Media Marketing, "Executive Board":<%=r 'about/association/executive-board' %>)
+* Dipl.-Bibl. Jens Wille (Cologne, IT)
+</div>
 
-h3. Former
+<div style="text-align: justify; width: 550px;" class="clear-float">
+<br />
+<br />
+<blockquote><h3>*Former*</h3></blockquote>
 
 * Kerstin Albrecht M.A. (Dessau, Design)
 * Dipl.-Phys. Lars Bähren (Cologne, IT)
@@ -44,8 +75,10 @@ h3. Former
 * Claudia Rust M.A. (Giessen, Office)
 * Sabine Scheele M.A. (Giessen, Webdesign » currently: "Executive Board":<%=r 'about/association/executive-board' %>)
 * Dipl. Des. Dirk Schuster (Dessau, Design)
-* PD Dr. Holger Simon (Cologne, Project management » currently: "Executive Board":<%=r 'about/association/executive-board' %>)
+* Prof. Dr. Holger Simon (Cologne, Project management » currently: "Executive Board":<%=r 'about/association/executive-board' %>)
 * Prof. Dr. Manfred Thaller (Cologne, Historic-cultural scientific information processing)
 * Dr. Ute Verstegen (Cologne, Project coordination » currently: "Executive Board":<%=r 'about/association/executive-board' %>)
 * Katja Vierk (Cologne, Office)
 * Dipl.-Bibl. Jens Wille (Cologne, IT)
+</div>
+

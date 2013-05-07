@@ -5,7 +5,7 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=68&L=1
 ---
 h2. <%= page_title %>
 
-* "PD Dr. Holger Simon":mailto:holger.simon@uni-koeln.de (Chair)
+* "Prof. Dr. Holger Simon":mailto:holger.simon@uni-koeln.de (Chair)
 * "Prof. Dr. Dorothee Haffner":mailto:dorothee.haffner@htw-berlin.de (Deputy chair)
 * "Dr. Stefan Brenne":mailto:stefan.brenne@geschichte.uni-giessen.de (Treasurer)
 * "PD Dr. Norbert Eschbach":mailto:norbert.eschbach@geschichte.uni-giessen.de (Deputy treasurer)

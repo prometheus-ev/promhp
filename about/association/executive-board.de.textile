@@ -5,7 +5,7 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=68
 ---
 h2. <%= page_title %>
 
-* "PD Dr. Holger Simon":mailto:holger.simon@uni-koeln.de (Vorsitzender)
+* "Prof. Dr. Holger Simon":mailto:holger.simon@uni-koeln.de (Vorsitzender)
 * "Prof. Dr. Dorothee Haffner":mailto:dorothee.haffner@htw-berlin.de (stellv. Vorsitzende)
 * "Dr. Stefan Brenne":mailto:stefan.brenne@geschichte.uni-giessen.de (Schatzmeister)
 * "PD Dr. Norbert Eschbach":mailto:norbert.eschbach@geschichte.uni-giessen.de (stellv. Schatzmeister)
