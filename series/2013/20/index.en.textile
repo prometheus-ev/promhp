@@ -13,7 +13,11 @@ author: "Hendrikje H\xC3\xBCneke"
 title: Impulse Romanticism
 subtitle: 
 date: 2013/05/08
-repeat: 
-teaser: 
-collection: 
+repeat: 4 1 3
+teaser: With writers like von Arnim, the Brentano siblings, the Grimm brothers and artists like Philipp Veit, Eduard Steinle and Philipp Fohr the Rhein-Main region played a central role in the romantic era.
+collection: 36666
 ---
+With writers like von Arnim, the Brentano siblings, the Grimm brothers and artists like Philipp Veit, Eduard Steinle and Philipp Fohr the Rhein-Main region played a central role in the romantic era. Following the description of Jena, Berlin and Heidelberg as “cradle of romanticism”, the “Kulturfond Frankfurt RheinMain” characterises the Rhein-Main region as “laboratory of  romanticism” and arranged a large-scale project on that subject. Part of the project is an exhibition in the museum Wiesbaden concerning Rhein-romanticism. As a border river between Rome and Germania the Rhein became a mythically and ideologically charged nature motif.   
+
+*"Rheinromantik. Kunst und Natur":http://www.museum-wiesbaden.de/ausstellung/florschuetz.html, 22 March to 28 July 2013, Museum Wiesbaden
+"Schwerpunktthema Impuls Romantik":http://kulturfonds-frm.de/projekte/schwerpunktthema-impuls-romantik, 2012 to 2014, Kulturfond Frankfurt RheinMain*

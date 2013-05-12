@@ -14,10 +14,10 @@ title: Impuls Romantik
 subtitle: 
 date: 2013/05/08
 repeat: 4 1 3
-teaser: Ein Projekt des Kulturfonds Frankfurt RheinMain widmet sich der Epoche der Romantik und ihrer Wirkung auf das Rhein-Main-Gebiet.
+teaser: "Mit Literaten, wie von Arnim, den Geschwistern Brentano, den Br\xC3\xBCder Grimm und K\xC3\xBCnstlern wie Philipp Veit, Eduard Steinle und Philipp Fohr spielte das Rhein-Main-Gebiet in der Romantik keine geringe Rolle."
 collection: 36666
 ---
-Ein Projekt des Kulturfonds Frankfurt RheinMain widmet sich der Epoche der Romantik und ihrer Wirkung auf das Rhein-Main-Gebiet. Protagonisten wie Clemens und Bettina Brentano, Achim von Arnim, den Brüdern Grimm, Karoline von Günderrode, Friedrich Hölderlin, Felix Mendelssohn-Bartholdy, Philipp Veit, Eduard Steinle und Philipp Fohr prägten diese Zeit. Teil des Projektes ist auch eine Ausstellung zur Rheinromantik im Museum Wiesbaden. Als Grenzfluss zwischen Rom und Germanien war der Rhein zu einem mythen- und ideologiebeladenen Naturmotiv geworden.
+Mit Literaten, wie von Arnim, den Geschwistern Brentano, den Brüder Grimm und Künstlern wie Philipp Veit, Eduard Steinle und Philipp Fohr spielte das Rhein-Main-Gebiet in der Romantik keine geringe Rolle. Anknüpfend an die Bezeichnung „Wiege der Romantik“ für Jena, Berlin und Heidelberg, beschreibt der Kulturfonds Frankfurt RheinMain die Region daher als „Labor der Romantik“ und richtet ein großangelegtes Projekt zum Thema aus. Teil des Projektes ist auch eine Ausstellung zur Rheinromantik im Museum Wiesbaden. Als Grenzfluss zwischen Rom und Germanien war der Rhein zu einem mythen- und ideologiebeladenen Naturmotiv geworden.
 
 *"Rheinromantik. Kunst und Natur":http://www.museum-wiesbaden.de/ausstellung/rheinromantik.html, 22. März bis 28. Juli 2013, Museum Wiesbaden
 "Schwerpunktthema Impuls Romantik":http://kulturfonds-frm.de/, 2012 bis 2014, Kulturfond Frankfurt RheinMain*
