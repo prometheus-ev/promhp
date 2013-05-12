@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Friedrich II. (Auftraggeber) / Johann Gottfried B\xC3\xBCring (Baumeister): Bildergalerie im Park Sanssouci, Blick von S\xC3\xBCden, 1755-1764, Potsdam Sanssouci; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Friedrich II. (Auftraggeber) / Johann Gottfried B\xC3\xBCring (Baumeister): Bildergalerie im Park Sanssouci, Innenansicht, 1755-1764,  Potsdam Sanssouci; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Die Kn\xC3\xB6chelspielerin, Marmor, H 70cm, Antikensammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Vorderseite eines Reliefsarkophages mit Graziengruppe und Darstellungen des Narziss (Detail), sp\xC3\xA4tantoninisch-fr\xC3\xBChseverisch, Marmor, 78 x 188,5 cm, Potsdam Sanssouci, Bildergalerie; Arachne, Universit\xC3\xA4t zu K\xC3\xB6ln, Arch\xC3\xA4ologisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Friedrich II. (Auftraggeber) / Johann Gottfried B\xC3\xBCring (Baumeister): Bildergalerie im Park Sanssouci, Innen: Blick von Osten, 1755-1764, Potsdam Sanssouci; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Friedrich II. (Auftraggeber) / Johann Gottfried B\xC3\xBCring (Baumeister): Bildergalerie im Park Sanssouci, Blick auf die Gem\xC3\xA4lde, 1755-1764, Potsdam Sanssouci; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Michelangelo Merisi da Caravaggio: Der ungl\xC3\xA4ubige Thomas (Ausschnitt), um 1600, \xC3\x96l auf Leinwand, 107 x 146 cm, Potsdam Sanssouci, Bildergalerie; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Peter Paul Rubens: Die Heilige C\xC3\xA4cilie, 1639-1640, \xC3\x96l auf Eichenholz, 177 x 139cm, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: The Picture Gallery in Potsdam
+subtitle: During the time of Frederick the Great
+date: 2013/05/12
+repeat: 2 6 3
+teaser: When the Picture Gallery in Sanssouci Park was finished in 1763, it was one of the first buildings in Europe exclusively erected for an art collection
+collection: 36699
+---
+When the Picture Gallery in Sanssouci Park was finished in 1763, it was one of the first buildings in Europe exclusively erected for an art collection and one of the most magnificent in its kind as well. 250 years after the opening an exhibition in the elaborately restored picture gallery evokes the original interior concept of King Frederick II. The effort to show the historical hanging can be seen in the small cabinet; ancient sculptures, which have not been in the gallery since 1830, could be won as loans from Berlin and Poznan and complete the show. 
+
+*"The most beautiful gallery. Revisiting the Picture Gallery of Frederick the Great":http://www.spsg.de/Ausstellung_250Jahre-Bildergalerie.html, 9 May to 31 October 2013, Potsdam Sanssouci, Picture Gallery*

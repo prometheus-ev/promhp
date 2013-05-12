@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Christian Georg Sch\xC3\xBCtz d. \xC3\x84.: Rheinische Flusslandschaft mit Haus (Ausschnitt), 1765/67, \xC3\x96l auf Holz, 34,6 x 46,8 cm, Mainz, Landesmuseum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Christian Friedrich Tieck: Clemens Brentano, 1803, Gips, 58cm hoch, Berlin, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "James William Mallord Turner: Der Rhein bei Reichenau (Ausschnitt), um 1841, Wasserfarbe, 24,4 x 31,1 cm, London, Tate Gallery; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Elisabeth Jerichau-Baumann: Br\xC3\xBCder Jacob Grimm und Wilhelm Grimm (Ausschnitt), 1855, \xC3\x96l auf Leinwand, 63 x 54 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Johann Georg Schneider: Blick vom Niederwald rheinaufw\xC3\xA4rts (Ausschnitt), 1784, \xC3\x96l auf Leinwand, 58,7 x 92,9 cm, Mainz, Landesmuseum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Joseph Anton Koch: Philipp Veit (Ausschnitt), 1825/30, Zeichnung, Privatsammlung; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln "
+- "Louis Catoir: Mainz, Ansicht vom n\xC3\xB6rdlichen Rheinufer aus (Ausschnitt), 1833/37, Aquarell, 31 x 40,5 cm, K\xC3\xB6ln, Stadtmuseum, Graphische Sammlung; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Christian Georg Sch\xC3\xBCtz d. \xC3\x84.: Rheinische Flusslandschaft mit ummauertem St\xC3\xA4dtchen (Ausschnitt), 1766, \xC3\x96l auf Kupfer, auf Holz montiert, 24,7 x 32,5 cm, Mainz, Landesmuseum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Impuls Romantik
+subtitle: 
+date: 2013/05/08
+repeat: 4 1 3
+teaser: Ein Projekt des Kulturfonds Frankfurt RheinMain widmet sich der Epoche der Romantik und ihrer Wirkung auf das Rhein-Main-Gebiet.
+collection: 36666
+---
+Ein Projekt des Kulturfonds Frankfurt RheinMain widmet sich der Epoche der Romantik und ihrer Wirkung auf das Rhein-Main-Gebiet. Protagonisten wie Clemens und Bettina Brentano, Achim von Arnim, den Brüdern Grimm, Karoline von Günderrode, Friedrich Hölderlin, Felix Mendelssohn-Bartholdy, Philipp Veit, Eduard Steinle und Philipp Fohr prägten diese Zeit. Teil des Projektes ist auch eine Ausstellung zur Rheinromantik im Museum Wiesbaden. Als Grenzfluss zwischen Rom und Germanien war der Rhein zu einem mythen- und ideologiebeladenen Naturmotiv geworden.
+
+*"Rheinromantik. Kunst und Natur":http://www.museum-wiesbaden.de/ausstellung/rheinromantik.html, 22. März bis 28. Juli 2013, Museum Wiesbaden
+"Schwerpunktthema Impuls Romantik":http://kulturfonds-frm.de/, 2012 bis 2014, Kulturfond Frankfurt RheinMain*
