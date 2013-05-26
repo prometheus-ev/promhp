@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Charles Bird King: Young Omawhaw, War Eagle, Little Missouri and Pawness (Ausschnitt), 1822, \xC3\x96l auf Leinwand, 91,7 x 71,1 cm,Washington, D.C., Smithsonian American Art Museum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Enrico Causici: Die Landung der Pilger  (Ausschnitt), 1825, Sandsteinrelief, Washington, D.C., United States Capitol Rotunda; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Falschgesichtmaske der Irokesen, hergestellt von Karl von den Steinen (1855-1929), Holz / Pferdehaar / Messing, H 32 cm, Ethnologisches Museum, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Funcke: Ein Irokese (Ausschnitt), 1797, kolorierter Kupferstich, 144 x 84 mm; Pictura Paedagogica Online, Bibliothek f\xC3\xBCr Bildungsgeschichtliche Forschung des Deutschen Instituts f\xC3\xBCr Internationale P\xC3\xA4dagogische Forschung, Berlin"
+- "Charles Bird King: Young Omawhaw, War Eagle, Little Missouri and Pawness (Ausschnitt), 1822, \xC3\x96l auf Leinwand, 91,7 x 71,1 cm,Washington, D.C., Smithsonian American Art Museum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Enrico Causici: Der Konflikt zwischen Daniel Boone und den Indianern (Ausschnitt), 1826/27, Sandsteinrelief, Washington, D.C., United States Capitol Rotunda; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Falschgesichtmaske der Irokesen, hergestellt von Karl von den Steinen (1855-1929), Holz / Pferdehaar / Messing, H 32 cm, Ethnologisches Museum, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Jacob August Rijs: Irokesen in der Broome Street (Ausschnitt), k.A., Fotografie, New York, Museum of the City of New York; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+title: The culture of the Iroquois
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/05/26
+repeat: 3 4 6
+teaser: The Iroquois had caused much fascination in Europe.
+collection: 36856
+---
+The Iroquois had caused much fascination in Europe. An exhibition in Bonn is demonstrating, that they became protagonists of literature and visual arts as fearsome warriors and skilled diplomats. 
+The cooperation of the Bundeskunsthalle with Iroquoian artists, curators and intellectuals ensures, that the topic is not limited to the European view on Iroquoian culture. With ethnographic objects and Iroquoian contemporary art the development of their culture is presented up to the 21st century.
+  
+*"On the route of the Iroquois":http://www.bundeskunsthalle.de/ausstellungen/irokesen.html, 22 March to 4 August 2013, Bonn, Bundeskunsthalle*
