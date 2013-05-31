@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Franz Marc: Sch\xC3\xB6pfungsgeschichte II (Ausschnitt), 1914, Holzschnitt, 23,9 x 20 cm, Duisburg, Wilhelm-Lehmbruck-Museum; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Per Kirkeby: Ver\xC3\xA4nderungen der Oberfl\xC3\xA4che (Ausschnitt), 1990, \xC3\x96l auf Leinwand, 200 x 170 cm, Bergisch Gladbach, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Franz Marc: Geburt der Pferde (Ausschnitt), 1913, Farbholzschnitt, 39,5 x 29,8 cm, D\xC3\xBCren, Leopold-Hoesch-Museum; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Per Kirkeby: Neue B\xC3\xA4ume V (Ausschnitt), 1984, \xC3\x96l auf Leinwand, 252 x 90 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Franz Marc: Fabeltier (Ausschnitt), 1912, Farbholzschnitt, 18,2 x 25 cm, Dortmund, Museum am Ostwall; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Per Kirkeby: Ohne Titel (Ausschnitt), 1996, Masonit, Mischtechnik, 122 x 122 cm, K\xC3\xB6ln und New York, Handel, Galerie Michael Werner; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Franz Marc: Ruhende Pferde (Ausschnitt), um 1911/12, Farbholzschnitt, 167 x 225 cm, Graphische Sammlung Albertina; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Per Kirkeby: Wald-Variation V (Ausschnitt), 1989, \xC3\x96l auf Leinwand, 200 x 130 cm, Kopenhagen, Galleri Bo Bjerggaard; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+layout: series
+title: Franz Marc und Per Kirkeby
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 1 6 3
+date: 2013/05/31
+teaser: "Einen anregenden Vergleich liefert das Franz Marc Museum mit der Gegen\xC3\xBCberstellung von Arbeiten Marcs und Kirkebys."
+collection: 36943
+---
+Einen anregenden Vergleich liefert das Franz Marc Museum mit der Gegenüberstellung von Arbeiten Marcs und Kirkebys. Das Thema Natur prägt sowohl die seltenen druckgraphischen Blätter Franz Marcs und die Monotypien und Holzschnitte Per Kirkebys. In ihrer Unterschiedlichkeit korrespondieren die Arbeiten vor allem in den Farben und den sich überlagernden Formen.
+
+*"Strukturen der Natur. Franz Marc und Per Kirkeby: Druckgraphik":http://www.franz-marc-museum.de/?seite=aktuelles, verlängert bis 9. Juni 2013, Kochel, Franz Marc Museum*
