@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Fassade des Inanna-Tempels des Kara-indas, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Vorderasiatisches Museum; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fe"
+- "Stiftmosaik im Tempelbezirk Eanna der Stadtg\xC3\xB6ttin Inanna von Urku, Rekonstruktion, Ton, gebrannt, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Vorderasiatisches Museum; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Abrechnung \xC3\xBCber Getreidesorten aus Uruk, fr\xC3\xBChsumerisch, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Vorderasiatisches Museum; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Froschfiguren, fr\xC3\xBChsumerisch, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Vorderasiatisches Museum; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Lange Halskette, fr\xC3\xBChsumerisch, Bergkristall, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Vorderasiatisches Museum; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Gr\xC3\xBCndungsurkunde des K\xC3\xB6nigs Lugalkisalisi von Uruk und Ur in Form einer Statuette, um 2500 \xE2\x80\x93 2000 v. Chr., Kalkstein, 24,5 cm hoch, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Vorderasiatisches Museum: bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Rollsiegel, fr\xC3\xBChsumerisch, Kalkstein, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Vorderasiatisches Museum; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+- "Sumerische Arbeiten aus Uruk, fr\xC3\xBChsumerisch, Berlin, Staatliche Museen Preu\xC3\x9Fischer Kulturbesitz, Vorderasiatisches Museum; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin "
+layout: series
+title: Uruk
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 5000 Years of the Megacity
+repeat: 7 3 8
+date: 2013/06/02
+teaser: Uruk, now Warka situated in south of Iraq, is the first known metropolis.
+collection: 36967
+---
+Uruk, now Warka situated in south of Iraq, is the first known metropolis. Since November 1912 there are German excavations in Uruk. At that time it was customary to divide the archaeological finds, so that an amount of objects made their way to Germany, to the Museum of the Ancient Near East at Berlin and the Uruk-Warka's Collection of the German Archaeological Institute at Heidelberg. Scores of finds from both collections are now presented in an exhibition concerning genesis and flourishing of Uruk. 
+
+*"Uruk. 5000 Years of the Megacity":http://www.smb.museum/smb/kalender/details.php?objID=31969&datum=25.04.2013+00:00&lang=en, 25 April to 8. September 2013, Pergamonmuseum, Berlin; 20 October 2013 to 21 April 2014, Reiss-Engelhorn-Museen, Mannheim*
