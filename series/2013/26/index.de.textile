@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Heimrad Prem: Stubenhocker (Ausschnitt), 1964, \xC3\x96l auf Leinwand, 120 x 100 cm, Kiel, Kunsthalle; digiCULT Museen, digiCULT, Kiel"
+- "Helmut Sturm: o.T. (Ausschnitt), 1961, \xC3\x96l auf Leinwand, 100 x 85 cm, M\xC3\xBCnchen, Privatbesitz; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Lothar Fischer: Trojanisches Pferd (Detail), 1962, Ton, Emden, Kunsthalle; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "H. P. Zimmer: Portr\xC3\xA4tstudie (Ausschnitt), 1959, \xC3\x96l auf Leinwand, 90 x 80 cm, M\xC3\xBCnchen, Galerie van de Loo; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Heimrad Prem / Lothar Fischer: Piratenschiff (Detail), 1964, Ton, 50 x 40 x 210 cm, Kiel, Kunsthalle: digiCULT Museen, digiCULT, Kiel"
+- "Helmut Sturm: Zwischenfall (Ausschnitt), 1962, \xC3\x96l auf Leinwand, 150 x 130 cm, Kiel, Kunsthalle; digiCULT Museen, digiCULT, Kiel"
+- "Gruppe SPUR: SPUR-Bau, Modell, 1963, Terrakotta und Gips, bemalt, 90 x 90 x 70 cm, M\xC3\xBCnchen, St\xC3\xA4dtische Galerie im Lenbachhaus; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "H.P. Zimmer: f\xC3\xBCr die SPUR-Ausstellung in Essen (Ausschnitt), 1960, Zeichnung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+layout: series
+title: "Die Gruppe SPUR "
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 1 3 6
+date: 2013/06/03
+teaser: "Als Teil der deutschen Avantgarde nach 1945 provozierte die K\xC3\xBCnstlergruppe SPUR aus M\xC3\xBCnchen vielfach mit gesellschaftspolitischen Themen."
+collection: 36899
+---
+Als Teil der deutschen Avantgarde nach 1945 provozierte die Künstlergruppe SPUR aus München vielfach mit gesellschaftspolitischen Themen. In ihrem 1958 publizierten Manifest treten Lothar Fischer, Heimrad Prem, Helmut Sturm und H. P. Zimmer u.a. für die Freiheit der Kunst, für den Irrtum, den Kitsch und den Nihilismus ein.
+Eine Ausstellung in der Kieler Kunsthalle zeigt Arbeiten der SPUR-Mitglieder zusammen mit Werken von nahestehenden Künstlern, wie Asger Jorn, und Vorbildern, wie Max Beckmann, Wassily Kandinsky, Paul Klee, Emil Nolde, Max Ernst und Jackson Pollock.
+
+*"Dritte Welle. Die Gruppe SPUR, der Pop und die Politik":http://www.kunsthalle-kiel.de/de/ausstellungen/index.html, 25. Mai bis 8. September 2013, Kiel, Kunsthalle*
