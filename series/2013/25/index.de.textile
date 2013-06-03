@@ -1,0 +1,12 @@
+--- 
+descriptions: []
+
+layout: series
+title: The artist group SPUR
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: ""
+date: 2013/06/02
+teaser: 
+collection: 
+---
