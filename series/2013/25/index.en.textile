@@ -1,12 +1,24 @@
 --- 
-descriptions: []
-
+descriptions: 
+- "Gerhard Altenbourg: Aufgereckt Herr Zebaoth, 1972, Mischtechnik, 49 x 33,5 cm, o.O.; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
+- "Gerhard Altenbourg: Ecce Homo Sterbender Krieger, 1949, Kreide / Bleistift auf Papier, 135 x 88 cm, Lindenau, Museum Altenburg; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Gerhard Altenbourg: Gebl\xC3\xA4hter D\xC3\xA4mon und Kakadu, 1973, Kupfer / Messing, getrieben, vergoldet, gepunzt, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Gerhard Altenbourg: Relief auf der Mappe Nr.2, 1969, Kupfer, getrieben und geh\xC3\xA4mmert, auf Leinenmappe, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Gerhard Altenbourg: Dort unten, 1959, Aquarell / Tempera / chinesische Tusche, Chemnitz, Museum Gunzenhauser; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Gerhard Altenbourg: Die Schaukel, 1954, Aquarell / Tusche auf Altdeutsch B\xC3\xBCtten, 42.2 x 60,2 cm, Berlin, Sammlung Ulla und Heiner Pietzsch; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Gerhard Altenbourg: Glossen um eine Figur, die ich das Gesichtslose Mek\xC3\xB6nkchen nenne, 1969, Farbholzschnitt, Chemnitz, Kunstsammlungen, Stiftung Carlfriedrich Claus-Archiv; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Gerhard Altenbourg: Schl\xC3\xBCssel, 1960er und 70er Jahre, Messing / Kupfer / Stahl, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
 layout: series
-title: The artist group SPUR
+title: Gerhard Altenbourg
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: 
-repeat: ""
+repeat: 2 7 4
 date: 2013/06/02
-teaser: 
-collection: 
+teaser: "Gerhard Altenbourg, born in 1926 as Gerhard Str\xC3\xB6ch, is subject of a great retrospective in Durach."
+collection: 36991
 ---
+Gerhard Altenbourg, born in 1926 as Gerhard Ströch, is subject of a retrospective in Durach. Living in the DDR Altenbourg practiced his art with a distinctive individualism. In 1959 he was represented at the second documenta at Kassel.
+
+The retrospective in Durbach had arosen in cooperation with the Lindenau-Museum Altenburg and is presenting a selection of 150 art works from all phases of work between 1948 and 1989.
+
+*"Gerhard Altenbourg - Retrospective 1948-89":http://museum-hurrle.de/aktuell.html#Anchor-Florian-49575, 4. Mai bis 4. August 2013, Museum für aktuelle Kunst, Sammlung Hurrle, Durbach*
