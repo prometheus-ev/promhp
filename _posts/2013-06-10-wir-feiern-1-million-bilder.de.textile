@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Wir feiern 1 Million Bilder!
+author: Lisa
+tags: 
+- news
+---
+<img src="<%=r "files/images/prom_1mio.jpg" %>" />
+
+Ein Meilenstein ist erreicht: mit dem heutigen Update können im Bildarchiv nun über 1 Million Bilder recherchiert werden - wenn das kein Grund zum Feiern ist! Daher haben wir uns eine besondere Aktion ausgedacht: wir möchten Sie bitten, Bildsammlungen zu Ihrem Forschungsthema, zu einer Ausstellung, einer Publikation oder einem Seminar bis zum 31. Juli zusammenzustellen und uns einen Link darauf an "info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de mit dem Betreff "prometheus-Aktion" zu schicken. Die interessantesten, schönsten oder skurrilsten 10 werden wir in einer Bildserie noch in diesem Jahr veröffentlichen. 
+Unter den Gewinnern wird zudem eine Teilnahme an der für den 24./25. Oktober geplanten Tagung zum "Kulturellen Erbe" verlost. Mehr dazu und zu anderen Themen gibt's in unserem in Kürze erscheinenden Newsletter.
+
