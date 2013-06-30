@@ -1,0 +1,24 @@
+--- 
+descriptions: 
+- "Lovis Corinth: Der Hase, 1921, \xC3\x96l auf Pappe, 65 x 85cm, Berlin, Kunsthandel Wolfgang Werner; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Figur der G\xC3\xB6ttin Bastet als Katze, 610 bis 595 v. Chr., Bronze, 21 cm hoch, Berlin, \xC3\x84gyptisches Museum und Papyrussammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Franz Marc: Tiger, 1912, \xC3\x96l auf Leinwand, 111,5 x 101,5 cm, M\xC3\xBCnchen, St\xC3\xA4dtische Galerie; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Ewald Matar\xC3\xA9: Gro\xC3\x9Fe liegende Kuh, 1930, Bronze, Aachen, Reichsabtei Kornelim\xC3\xBCnster; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Jacob Lehnen: Jagdstilleben, 1945, \xC3\x96l auf Leinwand, D\xC3\xBCsseldorf, Stadtmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Markus L\xC3\xBCpertz: Schnecke, 1973, Leimfarbe auf Leinwand, Galerie Michael Werner, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "G\xC3\xBCnther-Dietz Sontheimer: Bastar, 1979, Metallstatuette, Heidelberg, S\xC3\xBCdasien-Institut; HeidICON - Exzellenzcluster Sontheimer \"Asia and Europe in a Global Context\", Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Richard Scheibe: Stehender Affe, 1924, Bronze, Chemnitz, Kunstsammlungen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+layout: series
+title: Menagerie
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Pictures of animals
+date: 2013/06/30
+repeat: 1 4 6
+teaser: "From Lucas Cranach d. \xC3\x84. over Ren\xC3\xA9 Magritte to Andy Warhol "
+collection: 37213
+---
+From Lucas Cranach d. Ä. over René Magritte to Andy Warhol the Kunsthalle Würth is presenting animal pictures in a wide range of variations. 
+Beside of an insight into the history of animal pictures the exhibition should illustrate our relationship to animals. Indeed, the pictures show both the animal as food and as a companion; both as meat and as a pet.
+
+*"Menagerie – Animals in the Würth Collection":http://www.kunst.wuerth.com/web/de/kunsthalle_wuerth/ausstellungen_kh/aktuell_kh/aktuell_kh_2.php, 17 June 2013 to 11 May 2014, Kunsthalle Würth*
+

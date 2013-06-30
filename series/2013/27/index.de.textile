@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Lovis Corinth: Der Hase, 1921, \xC3\x96l auf Pappe, 65 x 85cm, Berlin, Kunsthandel Wolfgang Werner; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Figur der G\xC3\xB6ttin Bastet als Katze, 610 bis 595 v. Chr., Bronze, 21 cm hoch, Berlin, \xC3\x84gyptisches Museum und Papyrussammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Franz Marc: Tiger, 1912, \xC3\x96l auf Leinwand, 111,5 x 101,5 cm, M\xC3\xBCnchen, St\xC3\xA4dtische Galerie; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Ewald Matar\xC3\xA9: Gro\xC3\x9Fe liegende Kuh, 1930, Bronze, Aachen, Reichsabtei Kornelim\xC3\xBCnster; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Jacob Lehnen: Jagdstilleben, 1945, \xC3\x96l auf Leinwand, D\xC3\xBCsseldorf, Stadtmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Markus L\xC3\xBCpertz: Schnecke, 1973, Leimfarbe auf Leinwand, Galerie Michael Werner, K\xC3\xB6ln; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "G\xC3\xBCnther-Dietz Sontheimer: Bastar, 1979, Metallstatuette, Heidelberg, S\xC3\xBCdasien-Institut; HeidICON - Exzellenzcluster Sontheimer \"Asia and Europe in a Global Context\", Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg "
+- "Richard Scheibe: Stehender Affe, 1924, Bronze, Chemnitz, Kunstsammlungen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+layout: series
+title: Menagerie
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Tierdarstellungen der Sammlung W\xC3\xBCrth"
+date: 2013/06/30
+repeat: 1 4 6
+teaser: "Von Lucas Cranach \xC3\xBCber Ren\xC3\xA9 Magritte bis Andy Warhol zeigt die Kunsthalle W\xC3\xBCrth eine variationsreiche Zusammenstellung k\xC3\xBCnstlerischer Tier-Darstellungen. "
+collection: 37213
+---
+Von Lucas Cranach über René Magritte bis Andy Warhol zeigt die Kunsthalle Würth eine variationsreiche Zusammenstellung künstlerischer Tier-Darstellungen. 
+Neben einem Rundblick zur Geschichte der Tierdarstellung soll uns die Präsentation auch unser Verhältnis zu Tieren bewusst machen. Wir haben uns „zwischen Grillwurst und Gassigehen“ eingerichtet, heißt es beim Internet-Auftritt des Museums, und in der Tat ist das Tier als Nahrungsmittel ebenso Thema der Bilder, wie das Tier als Lebensgefährte. 
+
+*"Menagerie - Tierschau aus der Sammlung Würth":http://www.kunst.wuerth.com/web/de/kunsthalle_wuerth/ausstellungen_kh/aktuell_kh/aktuell_kh_2.php, 17. Juni 2013 bis 11. Mai 2014, Kunsthalle Würth*
