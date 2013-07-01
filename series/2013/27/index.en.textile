@@ -14,11 +14,11 @@ author: "Hendrikje H\xC3\xBCneke"
 subtitle: Pictures of animals
 date: 2013/06/30
 repeat: 1 4 6
-teaser: "From Lucas Cranach d. \xC3\x84. over Ren\xC3\xA9 Magritte to Andy Warhol "
+teaser: "From Lucas Cranach over Ren\xC3\xA9 Magritte to Andy Warhol the Kunsthalle W\xC3\xBCrth is presenting animal pictures in a wide range of variations. "
 collection: 37213
 ---
-From Lucas Cranach d. Ä. over René Magritte to Andy Warhol the Kunsthalle Würth is presenting animal pictures in a wide range of variations. 
-Beside of an insight into the history of animal pictures the exhibition should illustrate our relationship to animals. Indeed, the pictures show both the animal as food and as a companion; both as meat and as a pet.
+From Lucas Cranach over René Magritte to Andy Warhol the Kunsthalle Würth is presenting animal pictures in a wide range of variations. 
+Beside of an insight into the history of animal pictures the exhibition should illustrate our relationship to animals between "Grillwurst" and "Gassigehen". Indeed, in our society the animal can be both food and companion, meat and pet.
 
 *"Menagerie – Animals in the Würth Collection":http://www.kunst.wuerth.com/web/de/kunsthalle_wuerth/ausstellungen_kh/aktuell_kh/aktuell_kh_2.php, 17 June 2013 to 11 May 2014, Kunsthalle Würth*
 
