@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: "Rechteeinholung nun auch f\xC3\xBCr bpk-Onlinepublikationen"
+author: Denise
+tags: 
+- news
+---
+prometheus und das bpk ("Bildagentur für Kunst, Kultur und Geschichte":http://bpkgate.picturemaxx.com/webgate_cms/) haben eine weitere Übereinkunft geschlossen. So können alle Bilder, die das bpk in digitaler Form über prometheus zur Verfügung stellt, nun auch für Onlinepublikationen im wissenschaftlichen, nicht-kommerziellen Rahmen kostenlos verwendet und die Rechtegenehmigung direkt über prometheus eingeholt werden. Die Größe der verwendeten Bilder darf hierbei 600 × 800 Pixel nicht überschreiten. 
+
+Nähere Informationen zum Bildrecht und zur Verwendung in prometheus finden Sie unter "Rechtliches":http://prometheus-bildarchiv.de/de/copyright/.

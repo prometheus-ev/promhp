@@ -1,0 +1,7 @@
+--- 
+layout: post
+title: "Rechteeinholung nun auch f\xC3\xBCr bpk-Onlinepublikationen"
+author: Denise
+tags: 
+- news
+---
