@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Lewis Hine: Steamfitter (Ausschnitt), 1920, Fotografie, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lewis Hine: Jugendliche in einer Baumwollfabrik (Ausschnitt), Georgia, 1909, Fotografie, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lewis Hine: Bremser, New York Central Railroad (Ausschnitt), 1921, Fotografie, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lewis Hine: Der griechische Ringverein, Hull House, Chicago (Ausschnitt), 1910, Fotografie, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lewis Hine: Bauarbeiter am Empire State Building (Ausschnitt), 1930, Fotografie, New York, Columbia University; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lewis Hine: Zeitungsjungen um Mitternacht, Brooklyn Bridge, New York (Ausschnitt), 1908, Fotografie, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lewis Hine: Italienische Mutter mit ihrem Kind vor der Verwahrungszelle, Ellis Island, New York (Ausschnitt), 1905, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lewis Hine: Spinnerin, Lincolntown, North Carolina (Ausschnitt), 1908, Fotografie, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+layout: series
+title: Lewis Hine
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: Photographs
+date: 2013/07/03
+repeat: 6 1 4
+teaser: The sociologist Lewis Hine took photographs of migrants, workers and poor people
+collection: 37340
+---
+The sociologist Lewis Hine took photographs of migrants, workers and poor people and became one of the founders of social documentary photography. For the National Child Labor Committee (NCLC) he travelled about 75'000 kilometres through the USA to portray children at work in mines, factories and on farms. In 1930 he documented the construction of the Empire State Building. 
+In his eyes photography was an instrument to call attention to injustice of the American law. Today his pictures are an invaluably historical document.
+
+*"Lewis Hine. Photographies to change":http://www.fotomuseum.ch/?id=501&M=2&tx_exhibitionshome_pi1[m]=c&tx_exhibitionshome_pi1[uid]=141&tx_exhibitions_pi1[L]=0&L=0, 8 June to 25 August 2013, Fotomuseum Winterthur*
