@@ -1,10 +1,11 @@
----
+--- 
 layout: default
 title: Registration and Licenses
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=33&L=1
 ---
 h2. <%= page_title %>
 
+prometheus is a non-commercial image archive. prometheus doesn’t draw profit and is supported by the non-profit "association prometheus e.V.":http://prometheus-bildarchiv.de/en/about/association/index. License fees are charged exclusively for operating our services and the continuous development of our applications.
 There are different ways to use prometheus. We offer the following license models for you:
 
 h3. Campus license

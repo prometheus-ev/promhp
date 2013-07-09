@@ -7,11 +7,12 @@ h2. <%= page_title %>
 
 Institutions and schools which hold a license or participate in a campus license may ask at the prometheus office for an *administrative account* free of charge.
 
+Please complete and sign the application form ready for download below and send it to the prometheus office:
+"» Application form for an administrative account":<%=r 'files/text/administrator_engl_0907.pdf' %>
+
 Once you got an administrative account, please note the following: As an administrator you are authorized to assign personal accounts to teachers, researchers, and students at your institution. You are fully responsible for the allocation and management of the personal accounts you assign.
 
 The administrative account should be managed - if possible - by a member of staff. Teachers, researchers, and students apply to you for a personal account.
 
-h3. Application form for an administrative account
 
-Please complete and sign the application form ready for download below and send it to the prometheus office:
-"» Application form for an administrative account":<%=r 'files/text/administrator_engl_0907.pdf' %>
+On request we're pleased to introduce the different functions of prometheus to you, your colleagues and students! 

@@ -28,6 +28,9 @@
     - :title_en: API
       :title_de: API
       :url: development/api
+  - :title_en: Overview
+    :title_de: Übersicht
+    :url: prometheus/service
   - :title_en: Publications
     :title_de: Publikationen
     :url: prometheus/publications/index
@@ -55,9 +58,25 @@
   :title_de: Wir über uns
   :url: about/index
   :content:
+  - :title_en: Members of Staff
+    :title_de: MitarbeiterInnen
+    :url: about/index  
+  - :title_en: The Association
+    :title_de: Der Verein
+    :url: about/association
+    :content:
+    - :title_en: Articles (German)
+      :title_de: Satzung
+      :url: about/association/articles
+    - :title_en: Executive Board
+      :title_de: Vorstand
+      :url: about/association/executive-board
+    - :title_en: How to become a Member
+      :title_de: Mitglied werden
+      :url: about/association/membership
   - :title_en: Project History
     :title_de: Projektgeschichte
-    :url: about/index
+    :url: about/project_history
   - :title_en: 10-years-prometheus
     :title_de: 10-Jahre-prometheus
     :url: about/10years
@@ -73,23 +92,7 @@
       :url: about/tagung2011/lectures
     - :title_en: Venue
       :title_de: Anfahrt
-      :url: about/tagung2011/venue
-  - :title_en: The Association
-    :title_de: Der Verein
-    :url: about/association
-    :content:
-    - :title_en: Articles (German)
-      :title_de: Satzung
-      :url: about/association/articles
-    - :title_en: Executive Board
-      :title_de: Vorstand
-      :url: about/association/executive-board
-    - :title_en: How to become a Member
-      :title_de: Mitglied werden
-      :url: about/association/membership
-  - :title_en: Members of Staff
-    :title_de: MitarbeiterInnen
-    :url: about/staff
+      :url: about/tagung2011/venue 
   - :title_en: Jobs
     :title_de: Jobs
     :url: about/jobs

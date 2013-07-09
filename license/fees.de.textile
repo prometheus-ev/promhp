@@ -1,24 +1,26 @@
----
+--- 
 layout: default
-title: Lizenzgebühren
+title: "Lizenzgeb\xC3\xBChren"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=55
 ---
 h2. <%= page_title %>
 
 h3. Einzellizenz
 
-20,- €/Jahr
+30,- €/Jahr
 
 "» Zur Anmeldung":<%=p 'signup' %>
 
 h3. Ermäßigte Lizenzgebühren für Hochschulen (über das HBZ)
 
-|Institute bis 500 Personen||500,- €/Jahr|
-|Institute bis 1000 Personen||1000,- €/Jahr|
-|Institute über 1000 Personen||1800,- €/Jahr|
-|Campuslizenz||4000,- €/Jahr|
+|Institute bis 500 Personen|| 650,- €/Jahr|
+|Institute bis 1000 Personen||1300,- €/Jahr|
+|Institute über 1000 Personen||2340,- €/Jahr|
+|Campuslizenz||5200,- €/Jahr|
 
 Nachlass für Fachhochschulen: 50%/Jahr
+Bei Abschluss eines Dreijahresvertrages erhalten Institutionen einen Rabatt von 10%
+
 
 *Kontaktdaten Hochschulbibliothekszentrum NRW:*
 
@@ -28,11 +30,11 @@ Tel: 0221 400 75 300
 
 h3. Lizenzgebühren für weitere Institutionen (über die prometheus-Geschäftsstelle)
 
-|Schulen und Museen||200,- €/Jahr|
-|Institutionen bis 500 Personen||900,- €/Jahr|
-|Institutionen bis 1000 Personen||1800,- €/Jahr|
-|Institutionen bis 3000 Personen||3400,- €/Jahr|
-|Institutionen über 3000 Personen||6000,-€/Jahr|
+|Schulen und Museen|| 260,- €/Jahr|
+|Institutionen bis 500 Personen||1170,- €/Jahr|
+|Institutionen bis 1000 Personen||2340,- €/Jahr|
+|Institutionen bis 3000 Personen||4420,- €/Jahr|
+|Institutionen über 3000 Personen||7800,-€/Jahr|
 
 *prometheus-Geschäftsstelle:*
 

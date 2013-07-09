@@ -5,7 +5,9 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=6
 ---
 h2. <%= page_title %>
 
-prometheus ist ein digitales Bildarchiv für Kunst-und Kulturwissenschaften. Das prometheus Bildarchiv funktioniert nach dem Prinzip eines Datenbankbrokers, der heterogene Bilddatenbanken zusammenführt. Die Bildgeber stellen ihre Datenbanken der Forschung und Lehre kostenlos zur Verfügung. Somit ermöglicht prometheus eine komfortable Bildsuche über eine gemeinsame Oberfläche in unterschiedlichen Bildarchiven, Instituts-, Forschungs- und Museumsdatenbanken.
+prometheus ist ein digitales Bildarchiv für Kunst- und Kulturwissenschaften. Das prometheus Bildarchiv funktioniert nach dem Prinzip eines Datenbankbrokers, der heterogene Bilddatenbanken zusammenführt. Die Bildgeber stellen ihre "Datenbanken":http://prometheus-bildarchiv.de/de/databases/index der Forschung und Lehre kostenlos zur Verfügung. Somit ermöglicht prometheus eine komfortable Bildsuche über eine gemeinsame Oberfläche in unterschiedlichen Bildarchiven, Instituts-, Forschungs- und Museumsdatenbanken.
+
+prometheus erwirtschaftet keine Gewinne und wird getragen von einem gemeinnützigen "Verein":http://prometheus-bildarchiv.de/about/association/ zum Zweck der Förderung von Wissenschaft und Forschung durch die Entwicklung, Bereitstellung und Anwendung der digitalen Medien im kunst- und kulturhistorischen Bereich. Die für die Nutzung des Bildarchivs erhobenen "Lizenzgebühren":http://prometheus-bildarchiv.de/license/fees dienen ausschließlich dem Erhalt, der Pflege und Betreuung des Archivs und seiner Nutzer.
 
 Auf einen Blick: Unseren "prometheus-Flyer (PDF)":<%=r 'files/text/prometheus-flyer_jan09.pdf' %> herunterladen!
 

@@ -1,10 +1,11 @@
----
+--- 
 layout: default
 title: Anmeldung und Lizenzen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=33
 ---
 h2. <%= page_title %>
 
+prometheus ist ein nicht-kommerzielles Bildarchiv. prometheus erwirtschaftet keine Gewinne und wird getragen vom gemeinnützigen "Verein prometheus e.V.":http://prometheus-bildarchiv.de/about/association/. Die Lizenzgebühren dienen ausschließlich zur Deckung der Betriebs- und Personalkosten sowie der ständigen Weiterentwicklung der Anwendungen. 
 Es gibt verschiedene Möglichkeiten prometheus zu nutzen. Wir bieten für Sie folgende Lizenzmodelle an:
 
 h3. Campuslizenz

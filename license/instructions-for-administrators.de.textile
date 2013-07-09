@@ -7,11 +7,12 @@ h2. <%= page_title %>
 
 Alle Institute und Schulen, die eine eigene Lizenz erworben haben oder Teil einer Campuslizenz sind, können bei der prometheus-Geschäftsstelle kostenlos einen *Administrationszugang* beantragen.
 
+Bitte füllen Sie dazu den folgenden Antrag aus und schicken Sie ihn unterschrieben zur  prometheus-Geschäftsstelle:
+"» Antrag für den Administratorzugang":<%=r 'files/text/administrator_de_0907_01.pdf' %>
+
 Mit diesem Zugang sind Sie berechtigt, eigenverantwortlich "persönliche Zugänge" für die Lehrenden und Studierenden Ihres Instituts einzurichten bzw. freizuschalten.
 
 Der Administrationszugang sollte - wenn möglich - von einem/r Mitarbeiter/in im Institut verwaltet werden (z.B. Diathek).
 
-h3. Antrag für den Administrationszugang
 
-Bitte füllen Sie dazu den folgenden Antrag aus und schicken Sie ihn unterschrieben zur  prometheus-Geschäftsstelle:
-"» Antrag für den Administratorzugang":<%=r 'files/text/administrator_de_0907_01.pdf' %>
+Auf Anfrage führen wir Sie, Ihre Kollegen und Studenten gerne vor Ort in einem Seminar in die Funktionalitäten von prometheus ein.

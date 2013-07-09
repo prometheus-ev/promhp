@@ -1,0 +1,64 @@
+--- 
+layout: default
+title: "\xC3\x9Cbersicht"
+---
+h2. <%= page_title %>
+
+
+h4. Zugang und Recherche
+
+* Zugang zum prometheus-Bildarchiv sowohl über freigeschaltete Computer innerhalb des Netzes Ihrer "Institution":http://prometheus.uni-koeln.de/pandora/de/institution/licensed als auch über personalisierte Zugänge, jederzeit und überall
+
+* Recherchemöglichkeit in <strong><%= record_count %></strong> Bildern aus <strong><%= source_count %></strong> Datenbanken über eine einzige Oberfläche
+
+* multilinguale Suche, die auch mit englischen Suchbegriffen Treffer in deutschsprachigen Datenbanken erzielt - und vice versa
+
+* ausführliche Metadaten mit Bewertungs- und Kommentarfunktion
+
+h4. weitere Funktionalitäten
+
+* Ordnen der Rechercheergebnisse durch Zusammenstellung von "Bildsammlungen":http://prometheus.uni-koeln.de/pandora/collection/own
+  
+* Erstellen von "Präsentationen":http://prometheus.uni-koeln.de/pandora/presentation/own
+ 
+* Möglichkeit zum kooperativen Arbeiten an Bildsammlungen und Präsentationen
+  
+* Upload eigener Bilder in eine "eigene Datenbank":http://prometheus.uni-koeln.de/pandora/upload/list
+  
+* Schnellzugriff auf wichtige Arbeitsobjekte über eine persönliche Favoritenleiste
+
+h4. Rechtssicherheit
+
+* Rechtssicherheit für die Verwendung der in prometheus verzeichneten Bilder im Rahmen von Forschung und Lehre durch einen Vertragsabschluss mit der "VG Bild-Kunst":http://www.bildkunst.de/index.html
+
+* Verweise auf Bildrechte und Informationen zum Erwerb von Publikationsgenehmigungen direkt am Bild
+
+* Einholung von Publikationsgenehmigungen von Abbildungen der "Bildagentur für Kunst, Kultur und Geschichte":http://bpkgate.picturemaxx.com/webgate_cms/ für nicht-kommerzielle, wissenschaftliche Veröffentlichungen
+
+h4. Bildgeber
+
+* größere Internetpräsenz und zusätzliche Datensicherheit durch Vertragsabschluss mit der "VG Bild-Kunst":http://www.bildkunst.de/index.html
+
+* Regelmäßige Updates der Inhalte sowie kurzfristige Anpassungsmöglichkeit
+
+* Support beim Aufbau einer eigenen Datenbank
+
+* kostenlose Zurverfügungstellung der Datenbanksoftware "DILPS":http://prometheus-bildarchiv.de/tools/databases/dilps und zukünftig "imeji":http://www.kunstgeschichte.hu-berlin.de/2012/03/imeji-community/
+
+* Support bei technischen Fragen
+
+* Qualitätssicherung durch Einbezug der fachlichen Community
+
+h4. Sonstiges
+
+* Entwicklung offen zugänglicher Lerninhalte und Hilfsprogramme für die Lehre
+
+* Engagement im Bereich der Digital Humanities: "Projektarbeit":http://prometheus-bildarchiv.de/de/projects/index und Entwicklung neuer Arbeitsmöglichkeiten auf dem Gebiet bildbasierter Wissenschaften, z.B. Meta-Image
+
+* Laufende Anpassung des prometheus-Bildarchivs an neue Fachentwicklungen und Standards
+
+* Pflege der prometheus-Website zur Information und Kommunikation neben regelmäßigen "Newslettern":http://prometheus.uni-koeln.de/pandora/de/email/newsletters und "blog":http://www.prometheus-bildarchiv.de/blog/-Einträgen
+
+* grundlegende Beratung zu rechtlichen, inhaltlichen und Recherchefragen per Telefon und E-Mail
+
+* auf Anfrage bieten wir Ihnen, Ihren Kollegen und Schülern oder Studenten gerne eine Einführung in die Funktionen und Rechtslage von prometheus, wenden Sie sich einfach unsere "Geschäftsstelle":mailto:info@prometheus-bildarchiv.de

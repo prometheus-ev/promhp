@@ -4,6 +4,10 @@ title: Databases
 ---
 h2. <%= page_title %>
 
+prometheus enables the convenient search for images on a common user surface within "different image archives":http://prometheus.uni-koeln.de/pandora/en/source/list, variable databases from institutes, research facilities and museums. Do you have interesting image files? Why don't you offer them to sciences, research and studies. 
+Are you interested in building up your own, external database? We provide the use of "DILPS":http://prometheus-bildarchiv.de/tools/databases/dilps and in the future of the "imeji":http://www.kunstgeschichte.hu-berlin.de/2012/03/imeji-community/ database software. 
+Inside the image archive you have the opportunity to upload your personal images to your "own database":http://prometheus.uni-koeln.de/pandora/en/upload/list.
+
 "» List of integrated databases":<%=p 'source' %>
 A list of all databases that are integrated in prometheus.
 

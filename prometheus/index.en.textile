@@ -5,7 +5,9 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=6&L=1&skin=&tx_ttnews[t
 ---
 h2. <%= page_title %>
 
-*prometheus is a digital image archive for Art and Cultural Sciences.* prometheus enables the convenient search for images on a common user interface within different image archives, variable databases from institutes, research facilities and museums.
+*prometheus is a digital image archive for Art and Cultural Sciences.* prometheus enables the convenient search for images on a common user interface within different image archives, variable "databases":http://prometheus-bildarchiv.de/en/databases/index from institutes, research facilities and museums.
+
+prometheus doesn't draw profit and is supported by a non-profit "association":http://prometheus-bildarchiv.de/about/association/ for promoting science and research through the development, appropriation and application of digital media in the arts and the field of the history of culture. "License fees":http://prometheus-bildarchiv.de/license/fees are charged exclusively for operating our services and the continuous development of our applications.
 
 At a glance: Download our "prometheus Flyer (PDF)":<%=r 'files/text/prometheus_flyer_07.pdf' %>!
 

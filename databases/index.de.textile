@@ -4,6 +4,8 @@ title: Datenbanken
 ---
 h2. <%= page_title %>
 
+prometheus ermöglicht Ihnen die komfortable Bildsuche in "unterschiedlichen Bildarchiven":http://prometheus.uni-koeln.de/pandora/de/source/list, Instituts-, Forschungs- und Museumsdatenbank. Haben Sie interessantes Bildmaterial? Stellen Sie es doch Forschung und Lehre zur Verfügung. Gerne binden wir Ihre Datenbank in das Bildarchiv ein. Oder Sie sind interessiert, eine eigene, externe Bilddatenbank aufzubauen? Wir stellen Ihnen gerne die beiden Softwarelösungen "DILPS":http://prometheus-bildarchiv.de/de/tools/databases/dilps und zukünftig auch "imeji":http://www.kunstgeschichte.hu-berlin.de/2012/03/imeji-community/ zur Verfügung. Innerhalb des Bildarchivs haben Sie zudem die Möglichkeit, persönliche Bilder in eine "eigene Datenbank":http://prometheus.uni-koeln.de/pandora/upload/list hochzuladen.
+
 "» Liste der eingebundenen Datenbanken":<%=p 'source' %>
 Eine Auflistung aller in prometheus eingebundenen Datenbanken.
 

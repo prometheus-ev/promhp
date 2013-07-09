@@ -1,0 +1,63 @@
+--- 
+layout: default
+title: Overview
+---
+h2. <%= page_title %>
+
+h4. Acces and research
+
+* access to the prometheus-image archive via activated IPs of the respective "institution":http://prometheus.uni-koeln.de/pandora/en/institution/licensed or with personalized account, anytime and anywhere
+
+* research possibilities in <strong><%= record_count %></strong> images from <strong><%= source_count %></strong> databases on one common surface
+
+* multilingual search function that enables the user to search in German archives using English search terms - and vice versa
+
+* detailed meta data with the functions to rate and comment
+
+h4. further functions
+
+* storing of selected images in an "image collection":http://prometheus.uni-koeln.de/pandora/en/collection/own
+ 
+* creating "presentations":http://prometheus.uni-koeln.de/pandora/en/presentation/own
+ 
+* possibilty to work cooperatively on image collections and presentations
+  
+* upload of own images to supplement the search results by an "own database":http://prometheus.uni-koeln.de/pandora/en/upload/list
+
+* quick and direct access to current working objects via a personal sidebar
+
+h4. legal certainity
+
+* legal certainity for the use of all images in prometheus for research and instruction purposes by an agreement with the "VG Bild-Kunst":http://www.bildkunst.de/en/homepage.html
+
+* copyright and publishing information along with the image
+
+* possibility to obtain publishing permission for images out of the "bpk - Bildagentur für Kunst, Kultur und Geschichte":http://bpkgate.picturemaxx.com/webgate_cms/ in non-profit, scientific publications
+
+h4. Data Suppliers
+
+* expanded online presence and additional data protection by an agreement with "VG Bild-Kunst":http://www.bildkunst.de/en/homepage.html
+
+* frequent updates of database contents and short-term adaptability 
+
+* support for creating your own image archive
+
+* provision of database software "DILPS":http://prometheus-bildarchiv.de/en/tools/databases/dilps and in the future "imeji":http://www.kunstgeschichte.hu-berlin.de/2012/03/imeji-community/ free of charge
+
+* technical support
+
+* quality assurance by peer review
+
+h4. other
+
+* development of publicy available study/teaching contents and tools
+
+* dedication to Digital Humanities: working on "projects":http://prometheus-bildarchiv.de/en/projects/index and development of new working opportunities in the image-based sciences
+
+* running adjustment of the prometheus-image archive to new trends and standards
+
+* maintainance of the prometheus-website for the information and communication beside frequent "newsletters":http://prometheus.uni-koeln.de/pandora/en/newsletters and "blog":http://prometheus-bildarchiv.de/blog/ posts
+
+* basic counsel in legal, content and research matters by phone or e-mail
+
+* on request we're pleased to introduce you, your colleagues and students to functions and legal norms of prometheus. Please contact the "prometheus office":mailto:info@prometheus-bildarchiv.de
