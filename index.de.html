@@ -17,7 +17,7 @@ changefreq: daily
 <h2 class="header-line"><%=t 'Welcome to', 'Herzlich Willkommen bei' %> <span class="prometheus">prometheus</span></h2>
 
 <div id="tags-map">
-  <img src="<%=r "files/images/staff/prometheus_staff_front.jpg" %>" width="238" height="186" usemap="#tags" />
+  <img src="<%=r "files/images/tags.#{page.lang}.png" %>" width="238" height="186" usemap="#tags" />
 
   <map name="tags">
     <area shape="rect" coords="<%=t '20,17,223,50',   '19,15,171,51' %>"   alt="<%= n = t('Searching', 'Suchen') %>"        title="<%= n %>" href="<%=r 'prometheus#searching' %>" />
