@@ -1,0 +1,9 @@
+--- 
+layout: post
+author: Denise
+title: "Die Gesch\xC3\xA4ftsstelle bekommt ein neues Gesicht!"
+tags: 
+---
+Ab heute präsentiert sich prometheus mit neuer Mitarbeiter-Seite.
+
+Schauen Sie doch einfach vorbei und "lernen Sie uns kennen":<%=r 'about/index' %>! 

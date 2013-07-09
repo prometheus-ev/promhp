@@ -1,0 +1,7 @@
+--- 
+layout: post
+author: Denise
+title: "Die Gesch\xC3\xA4ftsstelle bekommt ein neues Gesicht!"
+tags: 
+- news
+---
