@@ -1,7 +1,7 @@
 --- 
 layout: post
 author: Denise
-title: "Die Gesch\xC3\xA4ftsstelle bekommt ein neues Gesicht!"
+title: "Die Gesch\xC3\xA4ftsstelle bekommt ein Gesicht!"
 tags: news
 ---
 Ab heute präsentiert sich prometheus mit neuer Mitarbeiter-Seite.
