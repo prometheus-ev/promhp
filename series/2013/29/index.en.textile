@@ -1,0 +1,24 @@
+--- 
+descriptions: 
+- "Pierre Bonnard: Dame vor dem Spiegel (Ausschnitt), um 1905, \xC3\x96l auf Leinwand, 52 x 37,5 cm, M\xC3\xBCnchen, Neue Pinakothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Aristide Maillol: Flora (Detail), 1910/12, Bronze, H 163,5 cm, M\xC3\xBCnchen, Neue Pinakothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "F\xC3\xA9lix Vallotton: Akt in einem roten Lehnstuhl (Ausschnitt), 1897, \xC3\x96l, Holz, Pappe, 28,0 x 27,5 cm, Mus\xC3\xA9e de Grenoble; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Pierre Bonnard: Braunkohlegrube bei Terre noire (Ausschnitt), um 1916, \xC3\x96l auf Leinwand, M\xC3\xBCnchen, Neue Pinakothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Maurice Denis: Landschaft bei Fiesole (Ausschnitt), 1897-98, \xC3\x96l auf Leinwand, M\xC3\xBCnchen, Neue Pinakothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Paul Gauguin: Bretonische B\xC3\xA4uerinnen (Ausschnitt), 1888, \xC3\x96l auf Leinwand, 72 x 91 cm, M\xC3\xBCnchen, Neue Pinakothek; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen "
+- "Aristide Maillol: Radrennfahrer (Detail), 1907/08, Bronze, H. 98 cm, M\xC3\xBCnchen, Neue Pinakothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "\xC3\x88douard Vuillard: Madame Hessel in ihrem Zimmer (Ausschnitt), um 1905, \xC3\x96l auf Malpappe, 29,5 x 27,3 cm, M\xC3\xBCnchen, Neue Pinakothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: The Nabis
+subtitle: !binary |
+  4oCeUGFyaXMgaW50ZW5zZeKAnA==
+
+repeat: 3 6 5
+date: 2013/07/15
+teaser: A Nabis-exhibition in the Neue Pinakothek in Munich is mainly an occasion to present the own collection.
+collection: 37368
+---
+A Nabis-exhibition in the Neue Pinakothek in Munich is mainly an occasion to present the own collection. For the first time all pictures of the Nabis represented in the stock are shown together. Art works of Vallotton, Bonnard, Maillol, Vuillard and Denis are part of the show as well as works of their pioneers like Gauguin, van Gogh and Puvis de Chavannes. The exhibition´s title  »Paris intense« refers to a graphic-series made by Félix Vallotton in 1893/94, shortly after he joined the artist group Nabis.
+
+*"Paris intense. The Nabis - From Bonnard to Vallotton":http://www.pinakothek.de/en/nabis, 04 July to 30 September 2013, Neue Pinakothek, Munich
