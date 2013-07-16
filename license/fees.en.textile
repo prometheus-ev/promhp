@@ -7,19 +7,18 @@ h2. <%= page_title %>
 
 h3. Single license
 
-30,- € p.a.
+20,- € p.a.
 
 "» Sign up":<%=p 'signup' %>
 
 h3. License fees for academies (via the hbz)
 
-|Institutions with up to 500 members|| 650,- € p.a.|
-|Institutions with up to 1000 members||1300,- € p.a.|
-|Institutions with more than 1000 members||2340,- € p.a.|
-|Campus license||5200,- € p.a.|
+|Institutions with up to 500 members|| 500,- € p.a.|
+|Institutions with up to 1000 members||1000,- € p.a.|
+|Institutions with more than 1000 members||1800,- € p.a.|
+|Campus license||4000,- € p.a.|
 
 Discount for universities of applied sciences: 50% p.a.
-Institutions that conclude a contract for three years receive a discount of 10%
 
 *Contact Campus Library Center NRW:*
 
@@ -29,11 +28,11 @@ Phone: +49 221 400 75 223
 
 h3. License fees for further institutions (via the prometheus office)
 
-|Schools and museums|| 260,- € p.a.|
-|Institutions with up to 500 members||1170,- € p.a.|
-|Institutions with up to 1000 members||2340,- € p.a.|
-|Institutions with up to 3000 members||4420,- € p.a.|
-|Institutions with more than 3000 members||7800,-€ p.a.|
+|Schools and museums|| 200,- € p.a.|
+|Institutions with up to 500 members||700,- € p.a.|
+|Institutions with up to 1000 members||1500,- € p.a.|
+|Institutions with up to 3000 members||2300,- € p.a.|
+|Institutions with more than 3000 members||5800,-€ p.a.|
 
 *Contact prometheus office:*
 

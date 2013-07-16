@@ -7,19 +7,18 @@ h2. <%= page_title %>
 
 h3. Einzellizenz
 
-30,- €/Jahr
+20,- €/Jahr
 
 "» Zur Anmeldung":<%=p 'signup' %>
 
 h3. Ermäßigte Lizenzgebühren für Hochschulen (über das HBZ)
 
-|Institute bis 500 Personen|| 650,- €/Jahr|
-|Institute bis 1000 Personen||1300,- €/Jahr|
-|Institute über 1000 Personen||2340,- €/Jahr|
-|Campuslizenz||5200,- €/Jahr|
+|Institute bis 500 Personen|| 500,- €/Jahr|
+|Institute bis 1000 Personen||1000,- €/Jahr|
+|Institute über 1000 Personen||1800,- €/Jahr|
+|Campuslizenz||4000,- €/Jahr|
 
 Nachlass für Fachhochschulen: 50%/Jahr
-Bei Abschluss eines Dreijahresvertrages erhalten Institutionen einen Rabatt von 10%
 
 
 *Kontaktdaten Hochschulbibliothekszentrum NRW:*
@@ -30,11 +29,11 @@ Tel: 0221 400 75 300
 
 h3. Lizenzgebühren für weitere Institutionen (über die prometheus-Geschäftsstelle)
 
-|Schulen und Museen|| 260,- €/Jahr|
-|Institutionen bis 500 Personen||1170,- €/Jahr|
-|Institutionen bis 1000 Personen||2340,- €/Jahr|
-|Institutionen bis 3000 Personen||4420,- €/Jahr|
-|Institutionen über 3000 Personen||7800,-€/Jahr|
+|Schulen und Museen|| 200,- €/Jahr|
+|Institutionen bis 500 Personen||700,- €/Jahr|
+|Institutionen bis 1000 Personen||1500,- €/Jahr|
+|Institutionen bis 3000 Personen||2300,- €/Jahr|
+|Institutionen über 3000 Personen||5800,-€/Jahr|
 
 *prometheus-Geschäftsstelle:*
 
