@@ -1,0 +1,23 @@
+--- 
+descriptions: 
+- "Giovanni Battosta Piranesi: Muscheltafel, o.J., Kupferstiche, 383 x 253 mm, Rom, Archivio Fotografico dell\xC2\xB4Instituto Nazionale per la Grafica; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte"
+- "Endirs Degen II: Muschelgef\xC3\xA4\xC3\x9F, um 1580, Geh\xC3\xA4use der Tritonschnecke, Silber, vergoldet, Wien, Kunstkammer; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Isaac Melperger: Muschelleuchter, vor 1592, Jakobsmuscheln, Herzmuscheln, Geh\xC3\xA4use der Tritonschnecke, Wien, Kunstkammer; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Giuseppe Recco: Stilleben mit Fischen und Muscheln, 1653, \xC3\x96l auf Leinwand, 100 x 126 cm, Stockholm, Nationalmuseum; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Bartolomeo Bimbi: Muscheln, um 1700, \xC3\x96l auf Leinwand, 97,5 x 120 cm, Siena, Palazzo della Provincia; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Adriaen Coorte: Muschelstilleben, 1697, \xC3\x96l auf Papier, 17,2 x 22,2 cm, Privatsammlung; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Filippo Angeli: Zwei Muscheln, um 1618, \xC3\x96l auf Leinwand, 39 x 56 cm, Florenz, Galleria Palatina; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Rembrandt: Die Muschel, 1650, Radierung, Kaltnadel und Grabstichel, 9,7 x 13,2 cm, Haarlem, Teyler Museum; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Mussels
+subtitle: 
+repeat: 6 1 5
+date: 2013/07/19
+teaser: At the European courts of the 16th to the 18th century exotic mussels were famous.
+collection: 37489
+---
+At the European courts of the 16th to the 18th century exotic mussels were famous. They assembled castles and Kunstkammern as motif on still lifes, as jewellery, as decoration on furniture or as a luxuriant vessels. They were collected as scientific items and published in large volumes.
+Even the duke Christian Ludwig II. of Mecklenburg-Schwerin, who was founder of a great collection of Dutch paintings of the 17th and 18th century, purchased mussels and snail shells. Therefore an exhibition in Schwerin is dealing with the exotic object of collection from the sea.
+
+*"Schwimmern aus der Tiefe. Muscheln / Perlen / Nautilus":http://www.museum-schwerin.de/2010/04/seadrome-schwerin-2/, 14 June to 15 September 2013, Staatliches Museum Schwerin*
