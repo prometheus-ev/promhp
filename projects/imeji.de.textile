@@ -1,0 +1,24 @@
+--- 
+layout: default
+title: imeji
+---
+h2. <%= page_title %>
+
+h3. Projektpartner
+
+"» Institut für Kunst und Bildgeschichte":http://www.kunstgeschichte.hu-berlin.de/2012/03/imeji-community/, Humboldt-Universität zu Berlin
+"» Max-Planck Digital Library":http://mpdl.mpg.de/
+"» Konrad Zuse Internet Archive":http://zuse.zib.de/, Freie Universität Berlin
+
+h4. Projektlaufzeit:
+
+seit März 2012
+
+h4. Link:
+
+*"» imeji":http://imeji.org/*
+
+h3. Projektbeschreibung
+
+imeji ist ein wissenschaftliches Bilddaten Repositorium zur Verwaltung von wissenschaftlichen Bildersammlungen.Um jeden beliebigen Bildtyp verwalten zu können, definiert imeji für jede Sammlung ein sogenanntes Metadata Profile, das die Bilder der Sammlung durch Metadaten verschiedenen Typs (z.B. Text, Zahlen, kontrollierte Vokabularien, GeoDaten, URIs) beschreibt.
+

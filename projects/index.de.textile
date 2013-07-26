@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Projekte und Kooperationen
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=319
@@ -10,7 +10,7 @@ h3. Meta-Image: Aufbau einer verteilten, virtuellen Forschungs- und Kommunikatio
 Computer- und Medienservice, Humboldt-Universität zu Berlin
 Rechen- und Medienzentrum, Leuphana Universität Lüneburg
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre, Universität zu Köln
-*01.12.2009 - 30.11.2011*
+*01.12.2009 - 30.09.2013*
 
 "» Projektbeschreibung":<%=r 'projects/meta-image' %>
 
@@ -53,3 +53,12 @@ Kunsthistorisches Institut, Universität zu Köln
 *01.08.2002 - 15.07.2003*
 
 "» Projektbeschreibung":<%=r 'projects/notebook-library' %>
+
+h3. imeji 
+
+Institut für Kunst- und Bildgeschichte, Humboldt-Universität zu Berlin
+Max-Planck Digital Library
+Konrad Zuse Internet Archive, Freie Universität Berlin
+*seit März 2012*
+
+"» Projektbeschreibung":<%=r 'projects/imeji' %>

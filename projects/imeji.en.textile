@@ -1,0 +1,24 @@
+--- 
+layout: default
+title: imeji
+---
+h2. <%= page_title %>
+
+h3. Project partners
+
+"» Institut für Kunst und Bildgeschichte":http://www.kunstgeschichte.hu-berlin.de/2012/03/imeji-community/, Humboldt-Universität zu Berlin
+"» Max-Planck Digital Library":http://mpdl.mpg.de/
+"» Konrad Zuse Internet Archive":http://zuse.zib.de/, Freie Universität Berlin
+
+h4. Duration of the project:
+
+since March 2012
+
+h4. Link:
+
+*"» imeji":http://imeji.org/*
+
+h3. Project description
+
+imeji is a scientific image management application for scholars who want to save their images on the web, but also maintaining the corresponding metadata and its values, for data completeness. The software offers a dedicated metadata management by supporting a non- restrictive metadata schema definition, as simple as liked or as complex as needed. 
+ 

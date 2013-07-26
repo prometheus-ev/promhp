@@ -1,4 +1,4 @@
----
+--- 
 layout: default
 title: Projects and Cooperations
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=319&L=1&skin=&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
@@ -53,3 +53,12 @@ Department of art history, University Cologne
 *01.08.2002 - 15.07.2003*
 
 "» Description":<%=r 'projects/notebook-library' %> (in German)
+
+h3. imeji 
+
+Institut für Kunst- und Bildgeschichte, Humboldt-Universität zu Berlin
+Max-Planck Digital Library
+Konrad Zuse Internet Archive, Freie Universität Berlin
+*seit März 2012*
+
+"» Description":<%=r 'projects/imeji' %>
