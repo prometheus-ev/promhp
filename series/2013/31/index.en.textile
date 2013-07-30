@@ -1,4 +1,5 @@
 --- 
+layout: series
 descriptions: 
 - "Ai Weiwei: Colored Vases, 2006, 51 Vasen aus der Jungsteinzeit 5000-3000 v. Chr. / Industriefarbe; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
 - "Anthony McCall: Landscape for Fire, 1972, 16 mm Film; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
@@ -8,12 +9,11 @@ descriptions:
 - "Peter Halley: Loaded (Ausschnitt), 2000, Acryl auf Leinwand, 228,6 x 155 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
 - "Andrea Zittel: A-Z Cellular Compartment Units, (Innenansicht), 2003, Edelstahl, Birkensperrholz, Glas, Hausaltsobjekte, 6-teilig, 121,9 x 121,9 x 243,9 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
 - "Andrea Zittel: A-Z Cellular Compartment Units, 2003, Edelstahl, Birkensperrholz, Glas, Hausaltsobjekte, 6-teilig, 121,9 x 121,9 x 243,9 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
-layout: series
-author: "Hendrikje H\xC3\xBCneke"
 title: When Now is Minimal
+author: "Hendrikje H\xC3\xBCneke"
 subtitle: 
-repeat: 4 1 5
 date: 2013/07/26
+repeat: 4 1 5
 teaser: "An exhibition in N\xC3\xBCrnberg shows how current the principles of Minimal Art still are."
 collection: 37504
 ---

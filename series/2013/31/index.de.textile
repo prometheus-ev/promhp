@@ -1,4 +1,5 @@
 --- 
+layout: series
 descriptions: 
 - "Ai Weiwei: Colored Vases, 2006, 51 Vasen aus der Jungsteinzeit 5000-3000 v. Chr. / Industriefarbe; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
 - "Anthony McCall: Landscape for Fire, 1972, 16 mm Film; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
@@ -8,15 +9,14 @@ descriptions:
 - "Peter Halley: Loaded (Ausschnitt), 2000, Acryl auf Leinwand, 228,6 x 155 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
 - "Andrea Zittel: A-Z Cellular Compartment Units, (Innenansicht), 2003, Edelstahl, Birkensperrholz, Glas, Hausaltsobjekte, 6-teilig, 121,9 x 121,9 x 243,9 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
 - "Andrea Zittel: A-Z Cellular Compartment Units, 2003, Edelstahl, Birkensperrholz, Glas, Hausaltsobjekte, 6-teilig, 121,9 x 121,9 x 243,9 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
-layout: series
-author: "Hendrikje H\xC3\xBCneke"
 title: When now is Minimal
+author: "Hendrikje H\xC3\xBCneke"
 subtitle: 
-repeat: 4 1 5
 date: 2013/07/26
+repeat: 4 1 5
 teaser: "Eine Ausstellung in N\xC3\xBCrnberg m\xC3\xB6chte zeigen, wie aktuell die Prinzipien der Minimal Art f\xC3\xBCr die Kunst sind."
 collection: 37504
 ---
-Eine Ausstellung in Nürnberg möchte zeigen, wie aktuell die Prinzipien der Minimal Art für die Kunst sind. Reduzierte Formen und Farben, serielle Wiederholungen und industrielle Produktion sind Gestaltungstendenzen, mit denen sich viele Künstlergenerationen beschäftigt haben. Präsentiert werden zumeist unbekannte Arbeiten aus der Sammlung Goetz von Künstlern, die den Minimalismus geprägt haben, durch ihn beeinflusst wurden oder ihre ganz eigenen minimalistische Kunst gefunden haben. 
+Eine Ausstellung in Nürnberg möchte zeigen, wie aktuell die Prinzipien der Minimal Art für die Kunst sind. Reduzierte Formen und Farben, serielle Wiederholungen und industrielle Produktion sind Gestaltungstendenzen, mit denen sich viele Künstlergenerationen beschäftigt haben. Präsentiert werden zumeist unbekannte Arbeiten aus der Sammlung Goetz von Künstlern, die den Minimalismus geprägt haben, durch ihn beeinflusst wurden oder ihre ganz eigene minimalistische Kunst gefunden haben. 
 
 *"When Now is Minimal. Die unbekannte Seite der Sammlung Goetz":http://www.nmn.de/de/ausstellungen/when-now-is-minimal/when-now-is-minimal.htm, 19. Juli bis 20. Oktober 2013, Neues Museum, Nürnberg*
