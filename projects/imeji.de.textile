@@ -4,6 +4,8 @@ title: imeji
 ---
 h2. <%= page_title %>
 
+!<%=r '/files/images/projects/Imeji_-_Images_1.JPG' %>!
+
 h3. Projektpartner
 
 "» Institut für Kunst und Bildgeschichte":http://www.kunstgeschichte.hu-berlin.de/2012/03/imeji-community/, Humboldt-Universität zu Berlin

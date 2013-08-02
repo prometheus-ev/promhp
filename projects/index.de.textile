@@ -7,58 +7,58 @@ h2. <%= page_title %>
 
 h3. Meta-Image: Aufbau einer verteilten, virtuellen Forschungs- und Kommunikationsumgebung für den Bilddiskurs in der Kunstgeschichte
 
-Computer- und Medienservice, Humboldt-Universität zu Berlin
+|!<%=r 'files/images/projects/MI_meninas-originalbild2_kl.jpg' %>!||Computer- und Medienservice, Humboldt-Universität zu Berlin
 Rechen- und Medienzentrum, Leuphana Universität Lüneburg
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre, Universität zu Köln
-*01.12.2009 - 30.09.2013*
+*01.12.2009 - 30.09.2013*|
 
 "» Projektbeschreibung":<%=r 'projects/meta-image' %>
 
 h3. Das digitale Historische Archiv Köln
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre, Universität zu Köln
+|!<%=r 'files/images/projects/content_paten1_1_1_kl.jpg' %>!||prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre, Universität zu Köln
 Abteilung für Rheinische Landesgeschichte, Institut für Geschichtswissenschaft, Universität Bonn
-*seit März 2009*
+*seit März 2009*|
 
 "» Projektbeschreibung":<%=r 'projects/dhastk' %>
 
 h3. Automatische Erschließung des digitalen Bildarchivs prometheus
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre, Universität zu Köln
+|!<%=r 'files/images/projects/perseus_kl.jpg' %>!||prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre, Universität zu Köln
 Institut für Informationswissenschaft, Fachhochschule Köln
-*02.04.2007 - 31.03.2009*
+*02.04.2007 - 31.03.2009*|
 
 "» Projektbeschreibung":<%=r 'projects/perseus-a' %>
 
 h3. HyperImage - Bildorientierte e-Science-Netzwerke
 
-Humboldt-Universität zu Berlin
+|!<%=r 'files/images/projects/HI_Oppermann_kl.jpg' %>!||Humboldt-Universität zu Berlin
 Leuphana Universität Lüneburg
 zweitwerk - software engineering GmbH
-*01.06.2006 - 31.05.2009*
+*01.06.2006 - 31.05.2009*|
 
 "» Projektbeschreibung":<%=r 'projects/hyper-image' %>
 
 h3. Aufbau und Integration von digitalen Bildressourcen und E-Learning-Komponenten in interdisziplinären Lehrveranstaltungen
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre, Universität zu Köln
+|!<%=r 'files/images/projects/E-Learning_1_kl.jpg' %>!||prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre, Universität zu Köln
 Fachbereich Geschichts- und Kulturwissenschaften, Justus-Liebig-Universität Giessen
-*01.10.2003 - 31.10.2004*
+*01.10.2003 - 31.10.2004*|
 
 "» Projektbeschreibung":<%=r 'projects/e-learning' %>
 
 h3. Notebook-Bibliothek. Digitale und analoge Medien in wissenschaftlichen Bibliotheken
 
-Kunsthistorisches Institut, Universität zu Köln
-*01.08.2002 - 15.07.2003*
+|!<%=r 'files/images/projects/notebook_02_kl.jpg' %>!||Kunsthistorisches Institut, Universität zu Köln
+*01.08.2002 - 15.07.2003*|
 
 "» Projektbeschreibung":<%=r 'projects/notebook-library' %>
 
 h3. imeji 
 
-Institut für Kunst- und Bildgeschichte, Humboldt-Universität zu Berlin
+|!<%=r 'files/images/projects/Imeji_-_Images_1_kl.jpg' %>!||Institut für Kunst- und Bildgeschichte, Humboldt-Universität zu Berlin
 Max-Planck Digital Library
 Konrad Zuse Internet Archive, Freie Universität Berlin
-*seit März 2012*
+*seit März 2012*|
 
 "» Projektbeschreibung":<%=r 'projects/imeji' %>

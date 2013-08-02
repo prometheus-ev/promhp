@@ -6,6 +6,8 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=325&L=1&skin=&tx_ttnews
 <%# TODO: translate %>
 h2. <%= page_title %>
 
+!<%=r 'files/images/projects/HI_Oppermann.jpg' %>!
+
 h3. Projektpartner
 
 "» Humboldt-Universität zu Berlin":http://www.hu-berlin.de/

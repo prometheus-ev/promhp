@@ -5,6 +5,8 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=496&L=1
 ---
 h2. <%= page_title %>
 
+!<%=r '/files/images/projects/MI_meninas-originalbild2_1.JPG' %>!
+
 h3. Project partners
 
 "» Computer- und Medienservice":http://www.cms.hu-berlin.de/, Humboldt-Universität zu Berlin

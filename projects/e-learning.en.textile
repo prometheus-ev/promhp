@@ -6,6 +6,8 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=321&L=1&skin=&tx_ttnews
 <%# TODO: translate %>
 h2. <%= page_title %>
 
+!<%=r 'files/images/projects/E-Learning_1.JPG' %>!
+
 h3. Projektpartner
 
 "» prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre":http://www.prometheus-bildarchiv.de/, Universität zu Köln

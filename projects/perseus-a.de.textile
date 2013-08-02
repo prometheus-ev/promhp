@@ -5,6 +5,8 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=320
 ---
 h2. <%= page_title %>
 
+!<%=r '/files/images/projects/perseus_1.JPG' %>!
+
 h3. Projektpartner
 
 "» prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre":http://www.prometheus-bildarchiv.de/, Universität zu Köln
@@ -39,7 +41,7 @@ h3. Ansprechpartner
 
 h4. Projektleitung:
 
-PD Dr. Holger Simon
+Prof. Dr. Holger Simon
 Tel.: 0221 470-3509
 E-Mail: "holger.simon@uni-koeln.de":mailto:holger.simon@uni-koeln.de
 

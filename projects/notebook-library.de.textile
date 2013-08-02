@@ -5,6 +5,8 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=322
 ---
 h2. <%= page_title %>
 
+!<%=r 'files/images/projects/notebook_02.jpg' %>!
+
 h3. Projektpartner
 
 "» Kunsthistorisches Institut":http://www.uni-koeln.de/phil-fak/khi/, Universität zu Köln

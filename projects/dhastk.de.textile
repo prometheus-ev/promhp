@@ -5,6 +5,8 @@ legacy_url: http://prometheus-bildarchiv.de/index.php?id=510
 ---
 h2. <%= page_title %>
 
+!<%=r '/files/images/projects/content_paten1_1_1.JPG' %>!
+
 h3. Projektpartner
 
 "» prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre":http://www.prometheus-bildarchiv.de/, Universität zu Köln
