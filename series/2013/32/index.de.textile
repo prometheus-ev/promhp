@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Alexander Michailowitsch Rodtschenko: B\xC3\xBCcher, Werbeplakat f\xC3\xBCr die Leningrader Abteilung des staatlichen Verlags GOSISDAT (Ausschnitt), 1924, kolorierte Fotografie, 20,4 x 29,2 cm; promDILPS, Universit\xC3\xA4t Leipzig, Institut f\xC3\xBCr Kunstgeschichte, Universit\xC3\xA4t Leipzig"
+- "Alexander Michailowitsch Rodtschenko: Konstruktion Nr. 105 auf grauem Grund (Ausschnitt), 1920, \xC3\x96l auf Leinwand, 102 x 70 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Alexander Michailowitsch Rodtschenko: Komposition Nr. 68 (Ausschnitt), 1918, \xC3\x96l auf Leinwand, 71 x 62,3 cm;EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte   "
+- "Alexander Michailowitsch Rodtschenko: Lunch (Obed), aus der Serie \"Factory Canteen\" (Ausschnitt), 1929, Fotografie / Silbergelatineabzug, 23,5 x 26 cm, Moskau, Archiv A. Rodchenko und V. Stepanova; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte "
+- "Alexander Michailowitsch Rodtschenko: R\xC3\xA4umliche Konstruktion Nr. 12: Oval im Oval, aus der Serie \"Reflektierende Fl\xC3\xA4chen\" (Ausschnitt), 1920/21 (Rekonstruktion von Alexander Lawrentjew 1989), Furnier, 61 x 83,7 x 47 cm, Moskau, Privatbesitz; promDILPS, Universit\xC3\xA4t Leipzig, Institut f\xC3\xBCr Kunstgeschichte, Universit\xC3\xA4t Leipzig"
+- "Alexander Michailowitsch Rodtschenko: Konstruktion auf rot-braunem und gr\xC3\xBCnem Grund Nr. 94 (Ausschnitt), 1919, \xC3\x96l auf Leinwand, 74,5 x 64 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Alexander Michailowitsch Rodtschenko: Treppe (Ausschnitt), 1930, Fotografie / Silbergelatine; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Alexander Michailowitsch Rodtschenko: Maquette f\xC3\xBCr \"War ot the Future\", Illustration f\xC3\xBCr das Magazin \"Za Rubezhom (Abroad)\" (Ausschnitt), 1930, Fotografie / cut-and-pasted printed papers on paper, 51 x 35 cm, Berlin, Galerie Berinson; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+title: Rodtschenko
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/08/03
+repeat: 2 6 8
+teaser: Eine Ausstellung in Hamburg zeigt Alexander Michailowitsch Rodtschenko als Gestalter einer neuen Zeit.
+collection: 37533
+---
+Eine Ausstellung in Hamburg zeigt Alexander Michailowitsch Rodtschenko als Gestalter einer neuen Zeit. Die Oktoberrevolution 1917 brachte Russland tiefgreifende politischen und wirtschaftliche Veränderungen. In der auf naturwissenschaftliche Logik fokussierten Welt traf der Konstruktivismus Rodtschenkos den Zeitgeist. 
+
+*"Rodtschenko. Eine neue Zeit":http://www.buceriuskunstforum.de/ausstellung/rodtschenko-eine-neue-zeit/?cHash=5c0e6abd03853188b7b2b8a3a85d9a20, 8. Juni bis 15. September 2013, Bucerius Kunst Forum, Hamburg*
