@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Hilma af Klint: Die 10 Gr\xC3\xB6\xC3\x9Ften, Nr. 2: Kindheit (Ausschnitt), 1907, Tempera und \xC3\x96l auf Schichtpapier auf Leinwand, 328 x 240 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Die 10 Gr\xC3\xB6\xC3\x9Ften, Nr. 6: Mannesalter (Ausschnitt), 1907, \xC3\x96l auf Schichtpapier auf Leinwand, 328 x 240 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Die Plejaden, Serie WUS, Gruppe 5, Nr. 2 (Ausschnitt), 1908, Aquarell, 77 x 62 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Baum der Erkenntnis, Serie W., Nr. 5 (Ausschnitt), 1913-15, Aquarell, 46 x 30 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Der Schwan, Serie SUW, Gruppe 9, Nr. 9, 1914-15, \xC3\x96l auf Leinwand, 150 x 150 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Altarbilder, Gruppe 10, Nr. 1 (Ausschnitt), 1915, \xC3\x96l auf Leinwand, 185 x 152 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Parsifal-Serie, Gruppe 2, Nr. 84 (Ausschnitt), 1916, Aquarell, 27 x 25 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Atom-Serie, Nr. 10 (Ausschnitt), 1917, Aquarell, 27 x 25 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+title: Hilma af Klint
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/08/04
+repeat: 3 5 7
+teaser: "The Museum \xE2\x80\x9EHamburger Bahnhof\xE2\x80\x9C exhibits works of the Swedish female artist Hilma af Klint, who started to create abstract paintings already in 1906"
+collection: 37535
+---
+The Museum „Hamburger Bahnhof“ exhibits works of the Swedish female artist Hilma af Klint, who started to create abstract paintings already in 1906. She determined in her will, that the abstract pieces shall not be shown publicly until 20 years after her death, which shows, that these works might not be just finger exercises to her. Klint never exhibited the abstract works during her lifetime, because she did not expect understanding of her contemporaries.
+
+*"Hilma af Klint. A pioneer of abstraction":http://www.hamburgerbahnhof.de/exhibition.php?id=40476&lang=en, 15 June to 6 October 2013, Hamburger Bahnhof, Berlin*

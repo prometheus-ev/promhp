@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Hilma af Klint: Die 10 Gr\xC3\xB6\xC3\x9Ften, Nr. 2: Kindheit (Ausschnitt), 1907, Tempera und \xC3\x96l auf Schichtpapier auf Leinwand, 328 x 240 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Die 10 Gr\xC3\xB6\xC3\x9Ften, Nr. 6: Mannesalter (Ausschnitt), 1907, \xC3\x96l auf Schichtpapier auf Leinwand, 328 x 240 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Die Plejaden, Serie WUS, Gruppe 5, Nr. 2 (Ausschnitt), 1908, Aquarell, 77 x 62 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Baum der Erkenntnis, Serie W., Nr. 5 (Ausschnitt), 1913-15, Aquarell, 46 x 30 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Der Schwan, Serie SUW, Gruppe 9, Nr. 9, 1914-15, \xC3\x96l auf Leinwand, 150 x 150 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Altarbilder, Gruppe 10, Nr. 1 (Ausschnitt), 1915, \xC3\x96l auf Leinwand, 185 x 152 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Parsifal-Serie, Gruppe 2, Nr. 84 (Ausschnitt), 1916, Aquarell, 27 x 25 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hilma af Klint: Atom-Serie, Nr. 10 (Ausschnitt), 1917, Aquarell, 27 x 25 cm, Stockholm, Hilma af Klint Foundation; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+title: Hilma af Klint
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/08/04
+repeat: 4 5 7
+teaser: "Im Hamburger Bahnhof sind Werke der schwedischen K\xC3\xBCnstlerin Hilma af Klint ausgestellt, die schon 1906 abstrakt malte."
+collection: 37535
+---
+Im Hamburger Bahnhof sind Werke der schwedischen Künstlerin Hilma af Klint ausgestellt, die schon 1906 abstrakt malte. Darauf, dass die Arbeiten für sie nicht nur Fingerübungen waren, deutet  die testamentarisch festgelegte Vorgabe, die abstrakten Bilder erst 20 Jahre nach ihrem Tod öffentlich zu machen. Klint hatte die Bilder zu Lebzeiten nie ausgestellt, da sie von den Zeitgenossen kein Verständnis erwartete.
+
+*"Hilma af Klint. Eine Pionierin der Abstraktion":http://www.hamburgerbahnhof.de/exhibition.php?id=40476&lang=de, 15. Juni bis 6. Oktober 2013, Hamburger Bahnhof, Berlin*
