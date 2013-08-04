@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Venus vom Esquilin, wahrscheinlich Bildnisstatue der Kleopatra VII. (Detail), Claudische Kopie / Vorbild um 46 v. Chr., Marmor, Rom, Musei Comunali, Konservatorenpalast 1141, Italien; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "L\xC3\xA9on Bakst: Kost\xC3\xBCmentwurf f\xC3\xBCr Ida Rubinstein als Kleopatra im Ballett \"Cl\xC3\xA9op\xC3\xA2tre\" (Ausschnitt), 1909, Aquarell, Blei, Papier, 28 x 21 cm, St. Petersburg; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Arnold B\xC3\xB6cklin: Die sterbende Kleopatra (Ausschnitt), 1872, \xC3\x96l auf Leinwand, 76 x 61,5 cm, Basel, \xC3\xB6ffentliche Sammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Theda Bara in der Kleopatra-Verfilmung, 1917; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin"
+- "Lavinia Fontana: Kleopatra, 1604 \xE2\x80\x93 14, \xC3\x96l auf Leinwand, 87,3 x 71 cm, Rom, Galleria Spada; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Coscinny / Uderzo: Kleopatra, Comic; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Angelica Kauffmann: Kleopatra schm\xC3\xBCckt das Grab Mark Antons (Ausschnitt), 1769-70, \xC3\x96l auf Leinwand, 125 x 197 cm, The Burghley House Collection, Stamford, Connecticut; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Liz Taylor und Richard Burton als Kleopatra und Marcus Antonius in \"Cleopatra\", 1963; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin"
+title: Cleopatra
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/08/04
+repeat: 3 1 4
+teaser: 
+collection: 37538
+---
+Since 2000 years the legendary last Egyptian Queen is a popular motif of art. Cleopatra impressed as a ruler, as a beauty and lover of Julius Caesar and Antonius, and she fascinated with her suicide. An exhibition in the Bundeskunsthalle is showing in sculptures, paintings, photographies and films, how the personality of Cleopatra was interpreted and exploited.
+
+*"Cleopatra. The eternal Diva":http://www.bundeskunsthalle.de/en/exhibitions/cleopatra.html, 28 June to 6 October 2013, Bundeskunsthalle, Bonn*
