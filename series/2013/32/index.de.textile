@@ -17,6 +17,6 @@ repeat: 2 6 8
 teaser: Eine Ausstellung in Hamburg zeigt Alexander Michailowitsch Rodtschenko als Gestalter einer neuen Zeit.
 collection: 37533
 ---
-Eine Ausstellung in Hamburg zeigt Alexander Michailowitsch Rodtschenko als Gestalter einer neuen Zeit. Die Oktoberrevolution 1917 brachte Russland tiefgreifende politischen und wirtschaftliche Veränderungen. In der auf naturwissenschaftliche Logik fokussierten Welt traf der Konstruktivismus Rodtschenkos den Zeitgeist. 
+Eine Ausstellung in Hamburg zeigt Alexander Michailowitsch Rodtschenko als Gestalter einer neuen Zeit. Die Oktoberrevolution 1917 brachte Russland tiefgreifende politische und wirtschaftliche Veränderungen. In der auf naturwissenschaftliche Logik fokussierten Welt traf der Konstruktivismus Rodtschenkos den Zeitgeist. 
 
 *"Rodtschenko. Eine neue Zeit":http://www.buceriuskunstforum.de/ausstellung/rodtschenko-eine-neue-zeit/?cHash=5c0e6abd03853188b7b2b8a3a85d9a20, 8. Juni bis 15. September 2013, Bucerius Kunst Forum, Hamburg*

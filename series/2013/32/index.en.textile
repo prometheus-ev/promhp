@@ -17,6 +17,6 @@ repeat: 2 6 8
 teaser: An exhibition in Hamburg is presenting Alexander Michailowitsch Rodtschenko as a designer of a new time.
 collection: 37533
 ---
-An exhibition in Hamburg is presenting Alexander Michailowitsch Rodtschenko as a designer of a new time. The October Revolution 1917 caused profound political and economical changes. In this on scientific focussed world, the constructivism of Rodtschenko was in line with the spirit of times. 
+An exhibition in Hamburg is presenting Alexander Michailowitsch Rodtschenko as a designer of a new time. The October Revolution 1917 caused profound political and economical changes to Russia. In this on scientific focussed world, the constructivism of Rodtschenko was in line with the spirit of times. 
 
 *"Rodtschenko. Eine neue Zeit":http://www.buceriuskunstforum.de/ausstellung/rodtschenko-eine-neue-zeit/?cHash=5c0e6abd03853188b7b2b8a3a85d9a20, 8 June to 15 September 2013, Bucerius Kunst Forum, Hamburg*
