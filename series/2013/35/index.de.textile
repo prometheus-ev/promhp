@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Friedel Anderson: Kontor (Ausschnitt), 1995, \xC3\x96l auf Leinwand, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Friedel Anderson: Labor (Ausschnitt), 1993, \xC3\x96l auf Leinwand, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Manfred Bluth: Ensor und das Ehepaar Rousseau (Ausschnitt), 1984, \xC3\x96l auf Leinwand, Besitz Hannelore Bluth; Besitz Hannelore Bluth"
+- "Manfred Bluth: Hommage \xC3\xA0 Caspar David Friedrich (Ausschnitt), 1970-71, \xC3\x96l auf Leinwand, Berlin, Berlinische Galerie; Hommage \xC3\xA0 Caspar David Friedrich"
+- "Manfred Bluth: Kasimir Malewitsch stirbt in Leningrad im Kreise seiner Familie (Ausschnitt), o. J., \xC3\x96l auf Leinwand, Besitz Hannelore Bluth; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Harald Duwe: Litfa\xC3\x9Fs\xC3\xA4ule in Altona (Ausschnitt), 1949, \xC3\x96l auf Hartfaserplatte, 60 x 80 cm, digiCULT Museen, digiCULT, Kiel; Museumsberg Flensburg St\xC3\xA4dtische Museen und Sammlungen f\xC3\xBCr den Landesteil Schleswig"
+- "Harald Duwe: Strandbild (Ausschnitt), 1980, \xC3\x96l auf Hartfaserplatte, 26,7 x 36,7 cm, Kiel, Kunsthalle; digiCULT Museen, digiCULT, Kiel"
+- "Harald Duwe: Winterlandschaft (Ausschnitt), 1956, \xC3\x96l auf Hartfaserplatte, 37,5 x 48,5 cm, Kiel, Kunsthalle; digiCULT Museen, digiCULT, Kiel"
+title: Realismus in Norddeutschland
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/08/16
+repeat: 1 2 8
+teaser: Eine Ausstellung im Landesmuseum Gottdorf beleuchtet die Rolle des Realismus in der Malerei Norddeutschlands.
+collection: 37539
+---
+Eine Ausstellung im Landesmuseum Gottdorf beleuchtet die Rolle des Realismus in der Malerei Norddeutschlands. Vorgestellt wird vor allem eine lose Künstlergemeinschaft der Gegenwart, deren Mitglieder sich in wechselnder Besetzung seit 20 Jahren zu Symposien treffen und im Freien malen. Die Ausstellung zeigt sowohl diese Bilder, als auch solche aus dem Atelier.
+
+*"Realismus in Noddeutschland. Eine Zwischenbilanz":http://www.realismus-in-norddeutschland.de/, 26. Mai bis 20. Oktober 2013, Schloss Gottdorf, Schleswig*
