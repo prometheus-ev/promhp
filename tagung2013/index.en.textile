@@ -1,0 +1,53 @@
+--- 
+layout: default
+title: index
+---
+<h2 style="margin-bottom:5px;">Kulturelles Erbe digital - Bedingungen und Perspektiven</h2>
+
+24.-25. Oktober 2013 im Schloss Wahn, Köln<br>
+<br>
+Tagung in Kooperation mit pausanio akademie und dem Hochschulbibliothekszentrum (HBZ).<br>
+120 EUR, inkl. MwSt, Verpflegung und Abendveranstaltung,<br>
+Frühbucherrabatt bis zum 15. September 2013: 90 EUR
+<br>
+Im Zentrum der Tagung steht das Spannungsfeld zwischen “kulturellem Erbe” und seiner Darstellungsform und Verfügbarkeit im Digitalen. Der Zugriff auf Kultur erfolgt nicht nur verstärkt über digitale Medien, sondern immer häufiger primär. Dieser Paradigmenwechsel führt zu Veränderungen in Strukturen, Prioritäten und Arbeitsweisen in Kultureinrichtungen wie Bibliotheken, Museen und Archiven. Die Tagung will aufzeigen, wie diese Entwicklungen zukünftig gestaltet werden können, welche Ziele und Visionen bestehen, welche Bedingungen, Perspektiven und Strategien sich daraus ergeben und bringt daher die Verantwortlichen aus zentralen Kulturinstitutionen und Wissenschaftler/-innen zu Diskussion und Erfahrungsaustausch zusammen. Die Tagung gliedert sich in drei Themenfelder: der systematische Zugriff fragt nach Konstruktionen von „kulturellem Erbe“: Was verändert sich durch die Digitalisierung und virtuelle Bereitstellung? Welche Funktion haben Kulturinstitutionen im digitalen Zeitalter? Der strukturelle Zugriff fragt nach der Form der digitalen Umsetzung der Inhalte: Welche technischen Entwicklungen und Voraussetzungen brauchen wir für das „kulturelle Erbe“? Der pragmatische Zugriff fragt nach konkreten Anwendungen von „kulturellem Erbe“: Welche Möglichkeiten der Umsetzung gibt es? Welche Finanzierungsmodelle und Kooperationen sind sinnvoll?
+
+<h2>Programm</h2>
+
+h3. Donnerstag, 24. Oktober 2013
+
+<table>
+<tr>
+<td width="150">10.00 - 13.00 Uhr</td>
+<td>Konstruktionen von kulturellem Erbe – „Was verändert sich durch die Digitalisierung und virtuelle Bereitstellung?“</td>
+</tr>
+
+<tr>
+<td width="150">13.00 - 14.00 Uhr</td>
+<td>Mittagspause</td>
+</tr>
+
+<tr>
+<td width="150">14.00 - 18.00 Uhr</td>
+<td>Digitales kulturelle Erbe – „Welche technischen Entwicklungen und Voraussetzungen brauchen wir für die Inhalte?“</td>
+</tr>
+
+<tr>
+<td width="150">ab 18.30 Uhr
+<td>Abendveranstaltung</td>
+</tr>
+</table>
+
+h3. Freitag, 25. Oktober 2013
+
+<table>
+<tr>
+<td width="150">09.00 - 13.00 Uhr</td>
+<td>Anwendung kulturelles Erbe – „Welche Möglichkeiten der Umsetzung gibt es?“</td>
+</tr>
+
+<tr>
+<td width="150">ab 14.00 Uhr
+<td>Treffen des Arbeitskreises “Digitale Kunstgeschichte”</td>
+<tr>
+</table>
