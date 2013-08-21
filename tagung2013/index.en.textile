@@ -51,3 +51,4 @@ h3. Freitag, 25. Oktober 2013
 <td>Treffen des Arbeitskreises “Digitale Kunstgeschichte”</td>
 <tr>
 </table>
+"» zur Anmeldung":<%=p 'pandora/conference_sign_up' %>
