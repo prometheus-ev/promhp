@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Tagung \xE2\x80\x9EKulturelles Erbe digital \xE2\x80\x93 Bedingungen und Perspektiven\xE2\x80\x9C"
+author: Denise
+tags: 
+- news
+- tagung
+---

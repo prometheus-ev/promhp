@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Tagung \xE2\x80\x9EKulturelles Erbe digital \xE2\x80\x93 Bedingungen und Perspektiven\xE2\x80\x9C"
+author: Denise
+tags: 
+- news
+- tagung
+---
+Vom 24 bis 25. Oktober wird prometheus in Kooperation mit der "pausanio akademie":http://pausanio-akademie.de/ und dem "Hochschulbibliothekszentrum":http://www.hbz-nrw.de/(HBZ) die Tagung „Kulturelles Erbe digital – Bedingungen und Perspektiven“ veranstalten.
+
+Nähere Informationen zum Programm sowie die Möglichkeit zur Anmeldung finden Sie "hier":<%=r 'tagung2013/index'%> 
+
+Wir freuen uns auf zwei produktive Tage mit vielen interessanten Einblicken und hoffen auf Ihr zahlreiches Erscheinen! 
