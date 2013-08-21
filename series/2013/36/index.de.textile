@@ -1,20 +1,22 @@
 --- 
 layout: series
 descriptions: 
-- "Antoine-Denis Chaudet: Armor mit dem Schmetterling, 1817, Marmor, H 80 cm, Paris, Mus\xC3\xA9e du Louvre; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
-- "Hokusai: P\xC3\xA4onien und Schmetterling (Ausschnitt), 1832, Graphik, Hawaii; Peter Morse Collection; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
-- "Maria Sibylla Merian: Bl\xC3\xBCten des Palisadenbaums aus Surinam mit Raupen und Schmetterlingen (Ausschnitt), 1705, Kupferstich, Handschriftenabteilung, Staatsbibliothek zu Berlin - Preu\xC3\x9Fischer Kulturbesitz; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
-- "Irving Penn: Junge Frau mit Frucht / Carmen Dell\xC2\xB4Orafice, Schuh und Schmetterling (Ausschnitt), 1946, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Pablo Picasso: Komposition mit Schmetterling (Ausschnitt), 1932, Stoff, Holz, Pflanzen, Bindfaden, Heftzwecke, Schmetterling, \xC3\x96l auf Leinwand, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Regina Relang: Schmetterlingsserie, blau (Ausschnitt), 1974, C-Print, 65 x 50 cm; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
-- "Carl Spitzweg: Der Schmetterlingsf\xC3\xA4nger (Ausschnitt), um 1840, \xC3\x96l auf Leinwand, Wiesbaden, St\xC3\xA4dtisches Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Vincent van Gogh: Klatschmohn und Schmetterling (Ausschnitt), 1890, Tafelmalerei, 34,5 x 25,5 cm, Amsterdam, \xC3\xB6ffentliche Sammlung, Rijksmuseum Vincent van Gogh; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
-title: Schmetterlinge
+- "Friedel Anderson: Kontor (Ausschnitt), 1995, \xC3\x96l auf Leinwand, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Friedel Anderson: Labor (Ausschnitt), 1993, \xC3\x96l auf Leinwand, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Manfred Bluth: Ensor und das Ehepaar Rousseau (Ausschnitt), 1984, \xC3\x96l auf Leinwand, Besitz Hannelore Bluth; Besitz Hannelore Bluth"
+- "Manfred Bluth: Hommage \xC3\xA0 Caspar David Friedrich (Ausschnitt), 1970-71, \xC3\x96l auf Leinwand, Berlin, Berlinische Galerie; Hommage \xC3\xA0 Caspar David Friedrich"
+- "Manfred Bluth: Kasimir Malewitsch stirbt in Leningrad im Kreise seiner Familie (Ausschnitt), o. J., \xC3\x96l auf Leinwand, Besitz Hannelore Bluth; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Harald Duwe: Litfa\xC3\x9Fs\xC3\xA4ule in Altona (Ausschnitt), 1949, \xC3\x96l auf Hartfaserplatte, 60 x 80 cm, digiCULT Museen, digiCULT, Kiel; Museumsberg Flensburg St\xC3\xA4dtische Museen und Sammlungen f\xC3\xBCr den Landesteil Schleswig"
+- "Harald Duwe: Strandbild (Ausschnitt), 1980, \xC3\x96l auf Hartfaserplatte, 26,7 x 36,7 cm, Kiel, Kunsthalle; digiCULT Museen, digiCULT, Kiel"
+- "Harald Duwe: Winterlandschaft (Ausschnitt), 1956, \xC3\x96l auf Hartfaserplatte, 37,5 x 48,5 cm, Kiel, Kunsthalle; digiCULT Museen, digiCULT, Kiel"
+title: Realismus in Norddeutschland
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: 
 date: 2013/08/16
-repeat: 3 5 2
-teaser: "Die Metamorphose von der h\xC3\xA4sslichen Raupe zum sch\xC3\xB6nen Schmetterling ist ein beliebter Topos."
-collection: 37540
+repeat: 1 2 8
+teaser: Eine Ausstellung im Landesmuseum Gottdorf beleuchtet die Rolle des Realismus in der Malerei Norddeutschlands.
+collection: 37539
 ---
-Die Metamorphose von der hässlichen Raupe zum schönen Schmetterling ist ein beliebter Topos. Auch in der bildenden Kunst wird der Schmetterling als Wunder der Natur, als Symbol der Schönheit, aber auch der Vergänglichkeit in Szene gesetzt. Mit einer Reihe künstlerischer Schmetterlingsdarstellungen wollen wir den Spätsommer begrüßen.
+Eine Ausstellung im Landesmuseum Gottdorf beleuchtet die Rolle des Realismus in der Malerei Norddeutschlands. Vorgestellt wird vor allem eine lose Künstlergemeinschaft der Gegenwart, deren Mitglieder sich in wechselnder Besetzung seit 20 Jahren zu Symposien treffen und im Freien malen. Die Ausstellung zeigt sowohl diese Bilder, als auch solche aus dem Atelier.
+
+*"Realismus in Noddeutschland. Eine Zwischenbilanz":http://www.realismus-in-norddeutschland.de/, 26. Mai bis 20. Oktober 2013, Schloss Gottdorf, Schleswig*
