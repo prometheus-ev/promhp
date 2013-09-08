@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Meret Oppenheim: Portr\xC3\xA4t (Ausschnitt), 1980, Fotografie der K\xC3\xBCnstlerin / mit Schablone aufgetragene \xE2\x80\x9ET\xC3\xA4towierungen\xE2\x80\x9C, 29,5 x 21 cm, Bern, Kunstmuseum, Hermann und Margrit Rupf-Stiftung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Meret Oppenheim: Husch-husch, der sch\xC3\xB6nste Vokal entleert sich (Ausschnitt), 1934, \xC3\x96l auf Leinwand, 45,5 x 65 cm; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Meret Oppenheim: Ma gouvernante / Mein Kinderm\xC3\xA4dchen, 1936, wei\xC3\x9Fe Damenschuhe mit Papiermanschette auf ovaler Metallplatte, 20 x 30 x 15 cm, Stockholm, Moderna Museet; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+- "Meret Oppenheim: R\xC3\xB6ntgenaufnahme des Sch\xC3\xA4dels von Meret Oppenheim (Ausschnitt), 1964, R\xC3\xB6ntgenbild, 25,5 x 20,5 x cm, Hamburg, Galerie Levy; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Meret Oppenheim: Fr\xC3\xBChst\xC3\xBCck mit Pelz, 1936, mit Pelz bezogene Tasse, Untertasse, L\xC3\xB6ffel, H 7 cm, New York, The Museum of Modern Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Meret Oppenheim: Das Merino-Schaf, aus dem die Schlange entstanden ist, 1970, Farbstift auf Zeitungspapier, 16 x 10cm, Genf, Privatbesitz; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Man Ray: Meret Oppenheim, Erotique-voil\xC3\xA9e (Ausschnitt), 1933, Fotografie, o.O.; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Meret Oppenheim: Pullover mit Brusttasche (Detail), 1942 \xE2\x80\x93 2003, Wolle, Hamburg, Thomas Levy Galerie; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen "
+title: Meret Oppenheim
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/09/08
+repeat: 1 5 4
+teaser: On the occasion of the 100th birthday of Meret Oppenheim there is a retrospective in her native town Berlin.
+collection: 37707
+---
+On the occasion of the 100th birthday of Meret Oppenheim there is a retrospective in her native town Berlin. In the early 30s she acted as a model to Man Rays photographies „Érotique voilée“, but the surrealists respected her as an artist too. The exhibition in the Martin-Gropius-Bau  underlines Oppenheims emancipated attitude and the humorous side of her work. Exhibited are works of her entire œuvre.
+
+*"Meret Oppenheim. Retrospective":http://www.berlinerfestspiele.de/en/aktuell/festivals/gropiusbau/programm_mgb/mgb13_oppenheim/ausstellung_oppenheim/veranstaltungsdetail_55897.php, 16 August to 1 December 2013, Martin-Gropius-Bau, Berlin*
