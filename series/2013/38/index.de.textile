@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Emil Schumacher: Falacca (Ausschnitt), 1989, \xC3\x96l auf Holz, Hagen, Emil-Schumacher-Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Emil Schumacher: G-2 (Ausschnitt), 1981, Gouache auf Packpapier, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Emil Schumacher: G-7 (Ausschnitt), 1981, Gouache auf Packpapier, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Emil Schumacher: Galba (Ausschnitt), 1962, \xC3\x96l auf Leinwand, 170 x 132cm, o.O.; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Emil Schumacher: Scala I (Ausschnitt), 1987, \xC3\x96l auf Holz, 170 x 125 cm, Kunsthalle Kiel; digiCULT Museen, digiCULT, Kiel "
+- "Emil Schumacher: Tano (Ausschnitt), 1994, \xC3\x96l auf Sperrholz, 170 x 250 cm, Saarbr\xC3\xBCcken, Stiftung Saarl\xC3\xA4ndischer Kulturbesitz, Saarlandmuseum; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken "
+- "Emil Schumacher: G-54 (Ausschnitt), 1986, Gouache auf Packpapier, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Emil Schumacher: GB-12 (Ausschnitt), 1990, Gouache auf Packpapier, im Besitz des K\xC3\xBCnstlers; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+title: Emil Schumacher
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 2 4 1
+date: 2013/09/10
+teaser: "Emil Schumacher, der nach 1945 begann als freier K\xC3\xBCnstler zu arbeiten, z\xC3\xA4hlt zu den Vertretern der expressiven Malerei der zweiten Jahrhunderth\xC3\xA4lfte."
+collection: 37724
+---
+Emil Schumacher, der nach 1945 begann als freier Künstler zu arbeiten, zählt zu den Vertretern der expressiven Malerei der zweiten Jahrhunderthälfte. Das seit 2009 bestehende Emil Schumacher-Museum in dessen Heimatstadt Hagen widmet sich in wechselnden Präsentationen dem Werk Schumachers. Die aktuelle Ausstellung nimmt all jene Bilder in den Fokus, die sich mit dem Menschen in der Landschaft beschäftigen.
+
+*"Emil Schumacher. Sommerfreuden":http://www.osthausmuseum.de/web/de_1/esmh/ausstellungen/aktuellvorschau/ausstellung19.html, 30. Juni bis 24. November 2013, Emil Schumacher-Museum, Kunstquartier Hagen*
