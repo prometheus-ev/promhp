@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Conrad Horny: Die Tropfstein-H\xC3\xB6hle bei Slains in Nordschottland (Ausschnitt), 1798, kolorierter Kupferstich, 196 x 153 cm, Berlin, Bibliothek f\xC3\xBCr Bildungsgeschichtliche Forschung; Pictura Paedagogica Online, Bibliothek f\xC3\xBCr Bildungsgeschichtliche Forschung des Deutschen Instituts f\xC3\xBCr Internationale P\xC3\xA4dagogische Forschung, Berlin"
+- "Horny Conrad: Wasserhosen auf dem Meere (Ausschnitt), 1798, kolorierter Kupferstich, 86 x 151 mm; Pictura Paedagogica Online, Bibliothek f\xC3\xBCr Bildungsgeschichtliche Forschung des Deutschen Instituts f\xC3\xBCr Internationale P\xC3\xA4dagogische Forschung, Berlin "
+- "Franz Horny: Abbruch eines bewaldeten Hanges (Ausschnitt), ohne Datierung, Zeichnung / Bleistift / Tusche, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Friedrich Nerly: Felsenvorsprung unterhalb vom Portovenere bei Genua (Ausschnitt), 1828, Pinsel in Deckfarbe / schwarze und farbige Kreide / auf blauem Papier, 288 x 480 mm, Bremen, Kunsthalle, Kupferstichkabinett; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Johann Christian Reinhart: Ideale Landschaft mit aufziehendem Gewitter (Ausschnitt), 1803, \xC3\x96l auf Leinwand, 150 x 203 cm, Kassel, Staatliche Museen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Carl Friedrich von Rumohr: Civitella mit der Serpentara (Ausschnitt), 1819-1821, Aquarell, 22 x 33,3 cm, Bremen, Kunsthalle; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Carl Friedrich von Rumohr: Felsige Landschaft (Ausschnitt), nach 1828, Zeichnung, 22,2 x 33,6 cm, Museum Behnhaus/Dr\xC3\xA4gerhaus; digiCULT Museen, digiCULT, Kiel"
+- "Johann Heinrich Schilbach: Blick aus einer Felsenh\xC3\xB6hle auf die K\xC3\xBCste bei Sorrent (Ausschnitt), 1825, Aquarell, 49 x 38,5 cm, Darmstadt, Hessisches Landesmuseum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+layout: series
+title: Landscape drawings
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 6 2 4
+date: 2013/09/20
+teaser: "The divers relations between landscape conceptions of present times and the romantic era "
+collection: 37858
+---
+The divers relations between landscape conceptions of present times and the romantic era are subject of an exhibition in Bremen. The Kunsthalle is presenting around 100 landscape drawings and oil sketches of romanticism from the own collection and is complementing it with drawings of seven contemporary artists.
+
+*"Landscape drawings of romanticism and present times":http://www.kunsthalle-bremen.de/ausstellungen/aktuelle-ausstellungen/landschaftszeichnung/, 7 September 2013 to 12 January 2014, Kunsthalle Bremen*
