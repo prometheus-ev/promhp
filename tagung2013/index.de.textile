@@ -4,11 +4,13 @@ title: index
 ---
 <h2 style="margin-bottom:5px;">Kulturelles Erbe digital - Bedingungen und Perspektiven</h2>
 
-24.-25. Oktober 2013 im Schloss Wahn, Köln<br>
+24.-25. Oktober 2013 in Schloss Wahn, Köln<br>
 <br>
-Tagung in Kooperation mit pausanio akademie und dem Hochschulbibliothekszentrum NRW (HBZ).<br>
+Tagung in Kooperation mit "pausanio akademie":http://pausanio-akademie.de/ und dem "Hochschulbibliothekszentrum NRW (HBZ)":http://www.hbz-nrw.de/.<br>
 120 EUR, inkl. Verpflegung und Abendveranstaltung,<br>
 Frühbucherrabatt bis zum 30. September 2013: 90 EUR
+<br>
+"» zur Anmeldung":<%=p 'pandora/conference_sign_up' %>
 <br>
 Im Zentrum der Tagung steht das Spannungsfeld zwischen "kulturellem Erbe" und seiner Darstellungsform und Verfügbarkeit im Digitalen. Der Zugriff auf Kultur erfolgt nicht nur verstärkt, sondern immer häufiger auch primär über digitale Medien. Dieser Paradigmenwechsel führt zu Veränderungen in Strukturen, Prioritäten und Arbeitsweisen in Kultureinrichtungen wie Bibliotheken, Museen und Archiven.  
 Die Tagung will aufzeigen, wie diese Entwicklungen zukünftig gestaltet werden können, welche Ziele und Visionen existieren, welche Bedingungen, Perspektiven und Strategien sich daraus ergeben und bringt dazu die Verantwortlichen aus zentralen Kulturinstitutionen und WissenschaftlerInnen zu Diskussion und Erfahrungsaustausch zusammen. 
@@ -53,4 +55,4 @@ h3. Freitag, 25. Oktober 2013
 <td>Treffen des Arbeitskreises “Digitale Kunstgeschichte”</td>
 <tr>
 </table>
-"» zur Anmeldung":<%=p 'pandora/conference_sign_up' %>
+
