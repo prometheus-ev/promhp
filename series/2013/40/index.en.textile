@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Nancy Graves: Kamel IV, 1968/69, verschiedene Materialien, 243,8 x 320 x 121,9 cm, Ottawa, National Gallery of Canada; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Nancy Graves: Anker, 1969, Tinte auf Papier, 45,7 x 61cm, Ottawa, National Gallery of Canada; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Nancy Graves: Knochen und ihre Beh\xC3\xA4lter, 1971, Knochen, 20,3 x 335,3 x 152,4 cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Nancy Graves: Extend-Expand, 1983, Bronze, 215,7 x 129,5 x 84,4 cm, New York, Museum of Modern Art; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Nancy Graves: Variabilit\xC3\xA4t und Wiederholung von \xC3\xA4hnlichen Formen II, 1979, Bronze und Stahl, 182,9 x 365,8 x 487,7 cm, Akron, Akron Art Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Nancy Graves: Mioz\xC3\xA4n Skelett von Agate Springs (f\xC3\xBCr David Schwendeman), 1969, verschiedene Materialien, 198,1 x 243,8 x 91,4 cm, Aachen, Neue Galerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+- "Nancy Graves: Measure, 1978, Bronze, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Nancy Graves: Kamel VI, 1968/69, verschiedene Materialien, 243,8 x 320 x 121,9 cm, Ottawa, National Gallery of Canada; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin "
+title: Nancy Graves
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/09/27
+repeat: 1 3 5
+teaser: Nancy Graves has exhibited her work in Europe for the first time 1971 in Aachen.
+collection: 37913
+---
+Nancy Graves has exhibited her work in Europe for the first time 1971 in Aachen. Now a Museum in Aachen will present a retrospective of her work, concentrated on art works from the 1970s. Next to around 70 sculptures, installations, drawings, paintings and films by Graves, they will show works of other temporary artists, to allow a revaluation of the art of Nancy Graves.
+
+*"Nancy Graves Project & Special Guests":http://www.ludwigforum.de/ausstellungen/nancy_graves/index.html, 13 October 2013 – 16 February 2014, Ludwig-Forum für Internationale Kunst, Aachen*
