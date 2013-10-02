@@ -137,5 +137,10 @@ Gamify the arts - wie Gaming und Gamification die Kulturinstitution der Zukunft 
 <td>Prof. Dr. Stephan Hoppe (LMU München)
 Digitale Kunstgeschichte als Methode und Profession. Vorschläge zur zukünftigen Ausbildungssituation im Rahmen des akademischen Fächerkanons.</td>
 </tr>
+
+<tr>
+<td width="150">14.00 - 17.00 Uhr</td>
+<td>Treffen des Arbeitskreises Digitale Kunstgeschichte</td>
+</tr>
 </table>
 
