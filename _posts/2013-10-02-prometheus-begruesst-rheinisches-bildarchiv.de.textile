@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "prometheus schlie\xC3\x9Ft Kooperation mit dem Rheinischen Bildarchiv!"
+author: t.nisters
+tags: 
+- news
+---
+Das 1926 gegründete "Rheinische Bildarchiv":www.rheinisches-bildarchiv.de zählt mit 5,16 Millionen Fotografien zu den großen öffentlichen kunsthistorischen Bildarchiven in Deutschland. Die Schwerpunkte sind Kulturgeschichte, Kunst und Architektur Kölns sowie des Rheinlands und die Sammlungen der Kölner Museen. Der erste Datenbestand ist nun in prometheus integriert. Es handelt sich um Bilder des Fotografen Fritz Zapp an prometheus. Sukzessive werden weitere Bestände aus der Bilddatenbank "http://www.kulturelles-erbe-koeln.de":http://www.kulturelles-erbe-koeln.de folgen.
