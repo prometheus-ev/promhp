@@ -7,9 +7,8 @@ title: index
 24.-25. Oktober 2013 in Schloss Wahn, Köln<br>
 <br>
 Tagung in Kooperation mit "pausanio akademie":http://pausanio-akademie.de/ und dem "Hochschulbibliothekszentrum NRW (HBZ)":http://www.hbz-nrw.de/.<br>
-120 EUR, inkl. Verpflegung und Abendveranstaltung,<br>
-Frühbucherrabatt bis zum 30. September 2013: 90 EUR
-<br>
+120 EUR, inkl. Verpflegung und Abendveranstaltung<br>
+
 "» zur Anmeldung":<%=p 'pandora/conference_sign_up' %>
 <br>
 Im Zentrum der Tagung steht das Spannungsfeld zwischen "kulturellem Erbe" und seiner Darstellungsform und Verfügbarkeit im Digitalen. Der Zugriff auf Kultur erfolgt nicht nur verstärkt, sondern immer häufiger auch primär über digitale Medien. Dieser Paradigmenwechsel führt zu Veränderungen in Strukturen, Prioritäten und Arbeitsweisen in Kultureinrichtungen wie Bibliotheken, Museen und Archiven.  
@@ -22,8 +21,31 @@ h3. Donnerstag, 24. Oktober 2013
 
 <table>
 <tr>
-<td width="150">10.00 - 13.00 Uhr</td>
-<td>Konstruktionen von kulturellem Erbe – „Was verändert sich durch die Digitalisierung und virtuelle Bereitstellung?“</td>
+<td width="150">10.00 - 10.15 Uhr</td>
+<td>Begrüßung durch Prof. Dr. Holger Simon</td>
+</tr>
+
+<tr>
+<td width="150">10.15 - 11.00 Uhr</td>
+<td>Dr. Ellen Euler (Deutsche Digitale Bibliothek, Berlin)
+Kunst und Kultur online – Vision und Entwicklungsstand der Deutschen Digitalen Bibliothek</td>
+</tr>
+
+<tr>
+<td width="150">11.00 - 11.45 Uhr</td>
+<td>Dr. Judith van Gent (Amsterdam Museum) [angefragt]
+Amsterdam Museum – Open Data</td>
+</tr>
+
+<tr>
+<td width="150">11.45 - 12.15 Uhr</td>
+<td>Kaffeepause</td>
+</tr>
+
+<tr>
+<td width="150">12.15 - 13.00 Uhr</td>
+<td>Prof. Dr. Peter W. Marx (Theaterwissenschaftliche Sammlung, Universität zu Köln)
+Jenseits digitaler Allmachtsphantasien – Überlegungen zu einer digitalen Strategie der Theaterwissenschaftlichen Sammlung</td>
 </tr>
 
 <tr>
@@ -32,13 +54,43 @@ h3. Donnerstag, 24. Oktober 2013
 </tr>
 
 <tr>
-<td width="150">14.00 - 18.00 Uhr</td>
-<td>Digitales kulturelle Erbe – „Welche technischen Entwicklungen und Voraussetzungen brauchen wir für die Inhalte?“</td>
+<td width="150">14.00 - 14.45 Uhr</td>
+<td>Prof. Dr. Dorothee Haffner (HTW Berlin)
+Künstlernachlässe: Kulturelles Erbe - digital?</td>
 </tr>
 
 <tr>
-<td width="150">ab 18.30 Uhr
-<td>Abendveranstaltung</td>
+<td width="150">14.45 - 15.30 Uhr</td>
+<td>Raimund Spekking (Wikimedia Deutschland)
+Wikipedia & das kulturelle Erbe digital. Eine Symbiose?!</td>
+</tr>
+
+<tr>
+<td width="150">15.30 - 16.00 Uhr</td>
+<td>Kaffeepause</td>
+</tr>
+
+<tr>
+<td width="150">16.00 - 16.45 Uhr</td>
+<td>Dr. Rita Gudermann (Universität des Saarlandes, Saarbrücken)
+Virtuelle Ware Information - Über den Beginn der Kommerzialisierung von Inhalten im 19.
+Jahrhundert</td>
+</tr>
+
+<tr>
+<td width="150">16.45 - 17.30 Uhr</td>
+<td>Hatto Fischer (Europakulturexperte für Griechenland)
+Digitalisierung der Zukunft</td>
+</tr>
+
+<tr>
+<td width="150">18.00 Uhr
+<td>Diskussion zum Thema „Nachhaltigkeit“</td>
+</tr>
+
+<tr>
+<td width="150">19.00 Uhr
+<td>Empfang</td>
 </tr>
 </table>
 
@@ -46,12 +98,43 @@ h3. Freitag, 25. Oktober 2013
 
 <table>
 <tr>
-<td width="150">09.00 - 13.00 Uhr</td>
-<td>Anwendung kulturelles Erbe – „Welche Möglichkeiten der Umsetzung gibt es?“</td>
+<td width="150">09.00 - 09.45 Uhr</td>
+<td>Prof. Dr. Katja Kwastek (Vrije Universiteit Amsterdam)
+Locative art - der Kunstrezipient als vernetzter Flaneur</td>
 </tr>
 
 <tr>
-<td width="150">ab 14.00 Uhr
-<td>Treffen des Arbeitskreises “Digitale Kunstgeschichte”</td>
+<td width="150">09.45 - 10.30 Uhr</td>
+<td>Dr. Christian Gries, Janusmedia (Kulturkonsorten, München)
+Fünf Millionen für den #IMT - Erfolgreiche Kommunikation für den Internationalen Museumstag 2013 im digitalen Raum</td>
+</tr>
+
 <tr>
+<td width="150">10.30 - 11.15 Uhr</td>
+<td>Wibke Ladwig (Sinn und Verstand, Köln) [angefragt]
+Das Buch auf der ‚digitalen‘ Coach</td>
+</tr>
+
+<tr>
+<td width="150">11.15 - 11.30 Uhr</td>
+<td>Kaffeepause</td>
+</tr>
+
+<tr>
+<td width="150">11.30 - 12.15 Uhr</td>
+<td>Andreas Lange (Computerspielemuseum Berlin)
+Was Archive, Museen und Bibliotheken von Gamern lernen können – und umgekehrt</td>
+</tr>
+
+<tr>
+<td width="150">12.15 - 13.00 Uhr</td>
+<td>Christoph Deeg (Social-Media-Management/Gamification, Berlin)
+Gamify the arts - wie Gaming und Gamification die Kulturinstitution der Zukunft gestalten</td>
+</tr>
+
+<tr>
+<td width="150">13.00 - 13.45 Uhr</td>
+<td>Prof. Dr. Stephan Hoppe (LMU München)
+Digitale Kunstgeschichte als Methode und Profession. Vorschläge zur zukünftigen Ausbildungssituation im Rahmen des akademischen Fächerkanons.</td>
+</tr>
 </table>
