@@ -1,8 +1,8 @@
 --- 
 layout: post
-title: New upload function!
+title: "New: upload function!"
 author: t.nisters
 tags: 
 - news
 ---
-New "upload":http://prometheus.uni-koeln.de/pandora/en/upload/list function in prometheus! As from now you have the possibility to upload own images into your own database inside the image archive. You can add different metadata and connect your uploads to objects. For further information have a look at our "Help":http://prometheus.uni-koeln.de/pandora/en/help/upload
+"Upload":http://prometheus.uni-koeln.de/pandora/en/upload/list as new function in prometheus! As from now you have the possibility to upload own images into your own database inside the image archive. You can add different metadata and connect your uploads to objects. For further information have a look at our "Help":http://prometheus.uni-koeln.de/pandora/en/help/upload
