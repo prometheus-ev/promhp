@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: Neuer Bilder-Upload in eigene Datenbank!
+author: t.nisters
+tags: 
+- news
+---
+Es ist soweit!  Der neue "Bilder-Upload":http://prometheus.uni-koeln.de/pandora/upload/list ist integriert! Ab sofort können Sie eigene Bilder in Ihre eigene Datenbank innerhalb des Bildarchivs hochladen. Ihre eigenen Uploads können Sie mit Metadaten versehen und zu Objekten verknüpfen. Weitere Informationen finden Sie auf unseren "Hilfeseiten":http://prometheus.uni-koeln.de/pandora/help/upload
