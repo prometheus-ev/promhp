@@ -6,7 +6,7 @@ title: index
 
 24.-25. Oktober 2013 in Schloss Wahn, Köln<br>
 <br>
-Tagung in Kooperation mit "pausanio akademie":http://pausanio-akademie.de/ und dem "Hochschulbibliothekszentrum NRW (HBZ)":http://www.hbz-nrw.de/.<br>
+Tagung in Kooperation mit der "Pausanio Akademie":http://pausanio-akademie.de/ und dem "Hochschulbibliothekszentrum NRW (HBZ)":http://www.hbz-nrw.de/.<br>
 120 EUR, inkl. Verpflegung und Abendveranstaltung<br>
 
 "» zur Anmeldung":<%=p 'pandora/conference_sign_up' %>
