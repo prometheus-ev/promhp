@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Lochner, Stefan: Madonna im Rosenhag (Ausschnitt), ca. 1440-42, Mischtechnik auf Eichenholz, 47,4 x 37 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Lochner, Stefan: Madonna im Rosenhag, Detail: Brosche Mariens, ca. 1440-42, Mischtechnik auf Eichenholz, 47,4 x 37 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Meister der Passion von Karlsruhe: Festnahme Christi (Ausschnitt), ca. 1440, auf Holz, K\xC3\xB6ln, Wallraf-Richartz-Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Meister des Bartholom\xC3\xA4us-Altars: Muttergottes mit Nuss (Ausschnitt), ca. 1485-1490, auf Eichenholz, 30 x 20,5 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Lochner, Stefan: Weltgericht (Ausschnitt), um 1435, \xC3\x96l auf Holz, 124,5 x 172 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lochner, Stefan: Weltgericht (Ausschnitt), um 1435, \xC3\x96l auf Holz, 124,5 x 172 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lochner, Stefan: Weltgericht (Ausschnitt), um 1435, \xC3\x96l auf Holz, 124,5 x 172 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Meister von St. Laurenz: Jungfrau Maria im Paradiesgarten (Ausschnitt), ca. 1420, auf Holz, 21 x 17 cm, auf Holz, K\xC3\xB6ln, Wallraf-Richartz-Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+title: Secrets of the painters
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/10/05
+repeat: 4 8 2
+teaser: Nowadays the analysis of paintings using scientific methods is famous.
+collection: 37926
+---
+Nowadays the analysis of paintings using scientific methods is popular. The Wallraf-Richartz-Museum in Cologne is presenting the results of a perennial research project. Medieval paintings of their collection have been analysed to get more informations about the way they were made and used, about the age determination and the artist. The exhibition shows the originals as well as infra-red exposures, revealing x-ray images and blow-ups of details from the paintings.
+
+*"Secrets of the Painters. Cologne in the Middle Ages":http://www.wallraf.museum/index.php?id=405&L=1, 20 September 2013 to 9 February 2014, Köln, Wallraf-Richartz-Museum*

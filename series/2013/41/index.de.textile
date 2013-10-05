@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Lochner, Stefan: Madonna im Rosenhag (Ausschnitt), ca. 1440-42, Mischtechnik auf Eichenholz, 47,4 x 37 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Lochner, Stefan: Madonna im Rosenhag, Detail: Brosche Mariens, ca. 1440-42, Mischtechnik auf Eichenholz, 47,4 x 37 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Meister der Passion von Karlsruhe: Festnahme Christi (Ausschnitt), ca. 1440, auf Holz, K\xC3\xB6ln, Wallraf-Richartz-Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Meister des Bartholom\xC3\xA4us-Altars: Muttergottes mit Nuss (Ausschnitt), ca. 1485-1490, auf Eichenholz, 30 x 20,5 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Lochner, Stefan: Weltgericht (Ausschnitt), um 1435, \xC3\x96l auf Holz, 124,5 x 172 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lochner, Stefan: Weltgericht (Ausschnitt), um 1435, \xC3\x96l auf Holz, 124,5 x 172 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lochner, Stefan: Weltgericht (Ausschnitt), um 1435, \xC3\x96l auf Holz, 124,5 x 172 cm, K\xC3\xB6ln, Wallraf-Richartz-Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Meister von St. Laurenz: Jungfrau Maria im Paradiesgarten (Ausschnitt), ca. 1420, auf Holz, 21 x 17 cm, auf Holz, K\xC3\xB6ln, Wallraf-Richartz-Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+title: Geheimnisse der Maler
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/10/05
+repeat: 4 8 2
+teaser: "Die Analyse von Gem\xC3\xA4lden mittels naturwissenschaftlicher Methoden hat Hochkonjunktur."
+collection: 37926
+---
+Die Analyse von Gemälden mittels naturwissenschaftlicher Methoden hat Hochkonjunktur. Das Wallraf-Richartz-Museum in Köln präsentiert nun in einer Ausstellung die Ergebnisse eines mehrjährigen Forschungsprojektes. Mittelalterliche Gemälde der Sammlung sind detailliert auf ihre Entstehungsprozesse, ihre Nutzung sowie die Datierung und Zuschreibung hin untersucht worden. Neben den Originalen zeigt die Ausstellung die Infrarotaufnahmen, Röntgenbilder und mikroskopischen Vergrößerungen.
+
+*"Geheimnisse der Maler. Köln im Mittelalter":http://www.wallraf.museum/index.php?id=405&L=0, 20. September 2013 bis 9. Februar 2014, Köln, Wallraf-Richartz-Museum*
