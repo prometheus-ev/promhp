@@ -34,8 +34,7 @@ Kunst und Kultur online – Vision und Entwicklungsstand der Deutschen Digitalen
 <tr>
 <td width="150">11.00 - 11.45 Uhr</td>
 <td>Dr. Andreas Berger (Historisches Archiv der Stadt Köln)
-Digitales Abbild oder digitales Archivgut - ein archivischer Blick auf die
-Vielfalt digitaler Inhalte</td>
+Digitales Abbild oder digitales Archivgut - ein archivischer Blick auf die Vielfalt digitaler Inhalte</td>
 </tr>
 
 <tr>
