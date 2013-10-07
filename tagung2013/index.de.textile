@@ -33,8 +33,9 @@ Kunst und Kultur online – Vision und Entwicklungsstand der Deutschen Digitalen
 
 <tr>
 <td width="150">11.00 - 11.45 Uhr</td>
-<td>Dr. Judith van Gent (Amsterdam Museum) [angefragt]
-Amsterdam Museum – Open Data</td>
+<td>Dr. Andreas Berger (Historisches Archiv der Stadt Köln)
+Digitales Abbild oder digitales Archivgut - ein archivischer Blick auf die
+Vielfalt digitaler Inhalte</td>
 </tr>
 
 <tr>
@@ -79,7 +80,7 @@ Jahrhundert</td>
 
 <tr>
 <td width="150">16.45 - 17.30 Uhr</td>
-<td>Hatto Fischer (Koordinator von Poiein kai Prattein, Dichter und Philosoph)
+<td>Dr. Hatto Fischer (Koordinator von Poiein kai Prattein, Dichter und Philosoph)
 Digitalisierung der Zukunft</td>
 </tr>
 
