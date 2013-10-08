@@ -7,7 +7,7 @@ title: index
 24.-25. Oktober 2013 in Schloss Wahn, Köln<br>
 <br>
 Tagung in Kooperation mit der "Pausanio Akademie":http://pausanio-akademie.de/ und dem "Hochschulbibliothekszentrum NRW (HBZ)":http://www.hbz-nrw.de/.<br>
-120 EUR, inkl. Verpflegung und Abendveranstaltung<br>
+120 EUR, inkl. Verpflegung und Abendveranstaltung (50% Ermäßigung für Studierende)<br>
 
 "» zur Anmeldung":<%=p 'pandora/conference_sign_up' %>
 <br>
@@ -33,8 +33,8 @@ Kunst und Kultur online – Vision und Entwicklungsstand der Deutschen Digitalen
 
 <tr>
 <td width="150">11.00 - 11.45 Uhr</td>
-<td>Dr. Andreas Berger (Historisches Archiv der Stadt Köln)
-Digitales Abbild oder digitales Archivgut - ein archivischer Blick auf die Vielfalt digitaler Inhalte</td>
+<td>Dr. Judith van Gent (Amsterdam Museum)
+Amsterdam Museum - Open Data</td>
 </tr>
 
 <tr>
@@ -44,8 +44,8 @@ Digitales Abbild oder digitales Archivgut - ein archivischer Blick auf die Vielf
 
 <tr>
 <td width="150">12.15 - 13.00 Uhr</td>
-<td>Prof. Dr. Peter W. Marx (Theaterwissenschaftliche Sammlung, Universität zu Köln)
-Jenseits digitaler Allmachtsphantasien – Überlegungen zu einer digitalen Strategie der Theaterwissenschaftlichen Sammlung</td>
+<td>Dr. Andreas Berger (Historisches Archiv der Stadt Köln)
+Digitales Abbild oder digitales Archivgut - ein archivischer Blick auf die Vielfalt digitaler Inhalte</td>
 </tr>
 
 <tr>
@@ -55,41 +55,47 @@ Jenseits digitaler Allmachtsphantasien – Überlegungen zu einer digitalen Stra
 
 <tr>
 <td width="150">14.00 - 14.45 Uhr</td>
+<td>Prof. Dr. Peter W. Marx (Theaterwissenschaftliche Sammlung, Universität zu Köln)
+Jenseits digitaler Allmachtsphantasien – Überlegungen zu einer digitalen Strategie der Theaterwissenschaftlichen Sammlung</td>
+</tr>
+
+<tr>
+<td width="150">14.45 - 15.30 Uhr</td>
 <td>Prof. Dr. Dorothee Haffner (HTW Berlin)
 Künstlernachlässe: Kulturelles Erbe - digital?</td>
 </tr>
 
 <tr>
-<td width="150">14.45 - 15.30 Uhr</td>
+<td width="150">15.30 - 16.15 Uhr</td>
 <td>Raimund Spekking (Wikimedia Deutschland)
 Wikipedia & das kulturelle Erbe digital. Eine Symbiose?!</td>
 </tr>
 
 <tr>
-<td width="150">15.30 - 16.00 Uhr</td>
+<td width="150">16.15 - 16.45 Uhr</td>
 <td>Kaffeepause</td>
 </tr>
 
 <tr>
-<td width="150">16.00 - 16.45 Uhr</td>
+<td width="150">16.45 - 17.30 Uhr</td>
 <td>Dr. Rita Gudermann (Universität des Saarlandes, Saarbrücken)
 Virtuelle Ware Information - Über den Beginn der Kommerzialisierung von Inhalten im 19.
 Jahrhundert</td>
 </tr>
 
 <tr>
-<td width="150">16.45 - 17.30 Uhr</td>
+<td width="150">17.30 - 18.15 Uhr</td>
 <td>Dr. Hatto Fischer (Koordinator von Poiein kai Prattein, Dichter und Philosoph)
 Digitalisierung der Zukunft</td>
 </tr>
 
 <tr>
-<td width="150">18.00 Uhr
-<td>Diskussion zum Thema „Nachhaltigkeit“</td>
+<td width="150">18.15 Uhr
+<td>Plenumsdiskussion: Nachhaltigkeit in (öffentlich finanzierten) digitalen Projekten</td>
 </tr>
 
 <tr>
-<td width="150">19.00 Uhr
+<td width="150">19.30 Uhr
 <td>Empfang</td>
 </tr>
 </table>
