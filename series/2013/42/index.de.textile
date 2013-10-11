@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Gustav Klimt: Bildnis Marie Henneberg, 1901/02, \xC3\x96l auf Leinwand, 140 x 140 cm, Halle, Landeskunstmuseum Sachsen-Anhalt; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Edgar Degas: Die B\xC3\xBCglerin, 1869, \xC3\x96l auf Leinwand, 92,5 x 74 cm, M\xC3\xBCnchen, \xC3\xB6ffentliche Sammlung, Bayerische Staatsgem\xC3\xA4ldesammlungen, Neue Pinakothek; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- Ray Eames mit Stoffdesign, Venice Californien USA Amerika; dda - digitales design archiv, Hochschule Anhalt (FH), Fachbereich Design, Dessau
+- "Henri Matisse: Rosa Messgewand, 1950-52, Stoff, 130 x 200 cm, Chapelle de Vence; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Rosemarie Trockel: Sans titre, 1985, Wolle, 65 x 65 cm, Collection de l'auteur; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Kimsooja: Bottari, 2000, Installation, Lyon, Biennale d'art contemporain de Lyon; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Sigmar Polke: $-Bild, 1971, Kreide und Dispersion auf Stoff, Sammlung Frieder Burda; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "Peter Kogler, 2000, Installationsansicht, Bregenz, Kunsthaus Bregenz; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+layout: series
+title: Kunst & Textil
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/10/11
+repeat: 6 4 2
+teaser: Das Kunstmuseum Wolfsburg geht auf die Suche nach Textilien in der Kunst der Moderne und der Gegenwart.
+collection: 38013
+---
+Das Kunstmuseum Wolfsburg geht auf die Suche nach Textilien in der Kunst der Moderne und der Gegenwart. Dabei werden nicht nur Kunstwerke aus Stoff ausgestellt, sondern auch solche, die Stoffe abbilden oder imitieren. Die Ausstellung fragt nach der Bedeutung des Textils für die Moderne, insbesondere für die Entwicklung der Abstraktion. 
+
+*"Kunst & Textil – Stoff als Material und Idee in der Moderne von Klimt bis heute":http://www.kunstmuseum-wolfsburg.de/exhibition/130/K_u_n_s_t__&__T_e_x_t_i_l_%E2%80%93_Stoff_als_Material_und_Idee_in_der_Moderne_von_Klimt_bis_heute, 12. Oktober 2013 bis 2. März 2014, Kunstmuseum Wolfsburg* 
