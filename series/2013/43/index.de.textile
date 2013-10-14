@@ -1,0 +1,21 @@
+--- 
+descriptions: 
+- "Candida H\xC3\xB6fer: Hauptbahnhof D\xC3\xBCsseldorf (Ausschnitt), 1975, Fotografie/Gelatinesilberdruck, N\xC3\xBCrnberg, Kunsthalle; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte "
+- "Candida H\xC3\xB6fer: Schauspielhaus D\xC3\xBCsseldorf, 1997, Fotografie, D\xC3\xBCsseldorf; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "Canida H\xC3\xB6fer: Otis College of Art and Design, Los Angeles (Ausschnitt), 2000, Fotografie, 120 x 120 cm, D\xC3\xBCsseldorf, Kunstsammlung Nordrhein-Westfalen; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Candida H\xC3\xB6fer: Kunsthaus Bregenz I (Ausschnitt), 1999, Fotografie, 120 x 120 cm, o.O.; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Candida H\xC3\xB6fer: Museum f\xC3\xBCr V\xC3\xB6lkerkunde Dresden I (Ausschnitt), 1999, Fotografie, 120 x 120 cm, o.O.; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Candida H\xC3\xB6fer: Biblioth\xC3\xA8que Nationale de France Paris V (Ausschnitt), 1998, Fotografie, 60 x 45 cm, o.O.; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Candida H\xC3\xB6fer: Vorarlberger Landesbibliothek Bregenz (Ausschnitt), 1999, Fotografie, 60 x 60 cm, o.O.; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Candida H\xC3\xB6fer: Natural History Museum London II (Ausschnitt), 1990, C-Print, 36 x 52 cm, K\xC3\xB6ln, Courtesy Galerie Johnen und Sch\xC3\xB6ttle; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+layout: series
+title: "Candida H\xC3\xB6fer"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/10/14
+repeat: 2 4 6
+teaser: "Die D\xC3\xBCsseldorfer Ausstellung mit Fotografien von Candida H\xC3\xB6fer zeigt ausschlie\xC3\x9Flich Werke, die in D\xC3\xBCsseldorf entstanden sind."
+collection: 38034
+---
+Die Düsseldorfer Ausstellung mit Fotografien von Candida Höfer zeigt ausschließlich Werke, die in Düsseldorf entstanden sind. Die Stadt, in der Höfer die Kunsthochschule besucht hat und in der sie ihre erste Einzelausstellung hatte, markiert den Beginn ihrer künstlerischen Arbeit. Neben Raum- und Architekturfotografien sind auch Bilder ihrer ersten Fotoserie „Türken in Deutschland“ zu sehen.
+*"Candida Höfer. Düsseldorf":http://www.smkp.de/ausstellungen/aktuell/candida-hoefer.html, 14. September 2013 bis 09. Februar 2014, Museum Kunstpalast, Düsseldorf* 

@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Candida H\xC3\xB6fer: Hauptbahnhof D\xC3\xBCsseldorf (Ausschnitt), 1975, Fotografie/Gelatinesilberdruck, N\xC3\xBCrnberg, Kunsthalle; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte "
+- "Candida H\xC3\xB6fer: Schauspielhaus D\xC3\xBCsseldorf, 1997, Fotografie, D\xC3\xBCsseldorf; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "Canida H\xC3\xB6fer: Otis College of Art and Design, Los Angeles (Ausschnitt), 2000, Fotografie, 120 x 120 cm, D\xC3\xBCsseldorf, Kunstsammlung Nordrhein-Westfalen; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Candida H\xC3\xB6fer: Kunsthaus Bregenz I (Ausschnitt), 1999, Fotografie, 120 x 120 cm, o.O.; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Candida H\xC3\xB6fer: Museum f\xC3\xBCr V\xC3\xB6lkerkunde Dresden I (Ausschnitt), 1999, Fotografie, 120 x 120 cm, o.O.; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Candida H\xC3\xB6fer: Biblioth\xC3\xA8que Nationale de France Paris V (Ausschnitt), 1998, Fotografie, 60 x 45 cm, o.O.; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Candida H\xC3\xB6fer: Vorarlberger Landesbibliothek Bregenz (Ausschnitt), 1999, Fotografie, 60 x 60 cm, o.O.; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Candida H\xC3\xB6fer: Natural History Museum London II (Ausschnitt), 1990, C-Print, 36 x 52 cm, K\xC3\xB6ln, Courtesy Galerie Johnen und Sch\xC3\xB6ttle; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+layout: series
+title: "Candida H\xC3\xB6fer"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/10/14
+repeat: 2 4 6
+teaser: "The exhibition in D\xC3\xBCsseldorf with photographies by Candida H\xC3\xB6fer"
+collection: 38034
+---
+The exhibition in Düsseldorf with photographies by Candida Höfer is showing solely artworks being made in Düsseldorf. The city, were Höfer attended the art college and were she had her first solo exhibition, marks the beginning of her artistic work. The Museum Kunstpalast is presenting photographs of interiors and architecture as well as pictures from her first series „Turks in Germany“.
+
+*"Candida Höfer. Düsseldorf":http://www.smkp.de/en/exhibitions/current/candida-hoefer.html, 14 September 2013 to 09 February 2014, Museum Kunstpalast, Düsseldorf* 
