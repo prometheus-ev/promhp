@@ -44,8 +44,8 @@ Amsterdam Museum - Open Data</td>
 
 <tr>
 <td width="150">12.15 - 13.00 Uhr</td>
-<td>Dr. Andreas Berger (Historisches Archiv der Stadt Köln)
-Digitales Abbild oder digitales Archivgut - ein archivischer Blick auf die Vielfalt digitaler Inhalte</td>
+<td>Prof. Dr. Peter W. Marx (Theaterwissenschaftliche Sammlung, Universität zu Köln)
+Jenseits digitaler Allmachtsphantasien – Überlegungen zu einer digitalen Strategie der Theaterwissenschaftlichen Sammlung</td>
 </tr>
 
 <tr>
@@ -55,8 +55,8 @@ Digitales Abbild oder digitales Archivgut - ein archivischer Blick auf die Vielf
 
 <tr>
 <td width="150">14.00 - 14.45 Uhr</td>
-<td>Prof. Dr. Peter W. Marx (Theaterwissenschaftliche Sammlung, Universität zu Köln)
-Jenseits digitaler Allmachtsphantasien – Überlegungen zu einer digitalen Strategie der Theaterwissenschaftlichen Sammlung</td>
+<td>Dr. Andreas Berger (Historisches Archiv der Stadt Köln)
+Digitales Abbild oder digitales Archivgut - ein archivischer Blick auf die Vielfalt digitaler Inhalte</td>
 </tr>
 
 <tr>
@@ -67,7 +67,7 @@ Künstlernachlässe: Kulturelles Erbe - digital?</td>
 
 <tr>
 <td width="150">15.30 - 16.15 Uhr</td>
-<td>Raimund Spekking (Wikimedia Deutschland)
+<td>Raimond Spekking (Wikimedia Deutschland)
 Wikipedia & das kulturelle Erbe digital. Eine Symbiose?!</td>
 </tr>
 
