@@ -78,7 +78,7 @@ Wikipedia & das kulturelle Erbe digital. Eine Symbiose?!</td>
 
 <tr>
 <td width="150">16.45 - 17.30 Uhr</td>
-<td>Dr. Rita Gudermann (Universität des Saarlandes, Saarbrücken)
+<td>Dr. Rita Gudermann (Freie Universität Berlin)
 Virtuelle Ware Information - Über den Beginn der Kommerzialisierung von Inhalten im 19.
 Jahrhundert</td>
 </tr>
