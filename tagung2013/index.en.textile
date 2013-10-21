@@ -34,7 +34,7 @@ Kunst und Kultur online – Vision und Entwicklungsstand der Deutschen Digitalen
 <tr>
 <td width="150">11.00 - 11.45 Uhr</td>
 <td>Dr. Judith van Gent (Amsterdam Museum)
-Amsterdam Museum - Open Data</td>
+Collections open! Amsterdam Museum and Open Data</td>
 </tr>
 
 <tr>
