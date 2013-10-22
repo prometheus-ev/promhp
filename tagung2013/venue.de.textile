@@ -1,0 +1,32 @@
+--- 
+layout: default
+title: Veranstaltungsort
+---
+h2. <%= page_title %>
+
+Die Tagung findet im Gartensaal von Schloss Wahn statt.
+
+Schloss Wahn 
+Burgallee 2 
+51147 Köln (Porz-Wahn) 
+http://www.schloss-wahn.de/
+
+h3(#directions). Anfahrt
+
+1. vom Flughafen Köln-Bonn
+
+Im Flughafen Köln-Bonn befindet sich ein eigener Bahnhof unmittelbar vor den Terminals. Im Abschnitt E-F von Gleis 3 fährt Die Linie S 13 direkt zum Bahnhof Porz-Wahn. Direkt gegenüber des Bahnhofs liegt das Schloss, das Sie nach einem dreiminütigen Fußweg erreichen.
+
+
+2. vom Hauptbahnhof Köln
+
+Schloss Wahn ist ab Gleis 10 vom Kölner Hauptbahnhof mit den S-Bahn Linien S12 in Richtung Hennef (Sieg) oder Au (Sieg) und S13 Richtung Troisdorf zu erreichen. Von der Haltestelle ist "Porz-Wahn" befindet sich das Schloss bereits in Sichtweite, und ist mit einem Fußweg von 3 Minuten zu erreichen.
+
+
+3. Anfahrt mit dem Auto
+
+Über die Autobahn A 59 bis zur Ausfahrt Wahn (Nr. 35) fahren. Danach in Richtung Wahn fahren. Hinter der dritten Ampel in der Kurve rechts in die Burgallee einbiegen. 
+Hinweis: 
+Es gibt zwar Stellplätze im Hof des Schlosses, aber diese sind leider sehr begrenzt. Daher kann es sein, dass Sie sich eine Parkmöglichkeit in den umliegenden Straßen suchen müssen. 
+
+<img src="<%=r "files/images/anfahrt.jpg" %>" />
