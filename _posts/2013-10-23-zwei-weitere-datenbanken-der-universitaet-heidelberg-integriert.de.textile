@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Zwei weitere Datenbanken der Universit\xC3\xA4t Heidelberg integriert!"
+author: Denise
+tags: 
+- news
+- databases
+---
+Die Universität Heidelberg hat mit "Ägyptologie Ramessidengräber":<%=p 'source/show/heidicon_ar' %> und "Britische Karikaturen":<%=p 'source/show/heidicon_pu' %> nun zwei weitere Datenbanken über prometheus zugänglich gemacht.
+
+Das Bildmaterial der Ramessidengräber stammt überwiegend aus dem am Heidelberger Ägyptologischen Institut beheimateten DFG-Projekt „Ramessidische Beamtengräber in der Thebanischen Nekropole“ (seit 1977-2005) und zeigt Farbaufnahmen aus Thebanischen Beamtengräbern. 
+
+Das im Pool "Britische Karikaturen" erschlossene Bildmaterial enthält Illustrationen und Karikaturen der Zeitschriften "Punch, or the London Charivari" und "Punch“. Auch  diese Bilderschließung erfolgt im Rahmen eines von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projektes: Die europäische Perspektive: Digitalisierung und Erschließung ausländischer Kunst- und Satirezeitschriften des 19. und frühen 20. Jahrhunderts. 
