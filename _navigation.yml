@@ -98,7 +98,11 @@
     :url: about/jobs
 - :title_en: Conference 2013
   :title_de: Tagung 2013
-  :url: tagung2013/index
+  :url: tagung2013/index 
+  :content:
+  - :title_en: Venue
+    :title_de: Anfahrt
+    :url: tagung2013/venue
 - :title_en: Licenses
   :title_de: Lizenzen
   :url: license/index

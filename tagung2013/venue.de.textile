@@ -9,7 +9,7 @@ Die Tagung findet im Gartensaal von Schloss Wahn statt.
 Schloss Wahn 
 Burgallee 2 
 51147 Köln (Porz-Wahn) 
-http://www.schloss-wahn.de/
+"http://www.schloss-wahn.de/":http://www.schloss-wahn.de/
 
 h3(#directions). Anfahrt
 
