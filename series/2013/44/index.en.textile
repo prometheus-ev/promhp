@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Ronald Brooks Kitaj: Wert, Preis und Profit (Ausschnitt), 1963, \xC3\x96l auf Leinwand, 153 x 153cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Ronald Brooks Kitaj: Erie Shore (Ausschnitt), 1966, \xC3\x96l auf Leinwand, 183 x 305 cm, Berlin, Staatliche Museen zu Berlin, Neue Nationalgalerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Ronald Brooks Kitaj: Erie Shore (Ausschnitt), 1966, \xC3\x96l auf Leinwand, 183 x 305 cm, Berlin, Staatliche Museen zu Berlin, Neue Nationalgalerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Ronald Brooks Kitaj: London by night (Ausschnitt), 1964, \xC3\x96l auf Leinwand, 145 x 183 cm, Amsterdam, Stedelijk Museum; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Ronald Brooks Kitaj: Erie Shore (Ausschnitt), 1966, \xC3\x96l auf Leinwand, 183 x 305 cm, Berlin, Staatliche Museen zu Berlin, Neue Nationalgalerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Ronald Brooks Kitaj: Wert, Preis und Profit (Ausschnitt), 1963, \xC3\x96l auf Leinwand, 153 x 153cm, Privatbesitz; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Ronald Brooks Kitaj: Gute Nachrichten f\xC3\xBCr Inkunabulisten (Ausschnitt), 1962, \xC3\x96l auf Leinwand, Pivatbesitz; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Ronald Brooks Kitaj: Kennst du das Land (Ausschnitt), 1962, \xC3\x96l auf Leinwand, 121,9 x 121,9 cm, London, Marlborough Fine Art Limited; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+title: Ronald B. Kitaj
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 2 4 6
+date: 2013/10/27
+teaser: "Last Sunday ended an exhibition in the Hamburger Kunsthalle with works of Ronald B. Kitaj. "
+collection: 38234
+---
+Last Sunday ended an exhibition in the Hamburger Kunsthalle with works of Ronald B. Kitaj. The paintings of Kitaj are colourful, include quotations and belong – with elements of cubism, surrealism and dadaism – to a very versatile figural painting. Kitaj, an artist of Jewish descent, who lived in Amerika and Europe, developed the idea of an “artistic diasporism”. The cafés in the cities, where displaced persons and travellers come and go, were throughout his life an important source of inspiration.
+
+*"R.B.Kitaj. The Retrospective":http://www.hamburger-kunsthalle.de/index.php/r-b-kitaj.html, ended on 27 October 2013, Hamburger Kunsthalle*
