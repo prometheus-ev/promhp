@@ -1,0 +1,20 @@
+--- 
+layout: series
+descriptions: 
+- "William Turner: Schneesturm. Hannibal und sein Heer \xC3\xBCberschreiten die Alpen (Ausschnitt), 1810-12, \xC3\x96l auf Leinwand, 144,7 x 136 cm, London, Tate Gallery; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Henri Rousseau: \xC3\x9Cberrascht! Sturm in Dschungel (Ausschnitt), 1891, \xC3\x96l auf Leinwand, 130 x 162 cm, London, National Gallery; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "August Macke: Sturm (Ausschnitt), 1911, \xC3\x96l auf Leinwand, 84 x 112 cm, Saarbr\xC3\xBCcken, Stiftung Saarl\xC3\xA4ndischer Kulturbesitz, Saarlandmuseum; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Willem van de Velde: Holl\xC3\xA4ndische Kaag vor st\xC3\xBCrmischem Wind (Ausschnitt), ohne Jahr, \xC3\x96l auf Leinwand, 63,5 x 75,5 cm, Berlin, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Hannah H\xC3\xB6ch: Sturm (Ausschnitt), 1935, Aquarell auf Papier, 71 x 65 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Eug\xC3\xA9ne Isabey: Der Sturm, das Schiffswrack (Ausschnitt), 1845, \xC3\x96l auf Leinwand, 65 x 80 cm, Montpellier, Mus\xC3\xA9e Fabre, Collection Bruyas; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Claude Monet: Sturm an der K\xC3\xBCste von Belle-Ile (Ausschnitt), 1886, \xC3\x96l auf Leinwand, 65 x 81 cm, Paris, Mus\xC3\xA9e d'Orsay; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Pol Cassel: Sturm auf Hiddensee (Ausschnitt), 1928, \xC3\x96l auf Leinwand, Berlin, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+title: Storm
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 6 1 5
+date: 2013/10/28
+teaser: This year's autumnal storms have inspired the creation of a stormy image series.
+collection: 83250
+---
+This year's autumnal storms have inspired the creation of a stormy image series. The storm-picture of Eugéne Isabey shows, how the roaring waves break at a riff. William Turners snowstorm piles up dangerous over Hinnibal. In the picture of Hannah Höch the storm carries objects and people away. And in Rousseaus stormy jungle the rain patters on a cowering wild cat. All these pictures are showing the impressive force of nature.
