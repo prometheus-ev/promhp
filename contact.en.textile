@@ -2,7 +2,7 @@
 layout: default
 title: Contact information
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=43&L=1&skin=0&tx_ttnews[tt_news]=&tx_ttnews[pointer]=
-priority: 0.5
+priority: "0.5"
 ---
 h2. <%= page_title %>
 
@@ -24,15 +24,6 @@ h3. Street adress
 
 Bernhard-Feilchenfeld-Str. 11
 D - 50969 Köln
-
-h3. Bank data
-
-Volksbank Gießen-Friedberg
-BLZ 513 900 00
-Konto-Nr.: 133 89 00
-
-BIC: GENODE51GI1
-IBAN: DE36 5139 0000 0001 3389 00
 
 h3. Jurisdiction
 

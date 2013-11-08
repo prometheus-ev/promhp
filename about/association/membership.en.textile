@@ -22,3 +22,13 @@ h3. Membership Application
 "» Application form":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
 
 Download, fill it out, sign it and send it to our administration office!
+
+h3. Bank data
+
+Volksbank Gießen-Friedberg
+BLZ 513 900 00
+Konto-Nr.: 133 89 00
+
+BIC: GENODE51GI1
+IBAN: DE36 5139 0000 0001 3389 00
+

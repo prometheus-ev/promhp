@@ -22,3 +22,13 @@ h3. Antrag auf Mitgliedschaft
 "» Aufnahmeantrag":<%=r 'files/text/aufnahmeantrag_01.pdf' %>
 
 PDF herunterladen und ausgefüllt und unterschrieben an die Geschäftstelle schicken!
+
+h3. Bankverbindung
+
+Volksbank Gießen-Friedberg
+BLZ 513 900 00
+Konto-Nr.: 133 89 00
+
+BIC: GENODE51GI1
+IBAN: DE36 5139 0000 0001 3389 00
+
