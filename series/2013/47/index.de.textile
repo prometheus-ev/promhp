@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "M\xC3\xA4nade st\xC3\xB6\xC3\x9Ft Satyr mit ihrem Thyros zur\xC3\xBCck, Schale, attisch rotfigurig, M\xC3\xBCnchen, Antikensammlung; EikOnline, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Altertumswissenschaften, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Bacchus, zwischen 100 und 200 n. Chr., Bronze, 58 cm, Antikensammlung, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Dionysos, 2.Jh., Marmor, Ny Carlsberg Glyptotek; HeidICON - Klassische Arch\xC3\xA4ologie, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Michelangelo: Bacchus und Satyr, 1496-97, Marmor, 230 cm, Florence, Museo Nazionale del Bargello; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Caravaggio: Bacchus mit Efeukranz (Ausschnitt), 1593, \xC3\x96l auf Leinwand, 66 x 52 cm, Rome, Galleria Borghese;Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Tullio Lombardo: Bacchus und Ariane, 1520-25, Marmor, 55 x 71 cm, Wien, Kunsthistorisches Museum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Hans von Aachen: Bacchus, Ceres und Amor, um 1600, \xC3\x96l auf Leinwand, 163 x 113 cm, Wien, Kunsthistorisches Museum Wien; promDILPS, Universit\xC3\xA4t Leipzig, Institut f\xC3\xBCr Kunstgeschichte, Universit\xC3\xA4t Leipzig"
+- "Tintoretto: Ariane, Bacchus und Venus (Ausschnitt), 1576-77, \xC3\x96l auf Leinwand, 146 x 167 cm, Venedig, Palazzo ducale; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+title: Dionysos
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 1 6 3
+date: 2013/11/10
+teaser: "Der antike Gott des Weines und der Fruchtbarkeit steht auch f\xC3\xBCr Wildheit, Ausgelassenheit, Lust und Grenz\xC3\xBCberschreitung."
+collection: 38425
+---
+Der antike Gott des Weines und der Fruchtbarkeit steht auch für Wildheit, Ausgelassenheit, Lust und Grenzüberschreitung. Tanzende Satyrn und Mänaden gehören zu seiner Gefolgschaft; Ariadne ist die Frau an seine Seite. Eine Ausstellung in Hamburg zeigt Darstellungen des Gottes in ekstatischen Szenen von der Antike – in der griechischen Antike unter dem Namen "Bacchus" – über Renaissance und Barock bis in die Kunst der Gegenwart.
+
+*"Dionysos. Rausch und Ekstase":http://www.buceriuskunstforum.de/ausstellung/dionysos/?cHash=d9b488f1087953d4c94bc2e3926279fb, 3. Oktober 2013 bis 12. Januar 2014, Bucerius Kunstforum, Hamburg*
