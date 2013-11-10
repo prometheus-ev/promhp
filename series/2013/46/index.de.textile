@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Philip Guston: Boot (Ausschnitt), 1968, Acryl auf Holz, 41,9 x 49,5 cm, Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Philip Guston: The Line (Ausschnitt), \xC3\x96l auf Leinwand, 180,3 x 186,1 cm, Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Philip Guston: Pantheon (Ausschnitt), 1973, \xC3\x96l auf Holz, 114,3 x 121,9 cm, The Estate of Philip Guston; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Philip Guston: Head and bottle (Ausschnitt), 1975, \xC3\x96l auf Leinwand, 167 x 174 cm, Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Philip Guston: Ohne Titel (Ausschnitt), 1968, Acryl auf Holz, 45,7 x 50,7 cm, M\xC3\xBCnchen: Collection Herbert et Annette Kopp; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Philip Guston: San Clemente (Ausschnitt), 1975, \xC3\x96l auf Leinwand, 172,7 x 186,1 cm, Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Philip Guston: Street II (Ausschnitt), 1977, \xC3\x96l auf Leinwand, 171,4 x 184,1 cm, The Estate of Philip Guston; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Philip Guston: Wheel (Ausschnitt), 1979, \xC3\x96l auf Leinwand, 121,9 x 152,4 cm, Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+title: Philip Guston
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "Vom abstrakten Expressionismus zur fig\xC3\xBCrlichen Malerei"
+repeat: 1 5 3
+date: 2013/11/10
+teaser: "Anl\xC3\xA4sslich seines 100. Geburtstages zeigt die Schirn Kunsthalle das Sp\xC3\xA4twerk von Philip Guston."
+collection: 38402
+---
+Anlässlich seines 100. Geburtstages zeigt die Schirn Kunsthalle das Spätwerk von Philip Guston. Zuvor ein Vertreter des abstrakten Expressionismus, hatte sich Guston um 1970 der figürlichen Malerei zugewandt. Nachdem sich die Hamburger Kunsthalle mit Ronald B. Kitaj beschäftigt hat, zeigt die Schirn mit Philip Guston einen weiteren Künstler, der dem Primat des Abstrakten in der amerikanisch geprägten Nachkriegsmalerei nicht gefolgt ist.
+
+*"Philip Guston. Das grosse Spätwerk":http://www.schirn.de/GUSTON.html, 6. November 2013 – 2. Februar 2014, Schirn Kunsthalle, Frankfurt am Main*
