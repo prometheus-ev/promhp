@@ -1,0 +1,83 @@
+--- 
+layout: default
+title: "Vortr\xC3\xA4ge"
+---
+h2. <%= page_title %>
+
+Dr. Judith van Gent (Amsterdam Museum)
+*Collections open! Amsterdam Museum and Open Data* 
+
+The Amsterdam Museum maintains the rich historical collection of the city of Amsterdam. The collection currently numbers around 90,000 objects. 10 % of our collection is exhibited in the museum, the rest is in our storage depots. Two years ago we opened our collection as a digital depot. Although the metadata sometimes is incomplete, we have chosen to put the whole collection online. Our main reason is that public collections should be accessible to their owners: the public. The collection contains sub-collections, which are historical as well as art historical of international importance. We consider it important that everybody in the world can find these objects and use them. Our policy: here's the data, here are the images, use them and reuse them! 
+We believe that linking the data with other institutions will give more context to our data, which will make our data more accessible and more interesting to the public. The museum is therefore collaborating in various innovative projects on Open Data and semantic web.
+In the presentation I’ll explain our considerations and the results of our efforts to publish our collection data as Open Data set. 
+<br>
+<br>
+Prof. Dr. Peter W. Marx (Theaterwissenschaftliche Sammlung, Universität zu Köln)
+*Jenseits digitaler Allmachtsphantasien – Überlegungen zu einer digitalen Strategie der Theaterwissenschaftlichen Sammlung*
+
+Die Theaterwissenschaftliche Sammlung der Universität zu Köln ist eine der größten Sammlungen von Theatralia in Europa und auch im globalen Maßstab eine der umfassendsten Sammlungen. Dabei sticht vor allem die Menge und die Heterogenität der Objekte in den Blick: Von schriftlichen Dokumenten aller Art (Kritiken, Theaterzettel, Stücktexte etc.) über Objekte (Spielpuppen, Masken, Schattenfiguren) hin zu grafischem Material und Fotografien.
+Der Vortrag versucht auszuloten, wie eine digitale Strategie in der Verwaltung und Nutzung der Objekte hilfreich sein kann, aber auch, wie eine solche Strategie in die Profilierung als Forschungs- und Dokumentationszentrum eingebunden werden muss.
+<br>
+<br>
+Dr. Andreas Berger (Historisches Archiv der Stadt Köln)
+*Digitales Abbild oder digitales Archivgut: ein archivischer Blick auf die Vielfalt digitaler Inhalte* "»PDF":<%=r '/files/text/Tagung_2013/Andreas_Berger.pdf'%>
+
+Über die rechtliche Beschreibung von Archivgut, den Versuch einer Definition von analogen und digitalen „Originalen“ und der Festlegung erhaltenswerter Eigenschaften eines digitalen Objektes kann eine Strategie des Präsentation und der Erhaltung von digitalen Objekten im Archiv entwickelt werden. Dieses Referenzmodell ist nicht nur für Archive anwendbar. Gerade die systematische Beschäftigung mit signifikanten Eigenschaften digitaler Objekte und letztlich deren Festlegung sind die Grundlage einer planvollen Sicherung oder Archivierung und einer adäquaten Präsentation. Das Referat soll im Hinblick auf die Bedeutung signifikater Eigenschaften und deren Festlegung einen Denkanstoß geben, indem es die in den Archiven geführte Diskussion aufgreift und auch auf nichtarchivische Objekte anwendet.
+<br>
+<br>
+Prof. Dr. Dorothee Haffner (HTW Berlin)
+*Künstlernachlässe: Kulturelles Erbe – digital?* "»PDF":<%=r '/files/text/Tagung_2013/Haffner_Nachlaesse.pdf'%>
+
+
+Zahlreiche Nachlässe von Künstlern landen nur selten in Museen oder Stiftungen - oft werden sie nach dem Tod der Künstler auseinander gerissen und gehen verloren. Meist sind die Erben mit der sachgerechten Lagerung (schon aus finanziellen Gründen) überfordert, häufig fehlt auch das entsprechende Wissen. Auch die Museen können die Bewahrung ganzer Nachlässe in der Regel nicht leisten. Um diesem Verlust an künstlerischen und kulturellem Erbe vorzubeugen, wurden seit einigen Jahren mehrere Initiativen gegründet. Gemeinsam ist ihnen, dass sie auf die digitale Erfassung und Erschließung der Nachlässe setzen. Der Vortrag stellt diese Initiativen vor und fragt nach ihren Möglichkeiten und Zielen. 
+<br>
+<br>
+Raimond Spekking (Wikimedia Deutschland)
+*Wikipedia & das kuturelle Erbe digital. Eine Symbiose?!* "»PDF":<%=r '/files/text/Tagung_2013/Spekking_Kulturelle_Einrichtungen_und_Wikipedia.pdf'%> "»Blog":http://erinnerungshort.de/blog/wie-erhalte-ich-die-deutungshoheit-in-den-sozialen-medien-zurueck/
+
+
+Wikipedia ist die heutzutage sicherlich bedeutendste Webseite für enzyklopädische Informationen zum (Recherche-) Einstieg in ein Thema. Daher kommen den Wikipedia-Artikeln in über 280 Sprachen eine große Bedeutung für die Darstellung von Wissen zu. Der Vortrag "Wikipedia & das kulturelle Erbe digital. Eine Symbiose?!" stellt einige Ideen und Möglichkeiten vor, wie kulturelle Einrichtungen gemeinsam mit der Wikipedia zur Vermittlung des kulturellen Erbes beitragen können. Zwei Themen stehen im Fokus: Der "Wikipedian in Residence", der für eine befristete Zeit in der Kultureinrichtung arbeitet und dabei sowohl Veranstaltungen zusammen mit der Wikipedia-Community organisieren kann als auch die Mitarbeiter der Kultureinrichtung für die Mitarbeit in der Wikipedia "fit"machen kann. Das andere Thema ist die Freigabe von Dokumenten, im allgemeinen Fotos, unter einer Creative Commons-Lizenz, um eine Einbindung in der Wikipedia zu ermöglichen und damit die Bekanntheit der eigenen Bildbestände zu steigern.
+<br>
+<br>
+Dr. Rita Gudermann (Freie Universität Berlin)
+*Virtuelle Ware Information – Über den Beginn der Kommerzialisierung von Inhalten im 19. Jahrhundert*
+
+Am Beispiel zweier Publikumsverlage (J.J. Weber und Otto Spamer, beide Leipziger "Startups" in den 1830er bzw. 1840er Jahren) wird der Prozess der Virtualisierung von Content (Text und Bild) als Geschäfts- und Erfolgmodell dargestellt. Bereits um die Mitte des 19. Jahrhunderts 
+begannen die Verleger mit einer Strategie der Mehrfachnutzung von Inhalten (Syndication), die schließlich zu ihrem Überleben und später ihrem Erfolg auf dem Medienmarkt beitrug. Nicht der unberechenbare Bestseller oder die ungeliebte Strategie der Mischkalkulation ('Kitsch 
+finanziert Kunst') stellten ein Erfolgsgeheimnis der ausgewählten Medienunternehmer dar, sondern die konsequente Fragmentierung, Virtualisierung und Wiederverwertung ihrer Inhalte.
+<br>
+<br>
+Dr. Hatto Fischer (Koordinator von Poiein kai Prattein, Dichter und Philosoph)
+*Digitalisierung der Zukunft* "»PDF":<%=r '/files/text/Tagung_2013/HattoFischer.pdf'%>
+
+
+Ausgehend von der Frage, wie konnten Dichter und Philosophen der Antike ihren Blick 2000 Jahre und noch mehr voraus werfen, soll dadurch ein wichtiger Unterschied zur üblichen Definition von Kultur aufgezeigt werden. 'Politismos', der griechische Begriff von Kultur, besagt Kultur ist nicht als Faktor einer bestimmten, sogar forcierten Entwicklung zu verstehen, sondern es bedarf einer Freiheit um Dinge und Entwicklungen geschehen zu lassen. Wird einmal solch ein 'Tun und Lassen' nachvollziehbar, kann die Krise in der sich Griechenland befindet, anders verstanden werden. Zugleich beinhaltet das eine Kritik an der EU 2020 Vision die die Kultur zugunsten der Kultur- und Kreativ-Wirtschaft funktionalisieren will. Das wird ferner deutlich insofern die EU eine Kulturwirtschaft anstrebt die auf einer 'Ökonomie der Erfahrung' basiert. Daraus kann einiges gefolgert werden. 
+Doch nicht nur die digitale Agenda soll thematisiert werden, sondern ebenso die Frage ob es überhaupt einen überschaubaren Kulturbegriff gibt? Bei Kant galt das noch als die Einheit der Apperzeption wobei die verwendeten Begriffe eine bestimmte Anschauung voraussetzten, um einen Erkenntniswert zu haben. Doch die Frage der Kultur in einer globalen Welt muss anders gestellt werden, ja sie soll mal aus poetischer Sicht problematisiert werden. Als Hagelstange seine Ballade zum verschütteten Leben schrieb, stellte er nicht nur fest was Bergbauarbeitern erleben, wenn sie erst nach einer längeren Zeit unter Erde ans Tageslicht zurückkehrten. Es macht sich nämlich bei ihnen noch eine andere Kluft zwischen Sehen und Licht bemerkbar. Denn bei der Ballade handelte es sich um Verschüttete in einem Bunker während des Zweiten Weltkrieges. Anhand deren Schicksal zeigt der Dichter wie die verloren gegangenen Unschuld sich eben im Erkennen des anderen Menschen und darum Umgang bemerkbar macht. Die Kluft ist also nicht nur ein physikalisches Phänomen. Sinn gemäß kann diese Kluft im doppelten Sinne ebenso durchs allzu lange Verbleiben in der virtuellen Welt entstehen. Menschen brauchen nämlich ihre Phantasie aber auch Mittel wodurch sie das, was sie reflektieren und sehen, vergewissern können. Wie sonst sollen sie sich vergewissern was sie sagen und behaupten mit der Realität übereinstimmt? Seit Hegel bis zu Kolakowski gibt es diese Auseinandersetzung zwischen einer auf sinnlicher Gewissheit basierenden poetischen Philosophie und einer die das Verschwinden des Subjektes durchs begriffliche Denken beschleunigt hat. Hierfür steht der berühmte Satz von Hegel, solle die Realität nicht dem Begriff entsprechen, um so schlimmer um die Realität. Bekanntlich gibt es immer wieder Versuche die verschiedenen Erkenntnisstufen vom Kratzen eines Zeichen im Sand als die archaische Denkweise bis hin zum abstrakten Denken nachvollziehbar machen zu wollen. Entscheidend ist dass das Eintreten in die digitale Welt einen besonderen Erkenntnisvorgang beinhaltet, nämlich den iterativen Prozess. Diese 'Ja-Nein' Orientierung löst damit das Denken in Widersprüchen ab. Noch mehr, der Philosoph Cornelius Castoriadis hebt hervor diese Art zu denken macht aus der Technik mehr als nur ein Werkzeug, schließlich bedeutet die digitaler Welt nicht nur eine neu artige Organisationsweise sondern sie ersetzt zugleich jegliche Gesellschaftstheorie d.h. Auffassung vom Zusammenleben der Menschen. Daraus folgt eine besondere Philosophie. Wittgenstein nannte das die Art und Weise Erinnerungen zu organisieren. 
+Das betrifft dann nicht nur Umgang mit dem Menschen, sondern auch was unsere Erinnerungen an die Zukunft beinhaltet, nämlich das kulturelle Erbe. Was geschieht also wenn die immer mehr digitalisiert werden? Die Konsequenzen sollen näher erörtert werden, insofern das nicht nur die Auffassung von Zukunft beeinflusst, sondern ebenso die Möglichkeit unbekümmert der Zukunft entgegen zu sehen. Was also den Umgang mit der Unschuld als erlebbare Gegenwart tangiert, wäre durch welches Sinnbild vermittelbar? Walter Benjamin nahm dafür das Bild von Paul Klee genannt 'Angelus Novus'.
+<br>
+<br>
+Dr. Christian Gries (Kulturkonsorten, München)
+*Fünf Millionen für den #IMT - Erfolgreiche Kommunikation für den Internationalen Museumstag 2013 im digitalen Raum*
+
+Der Vortrag dokumentiert die vom Netzwerk der Kulturkonsorten (www.kulturkonsorten.de) im Auftrag des Deutschen Museumsbunds entwickelte und realisierte digitale Kommunikation zum Internationalen Museumstag 2013. Dazu analysiert er am konkreten Beispiel Ausgangslage, Strategie, Umsetzung, Ziele und Zahlen der Redaktionsprozesse, Plattformen und durchgeführten Kampagnen.
+<br>
+<br>
+Prof. Dr. Katja Kwastek (Vrije Universiteit Amsterdam)
+*Locative art – der Kunstrezipient als vernetzter Flaneur* "»Video":http://vimeo.com/2275985
+
+Dieser Vortrag basiert auf der Prämisse, dass Arbeiten der Medienkunst in ihrer Reflektion aktueller Medientechnologien wichtige Anregungen für die wissenschaftliche Vermittlung und Archivierung von Kultur bieten können. Am Beispiel der Arbeit ‚Rider Spoke‘ der britischen Künstlergruppe Blast Theory werden die komplexen Strategien analysiert, die Künstler zur Aktivierung und Einbindung des Rezipienten einsetzen. Als Einladung zur medial inszenierten Erkundung des Stadtraums einerseits, als selbstarchivierendes Projekt andererseits, bietet die Arbeit zudem interessante Anknüpfungspunkte sowohl zu Themen der mobilen Kunstvermittlung als auch der digitalen Archivierung. 
+<br>
+<br>
+Wibke Ladwig (Sinn und Verstand, Köln)
+*Das Buch auf der 'digitalen' Couch*
+
+Wir müssen das Buch neu denken. Dazu gehört die Auseinandersetzung, was das Buch eigentlich war, ist und sein kann. “Das gute Buch” ist der Scheinriese des Bildungsbürgertums – und die digitale Aufklärung zieht ihm die Siebenmeilenstiefel an. An die Stelle des Werkes tritt 
+der Beitrag, der Text wird zum Content und der Inhalt löst sich aus der Form. Am Ende bleiben Fetzen, Gedankensplitter, 140 Zeichen und Auflösung. Ist Inhalt ohne Konvention, Kontext und Version überhaupt denkbar – kurzum was war ein Buch außer Text – und was kann es werden? 
+Wibke Ladwig legt das Buch auf die Couch und begibt sich auf die Suche nach dem Wesen des Buchs. 
+<br>
+<br>
+Andreas Lange (Computerspielemuseum Berlin)
+*Was Archive, Museen und Bibliotheken von Gamern lernen können – und umgekehrt* 
+
+Computerspielen wird in den letzten Jahren nicht nur aufgrund des gewachsenen Bewusstseins über ihre kulturelle Bedeutung gesteigertes Interesse entgegengebracht. Auch die Werkzeuge in Form der Emulatoren, die vor allem in der Fan-Community zu ihrem Erhalt entwickelt wurden, werden mittlerweile von den etablierten Bewahrungsinstitutionen auch für den Erhalt anderer digitaler Werkformen zunehmend als interessante Alternative aufgefasst. So startete 2009 das Europäische Forschungsprojekt KEEP (www.keep-project.eu) mit dem Ziel, die in der Gamer-Community unsystematisch entstandenen Programme in einem größeren gesellschaftlichen und kulturellen Kontext nutzbar zu machen. Hinzu kommen offene Online-Datenbanken, die auf auf Basis von user generated content eine beachtliche Größe und Informationstiefe haben.
+Andreas Lange wird in seinem Vortrag anhand von konkreten Beispielen diese Entwicklungen darstellen und dabei Stärken wie Schwächen der verschiedenen Strategien und Player erläutern.
