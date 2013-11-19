@@ -48,7 +48,7 @@ finanziert Kunst') stellten ein Erfolgsgeheimnis der ausgewählten Medienunterne
 <br>
 <br>
 Dr. Hatto Fischer (Koordinator von Poiein kai Prattein, Dichter und Philosoph)
-*Digitalisierung der Zukunft* "»PDF":<%=r '/files/text/Tagung_2013/HattoFischer.pdf'%>
+*Digitalisierung der Zukunft* "»PDF":<%=r '/files/text/Tagung_2013/HattoFischer.pdf'%> "»Skript":<%=r '/files/text/Tagung_2013/HattoFischerII.pdf'%>
 
 
 Ausgehend von der Frage, wie konnten Dichter und Philosophen der Antike ihren Blick 2000 Jahre und noch mehr voraus werfen, soll dadurch ein wichtiger Unterschied zur üblichen Definition von Kultur aufgezeigt werden. 'Politismos', der griechische Begriff von Kultur, besagt Kultur ist nicht als Faktor einer bestimmten, sogar forcierten Entwicklung zu verstehen, sondern es bedarf einer Freiheit um Dinge und Entwicklungen geschehen zu lassen. Wird einmal solch ein 'Tun und Lassen' nachvollziehbar, kann die Krise in der sich Griechenland befindet, anders verstanden werden. Zugleich beinhaltet das eine Kritik an der EU 2020 Vision die die Kultur zugunsten der Kultur- und Kreativ-Wirtschaft funktionalisieren will. Das wird ferner deutlich insofern die EU eine Kulturwirtschaft anstrebt die auf einer 'Ökonomie der Erfahrung' basiert. Daraus kann einiges gefolgert werden. 
