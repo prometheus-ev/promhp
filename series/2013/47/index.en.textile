@@ -12,8 +12,8 @@ layout: series
 title: Dionysus
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: 
-repeat: 1 6 3
 date: 2013/11/10
+repeat: 1 6 3
 teaser: The ancient God of wine and fertility also stands for wildness, exuberance, lust and border crossings.
 collection: 38425
 ---
