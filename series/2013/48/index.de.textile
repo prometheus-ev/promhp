@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Filippo Brunelleschi: Domkuppel, 1418-34, 107 m hoch, Florenz, Santa Maria del Fiore; Archiv gta, Eidgen\xC3\xB6ssische Technische Hochschule Z\xC3\xBCrich, Institut f\xC3\xBCr Geschichte und Theorie der Architektur"
+- "Michelangelo: David, 1501-04, Marmor, 5,17 m hoch, Florenz, Galleria dell' Academia; Archiv gta, Eidgen\xC3\xB6ssische Technische Hochschule Z\xC3\xBCrich, Institut f\xC3\xBCr Geschichte und Theorie der Architektur"
+- "Sandro Botticelli: Minerva z\xC3\xBCchtigt den Kentauren, 1485, Tempera auf Leinwand, 207 x 148 cm, Florenz, Uffizien; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Benvenuto Cellini: Perseus, 1545-54, Bronze, 320 cm hoch, Florenz, Loggia dei Lanzi; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve "
+- "Domenico di Michelino: Dante als Dichter der G\xC3\xB6ttlichen Kom\xC3\xB6die, 1465, Tempera auf Holz, 232,5 x 292 cm, Florenz, Santa Maria del Fiore; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Agnolo Bronzino: Eleonora von Toledo mit ihrem Sohn Giovanni, um 1545, \xC3\x96l auf Holz, 115 x 96 cm, Florenz, Uffizien; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Michelangelo: Grabmal des Giuliano de Medici in der Medici-Kapelle, 1521-34, Marmor, 173m hoch, Florenz, S. Lorenzo; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Antonio Pollaiuolo: Profilbildnis einer jungen Frau, um 1465, \xC3\x96l auf Holz, 52,5 x 36,5 cm, Berlin, Staatliche Museen zu Berlin, Gem\xC3\xA4ldegalerie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+layout: series
+title: Florenz!
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/11/24
+repeat: 3 6 2
+teaser: Das umfassende Kulturerbe der Stadt Florenz ist Thema einer Ausstellung in der Bundeskunsthalle.
+collection: 38670
+---
+Das umfassende Kulturerbe der Stadt Florenz ist Thema einer Ausstellung in der Bundeskunsthalle. Gemälde, Skulpturen, Zeichnungen, Textilien und Archivalien illustrieren die Geschichte der Stadt in der Toscana. Die Exponate vermitteln nicht nur die kulturelle Entwicklung, sondern sind ebenso  Zeugnisse des wissenschaftlichen, wirtschaftlichen, politischen und religiösen Wandels der Stadt in der Zeit vom 15. bis ins 19. Jahrhundert.
+
+*"Florenz":http://www.bundeskunsthalle.de/ausstellungen/florenz.html, 22. November 2013 bis 9. März 2014, Bundeskunsthalle, Bonn*
