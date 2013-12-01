@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Jim Rakete: Katharina Sch\xC3\xBCttler mit Schl\xC3\xBCsselbund (Ausschnitt), Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jim Rakete: Axel Prahl mit Currywurst (Ausschnitt), Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jim Rakete: Regisseur Dominik Graf mit Brille (Ausschnitt), Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jim Rakete: Kamerafrau Judith Kaufmann (Ausschnitt), Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jim Rakete: Katharina Thalbach mit Eimer und Scheuerb\xC3\xBCrste (Ausschnitt), Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jim Rakete: Florian Lukas mit Tischkicker (Ausschnitt), Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jim Rakete: Tina Engel mit Kartoffel (Ausschnitt), Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Jim Rakete: August Diehl mit brennenden Geldscheinen (Ausschnitt), Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+layout: series
+title: Jim Rakete
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/12/01
+repeat: 3 1 7
+teaser: The photographer Jim Rakete become famous with his black-and-white portrait photography of prominent figures.
+collection: 38817
+---
+The photographer Jim Rakete has become famous for his black-and-white portrait photography of prominent figures. Between 2009 and 2011 Rakete has portrayed prominent actors and filmmakers again. Protagonists of the German-speaking film are shown with an object, which is connected with their professional career. Contrary to his earlier work the photographies of the series „Stand der Dinge“ are digital and in colour. 
+
+*"Jim Rakete. Stand der Dinge":http://www.kunstmuseum-magdeburg.de/en/home.html, 9. Oktober 2013 – 6. Januar 2014, Kunstmuseum Kloster Unser Lieben Frauen, Magdeburg*
