@@ -40,7 +40,7 @@ Wikipedia ist die heutzutage sicherlich bedeutendste Webseite für enzyklopädis
 <br>
 <br>
 Dr. Rita Gudermann (Freie Universität Berlin)
-*Virtuelle Ware Information – Über den Beginn der Kommerzialisierung von Inhalten im 19. Jahrhundert*
+*Virtuelle Ware Information – Über den Beginn der Kommerzialisierung von Inhalten im 19. Jahrhundert* "»PDF":<%=r '/files/text/Tagung_2013/Gudermann.pdf'%>
 
 Am Beispiel zweier Publikumsverlage (J.J. Weber und Otto Spamer, beide Leipziger "Startups" in den 1830er bzw. 1840er Jahren) wird der Prozess der Virtualisierung von Content (Text und Bild) als Geschäfts- und Erfolgmodell dargestellt. Bereits um die Mitte des 19. Jahrhunderts 
 begannen die Verleger mit einer Strategie der Mehrfachnutzung von Inhalten (Syndication), die schließlich zu ihrem Überleben und später ihrem Erfolg auf dem Medienmarkt beitrug. Nicht der unberechenbare Bestseller oder die ungeliebte Strategie der Mischkalkulation ('Kitsch 
