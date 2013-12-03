@@ -69,7 +69,7 @@ Dieser Vortrag basiert auf der Prämisse, dass Arbeiten der Medienkunst in ihrer
 <br>
 <br>
 Wibke Ladwig (Sinn und Verstand, Köln)
-*Das Buch auf der 'digitalen' Couch*
+*Das Buch auf der 'digitalen' Couch* "»PDF":<%=r '/files/text/Tagung_2013/WibkeLadwig.pdf'%>
 
 Wir müssen das Buch neu denken. Dazu gehört die Auseinandersetzung, was das Buch eigentlich war, ist und sein kann. “Das gute Buch” ist der Scheinriese des Bildungsbürgertums – und die digitale Aufklärung zieht ihm die Siebenmeilenstiefel an. An die Stelle des Werkes tritt 
 der Beitrag, der Text wird zum Content und der Inhalt löst sich aus der Form. Am Ende bleiben Fetzen, Gedankensplitter, 140 Zeichen und Auflösung. Ist Inhalt ohne Konvention, Kontext und Version überhaupt denkbar – kurzum was war ein Buch außer Text – und was kann es werden? 
