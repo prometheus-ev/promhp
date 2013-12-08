@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Venus von Milo, 130\xE2\x80\x93100 v. Chr., Marmor, 204 cm, Paris, Louvre; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Kapitolinische Venus, Hellenismus, Marmor, Rom, Museo Capitolino; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin"
+- "Sandro Botticelli: Geburt der Venus, 1485, Tempera auf Leinwand, 172,5 x 278,5 cm, Florenz, Galleria degli Uffizi; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Antonio Canova: Venus, 1807 \xE2\x80\x93 1810, Marmor, 170 cm, M\xC3\xBCnchen, Residenzmuseum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Giorgione: Venus, um 1525, \xC3\x96l auf Leinwand, 108 x 175 cm, Dresden, Gem\xC3\xA4ldegalerie Alte Meister, Staatliche Kunstsammlungen; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Tizian: Venus von Urbino, 1538, \xC3\x96l auf Leinwand, 119 x 165 cm, Florenz, Uffizien; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Aphrodite Fr\xC3\xA9jus, fr\xC3\xBChe Kaiserzeit, iulisch-claudisch, Marmor, 165 cm, Paris, Louvre; HeidICON - Klassische Arch\xC3\xA4ologie, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Lucas Cranach: Venus, 1532, \xC3\x96l und Tempera auf Holz, 37,7 x 24,5 cm, Frankfurt am Main, St\xC3\xA4del; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+layout: series
+title: Venus
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/12/08
+repeat: "6 3 1 "
+teaser: Since ancient times Venus remained an epitome of love and beauty.
+collection: 38854
+---
+Since ancient times Venus remained an epitome of love and beauty. Particularly the ancient types were received and adapted for centuries. One can get an overview by consulting the iconographic database of the Warburg Institute and the Prometheus database.
+
+*"The Warburg Institute. The iconographic database":http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=5&cat_2=43*
