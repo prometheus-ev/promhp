@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Wir begr\xC3\xBC\xC3\x9Fen die Datenbank des Amsterdam Museums bei prometheus"
+author: Denise
+tags: 
+- news
+- databases
+---
+Das "Amsterdam Museum":<%=p 'source/show/amsterdam_museum' %> hat den reichen Bestand seiner Datenbank über prometheus zugänglich gemacht. Damit sind nun knapp 78.000 neue Datensätze in prometheus recherchierbar. 
+
+Das Museum entschied sich, seine gesamte Sammlung oder zumindest die Grunddaten digital zu erfassen und frei zugänglich zu machen. 
+Auf diese Weise sind auch rund 90% der Objekte, die in den Depots des Museums aufbewahrt werden, für jedermann einseh- und recherchierbar. 
+
+Wir wünschen viel Spaß beim Stöbern!
