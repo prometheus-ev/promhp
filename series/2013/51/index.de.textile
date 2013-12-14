@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Albrecht D\xC3\xBCrer: Adam und Eva, 1504, Kupferstich, 25,1 x 19,8 cm , Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Albrecht D\xC3\xBCrer: Bildnis der Elsbeth Tucher, 1499, \xC3\x96l auf Holz, 29,1 x 23,3 cm, Kassel, Gem\xC3\xA4ldegalerie Alte Meister; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Albrecht D\xC3\xBCrer: Fu\xC3\x9Fsohlen eines Apostels. Studie zum \xC2\xBBHeller-Altar\xC2\xAB, 1508, Pinsel in Tusche und wei\xC3\x9Fer Deckfarbe, 177 x 217 mm, Paris, Sammlung B\xC3\xA9hague; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Albrecht D\xC3\xBCrer: Heller Altar. Stifterbildnis. Katharina von Melem, 1508-09, Tempera auf Tannenholz,  96 x 60 cm, Frankfurt a.M., Historisches Museum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Albrecht D\xC3\xBCrer: H\xC3\xA4nde eines Apostels. Studie zum \xC2\xBBHeller-Altar\xC2\xAB, 1508, Pinselzeichnung, wei\xC3\x9F geh\xC3\xB6ht, 290 x 197 mm, Wien, Graphische Sammlung Albertina; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Albrecht D\xC3\xBCrer: Bildnis eines M\xC3\xA4dchens aus der Familie F\xC3\xBCrleger mit offenem Haar, 1497, \xC3\x96l auf Leinwand, 56 x 43 cm, Frankfurt am Main, St\xC3\xA4delsches Kunstinstitut; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Albrecht D\xC3\xBCrer: Melancolia I, 1514, Kupferstich, 24 x 18,6 cm, Wien, Graphische Sammlung Albertina; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Albrecht D\xC3\xBCrer: Hieronymus in seiner Zelle, 1521, \xC3\x96l auf Holz, 60 x 48 cm, Lissabon, Museu de Arte Antigua; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+layout: series
+title: "Albrecht D\xC3\xBCrer"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2013/12/14
+repeat: "2 3 6 "
+teaser: "Eine neue D\xC3\xBCrer-Ausstellung versammelt Meisterwerke aus den gro\xC3\x9Fen Museen"
+collection: 38953
+---
+Eine neue Dürer-Ausstellung versammelt Meisterwerke aus den großen Museen Europas und dem Getty Museum in Los Angeles. Als ein Höhepunkt ist die Zusammenführung der Tafeln des „Heller-Altars“ angekündigt worden, zu deren Entwurfsarbeiten auch die berühmten betenden Hände gehören. Bisher sind die Tafeln auf Museen in Frankfurt und Karlsruhe verteilt und werden nun erstmalig wieder zusammen präsentiert.
+
+*"Dürer":http://www.duerer-in-frankfurt.de/ausstellung-staedel-museum/, 23 October 2013 to 2 Fabruary 2014, Städel, Frankfurt am Main*
