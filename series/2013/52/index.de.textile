@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Karl Otto G\xC3\xB6tz: Paar (Ausschnitt), 1936, Spritztechnik und Kreide, K.O.G\xC3\xB6tz- und Rissa-Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Karl Otto G\xC3\xB6tz: Das Kunstst\xC3\xBCck III. Der rote Hahn (Ausschnitt), 1947, \xC3\x96l und Tempera auf Papier, o.O.; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Karl Otto G\xC3\xB6tz: Sturm V (Ausschnitt), 1947, Gouache \xC3\xBCber Druckfarben auf Karton, K.O.G\xC3\xB6tz- und Rissa-Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Karl Otto G\xC3\xB6tz: Bild vom 14.9.1954 (Ausschnitt), \xC3\x96l auf Leinwand, 90 x 120 cm, K\xC3\xB6ln, Museum Ludwig; ArtICON, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Karl Otto G\xC3\xB6tz: Blenk (Ausschnitt), 1962, Mischtechnik auf Leinwand, 100 x 116, Kunsthalle zu Kiel; digiCULT Museen, digiCULT, Kiel"
+- "Karl Otto G\xC3\xB6tz: Batelan (Ausschnitt), 1974, Mischtechnik auf Leinwand, 175 x 210cm, Stiftung Saarl\xC3\xA4ndischer Kulturbesitz, Saarlandmuseum, Saarbr\xC3\xBCcken; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Karl Otto G\xC3\xB6tz: Entwurf zu Giverny V/14 (Ausschnitt), 1988, Gouache auf Karton, K.O.G\xC3\xB6tz- und Rissa-Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Karl Otto G\xC3\xB6tz: L\xC3\xA4nd II (Ausschnitt), 1991, Gouache auf Karton, K.O.G\xC3\xB6tz- und Rissa-Stiftung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+layout: series
+title: "K. O. G\xC3\xB6tz"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 2 4 6
+date: 2013/12/19
+teaser: "Anl\xC3\xA4sslich seines 100. Geburtstages veranstaltet die Neue Nationalgalerie eine Retrospektive zum Werk von Karl Otto G\xC3\xB6tz."
+collection: 38966
+---
+Anlässlich seines 100. Geburtstages veranstaltet die Neue Nationalgalerie eine Retrospektive zum Werk von Karl Otto Götz. Als Vertreter der informellen Malerei, die für die Nachkriegsjahre in Deutschland wesentlich war, hat Götz eine besondere Maltechnik entwickelt. Dabei wird die Farbe auf eine mit Kleister bestrichene Leinwand aufgetragen und mit Rakel und Pinsel weiter bearbeitet. Die Ausstellung soll den Blick besonders auf die seriellen Prozesse in der Entwicklung der Bildideen lenken.
+
+*"K.O.Götz":http://www.smb.museum/ausstellungen/detail.html?tx_smb_pi1[exhibitionUid]=1009, 13. Dezember 2013 bis 2. März 2014, Neue Nationalgalerie, Berlin*
