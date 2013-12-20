@@ -13,10 +13,10 @@ h3. Single license
 
 h3. License fees for academies (via the hbz)
 
-|Institutions with up to 500 members|| 500,- € p.a.|
-|Institutions with up to 1000 members||1000,- € p.a.|
-|Institutions with more than 1000 members||1800,- € p.a.|
-|Campus license||4000,- € p.a.|
+|Institutions with up to 500 members|| 525,- € p.a.|
+|Institutions with up to 1000 members||1050,- € p.a.|
+|Institutions with more than 1000 members||1890,- € p.a.|
+|Campus license||4200,- € p.a.|
 
 Discount for universities of applied sciences: 50% p.a.
 
@@ -28,11 +28,11 @@ Phone: +49 221 400 75 223
 
 h3. License fees for further institutions (via the prometheus office)
 
-|Schools and museums|| 200,- € p.a.|
-|Institutions with up to 500 members||700,- € p.a.|
-|Institutions with up to 1000 members||1500,- € p.a.|
-|Institutions with up to 3000 members||2300,- € p.a.|
-|Institutions with more than 3000 members||5800,-€ p.a.|
+|Schools and museums|| 250,- € p.a.|
+|Institutions with up to 500 members||740,- € p.a.|
+|Institutions with up to 1000 members||1580,- € p.a.|
+|Institutions with up to 3000 members||2420,- € p.a.|
+|Institutions with more than 3000 members||6100,-€ p.a.|
 
 *Contact prometheus office:*
 
