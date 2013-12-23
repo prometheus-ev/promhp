@@ -11,7 +11,7 @@ h3. Einzellizenz
 
 "» Zur Anmeldung":<%=p 'signup' %>
 
-h3. Ermäßigte Lizenzgebühren für Hochschulen (über das HBZ)
+h3. Ermäßigte Lizenzgebühren über das Hochschulbibliothekszentrum (HBZ) für inländische Bibliotheken und Hochschulen 
 
 |Institute bis 500 Personen|| 525,- €/Jahr|
 |Institute bis 1000 Personen||1050,- €/Jahr|
@@ -30,10 +30,8 @@ Tel: 0221 400 75 300
 h3. Lizenzgebühren für weitere Institutionen (über die prometheus-Geschäftsstelle)
 
 |Schulen und Museen|| 250,- €/Jahr|
-|Institutionen bis 500 Personen||740,- €/Jahr|
-|Institutionen bis 1000 Personen||1580,- €/Jahr|
-|Institutionen bis 3000 Personen||2420,- €/Jahr|
-|Institutionen über 3000 Personen||6100,-€/Jahr|
+
+Institutionen aus dem Ausland schicken bitte eine Anfrage an die prometheus-Geschäftsstelle. 
 
 *prometheus-Geschäftsstelle:*
 

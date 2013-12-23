@@ -11,7 +11,8 @@ h3. Single license
 
 "» Sign up":<%=p 'signup' %>
 
-h3. License fees for academies (via the hbz)
+h3. License fees via the Campus Library Center NRW (HBZ)
+for german libraries and universities
 
 |Institutions with up to 500 members|| 525,- € p.a.|
 |Institutions with up to 1000 members||1050,- € p.a.|
@@ -29,10 +30,8 @@ Phone: +49 221 400 75 223
 h3. License fees for further institutions (via the prometheus office)
 
 |Schools and museums|| 250,- € p.a.|
-|Institutions with up to 500 members||740,- € p.a.|
-|Institutions with up to 1000 members||1580,- € p.a.|
-|Institutions with up to 3000 members||2420,- € p.a.|
-|Institutions with more than 3000 members||6100,-€ p.a.|
+
+Foreign institutions are asked to send a request to the prometheus office.
 
 *Contact prometheus office:*
 
