@@ -17,6 +17,6 @@ date: 2013/12/19
 teaser: "On the occasion of the 100th anniversary of Karl Otto G\xC3\xB6tz the Neue Nationalgalerie is holding a retrospective of his work."
 collection: 38966
 ---
-On the occasion of the 100th anniversary of Karl Otto Götz the Neue Nationalgalerie is holding a retrospective of his work. As a representative of Informal art Götz invented a special painting-technique: He applies the paint on a canvas, witch is covered with paste, and continues his work with a brush and a squeegee. The exhibition shall focus on the serial processes in the development of his visual ideas.
+On the occasion of the 100th anniversary of Karl Otto Götz the Neue Nationalgalerie is holding a retrospective of his work. As a representative of Informal art and teacher at the academy of art in Düsseldorf, Götz became important for the post-war art in the BRD. He invented a special painting-technique: Götz applies the paint on a canvas, witch is covered with paste, and continues his work with a brush and a squeegee. The exhibition shall focus on the serial processes in the development of his visual ideas.
 
 *"K.O.Götz":http://www.smb.museum/en/exhibitions/detail.html?tx_smb_pi1[exhibitionUid]=1009, 13 December 2013 to 2 March 2014, Neue Nationalgalerie, Berlin*

@@ -14,9 +14,9 @@ author: "Hendrikje H\xC3\xBCneke"
 subtitle: 
 repeat: 2 4 6
 date: 2013/12/19
-teaser: "Anl\xC3\xA4sslich seines 100. Geburtstages veranstaltet die Neue Nationalgalerie eine Retrospektive zum Werk von Karl Otto G\xC3\xB6tz."
+teaser: "Die Neue Nationalgalerie veranstaltet eine Retrospektive zum Werk von Karl Otto G\xC3\xB6tz, der im n\xC3\xA4chsten Jahr 100 Jahre alt wird."
 collection: 38966
 ---
-Anlässlich seines 100. Geburtstages veranstaltet die Neue Nationalgalerie eine Retrospektive zum Werk von Karl Otto Götz. Als Vertreter der informellen Malerei hat Götz eine besondere Maltechnik entwickelt. Dabei wird die Farbe auf eine mit Kleister bestrichene Leinwand aufgetragen und mit Rakel und Pinsel weiter bearbeitet. Die Ausstellung soll den Blick besonders auf die seriellen Prozesse in der Entwicklung der Bildideen lenken.
+Die Neue Nationalgalerie veranstaltet eine Retrospektive zum Werk von Karl Otto Götz, der im nächsten Jahr 100 Jahre alt wird. Als Vertreter der informellen Malerei hat Götz besonders durch seine Lehre an der Düsseldorfer Akademie die Kunst der Nachkriegszeit geprägt. Er hat eine Maltechnik entwickelt, bei der die Farbe auf eine mit Kleister bestrichene Leinwand aufgetragen und mit Rakel und Pinsel weiter bearbeitet wird. Die Ausstellung soll den Blick besonders auf die seriellen Prozesse in der Entwicklung der Bildideen lenken.
 
 *"K.O.Götz":http://www.smb.museum/ausstellungen/detail.html?tx_smb_pi1[exhibitionUid]=1009, 13. Dezember 2013 bis 2. März 2014, Neue Nationalgalerie, Berlin*

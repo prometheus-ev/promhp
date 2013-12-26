@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Honor\xC3\xA9 Fragonard: Weintrauben pfl\xC3\xBCckende Satyre (Ausschnitt), 1774, Zeichnung, laviert, Chicago, \xC3\xB6ffentliche Sammlung, Art Institute of Chicago; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Fragonard: Die \xC3\x9Cberraschung (Ausschnitt), um 1771, Tafelmalerei, 69 x 38 cm, Mus\xC3\xA9es d`Angers; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Fragonard: Der Angriff (Ausschnitt), Zeichnung, 34,3 x 46 cm, Moskau, Staatliches Puschkin-Museum f\xC3\xBCr Bildende K\xC3\xBCnste; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Fragonard: Das Blindekuhspiel (Ausschnitt), Tafelmalerei, 61,5 x 44,7 cm, San Diego (Kalifornien), Timken Museum of Art; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Fragonard: Angelika wird von der Insel getragen(Ausschnitt), Zeichnung, laviert, 39,1 x 25,1 cm, Dijon, Mus\xC3\xA9e des Beaux-Arts; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Fragonard: Das Opfer f\xC3\xBCr den Minotaurus (Ausschnitt), Zeichnung, laviert, 33,6 x 44,2 cm, Privatsammlung; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Fragonard: Der Pascha (Ausschnitt), Tafelmalerei, 24,9 x 33,1 cm, Mus\xC3\xA9e National du Louvre, Cabinet des Dessins; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Fragonard: Galante Unterhaltung in einem Park/Der gekr\xC3\xB6nte Liebhaber (Ausschnitt), 1752-1756, \xC3\x96l auf Leinwand, 72 x 109 cm, London, Wallace Collection; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+layout: series
+title: "Jean Honor\xC3\xA9 Fragonard"
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 3 6 2
+date: 2013/12/26
+teaser: The drawings of Fragonard are in focus of an exhibition in Karlsruhe.
+collection: 39054
+---
+The drawings of Fragonard are in focus of an exhibition in Karlsruhe. Enriched by oil studies and paintings the presentation shows landscapes and narrative scenes in the work of the artist. 
+
+*"Fragonard. Poetry & Passion":http://www.kunsthalle-karlsruhe.de/en/exhibitions/fragonard.html, 30 November 2013 to 30 February 2014, Kunsthalle Karlsruhe*
