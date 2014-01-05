@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Alexej Jawlensky: Kreolin (Ausschnitt), 1913, \xC3\x96l auf Karton, 69 x 50 cm, Privatsammlung; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Alexej Jawlensky: H\xC3\xBCgel (Ausschnitt), 1912, \xC3\x96l auf Karton, 53,5 x 64 cm, Museum am Ostwall, Dortmund; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Alexej Jawlensky: M\xC3\xA4dchenkopf mit roten Turban und gelber Agraffe / Barbarenf\xC3\xBCrstin (Ausschnitt), um 1912, \xC3\x96l auf Hartfaser, 55 x 51 cm, Karl Ernst Osthaus Museum, Hagen; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Alexej Jawlensky: Landschaft. Murnau (Ausschnitt), um 1909, \xC3\x96l auf Karton, 33 x 42,8 cm, Museum Gunzenhauser, Chemnitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Alexej Jawlensky: Schwarze Haare in gelbem Hintergrund (Ausschnitt), 1912, \xC3\x96l auf Pappe, 53 x 50 cm, Stiftung Saarl\xC3\xA4ndischer Kulturbesitz, Saarlandmuseum, Saarbr\xC3\xBCcken; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "Alexej Jawlensky: Roter Tisch (Ausschnitt), um 1907, \xC3\x96l auf Karton, 59,8 x 66,1 cm, Museum Gunzenhauer, Chemnitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Alexej Jawlensky: Der Bauer (Ausschnitt), um 1912, \xC3\x96l auf Leinwand, 53 x 49 cm, Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Alexej Jawlensky: Oberstdorfer Landschaft (Ausschnitt), 1912, \xC3\x96l auf Pappe, 53,5 x 64,8 cm, Staatliche Kunsthalle Karlsruhe; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+layout: series
+title: Jawlensky
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: "und der erste Weltkrieg "
+repeat: 1 4 3
+date: 2014/01/05
+teaser: Welche Auswirkungen der Ausbruch des ersten Weltkrieges auf das Werk Jawlenskys hatte, untersucht eine Ausstellung in Chemnitz.
+collection: 39083
+---
+Welche Auswirkungen der Ausbruch des ersten Weltkrieges auf das Werk Alexej Jawlenskys hatte, untersucht eine Ausstellung in Chemnitz. Darüber hinaus werden Gemälde und Grafiken aus allen Schaffensphasen präsentiert. Der 150. Jahrestag vom Geburtstag des Malers ist willkommener Anlass die Jawlensky-Sammlung der Stiftung Gunzenhauser zu würdigen. 
+
+*"JAWLENSKY neu gesehen":http://www.kunstsammlungen-chemnitz.de/index.php?loc=ghm&content=exposition_detail&xid=16&id=176, 8. Dezember 2013 bis 27. April 2014, Kunstsammlungen Chemnitz, Museum Gunzenhauser*
