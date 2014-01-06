@@ -9,11 +9,11 @@ descriptions:
 - "Alexej Jawlensky: Der Bauer (Ausschnitt), um 1912, \xC3\x96l auf Leinwand, 53 x 49 cm, Privatsammlung; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
 - "Alexej Jawlensky: Oberstdorfer Landschaft (Ausschnitt), 1912, \xC3\x96l auf Pappe, 53,5 x 64,8 cm, Staatliche Kunsthalle Karlsruhe; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
 layout: series
-title: Jawlensky
 author: "Hendrikje H\xC3\xBCneke"
+title: Jawlensky
 subtitle: "und der erste Weltkrieg "
-repeat: 1 4 3
 date: 2014/01/05
+repeat: 1 4 3
 teaser: Welche Auswirkungen der Ausbruch des ersten Weltkrieges auf das Werk Jawlenskys hatte, untersucht eine Ausstellung in Chemnitz.
 collection: 39083
 ---
