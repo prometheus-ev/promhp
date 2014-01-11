@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Anton Graff: Dorothea Schlegel (Ausschnitt), 1780-1800, \xC3\x96l auf Leinwand, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: Moses Mendelssohn (Ausschnitt), 1770-80, Replik, Musikabteilung mit Mendelssohn-Archiv, Staatsbibliothek zu Berlin - Preu\xC3\x9Fischer Kulturbesitz; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: Henriette Herz (Ausschnitt), 1792, \xC3\x96l auf Leinwand, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: Daniel Nikolaus Chodowiecki (Ausschnitt), 1790-1801, \xC3\x96l auf Leinwand, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: Die Dichterin Elisa von der Recke (Ausschnitt), 1797, \xC3\x96l auf Leinwand, Berlin, Nationalgalerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Anton Graff: Gotthold Ephraim Lessing (Ausschnitt), 1771, \xC3\x96l auf Leinwand, Leipzig; Universit\xC3\xA4tsbibliothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Anton Graff: Prinz Heinrich XIV. Reuss \xC3\xA4ltere Linie (Ausschnitt), 1789, \xC3\x96l auf Leinwand, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: K\xC3\xB6nig Friedrich Wilhelm II. (Ausschnitt), um 1792, \xC3\x96l auf Leinwand, Potsdam, Stiftung Preussische Schl\xC3\xB6sser und G\xC3\xA4rten Berlin-Brandenburg; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Anton Graff
+subtitle: 
+date: 2014/01/11
+repeat: 6 3 2
+teaser: "Als beliebter Portr\xC3\xA4tist der deutschen Aufkl\xC3\xA4rung hat Anton Graff ein Werk hinterlassen, das einen einzigartigen \xC3\x9Cberblick \xC3\xBCber die gro\xC3\x9Fen Figuren der Epoche bietet."
+collection: 39174
+---
+Als beliebter Porträtist der deutschen Aufklärung hat Anton Graff ein Werk hinterlassen, das einen einzigartigen Überblick über die wichtigen Persönlichkeiten der Epoche bietet. Zu diesem Zeit-Panorama gehören die Bildnisse von Künstlern und Denkern, von bedeutenden Frauen, von Königen und Militärs sowie einige Selbstbildnisse, wie das mit Augenschirm von 1813. Anlässlich seines 200. Todestages werden in einer Retrospektive in der Alten Nationalgalerie in Berlin 90 seiner Gemälde präsentiert. 
+
+*"Anton Graff. Gesichter einer Epoche":http://www.antongraffinberlin.de/index.php?id=1516&L=1, 25. Oktober 2013 bis 23. Februar 2014, Berlin, Alte Nationalgalerie* 

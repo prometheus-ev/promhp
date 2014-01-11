@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Anton Graff: Dorothea Schlegel (Ausschnitt), 1780-1800, \xC3\x96l auf Leinwand, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: Moses Mendelssohn (Ausschnitt), 1770-80, Replik, Musikabteilung mit Mendelssohn-Archiv, Staatsbibliothek zu Berlin - Preu\xC3\x9Fischer Kulturbesitz; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: Henriette Herz (Ausschnitt), 1792, \xC3\x96l auf Leinwand, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: Daniel Nikolaus Chodowiecki (Ausschnitt), 1790-1801, \xC3\x96l auf Leinwand, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: Die Dichterin Elisa von der Recke (Ausschnitt), 1797, \xC3\x96l auf Leinwand, Berlin, Nationalgalerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Anton Graff: Gotthold Ephraim Lessing (Ausschnitt), 1771, \xC3\x96l auf Leinwand, Leipzig; Universit\xC3\xA4tsbibliothek; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Anton Graff: Prinz Heinrich XIV. Reuss \xC3\xA4ltere Linie (Ausschnitt), 1789, \xC3\x96l auf Leinwand, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Anton Graff: K\xC3\xB6nig Friedrich Wilhelm II. (Ausschnitt), um 1792, \xC3\x96l auf Leinwand, Potsdam, Stiftung Preussische Schl\xC3\xB6sser und G\xC3\xA4rten Berlin-Brandenburg; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+layout: series
+author: "Hendrikje H\xC3\xBCneke"
+title: Anton Graff
+subtitle: 
+date: 2014/01/11
+repeat: 6 3 2
+teaser: "As a famous portraitist of the German Enlightenment Anton Graff had left a body of work, which offers an overview over the important people of that era. "
+collection: 39174
+---
+As a famous portraitist of the German Enlightenment Anton Graff had left a body of work, which offers an overview over the important people of that era. Part of this panorama are portraits of artists and thinkers, of remarkable women, kings and military personnel, next to some self-portraits, like the one with eyeshade from 1813. On the occasion of his 200th birthday there are presented 90 paintings in the Nationalgalerie in Berlin.
+
+*"Anton Graff. Gesichter einer Epoche":http://www.antongraffinberlin.de/index.php?id=1516, 25 October 2013 to 23 February 2014, Berlin, Alte Nationalgalerie* 
