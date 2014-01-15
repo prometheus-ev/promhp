@@ -1,0 +1,8 @@
+--- 
+layout: post
+author: Denise
+title: Es wird haarig! - Neue Datenbank der Wella-Stiftungsprofessur integriert
+tags: 
+- news
+- databases
+---
