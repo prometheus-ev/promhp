@@ -9,7 +9,7 @@ descriptions:
 - "Alexander Roslin: Gro\xC3\x9Ff\xC3\xBCrstin Maria Fjodorowna (Ausschnitt), 1776/78, \xC3\x96l auf Leinwand, 245 x 167 cm, St. Petersburg, Schloss Pawlowsk; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
 - "George Dawe: Zarin Dawe (Ausschnitt), 1810/20, \xC3\x96l auf Leinwand, 91,5 x 63 cm, St. Petersburg, Schloss Pawlowsk; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
 layout: series
-title: "The Romanows and the house of W\xC3\xBCrttemberg "
+title: "Die Romanows und das Haus W\xC3\xBCrttemberg"
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: 
 date: 2014/01/18
