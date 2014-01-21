@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: " \xE2\x80\x9EArch\xC3\xA4ologische Landschaften\xE2\x80\x9C - weitere Datenbank aus Heidelberg eingebunden"
+title: " \"Arch\xC3\xA4ologische Landschaften\" - weitere Datenbank aus Heidelberg eingebunden"
 author: Denise
 tags: 
 - news
