@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: " \xE2\x80\x9EArch\xC3\xA4ologische Landschaften\xE2\x80\x9C - weitere Datenbank aus Heidelberg eingebunden"
+author: Denise
+tags: 
+- news
+- databases
+---
+Mit der Einbindung des Pools "Archäologische Landschaften":<%=p 'source/show/heidicon_al' %> ist nun die insgesamt 17. Bilddatenbank der Universität Heidelberg in prometheus recherchierbar.
+
+Hierbei werden digitalisierte Kleinbild-Diapositive aus der Diathek des Instituts für Klassische Archäologie zur Verfügung gestellt. Es handelt sich um topografische Aufnahmen aus den Ländern des Mittelmeergebiets, die zum Zweck der Lehre wie auch der Präsentation von Forschungsprojekten von den 1930er Jahren bis zum Beginn des 21. Jahrhunderts angefertigt wurden. Mitarbeiter und Studierende des Instituts brachten die Bilder von Studienreisen und Forschungsaufenthalten mit.
+
+Auch wenn die Qualität der Diapositive zum Teil durch Lagerung und Gebrauch irreversibel gelitten hat, bewahren diese Aufnahmen nicht nur einen spannenden Aspekt der Institutsgeschichte, sondern sind zum Teil auch von aktuellem wissenschaftlichen Wert für die Klassische Archäologie. Denn zuweilen zeigen sie ungewöhnliche Ansichten oder einen nicht mehr erhaltenen Zustand von archäologischen Stätten und Monumenten. 
+
+Durch die Bereitstellung in HeidIcon wird nun gewährleistet, dass dieser wertvolle Bestand weiterhin, sogar in größerem Umfang als zuvor, genutzt werden kann.
