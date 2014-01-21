@@ -6,7 +6,7 @@ tags:
 - news
 - databases
 ---
-Mit der Einbindung des Pools "Archäologische Landschaften":<%=p 'source/show/heidicon_al' %> ist nun die insgesamt 17. Bilddatenbank der Universität Heidelberg in prometheus recherchierbar.
+Mit der Einbindung des Pools "Archäologische Landschaften":<%=p 'source/show/heidicon_al' %> ist eine weitere Datenbank der Universität Heidelberg in prometheus recherchierbar.
 
 Hierbei werden digitalisierte Kleinbild-Diapositive aus der Diathek des Instituts für Klassische Archäologie zur Verfügung gestellt. Es handelt sich um topografische Aufnahmen aus den Ländern des Mittelmeergebiets, die zum Zweck der Lehre wie auch der Präsentation von Forschungsprojekten von den 1930er Jahren bis zum Beginn des 21. Jahrhunderts angefertigt wurden. Mitarbeiter und Studierende des Instituts brachten die Bilder von Studienreisen und Forschungsaufenthalten mit.
 
