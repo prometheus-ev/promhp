@@ -1,0 +1,22 @@
+--- 
+descriptions: 
+- "Barbara Klemm: Rudi Dutschke, Daniel Cohn-Bendit, Offenbach (Ausschnitt), 1975, Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Barbara Klemm: Janis Joplin (Ausschnitt), 1969, Fotografie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Barbara Klemm: William Forsythe, Frankfurt a. M. (Ausschnitt), 2002, Fotografie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Barbara Klemm: Michail Gorbatschow, 40. Jahrestag der DDR, Ost-Berlin (Ausschnitt), 1989, Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Barbara Klemm: Hans Georg Gadamer, Heidelberg (Ausschnitt), 1997, Fotografie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Barbara Klemm: Moskau (Ausschnitt), 1993, Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Barbara Klemm: Claudio Abbado (Ausschnitt), 1997, Fotografie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Barbara Klemm: Stuttgart (Ausschnitt), 1972, Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+layout: series
+title: Barbara Klemm
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+date: 2014/01/26
+repeat: 1 7 5
+teaser: Barbara Klemm took a photo of Biermann during his legendary concert in Cologne in 1967
+collection: 39334
+---
+Barbara Klemm took this photo of Wolf Biermann during his legendary concert in Cologne in 1967, after which the DDR refused his re-entry. Her photographs show historical turning points, political events, but street scenes and portraits too. A retrospective at Martin-Gropius-Bau is presenting 300 exhibits and turns out the artistic qualities of Klemms journalistic photographies.
+
+*"Barbara Klemm. Photographs 1968 – 2013":http://www.berlinerfestspiele.de/en/aktuell/festivals/gropiusbau/programm_mgb/mgb13_klemm/ausstellung_klemm/veranstaltungsdetail_56925.php, 16 November 2013 to 9 March 2014, Martin-Gropius-Bau, Berlin*
