@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Ida Kerkovius: Bl\xC3\xBCte auf gelbem Fond (Ausschnitt), 1950er, \xC3\x96l auf Rupfen; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Ida Kerkovius: Figur vor Wasser (Ausschnitt), um 1962, \xC3\x96l auf Rupfen, auf Karton kaschiert; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Ida Kerkovius: Fuge (Ausschnitt), 1952, \xC3\x96l auf Leinwand, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Ida Kerkovius: Gelber Kreis (Ausschnitt), um 1960, Pastell; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Ida Kerkovius: Selbstbildnis (Ausschnitt), 1929, \xC3\x96l auf Leinwand, Stuttgart, St\xC3\xA4dtische Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Ida Kerkovius: Kaktusbl\xC3\xBCte und \xC3\x84pfel (Ausschnitt), 1959, Pastell, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Ida Kerkovius: Steinbruch (Ausschnitt), um 1925, \xC3\x96l auf Leinwand, Regensburg, Ostdeutsche Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Ida Kerkovius: Strand in Riga (Ausschnitt), 1935, Pastell, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+title: Ida Kerkovius
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 1 3 5
+date: 2014/02/03
+teaser: An solo exhibition in Chemnitz is presenting art works of the painter and weaver Ida Kerkovius.
+collection: 39427
+---
+An solo exhibition in Chemnitz is presenting art works of the painter and weaver Ida Kerkovius. Kerkovius studied painting in Dachau and Stuttgart before she learned weaving at the Bauhaus in Weimar. Therefore the exhibition shows paintings and pastels as well as tapestries. All of her works are very colourful, a fact that her contemporaries appreciated. Willi Baumeister is supposed to have said that Kerkovius outclasses the other artists in dealing with colours.
+
+*"Ida Kerkovius. &quot;Meine Welt ist die Farbe&quot;":http://kunstsammlungen-chemnitz.justexpertise.de/index.php?loc=ksc&content=exposition_detail&xid=100&id=913, 2 February to 27 April 2014, Kunstsammlungen Chemnitz*
