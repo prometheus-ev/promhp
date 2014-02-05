@@ -6,6 +6,12 @@
 -%>
 RewriteEngine On
 
+# Super evil dirty workaround to fix cases when URLs with the pattern of
+# <domain>/<lang>/<page>/<something> don't raise a 404. This may be
+# caused by the language rules below but I'm to stupid right now to fix
+# it properly.
+RewriteRule /(contact|copyright|faq|imprint|index|privacy)/.* - [R=404,L]
+
 # Recognize language code in URL; save to cookie and environment variable
 RewriteCond %{REQUEST_URI} \A/<%= lang_ext %>(\z|/.*)
 RewriteRule .* %2 [CO=language:%1:<%= site.uri.host %>:525600,E=LANG:%1]
