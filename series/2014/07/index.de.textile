@@ -1,22 +1,22 @@
 --- 
 layout: series
 descriptions: 
-- "Ida Kerkovius: Bl\xC3\xBCte auf gelbem Fond (Ausschnitt), 1950er, \xC3\x96l auf Rupfen; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
-- "Ida Kerkovius: Figur vor Wasser (Ausschnitt), um 1962, \xC3\x96l auf Rupfen, auf Karton kaschiert; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
-- "Ida Kerkovius: Fuge (Ausschnitt), 1952, \xC3\x96l auf Leinwand, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Ida Kerkovius: Gelber Kreis (Ausschnitt), um 1960, Pastell; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Ida Kerkovius: Selbstbildnis (Ausschnitt), 1929, \xC3\x96l auf Leinwand, Stuttgart, St\xC3\xA4dtische Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Ida Kerkovius: Kaktusbl\xC3\xBCte und \xC3\x84pfel (Ausschnitt), 1959, Pastell, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Ida Kerkovius: Steinbruch (Ausschnitt), um 1925, \xC3\x96l auf Leinwand, Regensburg, Ostdeutsche Galerie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Ida Kerkovius: Strand in Riga (Ausschnitt), 1935, Pastell, Privatbesitz; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-title: Ida Kerkovius
+- "Henri Matisse: Odaliske mit linkem, angewinkelten Bein (Ausschnitt), 1926, \xC3\x96l auf Leinwand, 65 x 46 cm, Baltimore Museum of Art; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Henri Matisse: Liegende Odaliske mit gr\xC3\xBCner Hose und blauem Bund (Ausschnitt), 1927, \xC3\x96l auf Leinwand, 50 x 60 cm, Collection of Henry Ford II; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Henri Matisse: Odaliske mit roter Hose, Wasserkanne und rundem Tisch (Ausschnitt), 1926, \xC3\x96l auf Leinwand, 50 x 61 cm, Mus\xC3\xA9e National de l'Orangerie; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Henri Matisse: Odaliske mit Gr\xC3\xBCng\xC3\xBCrtel (Ausschnitt), 1926-27, \xC3\x96l auf Leinwand, 50,8 x 64,8 cm, Baltimore Museum of Art; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Henri Matisse: Odaliske mit Tamburin. Harmonie in Blau (Ausschnitt), 1926, \xC3\x96l auf Leinwand, Pasadena, Norton Simon Museum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Henri Matisse: Odaliske mit Magnolien (Ausschnitt), 1923, \xC3\x96l auf Leinwand, Privatsammlung; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Henri Matisse: Stehende Odaliske, die sich im Spiegel wiederspiegelt (Ausschnitt), 1923, \xC3\x96l auf Leinwand, 81 x 54,3 cm, Baltimore Museum of Art; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Henri Matisse: Sitzende Odaliske auf gr\xC3\xBCn gestreiftem Sessel mit gehobenen Armen (Ausschnitt), 1923, \xC3\x96l auf Leinwand, 65 x 50 cm, National Gallery of Art, Washington DC; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+title: Die Odalisken-Bilder von Matisse
 author: "Hendrikje H\xC3\xBCneke"
 subtitle: 
-repeat: 1 3 5
+repeat: 1 4 6
 date: 2014/02/03
-teaser: Eine Einzelausstellung in Chemnitz zeigt Arbeiten der Malerin und Bildweberin Ida Kerkovius.
-collection: 39427
+teaser: "Zur\xC3\xBCck von seinen Reisen nach Algerien und Marokko stattete Matisse sein Atelier in Frankreich mit orientalischen Teppichen und Stoffen aus"
+collection: 39484
 ---
-Eine Einzelausstellung in Chemnitz zeigt Arbeiten der Malerin und Bildweberin Ida Kerkovius. Kerkovius hatte in Dachau und Stuttgart Malerei studiert, bevor sie am Bauhaus in Weimar Weberei dazulernte. Neben Gemälden und Pastellen gehören zu den Exponaten daher auch zwei Wandteppiche. Allen Arbeiten ist die Farbkraft gemeinsam, für die Kerkovius auch von ihren Künstlerkollegen geschätzt wurde. „In der Farbe ist sie uns allen überlegen“ soll Willi Baumeister gesagt haben. 
+Zurück von seinen Reisen nach Algerien und Marokko stattete Matisse sein Atelier in Frankreich mit orientalischen Teppichen und Stoffen aus und malte seine Modelle in Pluderhosen und Schleier. Die inszenierte islamische Welt seiner Odalisken-Darstellungen wird besonders zwei wichtigen Aspekten im Werk des Künstlers gerecht: Figur und Ornament. Eine Ausstellung in Münster widmet sich diesen Aspekten und zeigt Werke von den frühen 1920er bis in die späten 40er Jahre, besonders aber solche aus der sogenannten Nizza-Periode zwischen 1917 und 1929.
 
-*"Ida Kerkovius. &quot;Meine Welt ist die Farbe&quot;":http://kunstsammlungen-chemnitz.justexpertise.de/index.php?loc=ksc&content=exposition_detail&xid=100&id=913, 2. Februar bis 27. April 2014, Kunstsammlungen Chemnitz*
+*"Henri Matisse - Figur & Ornament":http://www.kunstmuseum-picasso-muenster.de/ausstellungen/aktuelle-ausstellungen/henri-matisse/, 24. November 2013 bis 16. Februar 2014, Kunstmuseum Pablo Picasso, Münster* 
