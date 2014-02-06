@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Lyonel Feininger: Schwarze Welle (Ausschnitt), 1937, \xC3\x96l auf Leinwand, Emden, Kunsthalle; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Lyonel Feininger: Hansa-Flotte (Ausschnitt), 1918, Holzschnitt auf Japanpapier, 21,7 x 28,1 cm, D\xC3\xBCren, Leopold-Hoesch-Museum; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Lyonel Feininger: Kreuzende Schiffe (Ausschnitt), 1919, Holzschnitt auf Japanpapier, 22,8 x 30 cm, D\xC3\xBCren, Leopold-Hoesch-Museum; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Lyonel Feininger: Plakat Bauhaus-Ausstellung (Ausschnitt), 1923, Holzschnitt, koloriert, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Lyonel Feininger: Das Tor (Ausschnitt), Holzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Lyonel Feininger: Die Windm\xC3\xBChle (Ausschnitt), 1919, Holzschnitt, posthumer Druck, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Lyonel Feininger: Dorf (Ausschnitt), 1920, Holzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Lyonel Feininger: Pariser H\xC3\xA4user (Ausschnitt), 1920, Holzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+title: The woodcuts by Feininger
+author: "Hendrikje H\xC3\xBCneke"
+subtitle: 
+repeat: 3 2 1
+date: 2014/02/06
+teaser: An exhibition at the Kunsthalle Emden is presenting woodcuts by Lyonel Feininger.
+collection: 39485
+---
+An exhibition at the Kunsthalle Emden is presenting woodcuts by Lyonel Feininger. While Feininger made just a few etchings and lithographies, the woodcuts represent a considerable part of his work. The exhibition in Emden also shows the importance of the woodcuts for Feininges paintings. Furthermore the painting „Schwarze Welle“, which is part of the Herni Nannen collection, delivers an occasion to focus on motifs with ships.
+
+*"Lyonel Feininger. Holzschnitte eines Bauhaus Künstlers":http://kunsthalle-emden.de/lyonel-feininger-holzschnitte/, 25. Feburar bis 11. Mai 2014, Kunsthalle Emden
