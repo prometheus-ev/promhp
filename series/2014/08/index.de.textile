@@ -9,8 +9,8 @@ descriptions:
 - "Lyonel Feininger: Die Windm\xC3\xBChle (Ausschnitt), 1919, Holzschnitt, posthumer Druck, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
 - "Lyonel Feininger: Dorf (Ausschnitt), 1920, Holzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
 - "Lyonel Feininger: Pariser H\xC3\xA4user (Ausschnitt), 1920, Holzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
-title: Die Holzschnitte Feiningers
 author: "Hendrikje H\xC3\xBCneke"
+title: Die Holzschnitte Feiningers
 subtitle: 
 repeat: 3 2 1
 date: 2014/02/06
