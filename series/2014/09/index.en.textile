@@ -1,22 +1,22 @@
 --- 
 layout: series
 descriptions: 
-- "Lyonel Feininger: Schwarze Welle (Ausschnitt), 1937, \xC3\x96l auf Leinwand, Emden, Kunsthalle; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
-- "Lyonel Feininger: Hansa-Flotte (Ausschnitt), 1918, Holzschnitt auf Japanpapier, 21,7 x 28,1 cm, D\xC3\xBCren, Leopold-Hoesch-Museum; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
-- "Lyonel Feininger: Kreuzende Schiffe (Ausschnitt), 1919, Holzschnitt auf Japanpapier, 22,8 x 30 cm, D\xC3\xBCren, Leopold-Hoesch-Museum; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
-- "Lyonel Feininger: Plakat Bauhaus-Ausstellung (Ausschnitt), 1923, Holzschnitt, koloriert, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
-- "Lyonel Feininger: Das Tor (Ausschnitt), Holzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
-- "Lyonel Feininger: Die Windm\xC3\xBChle (Ausschnitt), 1919, Holzschnitt, posthumer Druck, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
-- "Lyonel Feininger: Dorf (Ausschnitt), 1920, Holzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
-- "Lyonel Feininger: Pariser H\xC3\xA4user (Ausschnitt), 1920, Holzschnitt, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
-title: The woodcuts by Feininger
+- "Georg Flegel: Stillleben mit einem Hirschk\xC3\xA4fer (Ausschnitt), 1635, Tafelmalerei, 25 x 38 cm, K\xC3\xB6ln, \xC3\xB6ffentliche Sammlung, Wallraf-Richartz-Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Desportes, Fran\xC3\xA7ois: Fr\xC3\xBChst\xC3\xBCcksstillleben mit Austern (Ausschnitt), 1729, \xC3\x96l auf Leinwand, Stockholm, Nationalmuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Cornelis de Heem: Stillleben mit Austern, Zitrone und Weintrauben (Ausschnitt), 1670, \xC3\x96l auf Holz, 36 x 45 cm, Salzburg, Residenzgalerie; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Gerrit Willemsz. Heda: Stillleben mit Silberkanne (Ausschnitt), 1647, \xC3\x96l auf Holz, 103,5 x 82 cm, Deutschland, Schwerin, Staatliches Museum; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Kunsthistorisches Institut, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Willem Kalf: Stillleben mit Silberkanne (Ausschnitt), ca. 1655-57, \xC3\x96l auf Leinwand, 73,8 x 65,2 cm, Amsterdam, Rijksmuseum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Jean Michel Picart: K\xC3\xB6rbchen mit Pfirsichen und Trauben (Ausschnitt), um 1635, Tafelmalerei, 29 x 39,2 cm, Karlsruhe, Staatliche Kunsthalle; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Desportes, Fran\xC3\xA7ois: Stillleben mit Katze (Ausschnitt), 1741, \xC3\x96l auf Leinwand, 74 x 92,5 cm, Schleissheim (Oberschleissheim), \xC3\xB6ffentliche Sammlung, Bayerische Staatsgem\xC3\xA4ldesammlungen, Staatsgalerie im Neuen Schloss; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Pieter de Ring: Stillleben mit einem goldenen Pokal (Ausschnitt), 1635/60, \xC3\x96l auf Leinwand, 100 x 85 cm, Rijksmuseum; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen Amsterdam"
 author: "Hendrikje H\xC3\xBCneke"
+title: Still lifes
 subtitle: 
-repeat: 3 2 1
+repeat: 1 4 6
 date: 2014/02/06
-teaser: An exhibition at the Kunsthalle Emden is presenting woodcuts by Lyonel Feininger.
-collection: 39485
+teaser: An exhibition in Bad Homburg shows still lifes from the 17th century and contemporary video art
+collection: 39497
 ---
-An exhibition at the Kunsthalle Emden is presenting woodcuts by Lyonel Feininger. While Feininger made just a few etchings and lithographies, the woodcuts represent a considerable part of his work. The exhibition in Emden also shows the importance of the woodcuts for Feininges paintings. Furthermore the painting „Schwarze Welle“, which is part of the Herni Nannen collection, delivers an occasion to focus on motifs with ships.
+An exhibition in Bad Homburg shows still lifes from the 17th century and contemporary video art, where the traditional genre gets in motion. A fading tulip bouquet, an exploding pomegranate, a destroyed dinner table – the video works transfer the topic of transience from a still painting into a motion picture.
 
-*"Lyonel Feininger. Holzschnitte eines Bauhaus Künstlers":http://kunsthalle-emden.de/lyonel-feininger-holzschnitte/, 25. Feburar bis 11. Mai 2014, Kunsthalle Emden
+*"Still bewegt. Videokunst und Alte Meister":http://www.altana-kulturstiftung.de/museum-sinclair-haus/ausstellungen/aktuell/, 13 October 2013 to 23 February 2014, Museum Sinclair-Haus, Bad Homburg* 
