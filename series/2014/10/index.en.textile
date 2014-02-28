@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Dorothy Iannone: You always forgive me (Ausschnitt), aus der Serie: Dialoge X, 1968, Sammlung Aldo Frei; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte "
+- "Dorothy Iannone: The story of Bern. Showing Colors (Ausschnitt), 1970, Berlin, Sammlung Dorothy Iannone; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Dorothy Iannone: I thought we might get married (Ausschnitt), aus: Dialoge X, 1968, Sammlung Aldo Frei, Berlin, Sammlung Dorothy Iannone; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Dorothy Iannone: Parade\xC2\xB4s End (Ausschnitt), 1960, Berlin, Sammlung Dorothy Iannone; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Dorothy Iannone: Wiggle your ass for me (Ausschnitt), 1970, Deutschland, Besitz Dale A. Sullivan; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Dorothy Iannone: My somber brown beauty (Ausschnitt), 1960, Berlin, Sammlung Dorothy Iannone; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Dorothy Iannone: The white goddess (Ausschnitt), 1971, Siebdruck, Berlin, Sammlung Dorothy Iannone; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Dorothy Iannone: This is a call for a world-wide general strike for peace (Ausschnitt), um 1962, Collage auf Holz, Berlin, Sammlung Dorothy Iannone; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Dorothy Iannone
+subtitle: 
+repeat: 1 4 7
+date: 2014/02/28
+teaser: Sexuality and emancipation are two big topics of the American artist Dorothy Iannone.
+collection: 39624
+---
+Sexuality and emancipation are two big topics of the American artist Dorothy Iannone. She discusses these topics in her naive paintings, showing nude men and women and the sexual act surrounded by colourful ornaments. A retrospective at the Berlinische Galerie is showing abstract as well as figural works, paintings as well as objects, books and films.
+
+*"Dorothy Iannone. This Sweetness Oustside of Time. Gemälde, Objekte, Bücher 1959-2014":http://www.berlinischegalerie.de/en/exhibitions/current-exhibitions/dorothy-iannone/?contentId_=8625&cHash=40aa6992e30b0c8f512896780242b6c8, 20 February to 2 June 2014, Berlinische Galerie*
