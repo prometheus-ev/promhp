@@ -9,6 +9,8 @@ h3. Einzellizenz
 
 20,- €/Jahr
 
+(Hinweis: ab dem 01.04.2014 kostet die Einzellizenz 30,- €/Jahr)
+
 "» Zur Anmeldung":<%=p 'signup' %>
 
 h3. Ermäßigte Lizenzgebühren über das Hochschulbibliothekszentrum (HBZ) für inländische Bibliotheken und Hochschulen 

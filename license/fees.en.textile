@@ -9,6 +9,8 @@ h3. Single license
 
 20,- € p.a.
 
+(Please note: from 1st April 2014 on the single license costs 30,- € p.a.)
+
 "» Sign up":<%=p 'signup' %>
 
 h3. License fees via the Campus Library Center NRW (HBZ)
