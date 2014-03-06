@@ -9,7 +9,7 @@ h2. <%= page_title %>
 
 prometheus doesn't draw profit and is supported by a non-profit "association":http://prometheus-bildarchiv.de/about/association/ for promoting science and research through the development, appropriation and application of digital media in the arts and the field of the history of culture. "License fees":http://prometheus-bildarchiv.de/license/fees are charged exclusively for operating our services and the continuous development of our applications.
 
-At a glance: Download our "prometheus Flyer (PDF)":<%=r 'files/text/prometheus_flyer_07.pdf' %>!
+At a glance: Download our "prometheus Flyer (PDF)":<%=r 'files/text/prometheus-flyer_13_en.pdf' %>!
 
 h3. Tags
 
