@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Piet Mondrian: M\xC3\xBChle am Abend (Ausschnitt), 1907, \xC3\x96l auf Leinwand, 68 x 118 cm, Den Haag, Gemeentemuseum; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Piet Mondrian: Windm\xC3\xBChle im Sonnenlicht (Ausschnitt), 1908, \xC3\x96l auf Leinwand, 114 x 87 cm, Den Haag, Gemeentemuseum; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Piet Mondrian: Die rote M\xC3\xBChle (Ausschnitt), 1911, \xC3\x96l auf Leinwand, 150 x 86 cm, Den Haag, Haags Gemeentemuseum; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Piet Mondrian: Die rote Wolke (Ausschnitt), 1907-09, \xC3\x96l auf Karton, 64 x 75 cm, Den Haag, Haags Gemeentemuseum; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Piet Mondrian: D\xC3\xBCne II (Ausschnitt), 1909, \xC3\x96l auf Leinwand, 37,5 x 46,5 cm, Den Haag, Gemeentemuseum; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Piet Mondrian: D\xC3\xBCne IV (Ausschnitt), 1909, \xC3\x96l auf Karton, 33 x 46 cm, Den Haag, Gemeentemuseum; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Piet Mondrian: Komposition mit farbigen Fl\xC3\xA4chen Nr. 3, 1917, \xC3\x96l auf Leinwand, 48 x 61 cm, Den Haag, Haags Gemeentemuseum; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Piet Mondrian: Komposition mit gelben Linien (Ausschnitt), 1933, \xC3\x96l auf Leinwand, 133 x 133 cm, Den Haag, Gemeentemuseum; Bild & Kunst Eichst\xC3\xA4tt, Katholische Universit\xC3\xA4t Eichst\xC3\xA4tt-Ingolstadt, Lehrstuhl f\xC3\xBCr Kunstgeschichte"
+author: "Hendrikje H\xC3\xBCneke"
+title: Mondrian - Colours
+subtitle: 
+repeat: 6 5 3
+date: 2014/03/07
+teaser: Eine Ausstellung in Hamburg widmet sich der Farbe im Werk Mondrians.
+collection: 39690
+---
+Eine Ausstellung in Hamburg widmet sich der Farbe im Werk Mondrians. Die Exponate sind vorwiegend Leihgaben aus dem Gemeentemuseum Den Haag. Das Spektrum reicht von den frühen Landschaftsbildern über die Dünenbilder von 1909, bei denen Mondrian die Farbe stärker abstrakt einzusetzen beginnt, bis hin zu seinen konstruktivistischen Kompositionen.
+
+*"Mondrian. Farbe":http://www.buceriuskunstforum.de/ausstellung/mondrian-farbe/, 1.Februar bis 11. Mai 2014, Bucerius Kunst Forum, Hamburg*
