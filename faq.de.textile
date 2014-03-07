@@ -1,6 +1,6 @@
----
+--- 
 layout: default
-title: FAQ - Häufig gestellte Fragen
+title: "FAQ - H\xC3\xA4ufig gestellte Fragen"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=21&L=0&skin=0
 ---
 h2. <%= page_title %>
@@ -42,7 +42,7 @@ Das Bildarchiv kann über eine kostengünstige Lizenz genutzt werden.
 
 h4(#anyone). Wie kann ich als Einzelperson das Bildarchiv nutzen?
 
-Sie können das Bildarchiv über eine Einzellizenz für 20 € pro Jahr nutzen. Die Bezahlung erfolgt über eines der Onlinezahlungssysteme PayPal oder Click&Buy.
+Sie können das Bildarchiv über eine Einzellizenz für 20 € pro Jahr nutzen. Die Bezahlung erfolgt über das Onlinezahlungssystem PayPal.
 Als Alternative ermöglichen wir Ihnen auch die Bezahlung gegen Rechnung, hierbei fällt eine Bearbeitungsgebühr von zzgl. 15 € an.
 
 *Achtung!*
