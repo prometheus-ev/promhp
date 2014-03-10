@@ -10,7 +10,7 @@ descriptions:
 - "Piet Mondrian: Komposition mit farbigen Fl\xC3\xA4chen Nr. 3, 1917, \xC3\x96l auf Leinwand, 48 x 61 cm, Den Haag, Haags Gemeentemuseum; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
 - "Piet Mondrian: Komposition mit gelben Linien (Ausschnitt), 1933, \xC3\x96l auf Leinwand, 133 x 133 cm, Den Haag, Gemeentemuseum; Bild & Kunst Eichst\xC3\xA4tt, Katholische Universit\xC3\xA4t Eichst\xC3\xA4tt-Ingolstadt, Lehrstuhl f\xC3\xBCr Kunstgeschichte"
 author: "Hendrikje H\xC3\xBCneke"
-title: Mondrian - Colours
+title: Mondrian - Farbe
 subtitle: 
 repeat: 6 5 3
 date: 2014/03/07
