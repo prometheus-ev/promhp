@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Jan Vermeer: Die Malkunst (Ausschnitt), um 1665/66, \xC3\x96l auf Leinwand, 120 x 100 cm, Wien, Kunsthistorisches Museum; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Jean L\xC3\xA9on G\xC3\xA9r\xC3\xB4me: Der K\xC3\xBCnstler und sein Model (Ausschnitt), 1890, \xC3\x96l auf Leinwand, o.O.; Bild & Kunst Eichst\xC3\xA4tt, Katholische Universit\xC3\xA4t Eichst\xC3\xA4tt-Ingolstadt, Lehrstuhl f\xC3\xBCr Kunstgeschichte"
+- "Honor\xC3\xA9 Daumier: Der K\xC3\xBCnstler malt die Grablegung (Ausschnitt), \xC3\x96l auf Leinwand, Mus\xC3\xA9e des Beaux-arts de Reims; Daumier Register, The Daumier Register, Ascona"
+- "George Grosz: K\xC3\xBCnstler und Modell (Ausschnitt), 1928, \xC3\x96l auf Leinwand, 115,6 x 75,6 cm, New York, Museum of Modern Art; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Honor\xC3\xA9 Daumier: Ein junger K\xC3\xBCnstler erh\xC3\xA4lt Ratschl\xC3\xA4ge (Ausschnitt), 1860/79, \xC3\x96l auf Leinwand, 41 x 33 cm, Washington, National Gallery of Art; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "L\xC3\xA9on Cogniet:  Der K\xC3\xBCnstler in seinem Zimmer in der Villa Medici in Rom (Ausschnitt), 1817, \xC3\x96l auf Leinwand, 44,5 x 37 cm, Cleveland, Ohio, Cleveland Museum of Art; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Heinrich Christoph Kolbe: Goethe als Dichter und K\xC3\xBCnstler vor dem Vesuv (Ausschnitt), 1826, \xC3\x96l auf Leinwand, 222,3 x 156,4 cm, Jena, Friedrich-Schiller-Universit\xC3\xA4t; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Carl Spitzweg: Der arme Poet (Ausschnitt), 1839, \xC3\x96l auf Leinwand, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+author: "Hendrikje H\xC3\xBCneke"
+title: Pictures in the minds
+subtitle: 
+repeat: 2 4 1
+date: 2014/03/16
+teaser: We see an artist as a poor, misunderstood genius, as a womanizer or lonely thinker.
+collection: 39781
+---
+We see an artist as a poor, misunderstood genius, as a womanizer or lonely thinker. The image of the artist per se, is one of the pictures we have in our minds. A workshop in Potsdam is dealing with pictures of stereotypes, gender roles and legends and is analysing types, topoi and anecdotes.
+
+*"Pictures in the minds. Typs, topoi, anecdotes":http://www.bilder-in-den-köpfen.de/index.php?id=2, workshop, 27 and 28 March 2014, university Potsdam*
