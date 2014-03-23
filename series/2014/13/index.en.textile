@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Vincent van Gogh: Gem\xC3\xBCseg\xC3\xA4rten am Montmartre (Ausschnitt), 1887, \xC3\x96l auf Leinwand, 81 x 100 cm, Amsterdam, \xC3\xB6ffentliche Sammlung, Rijksmuseum Vincent van Gogh; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Kees van Dongen: Montmartre, Sacr\xC3\xA9-Coeur (Ausschnitt), 1904, \xC3\x96l auf Leinwand, Monaco, Nouveau Mus\xC3\xA9e National; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Gino Severini: Festival am Montmartre (Ausschnitt), 1913, \xC3\x96l auf Leinwand, 88,9 x 116,2 cm, New York, Richard S. Zeisler Collection; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Henri de Toulouse-Lautrec: La clownesse assise Mademoiselle Cha-U-Kao (Ausschnitt), 1896, Lithografie, Kupferstichkabinett, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Suzanne Valadon: Akt auf rotem Sofa (Ausschnitt), 1920, \xC3\x96l auf Leinwand, Genf, Mus\xC3\xA9e d\xC2\xB4art moderne; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Louis Anquetin: L\xC2\xB4Avenue de Clichy (Ausschnitt), 1887, Pastell auf Leinwand, Paris, Sammlung Brame & Lorenceau; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Auguste Elys\xC3\xA9e Chabaud: Moulin Rouge bei Nacht (Ausschnitt), 1907, \xC3\x96l auf Leinwand, 82 x 60 cm, Genf, Petit Palais, Mus\xC3\xA9e d'Art Moderne; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Camille Pisarro: Boulevard Montmartre in Paris bei Nacht (Ausschnitt), 1897, \xC3\x96l auf Leinwand, 53,3 x 64,8 cm, London, National Gallery; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+author: "Hendrikje H\xC3\xBCneke"
+title: Montmartre
+subtitle: On the fringe of society
+repeat: 2 4 6
+date: 2014/03/20
+teaser: "Around the year 1900 there were many artist studios in Paris\xE2\x80\x99s 18th arrondissement."
+collection: 39815
+---
+Around the year 1900 there were many artist studios in Paris’s 18th arrondissement. The curators of an exhibition at the Schirn Kunsthalle in Frankfurt describe the Montmartre of that time, situated on the outscirts of Paris, as a rural counter-world to the metropolis in the centre of Paris. The exhibition is presenting paintings and photographies, showing a life between Moulin Rouge and coffeehouses, between the poor and the outsiders.
+
+*"In esprit Montmartre. Bohemian Life in Paris around 1900":http://www.schirn.de/en/ESPRIT_MONTMARTRE_EXHIBITION.html, 7 February to 1 June 2014, Schirn Kunsthalle Frankfurt*
