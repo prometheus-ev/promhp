@@ -1,8 +1,8 @@
----
+--- 
 layout: default
 title: Impressum
 legacy_url: http://www.prometheus-bildarchiv.de/index.php?id=18
-priority: 0.5
+priority: "0.5"
 ---
 h2. <%= page_title %>
 
@@ -12,7 +12,7 @@ Vereinsregister Amtsgericht Köln: VR 14202
 
 h3. Vertretungsberechtigter Vorstand
 
-PD Dr. Holger Simon
+Prof. Dr. Holger Simon
 Kunsthistorisches Institut der Universität zu Köln
 Albertus-Magnus-Platz
 D - 50923 Köln
