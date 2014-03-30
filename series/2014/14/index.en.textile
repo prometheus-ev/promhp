@@ -1,0 +1,22 @@
+--- 
+layout: series
+descriptions: 
+- "Kleophon-Maler: Kriegers Abschied (Detail), 430 v. Chr., Stamnos, attisch rotfigurig, M\xC3\xBCnchen, Staatliche Antikensammlung; GAUDI, Georg-August-Universit\xC3\xA4t G\xC3\xB6ttingen, Arch\xC3\xA4ologisches Institut"
+- "Sarkophagrelief: Aphrodite nimmt Abschied von Adonis, der zur Jagd aufbricht (Detail), 3. Jh. n. Chr., Vatikan, Vatikanische Museen; Mneme, Humboldt-Universit\xC3\xA4t Berlin, Lehrbereich f\xC3\xBCr Klassische Arch\xC3\xA4ologie - Winckelmann-Institut, Humboldt-Universit\xC3\xA4t Berlin"
+- "Lorenzo Lotto: Christi Abschied von seiner Mutter (Ausschnitt), 1521, \xC3\x96l auf Leinwand, Gem\xC3\xA4ldegalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Julius Schnorr von Carolsfeld: Siegfrieds Abschied von Kriemhild (Ausschnitt), 1833-53, \xC3\x96l auf Leinwand, 87,5 x 0 cm, Nationalgalerie, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Julia Margaret Cameron: Der Abschied des Fischers, \"Gehen Sie noch nicht\", Alick und May Wedderburn (Ausschnitt), 1874, Fotografie, 30,2 x 37,3 cm, Privatsammlung; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Frans Masareel: Matrosen-Abschied (Ausschnitt), 1921, Holzschnitt, 17,8 x 10,9 cm, o.O. ; ConedaKOR, Kunstgeschichtliches Institut der Universit\xC3\xA4t des Saarlandes, Saarbr\xC3\xBCcken"
+- "N\xC3\xA4chtlicher Abschied / Abendkleid von Paquin (Ausschnitt), 1911-19, Kunstbibliothek, Staatliche Museen zu Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Otto Dix: Abschied von Hamburg (Ausschnitt), 1921, \xC3\x96l auf Leinwand, 85 x 89 cm, Hamburg, Kunsthalle; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+author: "Hendrikje H\xC3\xBCneke"
+title: Farewell
+subtitle: 
+repeat: "2 5 7 "
+date: 2014/03/30
+teaser: These pictures show leaving-scenarios.
+collection: 39862
+---
+These pictures show leaving-scenarios. The women, who are remaining at home and the men, who have to go to sea or to war, say goodbye to each other. Interesting are the gestures: the hands show, who will leave and who will stay and they clarify a belonging – indicated by grabbing the arm (Schnorr von Carolsfeld) or the breast of the lover (Dix). 
+
+With these pictures I say goodbye to Prometheus. From now on the image-series will be created by Bettina Pfleging.
