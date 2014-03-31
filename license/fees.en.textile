@@ -7,9 +7,7 @@ h2. <%= page_title %>
 
 h3. Single license
 
-20,- € p.a.
-
-(Please note: from 1st April 2014 on the single license costs 30,- € p.a.)
+30,- € p.a.
 
 "» Sign up":<%=p 'signup' %>
 
