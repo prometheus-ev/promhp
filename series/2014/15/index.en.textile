@@ -20,5 +20,4 @@ collection: 39983
 In London's Hyde Park started in 1851 with the first World's Fair, a new kind of exhibition, where the countries presented their technical, scientific and craft services for a mass audience. Some of the exhibition buildings such as the Eiffel Tower in Paris (1889) or the Atomium in Brussels (1958) became landmarks of the country. The featured innovations and achievements depict the respective current world into a kind of microcosm. 
 For the Germanic National Museum, the cultural history of the 19th Century has long been an intensive field of research. In the current exhibition, the world's fairs are one of three topics that show the path to modernity.
 
-"„Wege in die Moderne. Weltausstellungen, Medien und Musik im 19. Jahrhundert"(exhibition)":http://www.gnm.de/ausstellungen/aktuell-und-vorschau/wege-in-die-moderne/
-27.03. - 21.09.2014 Germanisches Nationalmuseum, Nürnberg
+*"„Wege in die Moderne. Weltausstellungen, Medien und Musik im 19. Jahrhundert“(Ausstellung)":http://www.gnm.de/ausstellungen/aktuell-und-vorschau/wege-in-die-moderne/, 27.03. - 21.09.2014, Germanisches Nationalmuseum, Nürnberg*
