@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Salvador Dal\xC3\xAD: Pavillon der Venus auf der Weltausstellung in New York, 1939, Architektur, New York; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Fritz Bornemann: Osaka, Deutscher Pavillon auf der Expo 1970 (Innenansicht), 1968-1970, Architektur, Osaka; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Lewis Edward Hickmott: Perspektivische Ansicht der Weltausstellung, 1894; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Joseph Paxton: Crystal Palace, Londres. Ext\xC3\xA9rieur (d\xC3\xA9truit), 1851, London; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Pablo Picasso: Weltausstellung: Spanischer Pavillon, 1937, Paris; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Atomium, 1958, Architektur, Br\xC3\xBCssel; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Moshe Safdie: Habitat 67, Wohnblock auf der Weltausstellung, 1966-1967, Montreal; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte  "
+- "Robert Delaunay: Pavillon de l'Air (Weltausstellung Paris 1937), 1937, Paris; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+author: Bettina Pfleging
+title: World's Fair
+subtitle: Art, Technology, Science
+repeat: 1 3 6
+date: 2014/04/07
+teaser: In London's Hyde Park started in 1851 the first World's Fair.
+collection: 39983
+---
+In London's Hyde Park started in 1851 with the first World's Fair, a new kind of exhibition, where the countries presented their technical, scientific and craft services for a mass audience. Some of the exhibition buildings such as the Eiffel Tower in Paris (1889) or the Atomium in Brussels (1958) became landmarks of the country. The featured innovations and achievements depict the respective current world into a kind of microcosm. 
+For the Germanic National Museum, the cultural history of the 19th Century has long been an intensive field of research. In the current exhibition, the world's fairs are one of three topics that show the path to modernity.
+
+"„Wege in die Moderne. Weltausstellungen, Medien und Musik im 19. Jahrhundert"(exhibition)":http://www.gnm.de/ausstellungen/aktuell-und-vorschau/wege-in-die-moderne/
+27.03. - 21.09.2014 Germanisches Nationalmuseum, Nürnberg
