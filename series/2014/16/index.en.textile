@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Berliner Schloss, 1945, Architektur, Berlin; HeidICON - Ostasienwissenschaften, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Eduard Gaertner: Der Schl\xC3\xBCterhof des Berliner Schlosses, 1830, \xC3\x96l auf Leinwand, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Maximilian Roch: Berlin, Lange Br\xC3\xBCcke und Schloss, Spreeseite, 1830, \xC3\x96l auf Leinwand, 65 \xC3\x97 102 cm, Berlin; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Andreas Schl\xC3\xBCter: Landgraf Friedrich II. von Hessen-Homburg, 1700, Bronze, Bad Homburg; Bild & Kunst Eichst\xC3\xA4tt, Katholische Universit\xC3\xA4t Eichst\xC3\xA4tt-Ingolstadt, Lehrstuhl f\xC3\xBCr Kunstgeschichte"
+- "Andreas Schl\xC3\xBCter: Reiterstandbild Friedrich Wilhelms des Gro\xC3\x9Fen Kurf\xC3\xBCrsten, 1696 - 1700; 1708 \xE2\x80\x93 1709, Bronze, Berlin; Wissenschaftliches Bildarchiv f\xC3\xBCr Architektur, Wissenschaftliches Bildarchiv f\xC3\xBCr Architektur, Berlin"
+- "Andreas Schl\xC3\xBCter: Denkmal des Gro\xC3\x9Fen Kurf\xC3\xBCrsten, Detail der Sitzfiguren: Der Sanguiniker, 1703, Bronze, Berlin; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Andreas Schl\xC3\xBCter: Schlussstein, Kartusche mit Kriegermaske, 1696-1699, Bauplastik, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Andreas Schl\xC3\xBCter: Gigant im Treppenhaus des Schlosses, Fotografie, Berlin-Brandenburg; Historische Originale (1894-1945), Stiftung Preu\xC3\x9Fische Schl\xC3\xB6sser und G\xC3\xA4rten, Stiftung Preu\xC3\x9Fische Schl\xC3\xB6sser und G\xC3\xA4rten, Berlin"
+author: Bettina Pfleging
+title: "Andreas Schl\xC3\xBCter"
+subtitle: Baroque Berlin
+repeat: 1 3 7
+date: 2014/04/11
+teaser: He was a multifaceted artist, court sculptor and castle builder and ...
+collection: 40009
+---
+He was a multifaceted artist, court sculptor and castle builder and he brought as the "Michelangelo of the North" in the early 17th century baroque splendor to Berlin. Almost threatened Andreas Schlüter still to be forgotten, partly because of its architectural masterpiece, the "Berliner Schloss" was demolished in 1950. But the palace is being rebuilt...
+...and the Bode Museum is dedicated to the major artists of the occasion of his 300th death year, a comprehensive exhibition, with a handwritten drawing by Schlüter, a Prometheus-miniature.
+
+"*„Schloss Bau Meister. Andreas Schlüter und das barocke Berlin“(Exhibition)":http://ww2.smb.museum/schlueter/en/home, 04.04. - 13.07.2014, Bode-Museum, Berlin*
