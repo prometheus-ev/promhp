@@ -10,7 +10,7 @@ descriptions:
 - "Andreas Schl\xC3\xBCter: Schlussstein, Kartusche mit Kriegermaske, 1696-1699, Bauplastik, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
 - "Andreas Schl\xC3\xBCter: Gigant im Treppenhaus des Schlosses, Fotografie, Berlin-Brandenburg; Historische Originale (1894-1945), Stiftung Preu\xC3\x9Fische Schl\xC3\xB6sser und G\xC3\xA4rten, Stiftung Preu\xC3\x9Fische Schl\xC3\xB6sser und G\xC3\xA4rten, Berlin"
 author: Bettina Pfleging
-title: "Andreas Schl\xC3\xBCter."
+title: "Andreas Schl\xC3\xBCter"
 subtitle: Barockes Berlin
 repeat: 1 3 7
 date: 2014/04/11
@@ -20,4 +20,4 @@ collection: 40009
 Er war ein vielseitiger Künstler, Hofbildhauer und Schlossbaumeister und er brachte als „Michelangelo des Nordens“ Anfang des 17. Jahrhunderts barocken Glanz nach Berlin. Fast drohte Andreas Schlüter trotzdem in Vergessenheit zu geraten, auch weil sein architektonisches Hauptwerk, das Berliner Schloss, 1950 abgerissen wurde. Aber das Schloss wird wieder aufgebaut… 
 ...und das Bode-Museum widmet dem bedeutenden Künstler anlässlich seines 300. Todesjahres eine umfassende Ausstellung, auch mit einer eigenhändigen Zeichnung von Schlüter, einer Prometheus-Miniatur. 
 
-"*„Schloss Bau Meister. Andreas Schlüter und das barocke Berlin“(Exhibition)":http://ww2.smb.museum/schlueter/de/home, 04.04. - 13.07.2014, Bode-Museum, Berlin*
+*"„Schloss Bau Meister. Andreas Schlüter und das barocke Berlin“(Ausstellung)":http://ww2.smb.museum/schlueter/de/home, 04.04. - 13.07.2014, Bode-Museum, Berlin*
