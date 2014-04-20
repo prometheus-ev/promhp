@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Pieter Bruegel d. \xC3\x84.: Der Kampf zwischen Fasching und Fasten, Ausschnitt, 1559, \xC3\x96l auf Holz, 118 x 164,5 cm, Wien; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Pieter Bruegel d. \xC3\x84.: Gro\xC3\x9Fe Fische fressen die Kleinen, Ausschnitt, 1556, Zeichnung, 21,6 x 30 cm, Wien; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Pieter Bruegel d. \xC3\x84.: Das Schlaraffenland, Ausschnitt, 1567, \xC3\x96l auf Holz, 52 x 78 cm, M\xC3\xBCnchen; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Pieter Bruegel d. \xC3\x84.: Das Schlaraffenland, Detail: Das Ei auf Beinen, 1566, \xC3\x96l auf Holz, 52 x 78 cm, M\xC3\xBCnchen; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "Pieter Bruegel d. \xC3\x84.: Die fette K\xC3\xBCche, Ausschnitt, Druckgrafik; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Pieter Bruegel d. \xC3\x84.: Die magere K\xC3\xBCche, Ausschnitt, Druckgrafik; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Pieter Bruegel d. \xC3\x84.: Die Imker, Ausschnitt, Zeichnung, 20,3 x 30,9 cm, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Pieter Bruegel d. \xC3\x84.: Der Esel in der Schule, Ausschnitt, 1556, Zeichnung, 23,2 x 30,7 cm, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+author: Bettina Pfleging
+title: "Pieter Bruegel der \xC3\x84ltere"
+subtitle: Komplexe Bilderwelten
+repeat: 1 3 7
+date: 2014/04/20
+teaser: Seine Bilder ziehen die Betrachter schon auf den ersten Blick in ihren Bann, aber dann...
+collection: 40084
+---
+Seine Bilder ziehen die Betrachter schon auf den ersten Blick in ihren Bann. Dann geht es weiter, denn der Zauber steckt beim flämischen Künstler Pieter Bruegel dem Älteren (1525/30–1569) immer im Detail. Jeder noch so kleine Bestandteil seiner komplexen Werke ist von ihm beabsichtigt und es lässt sich fortwährend Neues entdecken: eine kritische Anspielung auf die aktuellen Diskussionen seiner Zeit oder eine launige Randgeschichte.
+In der Ausstellung können sich die Besucher am künstlerischen Erfindungsreichtum des gesamten druckgrafischen Werks nach den Entwürfen des Zeichners erfreuen und sich in das Welttheater des 16. Jahrhunderts entführen lassen.
+
+*"„Pieter Bruegel d. Ä. und das Theater der Welt“(Ausstellung)":http://www.kunstsammlungen-chemnitz.de/index.php?loc=ksc&content=exposition_detail&xid=104&id=953
+13.04. - 06.07.2014, Kunstsammlungen Chemnitz*
