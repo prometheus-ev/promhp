@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Florence Henri: Selbstportr\xC3\xA4t, Ausschnitt, 1938, Fotografie, Genua; EasyDB, Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Florence Henri: Selbstbildnis, Ausschnitt, 1928, Fotografie; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "Florence Henri: Portr\xC3\xA4t, Ausschnitt, 1927, Fotografie, 25 x 18 cm, K\xC3\xB6ln; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Florence Henri: Pariser Fenster, Ausschnitt, 1929, Fotografie, Berlin; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Florence Henri: Komposition, Ausschnitt, \xC3\x96l auf Leinwand, ca. 1925, Paris; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Florence Henri: Fabrik, Ausschnitt, \xC3\x96l auf Leinwand, 1924-25, Paris; DILPS Bilddatenbank UdK, Universit\xC3\xA4t der K\xC3\xBCnste Berlin"
+- "Florence Henri: Nadia, Ausschnitt, Fotografie, 1931, Paris; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Florence Henri: Portr\xC3\xA4t Cora, Ausschnitt, Fotografie, 1929, Essen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+author: Bettina Pfleging
+title: Florence Henri
+subtitle: " Unconventional perspectives"
+repeat: 2 5 6
+date: 2014/04/27
+teaser: Self-portraits with mirrors, arranged portraits and pictorial compositions...
+collection: 40142
+---
+Self-portraits with mirrors, arranged portraits and pictorial compositions as shots from unusual perspectives are typical motives of the American-Swiss photographer Florence Henri (1893-1982). She started out as a painter in the Parisienne art scene and found access to photography during a guest semester at the Bauhaus in Dessau. Through her openness to new trends, she developed her own experimental style in the 20s of the last century. 
+The exhibition at the Pinakothek shows about 65 photographs by Henri as well as historical documents and publications from the Ann and Jürgen Wilde Foundation.
+
+*"„Florence Henri. Compositionen“(Exhibition)":http://www.pinakothek.de/en/kalender/2014-03-21/44400/florence-henri-compositionen
+21 March to 14 September 2014, Pinakothek der Moderne, München*
