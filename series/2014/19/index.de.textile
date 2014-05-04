@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Teppich von Bayeux. Schiffsbau, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Teppich von Bayeux. K\xC3\xBCchenszene, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Teppich von Bayeux. Bau des Lagers von Hastings, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Teppich von Bayeux. Bau des Lagers von Hastings, Streit zwischen Soldaten, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Teppich von Bayeux. \xC3\x9Cberfahrt nach England, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Teppich von Bayeux. Soldaten z\xC3\xBCnden ein Haus an, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Teppich von Bayeux. Wilhelm zieht in die Schlacht, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Teppich von Bayeux. Schlachtszene, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+author: Bettina Pfleging
+title: Teppich von Bayeux
+subtitle: Remix it
+repeat: 1 2 3
+date: 2014/05/04
+teaser: Der fast 70 Meter lange und 52 cm hohe Bildteppich zeigt in 58 Einzelszenen...
+collection: 40200
+---
+Der fast 70 Meter lange und 52 cm hohe Bildteppich zeigt in 58 Einzelszenen die Eroberung Englands durch Wilhelm den Eroberer bis zur Schlacht von Hastings im Jahr 1066. Dieses bedeutende Bilddenkmal des Hochmittelalters präsentiert zahlreiche Einzeldarstellungen im Detail mit einer überlegten Ikonografie von hoher handwerklicher Qualität. 
+Inspiriert hat der Teppich schon unzählbare neue Werke, in denen beispielsweise die Art der Darstellung zur Illustration ganz anderer Geschichten genutzt wurde. Und mit den digitalen Technologien gibt es noch mehr Möglichkeiten, Bestehendes kreativ zu nutzen und Neues zu schaffen. Wie das „Historic Tale Construction Kit“, das die Bestandteile des Teppichs von Bayeux zur Verfügung stellt, mit denen sich eine eigene lineare comic-ähnliche Geschichte erzählen lässt. Remix it!
+
+"*„Bildwirkerey von Bayeux“*(Bildwirkerey von Bayeux)":http://bayeux.datensalat.net/

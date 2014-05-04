@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "The Bayeux Tapestry. Shipbuilding, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "The Bayeux Tapestry. Kitchen scene, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "The Bayeux Tapestry. Construction of the camp of Hastings, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "The Bayeux Tapestry. Construction of the camp of Hastings, dispute between soldiers, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "The Bayeux Tapestry. Crossing to England, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "The Bayeux Tapestry. Soldiers set fire to a house, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "The Bayeux Tapestry. Wilhelm goes into battle, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "The Bayeux Tapestry. Battle scene, 1077, Bayeux; DigiDiathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+author: Bettina Pfleging
+title: The Bayeux Tapestry
+subtitle: Remix it
+repeat: 1 2 3
+date: 2014/05/04
+teaser: The nearly 70 meters long and 52 cm high tapestry shows in 58 individual scenes,...
+collection: 40200
+---
+The nearly 70 meters long and 52 cm high tapestry shows in 58 individual scenes, the conquest of England by William the Conqueror to the Battle of Hastings in 1066. This important monument image of the Middle Ages presents numerous monographs in detail with a deliberate iconography of high quality craftsmanship. 
+The carpet has already inspired countless new works in which, for example, the type of display was used to illustrate an entirely different stories. And with the digital technologies, there are even more ways to use existing works and create something new. As the "Historic Tale Construction Kit" with the components of the Bayeux Tapestry, which you can use to tell your own comic-like linear story. Remix it!
+
+"*„Historic tale construction kit“*(Historic tale construction kit)":http://bayeux.datensalat.net/
