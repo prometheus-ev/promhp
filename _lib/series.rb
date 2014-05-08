@@ -121,12 +121,13 @@ module Jekyll
                 items = ImageSeries.items(self)
                 extra, size = items.dup, items.size
 
-                String(data['repeat']).split(/[,\s]+/)
-                  .map { |i| i.to_i }.uniq[0, size]
-                  .delete_if { |i| i < 1 || i > size }
-                  .each_with_index.sort.reverse_each { |i, j|
-                    items[size + j] = extra.delete_at(i - 1)
-                  }
+                String(data['repeat']).split(/[,\s]+/).map { |i|
+                  i.to_i
+                }.uniq[0, size].delete_if { |i|
+                  i < 1 || i > size
+                }.each_with_index.sort.reverse_each { |i, j|
+                  items[size + j] = extra.delete_at(i - 1)
+                }
 
                 items.concat(extra.shuffle!)
               when 'teaser'
