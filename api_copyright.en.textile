@@ -1,0 +1,5 @@
+--- 
+layout: none
+title: Information about copyrights of images when using prometheus
+---
+<%= include_file 'copyright.en.textile' %>

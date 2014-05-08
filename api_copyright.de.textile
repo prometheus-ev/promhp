@@ -1,7 +1,5 @@
 --- 
-layout: default
+layout: none
 title: Information zum Bildrecht und zur Verwendung der Bilder in prometheus
-legacy_url: http://prometheus-bildarchiv.de/index.php?id=363
-priority: "0.8"
 ---
 <%= include_file 'copyright.de.textile' %>
