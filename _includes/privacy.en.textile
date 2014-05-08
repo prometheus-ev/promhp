@@ -1,0 +1,4 @@
+h2. <%= page_title %>
+
+# Personal information about users is stored, processed and used solely for the purpose of using the service and the handling of payments. Personal information is stock data such as name, address, phone, fax or e-mail, and user data such as username, password and IP address.
+# The personal data will be passed on to third parties only for the purpose of transaction processing, claims management and prosecution of copyright infringement. prometheus guarantees that the data is highly confidential and will only be passed on to a third party to the extent required by law.

@@ -1,0 +1,4 @@
+h2. <%= page_title %>
+
+# Personenbezogene Daten der NutzerInnen werden ausschließlich zum Zwecke der Nutzung der Inhalte und der Zahlungsabwicklung gespeichert, verarbeitet und genutzt. Personenbezogene Daten sind Bestandsdaten, wie beispielsweise Name und Adresse, Telefon, Telefax oder E-Mail, sowie Nutzungsdaten wie Benutzername, Kennwort und IP-Adresse.
+# Die personenbezogenen Daten werden nur zu dem Zweck an Dritte weitergegeben werden, soweit die Transaktionsabwicklung, das Forderungsmanagement und die Verfolgung von Verstößen gegen das Urheberrecht dies erfordern. prometheus gewährleistet hierbei, dass die Daten höchst vertraulich behandelt und nur in einem gesetzlich erforderlichen Umfang an Dritte weitergegeben werden.

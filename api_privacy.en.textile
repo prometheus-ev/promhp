@@ -1,6 +1,5 @@
 ---
 layout: default
 title: Privacy policy
-priority: 0.5
 ---
 <%= include_file 'privacy.en.textile' %>
