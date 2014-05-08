@@ -1,0 +1,5 @@
+--- 
+layout: none
+title: Impressum
+---
+<%= include_file 'imprint.de.textile' %>

@@ -1,0 +1,5 @@
+--- 
+layout: none
+title: Imprint
+---
+<%= include_file 'imprint.en.textile' %>
