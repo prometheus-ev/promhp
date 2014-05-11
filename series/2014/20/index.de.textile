@@ -1,18 +1,18 @@
 --- 
 layout: series
 descriptions: 
-- "Caspar David Friedrich. Mondaufgang am Meer, Ausschnitt, 1822, \xC3\x96l auf Leinwand, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
 - "Nam June Paik. TV Buddha, Ausschnitt, 1970, Installation, Amsterdam; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
-- "Caspar David Friedrich. Der Greifswalder Hafen, Ausschnitt, \xC3\x96l auf Leinwand, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
 - "George Maciunas. Fluxkit (S\xC3\xA9lection repr\xC3\xA9sentative d'objets fluxus de diff\xC3\xA9rents artistes, assembl\xC3\xA9s et commercialis\xC3\xA9s par George Maciunas), 1964, Objekt; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
-- "Philipp Otto Runge. Landschaft an der Peene, Ausschnitt, Zeichnung, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
 - "Nam June Paik. TV-Garden, 1977, Installation, Chicago; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
-- "Philipp Otto Runge. Quelle und Dichter, Ausschnitt, 1805, Zeichnung, Hamburg; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
 - "George Maciunas. Macunias dirigiert Brechts \xE2\x80\x9EDrip Music\xE2\x80\x9C in der Staatlichen Kunstakademie D\xC3\xBCsseldorf, 1963, Aktion; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Caspar David Friedrich. Mondaufgang am Meer, Ausschnitt, 1822, \xC3\x96l auf Leinwand, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Caspar David Friedrich. Der Greifswalder Hafen, Ausschnitt, \xC3\x96l auf Leinwand, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Philipp Otto Runge. Landschaft an der Peene, Ausschnitt, Zeichnung, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Philipp Otto Runge. Quelle und Dichter, Ausschnitt, 1805, Zeichnung, Hamburg; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
 author: Bettina Pfleging
 title: Fluxus und Romantik.
 subtitle: "Wunsch nach Gesellschaftsver\xC3\xA4nderung"
-repeat: 1 4 6
+repeat: 1 2 4
 date: 2014/05/11
 teaser: Die Fluxus-Bewegung der 1960er und 1970er Jahre...
 collection: 40326
