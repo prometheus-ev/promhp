@@ -12,7 +12,7 @@ descriptions:
 author: Bettina Pfleging
 title: Fluxus and Romantics
 subtitle: Desire for social change
-repeat: 1 4 6
+repeat: 1 2 4
 date: 2014/05/11
 teaser: The Fluxus movement of the 1960s and 1970s...
 collection: 40326
