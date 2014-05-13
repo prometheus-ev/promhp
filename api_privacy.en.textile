@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: none
 title: Privacy policy
 ---
 <%= include_file 'privacy.en.textile' %>
