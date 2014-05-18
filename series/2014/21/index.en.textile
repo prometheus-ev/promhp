@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Hans Bellmer. Ohne Titel, Ausschnitt, 1946, Fotografie, Paris; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Andr\xC3\xA9 Kert\xC3\xA9sz. Ein Fahrrad \xE2\x80\x93 Une bicyclette, 1928, Fotografie; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Francois Emile Zola. Sommer: Spazieren mit dem Fahrrad, Ausschnitt, 1899, Fotografie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Francois Emile Zola. Sommer: Spazieren mit dem Fahrrad, Ausschnitt, 1899, Fotografie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Leonetto Cappiello. Le rire: journal humoristique, Detail: Apr\xC3\xA8s le salon des sports, um 1903, Heidelberg; HeidICON - Franz\xC3\xB6sische Karikaturen, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Karl Hubbuch. Hilde mit F\xC3\xB6n, Fahrrad und Breuerstuhl, 1928-1929, Aquarell, Offenbach; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Mario Sironi. Il ciclista, Ausschnitt, 1916, Tafelmalerei; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Jean Metzinger. Auf dem Fahrrad, Ausschnitt, um 1914, 130,5 x 79,2 cm, Venedig; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+author: Bettina Pfleging
+title: The Bicycle
+subtitle: Modern Locomotion
+repeat: 3 4 5
+date: 2014/05/18
+teaser: The oldest steerable bicycle is developed by Karl Drais...
+collection: 40413
+---
+The oldest steerable bicycle is developed by Karl Drais in 1817. He presented a walking machine, which quickly fell into oblivion. The development of walking machines with pedal drive went further in the second half of the 19th century. In the early 1900s came the gear shift and today, the bicycle is an indispensable part of our everyday life and leisure time.
+The exhibition shows 100 bicycles from 200 years and many areas, such as art, sports, military, and transport infrastructure, where the bike plays a more or less important role. Visitors can experience these areas in many places in the museum interactive.
+
+"*„Das Fahrrad. Kultur, Technik, Mobilität“*(exhibition)":http://www.museum-der-arbeit.de/de/sonderausstellungen/das-fahrrad.htm#.U3kqfihCONN
+9. Mai bis 1. März 2015, Museum der Arbeit, Hamburg

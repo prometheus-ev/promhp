@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Hans Bellmer. Ohne Titel, Ausschnitt, 1946, Fotografie, Paris; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Andr\xC3\xA9 Kert\xC3\xA9sz. Ein Fahrrad \xE2\x80\x93 Une bicyclette, 1928, Fotografie; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Francois Emile Zola. Sommer: Spazieren mit dem Fahrrad, Ausschnitt, 1899, Fotografie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Marcel Duchamp. Fahrrad-Rad, 1913, Objekt, Paris; Bild & Kunst Eichst\xC3\xA4tt, Katholische Universit\xC3\xA4t Eichst\xC3\xA4tt-Ingolstadt, Lehrstuhl f\xC3\xBCr Kunstgeschichte"
+- "Leonetto Cappiello. Le rire: journal humoristique, Detail: Apr\xC3\xA8s le salon des sports, um 1903, Heidelberg; HeidICON - Franz\xC3\xB6sische Karikaturen, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Karl Hubbuch. Hilde mit F\xC3\xB6n, Fahrrad und Breuerstuhl, 1928-1929, Aquarell, Offenbach; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Mario Sironi. Il ciclista, Ausschnitt, 1916, Tafelmalerei; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Jean Metzinger. Auf dem Fahrrad, Ausschnitt, um 1914, 130,5 x 79,2 cm, Venedig; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+author: Bettina Pfleging
+title: Das Fahrrad
+subtitle: Moderne Fortbewegung
+repeat: 3 4 5
+date: 2014/05/18
+teaser: "Als das \xC3\xA4lteste lenkbare Fahrrad gilt die von Karl Drais..."
+collection: 40413
+---
+Als das älteste lenkbare Fahrrad gilt die von Karl Drais 1817 vorgestellte Laufmaschine, die aber schnell wieder in Vergessenheit geriet. Weiter ging die Entwicklung von Laufmaschinen mit Pedalantrieb dann in der zweiten Hälfte des 19. Jahrhunderts bis schließlich Anfang 1900 die Gangschaltung dazu kam. Heute ist es aus unserem Alltag und unserer Freizeit nicht mehr wegzudenken.
+Die Ausstellung zeigt 100 Fahrräder aus 200 Jahren und viele Bereiche, wie Kunst, Sport, Militär und Verkehrsinfrastruktur, in denen das Fahrrad eine mehr oder weniger wichtige Rolle spielt. Diese Bereiche lassen sich dabei an vielen Stellen im Museum interaktiv erleben.
+
+"*„Das Fahrrad. Kultur, Technik, Mobilität“*(Ausstellung)":http://www.museum-der-arbeit.de/de/sonderausstellungen/das-fahrrad.htm#.U3kqfihCONN
+9. Mai 2014 bis 1. März 2015, Museum der Arbeit, Hamburg
