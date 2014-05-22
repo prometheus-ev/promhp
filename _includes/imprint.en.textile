@@ -1,6 +1,5 @@
 h2. <%= page_title %>
 
-*Under the jurisdiction of the media law and § 6 of the MDStV*
 prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
 Kunsthistorisches Institut der Universität zu Köln
 Albertus-Magnus-Platz
