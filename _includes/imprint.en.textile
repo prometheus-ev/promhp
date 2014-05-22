@@ -1,23 +1,12 @@
 h2. <%= page_title %>
 
 *Under the jurisdiction of the media law and § 6 of the MDStV*
-prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V.
-District court Cologne: VR 14202
-"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
-
-h3. Chairman
-
-Prof. Dr. Holger Simon
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre
 Kunsthistorisches Institut der Universität zu Köln
 Albertus-Magnus-Platz
 D - 50923 Köln
 Phone: ++49 (0) 221 470 4476
-
-h3. Responsible for contents
-
-The executive board of prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V.
-D - 50923 Köln
-Phone: ++49 (0) 221 470 4476
+"info@prometheus-bildarchiv.de":mailto:info@prometheus-bildarchiv.de
 
 h3. Translation
 
@@ -29,12 +18,12 @@ Ingo Feisthamel, "Hello Earth":http://helloearth.de
 
 h3. Liability
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V. publishes information and contributions on this web site to the best of its knowledge and after careful review of the contents. Due to continuous updates of the website, the topicality, correctness and completeness of the information and the references published on the web site cannot be assumed.  Any liability for damages which arise through the use of offers on the web site is excluded.
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre publishes information and contributions on this web site to the best of its knowledge and after careful review of the contents. Due to continuous updates of the website, the topicality, correctness and completeness of the information and the references published on the web site cannot be assumed.  Any liability for damages which arise through the use of offers on the web site is excluded.
 
-prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V. does not have any influence on external links that provide information, and express the contents and the opinion of the respective contributors,  for which we do not accept any liability. Responsibility for the contents of these linked pages lies solely with their operators.
+prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre does not have any influence on external links that provide information, and express the contents and the opinion of the respective contributors,  for which we do not accept any liability. Responsibility for the contents of these linked pages lies solely with their operators.
 
 Please submit an e-mail detailing any errors in contents or facts to enable us to make the necessary corrections. Regarding contents-related errors within the image archive, please contact the applicable database administrators directly.
 
 The entire contents of this web site are proprietary. Unauthorized use, reproduction or transmission of  singular contents, in particular the logos, can be prosecuted according to civil as well as criminal law.
 
-A link to the home page of »prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre e.V.« "www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de may be placed.
+A link to the home page of »prometheus - Das verteilte digitale Bildarchiv für Forschung & Lehre« "www.prometheus-bildarchiv.de":http://www.prometheus-bildarchiv.de may be placed.
