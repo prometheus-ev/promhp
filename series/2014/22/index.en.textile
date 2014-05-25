@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Kazimir Malevich. Die Blumenverk\xC3\xA4uferin, 1903, 80 x 100 cm, \xC3\x96l auf Leinwand, St. Petersburg; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Kazimir Malevich. Auf dem Boulevard, 1903, 55 x 66 cm, St. Petersburg; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
+- "Kazimir Malevich. Huit rectangles. Suprematist Painting. Eight Red Rectangles. Huile sur toile, 1915, 57,5 x 48,5 cm, Amsterdam; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Kazimir Malevich. Sensations m\xC3\xA9lang\xC3\xA9es. Huile sur toile, 1916, 74 x 76 cm, Ekaterinbourg; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Kazimir Malevich. Frau in einer Stra\xC3\x9Fenbahn / Frau an der Stra\xC3\x9Fenbahnhaltestelle, 1913, 88 x 88 cm, Amsterdam; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Kazimir Malevich. Dielenbohnerer, 1911/12, 77,7 x 71 cm, Amsterdam; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Kazimir Malevich. Drei weibliche Figuren, Ausschnitt, 1925/1929, 47 x 63.5 cm, \xC3\x96l auf Leinwand, St. Petersburg; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Kazimir Malevich. Sportler, Ausschnitt, 1928-1930, 142 x 164 cm, \xC3\x96l auf Leinwand, St. Petersburg; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+author: Bettina Pfleging
+title: Kazimir Malevich
+subtitle: more than purely irrelevant
+repeat: 1 4 8
+date: 2014/05/25
+teaser: Kazimir Malevich is best known for his purely non-objective art...
+collection: 40475
+---
+Kazimir Malevich is best known for his purely non-objective art, his Suprematism. In his artistic oeuvre of the early 20th century it is clear that he was standing in the various creative phases under the influence of art movements of the time, such as Impressionism, Symbolism, Fauvism and Cubism. Add to this his lively confrontation with the traditional Old Russian icon painting and traditional folk art. 
+In the exhibition there are more than 300 works from the fields of painting, graphic art and sculpture. It presents the whole scope of the work of this Russian artist, by the symbolist beginnings of the early abstract imagery to the figurative representations of the later years.
+
+*"„Kazimir Malevich and the Russian Avantgarde“(exhibition)":http://www.bundeskunsthalle.de/en/exhibitions/kasimir-malevich.html*
+8 March to 22 June 2014, Kunst- und Ausstellungshalle der Bundesrepublik Deutschland, Bonn
