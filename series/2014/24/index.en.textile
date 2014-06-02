@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Karl Bennert. Goethe in der Campagna di Roma (Kopie nach dem Gem\xC3\xA4lde im Endzustand), Ausschnitt, um 1850, \xC3\x96l auf Leinwand, Rom; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Kopie nach Anton Graff. Esther Charlotte Brandes als Ariadne auf Naxos, Ausschnitt, K\xC3\xB6ln; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Johann David Passavant (Kopie nach Raffael). Der Traum des Ritters, Ausschnitt, 1831, 17,1 x 17,5 cm, Frankfurt a. M.; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Peter Paul Rubens (Kopie nach Tizian). Raub der Europa, Ausschnitt, 1628-1629, Madrid; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Peter Paul Rubens (Kopie nach Tizian). Huldigung der Venus, Ausschnitt, Stockholm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Kopie nach Willem Kalf. Bodeg\xC3\xB3n con botella de peregrino, fuente y jarras doradas, Ausschnitt, 1643/1797, 114,5 x 85,5 cm, K\xC3\xB6ln; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Kopie nach Rosso Fiorentino. Venus und Bacchus, Ausschnitt, um 1532, 209 x 161,5 cm, \xC3\x96l auf Leinwand, Luxembourg; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Wilhelm Ahlborn (Kopie nach Karl Friedrich Schinkel). Kathedrale im Morgenlicht, Ausschnitt, 1823, 80 x 106,5 cm, \xC3\x96l auf Leinwand, Berlin; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+author: Bettina Pfleging
+title: Copies and Art
+subtitle: "Authentic Pictures "
+repeat: 1 2 7
+date: 2014/06/02
+teaser: In the recent years the exact size replica of an art object, the copy,...
+collection: 40483
+---
+In the recent years the exact size replica of an art object, the copy, experiences increased interest in art historical research. Often, the focus is on factors, which by definition does not include the copy as the change of the original in a form of remixes, of innovative own performances. 
+At the meeting in Hannover the original definition of a copy is in focus and discussed from different perspectives in order to develop new ideas for the future presentation and research.
+
+International Conference "*„Creating Nothing New. Perspectives on the Faithful Copy 1300-1900“*(conference)":http://www.lisa.gerda-henkel-stiftung.de/binaries/navigation/5001/file_programm_nichts_neues_schaffen.pdf?t=1401261158
+26 to 28 June 2014, Schloss Herrenhausen, Hannover
