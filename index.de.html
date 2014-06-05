@@ -5,7 +5,6 @@ priority: "1.0"
 changefreq: daily
 ---
 <!--NOPANDORA#include virtual="<%=r "inc/nopandora.html.#{page.lang}" %>" -->
-<!-- dummy -->
 <form action="<%=p 'search' %>" class="search_form search_query" id="query_form" method="get">
   <table>
     <tr>
@@ -52,7 +51,7 @@ changefreq: daily
   </div>
 
   <div id="sticker">
-    <img src="<%=r "files/icons/sticker_1week.#{page.lang}.png" %>" alt="<%= title %>" />
+    <img src="<%=r "files/icons/sticker_1week.#{page.lang}.png" %>" alt="<%= title = t('One week free trial!', 'Eine Woche kostenlos testen!') %>" />
   </div>
 </div>
 
