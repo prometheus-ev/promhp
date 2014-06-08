@@ -1,24 +1,28 @@
 --- 
 layout: series
 descriptions: 
-- "Karl Bennert. Goethe in der Campagna di Roma (Kopie nach dem Gem\xC3\xA4lde im Endzustand), Ausschnitt, um 1850, \xC3\x96l auf Leinwand, Rom; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
-- "Kopie nach Anton Graff. Esther Charlotte Brandes als Ariadne auf Naxos, Ausschnitt, K\xC3\xB6ln; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
-- "Johann David Passavant (Kopie nach Raffael). Der Traum des Ritters, Ausschnitt, 1831, 17,1 x 17,5 cm, Frankfurt a. M.; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
-- "Peter Paul Rubens (Kopie nach Tizian). Raub der Europa, Ausschnitt, 1628-1629, Madrid; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
-- "Peter Paul Rubens (Kopie nach Tizian). Huldigung der Venus, Ausschnitt, Stockholm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
-- "Kopie nach Willem Kalf. Bodeg\xC3\xB3n con botella de peregrino, fuente y jarras doradas, Ausschnitt, 1643/1797, 114,5 x 85,5 cm, K\xC3\xB6ln; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
-- "Kopie nach Rosso Fiorentino. Venus und Bacchus, Ausschnitt, um 1532, 209 x 161,5 cm, \xC3\x96l auf Leinwand, Luxembourg; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
-- "Wilhelm Ahlborn (Kopie nach Karl Friedrich Schinkel). Kathedrale im Morgenlicht, Ausschnitt, 1823, 80 x 106,5 cm, \xC3\x96l auf Leinwand, Berlin; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Roman Anton Boos. Kaiser Ludwig der Bayer, Ausschnitt, 1765-1766, Skulptur, F\xC3\xBCrstenfeldbruck; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Karl Hermann. K\xC3\xB6nig Ludwig der Bayer begr\xC3\xBC\xC3\x9Ft seinen gefangenen Gegenk\xC3\xB6nig Friedrich den Sch\xC3\xB6nen nach der Schlacht von Ampfing, Ausschnitt, 1827-1829, Wandmalerei, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Wilhelm Lindenschmit d.\xC3\x84. R\xC3\xA9conciliation du roi Louis IV de Bavi\xC3\xA8re (Ludwig der Bayer) et de Fr\xC3\xA9d\xC3\xA9ric (Duc d'Autriche, Friedrich der Sch\xC3\xB6ne), Extrait du tableau: \"Histoire des \"Schyren\" (Wittelsbacher), 1833 \xE2\x80\x93 1837, Hohenschwangau; Iconoth\xC3\xA8que, Universit\xC3\xA9 de Gen\xC3\xA8ve"
+- "Vedute von Rom auf der \"bolla d'oro\" f\xC3\xBCr Ludwig den Bayern (1282-1347), Medaille, 1320-1328, M\xC3\xBCnchen; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Regensburger Dom, Schnitt nach Osten durch das 2. Joch von Osten des Hauptchores, Bauplan, 1273-1487, Regensburg; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Hans Krumpper. Grabmal Kaiser Ludwigs des Bayern, Ausschnitt, 1618-1622, Skulptur, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Hans Krumpper. Grabmal Kaiser Ludwigs des Bayern, Engelspaar mit dem Wappenschild Herzog Wilhemls IV. an der Nordwestecke des Kenotaphs, Ausschnitt, 1618-1622, Plastik, M\xC3\xBCnchen; Architektur und Bildk\xC3\xBCnste in Bayern. Eine Materialsammlung zur Bayerischen Kunstgeschichte, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Hubert Gerhard, Carlo Pallago. Grabmal Kaiser Ludwigs des Bayern, Grabw\xC3\xA4chter an der Nordwestecke des Kenotaphs, Ausschnitt, 1597, Plastik, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
 author: Bettina Pfleging
-title: Kopien in der Kunst
-subtitle: Originalgetreue Abbildungen
-repeat: 1 2 7
-date: 2014/06/02
-teaser: Die genaue originalgetreue Nachbildung eines Kunstgegenstands, die Kopie,...
-collection: 40483
+title: Ludwig der Bayer
+subtitle: "700j\xC3\xA4hriges Kr\xC3\xB6nungsjubil\xC3\xA4um"
+repeat: 3 5 7
+date: 2014/06/08
+teaser: "Zwischen 1300 und 1350 wurde Bayern mit Ludwig, dem bayerischen Herzog, deutschen K\xC3\xB6nig und..."
+collection: 40470
 ---
-Die genaue originalgetreue Nachbildung eines Kunstgegenstands, die Kopie, erfährt in den letzten Jahren verstärktes Interesse in der kunsthistorischen Forschung. Oft liegt dabei der Fokus auf Faktoren, die die Kopie definitionsgemäß nicht beinhaltet, wie die Veränderung des Originals in Form von neuen Mischungen, von innovativen Eigenleistungen.
-Bei der Tagung in Hannover soll aber vor allem die ursprüngliche Definition einer Kopie im Fokus stehen und aus verschiedenen Perspektiven diskutiert werden, um schließlich für die zukünftige Darstellung und Forschung neue Ideen zu entwickeln.
+Zwischen 1300 und 1350 wurde Bayern mit Ludwig, dem bayerischen Herzog, deutschen König und römischen Kaiser zum Mittelpunkt in Europa. In diesem Jahr wird sein siebenhundertjähriges Krönungsjubiläum gefeiert.
+Die Ausstellung mit Originalobjekten und Rekonstruktionen in Regensburg findet an drei verschiedenen Orten statt, in der Minoritenkirche des Historischen Museums, im Diözesanmuseum St. Ulrich und dem Domkreuzgang. Mit der App zur Landesausstellung geht es auf den Spuren des Kaisers durch die Stadt und ganz Bayern. 
 
-Internationale Tagung *"„Nichts Neues Schaffen. Perspektiven auf die treue Kopie, 1300-1900“(Internationale Tagung)":http://www.lisa.gerda-henkel-stiftung.de/binaries/navigation/5001/file_programm_nichts_neues_schaffen.pdf?t=1401261158*
-26. - 28. Juni 2014, Schloss Herrenhausen, Hannover
+"*“Ludwig der Bayer. Wir sind Kaiser!”* (Landesausstellung)":http://www.hdbg.de/ludwig-der-bayer/
+16. Mai bis 2. November 2014, Bayerische Landesausstellung in Regensburg
+
+Eine weitere App, von Studierenden des Historischen Seminars der LMU München erarbeitet, ermöglicht die Spurensuche in München.
+
+"*„Kaiser Ludwig in München“*(WebApp)":http://www.kaiser-ludwig-in-muenchen.de/ (Web App)
