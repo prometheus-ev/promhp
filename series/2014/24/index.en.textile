@@ -11,7 +11,7 @@ descriptions:
 - "Hubert Gerhard, Carlo Pallago. Grabmal Kaiser Ludwigs des Bayern, Grabw\xC3\xA4chter an der Nordwestecke des Kenotaphs, Ausschnitt, 1597, Plastik, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
 author: Bettina Pfleging
 title: "Louis the Bavarian "
-subtitle: 700th Anniversary of Coronation
+subtitle: Seven Hundred Years' Anniversary of Coronation
 repeat: 3 5 7
 date: 2014/06/08
 teaser: Between 1300 and 1350 Bavaria became the center in Europe...
