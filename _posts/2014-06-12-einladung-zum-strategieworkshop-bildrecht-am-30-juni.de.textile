@@ -2,7 +2,7 @@
 layout: post
 author: Lisa
 title: Einladung zum Strategieworkshop "Bildrecht" am 30. Juni
-tags: 
+tags: news
 ---
 Wir möchten Sie herzlich einladen
 
