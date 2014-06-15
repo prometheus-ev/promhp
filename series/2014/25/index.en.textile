@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Enzo Benedetto. Calciatori (Fu\xC3\x9Fballspieler), Ausschnitt, 1936, \xC3\x96l auf Leinwand; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "George Hunt. Fu\xC3\x9Fballspiel 1827, Ausschnitt, 1820-1840, Zeichnung, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Stradanus. Fu\xC3\x9Fballspiel auf dem Platz Santa Maria Novella in Florenz, Fotografie; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte"
+- "Felix Nussbaum. Stilleben mit Maske, Handschuh und Fu\xC3\x9Fball, Ausschnitt, Jerusalem Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Pablo Picasso. Fu\xC3\x9Fballspieler, Ausschnitt, Skulptur, 1961, Paris;  DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Martin Munkacsi. Der Torwart faustet geistesgegenw\xC3\xA4rtig den Ball vom Tore fort, Ausschnitt, 1920, Fotografie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Daniel Spoerri. Prothese mit Fu\xC3\x9Fball, Ausschnitt, 1970, Basel; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Roy Lichtenstein. Untitled Shirt, Philadelphia; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+title: Under the spell of football
+author: Bettina Pfleging
+subtitle: World Cup 2014
+repeat: 1 4 8
+date: 2014/06/15
+teaser: The Football World Cup in Brazil has started...
+collection: 40123
+---
+The football World Cup in Brazil has started. The first of a total of 64 games have been played. Some of the results have already been surprisingly and probably there will be more in the next few weeks. 
+The game moves millions of people and it is already subject of the exhibition "Goal, Goal, Gooaal!” in Karlsruhe. Works by various artists present the various aspects of the sports phenomenon.
+
+"*“Goal, Goal, Gooaal! The Game of Games in Art“*(exhibition)":http://www.kunsthalle-karlsruhe.de/en/exhibitions/goal-goal-gooaal.html
+23 March – 5 October 2014, Staatliche Kunsthalle Karlsruhe

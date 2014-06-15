@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Enzo Benedetto. Calciatori (Fu\xC3\x9Fballspieler), Ausschnitt, 1936, \xC3\x96l auf Leinwand; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "George Hunt. Fu\xC3\x9Fballspiel 1827, Ausschnitt, 1820-1840, Zeichnung, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Stradanus. Fu\xC3\x9Fballspiel auf dem Platz Santa Maria Novella in Florenz, Fotografie; DiDi - Digitale Diathek, Technische Universit\xC3\xA4t Berlin, Institut f\xC3\xBCr Kunstgeschichte"
+- "Felix Nussbaum. Stilleben mit Maske, Handschuh und Fu\xC3\x9Fball, Ausschnitt, Jerusalem Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Pablo Picasso. Fu\xC3\x9Fballspieler, Ausschnitt, Skulptur, 1961, Paris;  DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Martin Munkacsi. Der Torwart faustet geistesgegenw\xC3\xA4rtig den Ball vom Tore fort, Ausschnitt, 1920, Fotografie; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Daniel Spoerri. Prothese mit Fu\xC3\x9Fball, Ausschnitt, 1970, Basel; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Roy Lichtenstein. Untitled Shirt, Philadelphia; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+title: "Im Zeichen des Fu\xC3\x9Fballs"
+author: Bettina Pfleging
+subtitle: WM 2014
+repeat: 1 4 8
+date: 2014/06/15
+teaser: "Sie hat begonnen, die Fu\xC3\x9Fball-Weltmeisterschaft in Brasilien..."
+collection: 40123
+---
+Sie hat begonnen, die Fußball-Weltmeisterschaft in Brasilien und die ersten der insgesamt 64 Spiele sind absolviert. Einige der Ergebnisse haben bisher schon überrascht und wahrscheinlich werden noch weitere folgen.
+Das Spiel, das Millionen von Menschen bewegt, ist seit Ende März schon Thema der Ausstellung „Tor, Tor, Toor!“ in Karlsruhe. Werke verschiedener Künstlerinnen und Künstler stellen hier die vielfältigen Aspekte des Sportphänomens in den Mittelpunkt ihrer Arbeiten. 
+
+"*„Tor, Tor, Toor! Das Spiel der Spiele in der Kunst“*(Ausstellung)":http://www.kunsthalle-karlsruhe.de/de/ausstellungen/tortortoordas-spiel-der-spiele-in-der-kunst.html
+23. März bis 5. Oktober 2014, Staatliche Kunsthalle Karlruhe
