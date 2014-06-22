@@ -1,0 +1,26 @@
+--- 
+layout: series
+descriptions: 
+- "Corvey bei H\xC3\xB6xter, Grundriss der \"Klosterstadt\" mit Abteikirche im Zentrum, Ausschnitt; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "F\xC3\xBCrstliche Bibliothek in der Schlossanlage Corvey, Ausschnitt, Corvey; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
+- "Klosterkirche Corvey, Blick in das Obergeschossquadrum nach Nordwesten, Ausschnitt, Corvey; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Klosterkirche, Westwerk, Johanneschor, Ausschnitt, Corvey; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Wandmalerei mit Odysseus und Skylla, Ausschnitt, vor 885, Corvey;  Bild & Kunst Eichst\xC3\xA4tt, Katholische Universit\xC3\xA4t Eichst\xC3\xA4tt-Ingolstadt, Lehrstuhl f\xC3\xBCr Kunstgeschichte"
+- "Westfl\xC3\xBCgel des barocken Klosterbaus Corvey und die Kirchenfassade von Nordwesten, Ausschnitt, Corvey; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
+- "Klosterkirche, Westwerk, Fassade, Ausschnitt, Corvey; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Klosterkirche, Westwerk, Ausschnitt, Corvey; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+title: Das Karolingische Westwerk und die Civitas Corvey.
+author: Bettina Pfleging
+subtitle: Declaration as a World Heritage Site
+repeat: 3 4 5
+date: 2014/06/22
+teaser: 
+collection: 40692
+---
+Since Saturday, Germany has the 39th World Heritage Site. After a few years of application, the former abbey of Corvey in the Westphalian Hoexter is now recognized by the Commission of Unesco as a cultural and natural heritage. 
+The Benedictine abbey, dating from the 9th century, belonged in the Middle Ages with its school and library to the spiritual and religious center of the Frankish Empire. The Carolingian West plant, built 873-885, is a brick building, oriented to the west, with two facade towers and one central tower. 
+
+Congratulations!
+
+"*Corvey is on the list of World Heritage sites*()":http://www.schloss-corvey.de/en/whs-application/
+since June 21, 2014

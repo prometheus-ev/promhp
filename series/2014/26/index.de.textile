@@ -1,0 +1,26 @@
+--- 
+layout: series
+descriptions: 
+- "Corvey bei H\xC3\xB6xter, Grundriss der \"Klosterstadt\" mit Abteikirche im Zentrum, Ausschnitt; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "F\xC3\xBCrstliche Bibliothek in der Schlossanlage Corvey, Ausschnitt, Corvey; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
+- "Klosterkirche Corvey, Blick in das Obergeschossquadrum nach Nordwesten, Ausschnitt, Corvey; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Klosterkirche, Westwerk, Johanneschor, Ausschnitt, Corvey; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Wandmalerei mit Odysseus und Skylla, Ausschnitt, vor 885, Corvey;  Bild & Kunst Eichst\xC3\xA4tt, Katholische Universit\xC3\xA4t Eichst\xC3\xA4tt-Ingolstadt, Lehrstuhl f\xC3\xBCr Kunstgeschichte"
+- "Westfl\xC3\xBCgel des barocken Klosterbaus Corvey und die Kirchenfassade von Nordwesten, Ausschnitt, Corvey; Bildarchiv des UNESCO Kompetenzzentrums, Unesco Kompetenzzentrum an der Universit\xC3\xA4t Paderborn, Universit\xC3\xA4t Paderborn"
+- "Klosterkirche, Westwerk, Fassade, Ausschnitt, Corvey; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+- "Klosterkirche, Westwerk, Ausschnitt, Corvey; RUDI, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg, Lehrstuhl f\xC3\xBCr Christliche Arch\xC3\xA4ologie und Kunstgeschichte, Friedrich-Alexander-Universit\xC3\xA4t Erlangen-N\xC3\xBCrnberg"
+title: Das Karolingische Westwerk und die Civitas Corvey.
+author: Bettina Pfleging
+subtitle: Ernennung zum Weltkulturerbe
+repeat: 3 4 5
+date: 2014/06/22
+teaser: Seit Samstag besitzt Deutschland das 39. Weltkulturerbe...
+collection: 40692
+---
+Seit Samstag besitzt Deutschland das 39. Weltkulturerbe. Nach einigen Jahren der Antragstellung ist die ehemalige Abtei Corvey im westfälischen Höxter jetzt durch die Kommission der Unesco als Kultur- und Naturerbe anerkannt.
+Die Benediktinerabtei aus dem 9. Jahrhundert gehörte im Mittelalter mit seiner Schule und Bibliothek zum geistigen und religiösen Zentrum des Frankenreichs. Das karolingische Westwerk, zwischen 873 und 885 gebaut, ist ein nach Westen ausgerichtetes Backsteingebäude mit zwei Fassadentürmen und einem zentralen mittleren Turm.
+
+Herzlichen Glückwunsch!
+
+"*Corvey - UNESCO Weltkulturerbe*":http://www.schloss-corvey.de/de/weltkulturerbe/
+seit dem 21. Juni 2014
