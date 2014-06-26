@@ -3,6 +3,8 @@ layout: post
 title: "Die Entdeckung \xE2\x80\x93 und Bek\xC3\xA4mpfung \xE2\x80\x93 der Langsamkeit"
 author: Arne
 tags: 
+- news
+- performance
 ---
 Mal zwölf Sekunden auf die Suchergebnisse warten oder vielleicht auch knappe zwanzig auf eine größere Liste von Bildsammlungen?  
 So was möchte wahrscheinlich niemand gerne, war allerdings leider in der Vergangenheit nicht so selten bei uns.  
