@@ -1,0 +1,25 @@
+--- 
+layout: series
+descriptions: 
+- "Marianne Werefkin. Selbstbildnis, Ausschnitt, 1910, M\xC3\xBCnchen; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Marianne Werefkin. Der Schnitter, Ausschnitt, 1910; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Marianne Werefkin. Die Landstra\xC3\x9Fe, Ausschnitt, 1907, Ascona; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Marianne Werefkin. Die Steilk\xC3\xBCste von Ahrenshoop, Ausschnitt, 1911, Ascona; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Marianne Werefkin. Fr\xC3\xBChlingssonntag, Ausschnitt, 1907, Ascona; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Marianne Werefkin. Sonntagnachmittag, Ausschnitt, 1908, Ascona; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Marianne Werefkin. Pierrot, Ausschnitt, 1902-1907; Corvey; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+- "Marianne Werefkin. Two Monsters Fighting, Ausschnitt, 1902-1907; Mediathek, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf, Institut f\xC3\xBCr Kunstgeschichte, Heinrich-Heine-Universit\xC3\xA4t D\xC3\xBCsseldorf"
+title: Marianne Werefkin
+author: Bettina Pfleging
+subtitle: Russian Rembrandt
+repeat: 3 5 7
+date: 2014/06/29
+teaser: Tremendous color representations of landscapes and social scenes...
+collection: 40476
+---
+Tremendous color representations of landscapes and social scenes make the expressionist work of Russian painter Marianne Werefkin. She describes nature in all its grandeur and shows the working population as laundresses or fishing as well as scenes from the leisure activity of the time. It always comes back to new exciting compositions. 
+The exhibition features loans from the Fondazione Marianne Werefkin in Ascona, from European museum collections as well as from private collections.
+
+*„Marianne Werefkin. Vom Blauen Reiter zum Großen Bären“*
+"12 April to 6 July 2014, Städtische Galerie Bietigheim-Bissingen(Bietigheim-Bissingen)":http://galerie.bietigheim-bissingen.de/nc/deutsch/ausstellungen/aktuell/aktuell-event/?tx_cal_controller[view]=event&tx_cal_controller[type]=tx_cal_phpicalendar&tx_cal_controller[uid]=1933&tx_cal_controller[lastview]=view-list|page_id-1081&tx_cal_controller[year]=2014&tx_cal_controller[month]=04&tx_cal_controller[day]=12&cHash=87f0b5a00926f2183728186ddc7184de
+"20 July to 5 October 2014, Paula Modersohn-Becker Museum, Bremen(Bremen)":http://www.bremen-tourismus.de/marianne-werefkin-vom-blauen-reiter-zum-grossen-baeren
