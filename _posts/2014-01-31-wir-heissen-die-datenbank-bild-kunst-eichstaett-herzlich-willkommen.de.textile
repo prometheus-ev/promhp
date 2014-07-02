@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Wir hei\xC3\x9Fen die Datenbank \"Bild & Kunst Eichst\xC3\xA4tt\" herzlich willkommen!"
+author: Denise
+tags: 
+- news
+- databases
+---
+Mit der Datenbank "Bild & Kunst Eichstätt":<%=p 'source/show/eichstätt_ub' %> des Zentrums für Bildmedien am Lehrstuhl für Kunstgeschichte der KU Eichstätt-Ingolstadt ist die 78. Datenbank über prometheus zugänglich gemacht und damit in rund 13.000 neuen Datensätzen recherchierbar.
+
+Der Aufbau der Datenbank erfolgt seit 2007 am Lehrstuhl für Kunstgeschichte und wird stetig erweitert. Die inhaltlichen Schwerpunkte reichen hierbei von Barock, Moderne und Postmoderne bis hin zu Kunst- und Kulturgeschichte in Eichstätt und Bayern. 
+
+Wir wünschen natürlich viel Spaß bei der Recherche!

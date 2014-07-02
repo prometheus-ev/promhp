@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Sammlung \"Bildende Kunst aus Afrika\xE2\x80\x9C integriert"
+author: Denise
+tags: 
+- news
+- databases
+---
+Wir begrüßen die Sammlung "Bildende Kunst aus Afrika":<%=p 'source/show/oldenburg_afrika' %>, die prometheus mit Dokumentationen afrikanischer Kunst seit dem zweiten Weltkrieg bis Anfang der 1990er Jahre bereichert.
+
+Besonders interessant sind hierbei auch die Plakatentwürfe für die Spiele der 20. Olympiade 1972 in München. Von den 337 eingereichten Entwürfen der insgesamt 237 partizipierenden afrikanischen KünstlerInnen sind nun 224 erfasst und somit für die Forschung nutzbar gemacht.
+
+Wir wünschen viel Spaß beim Stöbern!

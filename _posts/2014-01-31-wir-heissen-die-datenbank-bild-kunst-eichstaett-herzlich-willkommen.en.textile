@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Wir hei\xC3\x9Fen die Datenbank \"Bild & Kunst Eichst\xC3\xA4tt\" herzlich willkommen!"
+author: Denise
+tags: 
+- news
+- databases
+---
