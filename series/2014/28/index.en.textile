@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Aelbert Cuyp. Ansicht von Njmegen, Ausschnitt, 1652/1654, \xC3\x96l auf Leinwand, 48,9 x 73,7 cm, Indianapolis; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Jan van Goyen. Ansicht von  Arnheim, Ausschnitt, 1646, \xC3\x96l auf Leinwand, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Salomon van Ruysdael. Ansicht von Rhenen bei Sonnenuntergang, Ausschnitt, 1660, \xC3\x96l auf Leinwand; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "Joris van der Haagen. Ansicht des Swanenturm in Kleve, Ausschnitt, 1660, \xC3\x96l auf Leinwand, 90 x 112 cm, Boston; Bild & Kunst Eichst\xC3\xA4tt, Katholische Universit\xC3\xA4t Eichst\xC3\xA4tt-Ingolstadt, Lehrstuhl f\xC3\xBCr Kunstgeschichte"
+- "Walter Ophey. Rheinlandschaft in Nebel mit Sonne, Ausschnitt, 1909, \xC3\x96l auf Leinwand, D\xC3\xBCsseldorf; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Heinrich Nauen. Garben auf dem Feld, Ausschnitt, Aquarell, 1911; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Gerhard Richter. Landschaft bei Hubbelrath, Ausschnitt, 1969, \xC3\x96l auf Leinwand, 100 x 140 cm, Aachen; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "Andreas Gursky. Rhein, Ausschnitt, 1996, Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+title: "Flat Landscapes "
+author: Bettina Pfleging
+subtitle: Distant Looks
+repeat: 1 2 3
+date: 2014/07/06
+teaser: Since the 17th century Dutch landscape paintings...
+collection: 40675
+---
+Since the 17th century Dutch landscape paintings can be characterized by wide sky and flat horizons. To this day, the artists were fascinated by the Lower Rhine region. 
+Some 120 paintings, drawings, prints and photographs by 62 artists show the characteristics of this landscape in an exhibition. So you make a journey through time in the museum from the 17th century until today. This journey can be continued outside the museum, with app and bike.
+
+"*"The sky so wide. Landscapes along the Rhine between Düsseldorf and Rhenen"*(exhibition)":http://www.moyland.de/en/exhibitions/the-sky-so-wide.html
+18 May to 24 August 2014, Museum Schloss Moyland
