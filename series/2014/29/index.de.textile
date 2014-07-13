@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- Hoedje, Hat, Ausschnitt, 1860-1880, 15 x 24 x 34,5 cm, Amsterdam; Amsterdam Museum, Stadtmuseum Amsterdam
+- "Albouy, Bruy\xC3\xA8re. Turbane, Ausschnitt, 1943/1945, Kyoto; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Marthe Schiel. H\xC3\xBCte, Ausschnitt, 1930/1939, Kyoto; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Erwin Blumenfeld. Zweispitz-H\xC3\xBCte von Schiaparelli, Ausschnitt, 1938, Fotografie; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Daniel Schlier. Maternit\xC3\xA9 avec Chapeau, Ausschnitt, 1999, 148 x 116 cm; EasyDB, Universit\xC3\xA4t Bern, Institut f\xC3\xBCr Kunstgeschichte"
+- "Pablo Picasso. Sitzende mit Fisch-Hut, Ausschnitt, 1942, Amsterdam; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Max Ernst. C\xC2\xB4est le chapeau qui fait l\xC2\xB4homme, Ausschnitt, 1920, New York; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "Andr\xC3\xA8 Adolphe Eugen\xC3\xA9 Disd\xC3\xA9ri. Prinz von Wales, Ausschnitt, 1857, Fotografie; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+title: "H\xC3\xBCte, Hoedjes, Hats"
+author: Bettina Pfleging
+subtitle: Chapeau!
+repeat: 1 4 8
+date: 2014/07/13
+teaser: "In Europa war der Hut bis in die 1960er Jahre selbstverst\xC3\xA4ndlicher Bestandteil der Kleidung..."
+collection: 40662
+---
+In Europa war der Hut bis in die 1960er Jahre selbstverständlicher Bestandteil der Kleidung. Nicht nur in seiner Funktion zum Schutz gegen Kälte, Nässe oder Sonnenstrahlung, sondern auch als wichtiges Accessoire, als Statussymbol. Bei dem Pferderennen im englischen Ascot wird sogar heute noch das Tragen eines Hutes erwartet. Modisch gesehen hat der Hut viele Entwicklungen erfahren und auch höchst fantasievolle Formen angenommen.
+In der Ausstellung stehen nicht nur der Wandel der Hutmode über die Jahre, sondern auch die Geschichte der gesellschaftlichen Benimm- und Anstandsregeln des Huttragens im Fokus. So geht die Geste des Hutabnehmens bei der Begrüßung als Ehrerbietung mindestens bis ins frühe 13. Jahrhundert zurück. Und auch heute sagen wir noch „Hut ab!“ als Zeichen unserer Hochachtung.
+
+"*„Chapeau! 150 Jahre Hutgeschichte(n)“*(Ausstellung)":http://www.industriemuseum.lvr.de/de/ratingen/ausstellungen_5/chapeau/chapeau_1.html
+15. Juni 2014 bis 19. April 2015,  LVR-Industriemuseum, Textilfabrik Cromford Ratingen
