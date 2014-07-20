@@ -1,0 +1,23 @@
+--- 
+layout: series
+descriptions: 
+- "Pieter Cornelis Wonder. Zeit, Ausschnitt, 1810, 124 x 107 cm, Amsterdam; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Luc Tuymans. Die Zeit 3/4, Ausschnitt, 1988; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Salvador Dali. Die Best\xC3\xA4ndigkeit der Erinnerung (Die zerrinnende Zeit, Die weichen Uhren), Ausschnitt, 1931, 26,3 x 36,5 cm, New York; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Wolfgang Petrovsky. Eingekochte Zeit, 1990; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Ren\xC3\xA9 Magritte. La dur\xC3\xA9e poignard\xC3\xA9e (Die durchbohrte Zeit), Ausschnitt, 1938, Chicago; ArtICON, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "On Kawara. TODAY Series (Date Paintings), Ausschnitt, seit 1966, 20 x 29,5 x 5 cm; DadaWeb, Universit\xC3\xA4t zu K\xC3\xB6ln, Kunsthistorisches Institut, Universit\xC3\xA4t zu K\xC3\xB6ln"
+- "John Covert. Time, Ausschnitt, 1919, New Haven; Digitale Diathek, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstgeschichte, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Jochen Gerz. Skizze zur Aufnahmesituation f\xC3\xBCr \xE2\x80\x9EDie kleine Zeit\xE2\x80\x9C, 2000; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+title: Zeit und Kunst
+author: Bettina Pfleging
+subtitle: "#ktMKunstZeit"
+repeat: 3 4 5
+date: 2014/07/20
+teaser: "Die Zeit besch\xC3\xA4ftigt uns. Auch in der Kunst..."
+collection: 40930
+---
+Die Zeit beschäftigt uns. Auch in der Kunst ist sie auf sehr unterschiedliche Art und Weise ein wiederkehrendes Thema, in allen Facetten. Die figürliche Darstellung als Vater Zeit gehört genauso dazu wie die enorme Anzahl von Daten und Tagen auf Tafeln. Erinnerungen als eingekochte oder zerrinnende Zeit, Schweigen nach dem Stellen einer Frage als kleine Zeit oder Auseinandersetzungen mit Einsteins Relationstheorie sind nur einige Beispiele der künstlerischen Schaffensprozesse.
+Es gibt natürlich noch viel mehr. In einer der ersten Aktionen sammelt das geplante virtuelle Museum der Zeit Hinweise, Links, Fotos, Videos, Texte und Präsentationen aller Art zu Zeit und Zeitlichem in der Kunst, quer durch die Zeit.
+
+"*„know time. Museum der Zeit“ sammelt Zeit in der Kunst.*(Aktion)":http://know-time.de/wir-sammeln-zeit-in-der-kunst/
