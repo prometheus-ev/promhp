@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Leonardo da Vinci. Armbrust-Schnellfeuer-Mechanismus, Ausschnitt, Codex Atlanticus; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Leonardo da Vinci. Modell eines Panzerwagens, Ausschnitt; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Leonardo da Vinci. Wurfmaschine mit gezahnter Sperre, Ausschnitt, Codex Atlanticus; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Leonardo da Vinci. Studien f\xC3\xBCr Festungen, Ausschnitt, 1478/1519, Mailand; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Leonardo da Vinci. Riesige Armbrust, Ausschnitt, um 1488, Mailand; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Leonardo da Vinci. Hebevorrichtung f\xC3\xBCr einen Balken, Ausschnitt, Codex Madrid I, 15. Jahrhundert, Madrid; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Leonardo da Vinci. Hydrotechnische Vorrichtungen (archimedische Schraube) und andere Studien, Ausschnitt, Codex Atlanticus, um 1478-1480, 39,7 x 28,5 cm, Mailand; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Leonardo da Vinci Temperierte Feder mit Sprossenrad, Ausschnitt, Codex Madrid I, 15. Jahrhundert, Madrid; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+title: Leonardo da Vinci
+author: Bettina Pfleging
+subtitle: Nature Observations
+repeat: 1 6 8
+date: 2014/07/27
+teaser: He observed nature, recorded it in great detail...
+collection: 40960
+---
+He observed nature, recorded it in great detail with perfect drawings. He wrote down his thoughts about insects, plants or water in his notebooks. Leonardo da Vinci was impressed by the variety and beauty of nature. His observations also inspired him to technical designs for machines, installations and structures, always with the goal to provide support for people.
+The exhibition displays a large collection of facsimiles of da Vinci’s manuscripts as well as models that illustrate his ideas. Leonardo’s observations of nature will be alive in hands-on and multimedia demonstrations.
+
+"*Inspired by nature: Drawings and models by Leonardo da Vinci*(exhibition)":http://www.deutsches-museum.de/en/exhibitions/special-exhibitions/2013/leonardo/ 
+October 11 2013 – August 3 2014, Deutsches Museum, Munich

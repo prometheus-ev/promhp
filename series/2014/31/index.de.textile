@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Leonardo da Vinci. Armbrust-Schnellfeuer-Mechanismus, Ausschnitt, Codex Atlanticus; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Leonardo da Vinci. Modell eines Panzerwagens, Ausschnitt; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Leonardo da Vinci. Wurfmaschine mit gezahnter Sperre, Ausschnitt, Codex Atlanticus; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Leonardo da Vinci. Studien f\xC3\xBCr Festungen, Ausschnitt, 1478/1519, Mailand; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Leonardo da Vinci. Riesige Armbrust, Ausschnitt, um 1488, Mailand; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Leonardo da Vinci. Hebevorrichtung f\xC3\xBCr einen Balken, Ausschnitt, Codex Madrid I, 15. Jahrhundert, Madrid; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Leonardo da Vinci. Hydrotechnische Vorrichtungen (archimedische Schraube) und andere Studien, Ausschnitt, Codex Atlanticus, um 1478-1480, 39,7 x 28,5 cm, Mailand; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+- "Leonardo da Vinci Temperierte Feder mit Sprossenrad, Ausschnitt, Codex Madrid I, 15. Jahrhundert, Madrid; Imago, Humboldt-Universit\xC3\xA4t Berlin, Kunstgeschichtliches Seminar, Humboldt-Universit\xC3\xA4t Berlin"
+title: Leonardo da Vinci
+author: Bettina Pfleging
+subtitle: Naturbeobachtungen
+repeat: 1 6 8
+date: 2014/07/27
+teaser: Er beobachtete die Natur, zeichnete sie genau nach,...
+collection: 40960
+---
+Er beobachtete die Natur, zeichnete sie genau nach, notierte seine Gedanken über Insekten, Pflanzen oder Wasser in Notizbüchern. Leonardo da Vinci war beeindruckt von der Vielfalt und Schönheit der Natur. Seine Beobachtungen inspirierten ihn auch zu technischen Entwürfen für Maschinen, Anlagen und Bauwerken, immer mit dem Ziel, eine Entlastung für die Menschen zu schaffen.
+Die Ausstellung zeigt eine große Sammlung Faksimiles der Handschriften da Vincis sowie Modelle, die seine Ideen veranschaulichen. Per computeranimierter Zeichnungen werden Leonardos Naturbeobachtungen lebendig. 
+
+"*„Leonardo da Vinci : Vorbild Natur – Zeichnungen und Modelle“*(Ausstellung)":http://www.deutsches-museum.de/ausstellungen/sonderausstellungen/2013/leonardo/
+11. Oktober 2013 bis 3. August 2014, Deutsches Museum, München
