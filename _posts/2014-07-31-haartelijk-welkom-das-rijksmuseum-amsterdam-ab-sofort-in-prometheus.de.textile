@@ -8,6 +8,7 @@ tags:
 ---
 Das niederländische Nationalmuseum erzählt mit etwa 8000 Exponaten von der niederländischen Kunst und Geschichte seit dem Mittelalter sowie über wichtige Aspekte der europäischen und asiatischen Kunst.
 
-Mit 'Rijksstudio' hat das Museum einen großen Teil seiner Sammlung in höchauflösenden Abbildungen für alle Interessierten verfügbar gemacht und bereichert nun auch das prometheus-Bildarchiv.
+Mit 'Rijksstudio' hat das Museum einen großen Teil seiner Sammlung in höchauflösenden Abbildungen für alle Interessierten verfügbar gemacht und stellt diese auch zur Integration in andere Kontexte über eine API bereit. Dies haben wir zum Anlass genommen, die "Rijksmuseum Collection":<%=p 'source/open_access/amsterdam_rijksmuseum' %> in prometheus als Open Access-Datenbank einzubinden.
+Wir danken dem rijksmuseum für diese Bereicherung!
 
 Viel Spaß beim Erkunden!

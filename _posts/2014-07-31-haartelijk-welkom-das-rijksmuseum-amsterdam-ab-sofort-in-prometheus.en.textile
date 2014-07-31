@@ -8,6 +8,7 @@ tags:
 ---
 The Dutch national museum offers with its large collection a representative overview of Dutch art and history from the Middle Ages onwards, and of major aspects of European and Asian art. 
 
-With 'Rijksstudio' the museum makes a large part of its collection available to all, providing high-resolution images.
+With 'Rijksstudio' the museum makes a large part of its collection available to all, providing high-resolution images. Furthermore this is also offered for integration in other contexts by the Rijksmuseum API. This is why we decided to now also integrate the "Rijksmuseum Collection":<%=p 'source/open_access/amsterdam_rijksmuseum' %> as Open Access database in prometheus.
+We're grateful for this enrichment!
 
 Enjoy discovering!
