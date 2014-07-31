@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Haartelijk welkom \xE2\x80\x93 das Rijksmuseum Amsterdam ab sofort in prometheus!"
+author: t.nisters
+tags: 
+- news
+- databases
+---
+Das niederländische Nationalmuseum erzählt mit etwa 8000 Exponaten von der niederländischen Kunst und Geschichte seit dem Mittelalter sowie über wichtige Aspekte der europäischen und asiatischen Kunst.
+
+Mit 'Rijksstudio' hat das Museum einen großen Teil seiner Sammlung in höchauflösenden Abbildungen für alle Interessierten verfügbar gemacht und bereichert nun auch das prometheus-Bildarchiv.
+
+Viel Spaß beim Erkunden!

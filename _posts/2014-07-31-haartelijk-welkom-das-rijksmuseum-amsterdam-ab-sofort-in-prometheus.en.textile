@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "Haartelijk welkom \xE2\x80\x93 the Rijksmuseum Amsterdam now in prometheus!"
+author: t.nisters
+tags: 
+- news
+- databases
+---
+The Dutch national museum offers with its large collection a representative overview of Dutch art and history from the Middle Ages onwards, and of major aspects of European and Asian art. 
+
+With 'Rijksstudio' the museum makes a large part of its collection available to all, providing high-resolution images.
+
+Enjoy discovering!
