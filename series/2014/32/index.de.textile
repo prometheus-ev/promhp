@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Hans Burgkmair d. \xC3\x84.. Maximilian I., Ausschnitt, 1519, 30,6 x 22 cm, Paris; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Johannes Schreyer. Maximilian I. als Privatmann, Ausschnitt, nach 1555, M\xC3\xBCnchen; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Bernhard Strigel. Kaiser Maximilian I. mit einer Schriftrolle, Ausschnitt, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "J\xC3\xB6rg Muskat. B\xC3\xBCste K\xC3\xB6nig Maximilians I., Ausschnitt, 1498/1509, 34 x 31 x ca. 20 cm, Wien; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Peter Paul Rubens. Kaiser Maximilian I., Ausschnitt, 1618, Wien; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Hans Thoman. Kaiser Maximilian I., Ausschnitt, 1515, 39.5 x 29.6 cm, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Albrecht D\xC3\xBCrer. Kaiser Maximilian I., Ausschnitt, 1519, 74 x 61,5 cm, Wien; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Unbekannter K\xC3\xBCnstler. Kaiser Maximilian I. auf dem Totenbett, Ausschnitt, 1519, 45 x 33 cm, Innsbruck; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+title: Kaiser Maximilian I.
+author: Bettina Pfleging
+subtitle: Der letzte Ritter
+repeat: 1 2 3
+date: 2014/08/03
+teaser: "Nach dem Tod seines Vaters Friedrich III. wurde Maximilian I. 1493 Kaiser des Heiligen R\xC3\xB6mischen Reichs."
+collection: 40981
+---
+Nach dem Tod seines Vaters Friedrich III. wurde Maximilian I. 1493 Kaiser des Heiligen Römischen Reichs. Er baute den Herrschaftsbereich der Habsburger in seiner Zeit erheblich aus. Dabei halfen ihm Erbschaften, Heiraten und Kriege. Wegen seiner Leidenschaft für das mittelalterliche ritterliche Turnier wird er als der „letzte Ritter“ bezeichnet. Ihn reizte hier nicht nur die sportliche Herausforderung, sondern auch die politische Dimension des Turnierwesens.
+Bildergalerie, Audio- und Videopodcasts geben online interessante Einblicke in die Ausstellung und ihre Exponate, aber auch in die konservatorische Herausforderung, die prächtigen Rüstungen zu erhalten.
+
+"*„Kaiser Maximilian I. und das höfische Turnier“*(Ausstellung)":http://www.rem-mannheim.de/ausstellungen/kaiser-maximilian-i/ausstellung.html 
+13. April - 9. November 2014 Museum Zeughaus C5, Mannheim

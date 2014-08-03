@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Hans Burgkmair d. \xC3\x84.. Maximilian I., Ausschnitt, 1519, 30,6 x 22 cm, Paris; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Johannes Schreyer. Maximilian I. als Privatmann, Ausschnitt, nach 1555, M\xC3\xBCnchen; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Bernhard Strigel. Kaiser Maximilian I. mit einer Schriftrolle, Ausschnitt, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "J\xC3\xB6rg Muskat. B\xC3\xBCste K\xC3\xB6nig Maximilians I., Ausschnitt, 1498/1509, 34 x 31 x ca. 20 cm, Wien; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Peter Paul Rubens. Kaiser Maximilian I., Ausschnitt, 1618, Wien; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Hans Thoman. Kaiser Maximilian I., Ausschnitt, 1515, 39.5 x 29.6 cm, M\xC3\xBCnchen; ArteMIS, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen, Kunsthistorisches Institut, Ludwig-Maximilians-Universit\xC3\xA4t M\xC3\xBCnchen"
+- "Albrecht D\xC3\xBCrer. Kaiser Maximilian I., Ausschnitt, 1519, 74 x 61,5 cm, Wien; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Unbekannter K\xC3\xBCnstler. Kaiser Maximilian I. auf dem Totenbett, Ausschnitt, 1519, 45 x 33 cm, Innsbruck; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+title: Kaiser Maximilian I.
+author: Bettina Pfleging
+subtitle: The Last Knight
+repeat: 1 2 3
+date: 2014/08/03
+teaser: After the death of his father, Friedrich III., Maximilian I became Emperor of the Holy Roman Empire in 1493.
+collection: 40981
+---
+After the death of his father, Friedrich III., Maximilian I became Emperor of the Holy Roman Empire in 1493. The rule of the Habsburgs was significantly expanded by him. He was assisted by inheritances, marriages and wars. Because of his passion for the medieval chivalric tournament, he is known as the "last knight". He was attracted not only by the sporting challenge, but also by the political dimension of the tournament being. 
+Photo gallery, audio and video podcasts give online a good impression of the exhibition and their exhibits, but also an insight in the conservation challenge of preserving the magnificent armor.
+
+"*„Kaiser Maximilian I. und das höfische Turnier“*(exhibition)":http://www.rem-mannheim.de/ausstellungen/kaiser-maximilian-i/ausstellung.html 
+13 April to 9 November 2014 Museum Zeughaus C5, Mannheim
