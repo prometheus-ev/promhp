@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Ulrich von Richental. Das Konzil zu Konstanz. Konstanzer Richental-Chronik, Detail: Der Papst auf Reisen - Vortragen der Monstranz, Ausschnitt, um 1465, Buchmalerei, 390 x 290 mm, Konstanz; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Ulrich von Richental. Das Konzil zu Konstanz. Konstanzer Richental-Chronik, Detail: Sitzung des Konzils im M\xC3\xBCnster, Ausschnitt, um 1465, Buchmalerei, 390 x 290 mm, Konstanz; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Ulrich von Richental. Das Konzil zu Konstanz. Konstanzer Richental-Chronik, Detail: Heiligsprechung der heiligen Brigitta von Schweden - ein Bischof zeigt die Bruststatue..., Ausschnitt, um 1465, Buchmalerei, 390 x 290 mm, Konstanz; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Ulrich von Richental. Das Konzil zu Konstanz. Konstanzer Richental-Chronik, Detail: Verleihung der goldenen Rose - Gruppe von Adligen auf dem M\xC3\xBCnsterhof, Ausschnitt, um 1465, Buchmalerei, 390 x 290 mm, Konstanz; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Ulrich von Richental. Das Konzil zu Konstanz. Konstanzer Richental-Chronik, Detail: Fest der Florentiner Geldwechsler an Sankt Johannes - Festteilnehmer betreten Kirche..., Ausschnitt, um 1465, Buchmalerei, 390 x 290 mm, Konstanz; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Ulrich von Richental. Das Konzil zu Konstanz. Konstanzer Richental-Chronik, Detail: Das verschlossene Kaufhaus, Ausschnitt, um 1465, Buchmalerei, 390 x 290 mm, Konstanz; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Ulrich von Richental. Das Konzil zu Konstanz. Konstanzer Richental-Chronik, Detail: Der neugew\xC3\xA4hlte Kardinal Otto Colonna reitet vom Kaufhaus durch die Stadt zum M\xC3\xBCnster, Ausschnitt, um 1465, Buchmalerei, 390 x 290 mm, Konstanz; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+- "Ulrich von Richental. Das Konzil zu Konstanz. Konstanzer Richental-Chronik, Detail: Gottesdienst der Griechisch-Orthodoxen - Kommunion, Ausschnitt, um 1465, Buchmalerei, 390 x 290 mm, Konstanz; HeidICON - Europ\xC3\xA4ische Kunstgeschichte, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg, Universit\xC3\xA4tsbibliothek, Ruprecht-Karls-Universit\xC3\xA4t Heidelberg"
+title: Richental-Chronik
+author: Bettina Pfleging
+subtitle: The Council of Constance
+repeat: 1 4 6
+date: 2014/08/17
+teaser: The Constance Ulrich Richental documented the events of the Council of Constance between 1414 and 1418.
+collection: 41023
+---
+The Constance Ulrich Richental documented the events of the Council of Constance between 1414 and 1418. His chronicle provides information on the main events in this period. Spiritual and secular authorities came together in the episcopal city of Constance, to agree on a pope and to unite the church.
+Seven illustrated copies of Richental Chronicle are still preserved. They are at the center of the country's exhibition on the world event of the Middle Ages 600 years ago.
+
+"*„The Council of Constance“*(exhibition)":http://www.konstanzerkonzil2014.de/en/
+27 April to 21 September 2014, Council House, Konstanz 
