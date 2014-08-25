@@ -1,0 +1,24 @@
+--- 
+layout: series
+descriptions: 
+- "Gro\xC3\x9Fer Vogel, Senufo, Ausschnitt, Plastik/Holz, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Kpeliye'e Gesichtsmaske, Senufo, Elfenbeink\xC3\xBCste-Mali, 19. Jhdt., Z\xC3\xBCrich; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Maske der Senufo, Maskenaufsatz, Ausschnitt, 145 cm, Berlin; bpk - Bildportal der Kunstmuseen, Bildagentur f\xC3\xBCr Kunst, Kultur und Geschichte, Stiftung Preu\xC3\x9Fischer Kulturbesitz, Berlin"
+- "Maske, Dan (Elfenbeink\xC3\xBCste oder Liberia), 24,5 cm, Paris; ArtICON, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen, Institut f\xC3\xBCr Kunstp\xC3\xA4dagogik, Justus-Liebig-Universit\xC3\xA4t Gie\xC3\x9Fen"
+- "Mblo Gesichtsmaske, Baule, Elfenbeink\xC3\xBCste, 19. Jhdt., 17,8 cm, New York; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Maske f\xC3\xBCr den Goli-Tanz, Baule, Elfenbeink\xC3\xBCste, Genf; Diathek online, Universit\xC3\xA4t Trier, Fach Kunstgeschichte"
+- "M\xC3\xA4nnliche Figur, Baule, Elfenbeink\xC3\xBCste, Ausschnitt, 19. Jhdt. - fr\xC3\xBChes 20. Jhdt., 56,1 cm, Essen; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+- "Stehendes Paar, Senufo, Elfenbeink\xC3\xBCste-Mali, Ausschnitt, 19. Jhdt. \xE2\x80\x93 fr\xC3\xBChes 20. Jhdt., 35,5 x 12,5 x 6 cm, Moskau; Virtuelle Diathek, Universit\xC3\xA4t Hamburg, Kunstgeschichtliches Seminar"
+title: Masken und Skulpturen
+author: Bettina Pfleging
+subtitle: Westafrikanische Kunst
+repeat: 1 3 4
+date: 2014/08/25
+teaser: "Die K\xC3\xBCnstler der afrikanischen Kunst, der Baule, Dan und Senufo,..."
+collection: 41056
+---
+Die Künstler der afrikanischen Kunst, der Baule, Dan und Senufo, zeigen mit ihren Skulpturen und Masken Werke von beachtenswerter Schönheit.
+In der Ausstellung werden rund 200 Meisterwerke von etwa 40 Bildhauern präsentiert. Sie stellt die Hersteller der Kunstwerke ins Zentrum. Denn, auch wenn sie meist namentlich unbekannt sind, so lassen sich doch individuelle Künstlerpersönlichkeiten in den afrikanischen Kunstwerken erkennen.
+
+"*„Afrikanische Meister. Kunst der Elfenbeinküste“ *(Ausstellung)":http://www.bundeskunsthalle.de/ausstellungen/afrikanische-meister.html
+28. Juni  bis 5. Oktober 2014, Bundeskunsthalle Bonn
