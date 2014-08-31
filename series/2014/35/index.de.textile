@@ -20,5 +20,5 @@ collection: 41056
 Die Künstler der afrikanischen Kunst, der Baule, Dan und Senufo, zeigen mit ihren Skulpturen und Masken Werke von beachtenswerter Schönheit.
 In der Ausstellung werden rund 200 Meisterwerke von etwa 40 Bildhauern präsentiert. Sie stellt die Hersteller der Kunstwerke ins Zentrum. Denn, auch wenn sie meist namentlich unbekannt sind, so lassen sich doch individuelle Künstlerpersönlichkeiten in den afrikanischen Kunstwerken erkennen.
 
-"*„Afrikanische Meister. Kunst der Elfenbeinküste“ *(Ausstellung)":http://www.bundeskunsthalle.de/ausstellungen/afrikanische-meister.html
+"*„Afrikanische Meister. Kunst der Elfenbeinküste“*(Ausstellung)":http://www.bundeskunsthalle.de/ausstellungen/afrikanische-meister.html
 28. Juni  bis 5. Oktober 2014, Bundeskunsthalle Bonn
