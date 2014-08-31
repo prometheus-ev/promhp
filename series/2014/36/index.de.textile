@@ -1,0 +1,25 @@
+--- 
+layout: series
+descriptions: 
+- "Walker Evans. Subway Portrait, Ausschnitt, Fotografie, 1938-41, 20,1 x 25,5 cm, Los Angeles; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Walker Evans. Subway Portrait, Ausschnitt, Fotografie, 1938-41, 16,8 x 19,3 cm, Los Angeles; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Walker Evans. Subway Portrait, Ausschnitt, Fotografie, 1938-41, 17 x 15,3 cm, Los Angeles; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Walker Evans. Subway Portrait, Ausschnitt, Fotografie, 1938-41, Los Angeles; Diathek online, Technische Universit\xC3\xA4t Dresden, Institut f\xC3\xBCr Kunstgeschichte"
+- "Walker Evans. Subway Portrait, Ausschnitt, Fotografie, 1938-41, Los Angeles; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Walker Evans. Subway Portrait, Ausschnitt, Fotografie, 1938-41, 17,4 x 25,6 cm, Los Angeles; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Walker Evans. Subway Portrait, Ausschnitt, Fotografie, 1941, 15,7 x 17 cm, Los Angeles; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+- "Walker Evans. Subway Portrait, Ausschnitt, Fotografie, 1938-41, 16,9 x 17,8 cm, Los Angeles; DILPS, Ruhr-Universit\xC3\xA4t Bochum, Kunstgeschichtliches Institut, Ruhr-Universit\xC3\xA4t Bochum"
+title: "Evans\xE2\x80\x98 Subway-Portraits"
+author: Bettina Pfleging
+subtitle: Versteckte Kamera
+repeat: 1 4 7
+date: 2014/08/31
+teaser: "Walker Evans, einer der bedeutenden Fotografen des 20. Jahrhunderts, gilt als Pionier der dokumentarischen Schwarz-Wei\xC3\x9F-Fotografie. "
+collection: 41078
+---
+Walker Evans, einer der bedeutenden Fotografen des 20. Jahrhunderts, gilt als Pionier der dokumentarischen Schwarz-Weiß-Fotografie. Seine Bilder sind klar strukturiert, objektiv und genau. In seinem Projekt der New Yorker Subway-Portraits arbeitet er von 1938 bis 1941 mit versteckter Kamera unter dem Mantel, da das Fotografieren in der U-Bahn verboten ist. Die authentischen Porträts zeigen Emotionen von Menschen, die versunken sind in eigene Gedanken.
+Über 200 Originalfotos der Jahre 1928 bis 1974 zeigt die Retrospektive in Berlin. Ein Einblick in die gesamte Schaffensperiode des Amerikaners nicht nur zu Themen des amerikanischen Alltags.
+
+"*„Walker Evans. Ein Lebenswerk“* (Retrospektive)":http://www.berlinerfestspiele.de/de/aktuell/festivals/gropiusbau/programm_mgb/mgb14_evans/ausstellung_evans/veranstaltungsdetail_86998.php
+25. Juli bis 9. November 2014, Martin-Gropius-Bau, Berlin
+
