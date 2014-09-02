@@ -1,13 +1,56 @@
----
+--- 
 layout: default
-title: PKND (prometheus KünstlerNamensansetzungsDatei)
+title: "PKND (prometheus K\xC3\xBCnstlerNamensansetzungsDatei)"
 legacy_url: http://prometheus-bildarchiv.de/index.php?id=279&tx_ttnews[tt_news]=10&tx_ttnews[backPid]=56&cHash=579a948540
 ---
 h2. <%= page_title %>
 
 !<%=r 'files/images/2c76c52197.jpg' %>!
 
-XML-Format der Normdatei, wie sie zur Normalisierung der Künstlernamen in prometheus zum Einsatz kommt. In der Datei finden sich nur die Künstler, von denen verschiedene Ansetzungen ihres Namens bekannt sind.
+XML-Format der Normdatei, wie sie zur Normalisierung der Künstlernamen in prometheus zum Einsatz kommt. In der Datei finden sich nur die Künstler, von denen verschiedene Ansetzungen ihres Namens bekannt sind. Hier finden Sie ein Beispiel eines Datensatzes mit der Ansetzungsform "Raffaello Sanzio" und seinen Varianten. 
+
+[...]
+<term>
+<name>Raffaello Sanzio</name>
+- <sub>
+<name>Raffaello Santi</name>
+<name>Raffael</name>
+<name>Raphael</name>
+<name>Raphael Urbinus</name>
+<name>Sanctius Urbinus</name>
+<name>Urbinas, Raphael S.</name>
+<name>Raffaele Sanzio</name>
+<name>Santius, Raphael</name>
+<name>Raphael di Urbino</name>
+<name>Raphael Sanctius Urbinas</name>
+<name>Raffaello</name>
+<name>Santius, Raffaello</name>
+<name>Rafael</name>
+<name>Raffaelo Sanzio</name>
+<name>Raphael von Urbino</name>
+<name>Raphael Pictor</name>
+<name>Santi, Raffaello</name>
+<name>Sanzio, Raffaello</name>
+<name>Raphael Urbino</name>
+<name>Raffaelo Santi</name>
+<name>Santi, Raffaelo</name>
+<name>Sanzio, Raffaelo</name>
+<name>Raffael Santi</name>
+<name>Santi, Raffael</name>
+<name>Raphael Sanctus</name>
+<name>Raffaello di Urbino</name>
+<name>Sanzi, Raffaello</name>
+<name>Raphael Sanzio</name>
+<name>Sanzio, Raphael</name>
+<name>Raphael Urbinas</name>
+<name>Raffaello d'Urbino</name>
+<name>Raffaello da Urbino</name>
+<name>Raphael Urbin</name>
+<name>Raph. Sanctius</name>
+<name>Sanctius, Raph.</name>
+</sub>
+</term>
+[...]
 
 h3. Autorenschaft
 
